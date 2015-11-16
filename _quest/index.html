@@ -1,0 +1,26 @@
+---
+layout: default
+title: "kcdata - 任务"
+---
+
+任务
+===
+{{ site.data.config.site_url }}/quest/{id}.json
+
+参数
+---
+
+|---
+| 键 | 内容 | 类型 | 备注
+|:-:|:-:|:-:|-
+| id | 任务ID | Number |
+| code | 任务编号 | String |
+| type | 任务类型 | Number | 1=编成, 2=出击, 3=演习, 4=远征, 5=补给/入渠, 6=工厂, 7=改装, 8=其他
+| period | 任务周期 | Number | 1=一次, 2=日常, 3=周常, 4=特定日期(0\|3\|7), 5=特定日期(2\|8), 6=月常
+| title | 任务名称 | String |
+| detail | 任务详情 | String |
+| precondition | 任务前置ID | Array |
+| remark | 备注 | String |
+| bonus | 任务奖励 | Array | type: Number (1=资源, 2=舰娘, 3=道具, 4=装备, 5=家具, 6=其他)<br/>item: Array/Number/String (资源数组/ID/文字描述)<br/>count: Number (数量)
+| locale | 区域语言 | Object | title: String (任务名称翻译)<br/>detail: String (任务详情翻译)
+|---
