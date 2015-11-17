@@ -1,0 +1,11 @@
+---
+---
+[
+{% for quest in site.quest %}
+  {% if forloop.last %}
+    {{ quest.data | jsonify }}
+  {% else %}
+    {{ quest.data | jsonify }},
+  {% endif %}
+{% endfor %}
+]
