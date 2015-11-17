@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 128
+  wikiId: "A28"
+  type: 1
+  period: 1
+  title: "「第六戦隊」を編成せよ！"
+  detail: "「古鷹」「加古」「青葉」「衣笠」を基幹とした第六戦隊を編成せよ！"
+  resources: [250, 300, 0, 0]
+  prerequisites: [120]
+  bonuses:
+    -
+      type: 1
+      item: 54
+      count: 1
+  locales:
+    zh:
+      title: "「第六战队」编成！"
+      detail: "以「古鹰」「加古」「青叶」「衣笠」为基干编成第六战队！"
+      remark: ""
+---

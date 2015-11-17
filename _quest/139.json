@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 139
+  wikiId: "A37"
+  type: 1
+  period: 1
+  title: "潜水艦隊「第六艦隊」を編成せよ！"
+  detail: "「潜水母艦」と複数の潜水艦(4隻以上)からなる潜水艦隊「第六艦隊」を編成せよ！"
+  resources: [250, 250, 0, 0]
+  prerequisites: [127]
+  bonuses:
+    -
+      type: 1
+      item: 3
+      count: 3
+  locales:
+    zh:
+      title: "潜水舰队「第六舰队」编成！"
+      detail: "以「潜水母舰」(※旗舰)和复数潜水艇(4艘以上)编成潜水舰队「第六舰队」！"
+      remark: "要求：大鲸"
+---

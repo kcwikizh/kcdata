@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 111
+  wikiId: "A17"
+  type: 1
+  period: 1
+  title: "「扶桑」型戦艦姉妹の全２隻を編成せよ！"
+  detail: "扶桑型戦艦「扶桑」「山城」を同一艦隊に配属せよ！"
+  resources: [200, 200, 200, 200]
+  prerequisites: [108]
+  bonuses:
+    -
+      type: 1
+      item: 1
+      count: 2
+    -
+      type: 1
+      item: 3
+      count: 1
+  locales:
+    zh:
+      title: "「扶桑」型战舰姐妹全部2舰编成！"
+      detail: "将扶桑型战舰「扶桑」「山城」配属在同一舰队！"
+      remark: ""
+---

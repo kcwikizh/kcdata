@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 154
+  wikiId: "A52"
+  type: 1
+  period: 1
+  title: "海上突入部隊を編成せよ！"
+  detail: "戦艦「比叡」「霧島」軽巡「長良」駆逐艦「暁」「雷」「電」による海上突入部隊を編成せよ！"
+  resources: [0, 300, 0, 0]
+  prerequisites: [227]
+  bonuses:
+    -
+      type: 1
+      item: 1
+      count: 2
+    -
+      type: 1
+      item: 3
+      count: 2
+  locales:
+    zh:
+      title: "海上突入部队编成！"
+      detail: "以战舰「比睿」「雾岛」轻巡「长良」驱逐舰「晓」「雷」「电」编成海上突入部队！"
+      remark: ""
+---

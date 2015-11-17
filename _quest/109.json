@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 109
+  wikiId: "A14"
+  type: 1
+  period: 1
+  title: "「川内」型軽巡姉妹の全３艦を編成せよ！"
+  detail: "川内型軽巡洋艦「川内」「神通」「那珂」を同一艦隊に配属せよ！"
+  resources: [100, 0, 100, 0]
+  prerequisites: [106]
+  bonuses:
+    -
+      type: 5
+      item: "第3舰队开启"
+      count: 1
+  locales:
+    zh:
+      title: "「川内」型轻巡姐妹全部3舰编成！"
+      detail: "川内型轻巡洋舰，将「川内」「神通」「那珂」编成在同一舰队！"
+      remark: ""
+---

@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 117
+  wikiId: "A11"
+  type: 1
+  period: 1
+  title: "第２艦隊で空母機動部隊を編成せよ！"
+  detail: "第２艦隊に空母を配備して、空母機動部隊を編成せよ！"
+  resources: [100, 0, 0, 100]
+  prerequisites: [215]
+  bonuses:
+    -
+      type: 1
+      item: 2
+      count: 2
+  locales:
+    zh:
+      title: "在第二舰队编成空母机动部队！"
+      detail: "在第二舰队配备空母，编成空母机动部队！"
+      remark: "配置正规空母或轻空母\n水上机母舰不可\n外加配置驱逐舰*2"
+---

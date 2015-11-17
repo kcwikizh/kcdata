@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 130
+  wikiId: "A30"
+  type: 1
+  period: 1
+  title: "「第一水雷戦隊」を編成せよ！"
+  detail: "「阿武隈」「曙」「潮」「霞」「不知火」を中核とした「第一水雷戦隊」を編成せよ！"
+  resources: [200, 300, 0, 0]
+  prerequisites: [129]
+  bonuses:
+    -
+      type: 1
+      item: 50
+      count: 1
+  locales:
+    zh:
+      title: "「第一水雷战队」编成！"
+      detail: "以「阿武隈」「曙」「潮」「霞」「不知火」为核心编成第一水雷战队！"
+      remark: ""
+---

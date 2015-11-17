@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 131
+  wikiId: "A31"
+  type: 1
+  period: 1
+  title: "「第八駆逐隊」を編成せよ！"
+  detail: "「朝潮」「満潮」「大潮」「荒潮」4隻による第八駆逐隊を編成せよ！"
+  resources: [150, 150, 0, 0]
+  prerequisites: [125]
+  bonuses:
+    -
+      type: 1
+      item: 3
+      count: 3
+  locales:
+    zh:
+      title: "「第八驱逐队」编成！"
+      detail: "以「朝潮」「满潮」「大潮」「荒潮」4艘编成第八驱逐队！"
+      remark: "只配置任务要求的舰娘"
+---

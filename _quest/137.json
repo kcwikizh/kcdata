@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 137
+  wikiId: "A35"
+  type: 1
+  period: 1
+  title: "「第五戦隊」を編成せよ！"
+  detail: "「妙高」「那智」「羽黒」を基幹とした第五戦隊を編成せよ！"
+  resources: [0, 0, 300, 0]
+  prerequisites: [248]
+  bonuses:
+    -
+      type: 1
+      item: 3
+      count: 5
+  locales:
+    zh:
+      title: "「第五战队」编成！"
+      detail: "以「妙高」「那智」「羽黑」为基干编成第五战队！"
+      remark: ""
+---

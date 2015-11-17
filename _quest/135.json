@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 135
+  wikiId: "WA02"
+  type: 1
+  period: 1
+  title: "新たなる旅立ち！"
+  detail: "第一艦隊旗艦に強い絆を結んだLv.100以上の艦娘を配備した6隻の艦隊を編成せよ！"
+  resources: [200, 200, 200, 200]
+  prerequisites: [245]
+  bonuses:
+    -
+      type: 1
+      item: 50
+      count: 1
+  locales:
+    zh:
+      title: "新的旅程！"
+      detail: "在第一舰队旗舰配备结下了强力羁绊(Lv.100以上)的舰娘编成6艘组成的舰队。"
+      remark: "第一舰队旗舰\n配置100级以上的舰娘"
+---

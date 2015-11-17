@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 106
+  wikiId: "A7"
+  type: 1
+  period: 1
+  title: "「重巡戦隊」を編成せよ！"
+  detail: "重巡洋艦２隻を擁する重巡艦隊を編成せよ！"
+  resources: [0, 70, 0, 30]
+  prerequisites: [105]
+  bonuses:
+    -
+      type: 1
+      item: 1
+      count: 1
+  locales:
+    zh:
+      title: "「重巡战队」编成！"
+      detail: "编成拥有2艘重巡的重巡舰队！"
+      remark: ""
+---

@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 134
+  wikiId: "WA01"
+  type: 1
+  period: 1
+  title: "式の準備！(その参)"
+  detail: "第一艦隊旗艦に練度の高い(Lv.90以上～99以下)艦娘を配備して気持ちを整理せよ！"
+  resources: [88, 88, 88, 88]
+  prerequisites: [306]
+  bonuses:
+    -
+      type: 1
+      item: 12
+      count: 1
+  locales:
+    zh:
+      title: "仪式的准备！(三)"
+      detail: "在第一舰队旗舰配备高练度(Lv.90～99)的舰娘调整心情！"
+      remark: "第一舰队旗舰\n配置90级以上的舰娘\n大于100级则不可"
+---

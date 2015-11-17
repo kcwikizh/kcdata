@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 108
+  wikiId: "A8"
+  type: 1
+  period: 1
+  title: "「天龍」型軽巡姉妹の全２艦を編成せよ！"
+  detail: "天龍型軽巡洋艦「天龍」「龍田」を同一艦隊に配属せよ！"
+  resources: [100, 100, 100, 50]
+  prerequisites: [105]
+  bonuses:
+    -
+      type: 1
+      item: 2
+      count: 2
+  locales:
+    zh:
+      title: "「天龙」型轻巡姐妹全部2舰编成！"
+      detail: "将天龙型轻巡洋舰「天龙」「龙田」配备在同一舰队！"
+      remark: ""
+---

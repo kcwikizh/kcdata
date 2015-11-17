@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 123
+  wikiId: "A23"
+  type: 1
+  period: 1
+  title: "「第五航空戦隊」を編成せよ！"
+  detail: "「翔鶴」「瑞鶴」を基幹とし、駆逐艦2隻を加えた第五航空戦隊を編成せよ！"
+  resources: [300, 0, 0, 300]
+  prerequisites: [122]
+  bonuses:
+    -
+      type: 1
+      item: 50
+      count: 1
+  locales:
+    zh:
+      title: "「第五航空战队」编成！"
+      detail: "以「翔鹤」「瑞鹤」为基干，加上两只驱逐舰编成第五航空战队！"
+      remark: ""
+---

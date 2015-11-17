@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 161
+  wikiId: "A56"
+  type: 1
+  period: 1
+  title: "「第五航空戦隊」を再編成せよ！"
+  detail: "「翔鶴」「瑞鶴」と随伴駆逐艦「朧」「秋雲」を基幹とした第五航空戦隊を再編成せよ！"
+  resources: [300, 0, 0, 300]
+  prerequisites: [123, 264]
+  bonuses:
+    -
+      type: 1
+      item: 3
+      count: 3
+  locales:
+    zh:
+      title: "「第五航空战队」再次编成！"
+      detail: "以「翔鹤」、「瑞鹤」及伴随驱逐舰「胧」「秋云」为基干再次编成第五航空战队！"
+      remark: "编成任务剩余位置舰娘任意即可"
+---

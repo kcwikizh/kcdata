@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 167
+  wikiId: "A62"
+  type: 1
+  period: 1
+  title: "新航空戦隊を編成せよ！"
+  detail: "改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！"
+  resources: [0, 300, 300, 300]
+  prerequisites: [632]
+  bonuses:
+    -
+      type: 1
+      item: 59
+      count: 1
+    -
+      type: 1
+      item: 70
+      count: 1
+  locales:
+    zh:
+      title: "“新航空战队”编成！"
+      detail: "改二改装完成的两艘翔鹤型航空母舰及其护卫舰编成新的航空战队！"
+      remark: "翔鹤改二、翔鹤改二甲都可，瑞鹤同理\n驱逐舰两艘以上"
+---

@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 127
+  wikiId: "A27"
+  type: 1
+  period: 1
+  title: "中規模潜水艦隊を編成せよ！"
+  detail: "伊号潜水艦3隻以上からなる潜水艦隊を編成せよ！"
+  resources: [150, 150, 0, 0]
+  prerequisites: [121]
+  bonuses:
+    -
+      type: 1
+      item: 54
+      count: 1
+  locales:
+    zh:
+      title: "中规模潜水舰队编成！"
+      detail: "以3艘以上伊号潜水艇编成潜水舰队！"
+      remark: "潜水艇，潜水空母均可"
+---

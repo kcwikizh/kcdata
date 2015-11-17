@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 138
+  wikiId: "A36"
+  type: 1
+  period: 1
+  title: "新編「第二航空戦隊」を編成せよ！"
+  detail: "「飛龍改二」(※旗艦)及び「蒼龍」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！"
+  resources: [0, 0, 0, 400]
+  prerequisites: [128]
+  bonuses:
+    -
+      type: 1
+      item: 1
+      count: 2
+    -
+      type: 1
+      item: 3
+      count: 2
+  locales:
+    zh:
+      title: "新编「第二航空战队」编成！"
+      detail: "以「飞龙改二」(※旗舰)和「苍龙」为基干编成二航战（需要驱逐舰2艘）！"
+      remark: "飞龙改二必须为旗舰"
+---

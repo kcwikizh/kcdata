@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 156
+  wikiId: "A54"
+  type: 1
+  period: 1
+  title: "「第一水雷戦隊」北方突入準備！"
+  detail: "「阿武隈」を旗艦として「響」「初霜」「若葉」「五月雨」「島風」による一水戦を編成せよ！"
+  resources: [150, 150, 0, 0]
+  prerequisites: [240]
+  bonuses:
+    -
+      type: 1
+      item: 1
+      count: 2
+    -
+      type: 1
+      item: 11
+      count: 1
+  locales:
+    zh:
+      title: "「第一水雷战队」北方突入准备！"
+      detail: "以「阿武隈」为旗舰，「响」「初霜」「若叶」「五月雨」「岛风」编成一水战！"
+      remark: "Верный可"
+---

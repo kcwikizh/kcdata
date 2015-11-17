@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 153
+  wikiId: "A51"
+  type: 1
+  period: 1
+  title: "「第十八戦隊」を新編成せよ！"
+  detail: "軽巡洋艦「天龍」「龍田」を基幹戦力とした「第十八戦隊」を4隻以上で新編成せよ！"
+  resources: [180, 180, 0, 180]
+  prerequisites: [274]
+  bonuses:
+    -
+      type: 1
+      item: 3
+      count: 2
+  locales:
+    zh:
+      title: "「第十八战队」新编成！"
+      detail: "以轻巡洋舰「天龙」「龙田」为基干战力新编成4艘以上的「第十八战队」！"
+      remark: ""
+---

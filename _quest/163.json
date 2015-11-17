@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 163
+  wikiId: "A58"
+  type: 1
+  period: 1
+  title: "「第十六戦隊(第一次)」を編成せよ！"
+  detail: "「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！"
+  resources: [150, 150, 150, 0]
+  prerequisites: [216]
+  bonuses:
+    -
+      type: 1
+      item: 1
+      count: 2
+    -
+      type: 1
+      item: 3
+      count: 2
+  locales:
+    zh:
+      title: "编成「第十六战队(第一次)」！"
+      detail: "以「足柄」为旗舰、伴随舰「球磨」「长良」为基干编成第十六战队(第一次)！"
+      remark: "编成任务剩余位置舰娘任意即可\n「足柄」作为旗舰，足柄改及足柄改二可\n球磨改，长良改可"
+---

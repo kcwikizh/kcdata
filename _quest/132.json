@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 132
+  wikiId: "A32"
+  type: 1
+  period: 1
+  title: "「第十八駆逐隊」を編成せよ！"
+  detail: "「霞」「霰」「陽炎」「不知火」4隻による第十八駆逐隊を編成せよ！"
+  resources: [180, 180, 0, 0]
+  prerequisites: [239]
+  bonuses:
+    -
+      type: 1
+      item: 3
+      count: 1
+    -
+      type: 1
+      item: 50
+      count: 1
+  locales:
+    zh:
+      title: "「第十八驱逐队」编成！"
+      detail: "以「霞」「霰」「阳炎」「不知火」4艘编成第十八驱逐队！"
+      remark: "只配置任务要求的舰娘"
+---

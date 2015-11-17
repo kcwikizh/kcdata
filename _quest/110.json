@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 110
+  wikiId: "A15"
+  type: 1
+  period: 1
+  title: "「妙高」型重巡姉妹の全４隻を編成せよ！"
+  detail: "妙高型重巡洋艦「妙高」「那智」「足柄」「羽黒」を同一艦隊に配属せよ！"
+  resources: [150, 100, 150, 100]
+  prerequisites: [109]
+  bonuses:
+    -
+      type: 1
+      item: 1
+      count: 1
+    -
+      type: 1
+      item: 3
+      count: 1
+  locales:
+    zh:
+      title: "「妙高」型重巡姐妹全部4舰编成！"
+      detail: "将妙高型重巡洋舰「妙高」「那智」「足柄」「羽黑」配属在同一舰队！"
+      remark: ""
+---

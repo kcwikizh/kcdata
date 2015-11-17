@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 121
+  wikiId: "A21"
+  type: 1
+  period: 1
+  title: "「第四戦隊」を編成せよ！"
+  detail: "「愛宕」「高雄」「鳥海」「摩耶」を基幹とした第四戦隊を編成せよ！"
+  resources: [300, 150, 0, 0]
+  prerequisites: [119]
+  bonuses:
+    -
+      type: 1
+      item: 1
+      count: 2
+    -
+      type: 1
+      item: 3
+      count: 1
+  locales:
+    zh:
+      title: "「第四战队」编成！"
+      detail: "以「爱宕」「高雄」「鸟海」「摩耶」为基干编成第四战队！"
+      remark: ""
+---

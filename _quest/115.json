@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 115
+  wikiId: "A6"
+  type: 1
+  period: 1
+  title: "第２艦隊を編成せよ！"
+  detail: "二つ目の艦隊、第２艦隊の旗艦を指定して、第２艦隊を編成せよ！"
+  resources: [50, 50, 100, 0]
+  prerequisites: []
+  bonuses:
+    -
+      type: 1
+      item: 2
+      count: 1
+  locales:
+    zh:
+      title: "第二舰队编成！"
+      detail: "第二个舰队，即在第2舰队指定旗舰，编成第2舰队！"
+      remark: ""
+---

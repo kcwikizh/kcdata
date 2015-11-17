@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 149
+  wikiId: "A47"
+  type: 1
+  period: 1
+  title: "「第十一駆逐隊」を編成せよ！"
+  detail: "特I型駆逐艦「吹雪」「白雪」「初雪」「叢雲」4隻による第十一駆逐隊を編成せよ！"
+  resources: [110, 110, 110, 0]
+  prerequisites: [132]
+  bonuses:
+    -
+      type: 1
+      item: 3
+      count: 3
+  locales:
+    zh:
+      title: "「第十一驱逐队」编成！"
+      detail: "以特Ⅰ型驱逐舰「吹雪」「白雪」「初雪」「丛云」4艘编成第十一驱逐队！"
+      remark: "只配置任务要求的舰娘"
+---

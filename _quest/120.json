@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 120
+  wikiId: "A10"
+  type: 1
+  period: 1
+  title: "「第六駆逐隊」を編成せよ！"
+  detail: "「暁」「響」「雷」「電」4隻による第六駆逐隊を編成せよ！"
+  resources: [150, 150, 0, 0]
+  prerequisites: [116]
+  bonuses:
+    -
+      type: 1
+      item: 50
+      count: 1
+  locales:
+    zh:
+      title: "「第六驱逐队」编成！"
+      detail: "以「晓」「响」「雷」「电」4艘编成第六驱逐队！"
+      remark: "只配置任务要求的舰娘"
+---

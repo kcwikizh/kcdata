@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 165
+  wikiId: "A60"
+  type: 1
+  period: 1
+  title: "「第四航空戦隊」を編成せよ！"
+  detail: "航空戦艦「伊勢改」及び「日向改」を基幹戦力とした第四航空戦隊を編成せよ！"
+  resources: [0, 200, 0, 200]
+  prerequisites: [293]
+  bonuses:
+    -
+      type: 1
+      item: 4
+      count: 2
+    -
+      type: 3
+      item: 79
+      count: 1
+  locales:
+    zh:
+      title: "「第四航空战队」编成！"
+      detail: "以航空战舰伊势改及日向改为基干战力编成“第四航空战队”！"
+      remark: ""
+---

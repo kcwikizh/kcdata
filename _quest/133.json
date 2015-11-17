@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 133
+  wikiId: "A33"
+  type: 1
+  period: 1
+  title: "「第三十駆逐隊(第一次)」を編成せよ！"
+  detail: "「睦月」「如月」「弥生」「望月」4隻による第三十駆逐隊(第一次)を編成せよ！"
+  resources: [200, 200, 0, 0]
+  prerequisites: [131]
+  bonuses:
+    -
+      type: 1
+      item: 1
+      count: 2
+    -
+      type: 1
+      item: 50
+      count: 1
+  locales:
+    zh:
+      title: "「第三十驱逐队(第一次)」编成！"
+      detail: "以「睦月」「如月」「弥生」「望月」4艘编成第三十驱逐队（第一次）！"
+      remark: "只配置任务要求的舰娘"
+---

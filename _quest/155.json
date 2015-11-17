@@ -1,0 +1,22 @@
+---
+layout: json
+data:
+  id: 155
+  wikiId: "A53"
+  type: 1
+  period: 1
+  title: "新編「第六駆逐隊」を編成せよ！"
+  detail: "「暁改二」を旗艦とした「響」「雷」「電」4隻による第六駆逐隊を編成せよ！"
+  resources: [150, 150, 0, 0]
+  prerequisites: [224]
+  bonuses:
+    -
+      type: 3
+      item: 74
+      count: 1
+  locales:
+    zh:
+      title: "新编成「第六驱逐队」！"
+      detail: "以「晓改二」为旗舰，「响」「雷」「电」共4艘编成第六驱逐队！"
+      remark: "只配置任务要求的舰娘\nВерный可"
+---
