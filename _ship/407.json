@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 407
+  sort_no: 207
+  name: 潮改二
+  yomi: うしお
+  stype: 2
+  ctype: 1
+  cnum: 10
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 特型駆逐艦…綾波型の「潮」です。<br>もう下がってよろしいでしょうか…。
+  voice_f: 1
+  filename: fsgwccpesgfh
+  file_version: 17
+  book_table_id: [407, 925, 953, 969]
+  book_sinfo: 綾波型１０番艦の潮です。<br>レイテ沖海戦などの激戦を潜り抜け、運命のあの日、横須賀で御役目を終えるまで戦い抜きました。<br>あ、あの…沈めた敵艦の皆さんも…ホントはお助けしたいのです。ホントです！
+  stats:
+    taik: [33, 53]
+    souk: [15, 55]
+    houg: [10, 50]
+    raig: [25, 80]
+    tyku: [24, 74]
+    luck: [32, 80]
+    soku: 10
+    leng: 1
+    kaih: 64
+    tais: 32
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 2, 2, 1]
+    build_time: 20
+  graph:
+    boko_n: [56, 112]
+    boko_d: [64, 96]
+    kaisyu_n: [8, 8]
+    kaisyu_d: [20, -24]
+    kaizo_n: [32, 64]
+    kaizo_d: [48, 16]
+    map_n: [32, 112]
+    map_d: [32, 72]
+    ensyuf_n: [32, 80]
+    ensyuf_d: [80, 64]
+    ensyue_n: [16, 0]
+    battle_n: [24, 112]
+    battle_d: [32, 72]
+    wed_a: [176, 48]
+    wed_b: [128, 128]
+  wiki_id: 207
+  chinese_name: 潮改二
+---

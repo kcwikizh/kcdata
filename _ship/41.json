@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 41
+  sort_no: 78
+  name: 初霜
+  yomi: はつしも
+  stype: 2
+  ctype: 10
+  cnum: 4
+  backs: 2
+  after_lv: 20
+  after_ship_id: 241
+  get_mes: 初春型四番艦、初霜です。<br>皆さん、よろしくお願いします！
+  voice_f: 0
+  filename: qngptlxhrwhj
+  file_version: 10
+  book_table_id: [41]
+  book_sinfo: 初春型駆逐艦の４番艦、初霜です。<br>アリューシャン作戦、アッツ島沖海戦、キスカ島撤退作戦、マリアナ沖海戦、北号作戦、坊ノ岬沖海戦など、様々な激戦に参加しました！<br>ほんと、頑張ったんです！
+  stats:
+    taik: [16, 31]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [27, 69]
+    tyku: [9, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 20
+  graph:
+    boko_n: [-68, 51]
+    boko_d: [113, 55]
+    kaisyu_n: [1, -24]
+    kaisyu_d: [50, -33]
+    kaizo_n: [-47, -5]
+    kaizo_d: [8, -24]
+    map_n: [-39, 41]
+    map_d: [17, 45]
+    ensyuf_n: [-77, 40]
+    ensyuf_d: [19, 6]
+    ensyue_n: [-77, 0]
+    battle_n: [-101, 65]
+    battle_d: [57, 72]
+    wed_a: [304, 85]
+    wed_b: [148, 151]
+  wiki_id: 078
+  chinese_name: 初霜
+---

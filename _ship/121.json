@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 121
+  sort_no: 117
+  name: 三隈改
+  yomi: みくま
+  stype: 6
+  ctype: 9
+  cnum: 2
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 提督、三隈、新型になりましてよ
+  voice_f: 3
+  filename: yyvxfxdusxlx
+  file_version: 4
+  book_table_id: [121]
+  book_sinfo: 最上型１番艦のモガミンとは、とっても仲がいいのだけれど、仲が良すぎて彼女とは衝突することも多いの…ええ、そう…物理的に…私はちゃんと前見てるのよ？
+  stats:
+    taik: [50, 67]
+    souk: [37, 71]
+    houg: [24, 75]
+    raig: [18, 69]
+    tyku: [20, 59]
+    luck: [10, 69]
+    soku: 10
+    leng: 2
+    kaih: 34
+    tais: 0
+    slot_num: 4
+    max_eq: [5, 6, 5, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 50
+    bull_max: 55
+    broken: [2, 2, 13, 4]
+    pow_up: [2, 1, 3, 2]
+    build_time: 100
+  graph:
+    boko_n: [16, -16]
+    boko_d: [16, -4]
+    kaisyu_n: [18, 7]
+    kaisyu_d: [28, 7]
+    kaizo_n: [16, -68]
+    kaizo_d: [16, -95]
+    map_n: [30, -11]
+    map_d: [0, -16]
+    ensyuf_n: [20, -14]
+    ensyuf_d: [20, -59]
+    ensyue_n: [20, 0]
+    battle_n: [32, -26]
+    battle_d: [32, -26]
+    wed_a: [258, 139]
+    wed_b: [83, 106]
+  wiki_id: 117
+  chinese_name: 三隈改
+---

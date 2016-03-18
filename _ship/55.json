@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 55
+  sort_no: 47
+  name: 神通
+  yomi: じんつう
+  stype: 3
+  ctype: 16
+  cnum: 2
+  backs: 1
+  after_lv: 20
+  after_ship_id: 223
+  get_mes: あの……軽巡洋艦、神通です。<br>どうか、よろしくお願い致します……
+  voice_f: 0
+  filename: icmlpbiditqy
+  file_version: 8
+  book_table_id: [55]
+  book_sinfo: 神通です。近代化改装を受け、<br>第２水雷戦隊の旗艦を務めました。<br>コロンバンガラ島沖海戦では先頭に立って奮戦します。<br>でも、みんな私の事狙うんですもの…ひどいわ……。
+  stats:
+    taik: [26, 39]
+    souk: [11, 29]
+    houg: [14, 39]
+    raig: [24, 79]
+    tyku: [13, 49]
+    luck: [10, 49]
+    soku: 10
+    leng: 2
+    kaih: 38
+    tais: 20
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 200
+    after_bull: 200
+    fuel_max: 25
+    bull_max: 25
+    broken: [2, 2, 10, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 60
+  graph:
+    boko_n: [57, 63]
+    boko_d: [14, 80]
+    kaisyu_n: [10, 19]
+    kaisyu_d: [28, -16]
+    kaizo_n: [2, 8]
+    kaizo_d: [-7, -17]
+    map_n: [-28, 54]
+    map_d: [-54, 67]
+    ensyuf_n: [51, 45]
+    ensyuf_d: [-20, 17]
+    ensyue_n: [51, 0]
+    battle_n: [-7, 30]
+    battle_d: [-18, 50]
+    wed_a: [208, 74]
+    wed_b: [103, 119]
+  wiki_id: 047
+  chinese_name: 神通
+---

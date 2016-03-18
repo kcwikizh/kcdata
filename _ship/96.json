@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 96
+  sort_no: 86
+  name: 大潮
+  yomi: おおしお
+  stype: 2
+  ctype: 18
+  cnum: 2
+  backs: 1
+  after_lv: 20
+  after_ship_id: 249
+  get_mes: 駆逐艦、大潮です～！<br>小さな体に大きな魚雷！　お任せください。
+  voice_f: 0
+  filename: svcuufdqcqmy
+  file_version: 11
+  book_table_id: [96]
+  book_sinfo: 朝潮型駆逐艦の２番艦、大潮です！<br>各戦線で活躍した後、あのガダルカナル島撤収作戦にも3回出動しました。<br>支えてみせます！
+  stats:
+    taik: [16, 33]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 22
+  graph:
+    boko_n: [118, 85]
+    boko_d: [118, 85]
+    kaisyu_n: [22, 27]
+    kaisyu_d: [28, 20]
+    kaizo_n: [63, 30]
+    kaizo_d: [56, 6]
+    map_n: [59, 86]
+    map_d: [35, 82]
+    ensyuf_n: [87, 77]
+    ensyuf_d: [58, 19]
+    ensyue_n: [87, 0]
+    battle_n: [47, 63]
+    battle_d: [47, 63]
+    wed_a: [139, 67]
+    wed_b: [135, 138]
+  wiki_id: 086
+  chinese_name: 大潮
+---

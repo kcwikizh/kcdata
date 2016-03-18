@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 432
+  sort_no: 232
+  name: Graf Zeppelin
+  yomi: グラーフ・ツェッペリン
+  stype: 11
+  ctype: 63
+  cnum: 1
+  backs: 7
+  after_lv: 50
+  after_ship_id: 353
+  get_mes: Guten Morgen!　私が航空母艦、Graf Zeppelin だ。<br>貴方がこの艦隊を預かる提督なのだな。そうか……了解だ。
+  voice_f: 1
+  filename: tepoqqczfonx
+  file_version: 8
+  book_table_id: [432, 353]
+  book_sinfo: Graf Zeppelin級航空母艦一番艦、Graf Zeppelinだ。立体的な通商破壊戦を展開できる重武装の本格空母だ。建造には日本の空母「赤城」の技術も参考にしたらしい。日本の艦隊…か……楽しみだな。
+  stats:
+    taik: [70, 89]
+    souk: [29, 57]
+    houg: [10, 40]
+    raig: [0, 0]
+    tyku: [40, 70]
+    luck: [4, 39]
+    soku: 10
+    leng: 2
+    kaih: 29
+    tais: 0
+    slot_num: 3
+    max_eq: [20, 13, 10, 0, 0]
+    after_fuel: 1300
+    after_bull: 900
+    fuel_max: 55
+    bull_max: 65
+    broken: [8, 15, 32, 7]
+    pow_up: [2, 0, 3, 4]
+    build_time: 270
+  graph:
+    boko_n: [-8, 148]
+    boko_d: [96, 80]
+    kaisyu_n: [4, -24]
+    kaisyu_d: [48, -20]
+    kaizo_n: [-64, 80]
+    kaizo_d: [32, 8]
+    map_n: [-80, 112]
+    map_d: [64, 64]
+    ensyuf_n: [-56, 120]
+    ensyuf_d: [80, 52]
+    ensyue_n: [-96, 0]
+    battle_n: [-56, 136]
+    battle_d: [80, 72]
+    wed_a: [282, 16]
+    wed_b: [100, 88]
+  wiki_id: 232
+  chinese_name: 
+---

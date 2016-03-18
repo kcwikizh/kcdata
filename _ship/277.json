@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 277
+  sort_no: 1377
+  name: 赤城改
+  yomi: あかぎ
+  stype: 11
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: 航空母艦、赤城です。<br>空母機動部隊を編制するなら、私にお任せくださいませ。
+  voice_f: 1
+  filename: gtmwrbaniaud
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [77, 92]
+    souk: [40, 79]
+    houg: [0, 49]
+    raig: [0, 0]
+    tyku: [35, 79]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [20, 20, 32, 10, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 75
+    bull_max: 75
+    broken: [10, 15, 35, 12]
+    pow_up: [0, 0, 5, 4]
+    build_time: 270
+  graph:
+    boko_n: [42, 76]
+    boko_d: [39, 80]
+    kaisyu_n: [12, 22]
+    kaisyu_d: [28, 25]
+    kaizo_n: [9, 25]
+    kaizo_d: [36, -16]
+    map_n: [8, 68]
+    map_d: [-35, 64]
+    ensyuf_n: [48, 58]
+    ensyuf_d: [45, 23]
+    ensyue_n: [48, 0]
+    battle_n: [-7, 44]
+    battle_d: [-7, 44]
+    wed_a: [198, 65]
+    wed_b: [95, 100]
+  wiki_id: 006a
+  chinese_name: 赤城改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 123
+  sort_no: 120
+  name: 衣笠
+  yomi: きぬがさ
+  stype: 5
+  ctype: 13
+  cnum: 2
+  backs: 4
+  after_lv: 25
+  after_ship_id: 295
+  get_mes: はーいっ！衣笠さんの登場よ！<br>青葉ともども、よろしくね！
+  voice_f: 3
+  filename: tyumrhcigliq
+  file_version: 3
+  book_table_id: [123]
+  book_sinfo: カタパルトをお初装備の衣笠さんよ、よろしくね。ウェーク島攻略や珊瑚海海戦、そして、ソロモン海のアイアンボトムサウンドでも大活躍！でも…飛行機っての？あれはちょっと嫌ね。
+  stats:
+    taik: [37, 49]
+    souk: [26, 37]
+    houg: [30, 54]
+    raig: [12, 59]
+    tyku: [16, 59]
+    luck: [20, 69]
+    soku: 10
+    leng: 2
+    kaih: 33
+    tais: 0
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 250
+    after_bull: 300
+    fuel_max: 35
+    bull_max: 50
+    broken: [2, 2, 10, 1]
+    pow_up: [2, 1, 0, 2]
+    build_time: 60
+  graph:
+    boko_n: [43, 47]
+    boko_d: [104, 55]
+    kaisyu_n: [10, 1]
+    kaisyu_d: [52, 4]
+    kaizo_n: [43, 13]
+    kaizo_d: [60, -2]
+    map_n: [8, 35]
+    map_d: [28, 56]
+    ensyuf_n: [17, 36]
+    ensyuf_d: [37, 28]
+    ensyue_n: [53, 0]
+    battle_n: [66, 42]
+    battle_d: [65, 42]
+    wed_a: [188, 95]
+    wed_b: [115, 124]
+  wiki_id: 120
+  chinese_name: 衣笠
+---

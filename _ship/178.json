@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 178
+  sort_no: 178
+  name: Bismarck drei
+  yomi: ビスマルク
+  stype: 8
+  ctype: 47
+  cnum: 1
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: Guten Tag.<br>私はビスマルク型戦艦のネームシップ、ビスマルク。<br>よおく覚えておくのよ。
+  voice_f: 3
+  filename: twvnkvqgyiru
+  file_version: 9
+  book_table_id: [178]
+  book_sinfo: ドイツの誇るビスマルク級超弩級戦艦のネームシップ、それが私よ。<br>ドイツらしい重厚かつ美しいデザインでしょう？いいのよ、もっと褒めても。<br>この海でも縦横無尽に活躍するわ。期待しなさい！
+  stats:
+    taik: [96, 99]
+    souk: [82, 95]
+    houg: [74, 99]
+    raig: [16, 36]
+    tyku: [35, 70]
+    luck: [22, 84]
+    soku: 10
+    leng: 3
+    kaih: 40
+    tais: 0
+    slot_num: 4
+    max_eq: [4, 4, 4, 4, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 110
+    bull_max: 155
+    broken: [12, 20, 42, 4]
+    pow_up: [4, 1, 2, 4]
+    build_time: 300
+  graph:
+    boko_n: [-72, 116]
+    boko_d: [64, 136]
+    kaisyu_n: [4, -4]
+    kaisyu_d: [24, -4]
+    kaizo_n: [-104, 60]
+    kaizo_d: [16, 32]
+    map_n: [-64, 116]
+    map_d: [24, 116]
+    ensyuf_n: [-48, 104]
+    ensyuf_d: [32, 88]
+    ensyue_n: [-96, 0]
+    battle_n: [-24, 88]
+    battle_d: [32, 112]
+    wed_a: [304, 16]
+    wed_b: [128, 112]
+  wiki_id: 178
+  chinese_name: 俾斯麦 drei
+---

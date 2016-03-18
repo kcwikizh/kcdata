@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 308
+  sort_no: 1404
+  name: 弥生改
+  yomi: やよい
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 初めまして、弥生、着任…。<br>あ、気を使わないでくれていい…です。
+  voice_f: 1
+  filename: ozjrctjajnpx
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [24, 39]
+    souk: [11, 39]
+    houg: [9, 39]
+    raig: [18, 69]
+    tyku: [12, 39]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [16, 60]
+    boko_d: [-16, 52]
+    kaisyu_n: [16, 0]
+    kaisyu_d: [40, -16]
+    kaizo_n: [40, 8]
+    kaizo_d: [-24, 0]
+    map_n: [32, 48]
+    map_d: [-8, 48]
+    ensyuf_n: [64, 48]
+    ensyuf_d: [-8, -8]
+    ensyue_n: [48, 0]
+    battle_n: [48, 64]
+    battle_d: [16, 64]
+    wed_a: [167, 76]
+    wed_b: [119, 125]
+  wiki_id: 164a
+  chinese_name: 弥生改
+---

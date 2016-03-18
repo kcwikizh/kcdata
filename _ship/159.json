@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 159
+  sort_no: 159
+  name: 神通改二
+  yomi: じんつう
+  stype: 3
+  ctype: 16
+  cnum: 2
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: あの……軽巡洋艦、神通です。<br>どうか、よろしくお願い致します……
+  voice_f: 1
+  filename: xyqotgpmnjih
+  file_version: 10
+  book_table_id: [159, 949]
+  book_sinfo: 神通です。近代化改装を受け、<br>第２水雷戦隊の旗艦を務めました。<br>コロンバンガラ島沖海戦では先頭に立って奮戦します。<br>でも、みんな私の事狙うんですもの…ひどいわ……。
+  stats:
+    taik: [50, 63]
+    souk: [29, 69]
+    houg: [27, 70]
+    raig: [38, 98]
+    tyku: [18, 68]
+    luck: [13, 79]
+    soku: 10
+    leng: 2
+    kaih: 41
+    tais: 40
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 25
+    bull_max: 35
+    broken: [2, 2, 10, 0]
+    pow_up: [1, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [64, 128]
+    boko_d: [96, 140]
+    kaisyu_n: [8, 16]
+    kaisyu_d: [56, 0]
+    kaizo_n: [44, 44]
+    kaizo_d: [44, 44]
+    map_n: [48, 112]
+    map_d: [128, 128]
+    ensyuf_n: [88, 120]
+    ensyuf_d: [128, 80]
+    ensyue_n: [80, 0]
+    battle_n: [72, 104]
+    battle_d: [96, 112]
+    wed_a: [160, 24]
+    wed_b: [112, 104]
+  wiki_id: 159
+  chinese_name: 神通改二
+---

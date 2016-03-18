@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 414
+  sort_no: 214
+  name: 山雲
+  yomi: やまぐも
+  stype: 2
+  ctype: 18
+  cnum: 6
+  backs: 4
+  after_lv: 35
+  after_ship_id: 328
+  get_mes: おはようございます～。<br>朝潮型駆逐艦六番艦、山雲です～。<br>よろしくお願い致します～。
+  voice_f: 1
+  filename: xthvimkarzgq
+  file_version: 13
+  book_table_id: [414]
+  book_sinfo: 朝潮型駆逐艦六番艦の山雲です～。<br>大阪生まれの横須賀育ちなの～。そうね、機雷とかは注意しないといけないわね～。<br>護衛や哨戒で活躍、そしてマリアナ、西村艦隊の一員としてレイテにも参加したわ～。
+  stats:
+    taik: [16, 33]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [7, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 23
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 140
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 22
+  graph:
+    boko_n: [120, 56]
+    boko_d: [80, 128]
+    kaisyu_n: [12, -8]
+    kaisyu_d: [40, -8]
+    kaizo_n: [80, -8]
+    kaizo_d: [48, 8]
+    map_n: [88, 48]
+    map_d: [64, 96]
+    ensyuf_n: [96, 32]
+    ensyuf_d: [80, 80]
+    ensyue_n: [88, 0]
+    battle_n: [112, 48]
+    battle_d: [64, 104]
+    wed_a: [112, 88]
+    wed_b: [112, 128]
+  wiki_id: 214
+  chinese_name: 山云
+---

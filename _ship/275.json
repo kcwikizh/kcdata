@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 275
+  sort_no: 1375
+  name: 長門改
+  yomi: ながと
+  stype: 9
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: 私が、戦艦長門だ。よろしく頼むぞ。<br>敵戦艦との殴り合いなら任せておけ。
+  voice_f: 1
+  filename: szgthkexanxl
+  file_version: 16
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [90, 98]
+    souk: [85, 98]
+    houg: [90, 99]
+    raig: [0, 0]
+    tyku: [33, 99]
+    luck: [32, 99]
+    soku: 5
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 100
+    bull_max: 160
+    broken: [20, 30, 50, 3]
+    pow_up: [5, 0, 2, 5]
+    build_time: 300
+  graph:
+    boko_n: [9, 78]
+    boko_d: [47, 85]
+    kaisyu_n: [12, 0]
+    kaisyu_d: [28, 17]
+    kaizo_n: [-39, 23]
+    kaizo_d: [-7, 1]
+    map_n: [-30, 77]
+    map_d: [-24, 73]
+    ensyuf_n: [-5, 69]
+    ensyuf_d: [-6, 31]
+    ensyue_n: [-5, 0]
+    battle_n: [-36, 57]
+    battle_d: [0, 61]
+    wed_a: [240, 60]
+    wed_b: [90, 96]
+  wiki_id: 001a
+  chinese_name: 长门改
+---

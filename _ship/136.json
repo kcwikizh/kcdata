@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 136
+  sort_no: 136
+  name: 大和改
+  yomi: やまと
+  stype: 9
+  ctype: 37
+  cnum: 1
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: 大和型戦艦、一番艦、大和。<br>対空火器を大幅強化致しました！
+  voice_f: 3
+  filename: drdaipjrohfl
+  file_version: 5
+  book_table_id: [136]
+  book_sinfo: 大和型戦艦一番艦、大和です。<br>艦隊決戦の切り札として、呉海軍工廠で極秘建造されました。当時の最高技術の粋を結集されたこの体、二番艦の武蔵と共に、連合艦隊の中枢戦力として頑張ります！
+  stats:
+    taik: [96, 108]
+    souk: [92, 118]
+    houg: [92, 139]
+    raig: [0, 0]
+    tyku: [68, 104]
+    luck: [13, 79]
+    soku: 5
+    leng: 4
+    kaih: 28
+    tais: 0
+    slot_num: 4
+    max_eq: [7, 7, 7, 7, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 250
+    bull_max: 325
+    broken: [35, 50, 110, 20]
+    pow_up: [6, 0, 3, 6]
+    build_time: 480
+  graph:
+    boko_n: [-16, 59]
+    boko_d: [-16, 140]
+    kaisyu_n: [20, 0]
+    kaisyu_d: [44, 0]
+    kaizo_n: [-10, -12]
+    kaizo_d: [-11, 16]
+    map_n: [-22, 48]
+    map_d: [-49, 92]
+    ensyuf_n: [32, 42]
+    ensyuf_d: [20, 80]
+    ensyue_n: [-3, 0]
+    battle_n: [-14, 38]
+    battle_d: [-14, 96]
+    wed_a: [223, 93]
+    wed_b: [101, 96]
+  wiki_id: 136
+  chinese_name: 大和改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 246
+  sort_no: 1346
+  name: 五月雨改
+  yomi: さみだれ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 五月雨っていいます！よろしくお願いします。<br>護衛任務はお任せください！
+  voice_f: 1
+  filename: ofneitwqroxe
+  file_version: 12
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 48]
+    souk: [14, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [32, 101]
+    boko_d: [40, 119]
+    kaisyu_n: [14, 10]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-23, 46]
+    kaizo_d: [-19, 5]
+    map_n: [-11, 101]
+    map_d: [-56, 109]
+    ensyuf_n: [17, 88]
+    ensyuf_d: [-17, 49]
+    ensyue_n: [17, 0]
+    battle_n: [-40, 88]
+    battle_d: [-34, 88]
+    wed_a: [236, 29]
+    wed_b: [122, 147]
+  wiki_id: 083a
+  chinese_name: 五月雨改
+---

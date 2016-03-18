@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 142
+  sort_no: 142
+  name: 衣笠改二
+  yomi: きぬがさ
+  stype: 5
+  ctype: 13
+  cnum: 2
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: はーいっ！衣笠さんの登場よ！<br>青葉ともども、よろしくね！
+  voice_f: 3
+  filename: ykrokmtrnaqw
+  file_version: 5
+  book_table_id: [142, 986]
+  book_sinfo: カタパルトをお初装備の衣笠さんよ、よろしくね。ウェーク島攻略や珊瑚海海戦、そして、ソロモン海のアイアンボトムサウンドでも大活躍！でも…飛行機っての？あれはちょっと嫌ね。
+  stats:
+    taik: [53, 65]
+    souk: [35, 73]
+    houg: [38, 78]
+    raig: [24, 74]
+    tyku: [22, 66]
+    luck: [13, 65]
+    soku: 10
+    leng: 2
+    kaih: 38
+    tais: 0
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 35
+    bull_max: 65
+    broken: [3, 7, 16, 1]
+    pow_up: [2, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [16, 8]
+    boko_d: [-32, 112]
+    kaisyu_n: [32, -16]
+    kaisyu_d: [32, 16]
+    kaizo_n: [0, -32]
+    kaizo_d: [-40, 44]
+    map_n: [16, 0]
+    map_d: [-20, 96]
+    ensyuf_n: [80, 0]
+    ensyuf_d: [-24, 48]
+    ensyue_n: [64, 0]
+    battle_n: [64, 16]
+    battle_d: [-16, 96]
+    wed_a: [124, 126]
+    wed_b: [117, 128]
+  wiki_id: 142
+  chinese_name: 衣笠改二
+---

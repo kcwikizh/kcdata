@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 354
+  sort_no: 1434
+  name: 嵐改
+  yomi: あらし
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: や！　陽炎型駆逐艦、十六番艦、嵐だ！<br>司令、よろしくな！　逢えて嬉しいぜ！
+  voice_f: 3
+  filename: stvkbeqhwmmj
+  file_version: 8
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [16, 49]
+    luck: [12, 63]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [80, 132]
+    boko_d: [128, 128]
+    kaisyu_n: [8, -8]
+    kaisyu_d: [20, 0]
+    kaizo_n: [32, 80]
+    kaizo_d: [64, 64]
+    map_n: [40, 104]
+    map_d: [64, 112]
+    ensyuf_n: [82, 112]
+    ensyuf_d: [82, 112]
+    ensyue_n: [64, 0]
+    battle_n: [40, 112]
+    battle_d: [80, 128]
+    wed_a: [170, 16]
+    wed_b: [112, 104]
+  wiki_id: 254a
+  chinese_name: 
+---

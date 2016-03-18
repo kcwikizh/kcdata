@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 929
+  sort_no: 0
+  name: 
+  yomi: 
+  stype: 
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: syrrbygrimvl
+  file_version: 1
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [144, 136]
+    boko_d: [64, 80]
+    kaisyu_n: [16, 0]
+    kaisyu_d: [32, -32]
+    kaizo_n: [112, 80]
+    kaizo_d: [32, -16]
+    map_n: [112, 112]
+    map_d: [32, 48]
+    ensyuf_n: [128, 96]
+    ensyuf_d: [40, 32]
+    ensyue_n: [96, 0]
+    battle_n: [128, 120]
+    battle_d: [32, 64]
+    wed_a: [84, 16]
+    wed_b: [136, 112]
+  wiki_id: 
+  chinese_name: 
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 296
+  sort_no: 121
+  name: 千歳航改二
+  yomi: ちとせ
+  stype: 7
+  ctype: 15
+  cnum: 1
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: ダイエットして空母になった千歳です！<br>足も速くなったの。本でも出そうかしら！
+  voice_f: 3
+  filename: kavryopoywwx
+  file_version: 10
+  book_table_id: [296]
+  book_sinfo: 水上機母艦から空母に改装された千歳です。<br>ダイエットして体も絞って、脚も速くなったのよ。これなら機動部隊の一翼を担えるわ！頑張ります！
+  stats:
+    taik: [58, 79]
+    souk: [32, 65]
+    houg: [0, 34]
+    raig: [0, 0]
+    tyku: [30, 72]
+    luck: [13, 59]
+    soku: 10
+    leng: 1
+    kaih: 38
+    tais: 0
+    slot_num: 4
+    max_eq: [24, 16, 11, 8, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 45
+    bull_max: 40
+    broken: [5, 10, 24, 7]
+    pow_up: [0, 0, 3, 3]
+    build_time: 190
+  graph:
+    boko_n: [30, 70]
+    boko_d: [15, 75]
+    kaisyu_n: [6, -7]
+    kaisyu_d: [44, -11]
+    kaizo_n: [-4, 15]
+    kaizo_d: [-28, -13]
+    map_n: [14, 75]
+    map_d: [-15, 69]
+    ensyuf_n: [32, 59]
+    ensyuf_d: [-42, 7]
+    ensyue_n: [5, 0]
+    battle_n: [-45, 50]
+    battle_d: [-15, 50]
+    wed_a: [248, 67]
+    wed_b: [113, 120]
+  wiki_id: 121
+  chinese_name: 千岁航改二
+---

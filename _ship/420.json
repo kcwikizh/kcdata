@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 420
+  sort_no: 220
+  name: 叢雲改二
+  yomi: むらくも
+  stype: 2
+  ctype: 12
+  cnum: 5
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: あんたが司令官ね。<br>ま、せいぜい頑張りなさい！
+  voice_f: 3
+  filename: ugxgvgtjsxud
+  file_version: 12
+  book_table_id: [420, 992]
+  book_sinfo: 特型駆逐艦、５番艦の叢雲よ。<br>え、知らないって？　全く、ありえないわね。<br>南方作戦や、古鷹の救援、数々の作戦に参加した名艦の私を知らないって、あんた、もぐりでしょ！
+  stats:
+    taik: [31, 49]
+    souk: [14, 50]
+    houg: [14, 55]
+    raig: [32, 89]
+    tyku: [27, 74]
+    luck: [15, 57]
+    soku: 10
+    leng: 1
+    kaih: 50
+    tais: 28
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 2, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [136, 48]
+    boko_d: [136, 72]
+    kaisyu_n: [48, 0]
+    kaisyu_d: [64, 8]
+    kaizo_n: [64, 16]
+    kaizo_d: [64, 8]
+    map_n: [48, 24]
+    map_d: [48, 48]
+    ensyuf_n: [112, 8]
+    ensyuf_d: [112, 32]
+    ensyue_n: [48, 0]
+    battle_n: [56, 32]
+    battle_d: [64, 56]
+    wed_a: [120, 112]
+    wed_b: [120, 104]
+  wiki_id: 220
+  chinese_name: 丛云改二
+---

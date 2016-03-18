@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 34
+  sort_no: 71
+  name: 暁
+  yomi: あかつき
+  stype: 2
+  ctype: 5
+  cnum: 1
+  backs: 3
+  after_lv: 20
+  after_ship_id: 234
+  get_mes: 暁よ。<br>一人前のレディーとして扱ってよね！
+  voice_f: 0
+  filename: mtvkfikepcfr
+  file_version: 3
+  book_table_id: [34]
+  book_sinfo: 特Ⅲ型駆逐艦１番艦の暁よ。<br>吹雪型をベースに航行性能や航続距離を向上させたの。特型駆逐艦の最終完成形なんだから！<br>ちゃんとレディーとして活躍したのよ！<br>ほ、ほんとなんだからっ。
+  stats:
+    taik: [15, 30]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [27, 79]
+    tyku: [12, 39]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 42
+    tais: 20
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 20
+  graph:
+    boko_n: [17, 67]
+    boko_d: [58, 61]
+    kaisyu_n: [2, 6]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-65, 11]
+    kaizo_d: [-16, -28]
+    map_n: [-47, 60]
+    map_d: [-3, 51]
+    ensyuf_n: [-23, 64]
+    ensyuf_d: [-1, 5]
+    ensyue_n: [-23, 0]
+    battle_n: [-43, 76]
+    battle_d: [17, 67]
+    wed_a: [246, 69]
+    wed_b: [142, 144]
+  wiki_id: 071
+  chinese_name: 晓
+---

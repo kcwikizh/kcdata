@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 442
+  sort_no: 242
+  name: Roma
+  yomi: ローマ
+  stype: 8
+  ctype: 58
+  cnum: 4
+  backs: 6
+  after_lv: 35
+  after_ship_id: 447
+  get_mes: ヴィットリオ・ヴェネト級戦艦４番艦、ローマです、よろしく。<br>何？あまりジロジロ見ないでくださいね。
+  voice_f: 1
+  filename: gyywcqqfnjkc
+  file_version: 14
+  book_table_id: [442, 958]
+  book_sinfo: イタリア生まれの最新鋭艦よ。ヴィットリオ・ヴェネト級戦艦４番艦、ローマ。<br>そうね、あの時は姉さんと一緒だったわ。あの化け物を落とされた日。忘れないわ、あの痛み。絶対忘れないんだから。
+  stats:
+    taik: [88, 94]
+    souk: [71, 85]
+    houg: [79, 98]
+    raig: [0, 0]
+    tyku: [44, 74]
+    luck: [6, 39]
+    soku: 10
+    leng: 4
+    kaih: 27
+    tais: 0
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 900
+    after_bull: 1500
+    fuel_max: 130
+    bull_max: 150
+    broken: [10, 18, 37, 6]
+    pow_up: [3, 0, 1, 3]
+    build_time: 300
+  graph:
+    boko_n: [8, 144]
+    boko_d: [-16, 128]
+    kaisyu_n: [16, -8]
+    kaisyu_d: [28, -12]
+    kaizo_n: [-64, 88]
+    kaizo_d: [-80, 64]
+    map_n: [-48, 136]
+    map_d: [-64, 128]
+    ensyuf_n: [-16, 128]
+    ensyuf_d: [-16, 104]
+    ensyue_n: [-48, 0]
+    battle_n: [-40, 136]
+    battle_d: [-48, 112]
+    wed_a: [264, 0]
+    wed_b: [131, 120]
+  wiki_id: 242
+  chinese_name: 罗马
+---

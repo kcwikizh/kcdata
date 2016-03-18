@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 257
+  sort_no: 1357
+  name: 文月改
+  yomi: ふみづき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: あたし、文月っていうの。<br>よろしくぅ～。
+  voice_f: 1
+  filename: ysgtnamukxoi
+  file_version: 12
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [24, 39]
+    souk: [11, 39]
+    houg: [9, 39]
+    raig: [18, 69]
+    tyku: [12, 39]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [100, -10]
+    boko_d: [97, 104]
+    kaisyu_n: [26, 6]
+    kaisyu_d: [28, 7]
+    kaizo_n: [45, -65]
+    kaizo_d: [42, 9]
+    map_n: [58, -14]
+    map_d: [1, 94]
+    ensyuf_n: [90, -14]
+    ensyuf_d: [28, 40]
+    ensyue_n: [90, 0]
+    battle_n: [42, -2]
+    battle_d: [32, 109]
+    wed_a: [139, 149]
+    wed_b: [140, 143]
+  wiki_id: 034a
+  chinese_name: 文月改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 221
+  sort_no: 1321
+  name: 名取改
+  yomi: なとり
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 名取といいます。<br>ご迷惑をおかけしないように、が、頑張ります。
+  voice_f: 0
+  filename: aqgjvutybsbk
+  file_version: 4
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [43, 59]
+    souk: [29, 59]
+    houg: [20, 69]
+    raig: [24, 89]
+    tyku: [15, 59]
+    luck: [12, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 25
+    bull_max: 30
+    broken: [2, 2, 10, 0]
+    pow_up: [1, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [76, 132]
+    boko_d: [26, 132]
+    kaisyu_n: [6, 4]
+    kaisyu_d: [26, 7]
+    kaizo_n: [76, 56]
+    kaizo_d: [42, 56]
+    map_n: [70, 112]
+    map_d: [0, 112]
+    ensyuf_n: [100, 120]
+    ensyuf_d: [60, 80]
+    ensyue_n: [30, 0]
+    battle_n: [56, 110]
+    battle_d: [54, 110]
+    wed_a: [119, 0]
+    wed_b: [132, 140]
+  wiki_id: 044a
+  chinese_name: 名取改
+---

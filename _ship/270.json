@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 270
+  sort_no: 1370
+  name: 愛宕改
+  yomi: あたご
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 私は愛宕、提督、覚えてくださいね。
+  voice_f: 1
+  filename: gbkqnzirjyid
+  file_version: 8
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [57, 69]
+    souk: [45, 75]
+    houg: [48, 77]
+    raig: [24, 79]
+    tyku: [20, 69]
+    luck: [10, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 40
+    bull_max: 70
+    broken: [4, 7, 20, 2]
+    pow_up: [3, 1, 1, 2]
+    build_time: 85
+  graph:
+    boko_n: [87, 99]
+    boko_d: [61, 110]
+    kaisyu_n: [8, 20]
+    kaisyu_d: [28, 16]
+    kaizo_n: [27, 47]
+    kaizo_d: [39, 13]
+    map_n: [29, 103]
+    map_d: [-9, 92]
+    ensyuf_n: [66, 98]
+    ensyuf_d: [40, 51]
+    ensyue_n: [66, 0]
+    battle_n: [14, 83]
+    battle_d: [14, 83]
+    wed_a: [178, 36]
+    wed_b: [104, 118]
+  wiki_id: 060a
+  chinese_name: 爱宕改
+---

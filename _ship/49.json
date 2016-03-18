@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 49
+  sort_no: 90
+  name: 霞
+  yomi: かすみ
+  stype: 2
+  ctype: 18
+  cnum: 10
+  backs: 2
+  after_lv: 20
+  after_ship_id: 253
+  get_mes: 霞よ。<br>ガンガンいくわよ。ついてらっしゃい。
+  voice_f: 0
+  filename: qukusrsftcgy
+  file_version: 9
+  book_table_id: [49]
+  book_sinfo: 歴戦の主力駆逐艦として奮戦したわ。<br>最後は戦艦大和と共に坊ノ岬沖海戦で米艦載機の猛攻と戦ったの。<br>負けないわ！
+  stats:
+    taik: [16, 33]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [15, 59]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 22
+  graph:
+    boko_n: [48, 39]
+    boko_d: [44, 33]
+    kaisyu_n: [43, -12]
+    kaisyu_d: [47, -7]
+    kaizo_n: [32, -9]
+    kaizo_d: [52, -24]
+    map_n: [71, 26]
+    map_d: [29, 21]
+    ensyuf_n: [55, 26]
+    ensyuf_d: [51, -15]
+    ensyue_n: [55, 0]
+    battle_n: [62, 41]
+    battle_d: [62, 41]
+    wed_a: [67, 102]
+    wed_b: [154, 165]
+  wiki_id: 090
+  chinese_name: 霞
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 17
+  sort_no: 91
+  name: 陽炎
+  yomi: かげろう
+  stype: 2
+  ctype: 30
+  cnum: 1
+  backs: 3
+  after_lv: 20
+  after_ship_id: 225
+  get_mes: やっと会えた！　陽炎よ。<br>よろしくねっ！
+  voice_f: 0
+  filename: nkvvrszimkre
+  file_version: 13
+  book_table_id: [17]
+  book_sinfo: 第四次軍備充実計画で建造された陽炎型駆逐艦、ネームシップの陽炎よ。<br>新鋭の主力駆逐艦として、ハワイ攻撃機動部隊を始め、様々な作戦に参加したわ！<br>よろしくね！
+  stats:
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 79]
+    tyku: [12, 39]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 44
+    tais: 24
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [1, 1, 0, 1]
+    build_time: 24
+  graph:
+    boko_n: [17, 71]
+    boko_d: [13, 62]
+    kaisyu_n: [20, -16]
+    kaisyu_d: [28, -9]
+    kaizo_n: [-38, 16]
+    kaizo_d: [-41, -13]
+    map_n: [-22, 70]
+    map_d: [-83, 52]
+    ensyuf_n: [17, 71]
+    ensyuf_d: [-23, 21]
+    ensyue_n: [17, 0]
+    battle_n: [-45, 54]
+    battle_d: [-45, 54]
+    wed_a: [221, 65]
+    wed_b: [145, 147]
+  wiki_id: 091
+  chinese_name: 阳炎
+---

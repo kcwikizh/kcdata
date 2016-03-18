@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 201
+  sort_no: 1301
+  name: 吹雪改
+  yomi: ふぶき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 70
+  after_ship_id: 426
+  get_mes: はじめまして吹雪です。<br>よろしくお願い致します。
+  voice_f: 3
+  filename: dufziinsornt
+  file_version: 20
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 230
+    after_bull: 270
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [6, 59]
+    boko_d: [5, 59]
+    kaisyu_n: [10, 10]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-49, 4]
+    kaizo_d: [-11, -34]
+    map_n: [-22, 48]
+    map_d: [-49, 50]
+    ensyuf_n: [-3, 42]
+    ensyuf_d: [-75, 1]
+    ensyue_n: [-3, 0]
+    battle_n: [-14, 38]
+    battle_d: [-14, 38]
+    wed_a: [234, 80]
+    wed_b: [133, 125]
+  wiki_id: 011a
+  chinese_name: 吹雪改
+---

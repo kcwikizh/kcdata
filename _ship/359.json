@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 359
+  sort_no: 1439
+  name: 沖波改
+  yomi: おきなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 夕雲型駆逐艦十四番艦の……沖波です。<br>えっと…はい、頑張ります。よろしくお願い致します！
+  voice_f: 3
+  filename: higuuqsbfkvb
+  file_version: 2
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 50]
+    raig: [29, 81]
+    tyku: [16, 50]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [204, 112]
+    boko_d: [72, 112]
+    kaisyu_n: [16, -8]
+    kaisyu_d: [24, 4]
+    kaizo_n: [136, 52]
+    kaizo_d: [16, 48]
+    map_n: [152, 80]
+    map_d: [16, 96]
+    ensyuf_n: [152, 96]
+    ensyuf_d: [16, 96]
+    ensyue_n: [148, 0]
+    battle_n: [172, 104]
+    battle_d: [36, 112]
+    wed_a: [48, 32]
+    wed_b: [112, 128]
+  wiki_id: 252a
+  chinese_name: 
+---

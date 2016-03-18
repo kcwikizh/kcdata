@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 250
+  sort_no: 1350
+  name: 満潮改
+  yomi: みちしお
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 満潮よ。<br>私、なんでこんな部隊に配属されたのかしら。
+  voice_f: 1
+  filename: eypcwtnjgoyb
+  file_version: 11
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [31, 49]
+    souk: [14, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [16, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [58, 105]
+    boko_d: [60, 129]
+    kaisyu_n: [4, 1]
+    kaisyu_d: [28, 7]
+    kaizo_n: [3, 50]
+    kaizo_d: [-19, 31]
+    map_n: [19, 107]
+    map_d: [-33, 125]
+    ensyuf_n: [-1, 108]
+    ensyuf_d: [3, 72]
+    ensyue_n: [-1, 0]
+    battle_n: [-34, 116]
+    battle_d: [-34, 116]
+    wed_a: [186, 22]
+    wed_b: [155, 167]
+  wiki_id: 087a
+  chinese_name: 满潮改
+---

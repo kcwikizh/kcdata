@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 223
+  sort_no: 1323
+  name: 神通改
+  yomi: じんつう
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 60
+  after_ship_id: 159
+  get_mes: あの……軽巡洋艦、神通です。<br>どうか、よろしくお願い致します……
+  voice_f: 1
+  filename: ncijtxixkghu
+  file_version: 8
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [44, 59]
+    souk: [29, 59]
+    houg: [20, 59]
+    raig: [24, 79]
+    tyku: [15, 59]
+    luck: [12, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 300
+    after_bull: 480
+    fuel_max: 25
+    bull_max: 30
+    broken: [2, 2, 10, 0]
+    pow_up: [1, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [57, 63]
+    boko_d: [14, 80]
+    kaisyu_n: [10, 19]
+    kaisyu_d: [28, -16]
+    kaizo_n: [2, 8]
+    kaizo_d: [-7, -17]
+    map_n: [-28, 54]
+    map_d: [-54, 67]
+    ensyuf_n: [51, 45]
+    ensyuf_d: [-20, 17]
+    ensyue_n: [51, 0]
+    battle_n: [-7, 30]
+    battle_d: [-18, 50]
+    wed_a: [208, 74]
+    wed_b: [103, 119]
+  wiki_id: 047a
+  chinese_name: 神通改
+---

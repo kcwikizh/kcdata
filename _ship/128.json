@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 128
+  sort_no: 128
+  name: 伊8
+  yomi: い8
+  stype: 13
+  ctype: 40
+  cnum: 2
+  backs: 5
+  after_lv: 50
+  after_ship_id: 400
+  get_mes: グーテンターク…あ、違った、ごめんなさいね…<br>「はち」と呼んでくださいね。
+  voice_f: 3
+  filename: zoaptkoerfpv
+  file_version: 8
+  book_table_id: [128]
+  book_sinfo: 遣独潜水艦作戦の第二次遣独艦として、かの地に向かったのよ。そして、Uボートをもらったの。この作戦は5回行われたんだけど、機雷とか色々あって、無事往復できたのは私だけなんですって…そうね、機雷なんてダイッキライ！
+  stats:
+    taik: [15, 19]
+    souk: [4, 19]
+    houg: [2, 9]
+    raig: [30, 69]
+    tyku: [0, 0]
+    luck: [20, 59]
+    soku: 5
+    leng: 1
+    kaih: 14
+    tais: 0
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 150
+    after_bull: 200
+    fuel_max: 10
+    bull_max: 20
+    broken: [1, 2, 2, 1]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [64, 104]
+    boko_d: [64, 104]
+    kaisyu_n: [16, -8]
+    kaisyu_d: [24, 8]
+    kaizo_n: [56, 32]
+    kaizo_d: [56, 32]
+    map_n: [32, 64]
+    map_d: [32, 64]
+    ensyuf_n: [56, 72]
+    ensyuf_d: [56, 20]
+    ensyue_n: [-48, 0]
+    battle_n: [48, 80]
+    battle_d: [48, 80]
+    wed_a: [161, 79]
+    wed_b: [139, 131]
+  wiki_id: 128
+  chinese_name: 伊8
+---

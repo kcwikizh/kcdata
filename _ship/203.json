@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 203
+  sort_no: 1303
+  name: 初雪改
+  yomi: はつゆき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 初雪……です……よろしく。
+  voice_f: 1
+  filename: sejqtlkfjwkc
+  file_version: 18
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [101, 53]
+    boko_d: [109, 68]
+    kaisyu_n: [25, 16]
+    kaisyu_d: [28, 7]
+    kaizo_n: [46, -2]
+    kaizo_d: [41, -37]
+    map_n: [40, 48]
+    map_d: [13, 58]
+    ensyuf_n: [94, 47]
+    ensyuf_d: [56, 2]
+    ensyue_n: [94, 0]
+    battle_n: [52, 33]
+    battle_d: [52, 33]
+    wed_a: [144, 83]
+    wed_b: [122, 124]
+  wiki_id: 013a
+  chinese_name: 初雪改
+---

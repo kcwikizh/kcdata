@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 53
+  sort_no: 44
+  name: 名取
+  yomi: なとり
+  stype: 3
+  ctype: 20
+  cnum: 3
+  backs: 2
+  after_lv: 20
+  after_ship_id: 221
+  get_mes: 名取といいます。<br>ご迷惑をおかけしないように、が、頑張ります。
+  voice_f: 0
+  filename: bqwjdltjktls
+  file_version: 3
+  book_table_id: [53, 945]
+  book_sinfo: 長良型３番艦の名取です。<br>ちょっと古いモデルっていわれるけれど、高速軽巡洋艦として使い方はあるはず…<br>そ、そう、水雷戦隊には、ぜひ配属してくださいね。<br>が、頑張りますから！
+  stats:
+    taik: [26, 39]
+    souk: [10, 29]
+    houg: [14, 39]
+    raig: [24, 79]
+    tyku: [13, 49]
+    luck: [10, 49]
+    soku: 10
+    leng: 2
+    kaih: 37
+    tais: 20
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 200
+    after_bull: 200
+    fuel_max: 25
+    bull_max: 25
+    broken: [2, 2, 10, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 60
+  graph:
+    boko_n: [-13, 69]
+    boko_d: [-26, 92]
+    kaisyu_n: [21, 20]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-68, 14]
+    kaizo_d: [-84, -27]
+    map_n: [-80, 70]
+    map_d: [-77, 77]
+    ensyuf_n: [-31, 71]
+    ensyuf_d: [-43, 12]
+    ensyue_n: [-31, 0]
+    battle_n: [-72, 50]
+    battle_d: [-72, 50]
+    wed_a: [258, 59]
+    wed_b: [135, 141]
+  wiki_id: 044
+  chinese_name: 名取
+---

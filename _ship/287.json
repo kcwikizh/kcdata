@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 287
+  sort_no: 1387
+  name: 山城改
+  yomi: やましろ
+  stype: 10
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 80
+  after_ship_id: 412
+  get_mes: 扶桑型戦艦姉妹、妹のほう、山城です。<br>あの、扶桑姉さま、見ませんでした？
+  voice_f: 1
+  filename: bnbdxfioqxtt
+  file_version: 16
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [75, 89]
+    souk: [72, 89]
+    houg: [63, 79]
+    raig: [0, 0]
+    tyku: [40, 89]
+    luck: [10, 59]
+    soku: 5
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [10, 10, 10, 10, 0]
+    after_fuel: 3500
+    after_bull: 2400
+    fuel_max: 95
+    bull_max: 105
+    broken: [10, 15, 35, 3]
+    pow_up: [4, 0, 2, 4]
+    build_time: 260
+  graph:
+    boko_n: [-95, 51]
+    boko_d: [-45, 92]
+    kaisyu_n: [11, -7]
+    kaisyu_d: [32, 28]
+    kaizo_n: [-104, 18]
+    kaizo_d: [-83, 4]
+    map_n: [-107, 39]
+    map_d: [-67, 59]
+    ensyuf_n: [-71, 32]
+    ensyuf_d: [8, 28]
+    ensyue_n: [-79, 0]
+    battle_n: [-89, 80]
+    battle_d: [-86, 80]
+    wed_a: [293, 49]
+    wed_b: [113, 125]
+  wiki_id: 027a
+  chinese_name: 山城改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 138
+  sort_no: 138
+  name: 能代
+  yomi: のしろ
+  stype: 3
+  ctype: 41
+  cnum: 2
+  backs: 5
+  after_lv: 35
+  after_ship_id: 306
+  get_mes: 阿賀野型軽巡二番艦、能代。<br>着任しました。よろしくどうぞ！
+  voice_f: 3
+  filename: lpiecumljbyp
+  file_version: 9
+  book_table_id: [138]
+  book_sinfo: 新鋭阿賀野型軽巡の二番艦、能代です。<br>能代独自の飛行機運搬軌条がチャームポイントなんです。レイテ沖海戦でも主力の栗田艦隊の一員として頑張りました！
+  stats:
+    taik: [30, 45]
+    souk: [17, 32]
+    houg: [20, 42]
+    raig: [24, 72]
+    tyku: [17, 60]
+    luck: [10, 49]
+    soku: 10
+    leng: 2
+    kaih: 37
+    tais: 25
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 300
+    after_bull: 220
+    fuel_max: 30
+    bull_max: 35
+    broken: [3, 4, 13, 1]
+    pow_up: [1, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [64, 64]
+    boko_d: [24, 140]
+    kaisyu_n: [48, 0]
+    kaisyu_d: [48, 16]
+    kaizo_n: [56, 24]
+    kaizo_d: [16, 64]
+    map_n: [80, 48]
+    map_d: [16, 112]
+    ensyuf_n: [120, 60]
+    ensyuf_d: [32, 88]
+    ensyue_n: [64, 0]
+    battle_n: [72, 80]
+    battle_d: [32, 112]
+    wed_a: [87, 80]
+    wed_b: [122, 129]
+  wiki_id: 138
+  chinese_name: 能代
+---

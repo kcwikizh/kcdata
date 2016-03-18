@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 431
+  sort_no: 231
+  name: U-511
+  yomi: ゆー511・ろ500
+  stype: 13
+  ctype: 57
+  cnum: 1
+  backs: 5
+  after_lv: 35
+  after_ship_id: 334
+  get_mes: ドイツ海軍所属、潜水艦U-511です。<br>ユーとお呼びください。<br>少し遠出してきました。よろしくお願い致します……。
+  voice_f: 1
+  filename: ksvosfducgbe
+  file_version: 4
+  book_table_id: [431]
+  book_sinfo: ドイツ海軍のUボート、潜水艦U-511……です。<br>頑張って、ここまで来ました。<br>皆と仲良くなれたら…いいなって…ここの文化に馴染めたらいいなって…思います。
+  stats:
+    taik: [8, 16]
+    souk: [4, 16]
+    houg: [2, 8]
+    raig: [22, 58]
+    tyku: [0, 0]
+    luck: [30, 63]
+    soku: 5
+    leng: 1
+    kaih: 18
+    tais: 0
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 170
+    after_bull: 270
+    fuel_max: 10
+    bull_max: 20
+    broken: [1, 2, 2, 1]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [100, 100]
+    boko_d: [-32, 208]
+    kaisyu_n: [16, -8]
+    kaisyu_d: [24, 0]
+    kaizo_n: [64, 56]
+    kaizo_d: [-48, 80]
+    map_n: [64, 96]
+    map_d: [-80, 144]
+    ensyuf_n: [80, 80]
+    ensyuf_d: [-48, 144]
+    ensyue_n: [48, 0]
+    battle_n: [80, 96]
+    battle_d: [-40, 160]
+    wed_a: [144, 40]
+    wed_b: [144, 136]
+  wiki_id: 231
+  chinese_name: U-511
+---

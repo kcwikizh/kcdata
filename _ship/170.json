@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 170
+  sort_no: 170
+  name: 浜風
+  yomi: はまかぜ
+  stype: 2
+  ctype: 30
+  cnum: 13
+  backs: 4
+  after_lv: 30
+  after_ship_id: 312
+  get_mes: 駆逐艦、浜風です。<br>これより貴艦隊所属となります。
+  voice_f: 0
+  filename: rubtymuqfeuq
+  file_version: 20
+  book_table_id: [170, 917, 939]
+  book_sinfo: 浜風です。数々の激戦に参加しました。<br>レイテでは金剛を中心とした輪形陣。そして、武蔵や金剛、あの信濃の最期もこの目に焼き付けることになりました。運命の坊ノ岬では、雪風らと共に大和を護って奮闘します。
+  stats:
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [13, 42]
+    luck: [15, 49]
+    soku: 10
+    leng: 1
+    kaih: 44
+    tais: 24
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
+  graph:
+    boko_n: [16, 120]
+    boko_d: [64, 152]
+    kaisyu_n: [24, 8]
+    kaisyu_d: [40, 8]
+    kaizo_n: [16, 48]
+    kaizo_d: [56, 56]
+    map_n: [32, 96]
+    map_d: [64, 112]
+    ensyuf_n: [48, 96]
+    ensyuf_d: [64, 40]
+    ensyue_n: [8, 0]
+    battle_n: [0, 80]
+    battle_d: [64, 80]
+    wed_a: [176, 56]
+    wed_b: [112, 112]
+  wiki_id: 170
+  chinese_name: 浜风
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 430
+  sort_no: 230
+  name: 葛城改
+  yomi: かつらぎ
+  stype: 11
+  ctype: 53
+  cnum: 3
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: 雲龍型航空母艦、三番艦、葛城よ！<br>え？　水上防空砲台ですって？<br>ち、違うわよ！　提督、何いってんの！
+  voice_f: 3
+  filename: bohmlbbvqtfs
+  file_version: 9
+  book_table_id: [430]
+  book_sinfo: 雲龍型航空母艦の三番艦、葛城よ。そう、正規空母。<br>ちょっと生まれるのが遅かったみたい。でも、戦いが終わった後で、私は全力で働いたの。ある意味、私が一番なんだから。ホントよ？ホントなんだから。
+  stats:
+    taik: [60, 84]
+    souk: [36, 78]
+    houg: [0, 45]
+    raig: [0, 0]
+    tyku: [32, 78]
+    luck: [30, 79]
+    soku: 10
+    leng: 1
+    kaih: 37
+    tais: 0
+    slot_num: 4
+    max_eq: [18, 21, 27, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 50
+    bull_max: 55
+    broken: [7, 13, 30, 10]
+    pow_up: [0, 0, 4, 3]
+    build_time: 210
+  graph:
+    boko_n: [-24, 104]
+    boko_d: [-72, 152]
+    kaisyu_n: [8, -8]
+    kaisyu_d: [8, -8]
+    kaizo_n: [-48, 48]
+    kaizo_d: [-96, 80]
+    map_n: [-48, 80]
+    map_d: [-96, 144]
+    ensyuf_n: [0, 56]
+    ensyuf_d: [-24, 120]
+    ensyue_n: [-16, 0]
+    battle_n: [0, 72]
+    battle_d: [-64, 144]
+    wed_a: [211, 69]
+    wed_b: [137, 123]
+  wiki_id: 230
+  chinese_name: 葛城改
+---

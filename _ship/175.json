@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 175
+  sort_no: 175
+  name: Z3
+  yomi: マックス・シュルツ
+  stype: 2
+  ctype: 48
+  cnum: 3
+  backs: 5
+  after_lv: 30
+  after_ship_id: 311
+  get_mes: Guten Tag.<br>私は駆逐艦マックス・シュルツよ。<br>マックス…でもいいけれど。よろしく。
+  voice_f: 1
+  filename: rxzrrkjqvyqy
+  file_version: 2
+  book_table_id: [175]
+  book_sinfo: ドイツ1934年計画型駆逐艦、その三番艦よ。<br>生存性の高い設計の本格的駆逐艦だけれど…新型のタービンは少し整備に難もあるけれど。<br>今度は…大丈夫。
+  stats:
+    taik: [18, 29]
+    souk: [8, 22]
+    houg: [8, 26]
+    raig: [24, 60]
+    tyku: [12, 42]
+    luck: [6, 39]
+    soku: 10
+    leng: 1
+    kaih: 36
+    tais: 32
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 170
+    after_bull: 150
+    fuel_max: 20
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 24
+  graph:
+    boko_n: [48, 144]
+    boko_d: [64, 128]
+    kaisyu_n: [16, 0]
+    kaisyu_d: [24, 8]
+    kaizo_n: [48, 64]
+    kaizo_d: [72, 32]
+    map_n: [48, 112]
+    map_d: [64, 112]
+    ensyuf_n: [64, 112]
+    ensyuf_d: [64, 48]
+    ensyue_n: [32, 0]
+    battle_n: [48, 112]
+    battle_d: [80, 112]
+    wed_a: [168, 24]
+    wed_b: [112, 112]
+  wiki_id: 175
+  chinese_name: Z3
+---

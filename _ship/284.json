@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 284
+  sort_no: 1384
+  name: 隼鷹改
+  yomi: じゅんよう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 80
+  after_ship_id: 408
+  get_mes: 商船改装空母、隼鷹でーすっ！<br>ひゃっはぁー！
+  voice_f: 1
+  filename: pwokyefpmqwi
+  file_version: 3
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [50, 79]
+    souk: [30, 59]
+    houg: [0, 29]
+    raig: [0, 0]
+    tyku: [25, 69]
+    luck: [30, 79]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [18, 18, 18, 12, 0]
+    after_fuel: 900
+    after_bull: 1400
+    fuel_max: 45
+    bull_max: 45
+    broken: [6, 10, 25, 8]
+    pow_up: [0, 0, 3, 3]
+    build_time: 180
+  graph:
+    boko_n: [14, 81]
+    boko_d: [4, 94]
+    kaisyu_n: [14, -2]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-41, 26]
+    kaizo_d: [-50, 37]
+    map_n: [-82, 81]
+    map_d: [-92, 84]
+    ensyuf_n: [-7, 76]
+    ensyuf_d: [-21, 35]
+    ensyue_n: [-29, 0]
+    battle_n: [-57, 61]
+    battle_d: [-57, 61]
+    wed_a: [253, 54]
+    wed_b: [83, 120]
+  wiki_id: 066a
+  chinese_name: 隼鹰改
+---

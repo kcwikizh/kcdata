@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 13
+  sort_no: 17
+  name: 綾波
+  yomi: あやなみ
+  stype: 2
+  ctype: 1
+  cnum: 1
+  backs: 3
+  after_lv: 20
+  after_ship_id: 207
+  get_mes: ごきげんよう。<br>特型駆逐艦、綾波と申します。
+  voice_f: 0
+  filename: icpexclhwthr
+  file_version: 13
+  book_table_id: [13]
+  book_sinfo: 特型駆逐艦、綾波です。<br>改良吹雪型の１番艦なんです。<br>第三次ソロモン海海戦では、駆逐艦一隻としては、特別な大活躍をお見せしました。<br>頑張ります！
+  stats:
+    taik: [15, 29]
+    souk: [5, 19]
+    houg: [10, 29]
+    raig: [27, 79]
+    tyku: [12, 39]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 41
+    tais: 20
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 20
+  graph:
+    boko_n: [94, 82]
+    boko_d: [92, 96]
+    kaisyu_n: [13, 16]
+    kaisyu_d: [28, 7]
+    kaizo_n: [39, 27]
+    kaizo_d: [17, 2]
+    map_n: [37, 78]
+    map_d: [-4, 86]
+    ensyuf_n: [87, 80]
+    ensyuf_d: [43, 37]
+    ensyue_n: [87, 0]
+    battle_n: [35, 72]
+    battle_d: [35, 72]
+    wed_a: [146, 52]
+    wed_b: [140, 130]
+  wiki_id: 017
+  chinese_name: 绫波
+---

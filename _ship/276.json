@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 276
+  sort_no: 1376
+  name: 陸奥改
+  yomi: むつ
+  stype: 9
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: 長門型戦艦２番艦の陸奥よ。よろしくね。<br>あまり火遊びはしないでね…お願いよ。
+  voice_f: 1
+  filename: hujriolkmhzy
+  file_version: 9
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [90, 98]
+    souk: [85, 98]
+    houg: [90, 99]
+    raig: [0, 0]
+    tyku: [33, 99]
+    luck: [6, 59]
+    soku: 5
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 100
+    bull_max: 160
+    broken: [20, 30, 50, 3]
+    pow_up: [5, 0, 2, 5]
+    build_time: 300
+  graph:
+    boko_n: [26, 79]
+    boko_d: [25, 81]
+    kaisyu_n: [12, 16]
+    kaisyu_d: [34, -5]
+    kaizo_n: [-30, 31]
+    kaizo_d: [-31, -4]
+    map_n: [-39, 78]
+    map_d: [-65, 67]
+    ensyuf_n: [3, 59]
+    ensyuf_d: [-22, 12]
+    ensyue_n: [3, 0]
+    battle_n: [-32, 46]
+    battle_d: [-37, 104]
+    wed_a: [235, 62]
+    wed_b: [108, 108]
+  wiki_id: 002a
+  chinese_name: 陆奥改
+---

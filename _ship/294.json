@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 294
+  sort_no: 1394
+  name: 舞風改
+  yomi: まいかぜ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: こんにちは！陽炎型駆逐艦、舞風です。<br>暗い雰囲気は苦手です！
+  voice_f: 3
+  filename: ssvrjquubpim
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [16, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [-4, 84]
+    boko_d: [-4, 84]
+    kaisyu_n: [18, 7]
+    kaisyu_d: [28, 7]
+    kaizo_n: [16, 16]
+    kaizo_d: [16, 16]
+    map_n: [30, 84]
+    map_d: [0, 84]
+    ensyuf_n: [20, 80]
+    ensyuf_d: [20, 40]
+    ensyue_n: [20, 0]
+    battle_n: [32, 56]
+    battle_d: [32, 56]
+    wed_a: [140, 43]
+    wed_b: [136, 139]
+  wiki_id: 119a
+  chinese_name: 舞风改
+---

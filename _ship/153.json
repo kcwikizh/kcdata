@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 153
+  sort_no: 153
+  name: 大鳳
+  yomi: たいほう
+  stype: 18
+  ctype: 43
+  cnum: 1
+  backs: 7
+  after_lv: 40
+  after_ship_id: 156
+  get_mes: そう…私が大鳳。<br>出迎え、ありがとうございます。<br>提督…貴方と機動部隊に勝利を！
+  voice_f: 3
+  filename: ysidnchjxvfc
+  file_version: 1
+  book_table_id: [153]
+  book_sinfo: 航空母艦「大鳳」です。<br>飛行甲板まで十分な防御を施された最新鋭の正規空母です。密閉型の格納庫も素敵でしょ？　え？　ガスが溜りやすい…ですって…失礼しちゃう。こ、今度は絶対に大丈夫！
+  stats:
+    taik: [67, 87]
+    souk: [40, 79]
+    houg: [0, 49]
+    raig: [0, 0]
+    tyku: [42, 79]
+    luck: [2, 19]
+    soku: 10
+    leng: 1
+    kaih: 33
+    tais: 0
+    slot_num: 4
+    max_eq: [18, 18, 18, 7, 0]
+    after_fuel: 900
+    after_bull: 450
+    fuel_max: 70
+    bull_max: 65
+    broken: [8, 15, 36, 12]
+    pow_up: [0, 0, 5, 5]
+    build_time: 400
+  graph:
+    boko_n: [-32, 128]
+    boko_d: [16, 128]
+    kaisyu_n: [0, 16]
+    kaisyu_d: [24, 16]
+    kaizo_n: [-32, 56]
+    kaizo_d: [-16, 32]
+    map_n: [-40, 96]
+    map_d: [-8, 96]
+    ensyuf_n: [0, 112]
+    ensyuf_d: [32, 64]
+    ensyue_n: [-32, 0]
+    battle_n: [0, 96]
+    battle_d: [32, 96]
+    wed_a: [240, 4]
+    wed_b: [140, 132]
+  wiki_id: 153
+  chinese_name: 大凤
+---

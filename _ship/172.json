@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 172
+  sort_no: 172
+  name: Bismarck改
+  yomi: ビスマルク
+  stype: 8
+  ctype: 47
+  cnum: 1
+  backs: 7
+  after_lv: 50
+  after_ship_id: 173
+  get_mes: Guten Tag.<br>私はビスマルク型戦艦のネームシップ、ビスマルク。<br>よおく覚えておくのよ。
+  voice_f: 3
+  filename: frkfpymtydmg
+  file_version: 11
+  book_table_id: [172]
+  book_sinfo: ドイツの誇るビスマルク級超弩級戦艦のネームシップ、それが私よ。<br>ドイツらしい重厚かつ美しいデザインでしょう？いいのよ、もっと褒めても。<br>この海でも縦横無尽に活躍するわ。期待しなさい！
+  stats:
+    taik: [94, 99]
+    souk: [77, 93]
+    houg: [70, 93]
+    raig: [0, 0]
+    tyku: [24, 58]
+    luck: [10, 79]
+    soku: 10
+    leng: 3
+    kaih: 38
+    tais: 0
+    slot_num: 4
+    max_eq: [4, 4, 4, 4, 0]
+    after_fuel: 1200
+    after_bull: 1600
+    fuel_max: 95
+    bull_max: 115
+    broken: [12, 18, 40, 4]
+    pow_up: [4, 0, 1, 4]
+    build_time: 300
+  graph:
+    boko_n: [-48, 32]
+    boko_d: [0, 136]
+    kaisyu_n: [8, -16]
+    kaisyu_d: [24, 8]
+    kaizo_n: [-104, 16]
+    kaizo_d: [-48, 40]
+    map_n: [-80, 32]
+    map_d: [-40, 120]
+    ensyuf_n: [-48, 16]
+    ensyuf_d: [0, 64]
+    ensyue_n: [-80, 0]
+    battle_n: [-48, 40]
+    battle_d: [16, 128]
+    wed_a: [344, 112]
+    wed_b: [112, 112]
+  wiki_id: 172
+  chinese_name: 俾斯麦改
+---

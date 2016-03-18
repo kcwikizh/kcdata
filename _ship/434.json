@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 434
+  sort_no: 234
+  name: 睦月改二
+  yomi: むつき
+  stype: 2
+  ctype: 28
+  cnum: 1
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 睦月です。<br>はりきって、まいりましょー！
+  voice_f: 1
+  filename: idhoawqrgkqh
+  file_version: 13
+  book_table_id: [434]
+  book_sinfo: 帝国海軍の駆逐艦で初めて大型で強力な61cm魚雷を搭載しました、睦月です！<br>旧式ながら、第一線で頑張ったのです！
+  stats:
+    taik: [27, 43]
+    souk: [12, 43]
+    houg: [10, 45]
+    raig: [28, 79]
+    tyku: [16, 56]
+    luck: [14, 64]
+    soku: 10
+    leng: 1
+    kaih: 51
+    tais: 28
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 2, 7, 0]
+    pow_up: [1, 2, 1, 0]
+    build_time: 18
+  graph:
+    boko_n: [152, 120]
+    boko_d: [208, 104]
+    kaisyu_n: [24, 4]
+    kaisyu_d: [24, -12]
+    kaizo_n: [104, 80]
+    kaizo_d: [136, 24]
+    map_n: [96, 104]
+    map_d: [152, 88]
+    ensyuf_n: [128, 96]
+    ensyuf_d: [176, 72]
+    ensyue_n: [104, 0]
+    battle_n: [112, 96]
+    battle_d: [160, 80]
+    wed_a: [96, 24]
+    wed_b: [128, 120]
+  wiki_id: 234
+  chinese_name: 睦月改二
+---

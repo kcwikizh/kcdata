@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 343
+  sort_no: 1423
+  name: 香取改
+  yomi: かとり
+  stype: 21
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 練習巡洋艦、香取です。<br>心配しないで…。色々と優しく、指導させて頂きますから。
+  voice_f: 3
+  filename: kexcbmpnmmwv
+  file_version: 13
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [40, 54]
+    souk: [15, 39]
+    houg: [16, 36]
+    raig: [14, 40]
+    tyku: [24, 48]
+    luck: [12, 54]
+    soku: 5
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 35
+    bull_max: 20
+    broken: [3, 2, 11, 1]
+    pow_up: [1, 1, 2, 1]
+    build_time: 70
+  graph:
+    boko_n: [120, 120]
+    boko_d: [96, 120]
+    kaisyu_n: [12, -8]
+    kaisyu_d: [32, 4]
+    kaizo_n: [64, 64]
+    kaizo_d: [48, 32]
+    map_n: [64, 112]
+    map_d: [80, 96]
+    ensyuf_n: [96, 96]
+    ensyuf_d: [80, 80]
+    ensyue_n: [64, 0]
+    battle_n: [80, 112]
+    battle_d: [80, 112]
+    wed_a: [128, 24]
+    wed_b: [144, 104]
+  wiki_id: 154a
+  chinese_name: 香取改
+---

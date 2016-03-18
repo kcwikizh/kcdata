@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 70
+  sort_no: 51
+  name: 最上
+  yomi: もがみ
+  stype: 5
+  ctype: 9
+  cnum: 1
+  backs: 4
+  after_lv: 10
+  after_ship_id: 73
+  get_mes: ボクが最上さ。<br>大丈夫、今度は衝突しないって。ホントだよ。
+  voice_f: 1
+  filename: lcmobkdeizph
+  file_version: 5
+  book_table_id: [70]
+  book_sinfo: 重巡洋艦、最上型のネームシップ、最上だよ。<br>三連主砲がいい感じでしょ？<br>そうそう、ボク、ちょっと他の艦とよくブツかっちゃう癖があるんだけど、なんでだろ？
+  stats:
+    taik: [41, 59]
+    souk: [31, 59]
+    houg: [40, 59]
+    raig: [18, 69]
+    tyku: [20, 59]
+    luck: [10, 49]
+    soku: 10
+    leng: 2
+    kaih: 35
+    tais: 0
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 210
+    after_bull: 70
+    fuel_max: 40
+    bull_max: 65
+    broken: [2, 3, 12, 1]
+    pow_up: [2, 1, 0, 2]
+    build_time: 90
+  graph:
+    boko_n: [71, -16]
+    boko_d: [64, -4]
+    kaisyu_n: [18, 7]
+    kaisyu_d: [28, 7]
+    kaizo_n: [45, -68]
+    kaizo_d: [48, -95]
+    map_n: [30, -11]
+    map_d: [0, -16]
+    ensyuf_n: [56, -14]
+    ensyuf_d: [56, -59]
+    ensyue_n: [56, 0]
+    battle_n: [32, -26]
+    battle_d: [32, -26]
+    wed_a: [162, 161]
+    wed_b: [109, 94]
+  wiki_id: 051
+  chinese_name: 最上
+---

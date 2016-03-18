@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 323
+  sort_no: 1416
+  name: 春雨改
+  yomi: はるさめ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 白露型駆逐艦五番艦の春雨です、はい。<br>輸送作戦はお任せください……です。
+  voice_f: 3
+  filename: cispmgxqaedk
+  file_version: 6
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [14, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [128, 144]
+    boko_d: [104, 64]
+    kaisyu_n: [24, 12]
+    kaisyu_d: [48, -20]
+    kaizo_n: [96, 80]
+    kaizo_d: [64, -36]
+    map_n: [80, 128]
+    map_d: [64, 40]
+    ensyuf_n: [112, 112]
+    ensyuf_d: [112, 16]
+    ensyue_n: [96, 0]
+    battle_n: [96, 128]
+    battle_d: [80, 32]
+    wed_a: [80, 0]
+    wed_b: [128, 112]
+  wiki_id: 205a
+  chinese_name: 春雨改
+---

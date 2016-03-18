@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 68
+  sort_no: 61
+  name: 摩耶
+  yomi: まや
+  stype: 5
+  ctype: 8
+  cnum: 3
+  backs: 1
+  after_lv: 18
+  after_ship_id: 271
+  get_mes: よ！アタシ、摩耶ってんだ、よろしくな。
+  voice_f: 0
+  filename: gpshoozxgutk
+  file_version: 17
+  book_table_id: [68]
+  book_sinfo: 高雄型重巡洋艦３番艦の摩耶さまだ。<br>生まれは神戸。南方作戦や激戦のソロモン海で暴れまくってやったぜ！<br>ああん？　レイテ？　んだよ、潜水艦って奴は苦手だよ。
+  stats:
+    taik: [45, 57]
+    souk: [35, 49]
+    houg: [40, 54]
+    raig: [24, 49]
+    tyku: [18, 56]
+    luck: [10, 49]
+    soku: 10
+    leng: 2
+    kaih: 35
+    tais: 0
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 250
+    after_bull: 300
+    fuel_max: 40
+    bull_max: 65
+    broken: [2, 2, 12, 1]
+    pow_up: [2, 1, 0, 2]
+    build_time: 85
+  graph:
+    boko_n: [96, 48]
+    boko_d: [105, 52]
+    kaisyu_n: [29, 4]
+    kaisyu_d: [28, 7]
+    kaizo_n: [34, -14]
+    kaizo_d: [13, -11]
+    map_n: [30, 39]
+    map_d: [9, 42]
+    ensyuf_n: [42, 39]
+    ensyuf_d: [-5, -2]
+    ensyue_n: [42, 0]
+    battle_n: [30, 30]
+    battle_d: [30, 30]
+    wed_a: [104, 92]
+    wed_b: [145, 147]
+  wiki_id: 061
+  chinese_name: 摩耶
+---

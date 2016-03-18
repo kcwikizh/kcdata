@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 235
+  sort_no: 1335
+  name: 響改
+  yomi: ひびき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 70
+  after_ship_id: 147
+  get_mes: 響だよ。<br>その活躍ぶりから不死鳥の通り名もあるよ。
+  voice_f: 0
+  filename: wpaqzeclspdr
+  file_version: 3
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 240
+    after_bull: 200
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [73, 66]
+    boko_d: [49, 85]
+    kaisyu_n: [5, 3]
+    kaisyu_d: [28, 7]
+    kaizo_n: [9, 11]
+    kaizo_d: [-13, -10]
+    map_n: [38, 62]
+    map_d: [-47, 75]
+    ensyuf_n: [59, 57]
+    ensyuf_d: [5, 25]
+    ensyue_n: [59, 0]
+    battle_n: [44, 68]
+    battle_d: [5, 70]
+    wed_a: [172, 70]
+    wed_b: [146, 145]
+  wiki_id: 072a
+  chinese_name: 响改
+---

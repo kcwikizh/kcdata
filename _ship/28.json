@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 28
+  sort_no: 33
+  name: 皐月
+  yomi: さつき
+  stype: 2
+  ctype: 28
+  cnum: 5
+  backs: 2
+  after_lv: 20
+  after_ship_id: 256
+  get_mes: 皐月だよっ。<br>よろしくな！
+  voice_f: 0
+  filename: qvmfwjitflgw
+  file_version: 12
+  book_table_id: [28]
+  book_sinfo: ボクは任務途中に何度も何度も怪我をしたけど、最後まで奮戦した睦月型駆逐艦５番艦さ。<br>緒戦の後も、船団護衛などで各海域で頑張ったんだ。ホントだよ。
+  stats:
+    taik: [13, 24]
+    souk: [5, 18]
+    houg: [6, 29]
+    raig: [18, 49]
+    tyku: [7, 29]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 37
+    tais: 16
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [-71, 96]
+    boko_d: [107, -89]
+    kaisyu_n: [23, -9]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-126, 41]
+    kaizo_d: [42, -177]
+    map_n: [-91, 95]
+    map_d: [11, -99]
+    ensyuf_n: [-80, 90]
+    ensyuf_d: [22, -151]
+    ensyue_n: [-80, 0]
+    battle_n: [-120, 98]
+    battle_d: [25, -102]
+    wed_a: [311, 31]
+    wed_b: [142, 155]
+  wiki_id: 033
+  chinese_name: 皋月
+---

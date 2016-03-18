@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 465
+  sort_no: 265
+  name: 鹿島
+  yomi: かしま
+  stype: 21
+  ctype: 56
+  cnum: 2
+  backs: 3
+  after_lv: 35
+  after_ship_id: 356
+  get_mes: 提督さん、お疲れさまです。<br>練習巡洋艦、鹿島、着任です。うふふ。
+  voice_f: 1
+  filename: nwiyrjfnqvux
+  file_version: 10
+  book_table_id: [465, 967, 991]
+  book_sinfo: 香取型練習巡洋艦二番艦、妹の鹿島です。平和の海で、次代の艦隊を育てるために建造されました。その本来の役目を果たせる時間はあまり長くはありませんでしたが、艦隊旗艦や船団護衛、精一杯頑張りました。戦いが終わった後も、未来のために、私、頑張りました！　鹿島のこと、覚えていてくださいね。
+  stats:
+    taik: [36, 48]
+    souk: [9, 27]
+    houg: [13, 27]
+    raig: [11, 24]
+    tyku: [15, 46]
+    luck: [20, 69]
+    soku: 5
+    leng: 2
+    kaih: 25
+    tais: 13
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 400
+    after_bull: 120
+    fuel_max: 30
+    bull_max: 15
+    broken: [3, 1, 10, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 70
+  graph:
+    boko_n: [76, 140]
+    boko_d: [88, 172]
+    kaisyu_n: [16, 0]
+    kaisyu_d: [8, -16]
+    kaizo_n: [16, 85]
+    kaizo_d: [8, 96]
+    map_n: [36, 125]
+    map_d: [32, 144]
+    ensyuf_n: [40, 114]
+    ensyuf_d: [32, 120]
+    ensyue_n: [20, 0]
+    battle_n: [24, 128]
+    battle_d: [32, 152]
+    wed_a: [172, 16]
+    wed_b: [132, 104]
+  wiki_id: 265
+  chinese_name: 
+---

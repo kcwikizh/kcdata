@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 217
+  sort_no: 1317
+  name: 木曾改
+  yomi: きそ
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 65
+  after_ship_id: 146
+  get_mes: 木曾だ、お前に最高の勝利を与えてやる。
+  voice_f: 0
+  filename: gjyqwffsmfgw
+  file_version: 12
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [42, 59]
+    souk: [29, 59]
+    houg: [20, 59]
+    raig: [24, 79]
+    tyku: [15, 59]
+    luck: [12, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 400
+    after_bull: 750
+    fuel_max: 25
+    bull_max: 30
+    broken: [2, 2, 10, 0]
+    pow_up: [1, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [52, 72]
+    boko_d: [65, 78]
+    kaisyu_n: [0, 2]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-11, 17]
+    kaizo_d: [-10, -27]
+    map_n: [-15, 65]
+    map_d: [-31, 68]
+    ensyuf_n: [-4, 57]
+    ensyuf_d: [-1, -1]
+    ensyue_n: [-4, 0]
+    battle_n: [-18, 34]
+    battle_d: [-19, 34]
+    wed_a: [218, 86]
+    wed_b: [103, 121]
+  wiki_id: 041a
+  chinese_name: 木曾改
+---

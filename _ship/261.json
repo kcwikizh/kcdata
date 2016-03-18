@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 261
+  sort_no: 1361
+  name: 望月改
+  yomi: もちづき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: ん？あぁ、望月でーす。
+  voice_f: 1
+  filename: aufduiatycow
+  file_version: 15
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [24, 39]
+    souk: [11, 39]
+    houg: [9, 39]
+    raig: [18, 69]
+    tyku: [12, 39]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [-3, 112]
+    boko_d: [63, 93]
+    kaisyu_n: [5, 7]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-58, 57]
+    kaizo_d: [58, -14]
+    map_n: [-56, 107]
+    map_d: [-33, 83]
+    ensyuf_n: [-12, 114]
+    ensyuf_d: [34, 32]
+    ensyue_n: [-12, 0]
+    battle_n: [-55, 120]
+    battle_d: [35, 98]
+    wed_a: [250, 18]
+    wed_b: [134, 157]
+  wiki_id: 038a
+  chinese_name: 望月改
+---

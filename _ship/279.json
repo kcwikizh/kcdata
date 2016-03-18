@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 279
+  sort_no: 1379
+  name: 蒼龍改
+  yomi: そうりゅう
+  stype: 11
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 78
+  after_ship_id: 197
+  get_mes: 航空母艦、蒼龍です。<br>空母機動部隊を編制するなら、私もぜひ入れてね！
+  voice_f: 0
+  filename: mxohelwcpocv
+  file_version: 16
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [65, 89]
+    souk: [35, 69]
+    houg: [0, 39]
+    raig: [0, 0]
+    tyku: [30, 79]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [18, 27, 18, 10, 0]
+    after_fuel: 1200
+    after_bull: 1700
+    fuel_max: 65
+    bull_max: 65
+    broken: [9, 13, 30, 10]
+    pow_up: [0, 0, 4, 4]
+    build_time: 250
+  graph:
+    boko_n: [56, 64]
+    boko_d: [65, 70]
+    kaisyu_n: [12, -9]
+    kaisyu_d: [28, -17]
+    kaizo_n: [1, 9]
+    kaizo_d: [21, -28]
+    map_n: [3, 59]
+    map_d: [-11, 61]
+    ensyuf_n: [77, 67]
+    ensyuf_d: [56, 30]
+    ensyue_n: [77, 0]
+    battle_n: [-10, 43]
+    battle_d: [-10, 43]
+    wed_a: [231, 75]
+    wed_b: [94, 105]
+  wiki_id: 008a
+  chinese_name: 苍龙改
+---

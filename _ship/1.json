@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 1
+  sort_no: 31
+  name: 睦月
+  yomi: むつき
+  stype: 2
+  ctype: 28
+  cnum: 1
+  backs: 3
+  after_lv: 20
+  after_ship_id: 254
+  get_mes: 睦月です。<br>はりきって、まいりましょー！
+  voice_f: 0
+  filename: snohitatusbk
+  file_version: 19
+  book_table_id: [1, 913]
+  book_sinfo: 帝国海軍の駆逐艦で初めて大型で強力な61cm魚雷を搭載しました、睦月です！<br>旧式ながら、第一線で頑張ったのです！
+  stats:
+    taik: [13, 24]
+    souk: [5, 18]
+    houg: [6, 29]
+    raig: [18, 59]
+    tyku: [7, 29]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 37
+    tais: 16
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [125, 24]
+    boko_d: [83, 25]
+    kaisyu_n: [28, 7]
+    kaisyu_d: [28, 7]
+    kaizo_n: [70, -31]
+    kaizo_d: [29, -32]
+    map_n: [29, 24]
+    map_d: [-13, 15]
+    ensyuf_n: [129, 18]
+    ensyuf_d: [-3, -32]
+    ensyue_n: [129, 0]
+    battle_n: [73, 27]
+    battle_d: [29, 21]
+    wed_a: [112, 108]
+    wed_b: [145, 153]
+  wiki_id: 031
+  chinese_name: 睦月
+---

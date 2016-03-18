@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 33
+  sort_no: 15
+  name: 叢雲
+  yomi: むらくも
+  stype: 2
+  ctype: 12
+  cnum: 5
+  backs: 2
+  after_lv: 20
+  after_ship_id: 205
+  get_mes: あんたが司令官ね。<br>ま、せいぜい頑張りなさい！
+  voice_f: 1
+  filename: hpfcwdqxgyvl
+  file_version: 18
+  book_table_id: [33, 915]
+  book_sinfo: 特型駆逐艦、５番艦の叢雲よ。<br>え、知らないって？　全く、ありえないわね。<br>南方作戦や、古鷹の救援、数々の作戦に参加した名艦の私を知らないって、あんた、もぐりでしょ！
+  stats:
+    taik: [15, 29]
+    souk: [5, 19]
+    houg: [10, 29]
+    raig: [27, 69]
+    tyku: [10, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 40
+    tais: 20
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 20
+  graph:
+    boko_n: [-117, -8]
+    boko_d: [-119, -2]
+    kaisyu_n: [15, -6]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-202, -65]
+    kaizo_d: [-128, -96]
+    map_n: [-168, -14]
+    map_d: [-215, -12]
+    ensyuf_n: [-158, -16]
+    ensyuf_d: [-152, -60]
+    ensyue_n: [-158, 0]
+    battle_n: [-187, -8]
+    battle_d: [-187, -7]
+    wed_a: [411, 147]
+    wed_b: [122, 117]
+  wiki_id: 015
+  chinese_name: 丛云
+---

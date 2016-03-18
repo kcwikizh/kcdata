@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 63
+  sort_no: 56
+  name: 那智
+  yomi: なち
+  stype: 5
+  ctype: 29
+  cnum: 2
+  backs: 1
+  after_lv: 25
+  after_ship_id: 266
+  get_mes: 貴様が司令官か。<br>私は那智。よろしくお願いする。
+  voice_f: 0
+  filename: wnkageqzigwd
+  file_version: 14
+  book_table_id: [63]
+  book_sinfo: 生れは呉海軍工廠。妙高型重巡２番艦の私は、上海事変にも警備出動したぞ。<br>太平洋戦線では第五艦隊の旗艦として、暴れまわったさ。<br>敵艦載機？　ああ、あれは少し苦手だな。
+  stats:
+    taik: [44, 56]
+    souk: [32, 49]
+    houg: [40, 54]
+    raig: [24, 49]
+    tyku: [16, 54]
+    luck: [10, 49]
+    soku: 10
+    leng: 2
+    kaih: 34
+    tais: 0
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 300
+    after_bull: 450
+    fuel_max: 40
+    bull_max: 65
+    broken: [2, 2, 12, 1]
+    pow_up: [2, 1, 0, 2]
+    build_time: 80
+  graph:
+    boko_n: [151, 76]
+    boko_d: [63, 9]
+    kaisyu_n: [15, 32]
+    kaisyu_d: [28, 7]
+    kaizo_n: [96, 21]
+    kaizo_d: [15, -66]
+    map_n: [73, 76]
+    map_d: [-33, -1]
+    ensyuf_n: [135, 64]
+    ensyuf_d: [-19, -39]
+    ensyue_n: [135, 0]
+    battle_n: [84, 41]
+    battle_d: [0, -19]
+    wed_a: [98, 48]
+    wed_b: [110, 108]
+  wiki_id: 056
+  chinese_name: 那智
+---

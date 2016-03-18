@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 260
+  sort_no: 1360
+  name: 三日月改
+  yomi: みかづき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: あなたが司令官ですね。三日月です。<br>どうぞお手柔らかにお願いします。
+  voice_f: 1
+  filename: sxrrihbkdkjl
+  file_version: 11
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [24, 39]
+    souk: [11, 39]
+    houg: [9, 39]
+    raig: [18, 69]
+    tyku: [12, 39]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [86, 90]
+    boko_d: [59, -3]
+    kaisyu_n: [37, 11]
+    kaisyu_d: [28, 7]
+    kaizo_n: [31, 35]
+    kaizo_d: [6, -65]
+    map_n: [-10, 90]
+    map_d: [-37, -13]
+    ensyuf_n: [79, 84]
+    ensyuf_d: [-27, -39]
+    ensyue_n: [79, 0]
+    battle_n: [42, 98]
+    battle_d: [-13, 6]
+    wed_a: [151, 41]
+    wed_b: [142, 149]
+  wiki_id: 037a
+  chinese_name: 三日月改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 208
+  sort_no: 1308
+  name: 敷波改
+  yomi: しきなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: アタシの名は敷波。<br>以後よろしく。
+  voice_f: 1
+  filename: epjlpvhwcjvw
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [96, 88]
+    boko_d: [98, 95]
+    kaisyu_n: [16, 16]
+    kaisyu_d: [28, 7]
+    kaizo_n: [41, 33]
+    kaizo_d: [23, -7]
+    map_n: [37, 87]
+    map_d: [2, 85]
+    ensyuf_n: [89, 87]
+    ensyuf_d: [55, 46]
+    ensyue_n: [89, 0]
+    battle_n: [38, 74]
+    battle_d: [38, 74]
+    wed_a: [152, 46]
+    wed_b: [134, 136]
+  wiki_id: 018a
+  chinese_name: 敷波改
+---

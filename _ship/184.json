@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 184
+  sort_no: 184
+  name: 大鯨
+  yomi: たいげい・りゅうほう
+  stype: 20
+  ctype: 50
+  cnum: 1
+  backs: 4
+  after_lv: 25
+  after_ship_id: 185
+  get_mes: こんにちわあ。潜水母艦大鯨です。<br>不束者ですが、よろしくお願い致します。
+  voice_f: 1
+  filename: xumujwygrmby
+  file_version: 3
+  book_table_id: [184, 973]
+  book_sinfo: 潜水母艦、大鯨です。<br>潜水艦隊旗艦機能と補給物資や水上偵察機を装備して、潜水艦作戦を支援します。いざという時は空母に改装できる空母予備艦として設計されました。<br>頑張ります！
+  stats:
+    taik: [39, 55]
+    souk: [15, 37]
+    houg: [5, 15]
+    raig: [0, 0]
+    tyku: [16, 36]
+    luck: [20, 59]
+    soku: 5
+    leng: 1
+    kaih: 24
+    tais: 0
+    slot_num: 3
+    max_eq: [2, 3, 3, 0, 0]
+    after_fuel: 700
+    after_bull: 450
+    fuel_max: 35
+    bull_max: 10
+    broken: [2, 2, 12, 2]
+    pow_up: [0, 0, 1, 2]
+    build_time: 150
+  graph:
+    boko_n: [128, 120]
+    boko_d: [96, 128]
+    kaisyu_n: [8, 8]
+    kaisyu_d: [24, 16]
+    kaizo_n: [104, 56]
+    kaizo_d: [64, 40]
+    map_n: [104, 112]
+    map_d: [80, 128]
+    ensyuf_n: [128, 112]
+    ensyuf_d: [128, 112]
+    ensyue_n: [96, 0]
+    battle_n: [112, 112]
+    battle_d: [96, 112]
+    wed_a: [80, 24]
+    wed_b: [144, 144]
+  wiki_id: 184
+  chinese_name: 大鲸
+---

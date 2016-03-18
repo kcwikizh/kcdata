@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 317
+  sort_no: 1412
+  name: 浦風改
+  yomi: うらかぜ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: うち、浦風じゃ、よろしくね！
+  voice_f: 1
+  filename: exedxncqauws
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 48]
+    raig: [28, 79]
+    tyku: [16, 49]
+    luck: [13, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [80, 96]
+    boko_d: [48, 80]
+    kaisyu_n: [0, 8]
+    kaisyu_d: [8, 0]
+    kaizo_n: [32, 64]
+    kaizo_d: [-16, 16]
+    map_n: [32, 96]
+    map_d: [-16, 64]
+    ensyuf_n: [80, 96]
+    ensyuf_d: [64, 48]
+    ensyue_n: [48, 0]
+    battle_n: [32, 96]
+    battle_d: [32, 64]
+    wed_a: [160, 32]
+    wed_b: [144, 144]
+  wiki_id: 168a
+  chinese_name: 浦风改
+---

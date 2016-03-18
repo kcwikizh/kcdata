@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 220
+  sort_no: 1320
+  name: 由良改
+  yomi: ゆら
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 長良型軽巡四番艦の「由良」です。<br>どうぞ、よろしくお願いいたしますっ！
+  voice_f: 0
+  filename: xtqbjysffsvx
+  file_version: 19
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [43, 59]
+    souk: [29, 59]
+    houg: [20, 59]
+    raig: [24, 79]
+    tyku: [15, 59]
+    luck: [12, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 25
+    bull_max: 30
+    broken: [2, 2, 10, 0]
+    pow_up: [1, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [123, 90]
+    boko_d: [115, 105]
+    kaisyu_n: [10, 23]
+    kaisyu_d: [28, 19]
+    kaizo_n: [68, 35]
+    kaizo_d: [70, 1]
+    map_n: [78, 92]
+    map_d: [19, 95]
+    ensyuf_n: [101, 86]
+    ensyuf_d: [49, 53]
+    ensyue_n: [101, 0]
+    battle_n: [61, 77]
+    battle_d: [61, 77]
+    wed_a: [134, 35]
+    wed_b: [114, 137]
+  wiki_id: 045a
+  chinese_name: 由良改
+---

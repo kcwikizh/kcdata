@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 458
+  sort_no: 258
+  name: 海風
+  yomi: うみかぜ
+  stype: 2
+  ctype: 23
+  cnum: 7
+  backs: 4
+  after_lv: 30
+  after_ship_id: 350
+  get_mes: 白露型駆逐艦七番艦、<br>そして改白露型一番艦となる、海風です。<br>提督、どうぞよろしくお願いします！
+  voice_f: 1
+  filename: rnmsjjndxlgj
+  file_version: 10
+  book_table_id: [458]
+  book_sinfo: 白露型駆逐艦七番艦、改白露型としては一番艦となる海風です。<br>マル２計画によって建造されました。第二水雷戦隊の一翼として、ソロモン海の戦いにも参加しました。提督、どうぞよろしくお願い致します。
+  stats:
+    taik: [16, 32]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [10, 40]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 44
+    tais: 23
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 150
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [132, 132]
+    boko_d: [128, 112]
+    kaisyu_n: [32, -4]
+    kaisyu_d: [40, -4]
+    kaizo_n: [64, 80]
+    kaizo_d: [80, 16]
+    map_n: [96, 112]
+    map_d: [80, 80]
+    ensyuf_n: [96, 112]
+    ensyuf_d: [112, 72]
+    ensyue_n: [72, 0]
+    battle_n: [104, 112]
+    battle_d: [96, 80]
+    wed_a: [120, 12]
+    wed_b: [128, 112]
+  wiki_id: 258
+  chinese_name: 
+---

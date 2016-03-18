@@ -1,3 +1,5 @@
 collections:
   quest:
     output: true
+  ship:
+    output: true

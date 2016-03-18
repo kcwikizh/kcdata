@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 37
+  sort_no: 74
+  name: 電
+  yomi: いなづま
+  stype: 2
+  ctype: 5
+  cnum: 4
+  backs: 1
+  after_lv: 20
+  after_ship_id: 237
+  get_mes: 電です。<br>どうか、よろしくお願いいたします。
+  voice_f: 0
+  filename: uuilouoffjoj
+  file_version: 5
+  book_table_id: [37, 943]
+  book_sinfo: スラバヤ沖海戦で撃沈した敵艦の乗員の救助に努めた後、キスカ、ソロモン、ニューギニア、アッツ島など、各戦域を転戦しました…<br>頑張ったの…です…。
+  stats:
+    taik: [15, 30]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [27, 69]
+    tyku: [12, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 42
+    tais: 20
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 20
+  graph:
+    boko_n: [70, 82]
+    boko_d: [24, 97]
+    kaisyu_n: [6, 4]
+    kaisyu_d: [28, 7]
+    kaizo_n: [15, 27]
+    kaizo_d: [-40, -17]
+    map_n: [11, 78]
+    map_d: [-72, 87]
+    ensyuf_n: [59, 77]
+    ensyuf_d: [-6, 29]
+    ensyue_n: [59, 0]
+    battle_n: [28, 83]
+    battle_d: [-22, 83]
+    wed_a: [152, 47]
+    wed_b: [171, 153]
+  wiki_id: 074
+  chinese_name: 电
+---

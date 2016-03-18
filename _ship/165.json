@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 165
+  sort_no: 165
+  name: 卯月
+  yomi: うづき
+  stype: 2
+  ctype: 28
+  cnum: 4
+  backs: 4
+  after_lv: 25
+  after_ship_id: 309
+  get_mes: やったぁ！ でたっぴょん！ 卯月でっす！ <br>うーちゃんって呼ばれてまっす！
+  voice_f: 1
+  filename: gjtvekieqatn
+  file_version: 14
+  book_table_id: [165, 989]
+  book_sinfo: 睦月型駆逐艦四番艦の「卯月」だぴょん。船団護衛から攻略作戦まで、頑張って働いたんでっす！　最後のほうは砲をいくつか下して機銃を一杯積んだよ。<br>うーちゃん、爆撃じゃ沈まないから！
+  stats:
+    taik: [13, 24]
+    souk: [5, 18]
+    houg: [6, 29]
+    raig: [18, 49]
+    tyku: [7, 29]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 37
+    tais: 16
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [0, 52]
+    boko_d: [0, 48]
+    kaisyu_n: [8, 0]
+    kaisyu_d: [20, 12]
+    kaizo_n: [16, 16]
+    kaizo_d: [0, 0]
+    map_n: [48, 48]
+    map_d: [48, 48]
+    ensyuf_n: [48, 26]
+    ensyuf_d: [32, -16]
+    ensyue_n: [32, 0]
+    battle_n: [56, 48]
+    battle_d: [48, 48]
+    wed_a: [149, 72]
+    wed_b: [174, 160]
+  wiki_id: 165
+  chinese_name: 卯月
+---

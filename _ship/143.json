@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 143
+  sort_no: 143
+  name: 武蔵
+  yomi: むさし
+  stype: 9
+  ctype: 37
+  cnum: 2
+  backs: 7
+  after_lv: 40
+  after_ship_id: 148
+  get_mes: フッ、随分待たせたようだな……。<br>大和型戦艦二番艦、武蔵。参る！
+  voice_f: 3
+  filename: ilxnmfogntbo
+  file_version: 8
+  book_table_id: [143]
+  book_sinfo: 大和型戦艦二番艦、武蔵だ。<br>長崎生まれだ。よろしく頼むぞ。<br>姉妹艦の大和や信濃と同じく、極秘裏に建造されたのさ。ああ、この主砲を存分に撃ち合いたかったな。今度は頼めるか…ありがたい！
+  stats:
+    taik: [94, 98]
+    souk: [88, 108]
+    houg: [96, 129]
+    raig: [0, 0]
+    tyku: [50, 94]
+    luck: [10, 79]
+    soku: 5
+    leng: 4
+    kaih: 27
+    tais: 0
+    slot_num: 4
+    max_eq: [7, 7, 7, 7, 0]
+    after_fuel: 3000
+    after_bull: 2500
+    fuel_max: 250
+    bull_max: 300
+    broken: [35, 50, 100, 10]
+    pow_up: [7, 0, 2, 5]
+    build_time: 480
+  graph:
+    boko_n: [0, 56]
+    boko_d: [16, 72]
+    kaisyu_n: [8, 0]
+    kaisyu_d: [48, 0]
+    kaizo_n: [-32, 24]
+    kaizo_d: [24, 24]
+    map_n: [-24, 48]
+    map_d: [48, 72]
+    ensyuf_n: [16, 60]
+    ensyuf_d: [32, 16]
+    ensyue_n: [-24, 0]
+    battle_n: [16, 72]
+    battle_d: [32, 104]
+    wed_a: [250, 80]
+    wed_b: [87, 96]
+  wiki_id: 143
+  chinese_name: 武藏
+---

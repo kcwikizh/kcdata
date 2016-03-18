@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 140
+  sort_no: 140
+  name: 酒匂
+  yomi: さかわ
+  stype: 3
+  ctype: 41
+  cnum: 4
+  backs: 5
+  after_lv: 35
+  after_ship_id: 314
+  get_mes: ぴゃん♪　阿賀野型軽巡四番艦、酒匂です！<br>司令、よろしくね！
+  voice_f: 3
+  filename: vrtbgpzuepqx
+  file_version: 9
+  book_table_id: [140]
+  book_sinfo: 阿賀野型軽巡姉妹の末っ子、四番艦の酒匂だよ。<br>生まれるのが遅すぎたかな、あまりお外にはいけなかった。矢矧ちゃんと一緒に行きたかったけど…舞鶴でお留守番したの。
+  stats:
+    taik: [31, 45]
+    souk: [17, 32]
+    houg: [19, 41]
+    raig: [23, 71]
+    tyku: [17, 62]
+    luck: [20, 49]
+    soku: 10
+    leng: 2
+    kaih: 36
+    tais: 27
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 300
+    after_bull: 220
+    fuel_max: 30
+    bull_max: 35
+    broken: [3, 4, 13, 1]
+    pow_up: [1, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [-32, 104]
+    boko_d: [40, 128]
+    kaisyu_n: [16, 16]
+    kaisyu_d: [32, 32]
+    kaizo_n: [-64, 48]
+    kaizo_d: [-24, 40]
+    map_n: [-64, 96]
+    map_d: [-8, 128]
+    ensyuf_n: [-8, 112]
+    ensyuf_d: [32, 96]
+    ensyue_n: [-64, 0]
+    battle_n: [-32, 96]
+    battle_d: [32, 96]
+    wed_a: [256, 32]
+    wed_b: [112, 112]
+  wiki_id: 140
+  chinese_name: 酒匂
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 436
+  sort_no: 236
+  name: 呂500
+  yomi: ゆー511・ろ500
+  stype: 13
+  ctype: 57
+  cnum: 1
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: UボートU-511改め、呂号第500潜水艦です。<br>ユーちゃん改め、ローちゃんです。<br>テイトク、よろしくお願いしまーす！
+  voice_f: 3
+  filename: wnibjvejengh
+  file_version: 12
+  book_table_id: [436]
+  book_sinfo: ドイツ海軍のUボート、U-511を日本海軍式に改装して運用した、呂号第500潜水艦です。<br>舞鶴を母港として運用されました。実戦には出なかったんだけど、対潜部隊の訓練などで活躍しました、はい！
+  stats:
+    taik: [13, 19]
+    souk: [7, 21]
+    houg: [4, 13]
+    raig: [30, 69]
+    tyku: [0, 0]
+    luck: [44, 77]
+    soku: 5
+    leng: 1
+    kaih: 24
+    tais: 0
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 20
+    broken: [1, 2, 2, 1]
+    pow_up: [1, 2, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [104, 160]
+    boko_d: [128, 156]
+    kaisyu_n: [0, -12]
+    kaisyu_d: [24, -4]
+    kaizo_n: [56, 88]
+    kaizo_d: [72, 64]
+    map_n: [56, 144]
+    map_d: [80, 144]
+    ensyuf_n: [64, 128]
+    ensyuf_d: [96, 128]
+    ensyue_n: [48, 0]
+    battle_n: [96, 136]
+    battle_d: [96, 144]
+    wed_a: [144, -12]
+    wed_b: [128, 112]
+  wiki_id: 236
+  chinese_name: 吕500
+---

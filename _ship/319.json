@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 319
+  sort_no: 191
+  name: 妙高改二
+  yomi: みょうこう
+  stype: 5
+  ctype: 29
+  cnum: 1
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 私、妙高型重巡洋艦、妙高と申します。<br>共に頑張りましょう。
+  voice_f: 3
+  filename: kadfixosusrf
+  file_version: 15
+  book_table_id: [319]
+  book_sinfo: ワシントン海軍軍縮条約下で建造された重巡洋艦です。<br>平賀譲氏設計による日本海軍の第一級の戦闘艦です。<br>現代の海上自衛隊のイージス艦にも、その名は受け継がれています。
+  stats:
+    taik: [56, 71]
+    souk: [47, 78]
+    houg: [50, 80]
+    raig: [36, 88]
+    tyku: [28, 80]
+    luck: [32, 79]
+    soku: 10
+    leng: 2
+    kaih: 47
+    tais: 0
+    slot_num: 4
+    max_eq: [2, 2, 4, 4, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 45
+    bull_max: 75
+    broken: [4, 7, 20, 2]
+    pow_up: [3, 1, 2, 2]
+    build_time: 80
+  graph:
+    boko_n: [48, 144]
+    boko_d: [64, 144]
+    kaisyu_n: [8, 16]
+    kaisyu_d: [64, -32]
+    kaizo_n: [-8, 72]
+    kaizo_d: [32, 64]
+    map_n: [0, 128]
+    map_d: [48, 128]
+    ensyuf_n: [32, 128]
+    ensyuf_d: [64, 128]
+    ensyue_n: [0, 0]
+    battle_n: [32, 128]
+    battle_d: [48, 128]
+    wed_a: [192, 0]
+    wed_b: [128, 112]
+  wiki_id: 191
+  chinese_name: 妙高改二
+---

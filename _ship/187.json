@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 187
+  sort_no: 187
+  name: 明石改
+  yomi: あかし
+  stype: 19
+  ctype: 49
+  cnum: 1
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: 工作艦、明石です。<br>少々の損傷だったら、私が泊地でばっちり直してあげますね。<br>お任せください！
+  voice_f: 3
+  filename: scobmrrdbmsw
+  file_version: 19
+  book_table_id: [187, 910, 932]
+  book_sinfo: 連合艦隊唯一の工作艦、明石です。<br>トラック泊地に進出し、前線で損傷した艦艇の修理を担当したわ。トラック泊地が壊滅するその日まで、前線の艦隊を陰で支えたのよ。<br>よろしくね。
+  stats:
+    taik: [45, 58]
+    souk: [9, 27]
+    houg: [6, 24]
+    raig: [0, 0]
+    tyku: [16, 36]
+    luck: [12, 49]
+    soku: 5
+    leng: 1
+    kaih: 10
+    tais: 0
+    slot_num: 4
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 55
+    bull_max: 15
+    broken: [3, 2, 16, 3]
+    pow_up: [0, 0, 1, 1]
+    build_time: 150
+  graph:
+    boko_n: [180, 148]
+    boko_d: [180, 148]
+    kaisyu_n: [40, -8]
+    kaisyu_d: [32, -8]
+    kaizo_n: [108, 92]
+    kaizo_d: [80, 80]
+    map_n: [104, 120]
+    map_d: [104, 120]
+    ensyuf_n: [124, 132]
+    ensyuf_d: [112, 132]
+    ensyue_n: [120, 0]
+    battle_n: [128, 132]
+    battle_d: [128, 132]
+    wed_a: [96, -8]
+    wed_b: [102, 88]
+  wiki_id: 187
+  chinese_name: 明石改
+---

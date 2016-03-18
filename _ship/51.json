@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 51
+  sort_no: 28
+  name: 天龍
+  yomi: てんりゅう
+  stype: 3
+  ctype: 21
+  cnum: 1
+  backs: 3
+  after_lv: 20
+  after_ship_id: 213
+  get_mes: オレの名は天龍。<br>フフフ、怖いか？
+  voice_f: 0
+  filename: vswgjojfoqdc
+  file_version: 12
+  book_table_id: [51, 930]
+  book_sinfo: 天龍型１番艦、天龍だ。<br>駆逐艦を束ねて、殴り込みの水雷戦隊を率いるぜ。<br>相棒は、同型艦の龍田だ。<br>あいつ、ちゃんとやってるかな？ま、いいけどな。
+  stats:
+    taik: [23, 35]
+    souk: [7, 29]
+    houg: [11, 39]
+    raig: [18, 59]
+    tyku: [8, 39]
+    luck: [17, 49]
+    soku: 10
+    leng: 2
+    kaih: 35
+    tais: 18
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 150
+    after_bull: 200
+    fuel_max: 25
+    bull_max: 20
+    broken: [1, 1, 8, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 60
+  graph:
+    boko_n: [13, -4]
+    boko_d: [14, -9]
+    kaisyu_n: [55, -4]
+    kaisyu_d: [46, 7]
+    kaizo_n: [-19, -61]
+    kaizo_d: [-10, -95]
+    map_n: [48, 10]
+    map_d: [-19, -4]
+    ensyuf_n: [63, -22]
+    ensyuf_d: [14, -60]
+    ensyue_n: [44, 0]
+    battle_n: [34, 4]
+    battle_d: [34, 4]
+    wed_a: [90, 150]
+    wed_b: [134, 141]
+  wiki_id: 028
+  chinese_name: 天龙
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 197
+  sort_no: 197
+  name: 蒼龍改二
+  yomi: そうりゅう
+  stype: 11
+  ctype: 17
+  cnum: 1
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: 航空母艦、蒼龍です。<br>空母機動部隊を編制するなら、私もぜひ入れてね！
+  voice_f: 0
+  filename: mwlzgwdjlpxx
+  file_version: 16
+  book_table_id: [197]
+  book_sinfo: 航空母艦、蒼龍です。<br>真珠湾攻撃から始まって、緒戦の重要な戦いに、主力空母の一隻として参加しました。<br>え？なに、ミッドウェー？なにそれ、美味しいの？
+  stats:
+    taik: [67, 89]
+    souk: [36, 75]
+    houg: [0, 57]
+    raig: [0, 0]
+    tyku: [34, 84]
+    luck: [15, 59]
+    soku: 10
+    leng: 1
+    kaih: 36
+    tais: 0
+    slot_num: 4
+    max_eq: [18, 35, 20, 6, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 70
+    bull_max: 75
+    broken: [10, 14, 32, 11]
+    pow_up: [0, 0, 4, 5]
+    build_time: 250
+  graph:
+    boko_n: [-48, -112]
+    boko_d: [-48, -112]
+    kaisyu_n: [-16, -8]
+    kaisyu_d: [8, 4]
+    kaizo_n: [-112, -152]
+    kaizo_d: [-112, -168]
+    map_n: [-96, -112]
+    map_d: [-104, -112]
+    ensyuf_n: [-64, -112]
+    ensyuf_d: [-64, -112]
+    ensyue_n: [-96, 0]
+    battle_n: [-112, -104]
+    battle_d: [-112, -104]
+    wed_a: [336, 240]
+    wed_b: [104, 96]
+  wiki_id: 197
+  chinese_name: 苍龙改二
+---

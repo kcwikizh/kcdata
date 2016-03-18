@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 219
+  sort_no: 1319
+  name: 五十鈴改
+  yomi: いすず
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 50
+  after_ship_id: 141
+  get_mes: 五十鈴です。水雷戦隊の指揮ならお任せ。<br>全力で提督を勝利に導くわ。よろしくね。
+  voice_f: 0
+  filename: espxbipsjiyt
+  file_version: 1
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [37, 59]
+    souk: [29, 59]
+    houg: [18, 59]
+    raig: [24, 79]
+    tyku: [40, 59]
+    luck: [12, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 270
+    after_bull: 360
+    fuel_max: 25
+    bull_max: 30
+    broken: [2, 2, 10, 0]
+    pow_up: [1, 1, 4, 2]
+    build_time: 60
+  graph:
+    boko_n: [11, 109]
+    boko_d: [0, 120]
+    kaisyu_n: [14, 13]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-44, 54]
+    kaizo_d: [-12, 8]
+    map_n: [-7, 107]
+    map_d: [-96, 110]
+    ensyuf_n: [10, 106]
+    ensyuf_d: [-29, 57]
+    ensyue_n: [10, 0]
+    battle_n: [-13, 88]
+    battle_d: [-14, 88]
+    wed_a: [230, 25]
+    wed_b: [144, 145]
+  wiki_id: 043a
+  chinese_name: 五十铃改
+---

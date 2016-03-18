@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 404
+  sort_no: 201
+  name: 雲龍
+  yomi: うんりゅう
+  stype: 11
+  ctype: 53
+  cnum: 1
+  backs: 6
+  after_lv: 50
+  after_ship_id: 406
+  get_mes: 雲龍型航空母艦、雲龍、推参しました。<br>提督、よろしくお願いしますね。
+  voice_f: 1
+  filename: xgoisifuerjd
+  file_version: 1
+  book_table_id: [404]
+  book_sinfo: マル急計画によって戦時建造された雲龍型航空母艦の長女、雲龍よ。<br>傑作中型空母の飛龍を改良した量産型正規空母なの。新生機動部隊の主力としての潜在実力は十分なのだけど…今度は見ててよね。
+  stats:
+    taik: [48, 79]
+    souk: [26, 52]
+    houg: [0, 27]
+    raig: [0, 0]
+    tyku: [28, 72]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 32
+    tais: 0
+    slot_num: 4
+    max_eq: [18, 24, 3, 6, 0]
+    after_fuel: 750
+    after_bull: 1000
+    fuel_max: 50
+    bull_max: 45
+    broken: [7, 9, 26, 5]
+    pow_up: [0, 0, 3, 3]
+    build_time: 210
+  graph:
+    boko_n: [56, 120]
+    boko_d: [56, 172]
+    kaisyu_n: [24, -4]
+    kaisyu_d: [24, -8]
+    kaizo_n: [0, 64]
+    kaizo_d: [16, 64]
+    map_n: [24, 112]
+    map_d: [40, 128]
+    ensyuf_n: [32, 96]
+    ensyuf_d: [48, 128]
+    ensyue_n: [16, 0]
+    battle_n: [48, 100]
+    battle_d: [48, 128]
+    wed_a: [184, 24]
+    wed_b: [120, 120]
+  wiki_id: 201
+  chinese_name: 云龙
+---

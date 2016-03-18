@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 7
+  sort_no: 37
+  name: 三日月
+  yomi: みかづき
+  stype: 2
+  ctype: 28
+  cnum: 10
+  backs: 1
+  after_lv: 20
+  after_ship_id: 260
+  get_mes: あなたが司令官ですね。三日月です。<br>どうぞお手柔らかにお願いします。
+  voice_f: 0
+  filename: ujhxqqlcorxv
+  file_version: 11
+  book_table_id: [7]
+  book_sinfo: 軽空母のエスコートや船団護衛に従事した睦月型駆逐艦三日月です。<br>激戦のソロモン海域にも出撃しました。<br>旧式だけど速力を生かして強行輸送任務も奮闘しました。
+  stats:
+    taik: [13, 24]
+    souk: [5, 18]
+    houg: [6, 29]
+    raig: [18, 49]
+    tyku: [7, 29]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 37
+    tais: 16
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [86, 90]
+    boko_d: [59, -3]
+    kaisyu_n: [37, 11]
+    kaisyu_d: [28, 7]
+    kaizo_n: [31, 35]
+    kaizo_d: [6, -65]
+    map_n: [-10, 90]
+    map_d: [-37, -13]
+    ensyuf_n: [79, 84]
+    ensyuf_d: [-27, -39]
+    ensyue_n: [79, 0]
+    battle_n: [42, 98]
+    battle_d: [-13, 6]
+    wed_a: [151, 41]
+    wed_b: [142, 149]
+  wiki_id: 037
+  chinese_name: 三日月
+---

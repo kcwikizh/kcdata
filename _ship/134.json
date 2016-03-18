@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 134
+  sort_no: 134
+  name: 巻雲
+  yomi: まきぐも
+  stype: 2
+  ctype: 38
+  cnum: 2
+  backs: 4
+  after_lv: 30
+  after_ship_id: 303
+  get_mes: 夕雲型駆逐艦、巻雲といいます。<br>夕雲姉さんを見習って、頑張ります！
+  voice_f: 3
+  filename: piobwloefpcz
+  file_version: 5
+  book_table_id: [134, 972]
+  book_sinfo: 夕雲型駆逐艦二番艦、巻雲です。<br>ホーネットの後始末、事情許さば拿捕曳航されたし…って云われても、結構無理ゲーだし…って、秋雲がこっち指差して笑ってるし。本当にもうなんなの？
+  stats:
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 30]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [11, 49]
+    soku: 10
+    leng: 1
+    kaih: 47
+    tais: 27
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 120
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
+  graph:
+    boko_n: [36, 52]
+    boko_d: [36, 88]
+    kaisyu_n: [44, -12]
+    kaisyu_d: [32, -8]
+    kaizo_n: [70, 16]
+    kaizo_d: [24, 16]
+    map_n: [29, 24]
+    map_d: [32, 72]
+    ensyuf_n: [120, 40]
+    ensyuf_d: [16, 28]
+    ensyue_n: [80, 0]
+    battle_n: [72, 40]
+    battle_d: [32, 72]
+    wed_a: [149, 93]
+    wed_b: [129, 131]
+  wiki_id: 134
+  chinese_name: 卷云
+---

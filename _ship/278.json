@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 278
+  sort_no: 1378
+  name: 加賀改
+  yomi: かが
+  stype: 11
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 航空母艦、加賀です。<br>貴方が私の提督なの？　それなりに期待はしているわ。
+  voice_f: 3
+  filename: uuqdlbtrkmvk
+  file_version: 12
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [79, 92]
+    souk: [40, 79]
+    houg: [0, 49]
+    raig: [0, 0]
+    tyku: [30, 79]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [20, 20, 46, 12, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 80
+    bull_max: 80
+    broken: [10, 17, 40, 15]
+    pow_up: [0, 0, 5, 4]
+    build_time: 260
+  graph:
+    boko_n: [-88, -1]
+    boko_d: [-79, 6]
+    kaisyu_n: [12, 21]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-119, -56]
+    kaizo_d: [-120, -79]
+    map_n: [-93, 5]
+    map_d: [-154, -1]
+    ensyuf_n: [-69, -16]
+    ensyuf_d: [-87, -44]
+    ensyue_n: [-69, 0]
+    battle_n: [-132, -28]
+    battle_d: [-132, -28]
+    wed_a: [325, 131]
+    wed_b: [93, 107]
+  wiki_id: 007a
+  chinese_name: 加贺改
+---

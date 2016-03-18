@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 408
+  sort_no: 208
+  name: 隼鷹改二
+  yomi: じゅんよう
+  stype: 7
+  ctype: 24
+  cnum: 2
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 商船改装空母、隼鷹でーすっ！<br>ひゃっはぁー！
+  voice_f: 1
+  filename: yyyfqcpumpxj
+  file_version: 4
+  book_table_id: [408]
+  book_sinfo: 戦時改造を前提に建造した豪華客船、橿原丸。<br>その改装した姿が空母、隼鷹さ。<br>ちゃーんと戦い抜いて、最後まで生き残ったんだぜ。意外とやるでしょ？
+  stats:
+    taik: [55, 82]
+    souk: [31, 62]
+    houg: [0, 40]
+    raig: [0, 0]
+    tyku: [36, 74]
+    luck: [41, 84]
+    soku: 5
+    leng: 1
+    kaih: 41
+    tais: 0
+    slot_num: 4
+    max_eq: [24, 18, 20, 4, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 45
+    bull_max: 50
+    broken: [6, 14, 26, 10]
+    pow_up: [0, 0, 4, 3]
+    build_time: 180
+  graph:
+    boko_n: [40, 72]
+    boko_d: [56, 112]
+    kaisyu_n: [24, 24]
+    kaisyu_d: [36, 24]
+    kaizo_n: [-8, 56]
+    kaizo_d: [16, 48]
+    map_n: [-24, 72]
+    map_d: [0, 112]
+    ensyuf_n: [24, 56]
+    ensyuf_d: [40, 104]
+    ensyue_n: [-8, 0]
+    battle_n: [24, 64]
+    battle_d: [32, 104]
+    wed_a: [176, 64]
+    wed_b: [128, 104]
+  wiki_id: 208
+  chinese_name: 隼鹰改二
+---

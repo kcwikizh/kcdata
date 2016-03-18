@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 122
+  sort_no: 119
+  name: 舞風
+  yomi: まいかぜ
+  stype: 2
+  ctype: 30
+  cnum: 18
+  backs: 4
+  after_lv: 20
+  after_ship_id: 294
+  get_mes: こんにちは！陽炎型駆逐艦、舞風です。<br>暗い雰囲気は苦手です！
+  voice_f: 3
+  filename: emjpbjscgcvf
+  file_version: 16
+  book_table_id: [122]
+  book_sinfo: 陽炎型駆逐艦の舞風よ。ミッドウェーから南方作戦まで、戦場で舞い続けたの。同じ陽炎型の野分とは仲良しよ。あのトラック島が襲撃された時も近くにいてくれたわ。
+  stats:
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 45
+    tais: 24
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
+  graph:
+    boko_n: [-4, 84]
+    boko_d: [-4, 84]
+    kaisyu_n: [18, 7]
+    kaisyu_d: [28, 7]
+    kaizo_n: [16, 16]
+    kaizo_d: [16, 16]
+    map_n: [30, 84]
+    map_d: [0, 84]
+    ensyuf_n: [20, 80]
+    ensyuf_d: [20, 40]
+    ensyue_n: [20, 0]
+    battle_n: [32, 56]
+    battle_d: [32, 56]
+    wed_a: [140, 43]
+    wed_b: [136, 139]
+  wiki_id: 119
+  chinese_name: 舞风
+---

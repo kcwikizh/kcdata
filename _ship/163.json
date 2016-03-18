@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 163
+  sort_no: 163
+  name: まるゆ
+  yomi: まるゆ
+  stype: 13
+  ctype: 46
+  cnum: 1
+  backs: 5
+  after_lv: 20
+  after_ship_id: 402
+  get_mes: 初めまして…まるゆ着任しました。<br>え？聞いてないって…そんなあ！
+  voice_f: 3
+  filename: joaeulumcgbh
+  file_version: 1
+  book_table_id: [163]
+  book_sinfo: まるゆは海軍工廠出身じゃないので、同郷のお友達がいないんです。皆さんとちょっと違うっていうか…木曾さんには第一声で「何だお前、潜れるのか？」なんて言われちゃうし…まるゆ、ここで上手くやっていけるのかなあ…。
+  stats:
+    taik: [6, 9]
+    souk: [2, 9]
+    houg: [1, 3]
+    raig: [0, 9]
+    tyku: [0, 0]
+    luck: [7, 77]
+    soku: 5
+    leng: 1
+    kaih: 9
+    tais: 0
+    slot_num: 0
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 50
+    after_bull: 20
+    fuel_max: 10
+    bull_max: 5
+    broken: [1, 0, 1, 0]
+    pow_up: [0, 0, 0, 1]
+    build_time: 17
+  graph:
+    boko_n: [128, 128]
+    boko_d: [128, 168]
+    kaisyu_n: [24, 0]
+    kaisyu_d: [72, -8]
+    kaizo_n: [128, 72]
+    kaizo_d: [112, 96]
+    map_n: [128, 128]
+    map_d: [144, 128]
+    ensyuf_n: [168, 120]
+    ensyuf_d: [144, 72]
+    ensyue_n: [128, 0]
+    battle_n: [144, 112]
+    battle_d: [144, 128]
+    wed_a: [45, 0]
+    wed_b: [151, 144]
+  wiki_id: 163
+  chinese_name: 丸输
+---

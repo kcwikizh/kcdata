@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 460
+  sort_no: 260
+  name: 速吸
+  yomi: はやすい
+  stype: 22
+  ctype: 60
+  cnum: 1
+  backs: 6
+  after_lv: 25
+  after_ship_id: 352
+  get_mes: おはようございます！<br>航空機搭載給油艦、速吸です！<br>皆さんのサポート、頑張ります！
+  voice_f: 1
+  filename: ajggcaaaocgh
+  file_version: 9
+  book_table_id: [460]
+  book_sinfo: 艦隊随伴型の給油艦、速吸です。よろしくお願いします！<br>様々な物資を補給できる多用途給油艦でありながら、航空機の運用が可能な設計です。ミッドウェー海戦後の計画変更で流星の発進も可能となりました！
+  stats:
+    taik: [43, 50]
+    souk: [3, 15]
+    houg: [4, 22]
+    raig: [0, 0]
+    tyku: [10, 32]
+    luck: [7, 39]
+    soku: 5
+    leng: 1
+    kaih: 9
+    tais: 5
+    slot_num: 2
+    max_eq: [6, 1, 0, 0, 0]
+    after_fuel: 270
+    after_bull: 200
+    fuel_max: 100
+    bull_max: 15
+    broken: [6, 0, 20, 1]
+    pow_up: [0, 0, 1, 1]
+    build_time: 220
+  graph:
+    boko_n: [96, 136]
+    boko_d: [104, 168]
+    kaisyu_n: [16, 0]
+    kaisyu_d: [48, 0]
+    kaizo_n: [44, 88]
+    kaizo_d: [80, 56]
+    map_n: [64, 132]
+    map_d: [80, 144]
+    ensyuf_n: [80, 128]
+    ensyuf_d: [96, 136]
+    ensyue_n: [64, 0]
+    battle_n: [64, 136]
+    battle_d: [96, 144]
+    wed_a: [136, -8]
+    wed_b: [136, 128]
+  wiki_id: 260
+  chinese_name: 
+---

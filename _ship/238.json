@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 238
+  sort_no: 1338
+  name: 初春改
+  yomi: はつはる
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 65
+  after_ship_id: 326
+  get_mes: わらわが初春じゃ。<br>よろしく頼みますぞ。
+  voice_f: 1
+  filename: tedevipdbvdr
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 48]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 200
+    after_bull: 200
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [28, 26]
+    boko_d: [11, 35]
+    kaisyu_n: [29, -42]
+    kaisyu_d: [28, -30]
+    kaizo_n: [-27, -29]
+    kaizo_d: [-44, -50]
+    map_n: [-23, 40]
+    map_d: [-85, 25]
+    ensyuf_n: [9, 27]
+    ensyuf_d: [-32, -16]
+    ensyue_n: [9, 0]
+    battle_n: [-33, 27]
+    battle_d: [-35, 28]
+    wed_a: [218, 123]
+    wed_b: [131, 133]
+  wiki_id: 075a
+  chinese_name: 初春改
+---

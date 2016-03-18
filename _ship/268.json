@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 268
+  sort_no: 1368
+  name: 羽黒改
+  yomi: はぐろ
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 65
+  after_ship_id: 194
+  get_mes: 羽黒です。妙高型重巡洋艦姉妹の末っ娘です。<br>あ、あの…ごめんなさいっ！
+  voice_f: 1
+  filename: uilfcyypnbwm
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [55, 69]
+    souk: [42, 73]
+    houg: [48, 77]
+    raig: [24, 69]
+    tyku: [18, 69]
+    luck: [10, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 800
+    after_bull: 900
+    fuel_max: 40
+    bull_max: 70
+    broken: [4, 7, 20, 2]
+    pow_up: [3, 1, 1, 2]
+    build_time: 80
+  graph:
+    boko_n: [81, 93]
+    boko_d: [75, 74]
+    kaisyu_n: [-3, 6]
+    kaisyu_d: [21, 23]
+    kaizo_n: [55, 40]
+    kaizo_d: [27, -10]
+    map_n: [54, 102]
+    map_d: [-21, 64]
+    ensyuf_n: [71, 82]
+    ensyuf_d: [28, 15]
+    ensyue_n: [71, 0]
+    battle_n: [34, 55]
+    battle_d: [30, 26]
+    wed_a: [149, 40]
+    wed_b: [106, 114]
+  wiki_id: 058a
+  chinese_name: 羽黑改
+---

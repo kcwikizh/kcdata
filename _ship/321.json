@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 321
+  sort_no: 1414
+  name: 大淀改
+  yomi: おおよど
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: 提督、旗艦大淀、お供いたします。<br>前線艦隊指揮はどうぞお任せください！
+  voice_f: 3
+  filename: gixbrtnuabge
+  file_version: 15
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [47, 64]
+    souk: [32, 68]
+    houg: [32, 63]
+    raig: [0, 49]
+    tyku: [22, 74]
+    luck: [30, 79]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [0, 6, 6, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 35
+    bull_max: 35
+    broken: [4, 3, 14, 3]
+    pow_up: [2, 0, 2, 2]
+    build_time: 80
+  graph:
+    boko_n: [212, 144]
+    boko_d: [192, 144]
+    kaisyu_n: [32, 4]
+    kaisyu_d: [40, 8]
+    kaizo_n: [132, 84]
+    kaizo_d: [112, 84]
+    map_n: [112, 120]
+    map_d: [92, 120]
+    ensyuf_n: [136, 128]
+    ensyuf_d: [116, 128]
+    ensyue_n: [120, 0]
+    battle_n: [144, 132]
+    battle_d: [124, 132]
+    wed_a: [72, -8]
+    wed_b: [104, 92]
+  wiki_id: 183a
+  chinese_name: 大淀改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 21
+  sort_no: 42
+  name: 長良
+  yomi: ながら
+  stype: 3
+  ctype: 20
+  cnum: 1
+  backs: 4
+  after_lv: 20
+  after_ship_id: 218
+  get_mes: 軽巡、長良です。<br>よろしくお願いします！
+  voice_f: 0
+  filename: debsnofmttkx
+  file_version: 3
+  book_table_id: [21, 944]
+  book_sinfo: 5500トン級軽巡洋艦、長良型の１番艦、長良よ。<br>ちょっとモデルは古いけど、高速・魚雷発射主兵装・水雷戦隊指揮能力と、駆逐艦仕切るにはバッチリでしょ？<br>ソロモン海での激闘でも奮戦したんだから！
+  stats:
+    taik: [26, 39]
+    souk: [10, 29]
+    houg: [14, 49]
+    raig: [24, 89]
+    tyku: [13, 59]
+    luck: [12, 49]
+    soku: 10
+    leng: 2
+    kaih: 37
+    tais: 20
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 200
+    after_bull: 200
+    fuel_max: 25
+    bull_max: 25
+    broken: [2, 2, 10, 0]
+    pow_up: [0, 1, 0, 2]
+    build_time: 60
+  graph:
+    boko_n: [107, 117]
+    boko_d: [111, 136]
+    kaisyu_n: [7, 20]
+    kaisyu_d: [28, 20]
+    kaizo_n: [52, 62]
+    kaizo_d: [59, 16]
+    map_n: [60, 107]
+    map_d: [15, 126]
+    ensyuf_n: [114, 100]
+    ensyuf_d: [49, 54]
+    ensyue_n: [114, 0]
+    battle_n: [75, 94]
+    battle_d: [75, 94]
+    wed_a: [133, 19]
+    wed_b: [132, 132]
+  wiki_id: 042
+  chinese_name: 长良
+---

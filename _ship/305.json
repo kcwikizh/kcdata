@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 305
+  sort_no: 1401
+  name: 阿賀野改
+  yomi: あがの
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: こんにちはーっ！<br>最新鋭軽巡の阿賀野でーすっ。ふふ。
+  voice_f: 7
+  filename: cmpqwemjahur
+  file_version: 9
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [45, 62]
+    souk: [31, 69]
+    houg: [28, 66]
+    raig: [24, 79]
+    tyku: [20, 72]
+    luck: [10, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 40
+    broken: [3, 5, 14, 1]
+    pow_up: [2, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [-64, 76]
+    boko_d: [-32, 136]
+    kaisyu_n: [8, 8]
+    kaisyu_d: [20, 12]
+    kaizo_n: [-84, 16]
+    kaizo_d: [-64, 32]
+    map_n: [-72, 48]
+    map_d: [-40, 112]
+    ensyuf_n: [-32, 72]
+    ensyuf_d: [-48, 84]
+    ensyue_n: [-80, 0]
+    battle_n: [-120, 60]
+    battle_d: [-64, 120]
+    wed_a: [290, 60]
+    wed_b: [118, 126]
+  wiki_id: 137a
+  chinese_name: 阿贺野改
+---

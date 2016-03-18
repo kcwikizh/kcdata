@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 193
+  sort_no: 193
+  name: 足柄改二
+  yomi: あしがら
+  stype: 5
+  ctype: 29
+  cnum: 3
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 足柄よ。砲雷撃戦が得意なの。<br>ふふ、よろしくね。
+  voice_f: 3
+  filename: bxbyaifmqdxk
+  file_version: 14
+  book_table_id: [193]
+  book_sinfo: 私、足柄が英国の観艦式に参加した時のことよ。<br>まるで「飢えた狼のよう」と評価されたの。<br>当然よね！この精悍なボディ！<br>え？それは色気がないって嫌味じゃないかって？<br>そんなことあるわけ…ナイじゃない！
+  stats:
+    taik: [56, 71]
+    souk: [47, 79]
+    houg: [53, 82]
+    raig: [34, 84]
+    tyku: [26, 74]
+    luck: [20, 72]
+    soku: 10
+    leng: 2
+    kaih: 44
+    tais: 0
+    slot_num: 4
+    max_eq: [2, 2, 4, 4, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 45
+    bull_max: 75
+    broken: [4, 7, 20, 2]
+    pow_up: [3, 1, 2, 2]
+    build_time: 80
+  graph:
+    boko_n: [-32, 140]
+    boko_d: [0, 144]
+    kaisyu_n: [16, 4]
+    kaisyu_d: [28, 12]
+    kaizo_n: [-80, 64]
+    kaizo_d: [-32, 48]
+    map_n: [-64, 128]
+    map_d: [-48, 128]
+    ensyuf_n: [-48, 104]
+    ensyuf_d: [-8, 112]
+    ensyue_n: [-80, 0]
+    battle_n: [0, 112]
+    battle_d: [8, 112]
+    wed_a: [288, 0]
+    wed_b: [144, 112]
+  wiki_id: 193
+  chinese_name: 足柄改二
+---

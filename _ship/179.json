@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 179
+  sort_no: 179
+  name: Z1 zwei
+  yomi: レーベレヒト・マース
+  stype: 2
+  ctype: 48
+  cnum: 1
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: Guten Morgen.<br>僕の名前はレーベレヒト・マース。<br>レーベでいいよ…うん。
+  voice_f: 3
+  filename: qgkjswznylty
+  file_version: 3
+  book_table_id: [179]
+  book_sinfo: ドイツ生まれの駆逐艦、その本格的な大型駆逐艦の一番艦だよ。<br>高温高圧缶や機関部のシフト配置など、技術の国ならではの設計になっているんだ。あまり外洋での艦隊戦は得意じゃないけど…頑張るよ！
+  stats:
+    taik: [35, 59]
+    souk: [18, 53]
+    houg: [12, 49]
+    raig: [27, 71]
+    tyku: [20, 64]
+    luck: [15, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 37
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 20
+    bull_max: 25
+    broken: [1, 1, 6, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 24
+  graph:
+    boko_n: [48, 144]
+    boko_d: [64, 128]
+    kaisyu_n: [16, 0]
+    kaisyu_d: [24, 8]
+    kaizo_n: [48, 64]
+    kaizo_d: [72, 32]
+    map_n: [48, 112]
+    map_d: [64, 112]
+    ensyuf_n: [64, 112]
+    ensyuf_d: [64, 48]
+    ensyue_n: [32, 0]
+    battle_n: [48, 112]
+    battle_d: [80, 112]
+    wed_a: [168, 24]
+    wed_b: [112, 112]
+  wiki_id: 179
+  chinese_name: Z1 zwei
+---

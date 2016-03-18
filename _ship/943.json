@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 943
+  sort_no: 0
+  name: 
+  yomi: 
+  stype: 
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: obicookwhnpj
+  file_version: 1
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [112, 160]
+    boko_d: [96, 168]
+    kaisyu_n: [6, 4]
+    kaisyu_d: [28, 7]
+    kaizo_n: [72, 88]
+    kaizo_d: [48, 64]
+    map_n: [80, 136]
+    map_d: [64, 128]
+    ensyuf_n: [100, 128]
+    ensyuf_d: [64, 116]
+    ensyue_n: [72, 0]
+    battle_n: [88, 136]
+    battle_d: [72, 128]
+    wed_a: [124, 0]
+    wed_b: [132, 112]
+  wiki_id: 
+  chinese_name: 
+---

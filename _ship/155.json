@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 155
+  sort_no: 155
+  name: 伊401
+  yomi: い401
+  stype: 14
+  ctype: 44
+  cnum: 2
+  backs: 6
+  after_lv: 35
+  after_ship_id: 403
+  get_mes: 提督、ごきげんよう。潜特型二番艦伊401です。<br>しおいって呼んでね。
+  voice_f: 3
+  filename: hmiwrqvijwvv
+  file_version: 3
+  book_table_id: [155, 982]
+  book_sinfo: 伊４００型潜水艦二番艦、伊４０１です。<br>地球をぐるっと一周以上余裕で航行できる長大な航続力と、特殊攻撃機「晴嵐」を３機搭載する潜水空母なんです。そう、戦略的秘密兵器…秘密なんだからっ！
+  stats:
+    taik: [20, 24]
+    souk: [5, 24]
+    houg: [2, 9]
+    raig: [36, 72]
+    tyku: [0, 0]
+    luck: [20, 59]
+    soku: 5
+    leng: 1
+    kaih: 13
+    tais: 0
+    slot_num: 1
+    max_eq: [3, 0, 0, 0, 0]
+    after_fuel: 300
+    after_bull: 100
+    fuel_max: 20
+    bull_max: 15
+    broken: [1, 2, 3, 2]
+    pow_up: [0, 1, 1, 1]
+    build_time: 200
+  graph:
+    boko_n: [-32, 128]
+    boko_d: [-32, 128]
+    kaisyu_n: [24, 8]
+    kaisyu_d: [40, 24]
+    kaizo_n: [16, 64]
+    kaizo_d: [16, 64]
+    map_n: [32, 112]
+    map_d: [32, 112]
+    ensyuf_n: [48, 112]
+    ensyuf_d: [48, 72]
+    ensyue_n: [16, 0]
+    battle_n: [16, 96]
+    battle_d: [32, 96]
+    wed_a: [170, 8]
+    wed_b: [114, 123]
+  wiki_id: 155
+  chinese_name: 伊401
+---

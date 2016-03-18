@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 446
+  sort_no: 246
+  name: Italia
+  yomi: リットリオ・イタリア
+  stype: 8
+  ctype: 58
+  cnum: 2
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: ヴィットリオ・ヴェネト級戦艦二番艦、リットリオ改め、イタリアです。<br>よろしくお願いしますね。
+  voice_f: 7
+  filename: feyfhhruhjse
+  file_version: 12
+  book_table_id: [446, 934, 966]
+  book_sinfo: パスタの国で生まれました。ヴィットリオ・ヴェネト級戦艦２番艦、リットリオ改め、イタリアです。<br>高速で兵装も充実した新鋭高速戦艦です。妹のローマ共々、どうぞよろしくお願い致します。
+  stats:
+    taik: [92, 98]
+    souk: [77, 92]
+    houg: [81, 102]
+    raig: [0, 0]
+    tyku: [44, 90]
+    luck: [30, 79]
+    soku: 10
+    leng: 4
+    kaih: 35
+    tais: 0
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 140
+    bull_max: 170
+    broken: [18, 28, 39, 7]
+    pow_up: [5, 0, 2, 3]
+    build_time: 300
+  graph:
+    boko_n: [24, 140]
+    boko_d: [12, 152]
+    kaisyu_n: [24, -12]
+    kaisyu_d: [24, -4]
+    kaizo_n: [-24, 64]
+    kaizo_d: [-48, 88]
+    map_n: [-8, 136]
+    map_d: [-8, 144]
+    ensyuf_n: [16, 112]
+    ensyuf_d: [0, 120]
+    ensyue_n: [-8, 0]
+    battle_n: [8, 128]
+    battle_d: [-16, 144]
+    wed_a: [230, 9]
+    wed_b: [118, 121]
+  wiki_id: 246
+  chinese_name: 意大利
+---

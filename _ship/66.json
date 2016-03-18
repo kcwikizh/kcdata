@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 66
+  sort_no: 59
+  name: 高雄
+  yomi: たかお
+  stype: 5
+  ctype: 8
+  cnum: 1
+  backs: 4
+  after_lv: 25
+  after_ship_id: 269
+  get_mes: こんにちは。高雄です。<br>貴方のような素敵な提督で良かったわ。
+  voice_f: 1
+  filename: eqpvjbnbjlhy
+  file_version: 9
+  book_table_id: [66]
+  book_sinfo: 巡洋艦といえば、なんといっても、私、高雄型よね。<br>近藤中将麾下の第４戦隊に所属して、数々の海戦に参加しました。<br>激戦を戦い抜いて、最期はシンガポール防衛に努めたの。
+  stats:
+    taik: [45, 60]
+    souk: [35, 49]
+    houg: [40, 59]
+    raig: [24, 59]
+    tyku: [18, 66]
+    luck: [10, 49]
+    soku: 10
+    leng: 2
+    kaih: 35
+    tais: 0
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 300
+    after_bull: 450
+    fuel_max: 40
+    bull_max: 65
+    broken: [2, 2, 12, 1]
+    pow_up: [2, 1, 0, 2]
+    build_time: 85
+  graph:
+    boko_n: [79, 104]
+    boko_d: [78, 115]
+    kaisyu_n: [13, 28]
+    kaisyu_d: [28, 18]
+    kaizo_n: [24, 49]
+    kaizo_d: [24, 12]
+    map_n: [28, 103]
+    map_d: [20, 96]
+    ensyuf_n: [64, 96]
+    ensyuf_d: [29, 55]
+    ensyue_n: [64, 0]
+    battle_n: [12, 89]
+    battle_d: [12, 89]
+    wed_a: [178, 36]
+    wed_b: [100, 117]
+  wiki_id: 059
+  chinese_name: 高雄
+---

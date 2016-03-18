@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 320
+  sort_no: 1413
+  name: 磯風改
+  yomi: いそかぜ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 陽炎型駆逐艦十二番艦、磯風。<br>司令、共に進もう…心配はいらない。
+  voice_f: 3
+  filename: dyupugfxshtd
+  file_version: 3
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [33, 49]
+    souk: [14, 49]
+    houg: [12, 48]
+    raig: [28, 79]
+    tyku: [24, 64]
+    luck: [18, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [32, 144]
+    boko_d: [-8, 140]
+    kaisyu_n: [8, 12]
+    kaisyu_d: [24, 24]
+    kaizo_n: [-8, 72]
+    kaizo_d: [-16, 56]
+    map_n: [0, 128]
+    map_d: [-16, 128]
+    ensyuf_n: [32, 112]
+    ensyuf_d: [16, 112]
+    ensyue_n: [0, 0]
+    battle_n: [32, 128]
+    battle_d: [-8, 128]
+    wed_a: [208, 0]
+    wed_b: [112, 112]
+  wiki_id: 167a
+  chinese_name: 矶风改
+---

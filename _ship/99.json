@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 99
+  sort_no: 39
+  name: 球磨
+  yomi: くま
+  stype: 3
+  ctype: 4
+  cnum: 1
+  backs: 4
+  after_lv: 20
+  after_ship_id: 215
+  get_mes: クマー。<br>よろしくだクマ。
+  voice_f: 0
+  filename: zrmviexnupjy
+  file_version: 11
+  book_table_id: [99, 946]
+  book_sinfo: 球磨型軽巡洋艦の１番艦、球磨だクマ。<br>佐世保生まれだクマ。ちょっと古いところもあるけど、頑張るクマー。
+  stats:
+    taik: [25, 39]
+    souk: [10, 29]
+    houg: [14, 49]
+    raig: [24, 89]
+    tyku: [13, 59]
+    luck: [12, 49]
+    soku: 10
+    leng: 2
+    kaih: 36
+    tais: 19
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 200
+    after_bull: 200
+    fuel_max: 25
+    bull_max: 25
+    broken: [2, 2, 10, 0]
+    pow_up: [0, 1, 0, 2]
+    build_time: 60
+  graph:
+    boko_n: [66, 29]
+    boko_d: [71, 40]
+    kaisyu_n: [2, -12]
+    kaisyu_d: [28, 7]
+    kaizo_n: [24, -9]
+    kaizo_d: [-14, -20]
+    map_n: [21, 26]
+    map_d: [-26, 40]
+    ensyuf_n: [30, 14]
+    ensyuf_d: [-2, -26]
+    ensyue_n: [30, 0]
+    battle_n: [-19, 9]
+    battle_d: [-19, 9]
+    wed_a: [175, 108]
+    wed_b: [121, 129]
+  wiki_id: 039
+  chinese_name: 球磨
+---

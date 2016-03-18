@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 95
+  sort_no: 85
+  name: 朝潮
+  yomi: あさしお
+  stype: 2
+  ctype: 18
+  cnum: 1
+  backs: 3
+  after_lv: 20
+  after_ship_id: 248
+  get_mes: 駆逐艦、朝潮です。<br>勝負ならいつでも受けて立つ覚悟です。
+  voice_f: 0
+  filename: eeyrwdehbixg
+  file_version: 10
+  book_table_id: [95]
+  book_sinfo: 朝潮型駆逐艦のネームシップ、朝潮よ。<br>バランスのとれた量産型駆逐艦として建造され、戦線を支えたの。<br>私の進化改良型が陽炎型になるわね。
+  stats:
+    taik: [16, 33]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 79]
+    tyku: [12, 39]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [-48, 64]
+    boko_d: [-50, 64]
+    kaisyu_n: [-34, -38]
+    kaisyu_d: [-27, -24]
+    kaizo_n: [-30, -8]
+    kaizo_d: [-21, 1]
+    map_n: [-34, 55]
+    map_d: [-47, 66]
+    ensyuf_n: [-38, 54]
+    ensyuf_d: [-40, 22]
+    ensyue_n: [-38, 0]
+    battle_n: [-65, 58]
+    battle_d: [-65, 58]
+    wed_a: [320, 71]
+    wed_b: [143, 174]
+  wiki_id: 085
+  chinese_name: 朝潮
+---

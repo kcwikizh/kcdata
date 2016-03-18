@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 42
+  sort_no: 79
+  name: 白露
+  yomi: しらつゆ
+  stype: 2
+  ctype: 23
+  cnum: 1
+  backs: 3
+  after_lv: 20
+  after_ship_id: 242
+  get_mes: 白露型駆逐艦一番艦、「白露」です！<br>はい、一番艦ですっ！
+  voice_f: 0
+  filename: ahztpphnuvco
+  file_version: 21
+  book_table_id: [42, 926]
+  book_sinfo: 初春型駆逐艦の次に開発された白露型の１番艦、白露だよ！　そう、１番艦だよ、１番艦。<br>色々と改良された艦隊型駆逐艦なんだから！<br>え？慌ててタンカーと衝突しないようにって？大丈夫！
+  stats:
+    taik: [16, 32]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 79]
+    tyku: [12, 39]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [-34, 6]
+    boko_d: [-23, 131]
+    kaisyu_n: [-16, -12]
+    kaisyu_d: [-5, 7]
+    kaizo_n: [-89, -49]
+    kaizo_d: [-72, 27]
+    map_n: [-100, 4]
+    map_d: [-119, 121]
+    ensyuf_n: [-51, -8]
+    ensyuf_d: [-52, 67]
+    ensyue_n: [-51, 0]
+    battle_n: [-91, -18]
+    battle_d: [-91, 112]
+    wed_a: [283, 140]
+    wed_b: [129, 137]
+  wiki_id: 079
+  chinese_name: 白露
+---

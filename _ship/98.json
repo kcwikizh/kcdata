@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 98
+  sort_no: 88
+  name: 荒潮
+  yomi: あらしお
+  stype: 2
+  ctype: 18
+  cnum: 4
+  backs: 1
+  after_lv: 20
+  after_ship_id: 251
+  get_mes: あら。自己紹介まだでしたかー。<br>私、荒潮です。
+  voice_f: 0
+  filename: vksjkggcuvik
+  file_version: 9
+  book_table_id: [98]
+  book_sinfo: 神戸娘の駆逐艦よ？そう、名前は荒潮。<br>姉妹達とけっこう色々頑張ったのよ。<br>でも、私の煙突に爆弾落とすのだけは、ちょっとやめてほしいわ。
+  stats:
+    taik: [16, 33]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 22
+  graph:
+    boko_n: [99, 119]
+    boko_d: [86, 130]
+    kaisyu_n: [12, 26]
+    kaisyu_d: [28, 8]
+    kaizo_n: [44, 64]
+    kaizo_d: [42, 19]
+    map_n: [25, 120]
+    map_d: [-10, 120]
+    ensyuf_n: [52, 115]
+    ensyuf_d: [45, 59]
+    ensyue_n: [52, 0]
+    battle_n: [10, 116]
+    battle_d: [10, 116]
+    wed_a: [154, 14]
+    wed_b: [109, 137]
+  wiki_id: 088
+  chinese_name: 荒潮
+---

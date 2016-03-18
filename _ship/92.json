@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 92
+  sort_no: 66
+  name: 隼鷹
+  yomi: じゅんよう
+  stype: 7
+  ctype: 24
+  cnum: 2
+  backs: 4
+  after_lv: 25
+  after_ship_id: 284
+  get_mes: 商船改装空母、隼鷹でーすっ！<br>ひゃっはぁー！
+  voice_f: 0
+  filename: ltdlvothcqnr
+  file_version: 3
+  book_table_id: [92]
+  book_sinfo: 戦時改造を前提に建造した豪華客船、橿原丸。<br>その改装した姿が空母、隼鷹さ。<br>ちゃーんと戦い抜いて、最後まで生き残ったんだぜ。意外とやるでしょ？
+  stats:
+    taik: [40, 64]
+    souk: [21, 39]
+    houg: [0, 19]
+    raig: [0, 0]
+    tyku: [21, 59]
+    luck: [20, 79]
+    soku: 5
+    leng: 1
+    kaih: 28
+    tais: 0
+    slot_num: 4
+    max_eq: [12, 18, 18, 10, 0]
+    after_fuel: 500
+    after_bull: 250
+    fuel_max: 40
+    bull_max: 40
+    broken: [6, 6, 20, 6]
+    pow_up: [0, 0, 3, 2]
+    build_time: 180
+  graph:
+    boko_n: [14, 81]
+    boko_d: [4, 94]
+    kaisyu_n: [14, -2]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-41, 26]
+    kaizo_d: [-50, 37]
+    map_n: [-82, 81]
+    map_d: [-92, 84]
+    ensyuf_n: [-7, 76]
+    ensyuf_d: [-21, 35]
+    ensyue_n: [-29, 0]
+    battle_n: [-57, 61]
+    battle_d: [-57, 61]
+    wed_a: [253, 54]
+    wed_b: [83, 120]
+  wiki_id: 066
+  chinese_name: 隼鹰
+---

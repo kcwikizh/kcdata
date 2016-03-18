@@ -1,0 +1,6 @@
+---
+---
+[
+  {% for ship in site.ship %}{{ ship.data | jsonify }}{% unless forloop.last %},
+  {% endunless %}{% endfor %}
+]

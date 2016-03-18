@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 355
+  sort_no: 1435
+  name: 萩風改
+  yomi: はぎかぜ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 陽炎型駆逐艦、十七番艦、萩風。参りました。<br>司令、ご指示をお願いします。
+  voice_f: 3
+  filename: vbqucvbohcex
+  file_version: 8
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [13, 50]
+    raig: [28, 79]
+    tyku: [16, 49]
+    luck: [12, 63]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [128, 128]
+    boko_d: [152, 152]
+    kaisyu_n: [24, 0]
+    kaisyu_d: [32, 4]
+    kaizo_n: [80, 56]
+    kaizo_d: [80, 72]
+    map_n: [88, 104]
+    map_d: [96, 128]
+    ensyuf_n: [112, 100]
+    ensyuf_d: [112, 124]
+    ensyue_n: [80, 0]
+    battle_n: [96, 112]
+    battle_d: [112, 144]
+    wed_a: [112, 24]
+    wed_b: [96, 104]
+  wiki_id: 255a
+  chinese_name: 
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 304
+  sort_no: 1400
+  name: 長波改
+  yomi: ながなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 夕雲型駆逐艦四番艦、長波サマだよ！<br>さーいくぜ、オーッ！
+  voice_f: 3
+  filename: lovstgcfspwr
+  file_version: 4
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 50]
+    raig: [28, 80]
+    tyku: [16, 50]
+    luck: [14, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [36, 112]
+    boko_d: [40, 112]
+    kaisyu_n: [20, -6]
+    kaisyu_d: [40, -8]
+    kaizo_n: [44, 56]
+    kaizo_d: [44, 16]
+    map_n: [34, 68]
+    map_d: [48, 92]
+    ensyuf_n: [96, 96]
+    ensyuf_d: [56, 52]
+    ensyue_n: [56, 0]
+    battle_n: [36, 96]
+    battle_d: [60, 104]
+    wed_a: [169, 33]
+    wed_b: [117, 137]
+  wiki_id: 135a
+  chinese_name: 长波改
+---

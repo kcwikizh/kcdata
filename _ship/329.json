@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 329
+  sort_no: 1421
+  name: 野分改
+  yomi: のわき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 陽炎型駆逐艦、野分。参上しました。<br>さあ、司令。いきましょう。
+  voice_f: 3
+  filename: qegrehgswrpg
+  file_version: 15
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 48]
+    raig: [28, 79]
+    tyku: [16, 49]
+    luck: [13, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [96, 144]
+    boko_d: [96, 144]
+    kaisyu_n: [4, 12]
+    kaisyu_d: [24, 20]
+    kaizo_n: [64, 96]
+    kaizo_d: [64, 72]
+    map_n: [56, 144]
+    map_d: [80, 144]
+    ensyuf_n: [72, 120]
+    ensyuf_d: [112, 120]
+    ensyue_n: [56, 0]
+    battle_n: [80, 128]
+    battle_d: [112, 128]
+    wed_a: [128, -8]
+    wed_b: [120, 112]
+  wiki_id: 215a
+  chinese_name: 野分改
+---

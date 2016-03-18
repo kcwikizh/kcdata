@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 226
+  sort_no: 1326
+  name: 不知火改
+  yomi: しらぬい
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 不知火です。<br>ご指導ご鞭撻、よろしくです。
+  voice_f: 1
+  filename: algyyokhbnwz
+  file_version: 13
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [16, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [-17, 106]
+    boko_d: [-3, 107]
+    kaisyu_n: [4, -9]
+    kaisyu_d: [28, -11]
+    kaizo_n: [-72, 51]
+    kaizo_d: [-16, 2]
+    map_n: [-38, 106]
+    map_d: [-99, 97]
+    ensyuf_n: [-8, 85]
+    ensyuf_d: [-27, 46]
+    ensyue_n: [-8, 0]
+    battle_n: [-29, 86]
+    battle_d: [-29, 86]
+    wed_a: [242, 38]
+    wed_b: [163, 119]
+  wiki_id: 092a
+  chinese_name: 不知火改
+---

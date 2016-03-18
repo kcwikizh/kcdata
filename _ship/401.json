@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 401
+  sort_no: 1501
+  name: 伊19改
+  yomi: い19
+  stype: 14
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 素敵な提督で嬉しいのね。<br>伊十九なの。そう、イクって呼んでもいいの！
+  voice_f: 3
+  filename: jwrlielrnfpr
+  file_version: 8
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [18, 24]
+    souk: [5, 19]
+    houg: [3, 12]
+    raig: [42, 89]
+    tyku: [0, 0]
+    luck: [13, 59]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 25
+    broken: [1, 2, 2, 2]
+    pow_up: [0, 2, 1, 0]
+    build_time: 22
+  graph:
+    boko_n: [56, 128]
+    boko_d: [56, 128]
+    kaisyu_n: [-4, -8]
+    kaisyu_d: [16, 8]
+    kaizo_n: [56, 64]
+    kaizo_d: [56, 64]
+    map_n: [56, 96]
+    map_d: [56, 96]
+    ensyuf_n: [96, 120]
+    ensyuf_d: [80, 68]
+    ensyue_n: [48, 0]
+    battle_n: [64, 112]
+    battle_d: [64, 112]
+    wed_a: [157, 22]
+    wed_b: [119, 134]
+  wiki_id: 123a
+  chinese_name: 伊19改
+---

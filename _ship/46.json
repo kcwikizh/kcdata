@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 46
+  sort_no: 83
+  name: 五月雨
+  yomi: さみだれ
+  stype: 2
+  ctype: 23
+  cnum: 6
+  backs: 2
+  after_lv: 20
+  after_ship_id: 246
+  get_mes: 五月雨っていいます！よろしくお願いします。<br>護衛任務はお任せください！
+  voice_f: 0
+  filename: tyjrubumfpxy
+  file_version: 12
+  book_table_id: [46]
+  book_sinfo: 五月雨です。<br>村雨・夕立・春雨とは第２駆逐隊でお友達でした。<br>そうそう、輸送任務中に白露と衝突してしまったことも…ホント、私ってば、ドジでごめんなさい。<br>でも、頑張ります！
+  stats:
+    taik: [16, 32]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [32, 101]
+    boko_d: [40, 119]
+    kaisyu_n: [14, 10]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-23, 46]
+    kaizo_d: [-19, 5]
+    map_n: [-11, 101]
+    map_d: [-56, 109]
+    ensyuf_n: [17, 88]
+    ensyuf_d: [-17, 49]
+    ensyue_n: [17, 0]
+    battle_n: [-40, 88]
+    battle_d: [-34, 88]
+    wed_a: [236, 29]
+    wed_b: [122, 147]
+  wiki_id: 083
+  chinese_name: 五月雨
+---

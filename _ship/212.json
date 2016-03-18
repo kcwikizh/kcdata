@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 212
+  sort_no: 1312
+  name: 霧島改
+  yomi: きりしま
+  stype: 8
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 75
+  after_ship_id: 152
+  get_mes: マイク音量大丈夫…？チェック、1，2……。<br>よし。はじめまして、私、霧島です。
+  voice_f: 1
+  filename: kexwyrcqjxfs
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [75, 89]
+    souk: [67, 89]
+    houg: [72, 94]
+    raig: [0, 0]
+    tyku: [28, 79]
+    luck: [12, 69]
+    soku: 10
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 2400
+    after_bull: 2400
+    fuel_max: 90
+    bull_max: 120
+    broken: [10, 14, 33, 3]
+    pow_up: [4, 0, 2, 3]
+    build_time: 240
+  graph:
+    boko_n: [115, 125]
+    boko_d: [119, 130]
+    kaisyu_n: [12, 3]
+    kaisyu_d: [28, 7]
+    kaizo_n: [60, 70]
+    kaizo_d: [57, 25]
+    map_n: [59, 127]
+    map_d: [22, 128]
+    ensyuf_n: [87, 121]
+    ensyuf_d: [84, 70]
+    ensyue_n: [87, 0]
+    battle_n: [44, 104]
+    battle_d: [44, 104]
+    wed_a: [134, 4]
+    wed_b: [127, 148]
+  wiki_id: 024a
+  chinese_name: 雾岛改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 325
+  sort_no: 1418
+  name: 清霜改
+  yomi: きよしも
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: どうも！夕雲型の最終艦、清霜です。<br>到着遅れました、よろしくお願いです！
+  voice_f: 3
+  filename: xomrbwrvjwfv
+  file_version: 3
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 50]
+    raig: [28, 80]
+    tyku: [16, 50]
+    luck: [13, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [-24, 108]
+    boko_d: [32, 160]
+    kaisyu_n: [0, 0]
+    kaisyu_d: [24, -8]
+    kaizo_n: [-56, 72]
+    kaizo_d: [-16, 56]
+    map_n: [-32, 96]
+    map_d: [8, 144]
+    ensyuf_n: [-24, 92]
+    ensyuf_d: [24, 128]
+    ensyue_n: [-48, 0]
+    battle_n: [-16, 96]
+    battle_d: [32, 144]
+    wed_a: [256, 48]
+    wed_b: [120, 112]
+  wiki_id: 210a
+  chinese_name: 清霜改
+---

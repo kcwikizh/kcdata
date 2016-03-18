@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 289
+  sort_no: 1389
+  name: 鬼怒改
+  yomi: きぬ
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: きたきたぁ！　鬼怒、いよいよ到着しましたよ！
+  voice_f: 3
+  filename: ikwmknqjpvkg
+  file_version: 15
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [41, 59]
+    souk: [29, 59]
+    houg: [20, 59]
+    raig: [24, 79]
+    tyku: [15, 59]
+    luck: [12, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 25
+    bull_max: 35
+    broken: [2, 2, 10, 0]
+    pow_up: [1, 1, 1, 2]
+    build_time: 75
+  graph:
+    boko_n: [47, 59]
+    boko_d: [71, 66]
+    kaisyu_n: [11, 23]
+    kaisyu_d: [33, -8]
+    kaizo_n: [-7, 6]
+    kaizo_d: [-41, -34]
+    map_n: [-16, 64]
+    map_d: [27, -22]
+    ensyuf_n: [40, 45]
+    ensyuf_d: [16, 0]
+    ensyue_n: [14, 0]
+    battle_n: [20, 45]
+    battle_d: [20, 45]
+    wed_a: [130, 73]
+    wed_b: [143, 148]
+  wiki_id: 109a
+  chinese_name: 鬼怒改
+---

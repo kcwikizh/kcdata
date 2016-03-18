@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 357
+  sort_no: 1437
+  name: 初月改
+  yomi: はつづき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: 秋月型駆逐艦、その四番艦、初月だ。<br>お前が提督か。いいだろう。僕が行こう。
+  voice_f: 3
+  filename: wwuwxxrkzxex
+  file_version: 3
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [37, 57]
+    souk: [17, 54]
+    houg: [25, 60]
+    raig: [24, 54]
+    tyku: [80, 110]
+    luck: [8, 52]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 20
+    bull_max: 25
+    broken: [1, 2, 13, 1]
+    pow_up: [1, 1, 3, 1]
+    build_time: 30
+  graph:
+    boko_n: [58, 144]
+    boko_d: [80, 152]
+    kaisyu_n: [12, 12]
+    kaisyu_d: [20, -4]
+    kaizo_n: [4, 76]
+    kaizo_d: [-16, 56]
+    map_n: [20, 112]
+    map_d: [12, 124]
+    ensyuf_n: [4, 124]
+    ensyuf_d: [20, 112]
+    ensyue_n: [12, 0]
+    battle_n: [32, 124]
+    battle_d: [40, 128]
+    wed_a: [204, 0]
+    wed_b: [92, 120]
+  wiki_id: 223a
+  chinese_name: 
+---

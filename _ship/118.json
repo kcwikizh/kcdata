@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 118
+  sort_no: 114
+  name: 大井改二
+  yomi: おおい
+  stype: 4
+  ctype: 4
+  cnum: 4
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: 重雷装艦として、生まれ変わった大井です。<br>お久しぶりです！
+  voice_f: 3
+  filename: khtgrpfyurcm
+  file_version: 16
+  book_table_id: [118]
+  book_sinfo: 重雷装艦バージョンの大井です。<br>圧倒的な水雷戦力を期待されたけど、<br>出番がなかなかなかったの。<br>今度は活躍してみせるわ。見ていてね！
+  stats:
+    taik: [43, 59]
+    souk: [23, 63]
+    houg: [17, 63]
+    raig: [90, 139]
+    tyku: [15, 49]
+    luck: [13, 49]
+    soku: 10
+    leng: 2
+    kaih: 43
+    tais: 27
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 25
+    bull_max: 75
+    broken: [2, 9, 9, 0]
+    pow_up: [1, 5, 0, 1]
+    build_time: 75
+  graph:
+    boko_n: [90, -14]
+    boko_d: [71, -1]
+    kaisyu_n: [28, 8]
+    kaisyu_d: [28, 7]
+    kaizo_n: [71, -68]
+    kaizo_d: [50, -103]
+    map_n: [39, -21]
+    map_d: [4, -12]
+    ensyuf_n: [97, -4]
+    ensyuf_d: [82, -61]
+    ensyue_n: [97, 0]
+    battle_n: [47, -27]
+    battle_d: [47, -27]
+    wed_a: [151, 144]
+    wed_b: [94, 114]
+  wiki_id: 114
+  chinese_name: 大井改二
+---

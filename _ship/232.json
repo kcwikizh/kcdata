@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 232
+  sort_no: 1332
+  name: 漣改
+  yomi: さざなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 綾波型駆逐艦「漣」です、ご主人さま。<br>こう書いてさざなみと読みます。
+  voice_f: 1
+  filename: xfxhmadcxfdq
+  file_version: 17
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [108, 52]
+    boko_d: [118, 64]
+    kaisyu_n: [26, 5]
+    kaisyu_d: [28, 7]
+    kaizo_n: [53, -3]
+    kaizo_d: [49, -22]
+    map_n: [36, 51]
+    map_d: [22, 54]
+    ensyuf_n: [112, 49]
+    ensyuf_d: [64, 32]
+    ensyue_n: [85, 0]
+    battle_n: [36, 62]
+    battle_d: [40, 55]
+    wed_a: [134, 84]
+    wed_b: [123, 134]
+  wiki_id: 069a
+  chinese_name: 涟改
+---

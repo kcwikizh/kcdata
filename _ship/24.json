@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 24
+  sort_no: 19
+  name: 大井
+  yomi: おおい
+  stype: 3
+  ctype: 4
+  cnum: 4
+  backs: 5
+  after_lv: 10
+  after_ship_id: 57
+  get_mes: こんにちはー。軽巡洋艦、大井です。<br>どうぞ、よろしくお願い致しますね。
+  voice_f: 1
+  filename: yomyfjkhndny
+  file_version: 15
+  book_table_id: [24]
+  book_sinfo: 球磨型軽巡洋艦の４番艦、大井よ。<br>神戸生まれなの。<br>平時は海軍兵学校練習艦として活躍したのよ？<br>もちろん、真打ちは、重雷装艦へのモデルチェンジよね？頑張るわ！
+  stats:
+    taik: [25, 39]
+    souk: [11, 29]
+    houg: [14, 49]
+    raig: [24, 89]
+    tyku: [13, 59]
+    luck: [17, 49]
+    soku: 10
+    leng: 2
+    kaih: 37
+    tais: 19
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 400
+    fuel_max: 25
+    bull_max: 25
+    broken: [2, 2, 9, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 60
+  graph:
+    boko_n: [90, -14]
+    boko_d: [71, -1]
+    kaisyu_n: [28, 8]
+    kaisyu_d: [28, 7]
+    kaizo_n: [71, -68]
+    kaizo_d: [50, -103]
+    map_n: [39, -21]
+    map_d: [4, -12]
+    ensyuf_n: [97, -4]
+    ensyuf_d: [82, -61]
+    ensyue_n: [97, 0]
+    battle_n: [47, -27]
+    battle_d: [47, -27]
+    wed_a: [138, 150]
+    wed_b: [92, 108]
+  wiki_id: 019
+  chinese_name: 大井
+---

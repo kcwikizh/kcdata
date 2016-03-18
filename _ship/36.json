@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 36
+  sort_no: 73
+  name: 雷
+  yomi: いかづち
+  stype: 2
+  ctype: 5
+  cnum: 3
+  backs: 1
+  after_lv: 20
+  after_ship_id: 236
+  get_mes: 雷よ！　かみなりじゃないわ！<br>そこのとこもよろしく頼むわねっ！
+  voice_f: 0
+  filename: aejfywpsegbv
+  file_version: 5
+  book_table_id: [36, 942]
+  book_sinfo: スラバヤ沖海戦では駆逐艦電と一緒に協力して、沈没した敵艦隊の生存者の救助に当たったのよ。<br>ただ強いだけじゃ、だめだと思うの。<br>ね、司令官！
+  stats:
+    taik: [15, 30]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [27, 69]
+    tyku: [12, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 42
+    tais: 20
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 20
+  graph:
+    boko_n: [63, 90]
+    boko_d: [48, 60]
+    kaisyu_n: [17, 15]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-2, 40]
+    kaizo_d: [-8, -39]
+    map_n: [-8, 87]
+    map_d: [-48, 50]
+    ensyuf_n: [27, 78]
+    ensyuf_d: [17, 0]
+    ensyue_n: [27, 0]
+    battle_n: [5, 91]
+    battle_d: [-15, 55]
+    wed_a: [188, 44]
+    wed_b: [131, 145]
+  wiki_id: 073
+  chinese_name: 雷
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 47
+  sort_no: 84
+  name: 涼風
+  yomi: すずかぜ
+  stype: 2
+  ctype: 23
+  cnum: 10
+  backs: 3
+  after_lv: 20
+  after_ship_id: 247
+  get_mes: ちわ！涼風だよ。<br>私が艦隊に加われば百人力さ！
+  voice_f: 0
+  filename: qaryaychpubb
+  file_version: 9
+  book_table_id: [47]
+  book_sinfo: 涼風だよ。<br>特型駆逐艦として数々の攻略作戦の支援に参加したんだ。<br>その後は戦艦や空母の護衛にも従事したよ。<br>頼りにしてね！最後まで戦うから！
+  stats:
+    taik: [16, 32]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 79]
+    tyku: [9, 39]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [56, 87]
+    boko_d: [55, 105]
+    kaisyu_n: [10, 6]
+    kaisyu_d: [28, 7]
+    kaizo_n: [1, 32]
+    kaizo_d: [1, 0]
+    map_n: [3, 88]
+    map_d: [-41, 95]
+    ensyuf_n: [46, 80]
+    ensyuf_d: [-8, 38]
+    ensyue_n: [46, 0]
+    battle_n: [-10, 76]
+    battle_d: [-14, 77]
+    wed_a: [196, 41]
+    wed_b: [118, 141]
+  wiki_id: 084
+  chinese_name: 凉风
+---

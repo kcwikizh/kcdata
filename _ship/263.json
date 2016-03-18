@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 263
+  sort_no: 1363
+  name: 加古改
+  yomi: かこ
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 65
+  after_ship_id: 417
+  get_mes: 古鷹型重巡の2番艦、加古ってんだ、よっろしくぅー！
+  voice_f: 1
+  filename: qsmurjkprhku
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [48, 65]
+    souk: [32, 70]
+    houg: [36, 70]
+    raig: [18, 59]
+    tyku: [18, 59]
+    luck: [10, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 380
+    after_bull: 480
+    fuel_max: 35
+    bull_max: 55
+    broken: [3, 6, 15, 1]
+    pow_up: [2, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [1, 71]
+    boko_d: [0, 72]
+    kaisyu_n: [26, 1]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-17, 14]
+    kaizo_d: [-12, -8]
+    map_n: [-23, 63]
+    map_d: [-65, 61]
+    ensyuf_n: [-5, 55]
+    ensyuf_d: [-3, 14]
+    ensyue_n: [-5, 0]
+    battle_n: [-28, 49]
+    battle_d: [-28, 49]
+    wed_a: [191, 70]
+    wed_b: [140, 136]
+  wiki_id: 053a
+  chinese_name: 加古改
+---

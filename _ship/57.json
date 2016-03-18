@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 57
+  sort_no: 97
+  name: 大井改
+  yomi: おおい
+  stype: 4
+  ctype: 4
+  cnum: 4
+  backs: 6
+  after_lv: 50
+  after_ship_id: 118
+  get_mes: 重雷装艦として、生まれ変わった大井です。<br>お久しぶりです！
+  voice_f: 3
+  filename: gonohkjynpmb
+  file_version: 16
+  book_table_id: [57]
+  book_sinfo: 重雷装艦バージョンの大井です。<br>圧倒的な水雷戦力を期待されたけど、<br>出番がなかなかなかったの。<br>今度は活躍してみせるわ。見ていてね！
+  stats:
+    taik: [32, 49]
+    souk: [12, 39]
+    houg: [8, 39]
+    raig: [80, 99]
+    tyku: [13, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 2
+    kaih: 37
+    tais: 25
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 400
+    after_bull: 770
+    fuel_max: 25
+    bull_max: 50
+    broken: [2, 6, 9, 0]
+    pow_up: [0, 4, 0, 1]
+    build_time: 75
+  graph:
+    boko_n: [90, -14]
+    boko_d: [71, -1]
+    kaisyu_n: [28, 8]
+    kaisyu_d: [28, 7]
+    kaizo_n: [71, -68]
+    kaizo_d: [50, -103]
+    map_n: [39, -21]
+    map_d: [4, -12]
+    ensyuf_n: [97, -4]
+    ensyuf_d: [82, -61]
+    ensyue_n: [97, 0]
+    battle_n: [47, -27]
+    battle_d: [47, -27]
+    wed_a: [138, 150]
+    wed_b: [92, 108]
+  wiki_id: 097
+  chinese_name: 大井改
+---

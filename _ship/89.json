@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 89
+  sort_no: 25
+  name: 鳳翔
+  yomi: ほうしょう
+  stype: 7
+  ctype: 27
+  cnum: 1
+  backs: 3
+  after_lv: 25
+  after_ship_id: 285
+  get_mes: 航空母艦、鳳翔です。<br>ふつつか者ですが、よろしくお願い致します。
+  voice_f: 0
+  filename: bwgbubdrhvfg
+  file_version: 3
+  book_table_id: [89]
+  book_sinfo: 航空母艦、鳳翔と申します。<br>最初から空母として建造された、世界で初めての航空母艦なんです。<br>小さな艦ですが、頑張りますね。
+  stats:
+    taik: [30, 49]
+    souk: [15, 39]
+    houg: [0, 19]
+    raig: [0, 0]
+    tyku: [10, 29]
+    luck: [20, 69]
+    soku: 5
+    leng: 1
+    kaih: 24
+    tais: 0
+    slot_num: 2
+    max_eq: [8, 11, 0, 0, 0]
+    after_fuel: 350
+    after_bull: 150
+    fuel_max: 25
+    bull_max: 25
+    broken: [2, 1, 12, 2]
+    pow_up: [0, 0, 1, 2]
+    build_time: 120
+  graph:
+    boko_n: [-13, -17]
+    boko_d: [-20, -3]
+    kaisyu_n: [2, -21]
+    kaisyu_d: [28, -19]
+    kaizo_n: [-68, -72]
+    kaizo_d: [-84, -114]
+    map_n: [-72, -22]
+    map_d: [-91, -16]
+    ensyuf_n: [-15, -26]
+    ensyuf_d: [-26, -74]
+    ensyue_n: [-15, 0]
+    battle_n: [-103, -48]
+    battle_d: [-103, -48]
+    wed_a: [294, 167]
+    wed_b: [90, 100]
+  wiki_id: 025
+  chinese_name: 凤翔
+---

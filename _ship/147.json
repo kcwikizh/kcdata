@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 147
+  sort_no: 147
+  name: Верный
+  yomi: ひびき
+  stype: 2
+  ctype: 5
+  cnum: 2
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: ヴェールヌイだ。<br>その活躍ぶりから不死鳥の通り名もあるよ。
+  voice_f: 3
+  filename: gmqsmiszmftf
+  file_version: 5
+  book_table_id: [147]
+  book_sinfo: 数ある特型駆逐艦の中で、最後まで生き残ったのが、響。転戦の後、あの大和水上特攻時には修理で同行できなかったんだ。<br>賠償艦としてソ連に引き渡され「信頼できる」という意味の艦名になったんだ。
+  stats:
+    taik: [37, 49]
+    souk: [15, 57]
+    houg: [13, 54]
+    raig: [30, 89]
+    tyku: [18, 59]
+    luck: [20, 77]
+    soku: 10
+    leng: 1
+    kaih: 47
+    tais: 30
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 25
+    broken: [1, 3, 11, 0]
+    pow_up: [1, 2, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [56, 112]
+    boko_d: [44, 132]
+    kaisyu_n: [16, 3]
+    kaisyu_d: [40, 0]
+    kaizo_n: [40, 52]
+    kaizo_d: [24, 32]
+    map_n: [32, 112]
+    map_d: [28, 124]
+    ensyuf_n: [80, 120]
+    ensyuf_d: [52, 72]
+    ensyue_n: [48, 0]
+    battle_n: [40, 124]
+    battle_d: [48, 112]
+    wed_a: [155, 11]
+    wed_b: [147, 162]
+  wiki_id: 147
+  chinese_name: Верный
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 152
+  sort_no: 152
+  name: 霧島改二
+  yomi: きりしま
+  stype: 8
+  ctype: 6
+  cnum: 4
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: マイク音量大丈夫…？チェック、1，2……。<br>よし。はじめまして、私、霧島です。
+  voice_f: 3
+  filename: kspwuqsyhipy
+  file_version: 14
+  book_table_id: [152]
+  book_sinfo: 霧島です。姉妹艦の榛名には、頭脳は負けないわよ？<br>純国産高速戦艦として、奮戦するんだからっ！<br>現代の海自イージス艦にもその名は受け継がれたの。
+  stats:
+    taik: [82, 99]
+    souk: [70, 92]
+    houg: [78, 104]
+    raig: [0, 0]
+    tyku: [30, 82]
+    luck: [14, 79]
+    soku: 10
+    leng: 3
+    kaih: 34
+    tais: 0
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 100
+    bull_max: 125
+    broken: [10, 14, 33, 3]
+    pow_up: [4, 0, 2, 4]
+    build_time: 240
+  graph:
+    boko_n: [0, 108]
+    boko_d: [32, 108]
+    kaisyu_n: [0, 28]
+    kaisyu_d: [60, 28]
+    kaizo_n: [-48, 48]
+    kaizo_d: [32, 16]
+    map_n: [0, 128]
+    map_d: [48, 96]
+    ensyuf_n: [16, 112]
+    ensyuf_d: [32, 48]
+    ensyue_n: [-32, 0]
+    battle_n: [24, 96]
+    battle_d: [24, 96]
+    wed_a: [264, 16]
+    wed_b: [112, 104]
+  wiki_id: 152
+  chinese_name: 雾岛改二
+---

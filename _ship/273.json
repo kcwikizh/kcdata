@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 273
+  sort_no: 1373
+  name: 利根改
+  yomi: とね
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 70
+  after_ship_id: 188
+  get_mes: 吾輩が利根である！<br>吾輩が艦隊に加わる以上、もう、索敵の心配はないぞ！
+  voice_f: 1
+  filename: fkatobgcyygb
+  file_version: 11
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [56, 69]
+    souk: [46, 77]
+    houg: [42, 76]
+    raig: [24, 79]
+    tyku: [24, 79]
+    luck: [10, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [4, 4, 4, 4, 0]
+    after_fuel: 1000
+    after_bull: 700
+    fuel_max: 45
+    bull_max: 65
+    broken: [5, 7, 18, 3]
+    pow_up: [3, 1, 2, 2]
+    build_time: 90
+  graph:
+    boko_n: [92, 41]
+    boko_d: [99, 79]
+    kaisyu_n: [11, 21]
+    kaisyu_d: [28, 7]
+    kaizo_n: [78, -12]
+    kaizo_d: [71, -21]
+    map_n: [54, 50]
+    map_d: [3, 69]
+    ensyuf_n: [83, 33]
+    ensyuf_d: [70, 16]
+    ensyue_n: [83, 0]
+    battle_n: [54, 23]
+    battle_d: [63, 49]
+    wed_a: [137, 95]
+    wed_b: [94, 106]
+  wiki_id: 063a
+  chinese_name: 利根改
+---

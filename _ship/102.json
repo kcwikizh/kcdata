@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 102
+  sort_no: 49
+  name: 千歳
+  yomi: ちとせ
+  stype: 16
+  ctype: 15
+  cnum: 1
+  backs: 2
+  after_lv: 10
+  after_ship_id: 104
+  get_mes: 千歳です。<br>日本では初めての水上機母艦なのよ。よろしくね！
+  voice_f: 0
+  filename: dkmxevqgbxmr
+  file_version: 9
+  book_table_id: [102, 955]
+  book_sinfo: 水上機母艦千歳です。<br>水上機を沢山運用できる優れものですが、給油艦として重油を他の艦に補給もできちゃうの。<br>後期には、航空母艦に改装され、第一線で戦ったのよ。
+  stats:
+    taik: [40, 59]
+    souk: [18, 39]
+    houg: [9, 29]
+    raig: [0, 0]
+    tyku: [14, 29]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 20
+    tais: 0
+    slot_num: 2
+    max_eq: [12, 12, 0, 0, 0]
+    after_fuel: 70
+    after_bull: 40
+    fuel_max: 35
+    bull_max: 35
+    broken: [3, 1, 13, 4]
+    pow_up: [0, 0, 1, 2]
+    build_time: 140
+  graph:
+    boko_n: [39, 101]
+    boko_d: [-16, 115]
+    kaisyu_n: [10, 20]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-16, 46]
+    kaizo_d: [-84, 5]
+    map_n: [-34, 100]
+    map_d: [-112, 105]
+    ensyuf_n: [-8, 85]
+    ensyuf_d: [-84, 47]
+    ensyue_n: [-8, 0]
+    battle_n: [-24, 80]
+    battle_d: [-91, 82]
+    wed_a: [217, 36]
+    wed_b: [110, 118]
+  wiki_id: 049
+  chinese_name: 千岁
+---

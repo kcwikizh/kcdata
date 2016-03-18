@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 81
+  sort_no: 2
+  name: 陸奥
+  yomi: むつ
+  stype: 9
+  ctype: 19
+  cnum: 2
+  backs: 7
+  after_lv: 30
+  after_ship_id: 276
+  get_mes: 長門型戦艦２番艦の陸奥よ。よろしくね。<br>あまり火遊びはしないでね…お願いよ。
+  voice_f: 0
+  filename: jkjqeleyhbus
+  file_version: 9
+  book_table_id: [81]
+  book_sinfo: 長門型戦艦の２番艦として生まれた陸奥よ。<br>もちろん、世界のビッグ７の一艦になるわね。<br>え？主砲火薬庫爆発事故？<br>まあ、隠してもしょうがないわね。今度は大丈夫よ！
+  stats:
+    taik: [80, 94]
+    souk: [75, 89]
+    houg: [82, 99]
+    raig: [0, 0]
+    tyku: [31, 89]
+    luck: [3, 39]
+    soku: 5
+    leng: 3
+    kaih: 24
+    tais: 0
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 800
+    after_bull: 900
+    fuel_max: 100
+    bull_max: 130
+    broken: [10, 20, 40, 3]
+    pow_up: [5, 0, 1, 4]
+    build_time: 300
+  graph:
+    boko_n: [26, 79]
+    boko_d: [25, 81]
+    kaisyu_n: [12, 16]
+    kaisyu_d: [34, -5]
+    kaizo_n: [-30, 31]
+    kaizo_d: [-31, -4]
+    map_n: [-39, 78]
+    map_d: [-65, 67]
+    ensyuf_n: [3, 59]
+    ensyuf_d: [-22, 12]
+    ensyue_n: [3, 0]
+    battle_n: [-32, 46]
+    battle_d: [-37, 104]
+    wed_a: [235, 62]
+    wed_b: [108, 108]
+  wiki_id: 002
+  chinese_name: 陆奥
+---

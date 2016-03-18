@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 211
+  sort_no: 1311
+  name: 榛名改
+  yomi: はるな
+  stype: 8
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 80
+  after_ship_id: 151
+  get_mes: 高速戦艦、榛名、着任しました。<br>あなたが提督なのね？　よろしくお願い致します。
+  voice_f: 1
+  filename: nolhhoujolpc
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [75, 89]
+    souk: [67, 89]
+    houg: [72, 94]
+    raig: [0, 0]
+    tyku: [28, 79]
+    luck: [20, 69]
+    soku: 10
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 2400
+    after_bull: 2400
+    fuel_max: 90
+    bull_max: 120
+    broken: [10, 14, 33, 3]
+    pow_up: [4, 0, 2, 3]
+    build_time: 240
+  graph:
+    boko_n: [93, 67]
+    boko_d: [104, 55]
+    kaisyu_n: [40, 1]
+    kaisyu_d: [52, -16]
+    kaizo_n: [43, 13]
+    kaizo_d: [50, -2]
+    map_n: [68, 65]
+    map_d: [28, 56]
+    ensyuf_n: [77, 56]
+    ensyuf_d: [37, 28]
+    ensyue_n: [53, 0]
+    battle_n: [66, 42]
+    battle_d: [65, 42]
+    wed_a: [75, 76]
+    wed_b: [136, 140]
+  wiki_id: 023a
+  chinese_name: 榛名改
+---

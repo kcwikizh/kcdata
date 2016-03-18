@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 358
+  sort_no: 1438
+  name: Zara改
+  yomi: ザラ
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: Buon Giornov！ ザラ級重巡、一番艦ザラです！<br>粘り強さが信条です。提督、よろしくね！
+  voice_f: 3
+  filename: waviopoxryme
+  file_version: 2
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [56, 68]
+    souk: [46, 76]
+    houg: [42, 75]
+    raig: [0, 40]
+    tyku: [22, 72]
+    luck: [12, 56]
+    soku: 10
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 45
+    bull_max: 65
+    broken: [4, 6, 18, 3]
+    pow_up: [4, 0, 1, 2]
+    build_time: 70
+  graph:
+    boko_n: [60, 140]
+    boko_d: [56, 178]
+    kaisyu_n: [22, -12]
+    kaisyu_d: [15, -4]
+    kaizo_n: [-4, 80]
+    kaizo_d: [-16, 88]
+    map_n: [-8, 124]
+    map_d: [-32, 128]
+    ensyuf_n: [-4, 132]
+    ensyuf_d: [-16, 128]
+    ensyue_n: [0, 0]
+    battle_n: [20, 136]
+    battle_d: [-4, 136]
+    wed_a: [196, -8]
+    wed_b: [128, 112]
+  wiki_id: 248a
+  chinese_name: 
+---

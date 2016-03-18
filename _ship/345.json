@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 345
+  sort_no: 1425
+  name: 高波改
+  yomi: たかなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 夕雲型駆逐艦、六番艦の高波です。<br>あ、あの…頑張ります！ホントかもです！
+  voice_f: 3
+  filename: ydsbnsiogwij
+  file_version: 12
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 50]
+    raig: [28, 80]
+    tyku: [16, 50]
+    luck: [10, 57]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [168, 128]
+    boko_d: [120, 160]
+    kaisyu_n: [40, 4]
+    kaisyu_d: [40, 16]
+    kaizo_n: [120, 80]
+    kaizo_d: [80, 96]
+    map_n: [128, 104]
+    map_d: [80, 144]
+    ensyuf_n: [128, 96]
+    ensyuf_d: [96, 128]
+    ensyue_n: [128, 0]
+    battle_n: [128, 112]
+    battle_d: [96, 152]
+    wed_a: [72, 20]
+    wed_b: [136, 120]
+  wiki_id: 224a
+  chinese_name: 高波改
+---

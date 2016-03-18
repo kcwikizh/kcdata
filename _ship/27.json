@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 27
+  sort_no: 27
+  name: 山城
+  yomi: やましろ
+  stype: 9
+  ctype: 26
+  cnum: 2
+  backs: 4
+  after_lv: 20
+  after_ship_id: 287
+  get_mes: 扶桑型戦艦姉妹、妹のほう、山城です。<br>あの、扶桑姉さま、見ませんでした？
+  voice_f: 0
+  filename: dyurkaeenkdh
+  file_version: 15
+  book_table_id: [27, 287, 978]
+  book_sinfo: 扶桑型戦艦２番艦、山城です。<br>「欠陥戦艦」とか「艦隊にいる方が珍しい」とか、いいたい放題ね…。<br>でも、いいの。最後の時も、扶桑姉さまと一緒に戦えれば……
+  stats:
+    taik: [67, 89]
+    souk: [59, 79]
+    houg: [74, 94]
+    raig: [0, 0]
+    tyku: [23, 79]
+    luck: [5, 39]
+    soku: 5
+    leng: 3
+    kaih: 19
+    tais: 0
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 500
+    after_bull: 150
+    fuel_max: 85
+    bull_max: 120
+    broken: [9, 18, 36, 3]
+    pow_up: [4, 0, 1, 3]
+    build_time: 260
+  graph:
+    boko_n: [-138, 44]
+    boko_d: [-85, 56]
+    kaisyu_n: [8, -5]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-100, -11]
+    kaizo_d: [-122, -50]
+    map_n: [-77, 37]
+    map_d: [-181, 46]
+    ensyuf_n: [-22, 33]
+    ensyuf_d: [-106, -20]
+    ensyue_n: [-22, 0]
+    battle_n: [-156, 53]
+    battle_d: [-156, 53]
+    wed_a: [352, 95]
+    wed_b: [107, 109]
+  wiki_id: 027
+  chinese_name: 山城
+---

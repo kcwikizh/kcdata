@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 14
+  sort_no: 18
+  name: 敷波
+  yomi: しきなみ
+  stype: 2
+  ctype: 1
+  cnum: 2
+  backs: 2
+  after_lv: 20
+  after_ship_id: 208
+  get_mes: アタシの名は敷波。<br>以後よろしく。
+  voice_f: 0
+  filename: gcbiuhgmgjbm
+  file_version: 14
+  book_table_id: [14]
+  book_sinfo: 特Ⅱ型駆逐艦２番艦の敷波。よろしく。<br>ミッドウェーやソロモンの海戦に参加した後、船団護衛を務めたよ。<br>海上護衛戦は結構大変だよ…大事だし…。
+  stats:
+    taik: [15, 29]
+    souk: [5, 19]
+    houg: [10, 29]
+    raig: [27, 69]
+    tyku: [12, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 41
+    tais: 20
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 20
+  graph:
+    boko_n: [96, 88]
+    boko_d: [98, 95]
+    kaisyu_n: [16, 16]
+    kaisyu_d: [28, 7]
+    kaizo_n: [41, 33]
+    kaizo_d: [23, -7]
+    map_n: [37, 87]
+    map_d: [2, 85]
+    ensyuf_n: [89, 87]
+    ensyuf_d: [55, 46]
+    ensyue_n: [89, 0]
+    battle_n: [38, 74]
+    battle_d: [38, 74]
+    wed_a: [152, 46]
+    wed_b: [134, 136]
+  wiki_id: 018
+  chinese_name: 敷波
+---

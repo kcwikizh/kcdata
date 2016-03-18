@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 452
+  sort_no: 252
+  name: 沖波
+  yomi: おきなみ
+  stype: 2
+  ctype: 38
+  cnum: 14
+  backs: 4
+  after_lv: 30
+  after_ship_id: 359
+  get_mes: 夕雲型駆逐艦十四番艦の……沖波です。<br>えっと…はい、頑張ります。よろしくお願い致します！
+  voice_f: 1
+  filename: xxnlcxflgfji
+  file_version: 2
+  book_table_id: [452]
+  book_sinfo: 夕雲型駆逐艦、その十四番艦の沖波です。<br>マル急計画で建造されました。はい、生まれ故郷は舞鶴です。もうその頃前線は崩れ始めていて……それでも、主力艦隊の護衛や船団護衛に、私、頑張りました…はい！
+  stats:
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 30]
+    raig: [24, 69]
+    tyku: [9, 38]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 47
+    tais: 28
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 130
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
+  graph:
+    boko_n: [204, 112]
+    boko_d: [72, 112]
+    kaisyu_n: [16, -8]
+    kaisyu_d: [24, 4]
+    kaizo_n: [136, 52]
+    kaizo_d: [16, 48]
+    map_n: [152, 80]
+    map_d: [16, 96]
+    ensyuf_n: [152, 96]
+    ensyuf_d: [16, 96]
+    ensyue_n: [148, 0]
+    battle_n: [172, 104]
+    battle_d: [36, 112]
+    wed_a: [48, 32]
+    wed_b: [112, 128]
+  wiki_id: 252
+  chinese_name: 
+---

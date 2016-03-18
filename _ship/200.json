@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 200
+  sort_no: 200
+  name: 阿武隈改二
+  yomi: あぶくま
+  stype: 3
+  ctype: 20
+  cnum: 6
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: こ、こんにちは、軽巡、阿武隈です。
+  voice_f: 3
+  filename: qjkjyqhsvcpx
+  file_version: 15
+  book_table_id: [200]
+  book_sinfo: 長良型軽巡洋艦の阿武隈です。<br>はい…正直いって、北上さんは苦手です。なに、あの人…でも、艦首もきれいに直して頑張りました！<br>潮ちゃんも…ありがとね…。
+  stats:
+    taik: [45, 61]
+    souk: [29, 68]
+    houg: [16, 56]
+    raig: [34, 94]
+    tyku: [35, 78]
+    luck: [20, 74]
+    soku: 10
+    leng: 1
+    kaih: 45
+    tais: 48
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 25
+    bull_max: 35
+    broken: [2, 2, 10, 0]
+    pow_up: [1, 2, 2, 2]
+    build_time: 75
+  graph:
+    boko_n: [88, 124]
+    boko_d: [32, 144]
+    kaisyu_n: [12, -4]
+    kaisyu_d: [16, 0]
+    kaizo_n: [48, 64]
+    kaizo_d: [-16, 64]
+    map_n: [64, 112]
+    map_d: [8, 128]
+    ensyuf_n: [64, 112]
+    ensyuf_d: [16, 128]
+    ensyue_n: [48, 0]
+    battle_n: [80, 112]
+    battle_d: [24, 128]
+    wed_a: [144, 24]
+    wed_b: [100, 92]
+  wiki_id: 200
+  chinese_name: 阿武隈改二
+---

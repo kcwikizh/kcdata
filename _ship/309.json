@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 309
+  sort_no: 1405
+  name: 卯月改
+  yomi: うづき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: やったぁ！ でたっぴょん！ 卯月でっす！ <br>うーちゃんって呼ばれてまっす！
+  voice_f: 1
+  filename: xwjlobdutrwv
+  file_version: 15
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [24, 39]
+    souk: [12, 39]
+    houg: [7, 34]
+    raig: [18, 69]
+    tyku: [18, 49]
+    luck: [14, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [0, 52]
+    boko_d: [0, 80]
+    kaisyu_n: [8, 0]
+    kaisyu_d: [12, 0]
+    kaizo_n: [16, 16]
+    kaizo_d: [0, -24]
+    map_n: [48, 48]
+    map_d: [0, 32]
+    ensyuf_n: [48, 26]
+    ensyuf_d: [0, 0]
+    ensyue_n: [32, 0]
+    battle_n: [56, 48]
+    battle_d: [16, 32]
+    wed_a: [146, 100]
+    wed_b: [119, 120]
+  wiki_id: 165a
+  chinese_name: 卯月改
+---

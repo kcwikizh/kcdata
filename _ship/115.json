@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 115
+  sort_no: 111
+  name: 夕張
+  yomi: ゆうばり
+  stype: 3
+  ctype: 34
+  cnum: 1
+  backs: 5
+  after_lv: 25
+  after_ship_id: 293
+  get_mes: はーい、お待たせ？<br>兵装実験軽巡、夕張、到着いたしました！
+  voice_f: 3
+  filename: hieimxbtcqrt
+  file_version: 15
+  book_table_id: [115]
+  book_sinfo: コンパクトボディに充実の重武装を施した実験艦的存在の軽巡、夕張です。私の残したデータが、様々な重武装新鋭艦開発の元になったんだから！<br>機関室に一発？何いってんの？<br>ほんと…失礼しちゃうわ。
+  stats:
+    taik: [19, 33]
+    souk: [10, 29]
+    houg: [17, 42]
+    raig: [20, 69]
+    tyku: [10, 42]
+    luck: [12, 49]
+    soku: 10
+    leng: 2
+    kaih: 42
+    tais: 13
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 280
+    after_bull: 240
+    fuel_max: 20
+    bull_max: 30
+    broken: [2, 2, 7, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 82
+  graph:
+    boko_n: [7, 74]
+    boko_d: [-12, 49]
+    kaisyu_n: [29, 10]
+    kaisyu_d: [29, 7]
+    kaizo_n: [-28, 19]
+    kaizo_d: [-43, -43]
+    map_n: [27, 62]
+    map_d: [-43, 54]
+    ensyuf_n: [2, 65]
+    ensyuf_d: [-48, -10]
+    ensyue_n: [42, 0]
+    battle_n: [-65, 58]
+    battle_d: [-18, 38]
+    wed_a: [217, 83]
+    wed_b: [106, 131]
+  wiki_id: 111
+  chinese_name: 夕张
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 243
+  sort_no: 1343
+  name: 時雨改
+  yomi: しぐれ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 60
+  after_ship_id: 145
+  get_mes: 僕は白露型駆逐艦、「時雨」。<br>これからよろしくね。
+  voice_f: 1
+  filename: wmskekfmgdio
+  file_version: 23
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 48]
+    souk: [14, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 180
+    after_bull: 200
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [128, 29]
+    boko_d: [145, 40]
+    kaisyu_n: [22, -4]
+    kaisyu_d: [28, 7]
+    kaizo_n: [73, -26]
+    kaizo_d: [97, -45]
+    map_n: [61, 32]
+    map_d: [49, 30]
+    ensyuf_n: [109, 24]
+    ensyuf_d: [89, -16]
+    ensyue_n: [109, 0]
+    battle_n: [69, 2]
+    battle_d: [69, 2]
+    wed_a: [120, 107]
+    wed_b: [130, 146]
+  wiki_id: 080a
+  chinese_name: 时雨改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 324
+  sort_no: 1417
+  name: 早霜改
+  yomi: はやしも
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: また…来てしまったのね、この海に。<br>夕雲型駆逐艦、早霜…着任しました。
+  voice_f: 3
+  filename: uvfgjekdjlcw
+  file_version: 1
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 50]
+    raig: [28, 80]
+    tyku: [16, 50]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [-40, 92]
+    boko_d: [-56, 104]
+    kaisyu_n: [4, 8]
+    kaisyu_d: [16, 8]
+    kaizo_n: [-48, 40]
+    kaizo_d: [-64, 48]
+    map_n: [-16, 96]
+    map_d: [-32, 104]
+    ensyuf_n: [-16, 72]
+    ensyuf_d: [-32, 80]
+    ensyue_n: [-40, 0]
+    battle_n: [0, 96]
+    battle_d: [-32, 104]
+    wed_a: [212, 64]
+    wed_b: [120, 104]
+  wiki_id: 209a
+  chinese_name: 早霜改
+---

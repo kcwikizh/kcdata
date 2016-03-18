@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 207
+  sort_no: 1307
+  name: 綾波改
+  yomi: あやなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 70
+  after_ship_id: 195
+  get_mes: ごきげんよう。<br>特型駆逐艦、綾波と申します。
+  voice_f: 1
+  filename: sgpilzypnejy
+  file_version: 13
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 200
+    after_bull: 280
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [94, 82]
+    boko_d: [92, 96]
+    kaisyu_n: [13, 16]
+    kaisyu_d: [28, 7]
+    kaizo_n: [39, 27]
+    kaizo_d: [17, 2]
+    map_n: [37, 78]
+    map_d: [-4, 86]
+    ensyuf_n: [87, 80]
+    ensyuf_d: [43, 37]
+    ensyue_n: [87, 0]
+    battle_n: [35, 72]
+    battle_d: [35, 72]
+    wed_a: [146, 52]
+    wed_b: [140, 130]
+  wiki_id: 017a
+  chinese_name: 绫波改
+---

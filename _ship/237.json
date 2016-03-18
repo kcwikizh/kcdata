@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 237
+  sort_no: 1337
+  name: 電改
+  yomi: いなづま
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 電です。<br>どうか、よろしくお願いいたします。
+  voice_f: 1
+  filename: bqvrrfdcuvdr
+  file_version: 5
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [70, 82]
+    boko_d: [24, 97]
+    kaisyu_n: [6, 4]
+    kaisyu_d: [28, 7]
+    kaizo_n: [15, 27]
+    kaizo_d: [-40, -17]
+    map_n: [11, 78]
+    map_d: [-72, 87]
+    ensyuf_n: [59, 77]
+    ensyuf_d: [-6, 29]
+    ensyue_n: [59, 0]
+    battle_n: [28, 83]
+    battle_d: [-22, 83]
+    wed_a: [152, 47]
+    wed_b: [171, 153]
+  wiki_id: 074a
+  chinese_name: 电改
+---

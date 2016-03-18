@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 301
+  sort_no: 1397
+  name: 秋雲改
+  yomi: あきぐも
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 秋雲、着任！<br>提督よろしくねっ！
+  voice_f: 3
+  filename: ijhrnvnbqkmj
+  file_version: 3
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [8, 44]
+    raig: [28, 79]
+    tyku: [22, 59]
+    luck: [15, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [6, 12]
+    boko_d: [-4, 62]
+    kaisyu_n: [24, -8]
+    kaisyu_d: [26, 0]
+    kaizo_n: [6, -44]
+    kaizo_d: [6, -24]
+    map_n: [-10, -8]
+    map_d: [-40, 32]
+    ensyuf_n: [40, 0]
+    ensyuf_d: [-20, -10]
+    ensyue_n: [0, 0]
+    battle_n: [0, 16]
+    battle_d: [0, 44]
+    wed_a: [174, 138]
+    wed_b: [144, 143]
+  wiki_id: 132a
+  chinese_name: 秋云改
+---

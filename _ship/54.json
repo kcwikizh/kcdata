@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 54
+  sort_no: 46
+  name: 川内
+  yomi: せんだい
+  stype: 3
+  ctype: 16
+  cnum: 1
+  backs: 4
+  after_lv: 20
+  after_ship_id: 222
+  get_mes: 川内、参上。<br>夜戦なら任せておいて！
+  voice_f: 0
+  filename: nehcyhpiviue
+  file_version: 7
+  book_table_id: [54]
+  book_sinfo: 5500トン級の軽巡洋艦の最終タイプ、それが私、川内型よ。<br>熟成された軽巡の魅力、たっぷり教えてあげるから。<br>もちろん、夜戦でね！
+  stats:
+    taik: [26, 39]
+    souk: [11, 29]
+    houg: [14, 49]
+    raig: [24, 89]
+    tyku: [13, 59]
+    luck: [12, 49]
+    soku: 10
+    leng: 2
+    kaih: 38
+    tais: 20
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 200
+    after_bull: 200
+    fuel_max: 25
+    bull_max: 25
+    broken: [2, 2, 10, 0]
+    pow_up: [0, 1, 0, 2]
+    build_time: 60
+  graph:
+    boko_n: [29, 65]
+    boko_d: [72, 23]
+    kaisyu_n: [20, 24]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-26, 10]
+    kaizo_d: [12, -34]
+    map_n: [-22, 59]
+    map_d: [23, 53]
+    ensyuf_n: [10, 68]
+    ensyuf_d: [25, -4]
+    ensyue_n: [10, 0]
+    battle_n: [-30, 33]
+    battle_d: [8, 9]
+    wed_a: [236, 68]
+    wed_b: [111, 119]
+  wiki_id: 046
+  chinese_name: 川内
+---

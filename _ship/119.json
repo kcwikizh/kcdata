@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 119
+  sort_no: 115
+  name: 北上改二
+  yomi: きたかみ
+  stype: 4
+  ctype: 4
+  cnum: 3
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: 新しい北上、それがアタシ。<br>酸素魚雷を満載して、ちょっと大人になったでしょ。
+  voice_f: 3
+  filename: cqtlanpwihpj
+  file_version: 14
+  book_table_id: [119]
+  book_sinfo: 九三式酸素魚雷を満載、片舷20門、全40門の魚雷発射管を誇る、重雷装艦へと改装されたスーパー北上さまだよ。<br>その威力は圧倒的と言われていたけれど、活躍する機会が微妙になかったんだよね。ちぇっ。
+  stats:
+    taik: [43, 59]
+    souk: [23, 63]
+    houg: [17, 63]
+    raig: [90, 139]
+    tyku: [15, 49]
+    luck: [30, 79]
+    soku: 10
+    leng: 2
+    kaih: 43
+    tais: 27
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 25
+    bull_max: 75
+    broken: [2, 6, 9, 0]
+    pow_up: [1, 5, 0, 1]
+    build_time: 75
+  graph:
+    boko_n: [12, -149]
+    boko_d: [12, -149]
+    kaisyu_n: [7, -41]
+    kaisyu_d: [11, -16]
+    kaizo_n: [3, -188]
+    kaizo_d: [-26, -188]
+    map_n: [-24, -159]
+    map_d: [-83, -159]
+    ensyuf_n: [1, -173]
+    ensyuf_d: [-37, -173]
+    ensyue_n: [1, 0]
+    battle_n: [-33, -140]
+    battle_d: [-33, -140]
+    wed_a: [199, 318]
+    wed_b: [98, 107]
+  wiki_id: 115
+  chinese_name: 北上改二
+---

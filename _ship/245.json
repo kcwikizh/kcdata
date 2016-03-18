@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 245
+  sort_no: 1345
+  name: 夕立改
+  yomi: ゆうだち
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 55
+  after_ship_id: 144
+  get_mes: こんにちは、白露型駆逐艦「夕立」よ。<br>よろしくね！
+  voice_f: 1
+  filename: wpsyznjwvlmd
+  file_version: 24
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 48]
+    souk: [14, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 180
+    after_bull: 200
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [147, 39]
+    boko_d: [122, 57]
+    kaisyu_n: [4, 26]
+    kaisyu_d: [28, 7]
+    kaizo_n: [92, -16]
+    kaizo_d: [67, -24]
+    map_n: [70, 39]
+    map_d: [26, 47]
+    ensyuf_n: [125, 37]
+    ensyuf_d: [74, -10]
+    ensyue_n: [125, 0]
+    battle_n: [81, 24]
+    battle_d: [47, 24]
+    wed_a: [106, 98]
+    wed_b: [110, 135]
+  wiki_id: 082a
+  chinese_name: 夕立改
+---

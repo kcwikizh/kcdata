@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 307
+  sort_no: 1403
+  name: 矢矧改
+  yomi: やはぎ
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: 軽巡矢矧、着任したわ。<br>提督、最後まで頑張っていきましょう！
+  voice_f: 7
+  filename: acajrnrqxplq
+  file_version: 9
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [47, 63]
+    souk: [32, 69]
+    houg: [28, 68]
+    raig: [24, 79]
+    tyku: [22, 74]
+    luck: [14, 69]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 40
+    broken: [3, 5, 14, 1]
+    pow_up: [2, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [32, 72]
+    boko_d: [16, 136]
+    kaisyu_n: [24, 0]
+    kaisyu_d: [44, 24]
+    kaizo_n: [0, 24]
+    kaizo_d: [8, 56]
+    map_n: [-24, 48]
+    map_d: [0, 112]
+    ensyuf_n: [16, 60]
+    ensyuf_d: [16, 80]
+    ensyue_n: [-24, 0]
+    battle_n: [16, 72]
+    battle_d: [32, 104]
+    wed_a: [209, 64]
+    wed_b: [119, 127]
+  wiki_id: 139a
+  chinese_name: 矢矧改
+---

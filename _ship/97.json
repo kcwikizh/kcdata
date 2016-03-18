@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 97
+  sort_no: 87
+  name: 満潮
+  yomi: みちしお
+  stype: 2
+  ctype: 18
+  cnum: 3
+  backs: 1
+  after_lv: 20
+  after_ship_id: 250
+  get_mes: 満潮よ。<br>私、なんでこんな部隊に配属されたのかしら。
+  voice_f: 0
+  filename: fhpgicaysllm
+  file_version: 11
+  book_table_id: [97]
+  book_sinfo: 駆逐艦、満潮よ。<br>姉妹艦の朝潮、大潮、荒潮とは第８駆逐隊で腐れ縁の仲。でも、最後は離れ離れ。<br>私は西村艦隊の一員として、レイテに突入を図ったわ。
+  stats:
+    taik: [16, 33]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 22
+  graph:
+    boko_n: [58, 105]
+    boko_d: [60, 129]
+    kaisyu_n: [4, 1]
+    kaisyu_d: [28, 7]
+    kaizo_n: [3, 50]
+    kaizo_d: [-19, 31]
+    map_n: [19, 107]
+    map_d: [-33, 125]
+    ensyuf_n: [-1, 108]
+    ensyuf_d: [3, 72]
+    ensyue_n: [-1, 0]
+    battle_n: [-34, 116]
+    battle_d: [-34, 116]
+    wed_a: [186, 22]
+    wed_b: [155, 167]
+  wiki_id: 087
+  chinese_name: 满潮
+---

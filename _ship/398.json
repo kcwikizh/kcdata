@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 398
+  sort_no: 1498
+  name: 伊168改
+  yomi: い168
+  stype: 13
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 伊１６８よ。何よ、言いにくいの？<br>じゃ、イムヤでいいわ…よろしくねっ！
+  voice_f: 3
+  filename: dyfnguymthbd
+  file_version: 4
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [15, 19]
+    souk: [5, 18]
+    houg: [3, 11]
+    raig: [30, 69]
+    tyku: [0, 0]
+    luck: [10, 49]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 20
+    broken: [1, 2, 2, 1]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [-16, -48]
+    boko_d: [-16, -48]
+    kaisyu_n: [10, -40]
+    kaisyu_d: [28, -32]
+    kaizo_n: [-24, -104]
+    kaizo_d: [-24, -124]
+    map_n: [-20, -88]
+    map_d: [-20, -88]
+    ensyuf_n: [-3, -40]
+    ensyuf_d: [-60, -90]
+    ensyue_n: [-3, 0]
+    battle_n: [16, -48]
+    battle_d: [16, -48]
+    wed_a: [248, 175]
+    wed_b: [142, 162]
+  wiki_id: 126a
+  chinese_name: 伊168改
+---

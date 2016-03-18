@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 100
+  sort_no: 40
+  name: 多摩
+  yomi: たま
+  stype: 3
+  ctype: 4
+  cnum: 2
+  backs: 2
+  after_lv: 20
+  after_ship_id: 216
+  get_mes: 軽巡、多摩です。<br>猫じゃないにゃ。
+  voice_f: 0
+  filename: jiftwdxqwtin
+  file_version: 11
+  book_table_id: [100, 947]
+  book_sinfo: 球磨型軽巡洋艦の２番艦、多摩だにゃ。<br>水雷戦隊の旗艦として、ご奉公するにゃ！<br>にゃ？多摩って名前だけど、猫じゃないもん！
+  stats:
+    taik: [25, 39]
+    souk: [10, 29]
+    houg: [14, 39]
+    raig: [24, 79]
+    tyku: [13, 49]
+    luck: [10, 49]
+    soku: 10
+    leng: 2
+    kaih: 36
+    tais: 19
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 200
+    after_bull: 200
+    fuel_max: 25
+    bull_max: 25
+    broken: [2, 2, 10, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 60
+  graph:
+    boko_n: [47, 91]
+    boko_d: [58, 102]
+    kaisyu_n: [9, 2]
+    kaisyu_d: [10, 7]
+    kaizo_n: [-6, 42]
+    kaizo_d: [-20, -4]
+    map_n: [-21, 87]
+    map_d: [-38, 92]
+    ensyuf_n: [-14, 79]
+    ensyuf_d: [-12, 29]
+    ensyue_n: [-14, 0]
+    battle_n: [-29, 68]
+    battle_d: [-29, 68]
+    wed_a: [209, 48]
+    wed_b: [118, 131]
+  wiki_id: 040
+  chinese_name: 多摩
+---

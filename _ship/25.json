@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 25
+  sort_no: 20
+  name: 北上
+  yomi: きたかみ
+  stype: 3
+  ctype: 4
+  cnum: 3
+  backs: 4
+  after_lv: 10
+  after_ship_id: 58
+  get_mes: アタシは軽巡、北上。<br>まーよろしく。
+  voice_f: 1
+  filename: oxqlrctsmegi
+  file_version: 13
+  book_table_id: [25]
+  book_sinfo: 球磨型軽巡洋艦の３番艦、北上だよー。<br>んあ？そう、大井っちとは親友。<br>酸素魚雷を打ちまくる重雷装巡洋艦にステップアップできるってさ。<br>やってみる？
+  stats:
+    taik: [25, 39]
+    souk: [10, 29]
+    houg: [14, 39]
+    raig: [24, 79]
+    tyku: [13, 49]
+    luck: [15, 69]
+    soku: 10
+    leng: 2
+    kaih: 36
+    tais: 19
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 400
+    fuel_max: 25
+    bull_max: 25
+    broken: [2, 2, 9, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 60
+  graph:
+    boko_n: [12, 11]
+    boko_d: [9, 25]
+    kaisyu_n: [7, -41]
+    kaisyu_d: [11, -16]
+    kaizo_n: [3, -38]
+    kaizo_d: [-46, -64]
+    map_n: [-24, 11]
+    map_d: [-83, 9]
+    ensyuf_n: [1, 31]
+    ensyuf_d: [-37, -23]
+    ensyue_n: [1, 0]
+    battle_n: [-33, 50]
+    battle_d: [-33, 50]
+    wed_a: [196, 124]
+    wed_b: [97, 112]
+  wiki_id: 020
+  chinese_name: 北上
+---

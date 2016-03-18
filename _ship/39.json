@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 39
+  sort_no: 76
+  name: 子日
+  yomi: ねのひ
+  stype: 2
+  ctype: 10
+  cnum: 2
+  backs: 1
+  after_lv: 20
+  after_ship_id: 239
+  get_mes: 初めまして、ねのひ、だよぉ！<br>艦名、読みづらくなんか、ないよね？ね？
+  voice_f: 0
+  filename: zgerairddhko
+  file_version: 14
+  book_table_id: [39, 970]
+  book_sinfo: 丸一計画で建造された、初春型駆逐艦２番艦の子日だよ。<br>初春などの姉妹艦で第２１駆逐隊を編成して色々と頑張ったんだよ。<br>なに？潜水艦…？嫌いキライ！
+  stats:
+    taik: [16, 31]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [27, 69]
+    tyku: [9, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 20
+  graph:
+    boko_n: [83, -49]
+    boko_d: [74, -31]
+    kaisyu_n: [37, -45]
+    kaisyu_d: [46, -28]
+    kaizo_n: [-10, -103]
+    kaizo_d: [-8, -119]
+    map_n: [18, -48]
+    map_d: [-22, -41]
+    ensyuf_n: [49, -56]
+    ensyuf_d: [20, -102]
+    ensyue_n: [49, 0]
+    battle_n: [32, -36]
+    battle_d: [32, -36]
+    wed_a: [128, 189]
+    wed_b: [132, 127]
+  wiki_id: 076
+  chinese_name: 子日
+---

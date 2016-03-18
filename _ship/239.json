@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 239
+  sort_no: 1339
+  name: 子日改
+  yomi: ねのひ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 初めまして、ねのひ、だよぉ！<br>艦名、読みづらくなんか、ないよね？ね？
+  voice_f: 1
+  filename: nkrmsykdohgo
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 48]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [83, -49]
+    boko_d: [74, -31]
+    kaisyu_n: [37, -45]
+    kaisyu_d: [46, -28]
+    kaizo_n: [-10, -103]
+    kaizo_d: [-8, -119]
+    map_n: [18, -48]
+    map_d: [-22, -41]
+    ensyuf_n: [49, -56]
+    ensyuf_d: [20, -102]
+    ensyue_n: [49, 0]
+    battle_n: [32, -36]
+    battle_d: [32, -36]
+    wed_a: [128, 189]
+    wed_b: [132, 127]
+  wiki_id: 076a
+  chinese_name: 子日改
+---

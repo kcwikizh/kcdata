@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 406
+  sort_no: 206
+  name: 雲龍改
+  yomi: うんりゅう
+  stype: 11
+  ctype: 53
+  cnum: 1
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: 雲龍型航空母艦、雲龍、参ります。<br>提督、新生機動部隊はお任せください！
+  voice_f: 3
+  filename: rqsbaiaqlunp
+  file_version: 2
+  book_table_id: [406]
+  book_sinfo: マル急計画によって戦時建造された雲龍型航空母艦の長女、雲龍よ。<br>傑作中型空母の飛龍を改良した量産型正規空母なの。新生機動部隊の主力としての潜在実力は十分なのだけど…今度は見ててよね。
+  stats:
+    taik: [60, 84]
+    souk: [35, 77]
+    houg: [0, 48]
+    raig: [0, 0]
+    tyku: [32, 78]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 35
+    tais: 0
+    slot_num: 4
+    max_eq: [18, 21, 27, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 50
+    bull_max: 55
+    broken: [7, 13, 30, 10]
+    pow_up: [0, 0, 4, 3]
+    build_time: 210
+  graph:
+    boko_n: [56, 88]
+    boko_d: [112, 128]
+    kaisyu_n: [32, 0]
+    kaisyu_d: [24, 8]
+    kaizo_n: [0, 48]
+    kaizo_d: [72, 48]
+    map_n: [24, 80]
+    map_d: [112, 128]
+    ensyuf_n: [32, 64]
+    ensyuf_d: [112, 96]
+    ensyue_n: [16, 0]
+    battle_n: [48, 72]
+    battle_d: [96, 104]
+    wed_a: [192, 64]
+    wed_b: [112, 104]
+  wiki_id: 206
+  chinese_name: 云龙改
+---

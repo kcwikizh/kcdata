@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 400
+  sort_no: 1500
+  name: 伊8改
+  yomi: い8
+  stype: 14
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: グーテンターク…あ、違った、ごめんなさいね…<br>「はち」と呼んでくださいね。
+  voice_f: 3
+  filename: fggcskrfkpnr
+  file_version: 8
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [19, 25]
+    souk: [5, 19]
+    houg: [4, 14]
+    raig: [36, 84]
+    tyku: [0, 0]
+    luck: [25, 69]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 25
+    broken: [1, 2, 2, 2]
+    pow_up: [0, 2, 1, 0]
+    build_time: 22
+  graph:
+    boko_n: [64, 104]
+    boko_d: [64, 104]
+    kaisyu_n: [16, -8]
+    kaisyu_d: [24, 8]
+    kaizo_n: [56, 32]
+    kaizo_d: [56, 32]
+    map_n: [32, 64]
+    map_d: [32, 64]
+    ensyuf_n: [56, 72]
+    ensyuf_d: [56, 20]
+    ensyue_n: [-48, 0]
+    battle_n: [48, 80]
+    battle_d: [48, 80]
+    wed_a: [161, 79]
+    wed_b: [139, 131]
+  wiki_id: 128a
+  chinese_name: 伊8改
+---

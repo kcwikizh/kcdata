@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 248
+  sort_no: 1348
+  name: 朝潮改
+  yomi: あさしお
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 駆逐艦、朝潮です。<br>勝負ならいつでも受けて立つ覚悟です。
+  voice_f: 1
+  filename: xbbfxeemifpv
+  file_version: 10
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [31, 49]
+    souk: [14, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [16, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [-48, 64]
+    boko_d: [-50, 64]
+    kaisyu_n: [-34, -38]
+    kaisyu_d: [-27, -24]
+    kaizo_n: [-30, -8]
+    kaizo_d: [-21, 1]
+    map_n: [-34, 55]
+    map_d: [-47, 66]
+    ensyuf_n: [-38, 54]
+    ensyuf_d: [-40, 22]
+    ensyue_n: [-38, 0]
+    battle_n: [-65, 58]
+    battle_d: [-65, 58]
+    wed_a: [320, 71]
+    wed_b: [143, 174]
+  wiki_id: 085a
+  chinese_name: 朝潮改
+---

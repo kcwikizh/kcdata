@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 56
+  sort_no: 48
+  name: 那珂
+  yomi: なか
+  stype: 3
+  ctype: 16
+  cnum: 3
+  backs: 2
+  after_lv: 20
+  after_ship_id: 224
+  get_mes: 艦隊のアイドル、那珂（なか）ちゃんだよー！<br>よっろしくぅ！
+  voice_f: 0
+  filename: vopfxipptsrt
+  file_version: 11
+  book_table_id: [56, 901]
+  book_sinfo: 第４水雷戦隊のセンターも務めた那珂だよ！<br>お仕事沢山入ってて、輸送船の護衛任務や、トラック島から南方への輸送任務とか…<br>…え、地方巡業じゃんって？ そんなことないしっ！
+  stats:
+    taik: [26, 39]
+    souk: [11, 29]
+    houg: [14, 39]
+    raig: [24, 79]
+    tyku: [13, 49]
+    luck: [10, 49]
+    soku: 10
+    leng: 2
+    kaih: 38
+    tais: 24
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 200
+    after_bull: 200
+    fuel_max: 25
+    bull_max: 25
+    broken: [2, 2, 10, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 60
+  graph:
+    boko_n: [41, 68]
+    boko_d: [24, 71]
+    kaisyu_n: [9, 28]
+    kaisyu_d: [28, 7]
+    kaizo_n: [28, 17]
+    kaizo_d: [25, -33]
+    map_n: [20, 61]
+    map_d: [-29, 49]
+    ensyuf_n: [64, 64]
+    ensyuf_d: [13, 16]
+    ensyue_n: [72, 0]
+    battle_n: [6, 42]
+    battle_d: [18, 31]
+    wed_a: [186, 73]
+    wed_b: [92, 109]
+  wiki_id: 048
+  chinese_name: 那珂
+---

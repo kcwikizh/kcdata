@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 190
+  sort_no: 118
+  name: 初風
+  yomi: はつかぜ
+  stype: 2
+  ctype: 30
+  cnum: 7
+  backs: 4
+  after_lv: 20
+  after_ship_id: 300
+  get_mes: 初風です、よろしく。<br>提督さんにとって私は何人目の私かしら？
+  voice_f: 3
+  filename: rwqqgmxpdwbu
+  file_version: 15
+  book_table_id: [190, 963]
+  book_sinfo: 陽炎型駆逐艦、初風よ。ブーゲンビルで妙高姉さんとぶつかって、艦首をばっさり切断…で、航行不能になったところを集中砲火くらって…怖い…怖すぎる妙高姉さん…
+  stats:
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 45
+    tais: 24
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
+  graph:
+    boko_n: [16, 62]
+    boko_d: [16, 62]
+    kaisyu_n: [28, 22]
+    kaisyu_d: [34, 30]
+    kaizo_n: [16, -31]
+    kaizo_d: [-4, -4]
+    map_n: [29, 24]
+    map_d: [29, 24]
+    ensyuf_n: [65, 50]
+    ensyuf_d: [10, 0]
+    ensyue_n: [40, 0]
+    battle_n: [-10, 27]
+    battle_d: [29, 21]
+    wed_a: [198, 78]
+    wed_b: [129, 127]
+  wiki_id: 118
+  chinese_name: 初风
+---

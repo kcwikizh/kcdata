@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 344
+  sort_no: 1424
+  name: 朝霜改
+  yomi: あさしも
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: よお！　夕雲型駆逐艦、十六番艦の朝霜、いつでも出撃できんぜ。<br>まだまだ、暴れよう…な、司令！
+  voice_f: 1
+  filename: jozbiyweyksl
+  file_version: 12
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [33, 49]
+    souk: [14, 49]
+    houg: [12, 47]
+    raig: [28, 78]
+    tyku: [22, 62]
+    luck: [18, 68]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 3, 10, 1]
+    pow_up: [0, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [0, 120]
+    boko_d: [120, 120]
+    kaisyu_n: [8, -16]
+    kaisyu_d: [64, 32]
+    kaizo_n: [-48, 64]
+    kaizo_d: [64, 32]
+    map_n: [-32, 112]
+    map_d: [112, 96]
+    ensyuf_n: [-32, 104]
+    ensyuf_d: [112, 80]
+    ensyue_n: [-48, 0]
+    battle_n: [0, 112]
+    battle_d: [128, 104]
+    wed_a: [256, 36]
+    wed_b: [128, 128]
+  wiki_id: 225a
+  chinese_name: 朝霜改
+---

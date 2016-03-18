@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 75
+  sort_no: 65
+  name: 飛鷹
+  yomi: ひよう
+  stype: 7
+  ctype: 24
+  cnum: 1
+  backs: 4
+  after_lv: 25
+  after_ship_id: 283
+  get_mes: 名前は出雲ま…じゃなかった、飛鷹です。<br>航空母艦よ。よろしくね、提督！
+  voice_f: 0
+  filename: sdiauxhgyfkj
+  file_version: 7
+  book_table_id: [75, 283]
+  book_sinfo: 飛鷹よ。<br>北米航路用の新造客船「出雲丸」を建造途中で改装した商船改造空母なの。<br>でも、正規空母並の活躍を見せたんだから。ホントよ。
+  stats:
+    taik: [40, 64]
+    souk: [21, 39]
+    houg: [0, 19]
+    raig: [0, 0]
+    tyku: [21, 59]
+    luck: [10, 49]
+    soku: 5
+    leng: 1
+    kaih: 28
+    tais: 0
+    slot_num: 4
+    max_eq: [12, 18, 18, 10, 0]
+    after_fuel: 500
+    after_bull: 250
+    fuel_max: 40
+    bull_max: 40
+    broken: [6, 6, 20, 6]
+    pow_up: [0, 0, 3, 2]
+    build_time: 180
+  graph:
+    boko_n: [-12, 93]
+    boko_d: [-16, 98]
+    kaisyu_n: [33, 4]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-13, 37]
+    kaizo_d: [-25, 13]
+    map_n: [-18, 92]
+    map_d: [-90, 83]
+    ensyuf_n: [-17, 83]
+    ensyuf_d: [-36, 45]
+    ensyue_n: [-17, 0]
+    battle_n: [-26, 81]
+    battle_d: [-26, 81]
+    wed_a: [211, 40]
+    wed_b: [109, 119]
+  wiki_id: 065
+  chinese_name: 飞鹰
+---

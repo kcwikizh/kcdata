@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 251
+  sort_no: 1351
+  name: 荒潮改
+  yomi: あらしお
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: あら。自己紹介まだでしたかー。<br>私、荒潮です。
+  voice_f: 1
+  filename: pmjnkqodgjpo
+  file_version: 9
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [31, 49]
+    souk: [14, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [16, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [99, 119]
+    boko_d: [86, 130]
+    kaisyu_n: [12, 26]
+    kaisyu_d: [28, 8]
+    kaizo_n: [44, 64]
+    kaizo_d: [42, 19]
+    map_n: [25, 120]
+    map_d: [-10, 120]
+    ensyuf_n: [52, 115]
+    ensyuf_d: [45, 59]
+    ensyue_n: [52, 0]
+    battle_n: [10, 116]
+    battle_d: [10, 116]
+    wed_a: [154, 14]
+    wed_b: [109, 137]
+  wiki_id: 088a
+  chinese_name: 荒潮改
+---

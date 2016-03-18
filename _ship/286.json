@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 286
+  sort_no: 1386
+  name: 扶桑改
+  yomi: ふそう
+  stype: 10
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 80
+  after_ship_id: 411
+  get_mes: 扶桑型超弩級戦艦、姉の扶桑です。<br>妹の山城ともども、よろしくお願い致します。
+  voice_f: 1
+  filename: mnkjkgammeds
+  file_version: 16
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [75, 89]
+    souk: [72, 89]
+    houg: [63, 79]
+    raig: [0, 0]
+    tyku: [40, 89]
+    luck: [10, 59]
+    soku: 5
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [10, 10, 10, 10, 0]
+    after_fuel: 3500
+    after_bull: 2400
+    fuel_max: 95
+    bull_max: 105
+    broken: [10, 15, 35, 3]
+    pow_up: [4, 0, 2, 4]
+    build_time: 260
+  graph:
+    boko_n: [-84, 12]
+    boko_d: [-26, 33]
+    kaisyu_n: [11, -7]
+    kaisyu_d: [32, 18]
+    kaizo_n: [-90, -29]
+    kaizo_d: [8, -48]
+    map_n: [-56, -19]
+    map_d: [10, 6]
+    ensyuf_n: [-9, -3]
+    ensyuf_d: [40, -24]
+    ensyue_n: [-36, 0]
+    battle_n: [0, 34]
+    battle_d: [-5, 17]
+    wed_a: [291, 124]
+    wed_b: [98, 109]
+  wiki_id: 026a
+  chinese_name: 扶桑改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 415
+  sort_no: 215
+  name: 野分
+  yomi: のわき
+  stype: 2
+  ctype: 30
+  cnum: 15
+  backs: 5
+  after_lv: 35
+  after_ship_id: 329
+  get_mes: 陽炎型駆逐艦、野分。参上しました。<br>さあ、司令。いきましょう。
+  voice_f: 1
+  filename: skmmrmdljugc
+  file_version: 14
+  book_table_id: [415]
+  book_sinfo: 陽炎型駆逐艦十五番艦、野分です。舞鶴生まれです。舞風と一緒に第四駆逐隊に所属しました。<br>緒戦は那珂さん率いる四水戦と共に南方作戦、そしてミッドウェー、マリアナ、レイテにも参加。できること…全力で頑張りました。
+  stats:
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [12, 44]
+    luck: [14, 49]
+    soku: 10
+    leng: 1
+    kaih: 44
+    tais: 24
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 140
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
+  graph:
+    boko_n: [96, 144]
+    boko_d: [96, 144]
+    kaisyu_n: [4, 12]
+    kaisyu_d: [24, 20]
+    kaizo_n: [64, 96]
+    kaizo_d: [64, 72]
+    map_n: [56, 144]
+    map_d: [80, 144]
+    ensyuf_n: [72, 120]
+    ensyuf_d: [112, 120]
+    ensyue_n: [56, 0]
+    battle_n: [80, 128]
+    battle_d: [112, 128]
+    wed_a: [128, -8]
+    wed_b: [120, 112]
+  wiki_id: 215
+  chinese_name: 野分
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 306
+  sort_no: 1402
+  name: 能代改
+  yomi: のしろ
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 阿賀野型軽巡二番艦、能代。<br>着任しました。よろしくどうぞ！
+  voice_f: 7
+  filename: hvnqlrdovfqe
+  file_version: 9
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [45, 62]
+    souk: [31, 69]
+    houg: [28, 66]
+    raig: [24, 79]
+    tyku: [20, 72]
+    luck: [10, 64]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 40
+    broken: [3, 5, 14, 1]
+    pow_up: [2, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [64, 64]
+    boko_d: [24, 140]
+    kaisyu_n: [48, 0]
+    kaisyu_d: [48, 16]
+    kaizo_n: [56, 24]
+    kaizo_d: [16, 64]
+    map_n: [80, 48]
+    map_d: [16, 112]
+    ensyuf_n: [120, 60]
+    ensyuf_d: [32, 88]
+    ensyue_n: [64, 0]
+    battle_n: [72, 80]
+    battle_d: [32, 112]
+    wed_a: [87, 80]
+    wed_b: [122, 129]
+  wiki_id: 138a
+  chinese_name: 能代改
+---

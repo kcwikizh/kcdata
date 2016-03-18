@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 127
+  sort_no: 127
+  name: 伊58
+  yomi: い58
+  stype: 13
+  ctype: 36
+  cnum: 3
+  backs: 4
+  after_lv: 50
+  after_ship_id: 399
+  get_mes: こんにちは！ 伊五十八です。<br>ゴーヤって呼んでもいいよ！苦くなんかないよぉ！
+  voice_f: 3
+  filename: fqbwbmmdcjby
+  file_version: 3
+  book_table_id: [127]
+  book_sinfo: 最初から頑張って最後まで戦ったんだよ。苦しくなってからだって、凄い重巡だって仕留めたし！　任務を全うして、全てが終わった後、無事に呉の母港に帰ったんだ。
+  stats:
+    taik: [14, 19]
+    souk: [4, 19]
+    houg: [2, 9]
+    raig: [30, 69]
+    tyku: [0, 0]
+    luck: [40, 79]
+    soku: 5
+    leng: 1
+    kaih: 13
+    tais: 0
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 140
+    after_bull: 200
+    fuel_max: 10
+    bull_max: 20
+    broken: [1, 2, 2, 1]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [-32, 32]
+    boko_d: [-32, 32]
+    kaisyu_n: [10, -32]
+    kaisyu_d: [28, -16]
+    kaizo_n: [-49, -4]
+    kaizo_d: [-11, -34]
+    map_n: [-22, 48]
+    map_d: [-49, 50]
+    ensyuf_n: [-3, 42]
+    ensyuf_d: [-40, 1]
+    ensyue_n: [-40, 0]
+    battle_n: [-14, 38]
+    battle_d: [-14, 38]
+    wed_a: [265, 94]
+    wed_b: [125, 143]
+  wiki_id: 127
+  chinese_name: 伊58
+---

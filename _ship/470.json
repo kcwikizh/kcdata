@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 470
+  sort_no: 270
+  name: 霞改二乙
+  yomi: かすみ
+  stype: 2
+  ctype: 18
+  cnum: 10
+  backs: 7
+  after_lv: 88
+  after_ship_id: 464
+  get_mes: 霞よ。<br>ガンガンいくわよ。ついてらっしゃい。
+  voice_f: 1
+  filename: vxrvwfxhlbag
+  file_version: 4
+  book_table_id: [470]
+  book_sinfo: 歴戦の主力駆逐艦として奮戦したわ。<br>最後は戦艦大和と共に坊ノ岬沖海戦で米艦載機の猛攻と戦ったの。<br>負けないわ！
+  stats:
+    taik: [31, 53]
+    souk: [15, 52]
+    houg: [12, 59]
+    raig: [30, 83]
+    tyku: [32, 80]
+    luck: [37, 97]
+    soku: 10
+    leng: 1
+    kaih: 56
+    tais: 28
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 390
+    after_bull: 300
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 2, 2, 1]
+    build_time: 22
+  graph:
+    boko_n: [108, 160]
+    boko_d: [144, 160]
+    kaisyu_n: [8, -22]
+    kaisyu_d: [20, -8]
+    kaizo_n: [24, 80]
+    kaizo_d: [64, 64]
+    map_n: [52, 124]
+    map_d: [92, 124]
+    ensyuf_n: [52, 128]
+    ensyuf_d: [72, 128]
+    ensyue_n: [40, 0]
+    battle_n: [40, 132]
+    battle_d: [92, 144]
+    wed_a: [200, -8]
+    wed_b: [100, 112]
+  wiki_id: 270
+  chinese_name: 
+---

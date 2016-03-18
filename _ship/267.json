@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 267
+  sort_no: 1367
+  name: 足柄改
+  yomi: あしがら
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 65
+  after_ship_id: 193
+  get_mes: 足柄よ。砲雷撃戦が得意なの。<br>ふふ、よろしくね。
+  voice_f: 3
+  filename: bekjyovmrmfd
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [55, 69]
+    souk: [42, 73]
+    houg: [48, 77]
+    raig: [24, 69]
+    tyku: [18, 69]
+    luck: [10, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 800
+    after_bull: 900
+    fuel_max: 40
+    bull_max: 70
+    broken: [4, 7, 20, 2]
+    pow_up: [3, 1, 1, 2]
+    build_time: 80
+  graph:
+    boko_n: [73, 71]
+    boko_d: [75, 75]
+    kaisyu_n: [8, 19]
+    kaisyu_d: [28, 7]
+    kaizo_n: [18, 16]
+    kaizo_d: [32, -22]
+    map_n: [15, 62]
+    map_d: [-21, 65]
+    ensyuf_n: [49, 64]
+    ensyuf_d: [22, 9]
+    ensyue_n: [49, 0]
+    battle_n: [4, 37]
+    battle_d: [29, 24]
+    wed_a: [200, 63]
+    wed_b: [93, 103]
+  wiki_id: 057a
+  chinese_name: 足柄改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 274
+  sort_no: 1374
+  name: 筑摩改
+  yomi: ちくま
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 70
+  after_ship_id: 189
+  get_mes: はじめまして、利根型２番艦、筑摩と申します。
+  voice_f: 1
+  filename: paqnehcojygu
+  file_version: 11
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [56, 69]
+    souk: [46, 77]
+    houg: [42, 76]
+    raig: [24, 79]
+    tyku: [24, 79]
+    luck: [10, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [4, 4, 4, 4, 0]
+    after_fuel: 1000
+    after_bull: 700
+    fuel_max: 45
+    bull_max: 65
+    broken: [5, 7, 18, 3]
+    pow_up: [3, 1, 2, 2]
+    build_time: 90
+  graph:
+    boko_n: [94, 77]
+    boko_d: [116, 92]
+    kaisyu_n: [4, 32]
+    kaisyu_d: [28, 7]
+    kaizo_n: [66, 13]
+    kaizo_d: [53, -23]
+    map_n: [52, 70]
+    map_d: [23, 68]
+    ensyuf_n: [100, 70]
+    ensyuf_d: [68, 16]
+    ensyue_n: [100, 0]
+    battle_n: [36, 49]
+    battle_d: [66, 48]
+    wed_a: [155, 62]
+    wed_b: [86, 94]
+  wiki_id: 064a
+  chinese_name: 筑摩改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 228
+  sort_no: 1328
+  name: 雪風改
+  yomi: ゆきかぜ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 陽炎型駆逐艦８番艦、雪風です。<br>どうぞ、よろしくお願いしますっ！
+  voice_f: 0
+  filename: avfbkpphumso
+  file_version: 12
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 59]
+    houg: [12, 59]
+    raig: [28, 89]
+    tyku: [16, 59]
+    luck: [60, 99]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 2, 2]
+    build_time: 24
+  graph:
+    boko_n: [43, 25]
+    boko_d: [130, 60]
+    kaisyu_n: [8, 10]
+    kaisyu_d: [28, 23]
+    kaizo_n: [-12, -30]
+    kaizo_d: [62, -24]
+    map_n: [-20, 24]
+    map_d: [34, 50]
+    ensyuf_n: [49, 18]
+    ensyuf_d: [50, 5]
+    ensyue_n: [49, 0]
+    battle_n: [-8, 29]
+    battle_d: [65, 63]
+    wed_a: [176, 84]
+    wed_b: [163, 156]
+  wiki_id: 005a
+  chinese_name: 雪风改
+---

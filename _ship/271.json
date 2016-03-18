@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 271
+  sort_no: 1371
+  name: 摩耶改
+  yomi: まや
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 75
+  after_ship_id: 428
+  get_mes: よ！アタシ、摩耶ってんだ、よろしくな。
+  voice_f: 1
+  filename: ajhdojqfykfu
+  file_version: 17
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [55, 69]
+    souk: [45, 75]
+    houg: [43, 78]
+    raig: [24, 69]
+    tyku: [55, 89]
+    luck: [10, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 750
+    after_bull: 1150
+    fuel_max: 40
+    bull_max: 70
+    broken: [4, 7, 20, 2]
+    pow_up: [2, 1, 4, 2]
+    build_time: 85
+  graph:
+    boko_n: [96, 48]
+    boko_d: [105, 52]
+    kaisyu_n: [29, 4]
+    kaisyu_d: [28, 7]
+    kaizo_n: [34, -14]
+    kaizo_d: [13, -11]
+    map_n: [30, 39]
+    map_d: [9, 42]
+    ensyuf_n: [42, 39]
+    ensyuf_d: [-5, -2]
+    ensyue_n: [42, 0]
+    battle_n: [30, 30]
+    battle_d: [30, 30]
+    wed_a: [104, 92]
+    wed_b: [145, 147]
+  wiki_id: 061a
+  chinese_name: 摩耶改
+---

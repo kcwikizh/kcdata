@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 91
+  sort_no: 9
+  name: 飛龍
+  yomi: ひりゅう
+  stype: 11
+  ctype: 25
+  cnum: 1
+  backs: 6
+  after_lv: 30
+  after_ship_id: 280
+  get_mes: 航空母艦、飛龍です。<br>空母戦ならお任せ！どんな苦境でも戦えます！
+  voice_f: 0
+  filename: gobumojesgfi
+  file_version: 15
+  book_table_id: [91]
+  book_sinfo: 飛龍型航空母艦、飛龍です。<br>…ん？蒼龍型改じゃないかって？いいじゃん、そんなこと。それより、索敵は大切にねッ。<br>空母戦は先手必勝！慢心はダメ、ゼッタイ。<br>慎重に、そして、大胆に戦い抜こうよ！
+  stats:
+    taik: [50, 79]
+    souk: [27, 49]
+    houg: [0, 29]
+    raig: [0, 0]
+    tyku: [26, 69]
+    luck: [35, 89]
+    soku: 10
+    leng: 1
+    kaih: 37
+    tais: 0
+    slot_num: 4
+    max_eq: [12, 27, 18, 7, 0]
+    after_fuel: 650
+    after_bull: 300
+    fuel_max: 50
+    bull_max: 50
+    broken: [7, 10, 26, 6]
+    pow_up: [0, 0, 4, 3]
+    build_time: 250
+  graph:
+    boko_n: [-29, -36]
+    boko_d: [-51, -34]
+    kaisyu_n: [13, -48]
+    kaisyu_d: [28, -27]
+    kaizo_n: [-84, -91]
+    kaizo_d: [-112, -122]
+    map_n: [-60, -35]
+    map_d: [-122, -43]
+    ensyuf_n: [-51, -58]
+    ensyuf_d: [-77, -90]
+    ensyue_n: [-51, 0]
+    battle_n: [-113, -58]
+    battle_d: [-113, -58]
+    wed_a: [292, 182]
+    wed_b: [94, 98]
+  wiki_id: 009
+  chinese_name: 飞龙
+---

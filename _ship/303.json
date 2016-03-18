@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 303
+  sort_no: 1399
+  name: 巻雲改
+  yomi: まきぐも
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 夕雲型駆逐艦、巻雲といいます。<br>夕雲姉さんを見習って、頑張ります！
+  voice_f: 3
+  filename: gekgxdsvrliq
+  file_version: 5
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 50]
+    raig: [28, 80]
+    tyku: [16, 50]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [36, 52]
+    boko_d: [36, 88]
+    kaisyu_n: [44, -12]
+    kaisyu_d: [32, -8]
+    kaizo_n: [70, 16]
+    kaizo_d: [24, 16]
+    map_n: [29, 24]
+    map_d: [32, 72]
+    ensyuf_n: [120, 40]
+    ensyuf_d: [16, 28]
+    ensyue_n: [80, 0]
+    battle_n: [72, 40]
+    battle_d: [32, 72]
+    wed_a: [149, 93]
+    wed_b: [129, 131]
+  wiki_id: 134a
+  chinese_name: 卷云改
+---

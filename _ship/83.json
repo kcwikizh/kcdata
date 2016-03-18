@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 83
+  sort_no: 6
+  name: 赤城
+  yomi: あかぎ
+  stype: 11
+  ctype: 14
+  cnum: 1
+  backs: 6
+  after_lv: 30
+  after_ship_id: 277
+  get_mes: 航空母艦、赤城です。<br>空母機動部隊を編制するなら、私にお任せくださいませ。
+  voice_f: 1
+  filename: uswetrxvttms
+  file_version: 15
+  book_table_id: [83]
+  book_sinfo: 航空母艦、赤城です。<br>空母機動部隊の主力として快進撃を支えます。<br>日頃鍛錬を積んだ自慢の艦載機との組み合わせは、無敵艦隊とも言われたんです。慢心…ですって？<br>ううん、そうかなあ……気をつけますね。
+  stats:
+    taik: [69, 79]
+    souk: [28, 54]
+    houg: [0, 39]
+    raig: [0, 0]
+    tyku: [32, 69]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 28
+    tais: 0
+    slot_num: 4
+    max_eq: [18, 18, 27, 10, 0]
+    after_fuel: 700
+    after_bull: 300
+    fuel_max: 60
+    bull_max: 55
+    broken: [8, 12, 30, 7]
+    pow_up: [0, 0, 5, 3]
+    build_time: 270
+  graph:
+    boko_n: [42, 76]
+    boko_d: [39, 80]
+    kaisyu_n: [12, 22]
+    kaisyu_d: [28, 25]
+    kaizo_n: [9, 25]
+    kaizo_d: [36, -16]
+    map_n: [8, 68]
+    map_d: [-35, 64]
+    ensyuf_n: [48, 58]
+    ensyuf_d: [45, 23]
+    ensyue_n: [48, 0]
+    battle_n: [-7, 44]
+    battle_d: [-7, 44]
+    wed_a: [198, 65]
+    wed_b: [95, 100]
+  wiki_id: 006
+  chinese_name: 赤城
+---

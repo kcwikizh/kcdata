@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 206
+  sort_no: 1306
+  name: 磯波改
+  yomi: いそなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: あ、あの…磯波と申します。<br>よろしくお願いいたします。
+  voice_f: 0
+  filename: olkahitypycq
+  file_version: 11
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [27, 77]
+    boko_d: [17, 95]
+    kaisyu_n: [5, 10]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-28, 22]
+    kaizo_d: [-29, 3]
+    map_n: [10, 71]
+    map_d: [-79, 67]
+    ensyuf_n: [-9, 69]
+    ensyuf_d: [-64, 41]
+    ensyue_n: [-9, 0]
+    battle_n: [-19, 63]
+    battle_d: [-20, 63]
+    wed_a: [219, 58]
+    wed_b: [133, 126]
+  wiki_id: 016a
+  chinese_name: 矶波改
+---

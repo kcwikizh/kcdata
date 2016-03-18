@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 60
+  sort_no: 53
+  name: 加古
+  yomi: かこ
+  stype: 5
+  ctype: 7
+  cnum: 2
+  backs: 1
+  after_lv: 25
+  after_ship_id: 263
+  get_mes: 古鷹型重巡の2番艦、加古ってんだ、よっろしくぅー！
+  voice_f: 0
+  filename: vkmjguonqcsg
+  file_version: 13
+  book_table_id: [60]
+  book_sinfo: 古鷹型重巡洋艦の２番艦、加古だよぉ。<br>第一次ソロモン海戦で大活躍したんだからね！<br>あ、帰り道？ホント、行きはよいよい、帰りは怖い～ってね！
+  stats:
+    taik: [36, 49]
+    souk: [25, 34]
+    houg: [30, 49]
+    raig: [12, 49]
+    tyku: [16, 49]
+    luck: [10, 49]
+    soku: 10
+    leng: 2
+    kaih: 33
+    tais: 0
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 250
+    after_bull: 300
+    fuel_max: 35
+    bull_max: 50
+    broken: [2, 2, 10, 1]
+    pow_up: [2, 1, 0, 2]
+    build_time: 60
+  graph:
+    boko_n: [1, 71]
+    boko_d: [0, 72]
+    kaisyu_n: [26, 1]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-17, 14]
+    kaizo_d: [-12, -8]
+    map_n: [-23, 63]
+    map_d: [-65, 61]
+    ensyuf_n: [-5, 55]
+    ensyuf_d: [-3, 14]
+    ensyue_n: [-5, 0]
+    battle_n: [-28, 49]
+    battle_d: [-28, 49]
+    wed_a: [191, 70]
+    wed_b: [140, 136]
+  wiki_id: 053
+  chinese_name: 加古
+---

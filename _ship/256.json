@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 256
+  sort_no: 1356
+  name: 皐月改
+  yomi: さつき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 75
+  after_ship_id: 418
+  get_mes: 皐月だよっ。<br>よろしくな！
+  voice_f: 1
+  filename: ttcofyyswaum
+  file_version: 12
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [24, 39]
+    souk: [11, 39]
+    houg: [9, 39]
+    raig: [18, 69]
+    tyku: [12, 39]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 330
+    after_bull: 270
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [-71, 96]
+    boko_d: [107, -89]
+    kaisyu_n: [23, -9]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-126, 41]
+    kaizo_d: [42, -177]
+    map_n: [-91, 95]
+    map_d: [11, -99]
+    ensyuf_n: [-80, 90]
+    ensyuf_d: [22, -151]
+    ensyue_n: [-80, 0]
+    battle_n: [-120, 98]
+    battle_d: [25, -102]
+    wed_a: [311, 31]
+    wed_b: [142, 155]
+  wiki_id: 033a
+  chinese_name: 皋月改
+---

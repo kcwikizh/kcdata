@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 88
+  sort_no: 103
+  name: 日向改
+  yomi: ひゅうが
+  stype: 10
+  ctype: 2
+  cnum: 2
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 伊勢型航空戦艦、日向。<br>推して参る。
+  voice_f: 0
+  filename: jprpbvbeillv
+  file_version: 21
+  book_table_id: [88]
+  book_sinfo: 航空運用能力を付与された航空戦艦、日向だ。<br>レイテでも奮戦したぞ。<br>戦略物資輸送作戦「北号作戦」も思い出深いな。<br>ああ、そうだ、海自のＤＤＨ「ひゅうが」に名は受け継がれている。
+  stats:
+    taik: [77, 89]
+    souk: [74, 92]
+    houg: [63, 79]
+    raig: [0, 0]
+    tyku: [45, 89]
+    luck: [30, 79]
+    soku: 5
+    leng: 3
+    kaih: 36
+    tais: 0
+    slot_num: 4
+    max_eq: [11, 11, 11, 14, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 95
+    bull_max: 105
+    broken: [10, 15, 36, 3]
+    pow_up: [4, 0, 3, 4]
+    build_time: 270
+  graph:
+    boko_n: [41, 91]
+    boko_d: [33, 92]
+    kaisyu_n: [21, 1]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-29, 26]
+    kaizo_d: [-5, -11]
+    map_n: [-33, 84]
+    map_d: [-48, 82]
+    ensyuf_n: [35, 76]
+    ensyuf_d: [16, 49]
+    ensyue_n: [35, 0]
+    battle_n: [-45, 60]
+    battle_d: [-45, 60]
+    wed_a: [232, 59]
+    wed_b: [96, 107]
+  wiki_id: 103
+  chinese_name: 日向改
+---

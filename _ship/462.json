@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 462
+  sort_no: 262
+  name: 瑞鶴改二
+  yomi: ずいかく
+  stype: 11
+  ctype: 33
+  cnum: 2
+  backs: 8
+  after_lv: 90
+  after_ship_id: 467
+  get_mes: 翔鶴型航空母艦２番艦、妹の瑞鶴です。<br>幸運の空母ですって？そうじゃないの、一生懸命やってるだけ…よ。艦載機がある限り、負けないわ！
+  voice_f: 3
+  filename: giytrybpknos
+  file_version: 8
+  book_table_id: [462]
+  book_sinfo: 翔鶴型航空母艦２番艦、瑞鶴です。<br>翔鶴姉と共にミッドウェーの後の第一機動部隊の中核として、矢尽き刀折れるまで奮戦しました。文字通り、最後の機動部隊が壊滅する、その日まで。でも、今度は違うの。改装された本格正規空母の力、存分に魅せるわ！翔鶴姉、やろう！
+  stats:
+    taik: [78, 93]
+    souk: [44, 78]
+    houg: [0, 56]
+    raig: [0, 0]
+    tyku: [54, 90]
+    luck: [50, 99]
+    soku: 10
+    leng: 2
+    kaih: 48
+    tais: 0
+    slot_num: 4
+    max_eq: [28, 26, 26, 13, 0]
+    after_fuel: 5750
+    after_bull: 1700
+    fuel_max: 90
+    bull_max: 85
+    broken: [12, 16, 38, 17]
+    pow_up: [0, 0, 5, 5]
+    build_time: 360
+  graph:
+    boko_n: [96, 140]
+    boko_d: [100, 112]
+    kaisyu_n: [32, 0]
+    kaisyu_d: [32, 4]
+    kaizo_n: [40, 80]
+    kaizo_d: [32, 48]
+    map_n: [48, 128]
+    map_d: [24, 96]
+    ensyuf_n: [64, 128]
+    ensyuf_d: [48, 88]
+    ensyue_n: [48, 0]
+    battle_n: [64, 128]
+    battle_d: [48, 96]
+    wed_a: [152, -4]
+    wed_b: [116, 112]
+  wiki_id: 262
+  chinese_name: 
+---

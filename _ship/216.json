@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 216
+  sort_no: 1316
+  name: 多摩改
+  yomi: たま
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 軽巡、多摩です。<br>猫じゃないにゃ。
+  voice_f: 1
+  filename: cxhxktltjtbg
+  file_version: 11
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [42, 59]
+    souk: [29, 59]
+    houg: [20, 59]
+    raig: [24, 79]
+    tyku: [15, 59]
+    luck: [12, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 25
+    bull_max: 30
+    broken: [2, 2, 10, 0]
+    pow_up: [1, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [47, 91]
+    boko_d: [58, 102]
+    kaisyu_n: [9, 2]
+    kaisyu_d: [10, 7]
+    kaizo_n: [-6, 42]
+    kaizo_d: [-20, -4]
+    map_n: [-21, 87]
+    map_d: [-38, 92]
+    ensyuf_n: [-14, 79]
+    ensyuf_d: [-12, 29]
+    ensyue_n: [-14, 0]
+    battle_n: [-29, 68]
+    battle_d: [-29, 68]
+    wed_a: [209, 48]
+    wed_b: [118, 131]
+  wiki_id: 040a
+  chinese_name: 多摩改
+---

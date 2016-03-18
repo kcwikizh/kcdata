@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 454
+  sort_no: 254
+  name: 嵐
+  yomi: あらし
+  stype: 2
+  ctype: 30
+  cnum: 16
+  backs: 5
+  after_lv: 35
+  after_ship_id: 354
+  get_mes: や！　陽炎型駆逐艦、十六番艦、嵐だ！<br>司令、よろしくな！　逢えて嬉しいぜ！
+  voice_f: 1
+  filename: nguivbnbevwd
+  file_version: 8
+  book_table_id: [454]
+  book_sinfo: 陽炎型駆逐艦十六番艦、嵐だ。第四駆逐隊を編成して、四水戦で活躍したぜ。ミッドウェーでは、南雲機動部隊の護りについたんだ。その後も最前線を縦横無尽に駆け抜けて……最期の時は、暗い海での前線の輸送作戦。僚艦の萩風と一緒さ。嵐、そして四駆の仲間たち……覚えていてくれよな。頼むぜ。
+  stats:
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [11, 49]
+    soku: 10
+    leng: 1
+    kaih: 44
+    tais: 28
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 140
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
+  graph:
+    boko_n: [80, 132]
+    boko_d: [128, 128]
+    kaisyu_n: [8, -8]
+    kaisyu_d: [20, 0]
+    kaizo_n: [32, 80]
+    kaizo_d: [64, 64]
+    map_n: [40, 104]
+    map_d: [64, 112]
+    ensyuf_n: [82, 112]
+    ensyuf_d: [82, 112]
+    ensyue_n: [64, 0]
+    battle_n: [40, 112]
+    battle_d: [80, 128]
+    wed_a: [170, 16]
+    wed_b: [112, 104]
+  wiki_id: 254
+  chinese_name: 
+---

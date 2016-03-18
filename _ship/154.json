@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 154
+  sort_no: 154
+  name: 香取
+  yomi: かとり
+  stype: 21
+  ctype: 56
+  cnum: 1
+  backs: 4
+  after_lv: 35
+  after_ship_id: 343
+  get_mes: 練習巡洋艦、香取です。<br>心配しないで…。色々と優しく、指導させて頂きますから。
+  voice_f: 1
+  filename: jtyqmhgstese
+  file_version: 12
+  book_table_id: [154, 974]
+  book_sinfo: 香取型練習巡洋艦一番艦の香取です。<br>はい、練習遠洋航海の指揮は、お任せください。必ずや艦隊の練度向上にお力添えできると思います。え、戦艦との砲撃戦…ですか？それは用兵的にどうなのでしょうか。
+  stats:
+    taik: [36, 48]
+    souk: [9, 27]
+    houg: [14, 28]
+    raig: [12, 28]
+    tyku: [14, 42]
+    luck: [10, 49]
+    soku: 5
+    leng: 2
+    kaih: 24
+    tais: 12
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 400
+    after_bull: 120
+    fuel_max: 30
+    bull_max: 15
+    broken: [3, 1, 10, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 70
+  graph:
+    boko_n: [120, 120]
+    boko_d: [96, 120]
+    kaisyu_n: [12, -8]
+    kaisyu_d: [32, 4]
+    kaizo_n: [64, 64]
+    kaizo_d: [48, 32]
+    map_n: [64, 112]
+    map_d: [80, 96]
+    ensyuf_n: [96, 96]
+    ensyuf_d: [80, 80]
+    ensyue_n: [64, 0]
+    battle_n: [80, 112]
+    battle_d: [80, 112]
+    wed_a: [128, 24]
+    wed_b: [144, 104]
+  wiki_id: 154
+  chinese_name: 香取
+---

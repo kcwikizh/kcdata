@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 285
+  sort_no: 1385
+  name: 鳳翔改
+  yomi: ほうしょう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 航空母艦、鳳翔です。<br>ふつつか者ですが、よろしくお願い致します。
+  voice_f: 1
+  filename: xjotoxrgwfrj
+  file_version: 3
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [40, 59]
+    souk: [25, 49]
+    houg: [0, 29]
+    raig: [0, 0]
+    tyku: [15, 39]
+    luck: [30, 79]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [14, 16, 12, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 30
+    broken: [3, 4, 15, 4]
+    pow_up: [0, 0, 2, 2]
+    build_time: 120
+  graph:
+    boko_n: [-13, -17]
+    boko_d: [-20, -3]
+    kaisyu_n: [2, -21]
+    kaisyu_d: [28, -19]
+    kaizo_n: [-68, -72]
+    kaizo_d: [-84, -114]
+    map_n: [-72, -22]
+    map_d: [-91, -16]
+    ensyuf_n: [-15, -26]
+    ensyuf_d: [-26, -74]
+    ensyue_n: [-15, 0]
+    battle_n: [-103, -48]
+    battle_d: [-103, -48]
+    wed_a: [294, 167]
+    wed_b: [90, 100]
+  wiki_id: 025a
+  chinese_name: 凤翔改
+---

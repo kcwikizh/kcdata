@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 951
+  sort_no: 0
+  name: 
+  yomi: 
+  stype: 
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: nexgeqpuskju
+  file_version: 1
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [72, -184]
+    boko_d: [108, -272]
+    kaisyu_n: [29, -23]
+    kaisyu_d: [28, -19]
+    kaizo_n: [24, -232]
+    kaizo_d: [48, -360]
+    map_n: [24, -192]
+    map_d: [64, -288]
+    ensyuf_n: [52, -196]
+    ensyuf_d: [80, -292]
+    ensyue_n: [40, 0]
+    battle_n: [44, -198]
+    battle_d: [72, -288]
+    wed_a: [184, 320]
+    wed_b: [128, 120]
+  wiki_id: 
+  chinese_name: 
+---

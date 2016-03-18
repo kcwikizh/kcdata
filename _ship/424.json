@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 424
+  sort_no: 224
+  name: 高波
+  yomi: たかなみ
+  stype: 2
+  ctype: 38
+  cnum: 6
+  backs: 4
+  after_lv: 30
+  after_ship_id: 345
+  get_mes: 夕雲型駆逐艦、六番艦の高波です。<br>あ、あの…頑張ります！ホントかもです！
+  voice_f: 1
+  filename: hvxoppojkyge
+  file_version: 12
+  book_table_id: [424, 345, 920]
+  book_sinfo: 夕雲型駆逐艦６番艦、高波です。浦賀生まれです。<br>第三十一駆逐隊に編入され、活躍したかもです。運命のルンガ沖夜戦でも警戒隊の旗艦として敵を発見…、艦隊の勝利に貢献したかも…です。はい！
+  stats:
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 30]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [8, 44]
+    soku: 10
+    leng: 1
+    kaih: 47
+    tais: 27
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 130
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
+  graph:
+    boko_n: [160, 112]
+    boko_d: [128, 124]
+    kaisyu_n: [48, 4]
+    kaisyu_d: [48, 8]
+    kaizo_n: [96, 80]
+    kaizo_d: [48, 64]
+    map_n: [96, 104]
+    map_d: [80, 112]
+    ensyuf_n: [128, 96]
+    ensyuf_d: [112, 104]
+    ensyue_n: [104, 0]
+    battle_n: [112, 112]
+    battle_d: [96, 120]
+    wed_a: [80, 32]
+    wed_b: [136, 134]
+  wiki_id: 224
+  chinese_name: 高波
+---

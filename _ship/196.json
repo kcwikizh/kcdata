@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 196
+  sort_no: 196
+  name: 飛龍改二
+  yomi: ひりゅう
+  stype: 11
+  ctype: 25
+  cnum: 1
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: 航空母艦、飛龍です。<br>空母戦ならお任せ！どんな苦境でも戦えます！
+  voice_f: 0
+  filename: gbxvfsrqbyxg
+  file_version: 16
+  book_table_id: [196]
+  book_sinfo: 飛龍型航空母艦、飛龍です。<br>…ん？蒼龍型改じゃないかって？いいじゃん、そんなこと。それより、索敵は大切にねッ。<br>空母戦は先手必勝！慢心はダメ、ゼッタイ。<br>慎重に、そして、大胆に戦い抜こうよ！
+  stats:
+    taik: [67, 89]
+    souk: [37, 76]
+    houg: [0, 64]
+    raig: [0, 0]
+    tyku: [33, 82]
+    luck: [50, 92]
+    soku: 10
+    leng: 1
+    kaih: 40
+    tais: 0
+    slot_num: 4
+    max_eq: [18, 36, 22, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 70
+    bull_max: 75
+    broken: [10, 14, 32, 11]
+    pow_up: [0, 0, 4, 5]
+    build_time: 250
+  graph:
+    boko_n: [-96, -128]
+    boko_d: [-96, -128]
+    kaisyu_n: [8, 4]
+    kaisyu_d: [24, 4]
+    kaizo_n: [-128, -192]
+    kaizo_d: [-144, -192]
+    map_n: [-96, -128]
+    map_d: [-96, -128]
+    ensyuf_n: [-48, -144]
+    ensyuf_d: [-64, -144]
+    ensyue_n: [-96, 0]
+    battle_n: [-48, -128]
+    battle_d: [-48, -128]
+    wed_a: [320, 272]
+    wed_b: [128, 128]
+  wiki_id: 196
+  chinese_name: 飞龙改二
+---

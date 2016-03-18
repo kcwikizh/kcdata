@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 410
+  sort_no: 210
+  name: 清霜
+  yomi: きよしも
+  stype: 2
+  ctype: 38
+  cnum: 19
+  backs: 4
+  after_lv: 30
+  after_ship_id: 325
+  get_mes: どうも！夕雲型の最終艦、清霜です。<br>到着遅れました、よろしくお願いです！
+  voice_f: 1
+  filename: gdbwncyaopob
+  file_version: 3
+  book_table_id: [410, 983]
+  book_sinfo: 夕雲型駆逐艦のラスト、十九番艦の清霜です。<br>浦賀生まれですよ。もう、そうとう辛い戦局の中で生まれたの。短い間だったけど、縦横無尽に活躍したわ。凄惨だったレイテはもちろん、あの礼号作戦にも参加したのよ！どう？
+  stats:
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 30]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 47
+    tais: 27
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 140
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
+  graph:
+    boko_n: [-24, 108]
+    boko_d: [32, 160]
+    kaisyu_n: [0, 0]
+    kaisyu_d: [24, -8]
+    kaizo_n: [-56, 72]
+    kaizo_d: [-16, 56]
+    map_n: [-32, 96]
+    map_d: [8, 144]
+    ensyuf_n: [-24, 92]
+    ensyuf_d: [24, 128]
+    ensyue_n: [-48, 0]
+    battle_n: [-16, 96]
+    battle_d: [32, 144]
+    wed_a: [256, 48]
+    wed_b: [120, 112]
+  wiki_id: 210
+  chinese_name: 清霜
+---

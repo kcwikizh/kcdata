@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 241
+  sort_no: 1341
+  name: 初霜改
+  yomi: はつしも
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 70
+  after_ship_id: 419
+  get_mes: 初春型四番艦、初霜です。<br>皆さん、よろしくお願いします！
+  voice_f: 1
+  filename: woutqrqtdzqi
+  file_version: 10
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 48]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 220
+    after_bull: 230
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [-68, 51]
+    boko_d: [113, 55]
+    kaisyu_n: [1, -24]
+    kaisyu_d: [50, -33]
+    kaizo_n: [-47, -5]
+    kaizo_d: [8, -24]
+    map_n: [-39, 41]
+    map_d: [17, 45]
+    ensyuf_n: [-77, 40]
+    ensyuf_d: [19, 6]
+    ensyue_n: [-77, 0]
+    battle_n: [-101, 65]
+    battle_d: [57, 72]
+    wed_a: [304, 85]
+    wed_b: [148, 151]
+  wiki_id: 078a
+  chinese_name: 初霜改
+---

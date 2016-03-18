@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 177
+  sort_no: 177
+  name: Prinz Eugen改
+  yomi: プリンツ・オイゲン
+  stype: 5
+  ctype: 55
+  cnum: 3
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: Guten Morgen！<br>私は、重巡プリンツ・オイゲン。よろしくね！
+  voice_f: 3
+  filename: cmmiahpwdamx
+  file_version: 15
+  book_table_id: [177]
+  book_sinfo: わ！びっくりした！私、ドイツ生まれの重巡、プリンツ・オイゲン。アドミラル・ヒッパー級3番艦です。<br>ビスマルク姉さまとライン演習作戦に参加しました。幸運艦…そう？　この海でも戦い抜きます！
+  stats:
+    taik: [63, 79]
+    souk: [48, 82]
+    houg: [48, 75]
+    raig: [40, 84]
+    tyku: [18, 60]
+    luck: [40, 89]
+    soku: 10
+    leng: 2
+    kaih: 40
+    tais: 0
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 55
+    bull_max: 75
+    broken: [4, 8, 22, 3]
+    pow_up: [3, 2, 1, 3]
+    build_time: 200
+  graph:
+    boko_n: [-48, 132]
+    boko_d: [32, 136]
+    kaisyu_n: [16, -8]
+    kaisyu_d: [24, 16]
+    kaizo_n: [-80, 68]
+    kaizo_d: [-8, 40]
+    map_n: [-96, 112]
+    map_d: [-8, 112]
+    ensyuf_n: [-64, 112]
+    ensyuf_d: [32, 96]
+    ensyue_n: [-96, 0]
+    battle_n: [-32, 112]
+    battle_d: [32, 112]
+    wed_a: [296, 24]
+    wed_b: [128, 112]
+  wiki_id: 177
+  chinese_name: 欧根亲王改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 437
+  sort_no: 237
+  name: 暁改二
+  yomi: あかつき
+  stype: 2
+  ctype: 5
+  cnum: 1
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 暁よ。<br>一人前のレディーとして扱ってよね！
+  voice_f: 3
+  filename: gzerqivthcrd
+  file_version: 3
+  book_table_id: [437]
+  book_sinfo: 特Ⅲ型駆逐艦１番艦の暁よ。<br>吹雪型をベースに航行性能や航続距離を向上させたの。特型駆逐艦の最終完成形なんだから！<br>ちゃんとレディーとして活躍したのよ！<br>ほ、ほんとなんだからっ。
+  stats:
+    taik: [31, 50]
+    souk: [14, 50]
+    houg: [14, 60]
+    raig: [32, 90]
+    tyku: [19, 59]
+    luck: [15, 67]
+    soku: 10
+    leng: 1
+    kaih: 46
+    tais: 28
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 2, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [112, 156]
+    boko_d: [144, 144]
+    kaisyu_n: [16, 16]
+    kaisyu_d: [32, 32]
+    kaizo_n: [56, 92]
+    kaizo_d: [80, 72]
+    map_n: [64, 144]
+    map_d: [104, 128]
+    ensyuf_n: [80, 128]
+    ensyuf_d: [112, 112]
+    ensyue_n: [64, 0]
+    battle_n: [80, 140]
+    battle_d: [112, 128]
+    wed_a: [128, 0]
+    wed_b: [128, 128]
+  wiki_id: 237
+  chinese_name: 晓改二
+---

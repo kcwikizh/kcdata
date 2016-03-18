@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 283
+  sort_no: 1383
+  name: 飛鷹改
+  yomi: ひよう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 名前は出雲ま…じゃなかった、飛鷹です。<br>航空母艦よ。よろしくね、提督！
+  voice_f: 1
+  filename: yiwwnppitqpf
+  file_version: 8
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [50, 79]
+    souk: [30, 59]
+    houg: [0, 29]
+    raig: [0, 0]
+    tyku: [25, 69]
+    luck: [12, 59]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [18, 18, 18, 12, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 45
+    bull_max: 45
+    broken: [6, 10, 25, 8]
+    pow_up: [0, 0, 3, 3]
+    build_time: 180
+  graph:
+    boko_n: [0, 120]
+    boko_d: [0, 120]
+    kaisyu_n: [32, 16]
+    kaisyu_d: [40, 24]
+    kaizo_n: [-12, 36]
+    kaizo_d: [0, 24]
+    map_n: [0, 92]
+    map_d: [16, 112]
+    ensyuf_n: [0, 96]
+    ensyuf_d: [-32, 56]
+    ensyue_n: [-16, 0]
+    battle_n: [-16, 96]
+    battle_d: [0, 96]
+    wed_a: [212, 48]
+    wed_b: [112, 104]
+  wiki_id: 065a
+  chinese_name: 飞鹰改
+---

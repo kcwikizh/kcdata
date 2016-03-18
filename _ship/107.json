@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 107
+  sort_no: 100
+  name: 千代田甲
+  yomi: ちよだ
+  stype: 16
+  ctype: 15
+  cnum: 2
+  backs: 3
+  after_lv: 15
+  after_ship_id: 109
+  get_mes: 空母になった千代田です。<br>ぜひ、千歳お姉と一緒に機動部隊を編制してね！
+  voice_f: 3
+  filename: agybvcshxbpm
+  file_version: 12
+  book_table_id: [107]
+  book_sinfo: 水上機母艦として建造された千歳型２番艦、千代田です。甲標的母艦としても運用できるようになっているのよ。千歳お姉と一緒に頑張りますね！
+  stats:
+    taik: [42, 59]
+    souk: [21, 39]
+    houg: [9, 29]
+    raig: [15, 72]
+    tyku: [17, 39]
+    luck: [10, 59]
+    soku: 10
+    leng: 1
+    kaih: 27
+    tais: 0
+    slot_num: 3
+    max_eq: [12, 6, 6, 0, 0]
+    after_fuel: 100
+    after_bull: 60
+    fuel_max: 35
+    bull_max: 45
+    broken: [3, 3, 15, 3]
+    pow_up: [0, 2, 1, 2]
+    build_time: 160
+  graph:
+    boko_n: [27, 74]
+    boko_d: [8, 49]
+    kaisyu_n: [14, 10]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-28, 19]
+    kaizo_d: [-63, -63]
+    map_n: [-23, 65]
+    map_d: [-88, 39]
+    ensyuf_n: [42, 42]
+    ensyuf_d: [-48, -10]
+    ensyue_n: [42, 0]
+    battle_n: [-35, 38]
+    battle_d: [-58, 18]
+    wed_a: [225, 80]
+    wed_b: [95, 111]
+  wiki_id: 100
+  chinese_name: 千代田甲
+---

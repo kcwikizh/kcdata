@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 227
+  sort_no: 1327
+  name: 黒潮改
+  yomi: くろしお
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 黒潮や、よろしゅうな。
+  voice_f: 1
+  filename: qsnkljxqtrgb
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [16, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [87, 90]
+    boko_d: [83, 94]
+    kaisyu_n: [17, -4]
+    kaisyu_d: [28, -4]
+    kaizo_n: [32, 35]
+    kaizo_d: [24, -16]
+    map_n: [26, 87]
+    map_d: [-13, 84]
+    ensyuf_n: [75, 71]
+    ensyuf_d: [19, 17]
+    ensyue_n: [75, 0]
+    battle_n: [47, 74]
+    battle_d: [47, 74]
+    wed_a: [143, 51]
+    wed_b: [155, 130]
+  wiki_id: 093a
+  chinese_name: 黑潮改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 347
+  sort_no: 1427
+  name: Libeccio改
+  yomi: リベッチオ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: ブォンジョールノ！<br>マエストラーレ級駆逐艦、リベッチオです。<br>リベでいいよ。提督さん、よろしくね！
+  voice_f: 3
+  filename: rgfuelwdntub
+  file_version: 10
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [29, 46]
+    souk: [15, 50]
+    houg: [11, 48]
+    raig: [27, 72]
+    tyku: [20, 59]
+    luck: [16, 69]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 23
+  graph:
+    boko_n: [128, 112]
+    boko_d: [40, 128]
+    kaisyu_n: [24, -12]
+    kaisyu_d: [0, -4]
+    kaizo_n: [112, 48]
+    kaizo_d: [0, 48]
+    map_n: [112, 96]
+    map_d: [0, 112]
+    ensyuf_n: [112, 96]
+    ensyuf_d: [0, 96]
+    ensyue_n: [96, 0]
+    battle_n: [112, 96]
+    battle_d: [-8, 104]
+    wed_a: [88, 32]
+    wed_b: [112, 112]
+  wiki_id: 243a
+  chinese_name: 
+---

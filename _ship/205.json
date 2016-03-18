@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 205
+  sort_no: 1305
+  name: 叢雲改
+  yomi: むらくも
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 70
+  after_ship_id: 420
+  get_mes: あんたが司令官ね。<br>ま、せいぜい頑張りなさい！
+  voice_f: 3
+  filename: rmcvsljwdyur
+  file_version: 17
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 49]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 210
+    after_bull: 250
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [-117, -8]
+    boko_d: [-119, -2]
+    kaisyu_n: [15, -6]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-202, -65]
+    kaizo_d: [-128, -96]
+    map_n: [-168, -14]
+    map_d: [-215, -12]
+    ensyuf_n: [-158, -16]
+    ensyuf_d: [-152, -60]
+    ensyue_n: [-158, 0]
+    battle_n: [-187, -8]
+    battle_d: [-187, -7]
+    wed_a: [411, 147]
+    wed_b: [122, 117]
+  wiki_id: 015a
+  chinese_name: 丛云改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 426
+  sort_no: 226
+  name: 吹雪改二
+  yomi: ふぶき
+  stype: 2
+  ctype: 12
+  cnum: 1
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: はじめまして吹雪です。<br>よろしくお願い致します。
+  voice_f: 3
+  filename: rtkekdbkqrkg
+  file_version: 17
+  book_table_id: [426]
+  book_sinfo: ワシントン条約制限下で設計された、世界中を驚愕させたクラスを超えた特型駆逐艦の１番艦、吹雪です。<br>私たちは、後の艦隊型駆逐艦のベースとなりました。<br>はいっ、頑張ります！
+  stats:
+    taik: [31, 49]
+    souk: [14, 50]
+    houg: [15, 59]
+    raig: [30, 88]
+    tyku: [35, 78]
+    luck: [17, 77]
+    soku: 10
+    leng: 1
+    kaih: 49
+    tais: 26
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [96, 20]
+    boko_d: [96, 20]
+    kaisyu_n: [40, 16]
+    kaisyu_d: [56, 24]
+    kaizo_n: [72, -44]
+    kaizo_d: [64, -68]
+    map_n: [80, 8]
+    map_d: [80, 8]
+    ensyuf_n: [88, 8]
+    ensyuf_d: [88, 8]
+    ensyue_n: [64, 0]
+    battle_n: [96, 0]
+    battle_d: [96, 0]
+    wed_a: [96, 120]
+    wed_b: [136, 136]
+  wiki_id: 226
+  chinese_name: 吹雪改二
+---

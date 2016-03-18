@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 194
+  sort_no: 194
+  name: 羽黒改二
+  yomi: はぐろ
+  stype: 5
+  ctype: 29
+  cnum: 4
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 妙高型重巡洋艦、羽黒です。<br>皆さんと共に、全力で戦線を支えます！
+  voice_f: 1
+  filename: ecwgnneuzbcv
+  file_version: 14
+  book_table_id: [194]
+  book_sinfo: 長崎で生まれたの。<br>スラバヤ沖海戦、珊瑚海海戦、ミッドウェー海戦、第二次ソロモン海戦、マリアナ海戦など数々の海戦に参加しました。<br>あの…頑張ります！
+  stats:
+    taik: [57, 71]
+    souk: [47, 77]
+    houg: [52, 84]
+    raig: [34, 84]
+    tyku: [24, 72]
+    luck: [19, 70]
+    soku: 10
+    leng: 2
+    kaih: 45
+    tais: 0
+    slot_num: 4
+    max_eq: [2, 2, 4, 4, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 45
+    bull_max: 75
+    broken: [4, 7, 20, 2]
+    pow_up: [3, 1, 2, 2]
+    build_time: 80
+  graph:
+    boko_n: [-16, 144]
+    boko_d: [144, 192]
+    kaisyu_n: [16, 16]
+    kaisyu_d: [64, -8]
+    kaizo_n: [-64, 64]
+    kaizo_d: [128, 64]
+    map_n: [-48, 128]
+    map_d: [144, 128]
+    ensyuf_n: [0, 112]
+    ensyuf_d: [176, 128]
+    ensyue_n: [-48, 0]
+    battle_n: [-16, 112]
+    battle_d: [144, 128]
+    wed_a: [224, 0]
+    wed_b: [144, 144]
+  wiki_id: 194
+  chinese_name: 羽黑改二
+---

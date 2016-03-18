@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 295
+  sort_no: 1395
+  name: 衣笠改
+  yomi: きぬがさ
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 55
+  after_ship_id: 142
+  get_mes: はーいっ！衣笠さんの登場よ！<br>青葉ともども、よろしくね！
+  voice_f: 3
+  filename: qgkmjgfbanxl
+  file_version: 3
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [49, 65]
+    souk: [34, 64]
+    houg: [36, 66]
+    raig: [18, 59]
+    tyku: [18, 59]
+    luck: [10, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 380
+    after_bull: 480
+    fuel_max: 35
+    bull_max: 60
+    broken: [3, 6, 15, 1]
+    pow_up: [2, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [43, 47]
+    boko_d: [104, 55]
+    kaisyu_n: [10, 1]
+    kaisyu_d: [52, 4]
+    kaizo_n: [43, 13]
+    kaizo_d: [60, -2]
+    map_n: [8, 35]
+    map_d: [28, 56]
+    ensyuf_n: [17, 36]
+    ensyuf_d: [37, 28]
+    ensyue_n: [53, 0]
+    battle_n: [66, 42]
+    battle_d: [65, 42]
+    wed_a: [188, 95]
+    wed_b: [115, 124]
+  wiki_id: 120a
+  chinese_name: 衣笠改
+---

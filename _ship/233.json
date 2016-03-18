@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 233
+  sort_no: 1333
+  name: 潮改
+  yomi: うしお
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 60
+  after_ship_id: 407
+  get_mes: 特型駆逐艦…綾波型の「潮」です。<br>もう下がってよろしいでしょうか…。
+  voice_f: 1
+  filename: dpqjexkcixhw
+  file_version: 17
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [20, 79]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 170
+    after_bull: 30
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [137, 11]
+    boko_d: [47, 30]
+    kaisyu_n: [21, 9]
+    kaisyu_d: [28, 7]
+    kaizo_n: [82, -44]
+    kaizo_d: [11, -53]
+    map_n: [41, 11]
+    map_d: [-49, 20]
+    ensyuf_n: [103, 8]
+    ensyuf_d: [23, -23]
+    ensyue_n: [103, 0]
+    battle_n: [62, 16]
+    battle_d: [-15, 19]
+    wed_a: [106, 116]
+    wed_b: [134, 145]
+  wiki_id: 070a
+  chinese_name: 潮改
+---

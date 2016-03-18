@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 461
+  sort_no: 261
+  name: 翔鶴改二
+  yomi: しょうかく
+  stype: 11
+  ctype: 33
+  cnum: 1
+  backs: 8
+  after_lv: 88
+  after_ship_id: 466
+  get_mes: 翔鶴型航空母艦１番艦、翔鶴です。<br>一航戦、二航戦の先輩方に、少しでも近づけるように<br>瑞鶴と一緒に頑張ります！
+  voice_f: 3
+  filename: hpxsthymxmki
+  file_version: 8
+  book_table_id: [461]
+  book_sinfo: 翔鶴型航空母艦１番艦の翔鶴です。<br>軍縮条約失効後に設計建造された、本格的な大型正規空母として就役しました。妹の瑞鶴と共に第五航空戦隊を編成します。あの惨劇の後は、先輩方の後を継いで戦線を支えました。そして今、マリアナを超えて、提督と共に翔び続けたいと思います。
+  stats:
+    taik: [77, 93]
+    souk: [43, 77]
+    houg: [0, 63]
+    raig: [0, 0]
+    tyku: [48, 88]
+    luck: [20, 97]
+    soku: 10
+    leng: 2
+    kaih: 39
+    tais: 0
+    slot_num: 4
+    max_eq: [27, 27, 27, 12, 0]
+    after_fuel: 5700
+    after_bull: 1700
+    fuel_max: 90
+    bull_max: 85
+    broken: [12, 16, 38, 17]
+    pow_up: [0, 0, 5, 5]
+    build_time: 360
+  graph:
+    boko_n: [40, 144]
+    boko_d: [-96, 160]
+    kaisyu_n: [8, 4]
+    kaisyu_d: [32, 4]
+    kaizo_n: [-16, 80]
+    kaizo_d: [-160, 64]
+    map_n: [0, 128]
+    map_d: [-144, 136]
+    ensyuf_n: [0, 136]
+    ensyuf_d: [-136, 132]
+    ensyue_n: [16, 0]
+    battle_n: [16, 128]
+    battle_d: [-128, 144]
+    wed_a: [224, -8]
+    wed_b: [104, 104]
+  wiki_id: 261
+  chinese_name: 
+---

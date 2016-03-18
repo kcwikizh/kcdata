@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 264
+  sort_no: 1364
+  name: 青葉改
+  yomi: あおば
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: ども、恐縮です、青葉ですぅ！<br>一言お願いします！
+  voice_f: 0
+  filename: udkkmzgsimgq
+  file_version: 4
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [49, 65]
+    souk: [34, 70]
+    houg: [36, 72]
+    raig: [18, 59]
+    tyku: [18, 59]
+    luck: [30, 79]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 35
+    bull_max: 55
+    broken: [3, 6, 15, 1]
+    pow_up: [2, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [-19, 69]
+    boko_d: [-10, 77]
+    kaisyu_n: [8, 11]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-54, 16]
+    kaizo_d: [-35, -27]
+    map_n: [-30, 60]
+    map_d: [-106, 67]
+    ensyuf_n: [-4, 68]
+    ensyuf_d: [-12, 25]
+    ensyue_n: [-4, 0]
+    battle_n: [-26, 41]
+    battle_d: [-26, 41]
+    wed_a: [219, 53]
+    wed_b: [153, 162]
+  wiki_id: 054a
+  chinese_name: 青叶改
+---

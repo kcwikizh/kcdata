@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 120
+  sort_no: 116
+  name: 三隈
+  yomi: みくま
+  stype: 5
+  ctype: 9
+  cnum: 2
+  backs: 5
+  after_lv: 30
+  after_ship_id: 121
+  get_mes: ごきげんよう、三隈です。<br>最上さんはどこにいらっしゃるのかしら？
+  voice_f: 3
+  filename: oqqerytyeisg
+  file_version: 3
+  book_table_id: [120]
+  book_sinfo: 最上型１番艦のモガミンとは、とっても仲がいいのだけれど、仲が良すぎて彼女とは衝突することも多いの…ええ、そう…物理的に…私はちゃんと前見てるのよ？
+  stats:
+    taik: [40, 59]
+    souk: [30, 59]
+    houg: [40, 59]
+    raig: [18, 69]
+    tyku: [18, 59]
+    luck: [5, 49]
+    soku: 10
+    leng: 2
+    kaih: 31
+    tais: 0
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 270
+    after_bull: 110
+    fuel_max: 40
+    bull_max: 65
+    broken: [2, 3, 12, 1]
+    pow_up: [2, 1, 0, 2]
+    build_time: 90
+  graph:
+    boko_n: [16, -16]
+    boko_d: [16, -4]
+    kaisyu_n: [18, 7]
+    kaisyu_d: [28, 7]
+    kaizo_n: [16, -68]
+    kaizo_d: [16, -95]
+    map_n: [30, -11]
+    map_d: [0, -16]
+    ensyuf_n: [20, -14]
+    ensyuf_d: [20, -59]
+    ensyue_n: [20, 0]
+    battle_n: [32, -26]
+    battle_d: [32, -26]
+    wed_a: [259, 141]
+    wed_b: [87, 106]
+  wiki_id: 116
+  chinese_name: 三隈
+---

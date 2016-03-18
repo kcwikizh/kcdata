@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 195
+  sort_no: 195
+  name: 綾波改二
+  yomi: あやなみ
+  stype: 2
+  ctype: 1
+  cnum: 1
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: ごきげんよう。<br>特型駆逐艦、綾波と申します。
+  voice_f: 3
+  filename: tiqezicxwpry
+  file_version: 14
+  book_table_id: [195]
+  book_sinfo: 特型駆逐艦、綾波です。<br>改良吹雪型の１番艦なんです。<br>第三次ソロモン海海戦では、駆逐艦一隻としては、特別な大活躍をお見せしました。頑張ります！
+  stats:
+    taik: [32, 54]
+    souk: [15, 54]
+    houg: [17, 70]
+    raig: [30, 87]
+    tyku: [16, 52]
+    luck: [40, 77]
+    soku: 10
+    leng: 1
+    kaih: 50
+    tais: 25
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [64, 64]
+    boko_d: [64, 64]
+    kaisyu_n: [24, -8]
+    kaisyu_d: [40, 8]
+    kaizo_n: [24, 8]
+    kaizo_d: [8, -24]
+    map_n: [40, 64]
+    map_d: [40, 64]
+    ensyuf_n: [80, 56]
+    ensyuf_d: [80, 56]
+    ensyue_n: [48, 0]
+    battle_n: [72, 64]
+    battle_d: [56, 64]
+    wed_a: [152, 64]
+    wed_b: [144, 128]
+  wiki_id: 195
+  chinese_name: 绫波改二
+---

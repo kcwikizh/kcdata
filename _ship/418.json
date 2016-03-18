@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 418
+  sort_no: 218
+  name: 皐月改二
+  yomi: さつき
+  stype: 2
+  ctype: 28
+  cnum: 5
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 皐月だよっ。<br>よろしくな！
+  voice_f: 1
+  filename: uhbkffblgplp
+  file_version: 2
+  book_table_id: [418]
+  book_sinfo: ボクは任務途中に何度も何度も怪我をしたけど、最後まで奮戦した睦月型駆逐艦５番艦さ。<br>緒戦の後も、船団護衛などで各海域で頑張ったんだ。ホントだよ。
+  stats:
+    taik: [28, 44]
+    souk: [12, 45]
+    houg: [8, 42]
+    raig: [27, 78]
+    tyku: [40, 82]
+    luck: [20, 79]
+    soku: 10
+    leng: 1
+    kaih: 60
+    tais: 30
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 2, 7, 0]
+    pow_up: [1, 2, 2, 0]
+    build_time: 18
+  graph:
+    boko_n: [16, 156]
+    boko_d: [104, 120]
+    kaisyu_n: [18, -16]
+    kaisyu_d: [52, 0]
+    kaizo_n: [-40, 88]
+    kaizo_d: [48, 48]
+    map_n: [-48, 136]
+    map_d: [24, 96]
+    ensyuf_n: [-36, 132]
+    ensyuf_d: [56, 80]
+    ensyue_n: [-56, 0]
+    battle_n: [-20, 144]
+    battle_d: [64, 92]
+    wed_a: [256, -8]
+    wed_b: [108, 112]
+  wiki_id: 
+  chinese_name: 
+---

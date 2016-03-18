@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 48
+  sort_no: 89
+  name: 霰
+  yomi: あられ
+  stype: 2
+  ctype: 18
+  cnum: 9
+  backs: 1
+  after_lv: 20
+  after_ship_id: 252
+  get_mes: 霰です…<br>んちゃ…とかはいいません…よろしく…
+  voice_f: 0
+  filename: oiknslickotp
+  file_version: 9
+  book_table_id: [48]
+  book_sinfo: 霰は、マル２計画で建造された最後の駆逐艦…。<br>朝潮型シリーズの…最終艦でも…あるの…。<br>この後は…陽炎型だから…
+  stats:
+    taik: [16, 33]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 22
+  graph:
+    boko_n: [46, 47]
+    boko_d: [43, 55]
+    kaisyu_n: [11, 32]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-9, -8]
+    kaizo_d: [-15, -21]
+    map_n: [-50, 47]
+    map_d: [-53, 45]
+    ensyuf_n: [23, 26]
+    ensyuf_d: [3, -29]
+    ensyue_n: [23, 0]
+    battle_n: [-37, 18]
+    battle_d: [-37, 18]
+    wed_a: [198, 100]
+    wed_b: [145, 141]
+  wiki_id: 089
+  chinese_name: 霰
+---

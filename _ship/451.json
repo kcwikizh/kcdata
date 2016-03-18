@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 451
+  sort_no: 251
+  name: 瑞穂
+  yomi: みずほ
+  stype: 16
+  ctype: 62
+  cnum: 1
+  backs: 5
+  after_lv: 40
+  after_ship_id: 348
+  get_mes: 提督、お疲れさまです。<br>水上機母艦、瑞穂、推参致しました。<br>どうぞよろしくお願い申し上げます。
+  voice_f: 1
+  filename: zqwwomufsbpq
+  file_version: 10
+  book_table_id: [451, 950, 975, 984, 987]
+  book_sinfo: 水上機母艦、瑞穂です。千歳、千代田に続いて建造された、甲標的も運用可能な特殊水上機母艦です。新機軸の機関部があまり上手くいかなくって……でも、開戦初頭の南方作戦などに参加致しました。お役に立てるよう頑張りますね！
+  stats:
+    taik: [41, 59]
+    souk: [19, 42]
+    houg: [12, 36]
+    raig: [0, 32]
+    tyku: [16, 32]
+    luck: [8, 39]
+    soku: 5
+    leng: 1
+    kaih: 19
+    tais: 0
+    slot_num: 2
+    max_eq: [12, 12, 0, 0, 0]
+    after_fuel: 160
+    after_bull: 220
+    fuel_max: 35
+    bull_max: 35
+    broken: [3, 2, 12, 5]
+    pow_up: [1, 0, 1, 2]
+    build_time: 140
+  graph:
+    boko_n: [0, 88]
+    boko_d: [0, 104]
+    kaisyu_n: [12, -8]
+    kaisyu_d: [24, -4]
+    kaizo_n: [-48, 24]
+    kaizo_d: [-48, 40]
+    map_n: [-32, 72]
+    map_d: [-32, 88]
+    ensyuf_n: [-48, 64]
+    ensyuf_d: [-48, 80]
+    ensyue_n: [-48, 0]
+    battle_n: [-24, 80]
+    battle_d: [-24, 96]
+    wed_a: [256, 40]
+    wed_b: [120, 120]
+  wiki_id: 251
+  chinese_name: 
+---

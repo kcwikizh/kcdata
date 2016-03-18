@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 78
+  sort_no: 21
+  name: 金剛
+  yomi: こんごう
+  stype: 8
+  ctype: 6
+  cnum: 1
+  backs: 5
+  after_lv: 25
+  after_ship_id: 209
+  get_mes: 英国で生まれた帰国子女の金剛デース。<br>ヨロシクオネガイシマース！
+  voice_f: 0
+  filename: oygjwmgvcdyv
+  file_version: 18
+  book_table_id: [78]
+  book_sinfo: 超弩級戦艦として建造技術導入を兼ねて英国ヴィッカース社で建造された、金剛デース！<br>太平洋戦域でも持前の高速力を活かして、大活躍デース！<br>期待してネ！
+  stats:
+    taik: [63, 79]
+    souk: [52, 69]
+    houg: [63, 89]
+    raig: [0, 0]
+    tyku: [24, 69]
+    luck: [12, 49]
+    soku: 10
+    leng: 3
+    kaih: 30
+    tais: 0
+    slot_num: 3
+    max_eq: [3, 3, 3, 0, 0]
+    after_fuel: 400
+    after_bull: 600
+    fuel_max: 80
+    bull_max: 110
+    broken: [10, 14, 33, 3]
+    pow_up: [3, 0, 1, 3]
+    build_time: 240
+  graph:
+    boko_n: [-27, 74]
+    boko_d: [-34, 46]
+    kaisyu_n: [41, 2]
+    kaisyu_d: [40, -39]
+    kaizo_n: [-3, 24]
+    kaizo_d: [4, -33]
+    map_n: [-4, 72]
+    map_d: [-67, 46]
+    ensyuf_n: [-5, 69]
+    ensyuf_d: [-3, 2]
+    ensyue_n: [-5, 0]
+    battle_n: [5, 55]
+    battle_d: [12, 41]
+    wed_a: [174, 51]
+    wed_b: [99, 130]
+  wiki_id: 021
+  chinese_name: 金刚
+---

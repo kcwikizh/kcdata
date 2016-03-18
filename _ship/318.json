@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 318
+  sort_no: 190
+  name: 龍鳳改
+  yomi: たいげい・りゅうほう
+  stype: 7
+  ctype: 51
+  cnum: 1
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 潜水母艦改装空母の龍鳳です。<br>航空母艦として、私、頑張ります！
+  voice_f: 3
+  filename: rjtnzguullvo
+  file_version: 4
+  book_table_id: [318]
+  book_sinfo: 潜水母艦改装空母の龍鳳です。<br>機関の換装の影響で速度は計画通りには出なかったけれど、このクラスの軽空母としては充実の飛行甲板と兵装なんです。<br>空母龍鳳、精一杯頑張ります！
+  stats:
+    taik: [48, 70]
+    souk: [24, 57]
+    houg: [0, 32]
+    raig: [0, 0]
+    tyku: [28, 62]
+    luck: [24, 79]
+    soku: 5
+    leng: 1
+    kaih: 30
+    tais: 0
+    slot_num: 4
+    max_eq: [21, 9, 9, 6, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 35
+    bull_max: 40
+    broken: [4, 8, 24, 5]
+    pow_up: [0, 0, 2, 2]
+    build_time: 160
+  graph:
+    boko_n: [-16, 128]
+    boko_d: [80, 144]
+    kaisyu_n: [16, 16]
+    kaisyu_d: [36, 16]
+    kaizo_n: [-56, 48]
+    kaizo_d: [64, 32]
+    map_n: [-32, 112]
+    map_d: [64, 128]
+    ensyuf_n: [-16, 112]
+    ensyuf_d: [80, 128]
+    ensyue_n: [-32, 0]
+    battle_n: [-32, 112]
+    battle_d: [48, 112]
+    wed_a: [208, 8]
+    wed_b: [160, 144]
+  wiki_id: 190
+  chinese_name: 龙凤改
+---

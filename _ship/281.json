@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 281
+  sort_no: 1381
+  name: 龍驤改
+  yomi: りゅうじょう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 75
+  after_ship_id: 157
+  get_mes: 軽空母、龍驤や。独特なシルエットでしょ？<br>でも、艦載機を次々繰り出す、ちゃーんとした空母なんや。期待してや！
+  voice_f: 1
+  filename: wvcpwlwuxwhq
+  file_version: 14
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [45, 69]
+    souk: [25, 59]
+    houg: [0, 29]
+    raig: [0, 0]
+    tyku: [20, 39]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [9, 24, 5, 5, 0]
+    after_fuel: 600
+    after_bull: 600
+    fuel_max: 40
+    bull_max: 40
+    broken: [4, 6, 20, 6]
+    pow_up: [0, 0, 3, 2]
+    build_time: 170
+  graph:
+    boko_n: [-16, 136]
+    boko_d: [152, 136]
+    kaisyu_n: [0, 16]
+    kaisyu_d: [28, 24]
+    kaizo_n: [-48, 72]
+    kaizo_d: [120, 64]
+    map_n: [-40, 128]
+    map_d: [112, 112]
+    ensyuf_n: [-32, 104]
+    ensyuf_d: [128, 80]
+    ensyue_n: [-32, 0]
+    battle_n: [-16, 112]
+    battle_d: [112, 96]
+    wed_a: [296, -16]
+    wed_b: [104, 80]
+  wiki_id: 030a
+  chinese_name: 龙骧改
+---

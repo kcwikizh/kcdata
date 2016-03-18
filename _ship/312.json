@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 312
+  sort_no: 1408
+  name: 浜風改
+  yomi: はまかぜ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 駆逐艦、浜風です。<br>これより貴艦隊所属となります。
+  voice_f: 1
+  filename: ojkgkujsenly
+  file_version: 20
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 48]
+    raig: [28, 79]
+    tyku: [22, 60]
+    luck: [17, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [16, 120]
+    boko_d: [64, 152]
+    kaisyu_n: [24, 8]
+    kaisyu_d: [40, 8]
+    kaizo_n: [16, 48]
+    kaizo_d: [56, 56]
+    map_n: [32, 96]
+    map_d: [64, 112]
+    ensyuf_n: [48, 96]
+    ensyuf_d: [64, 40]
+    ensyue_n: [8, 0]
+    battle_n: [0, 80]
+    battle_d: [64, 80]
+    wed_a: [176, 56]
+    wed_b: [112, 112]
+  wiki_id: 170a
+  chinese_name: 浜风改
+---

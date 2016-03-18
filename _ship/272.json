@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 272
+  sort_no: 1372
+  name: 鳥海改
+  yomi: ちょうかい
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 65
+  after_ship_id: 427
+  get_mes: 私が鳥海です。よろしくです。
+  voice_f: 1
+  filename: nsgytjsjbfdp
+  file_version: 18
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [57, 69]
+    souk: [45, 75]
+    houg: [48, 78]
+    raig: [24, 69]
+    tyku: [20, 69]
+    luck: [10, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 650
+    after_bull: 1300
+    fuel_max: 40
+    bull_max: 70
+    broken: [4, 7, 20, 2]
+    pow_up: [3, 1, 1, 2]
+    build_time: 85
+  graph:
+    boko_n: [-16, 41]
+    boko_d: [-23, 27]
+    kaisyu_n: [-19, -9]
+    kaisyu_d: [15, 7]
+    kaizo_n: [-31, -8]
+    kaizo_d: [4, -45]
+    map_n: [-21, 32]
+    map_d: [-60, 18]
+    ensyuf_n: [-11, 27]
+    ensyuf_d: [1, -20]
+    ensyue_n: [-11, 0]
+    battle_n: [-31, 6]
+    battle_d: [-31, 6]
+    wed_a: [266, 111]
+    wed_b: [126, 128]
+  wiki_id: 062a
+  chinese_name: 鸟海改
+---

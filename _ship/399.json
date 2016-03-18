@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 399
+  sort_no: 1499
+  name: 伊58改
+  yomi: い58
+  stype: 14
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: こんにちは！ 伊五十八です。<br>ゴーヤって呼んでもいいよ！苦くなんかないよぉ！
+  voice_f: 3
+  filename: hosmgvuzyjlw
+  file_version: 3
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [18, 24]
+    souk: [5, 19]
+    houg: [3, 12]
+    raig: [36, 84]
+    tyku: [0, 0]
+    luck: [50, 79]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 25
+    broken: [1, 2, 2, 2]
+    pow_up: [0, 2, 1, 0]
+    build_time: 22
+  graph:
+    boko_n: [-32, 32]
+    boko_d: [-32, 32]
+    kaisyu_n: [10, -32]
+    kaisyu_d: [28, -16]
+    kaizo_n: [-49, -4]
+    kaizo_d: [-11, -34]
+    map_n: [-22, 48]
+    map_d: [-49, 50]
+    ensyuf_n: [-3, 42]
+    ensyuf_d: [-40, 1]
+    ensyue_n: [-40, 0]
+    battle_n: [-14, 38]
+    battle_d: [-14, 38]
+    wed_a: [265, 94]
+    wed_b: [125, 143]
+  wiki_id: 127a
+  chinese_name: 伊58改
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 231
+  sort_no: 1331
+  name: 曙改
+  yomi: あけぼの
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 特型駆逐艦「曙」よ。<br>って、こっち見んな！　この糞提督！
+  voice_f: 1
+  filename: wnocckxgfmnh
+  file_version: 18
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [86, -11]
+    boko_d: [93, -6]
+    kaisyu_n: [29, -23]
+    kaisyu_d: [28, -19]
+    kaizo_n: [31, -66]
+    kaizo_d: [26, -87]
+    map_n: [10, -11]
+    map_d: [-3, -16]
+    ensyuf_n: [48, -7]
+    ensyuf_d: [67, -50]
+    ensyue_n: [48, 0]
+    battle_n: [35, -18]
+    battle_d: [19, -16]
+    wed_a: [144, 130]
+    wed_b: [153, 168]
+  wiki_id: 068a
+  chinese_name: 曙改
+---

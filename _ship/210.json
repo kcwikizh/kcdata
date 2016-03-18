@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 210
+  sort_no: 1310
+  name: 比叡改
+  yomi: ひえい
+  stype: 8
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 75
+  after_ship_id: 150
+  get_mes: 金剛お姉さまの妹分、比叡です。<br>経験を積んで、姉さまに少しでも近づきたいです。
+  voice_f: 1
+  filename: iatmdvvwlngq
+  file_version: 15
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [75, 89]
+    souk: [67, 89]
+    houg: [72, 94]
+    raig: [0, 0]
+    tyku: [28, 79]
+    luck: [12, 69]
+    soku: 10
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 2400
+    after_bull: 2400
+    fuel_max: 90
+    bull_max: 120
+    broken: [10, 14, 33, 3]
+    pow_up: [4, 0, 2, 3]
+    build_time: 240
+  graph:
+    boko_n: [28, 106]
+    boko_d: [31, 114]
+    kaisyu_n: [14, 6]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-27, 51]
+    kaizo_d: [-38, 5]
+    map_n: [-19, 105]
+    map_d: [-35, 94]
+    ensyuf_n: [16, 90]
+    ensyuf_d: [-7, 46]
+    ensyue_n: [16, 0]
+    battle_n: [-49, 78]
+    battle_d: [-49, 78]
+    wed_a: [233, 33]
+    wed_b: [104, 122]
+  wiki_id: 022a
+  chinese_name: 比睿改
+---

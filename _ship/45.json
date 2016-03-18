@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 45
+  sort_no: 82
+  name: 夕立
+  yomi: ゆうだち
+  stype: 2
+  ctype: 23
+  cnum: 4
+  backs: 2
+  after_lv: 20
+  after_ship_id: 245
+  get_mes: こんにちは、白露型駆逐艦「夕立」よ。<br>よろしくね！
+  voice_f: 1
+  filename: pnpixtolsebg
+  file_version: 24
+  book_table_id: [45]
+  book_sinfo: 白露型駆逐艦の４番艦、夕立です。<br>第三次ソロモン海戦では、けっこう頑張ったっぽい？<br>でも、何気に「アイアンボトム・サウンド」って、ホントに怖い言葉よね？
+  stats:
+    taik: [16, 32]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [147, 39]
+    boko_d: [122, 57]
+    kaisyu_n: [4, 26]
+    kaisyu_d: [28, 7]
+    kaizo_n: [92, -16]
+    kaizo_d: [67, -24]
+    map_n: [70, 39]
+    map_d: [26, 47]
+    ensyuf_n: [125, 37]
+    ensyuf_d: [74, -10]
+    ensyue_n: [125, 0]
+    battle_n: [81, 24]
+    battle_d: [47, 24]
+    wed_a: [106, 98]
+    wed_b: [110, 135]
+  wiki_id: 082
+  chinese_name: 夕立
+---

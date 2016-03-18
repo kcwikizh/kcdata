@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 435
+  sort_no: 235
+  name: 如月改二
+  yomi: きさらぎ
+  stype: 2
+  ctype: 28
+  cnum: 2
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: 如月と申します。<br>おそばに置いてくださいね。
+  voice_f: 1
+  filename: ygqdfllpkbee
+  file_version: 14
+  book_table_id: [435]
+  book_sinfo: 睦月型駆逐艦２番艦の如月と申します。<br>ウェーク島では五月蠅いF4F戦闘機の攻撃を受けながら奮戦しました。<br>いやん、ほんと、髪の毛が潮風で痛んじゃう……。
+  stats:
+    taik: [27, 43]
+    souk: [12, 43]
+    houg: [10, 46]
+    raig: [28, 80]
+    tyku: [18, 57]
+    luck: [13, 60]
+    soku: 10
+    leng: 1
+    kaih: 50
+    tais: 27
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 2, 7, 0]
+    pow_up: [1, 2, 1, 0]
+    build_time: 18
+  graph:
+    boko_n: [40, 140]
+    boko_d: [80, 160]
+    kaisyu_n: [4, 4]
+    kaisyu_d: [8, -24]
+    kaizo_n: [0, 96]
+    kaizo_d: [16, 88]
+    map_n: [0, 128]
+    map_d: [32, 144]
+    ensyuf_n: [32, 112]
+    ensyuf_d: [48, 144]
+    ensyue_n: [16, 0]
+    battle_n: [40, 128]
+    battle_d: [64, 144]
+    wed_a: [176, 4]
+    wed_b: [144, 128]
+  wiki_id: 235
+  chinese_name: 如月改二
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 405
+  sort_no: 205
+  name: 春雨
+  yomi: はるさめ
+  stype: 2
+  ctype: 23
+  cnum: 5
+  backs: 4
+  after_lv: 30
+  after_ship_id: 323
+  get_mes: 白露型駆逐艦五番艦の春雨です、はい。<br>輸送作戦はお任せください……です。
+  voice_f: 1
+  filename: dbtrdgatxdpl
+  file_version: 5
+  book_table_id: [405, 957, 990]
+  book_sinfo: 白露型駆逐艦五番艦の春雨です。<br>おいしそう…ってその春雨とは違います！村雨や夕立姉さんたちと共に第二駆逐隊として海を駆け巡りました！輸送や護衛任務は、少し得意なんです。はい！
+  stats:
+    taik: [16, 32]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 120
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [64, 88]
+    boko_d: [40, 56]
+    kaisyu_n: [0, 16]
+    kaisyu_d: [24, -16]
+    kaizo_n: [24, 40]
+    kaizo_d: [8, -16]
+    map_n: [32, 96]
+    map_d: [0, 56]
+    ensyuf_n: [48, 64]
+    ensyuf_d: [48, 32]
+    ensyue_n: [24, 0]
+    battle_n: [48, 80]
+    battle_d: [48, 40]
+    wed_a: [160, 96]
+    wed_b: [104, 96]
+  wiki_id: 205
+  chinese_name: 春雨
+---

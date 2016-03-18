@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 265
+  sort_no: 1365
+  name: 妙高改
+  yomi: みょうこう
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 70
+  after_ship_id: 319
+  get_mes: 私、妙高型重巡洋艦、妙高と申します。<br>共に頑張りましょう。
+  voice_f: 3
+  filename: fcydxtnwtaon
+  file_version: 15
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [55, 69]
+    souk: [42, 73]
+    houg: [48, 76]
+    raig: [24, 79]
+    tyku: [18, 69]
+    luck: [10, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 800
+    after_bull: 900
+    fuel_max: 40
+    bull_max: 70
+    broken: [4, 7, 20, 2]
+    pow_up: [3, 1, 1, 2]
+    build_time: 80
+  graph:
+    boko_n: [99, 120]
+    boko_d: [21, 67]
+    kaisyu_n: [11, 26]
+    kaisyu_d: [28, 7]
+    kaizo_n: [44, 65]
+    kaizo_d: [-10, -27]
+    map_n: [32, 108]
+    map_d: [-75, 57]
+    ensyuf_n: [85, 106]
+    ensyuf_d: [-13, 14]
+    ensyue_n: [85, 0]
+    battle_n: [30, 83]
+    battle_d: [-7, 34]
+    wed_a: [164, 24]
+    wed_b: [94, 93]
+  wiki_id: 055a
+  chinese_name: 妙高改
+---

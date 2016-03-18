@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 65
+  sort_no: 58
+  name: 羽黒
+  yomi: はぐろ
+  stype: 5
+  ctype: 29
+  cnum: 4
+  backs: 1
+  after_lv: 25
+  after_ship_id: 268
+  get_mes: 羽黒です。妙高型重巡洋艦姉妹の末っ娘です。<br>あ、あの…ごめんなさいっ！
+  voice_f: 0
+  filename: lvfswfzywnql
+  file_version: 14
+  book_table_id: [65]
+  book_sinfo: 長崎で生まれたの。<br>スラバヤ沖海戦、珊瑚海海戦、ミッドウェー海戦、第二次ソロモン海戦、マリアナ海戦など数々の海戦に参加しました。<br>あの…頑張ります！
+  stats:
+    taik: [44, 56]
+    souk: [32, 49]
+    houg: [40, 54]
+    raig: [24, 49]
+    tyku: [16, 54]
+    luck: [10, 49]
+    soku: 10
+    leng: 2
+    kaih: 34
+    tais: 0
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 300
+    after_bull: 450
+    fuel_max: 40
+    bull_max: 65
+    broken: [2, 2, 12, 1]
+    pow_up: [2, 1, 0, 2]
+    build_time: 80
+  graph:
+    boko_n: [81, 93]
+    boko_d: [75, 74]
+    kaisyu_n: [-3, 6]
+    kaisyu_d: [21, 23]
+    kaizo_n: [55, 40]
+    kaizo_d: [27, -10]
+    map_n: [54, 102]
+    map_d: [-21, 64]
+    ensyuf_n: [71, 82]
+    ensyuf_d: [28, 15]
+    ensyue_n: [71, 0]
+    battle_n: [34, 55]
+    battle_d: [30, 26]
+    wed_a: [149, 40]
+    wed_b: [106, 114]
+  wiki_id: 058
+  chinese_name: 羽黑
+---

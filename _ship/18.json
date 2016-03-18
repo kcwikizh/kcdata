@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 18
+  sort_no: 92
+  name: 不知火
+  yomi: しらぬい
+  stype: 2
+  ctype: 30
+  cnum: 2
+  backs: 2
+  after_lv: 20
+  after_ship_id: 226
+  get_mes: 不知火です。<br>ご指導ご鞭撻、よろしくです。
+  voice_f: 0
+  filename: louolngpmrwj
+  file_version: 13
+  book_table_id: [18]
+  book_sinfo: 陽炎型駆逐艦２番艦、不知火です。<br>陽炎らと共にハワイ作戦部隊の護衛も務めました。<br>運命のレイテ沖海戦では志摩艦隊に所属、スリガオ海峡に突入しました。
+  stats:
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [9, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 44
+    tais: 24
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
+  graph:
+    boko_n: [-17, 106]
+    boko_d: [-3, 107]
+    kaisyu_n: [4, -9]
+    kaisyu_d: [28, -11]
+    kaizo_n: [-72, 51]
+    kaizo_d: [-16, 2]
+    map_n: [-38, 106]
+    map_d: [-99, 97]
+    ensyuf_n: [-8, 85]
+    ensyuf_d: [-27, 46]
+    ensyue_n: [-8, 0]
+    battle_n: [-29, 86]
+    battle_d: [-29, 86]
+    wed_a: [242, 38]
+    wed_b: [163, 119]
+  wiki_id: 092
+  chinese_name: 不知火
+---

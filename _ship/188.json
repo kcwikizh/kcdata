@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 188
+  sort_no: 188
+  name: 利根改二
+  yomi: とね
+  stype: 6
+  ctype: 31
+  cnum: 1
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: 吾輩が利根である！<br>吾輩が艦隊に加わる以上、もう、索敵の心配はないぞ！
+  voice_f: 1
+  filename: rjggwwmmppth
+  file_version: 12
+  book_table_id: [188]
+  book_sinfo: 日本海軍が完成させた最後の重巡、<br>利根型の長女、利根だ。<br>真珠湾、そして痛恨のミッドウェーでも、艦隊の眼として縦横無尽の活躍なのじゃ。最期は呉鎮守府を守る浮き砲台として刀折れ矢尽きるまで戦ったぞ。
+  stats:
+    taik: [59, 72]
+    souk: [48, 79]
+    houg: [46, 77]
+    raig: [32, 82]
+    tyku: [32, 82]
+    luck: [15, 69]
+    soku: 10
+    leng: 2
+    kaih: 42
+    tais: 0
+    slot_num: 4
+    max_eq: [2, 2, 9, 5, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 50
+    bull_max: 65
+    broken: [5, 8, 18, 5]
+    pow_up: [3, 1, 3, 2]
+    build_time: 90
+  graph:
+    boko_n: [48, 72]
+    boko_d: [48, 176]
+    kaisyu_n: [16, -16]
+    kaisyu_d: [8, -16]
+    kaizo_n: [16, 48]
+    kaizo_d: [0, 80]
+    map_n: [32, 64]
+    map_d: [16, 104]
+    ensyuf_n: [64, 48]
+    ensyuf_d: [48, 112]
+    ensyue_n: [32, 0]
+    battle_n: [48, 64]
+    battle_d: [48, 96]
+    wed_a: [216, 48]
+    wed_b: [128, 112]
+  wiki_id: 188
+  chinese_name: 利根改二
+---

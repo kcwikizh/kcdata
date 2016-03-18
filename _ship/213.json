@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 213
+  sort_no: 1313
+  name: 天龍改
+  yomi: てんりゅう
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: オレの名は天龍。<br>フフフ、怖いか？
+  voice_f: 1
+  filename: wjcrloeyiyxw
+  file_version: 13
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [40, 54]
+    souk: [28, 59]
+    houg: [20, 59]
+    raig: [24, 79]
+    tyku: [12, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 25
+    bull_max: 25
+    broken: [1, 1, 8, 0]
+    pow_up: [1, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [13, -4]
+    boko_d: [14, -9]
+    kaisyu_n: [55, -4]
+    kaisyu_d: [46, 7]
+    kaizo_n: [-19, -61]
+    kaizo_d: [-10, -95]
+    map_n: [48, 10]
+    map_d: [-19, -4]
+    ensyuf_n: [63, -22]
+    ensyuf_d: [14, -60]
+    ensyue_n: [44, 0]
+    battle_n: [34, 4]
+    battle_d: [34, 4]
+    wed_a: [90, 150]
+    wed_b: [134, 141]
+  wiki_id: 028a
+  chinese_name: 天龙改
+---

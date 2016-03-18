@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 314
+  sort_no: 1410
+  name: 酒匂改
+  yomi: さかわ
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: ぴゃん♪　阿賀野型軽巡四番艦、酒匂です！<br>司令、よろしくね！
+  voice_f: 7
+  filename: kbdewgsfrkra
+  file_version: 9
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [46, 62]
+    souk: [31, 69]
+    houg: [27, 64]
+    raig: [23, 78]
+    tyku: [19, 73]
+    luck: [30, 74]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 40
+    broken: [3, 5, 14, 1]
+    pow_up: [2, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [-32, 104]
+    boko_d: [40, 128]
+    kaisyu_n: [16, 16]
+    kaisyu_d: [32, 32]
+    kaizo_n: [-64, 48]
+    kaizo_d: [-24, 40]
+    map_n: [-64, 96]
+    map_d: [-8, 128]
+    ensyuf_n: [-8, 112]
+    ensyuf_d: [32, 96]
+    ensyue_n: [-64, 0]
+    battle_n: [-32, 96]
+    battle_d: [32, 96]
+    wed_a: [256, 32]
+    wed_b: [112, 112]
+  wiki_id: 140a
+  chinese_name: 酒匂改
+---

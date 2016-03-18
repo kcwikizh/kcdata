@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 32
+  sort_no: 13
+  name: 初雪
+  yomi: はつゆき
+  stype: 2
+  ctype: 12
+  cnum: 3
+  backs: 1
+  after_lv: 20
+  after_ship_id: 203
+  get_mes: 初雪……です……よろしく。
+  voice_f: 0
+  filename: pxogwcltgjkn
+  file_version: 18
+  book_table_id: [32]
+  book_sinfo: 特型駆逐艦…３番艦…初雪…です。<br>緒戦の作戦に…いっぱい参加しました…。<br>輸送任務とかも…ん…がんばる……。
+  stats:
+    taik: [15, 29]
+    souk: [5, 19]
+    houg: [10, 29]
+    raig: [27, 69]
+    tyku: [10, 39]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 40
+    tais: 20
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 20
+  graph:
+    boko_n: [101, 53]
+    boko_d: [109, 68]
+    kaisyu_n: [25, 16]
+    kaisyu_d: [28, 7]
+    kaizo_n: [46, -2]
+    kaizo_d: [41, -37]
+    map_n: [40, 48]
+    map_d: [13, 58]
+    ensyuf_n: [94, 47]
+    ensyuf_d: [56, 2]
+    ensyue_n: [94, 0]
+    battle_n: [52, 33]
+    battle_d: [52, 33]
+    wed_a: [144, 83]
+    wed_b: [122, 124]
+  wiki_id: 013
+  chinese_name: 初雪
+---

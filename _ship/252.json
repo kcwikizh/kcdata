@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 252
+  sort_no: 1352
+  name: 霰改
+  yomi: あられ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: 霰です…<br>んちゃ…とかはいいません…よろしく…
+  voice_f: 1
+  filename: oxttbkywusfp
+  file_version: 8
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [31, 49]
+    souk: [14, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [16, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [46, 47]
+    boko_d: [43, 55]
+    kaisyu_n: [11, 32]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-9, -8]
+    kaizo_d: [-15, -21]
+    map_n: [-50, 47]
+    map_d: [-53, 45]
+    ensyuf_n: [23, 26]
+    ensyuf_d: [3, -29]
+    ensyue_n: [23, 0]
+    battle_n: [-37, 18]
+    battle_d: [-37, 18]
+    wed_a: [198, 100]
+    wed_b: [145, 141]
+  wiki_id: 089a
+  chinese_name: 霰改
+---

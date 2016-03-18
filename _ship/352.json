@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 352
+  sort_no: 1432
+  name: 速吸改
+  yomi: はやすい
+  stype: 22
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: おはようございます！<br>航空機搭載給油艦、速吸、頑張ります！<br>艦載機も出撃用意、ばっちりです！
+  voice_f: 3
+  filename: niuenzxpukjq
+  file_version: 9
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [48, 50]
+    souk: [6, 19]
+    houg: [8, 36]
+    raig: [0, 0]
+    tyku: [20, 48]
+    luck: [8, 44]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [6, 3, 1, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 120
+    bull_max: 20
+    broken: [8, 1, 20, 1]
+    pow_up: [1, 1, 2, 1]
+    build_time: 220
+  graph:
+    boko_n: [96, 136]
+    boko_d: [104, 168]
+    kaisyu_n: [16, 0]
+    kaisyu_d: [48, 0]
+    kaizo_n: [44, 88]
+    kaizo_d: [80, 56]
+    map_n: [64, 132]
+    map_d: [80, 144]
+    ensyuf_n: [80, 128]
+    ensyuf_d: [96, 136]
+    ensyue_n: [64, 0]
+    battle_n: [64, 136]
+    battle_d: [96, 144]
+    wed_a: [136, -8]
+    wed_b: [136, 128]
+  wiki_id: 260a
+  chinese_name: 
+---

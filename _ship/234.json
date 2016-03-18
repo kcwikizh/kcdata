@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 234
+  sort_no: 1334
+  name: 暁改
+  yomi: あかつき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 70
+  after_ship_id: 437
+  get_mes: 暁よ。<br>一人前のレディーとして扱ってよね！
+  voice_f: 3
+  filename: slzosqvxjxus
+  file_version: 3
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [28, 79]
+    tyku: [15, 49]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 190
+    after_bull: 190
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [17, 67]
+    boko_d: [58, 61]
+    kaisyu_n: [2, 6]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-65, 11]
+    kaizo_d: [-16, -28]
+    map_n: [-47, 60]
+    map_d: [-3, 51]
+    ensyuf_n: [-23, 64]
+    ensyuf_d: [-1, 5]
+    ensyue_n: [-23, 0]
+    battle_n: [-43, 76]
+    battle_d: [17, 67]
+    wed_a: [246, 69]
+    wed_b: [142, 144]
+  wiki_id: 071a
+  chinese_name: 晓改
+---
