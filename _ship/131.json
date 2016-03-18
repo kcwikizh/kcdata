@@ -53,6 +53,6 @@ data:
     battle_d: [-14, 96]
     wed_a: [223, 93]
     wed_b: [101, 96]
-  wiki_id: 131
+  wiki_id: "131"
   chinese_name: 大和
 ---

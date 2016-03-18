@@ -53,6 +53,6 @@ data:
     battle_d: [-8, 80]
     wed_a: [333, 60]
     wed_b: [108, 120]
-  wiki_id: 150
+  wiki_id: "150"
   chinese_name: 比睿改二
 ---

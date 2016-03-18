@@ -9,8 +9,8 @@ data:
   ctype: 28
   cnum: 5
   backs: 6
-  after_lv: 
-  after_ship_id: 
+  after_lv:
+  after_ship_id:
   get_mes: 皐月だよっ。<br>よろしくな！
   voice_f: 1
   filename: uhbkffblgplp
@@ -30,8 +30,8 @@ data:
     tais: 30
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel:
+    after_bull:
     fuel_max: 15
     bull_max: 15
     broken: [1, 2, 7, 0]
@@ -53,6 +53,6 @@ data:
     battle_d: [64, 92]
     wed_a: [256, -8]
     wed_b: [108, 112]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "218"
+  chinese_name: 皋月改二
 ---

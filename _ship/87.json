@@ -53,6 +53,6 @@ data:
     battle_d: [-45, 11]
     wed_a: [234, 106]
     wed_b: [94, 109]
-  wiki_id: 004
+  wiki_id: "004"
   chinese_name: 日向
 ---

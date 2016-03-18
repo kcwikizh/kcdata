@@ -53,6 +53,6 @@ data:
     battle_d: [-20, 63]
     wed_a: [219, 58]
     wed_b: [133, 126]
-  wiki_id: 016a
+  wiki_id: "016a"
   chinese_name: 矶波改
 ---

@@ -53,6 +53,6 @@ data:
     battle_d: [47, 63]
     wed_a: [139, 67]
     wed_b: [135, 138]
-  wiki_id: 086
+  wiki_id: "086"
   chinese_name: 大潮
 ---

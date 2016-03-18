@@ -53,6 +53,6 @@ data:
     battle_d: [32, 104]
     wed_a: [250, 80]
     wed_b: [87, 96]
-  wiki_id: 148
+  wiki_id: "148"
   chinese_name: 武藏改
 ---

@@ -53,6 +53,6 @@ data:
     battle_d: [32, 72]
     wed_a: [176, 48]
     wed_b: [128, 128]
-  wiki_id: 207
+  wiki_id: "207"
   chinese_name: 潮改二
 ---

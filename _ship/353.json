@@ -6,17 +6,17 @@ data:
   name: Graf Zeppelin改
   yomi: グラーフ・ツェッペリン
   stype: 11
-  ctype: 
-  cnum: 
+  ctype:
+  cnum:
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv:
+  after_ship_id:
   get_mes: Guten Morgen!　私が航空母艦、Graf Zeppelin だ。<br>貴方がこの艦隊を預かる提督なのだな。そうか……了解だ。
   voice_f: 3
   filename: uljlkucfqqcc
   file_version: 8
-  book_table_id: 
-  book_sinfo: 
+  book_table_id:
+  book_sinfo:
   stats:
     taik: [78, 92]
     souk: [42, 80]
@@ -26,12 +26,12 @@ data:
     luck: [7, 47]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih:
+    tais:
     slot_num: 4
     max_eq: [30, 13, 10, 3, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel:
+    after_bull:
     fuel_max: 70
     bull_max: 80
     broken: [10, 17, 36, 8]
@@ -53,6 +53,6 @@ data:
     battle_d: [80, 72]
     wed_a: [282, 16]
     wed_b: [100, 88]
-  wiki_id: 232a
-  chinese_name: 
+  wiki_id: "232a"
+  chinese_name: 齐柏林改
 ---

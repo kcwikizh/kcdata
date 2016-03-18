@@ -53,6 +53,6 @@ data:
     battle_d: [4, 89]
     wed_a: [171, 41]
     wed_b: [141, 157]
-  wiki_id: 036
+  wiki_id: "036"
   chinese_name: 菊月
 ---

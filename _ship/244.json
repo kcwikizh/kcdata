@@ -53,6 +53,6 @@ data:
     battle_d: [16, 16]
     wed_a: [91, 40]
     wed_b: [123, 133]
-  wiki_id: 081a
+  wiki_id: "081a"
   chinese_name: 村雨改
 ---

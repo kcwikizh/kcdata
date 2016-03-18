@@ -53,6 +53,6 @@ data:
     battle_d: [-14, 77]
     wed_a: [196, 41]
     wed_b: [118, 141]
-  wiki_id: 084
+  wiki_id: "084"
   chinese_name: 凉风
 ---

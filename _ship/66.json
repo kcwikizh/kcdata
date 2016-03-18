@@ -53,6 +53,6 @@ data:
     battle_d: [12, 89]
     wed_a: [178, 36]
     wed_b: [100, 117]
-  wiki_id: 059
+  wiki_id: "059"
   chinese_name: 高雄
 ---

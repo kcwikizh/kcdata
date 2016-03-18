@@ -53,6 +53,6 @@ data:
     battle_d: [-37, 18]
     wed_a: [198, 100]
     wed_b: [145, 141]
-  wiki_id: 089
+  wiki_id: "089"
   chinese_name: 霰
 ---

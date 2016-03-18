@@ -53,6 +53,6 @@ data:
     battle_d: [-64, 120]
     wed_a: [290, 60]
     wed_b: [118, 126]
-  wiki_id: 137a
+  wiki_id: "137a"
   chinese_name: 阿贺野改
 ---

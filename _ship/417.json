@@ -53,6 +53,6 @@ data:
     battle_d: [64, 64]
     wed_a: [256, 36]
     wed_b: [128, 96]
-  wiki_id: 217
+  wiki_id: "217"
   chinese_name: 加古改二
 ---

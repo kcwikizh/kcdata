@@ -53,6 +53,6 @@ data:
     battle_d: [28, 52]
     wed_a: [195, 66]
     wed_b: [106, 123]
-  wiki_id: 106a
+  wiki_id: "106a"
   chinese_name: 翔鹤改
 ---

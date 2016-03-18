@@ -53,6 +53,6 @@ data:
     battle_d: [32, 96]
     wed_a: [170, 8]
     wed_b: [114, 123]
-  wiki_id: 155a
+  wiki_id: "155a"
   chinese_name: 伊401改
 ---

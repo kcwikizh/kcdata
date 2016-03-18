@@ -53,6 +53,6 @@ data:
     battle_d: [80, 32]
     wed_a: [80, 0]
     wed_b: [128, 112]
-  wiki_id: 205a
+  wiki_id: "205a"
   chinese_name: 春雨改
 ---

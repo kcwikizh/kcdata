@@ -53,6 +53,6 @@ data:
     battle_d: [52, 48]
     wed_a: [210, 64]
     wed_b: [103, 126]
-  wiki_id: 108
+  wiki_id: "108"
   chinese_name: 瑞鹤改
 ---

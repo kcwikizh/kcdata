@@ -53,6 +53,6 @@ data:
     battle_d: [-16, 144]
     wed_a: [219, 9]
     wed_b: [116, 121]
-  wiki_id: 241
+  wiki_id: "241"
   chinese_name: 利托里奥
 ---

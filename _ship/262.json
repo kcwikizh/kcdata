@@ -53,6 +53,6 @@ data:
     battle_d: [-16, 71]
     wed_a: [197, 40]
     wed_b: [131, 143]
-  wiki_id: 052a
+  wiki_id: "052a"
   chinese_name: 古鹰改
 ---

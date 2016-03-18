@@ -53,6 +53,6 @@ data:
     battle_d: [96, 112]
     wed_a: [144, -16]
     wed_b: [144, 128]
-  wiki_id: 169a
+  wiki_id: "169a"
   chinese_name: 谷风改
 ---

@@ -53,6 +53,6 @@ data:
     battle_d: [112, 136]
     wed_a: [160, -8]
     wed_b: [136, 112]
-  wiki_id: 222
-  chinese_name: 
+  wiki_id: "222"
+  chinese_name: 照月
 ---

@@ -53,6 +53,6 @@ data:
     battle_d: [-16, 144]
     wed_a: [230, 9]
     wed_b: [118, 121]
-  wiki_id: 246
+  wiki_id: "246"
   chinese_name: 意大利
 ---

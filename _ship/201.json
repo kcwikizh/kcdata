@@ -53,6 +53,6 @@ data:
     battle_d: [-14, 38]
     wed_a: [234, 80]
     wed_b: [133, 125]
-  wiki_id: 011a
+  wiki_id: "011a"
   chinese_name: 吹雪改
 ---

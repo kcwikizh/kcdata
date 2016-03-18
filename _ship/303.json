@@ -53,6 +53,6 @@ data:
     battle_d: [32, 72]
     wed_a: [149, 93]
     wed_b: [129, 131]
-  wiki_id: 134a
+  wiki_id: "134a"
   chinese_name: 卷云改
 ---

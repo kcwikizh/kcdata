@@ -53,6 +53,6 @@ data:
     battle_d: [19, -16]
     wed_a: [144, 130]
     wed_b: [153, 168]
-  wiki_id: 068
+  wiki_id: "068"
   chinese_name: 曙
 ---

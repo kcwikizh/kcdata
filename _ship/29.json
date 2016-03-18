@@ -53,6 +53,6 @@ data:
     battle_d: [32, 109]
     wed_a: [139, 149]
     wed_b: [140, 143]
-  wiki_id: 034
+  wiki_id: "034"
   chinese_name: 文月
 ---

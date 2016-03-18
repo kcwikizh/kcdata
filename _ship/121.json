@@ -53,6 +53,6 @@ data:
     battle_d: [32, -26]
     wed_a: [258, 139]
     wed_b: [83, 106]
-  wiki_id: 117
+  wiki_id: "117"
   chinese_name: 三隈改
 ---

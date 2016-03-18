@@ -53,6 +53,6 @@ data:
     battle_d: [96, 152]
     wed_a: [72, 20]
     wed_b: [136, 120]
-  wiki_id: 224a
+  wiki_id: "224a"
   chinese_name: 高波改
 ---

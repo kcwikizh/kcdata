@@ -53,6 +53,6 @@ data:
     battle_d: [29, -52]
     wed_a: [134, 91]
     wed_b: [134, 153]
-  wiki_id: 035a
+  wiki_id: "035a"
   chinese_name: 长月改
 ---

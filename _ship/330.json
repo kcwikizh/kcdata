@@ -53,6 +53,6 @@ data:
     battle_d: [80, 128]
     wed_a: [184, 24]
     wed_b: [112, 112]
-  wiki_id: 221a
+  wiki_id: "221a"
   chinese_name: 秋月改
 ---

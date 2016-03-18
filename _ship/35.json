@@ -53,6 +53,6 @@ data:
     battle_d: [5, 70]
     wed_a: [172, 70]
     wed_b: [146, 145]
-  wiki_id: 072
+  wiki_id: "072"
   chinese_name: 响
 ---

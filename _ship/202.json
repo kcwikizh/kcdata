@@ -53,6 +53,6 @@ data:
     battle_d: [-19, 63]
     wed_a: [221, 49]
     wed_b: [125, 134]
-  wiki_id: 012a
+  wiki_id: "012a"
   chinese_name: 白雪改
 ---

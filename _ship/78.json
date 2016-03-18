@@ -53,6 +53,6 @@ data:
     battle_d: [12, 41]
     wed_a: [174, 51]
     wed_b: [99, 130]
-  wiki_id: 021
+  wiki_id: "021"
   chinese_name: 金刚
 ---

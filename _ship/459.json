@@ -53,6 +53,6 @@ data:
     battle_d: [72, 64]
     wed_a: [200, -4]
     wed_b: [128, 120]
-  wiki_id: 259
-  chinese_name: 
+  wiki_id: "259"
+  chinese_name: 江风
 ---

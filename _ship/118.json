@@ -53,6 +53,6 @@ data:
     battle_d: [47, -27]
     wed_a: [151, 144]
     wed_b: [94, 114]
-  wiki_id: 114
+  wiki_id: "114"
   chinese_name: 大井改二
 ---

@@ -53,6 +53,6 @@ data:
     battle_d: [56, 128]
     wed_a: [160, -8]
     wed_b: [160, 112]
-  wiki_id: 151
+  wiki_id: "151"
   chinese_name: 榛名改二
 ---

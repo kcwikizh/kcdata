@@ -53,6 +53,6 @@ data:
     battle_d: [-45, 60]
     wed_a: [232, 59]
     wed_b: [96, 107]
-  wiki_id: 103
+  wiki_id: "103"
   chinese_name: 日向改
 ---

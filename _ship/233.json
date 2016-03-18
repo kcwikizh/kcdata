@@ -53,6 +53,6 @@ data:
     battle_d: [-15, 19]
     wed_a: [106, 116]
     wed_b: [134, 145]
-  wiki_id: 070a
+  wiki_id: "070a"
   chinese_name: 潮改
 ---

@@ -53,6 +53,6 @@ data:
     battle_d: [64, 80]
     wed_a: [176, 56]
     wed_b: [112, 112]
-  wiki_id: 170
+  wiki_id: "170"
   chinese_name: 浜风
 ---

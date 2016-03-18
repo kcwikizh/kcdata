@@ -53,6 +53,6 @@ data:
     battle_d: [32, 132]
     wed_a: [92, -8]
     wed_b: [112, 112]
-  wiki_id: 157
+  wiki_id: "157"
   chinese_name: 龙骧改二
 ---

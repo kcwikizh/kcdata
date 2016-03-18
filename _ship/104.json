@@ -53,6 +53,6 @@ data:
     battle_d: [-91, 82]
     wed_a: [217, 36]
     wed_b: [110, 118]
-  wiki_id: 095
+  wiki_id: "095"
   chinese_name: 千岁改
 ---

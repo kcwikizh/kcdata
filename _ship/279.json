@@ -53,6 +53,6 @@ data:
     battle_d: [-10, 43]
     wed_a: [231, 75]
     wed_b: [94, 105]
-  wiki_id: 008a
+  wiki_id: "008a"
   chinese_name: 苍龙改
 ---

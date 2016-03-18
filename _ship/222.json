@@ -53,6 +53,6 @@ data:
     battle_d: [8, 9]
     wed_a: [236, 68]
     wed_b: [111, 119]
-  wiki_id: 046a
+  wiki_id: "046a"
   chinese_name: 川内改
 ---

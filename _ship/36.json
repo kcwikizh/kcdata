@@ -53,6 +53,6 @@ data:
     battle_d: [-15, 55]
     wed_a: [188, 44]
     wed_b: [131, 145]
-  wiki_id: 073
+  wiki_id: "073"
   chinese_name: 雷
 ---

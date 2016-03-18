@@ -53,6 +53,6 @@ data:
     battle_d: [64, 128]
     wed_a: [147, 79]
     wed_b: [125, 127]
-  wiki_id: 203
+  wiki_id: "203"
   chinese_name: 葛城
 ---

@@ -53,6 +53,6 @@ data:
     battle_d: [29, 24]
     wed_a: [200, 63]
     wed_b: [93, 103]
-  wiki_id: 057a
+  wiki_id: "057a"
   chinese_name: 足柄改
 ---

@@ -53,6 +53,6 @@ data:
     battle_d: [-18, 50]
     wed_a: [208, 74]
     wed_b: [103, 119]
-  wiki_id: 047
+  wiki_id: "047"
   chinese_name: 神通
 ---

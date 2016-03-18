@@ -53,6 +53,6 @@ data:
     battle_d: [-19, 9]
     wed_a: [175, 108]
     wed_b: [121, 129]
-  wiki_id: 039a
+  wiki_id: "039a"
   chinese_name: 球磨改
 ---

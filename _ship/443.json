@@ -53,6 +53,6 @@ data:
     battle_d: [-8, 104]
     wed_a: [88, 32]
     wed_b: [112, 112]
-  wiki_id: 243
-  chinese_name: 
+  wiki_id: "243"
+  chinese_name: 利伯齐奥
 ---

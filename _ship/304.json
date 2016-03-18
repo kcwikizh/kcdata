@@ -53,6 +53,6 @@ data:
     battle_d: [60, 104]
     wed_a: [169, 33]
     wed_b: [117, 137]
-  wiki_id: 135a
+  wiki_id: "135a"
   chinese_name: 长波改
 ---

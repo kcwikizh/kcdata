@@ -53,6 +53,6 @@ data:
     battle_d: [61, 77]
     wed_a: [134, 35]
     wed_b: [114, 137]
-  wiki_id: 045
+  wiki_id: "045"
   chinese_name: 由良
 ---

@@ -53,6 +53,6 @@ data:
     battle_d: [41, 53]
     wed_a: [135, 63]
     wed_b: [118, 143]
-  wiki_id: 081
+  wiki_id: "081"
   chinese_name: 村雨
 ---

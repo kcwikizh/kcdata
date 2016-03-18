@@ -53,6 +53,6 @@ data:
     battle_d: [168, 112]
     wed_a: [22, 0]
     wed_b: [130, 126]
-  wiki_id: 161
+  wiki_id: "161"
   chinese_name: 秋津丸
 ---

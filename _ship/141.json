@@ -53,6 +53,6 @@ data:
     battle_d: [80, 88]
     wed_a: [133, 0]
     wed_b: [134, 133]
-  wiki_id: 141
+  wiki_id: "141"
   chinese_name: 五十铃改二
 ---

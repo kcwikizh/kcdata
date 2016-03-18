@@ -53,6 +53,6 @@ data:
     battle_d: [-13, 6]
     wed_a: [151, 41]
     wed_b: [142, 149]
-  wiki_id: 037
+  wiki_id: "037"
   chinese_name: 三日月
 ---

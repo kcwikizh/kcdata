@@ -53,6 +53,6 @@ data:
     battle_d: [-22, 83]
     wed_a: [152, 47]
     wed_b: [171, 153]
-  wiki_id: 074
+  wiki_id: "074"
   chinese_name: 电
 ---

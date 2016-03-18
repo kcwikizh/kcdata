@@ -53,6 +53,6 @@ data:
     battle_d: [-104, -57]
     wed_a: [299, 198]
     wed_b: [121, 125]
-  wiki_id: 029
+  wiki_id: "029"
   chinese_name: 龙田
 ---

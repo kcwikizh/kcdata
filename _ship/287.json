@@ -53,6 +53,6 @@ data:
     battle_d: [-86, 80]
     wed_a: [293, 49]
     wed_b: [113, 125]
-  wiki_id: 027a
+  wiki_id: "027a"
   chinese_name: 山城改
 ---

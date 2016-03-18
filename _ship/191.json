@@ -53,6 +53,6 @@ data:
     battle_d: [64, 112]
     wed_a: [157, 22]
     wed_b: [119, 134]
-  wiki_id: 123
+  wiki_id: "123"
   chinese_name: 伊19
 ---

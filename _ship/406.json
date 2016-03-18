@@ -53,6 +53,6 @@ data:
     battle_d: [96, 104]
     wed_a: [192, 64]
     wed_b: [112, 104]
-  wiki_id: 206
+  wiki_id: "206"
   chinese_name: 云龙改
 ---

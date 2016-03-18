@@ -53,6 +53,6 @@ data:
     battle_d: [8, 48]
     wed_a: [213, 37]
     wed_b: [119, 137]
-  wiki_id: 129
+  wiki_id: "129"
   chinese_name: 铃谷改
 ---

@@ -53,6 +53,6 @@ data:
     battle_d: [26, 58]
     wed_a: [166, 56]
     wed_b: [122, 134]
-  wiki_id: 125
+  wiki_id: "125"
   chinese_name: 熊野
 ---

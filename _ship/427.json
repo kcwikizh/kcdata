@@ -53,6 +53,6 @@ data:
     battle_d: [0, 128]
     wed_a: [288, -4]
     wed_b: [144, 120]
-  wiki_id: 227
+  wiki_id: "227"
   chinese_name: 鸟海改二
 ---

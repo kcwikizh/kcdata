@@ -53,6 +53,6 @@ data:
     battle_d: [124, 132]
     wed_a: [72, -8]
     wed_b: [104, 92]
-  wiki_id: 183a
+  wiki_id: "183a"
   chinese_name: 大淀改
 ---

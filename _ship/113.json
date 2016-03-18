@@ -53,6 +53,6 @@ data:
     battle_d: [20, 45]
     wed_a: [130, 73]
     wed_b: [143, 148]
-  wiki_id: 109
+  wiki_id: "109"
   chinese_name: 鬼怒
 ---

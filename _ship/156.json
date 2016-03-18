@@ -53,6 +53,6 @@ data:
     battle_d: [32, 96]
     wed_a: [240, 4]
     wed_b: [140, 132]
-  wiki_id: 156
+  wiki_id: "156"
   chinese_name: 大凤改
 ---

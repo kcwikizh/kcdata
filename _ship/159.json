@@ -53,6 +53,6 @@ data:
     battle_d: [96, 112]
     wed_a: [160, 24]
     wed_b: [112, 104]
-  wiki_id: 159
+  wiki_id: "159"
   chinese_name: 神通改二
 ---

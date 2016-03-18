@@ -53,6 +53,6 @@ data:
     battle_d: [60, 53]
     wed_a: [153, 136]
     wed_b: [124, 151]
-  wiki_id: 077
+  wiki_id: "077"
   chinese_name: 若叶
 ---

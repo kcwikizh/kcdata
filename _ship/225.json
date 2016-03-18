@@ -53,6 +53,6 @@ data:
     battle_d: [-45, 54]
     wed_a: [221, 65]
     wed_b: [145, 147]
-  wiki_id: 091a
+  wiki_id: "091a"
   chinese_name: 阳炎改
 ---

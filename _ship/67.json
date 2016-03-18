@@ -53,6 +53,6 @@ data:
     battle_d: [14, 83]
     wed_a: [178, 36]
     wed_b: [104, 118]
-  wiki_id: 060
+  wiki_id: "060"
   chinese_name: 爱宕
 ---

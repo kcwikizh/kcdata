@@ -53,6 +53,6 @@ data:
     battle_d: [65, 42]
     wed_a: [188, 95]
     wed_b: [115, 124]
-  wiki_id: 120
+  wiki_id: "120"
   chinese_name: 衣笠
 ---

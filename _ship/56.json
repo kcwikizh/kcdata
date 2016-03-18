@@ -53,6 +53,6 @@ data:
     battle_d: [18, 31]
     wed_a: [186, 73]
     wed_b: [92, 109]
-  wiki_id: 048
+  wiki_id: "048"
   chinese_name: 那珂
 ---

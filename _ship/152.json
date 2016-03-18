@@ -53,6 +53,6 @@ data:
     battle_d: [24, 96]
     wed_a: [264, 16]
     wed_b: [112, 104]
-  wiki_id: 152
+  wiki_id: "152"
   chinese_name: 雾岛改二
 ---

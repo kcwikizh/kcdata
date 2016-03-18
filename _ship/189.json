@@ -53,6 +53,6 @@ data:
     battle_d: [80, 112]
     wed_a: [184, 0]
     wed_b: [112, 112]
-  wiki_id: 189
+  wiki_id: "189"
   chinese_name: 筑摩改二
 ---

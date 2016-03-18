@@ -15,7 +15,7 @@ data:
   voice_f: 0
   filename: ubntuiyurxwk
   file_version: 16
-  book_table_id: [26, 977]
+  book_table_id: [26, 286, 977]
   book_sinfo: 初の日本独自設計による超弩級戦艦、扶桑です。<br>妹の山城ともどもよろしくお願いしますね。<br>レイテ沖？　そうね、いつか突入してみたいわ。ホントよ？
   stats:
     taik: [67, 89]
@@ -53,6 +53,6 @@ data:
     battle_d: [-223, 17]
     wed_a: [417, 131]
     wed_b: [99, 106]
-  wiki_id: 026
+  wiki_id: "026"
   chinese_name: 扶桑
 ---

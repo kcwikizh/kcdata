@@ -53,6 +53,6 @@ data:
     battle_d: [16, 64]
     wed_a: [149, 72]
     wed_b: [160, 151]
-  wiki_id: 164
+  wiki_id: "164"
   chinese_name: 弥生
 ---

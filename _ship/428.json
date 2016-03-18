@@ -53,6 +53,6 @@ data:
     battle_d: [48, 128]
     wed_a: [200, 16]
     wed_b: [160, 152]
-  wiki_id: 228
+  wiki_id: "228"
   chinese_name: 摩耶改二
 ---

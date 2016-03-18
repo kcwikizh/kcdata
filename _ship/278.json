@@ -53,6 +53,6 @@ data:
     battle_d: [-132, -28]
     wed_a: [325, 131]
     wed_b: [93, 107]
-  wiki_id: 007a
+  wiki_id: "007a"
   chinese_name: 加贺改
 ---

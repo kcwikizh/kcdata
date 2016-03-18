@@ -53,6 +53,6 @@ data:
     battle_d: [-35, 28]
     wed_a: [218, 123]
     wed_b: [131, 133]
-  wiki_id: 075
+  wiki_id: "075"
   chinese_name: 初春
 ---

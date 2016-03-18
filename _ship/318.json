@@ -53,6 +53,6 @@ data:
     battle_d: [48, 112]
     wed_a: [208, 8]
     wed_b: [160, 144]
-  wiki_id: 190
+  wiki_id: "190"
   chinese_name: 龙凤改
 ---

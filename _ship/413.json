@@ -53,6 +53,6 @@ data:
     battle_d: [-32, 112]
     wed_a: [256, 16]
     wed_b: [120, 112]
-  wiki_id: 213
+  wiki_id: "213"
   chinese_name: 朝云
 ---

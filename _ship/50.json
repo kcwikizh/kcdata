@@ -53,6 +53,6 @@ data:
     battle_d: [0, 25]
     wed_a: [129, 159]
     wed_b: [119, 117]
-  wiki_id: 010
+  wiki_id: "010"
   chinese_name: 岛风
 ---

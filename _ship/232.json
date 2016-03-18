@@ -53,6 +53,6 @@ data:
     battle_d: [40, 55]
     wed_a: [134, 84]
     wed_b: [123, 134]
-  wiki_id: 069a
+  wiki_id: "069a"
   chinese_name: 涟改
 ---

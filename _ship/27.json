@@ -53,6 +53,6 @@ data:
     battle_d: [-156, 53]
     wed_a: [352, 95]
     wed_b: [107, 109]
-  wiki_id: 027
+  wiki_id: "027"
   chinese_name: 山城
 ---

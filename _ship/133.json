@@ -53,6 +53,6 @@ data:
     battle_d: [-40, 110]
     wed_a: [271, 47]
     wed_b: [125, 145]
-  wiki_id: 133
+  wiki_id: "133"
   chinese_name: 夕云
 ---

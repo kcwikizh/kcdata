@@ -53,6 +53,6 @@ data:
     battle_d: [48, 112]
     wed_a: [155, 11]
     wed_b: [147, 162]
-  wiki_id: 147
+  wiki_id: "147"
   chinese_name: Верный
 ---

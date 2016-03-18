@@ -53,6 +53,6 @@ data:
     battle_d: [112, 64]
     wed_a: [127, 87]
     wed_b: [141, 121]
-  wiki_id: 250
+  wiki_id: "250"
   chinese_name: 秋津洲改
 ---

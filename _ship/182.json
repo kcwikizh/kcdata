@@ -53,6 +53,6 @@ data:
     battle_d: [-48, 64]
     wed_a: [224, 72]
     wed_b: [128, 128]
-  wiki_id: 182
+  wiki_id: "182"
   chinese_name: 明石
 ---

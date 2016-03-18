@@ -53,6 +53,6 @@ data:
     battle_d: [32, 104]
     wed_a: [176, 64]
     wed_b: [128, 104]
-  wiki_id: 208
+  wiki_id: "208"
   chinese_name: 隼鹰改二
 ---

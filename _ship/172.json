@@ -53,6 +53,6 @@ data:
     battle_d: [16, 128]
     wed_a: [344, 112]
     wed_b: [112, 112]
-  wiki_id: 172
+  wiki_id: "172"
   chinese_name: 俾斯麦改
 ---

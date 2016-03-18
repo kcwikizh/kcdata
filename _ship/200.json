@@ -53,6 +53,6 @@ data:
     battle_d: [24, 128]
     wed_a: [144, 24]
     wed_b: [100, 92]
-  wiki_id: 200
+  wiki_id: "200"
   chinese_name: 阿武隈改二
 ---

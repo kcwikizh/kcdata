@@ -53,6 +53,6 @@ data:
     battle_d: [32, 96]
     wed_a: [256, 32]
     wed_b: [112, 112]
-  wiki_id: 140a
+  wiki_id: "140a"
   chinese_name: 酒匂改
 ---

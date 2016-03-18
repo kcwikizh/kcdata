@@ -53,6 +53,6 @@ data:
     battle_d: [-64, 120]
     wed_a: [289, 62]
     wed_b: [119, 124]
-  wiki_id: 137
+  wiki_id: "137"
   chinese_name: 阿贺野
 ---

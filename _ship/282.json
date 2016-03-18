@@ -53,6 +53,6 @@ data:
     battle_d: [144, 128]
     wed_a: [272, -8]
     wed_b: [116, 124]
-  wiki_id: 094a
+  wiki_id: "094a"
   chinese_name: 祥凤改
 ---

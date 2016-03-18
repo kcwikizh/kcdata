@@ -53,6 +53,6 @@ data:
     battle_d: [-33, -140]
     wed_a: [199, 318]
     wed_b: [98, 107]
-  wiki_id: 115
+  wiki_id: "115"
   chinese_name: 北上改二
 ---

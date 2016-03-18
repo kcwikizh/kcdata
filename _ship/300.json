@@ -53,6 +53,6 @@ data:
     battle_d: [29, 21]
     wed_a: [205, 80]
     wed_b: [113, 118]
-  wiki_id: 118a
+  wiki_id: "118a"
   chinese_name: 初风改
 ---

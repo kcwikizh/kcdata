@@ -53,6 +53,6 @@ data:
     battle_d: [-42, 60]
     wed_a: [253, 59]
     wed_b: [101, 100]
-  wiki_id: 102
+  wiki_id: "102"
   chinese_name: 伊势改
 ---

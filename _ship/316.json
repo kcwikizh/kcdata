@@ -53,6 +53,6 @@ data:
     battle_d: [64, 66]
     wed_a: [144, 28]
     wed_b: [144, 164]
-  wiki_id: 181a
+  wiki_id: "181a"
   chinese_name: 天津风改
 ---

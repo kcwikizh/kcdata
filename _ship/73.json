@@ -53,6 +53,6 @@ data:
     battle_d: [-7, -26]
     wed_a: [198, 158]
     wed_b: [109, 97]
-  wiki_id: 101
+  wiki_id: "101"
   chinese_name: 最上改
 ---

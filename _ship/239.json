@@ -53,6 +53,6 @@ data:
     battle_d: [32, -36]
     wed_a: [128, 189]
     wed_b: [132, 127]
-  wiki_id: 076a
+  wiki_id: "076a"
   chinese_name: 子日改
 ---

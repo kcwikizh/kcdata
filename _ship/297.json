@@ -53,6 +53,6 @@ data:
     battle_d: [-49, 21]
     wed_a: [298, 101]
     wed_b: [102, 111]
-  wiki_id: 122
+  wiki_id: "122"
   chinese_name: 千代田航改二
 ---

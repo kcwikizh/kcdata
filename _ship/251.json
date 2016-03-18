@@ -53,6 +53,6 @@ data:
     battle_d: [10, 116]
     wed_a: [154, 14]
     wed_b: [109, 137]
-  wiki_id: 088a
+  wiki_id: "088a"
   chinese_name: 荒潮改
 ---

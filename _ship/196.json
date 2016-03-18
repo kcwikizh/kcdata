@@ -53,6 +53,6 @@ data:
     battle_d: [-48, -128]
     wed_a: [320, 272]
     wed_b: [128, 128]
-  wiki_id: 196
+  wiki_id: "196"
   chinese_name: 飞龙改二
 ---

@@ -53,6 +53,6 @@ data:
     battle_d: [32, 112]
     wed_a: [87, 80]
     wed_b: [122, 129]
-  wiki_id: 138a
+  wiki_id: "138a"
   chinese_name: 能代改
 ---

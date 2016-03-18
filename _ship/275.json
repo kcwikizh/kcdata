@@ -53,6 +53,6 @@ data:
     battle_d: [0, 61]
     wed_a: [240, 60]
     wed_b: [90, 96]
-  wiki_id: 001a
+  wiki_id: "001a"
   chinese_name: 长门改
 ---

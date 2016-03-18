@@ -53,6 +53,6 @@ data:
     battle_d: [16, 32]
     wed_a: [146, 100]
     wed_b: [119, 120]
-  wiki_id: 165a
+  wiki_id: "165a"
   chinese_name: 卯月改
 ---

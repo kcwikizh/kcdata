@@ -6,17 +6,17 @@ data:
   name: 風雲改
   yomi: かざぐも
   stype: 2
-  ctype: 
-  cnum: 
+  ctype:
+  cnum:
   backs: 3
-  after_lv: 
-  after_ship_id: 
+  after_lv:
+  after_ship_id:
   get_mes: 夕雲型駆逐艦、三番艦の風雲よ。<br>そっか、貴方が提督なんだ。了解です。<br>ご命令、どうぞ！
   voice_f: 3
   filename: gykqxdkfpzih
   file_version: 9
-  book_table_id: 
-  book_sinfo: 
+  book_table_id:
+  book_sinfo:
   stats:
     taik: [32, 49]
     souk: [14, 49]
@@ -26,12 +26,12 @@ data:
     luck: [14, 69]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih:
+    tais:
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel:
+    after_bull:
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]
@@ -53,6 +53,6 @@ data:
     battle_d: [24, 144]
     wed_a: [244, 16]
     wed_b: [120, 112]
-  wiki_id: 253a
-  chinese_name: 
+  wiki_id: "253a"
+  chinese_name: 风云改
 ---

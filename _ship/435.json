@@ -53,6 +53,6 @@ data:
     battle_d: [64, 144]
     wed_a: [176, 4]
     wed_b: [144, 128]
-  wiki_id: 235
+  wiki_id: "235"
   chinese_name: 如月改二
 ---

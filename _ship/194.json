@@ -53,6 +53,6 @@ data:
     battle_d: [144, 128]
     wed_a: [224, 0]
     wed_b: [144, 144]
-  wiki_id: 194
+  wiki_id: "194"
   chinese_name: 羽黑改二
 ---

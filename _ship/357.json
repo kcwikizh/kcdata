@@ -6,17 +6,17 @@ data:
   name: 初月改
   yomi: はつづき
   stype: 2
-  ctype: 
-  cnum: 
+  ctype:
+  cnum:
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv:
+  after_ship_id:
   get_mes: 秋月型駆逐艦、その四番艦、初月だ。<br>お前が提督か。いいだろう。僕が行こう。
   voice_f: 3
   filename: wwuwxxrkzxex
   file_version: 3
-  book_table_id: 
-  book_sinfo: 
+  book_table_id:
+  book_sinfo:
   stats:
     taik: [37, 57]
     souk: [17, 54]
@@ -26,12 +26,12 @@ data:
     luck: [8, 52]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih:
+    tais:
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel:
+    after_bull:
     fuel_max: 20
     bull_max: 25
     broken: [1, 2, 13, 1]
@@ -53,6 +53,6 @@ data:
     battle_d: [40, 128]
     wed_a: [204, 0]
     wed_b: [92, 120]
-  wiki_id: 223a
-  chinese_name: 
+  wiki_id: "223a"
+  chinese_name: 初月改
 ---

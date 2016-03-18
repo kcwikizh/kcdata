@@ -53,6 +53,6 @@ data:
     battle_d: [75, 94]
     wed_a: [133, 19]
     wed_b: [132, 132]
-  wiki_id: 042
+  wiki_id: "042"
   chinese_name: 长良
 ---

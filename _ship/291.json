@@ -53,6 +53,6 @@ data:
     battle_d: [-55, 50]
     wed_a: [238, 65]
     wed_b: [110, 116]
-  wiki_id: 104a
+  wiki_id: "104a"
   chinese_name: 千岁航改
 ---

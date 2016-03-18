@@ -53,6 +53,6 @@ data:
     battle_d: [54, 110]
     wed_a: [119, 0]
     wed_b: [132, 140]
-  wiki_id: 044a
+  wiki_id: "044a"
   chinese_name: 名取改
 ---

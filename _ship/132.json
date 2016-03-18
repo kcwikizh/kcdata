@@ -53,6 +53,6 @@ data:
     battle_d: [0, 44]
     wed_a: [174, 138]
     wed_b: [144, 143]
-  wiki_id: 132
+  wiki_id: "132"
   chinese_name: 秋云
 ---

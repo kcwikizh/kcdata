@@ -53,6 +53,6 @@ data:
     battle_d: [-18, 38]
     wed_a: [217, 83]
     wed_b: [106, 131]
-  wiki_id: 111a
+  wiki_id: "111a"
   chinese_name: 夕张改
 ---

@@ -6,17 +6,17 @@ data:
   name: 鹿島改
   yomi: かしま
   stype: 21
-  ctype: 
-  cnum: 
+  ctype:
+  cnum:
   backs: 5
-  after_lv: 
-  after_ship_id: 
+  after_lv:
+  after_ship_id:
   get_mes: 提督さん、お疲れさまです。<br>練習巡洋艦、鹿島、着任です。うふふ。
   voice_f: 3
   filename: grgeljjshnfk
   file_version: 10
-  book_table_id: 
-  book_sinfo: 
+  book_table_id:
+  book_sinfo:
   stats:
     taik: [40, 54]
     souk: [15, 39]
@@ -26,12 +26,12 @@ data:
     luck: [20, 79]
     soku: 5
     leng: 2
-    kaih: 
-    tais: 
+    kaih:
+    tais:
     slot_num: 4
     max_eq: [2, 2, 2, 2, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel:
+    after_bull:
     fuel_max: 35
     bull_max: 20
     broken: [3, 2, 11, 1]
@@ -53,6 +53,6 @@ data:
     battle_d: [32, 152]
     wed_a: [172, 16]
     wed_b: [132, 104]
-  wiki_id: 265a
-  chinese_name: 
+  wiki_id: "265a"
+  chinese_name: 鹿岛改
 ---

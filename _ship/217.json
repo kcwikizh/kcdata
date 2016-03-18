@@ -53,6 +53,6 @@ data:
     battle_d: [-19, 34]
     wed_a: [218, 86]
     wed_b: [103, 121]
-  wiki_id: 041a
+  wiki_id: "041a"
   chinese_name: 木曾改
 ---

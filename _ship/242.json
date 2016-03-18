@@ -53,6 +53,6 @@ data:
     battle_d: [64, 16]
     wed_a: [164, 18]
     wed_b: [129, 138]
-  wiki_id: 079a
+  wiki_id: "079a"
   chinese_name: 白露改
 ---

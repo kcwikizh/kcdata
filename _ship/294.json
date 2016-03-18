@@ -53,6 +53,6 @@ data:
     battle_d: [32, 56]
     wed_a: [140, 43]
     wed_b: [136, 139]
-  wiki_id: 119a
+  wiki_id: "119a"
   chinese_name: 舞风改
 ---
