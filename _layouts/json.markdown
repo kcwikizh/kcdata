@@ -1,1 +1,1 @@
-{{ page.data.name }}
+{{ page.data | jsonify }}
