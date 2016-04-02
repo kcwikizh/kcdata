@@ -14,7 +14,7 @@ data:
   get_mes: UボートU-511改め、呂号第500潜水艦です。<br>ユーちゃん改め、ローちゃんです。<br>テイトク、よろしくお願いしまーす！
   voice_f: 3
   filename: wnibjvejengh
-  file_version: 12
+  file_version: ["12", "12", "13"]
   book_table_id: [436]
   book_sinfo: ドイツ海軍のUボート、U-511を日本海軍式に改装して運用した、呂号第500潜水艦です。<br>舞鶴を母港として運用されました。実戦には出なかったんだけど、対潜部隊の訓練などで活躍しました、はい！
   stats:

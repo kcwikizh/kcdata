@@ -14,7 +14,7 @@ data:
   get_mes: また…来てしまったのね、この海に。<br>夕雲型駆逐艦、早霜…着任しました。
   voice_f: 3
   filename: uvfgjekdjlcw
-  file_version: 1
+  file_version: ["1", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

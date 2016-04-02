@@ -14,13 +14,13 @@ data:
   get_mes: 暁よ。<br>一人前のレディーとして扱ってよね！
   voice_f: 3
   filename: gzerqivthcrd
-  file_version: 3
+  file_version: ["3", "3", "4"]
   book_table_id: [437]
   book_sinfo: 特Ⅲ型駆逐艦１番艦の暁よ。<br>吹雪型をベースに航行性能や航続距離を向上させたの。特型駆逐艦の最終完成形なんだから！<br>ちゃんとレディーとして活躍したのよ！<br>ほ、ほんとなんだからっ。
   stats:
     taik: [31, 50]
     souk: [14, 50]
-    houg: [14, 60]
+    houg: [14, 62]
     raig: [32, 90]
     tyku: [19, 59]
     luck: [15, 67]

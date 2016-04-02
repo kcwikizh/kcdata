@@ -14,7 +14,7 @@ data:
   get_mes: 軽巡矢矧、着任したわ。<br>提督、最後まで頑張っていきましょう！
   voice_f: 7
   filename: acajrnrqxplq
-  file_version: 9
+  file_version: ["9", "9", "10"]
   book_table_id: 
   book_sinfo: 
   stats:

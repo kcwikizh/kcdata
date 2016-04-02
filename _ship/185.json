@@ -14,7 +14,7 @@ data:
   get_mes: 潜水母艦改装空母の龍鳳です。<br>航空母艦として、私、頑張ります！
   voice_f: 3
   filename: bfsrsnqivpms
-  file_version: 3
+  file_version: ["3", "3", "3"]
   book_table_id: [185]
   book_sinfo: 潜水母艦改装空母の龍鳳です。<br>機関の換装の影響で速度は計画通りには出なかったけれど、このクラスの軽空母としては充実の飛行甲板と兵装なんです。<br>空母龍鳳、精一杯頑張ります！
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: 私が鳥海です。よろしくです。
   voice_f: 1
   filename: nsgytjsjbfdp
-  file_version: 18
+  file_version: ["18", "18", "19"]
   book_table_id: 
   book_sinfo: 
   stats:

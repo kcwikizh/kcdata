@@ -14,7 +14,7 @@ data:
   get_mes: 
   voice_f: 
   filename: slxvncxmexin
-  file_version: 2
+  file_version: ["2", "2", "2"]
   book_table_id: 
   book_sinfo: 
   stats:

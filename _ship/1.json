@@ -14,7 +14,7 @@ data:
   get_mes: 睦月です。<br>はりきって、まいりましょー！
   voice_f: 0
   filename: snohitatusbk
-  file_version: 19
+  file_version: ["19", "19", "20"]
   book_table_id: [1, 913]
   book_sinfo: 帝国海軍の駆逐艦で初めて大型で強力な61cm魚雷を搭載しました、睦月です！<br>旧式ながら、第一線で頑張ったのです！
   stats:

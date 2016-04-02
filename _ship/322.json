@@ -14,7 +14,7 @@ data:
   get_mes: 陽炎型駆逐艦十番艦。<br>時津風……出るよ。
   voice_f: 3
   filename: svglgiwjfyxn
-  file_version: 14
+  file_version: ["14", "14", "15"]
   book_table_id: 
   book_sinfo: 
   stats:

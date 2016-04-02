@@ -14,7 +14,7 @@ data:
   get_mes: 素敵な提督で嬉しいのね。<br>伊十九なの。そう、イクって呼んでもいいの！
   voice_f: 3
   filename: jwrlielrnfpr
-  file_version: 8
+  file_version: ["8", "8", "9"]
   book_table_id: 
   book_sinfo: 
   stats:

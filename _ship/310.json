@@ -14,7 +14,7 @@ data:
   get_mes: Guten Morgen.<br>僕の名前はレーベレヒト・マース。<br>レーベでいいよ…うん。
   voice_f: 3
   filename: vbuxfozqoemo
-  file_version: 3
+  file_version: ["3", "3", "3"]
   book_table_id: 
   book_sinfo: 
   stats:

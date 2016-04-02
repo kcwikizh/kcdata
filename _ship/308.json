@@ -14,7 +14,7 @@ data:
   get_mes: 初めまして、弥生、着任…。<br>あ、気を使わないでくれていい…です。
   voice_f: 1
   filename: ozjrctjajnpx
-  file_version: 14
+  file_version: ["14", "14", "15"]
   book_table_id: 
   book_sinfo: 
   stats:

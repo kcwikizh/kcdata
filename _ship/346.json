@@ -6,17 +6,17 @@ data:
   name: 照月改
   yomi: てるづき
   stype: 2
-  ctype:
-  cnum:
+  ctype: 
+  cnum: 
   backs: 7
-  after_lv:
-  after_ship_id:
+  after_lv: 
+  after_ship_id: 
   get_mes: 秋月型防空駆逐艦、二番艦の照月よ。<br>戦艦の護衛でも、鼠輸送でも、なんでもこなしちゃうんだから！
   voice_f: 3
   filename: urpnkwaneqfb
-  file_version: 9
-  book_table_id:
-  book_sinfo:
+  file_version: ["9", "9", "10"]
+  book_table_id: 
+  book_sinfo: 
   stats:
     taik: [37, 57]
     souk: [16, 52]
@@ -26,12 +26,12 @@ data:
     luck: [11, 59]
     soku: 10
     leng: 1
-    kaih:
-    tais:
+    kaih: 
+    tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel:
-    after_bull:
+    after_fuel: 
+    after_bull: 
     fuel_max: 20
     bull_max: 25
     broken: [1, 2, 13, 1]

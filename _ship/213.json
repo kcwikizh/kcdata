@@ -14,7 +14,7 @@ data:
   get_mes: オレの名は天龍。<br>フフフ、怖いか？
   voice_f: 1
   filename: wjcrloeyiyxw
-  file_version: 13
+  file_version: ["13", "13", "14"]
   book_table_id: 
   book_sinfo: 
   stats:

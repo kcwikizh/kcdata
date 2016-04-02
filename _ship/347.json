@@ -6,17 +6,17 @@ data:
   name: Libeccio改
   yomi: リベッチオ
   stype: 2
-  ctype:
-  cnum:
+  ctype: 
+  cnum: 
   backs: 7
-  after_lv:
-  after_ship_id:
+  after_lv: 
+  after_ship_id: 
   get_mes: ブォンジョールノ！<br>マエストラーレ級駆逐艦、リベッチオです。<br>リベでいいよ。提督さん、よろしくね！
   voice_f: 3
   filename: rgfuelwdntub
-  file_version: 10
-  book_table_id:
-  book_sinfo:
+  file_version: ["10", "10", "11"]
+  book_table_id: 
+  book_sinfo: 
   stats:
     taik: [29, 46]
     souk: [15, 50]
@@ -26,12 +26,12 @@ data:
     luck: [16, 69]
     soku: 10
     leng: 1
-    kaih:
-    tais:
+    kaih: 
+    tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel:
-    after_bull:
+    after_fuel: 
+    after_bull: 
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]

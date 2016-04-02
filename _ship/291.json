@@ -14,7 +14,7 @@ data:
   get_mes: はじめまして。どうぞ、よろしくお願いいたします！
   voice_f: 3
   filename: ufcqfujavyyg
-  file_version: 9
+  file_version: ["9", "9", "10"]
   book_table_id: 
   book_sinfo: 
   stats:

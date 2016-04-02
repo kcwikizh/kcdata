@@ -14,13 +14,13 @@ data:
   get_mes: 僕は白露型駆逐艦、「時雨」。<br>これからよろしくね。
   voice_f: 3
   filename: ogkwigciybxf
-  file_version: 26
-  book_table_id: [145, 903, 916, 927]
+  file_version: ["27", "26", "27"]
+  book_table_id: [145, 903, 916, 927, 995]
   book_sinfo: 僕は白露型駆逐艦２番艦の時雨だよ。<br>あのレイテ沖海戦では、西村艦隊に所属して、運命のスリガオ海峡に突入したんだ。<br>扶桑も山城も凄かったよ……。<br>皆が忘れても、僕だけはずっと覚えているから……。
   stats:
     taik: [31, 49]
     souk: [14, 52]
-    houg: [13, 57]
+    houg: [13, 59]
     raig: [28, 84]
     tyku: [24, 72]
     luck: [50, 79]
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [192, 140]
-    boko_d: [168, 152]
+    boko_n: [112, 64]
+    boko_d: [72, 16]
     kaisyu_n: [12, 4]
     kaisyu_d: [36, -4]
-    kaizo_n: [136, 64]
-    kaizo_d: [108, 96]
-    map_n: [136, 96]
-    map_d: [128, 120]
-    ensyuf_n: [144, 104]
-    ensyuf_d: [120, 128]
-    ensyue_n: [140, 0]
-    battle_n: [152, 124]
-    battle_d: [136, 132]
-    wed_a: [68, 16]
-    wed_b: [100, 132]
+    kaizo_n: [80, 16]
+    kaizo_d: [76, -48]
+    map_n: [80, 32]
+    map_d: [64, 0]
+    ensyuf_n: [120, 40]
+    ensyuf_d: [80, -16]
+    ensyue_n: [64, 0]
+    battle_n: [96, 48]
+    battle_d: [80, 16]
+    wed_a: [122, 84]
+    wed_b: [137, 140]
   wiki_id: "145"
   chinese_name: 时雨改二
 ---

@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦、六番艦の高波です。<br>あ、あの…頑張ります！ホントかもです！
   voice_f: 3
   filename: ydsbnsiogwij
-  file_version: 12
+  file_version: ["12", "12", "13"]
   book_table_id: 
   book_sinfo: 
   stats:

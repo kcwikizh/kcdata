@@ -9,12 +9,12 @@ data:
   ctype: 28
   cnum: 5
   backs: 6
-  after_lv:
-  after_ship_id:
+  after_lv: 
+  after_ship_id: 
   get_mes: 皐月だよっ。<br>よろしくな！
   voice_f: 1
   filename: uhbkffblgplp
-  file_version: 2
+  file_version: ["2", "2", "3"]
   book_table_id: [418]
   book_sinfo: ボクは任務途中に何度も何度も怪我をしたけど、最後まで奮戦した睦月型駆逐艦５番艦さ。<br>緒戦の後も、船団護衛などで各海域で頑張ったんだ。ホントだよ。
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 30
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel:
-    after_bull:
+    after_fuel: 
+    after_bull: 
     fuel_max: 15
     bull_max: 15
     broken: [1, 2, 7, 0]

@@ -14,7 +14,7 @@ data:
   get_mes: 
   voice_f: 
   filename: eusutfvohllh
-  file_version: 3
+  file_version: ["3", "3", "3"]
   book_table_id: 
   book_sinfo: 
   stats:

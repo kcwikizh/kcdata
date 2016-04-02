@@ -14,7 +14,7 @@ data:
   get_mes: おはようございます～。<br>朝潮型駆逐艦六番艦、山雲、入ります～。
   voice_f: 3
   filename: pyfdxrfqwldn
-  file_version: 9
+  file_version: ["9", "9", "9"]
   book_table_id: 
   book_sinfo: 
   stats:

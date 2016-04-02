@@ -14,7 +14,7 @@ data:
   get_mes: きたきたぁ！　鬼怒、いよいよ到着しましたよ！
   voice_f: 3
   filename: ikwmknqjpvkg
-  file_version: 15
+  file_version: ["15", "15", "16"]
   book_table_id: 
   book_sinfo: 
   stats:

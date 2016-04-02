@@ -6,17 +6,17 @@ data:
   name: 瑞穂改
   yomi: みずほ
   stype: 16
-  ctype:
-  cnum:
+  ctype: 
+  cnum: 
   backs: 5
-  after_lv:
-  after_ship_id:
+  after_lv: 
+  after_ship_id: 
   get_mes: 提督、お疲れさまです。<br>水上機母艦、瑞穂、推参致しました。<br>どうぞよろしくお願い申し上げます。
   voice_f: 3
   filename: ycgllqsxwdgy
-  file_version: 10
-  book_table_id:
-  book_sinfo:
+  file_version: ["11", "10", "11"]
+  book_table_id: 
+  book_sinfo: 
   stats:
     taik: [42, 62]
     souk: [24, 48]
@@ -26,12 +26,12 @@ data:
     luck: [10, 54]
     soku: 5
     leng: 1
-    kaih:
-    tais:
+    kaih: 
+    tais: 
     slot_num: 3
     max_eq: [12, 12, 8, 0, 0]
-    after_fuel:
-    after_bull:
+    after_fuel: 
+    after_bull: 
     fuel_max: 40
     bull_max: 45
     broken: [3, 3, 15, 5]

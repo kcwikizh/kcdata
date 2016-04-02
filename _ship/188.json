@@ -14,7 +14,7 @@ data:
   get_mes: 吾輩が利根である！<br>吾輩が艦隊に加わる以上、もう、索敵の心配はないぞ！
   voice_f: 1
   filename: rjggwwmmppth
-  file_version: 12
+  file_version: ["12", "12", "13"]
   book_table_id: [188]
   book_sinfo: 日本海軍が完成させた最後の重巡、<br>利根型の長女、利根だ。<br>真珠湾、そして痛恨のミッドウェーでも、艦隊の眼として縦横無尽の活躍なのじゃ。最期は呉鎮守府を守る浮き砲台として刀折れ矢尽きるまで戦ったぞ。
   stats:
@@ -50,7 +50,7 @@ data:
     ensyuf_d: [48, 112]
     ensyue_n: [32, 0]
     battle_n: [48, 64]
-    battle_d: [48, 96]
+    battle_d: [32, 96]
     wed_a: [216, 48]
     wed_b: [128, 112]
   wiki_id: "188"

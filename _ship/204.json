@@ -14,7 +14,7 @@ data:
   get_mes: 深雪だよ。<br>よろしくな！
   voice_f: 1
   filename: zlshfpystoqp
-  file_version: 11
+  file_version: ["11", "11", "11"]
   book_table_id: 
   book_sinfo: 
   stats:

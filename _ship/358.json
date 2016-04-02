@@ -6,17 +6,17 @@ data:
   name: Zara改
   yomi: ザラ
   stype: 5
-  ctype:
-  cnum:
+  ctype: 
+  cnum: 
   backs: 7
-  after_lv:
-  after_ship_id:
+  after_lv: 
+  after_ship_id: 
   get_mes: Buon Giornov！ ザラ級重巡、一番艦ザラです！<br>粘り強さが信条です。提督、よろしくね！
   voice_f: 3
   filename: waviopoxryme
-  file_version: 2
-  book_table_id:
-  book_sinfo:
+  file_version: ["2", "2", "3"]
+  book_table_id: 
+  book_sinfo: 
   stats:
     taik: [56, 68]
     souk: [46, 76]
@@ -26,12 +26,12 @@ data:
     luck: [12, 56]
     soku: 10
     leng: 3
-    kaih:
-    tais:
+    kaih: 
+    tais: 
     slot_num: 4
     max_eq: [2, 2, 2, 2, 0]
-    after_fuel:
-    after_bull:
+    after_fuel: 
+    after_bull: 
     fuel_max: 45
     bull_max: 65
     broken: [4, 6, 18, 3]

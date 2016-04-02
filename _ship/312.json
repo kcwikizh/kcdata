@@ -14,7 +14,7 @@ data:
   get_mes: 駆逐艦、浜風です。<br>これより貴艦隊所属となります。
   voice_f: 1
   filename: ojkgkujsenly
-  file_version: 20
+  file_version: ["20", "20", "21"]
   book_table_id: 
   book_sinfo: 
   stats:

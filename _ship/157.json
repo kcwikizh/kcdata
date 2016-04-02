@@ -14,8 +14,8 @@ data:
   get_mes: 軽空母、龍驤や。独特なシルエットでしょ？<br>でも、艦載機を次々繰り出す、ちゃーんとした空母なんや。期待してや！
   voice_f: 1
   filename: mslkutojcolj
-  file_version: 15
-  book_table_id: [157, 905]
+  file_version: ["16", "15", "16"]
+  book_table_id: [157, 905, 996]
   book_sinfo: 軽空母だけど、結構歴戦の空母なんよ、うち。<br>ああ、あの岩手沖での第四艦隊事件のこと？あれはきつかったー。<br>波浪で艦橋圧壊…いや、ホントありえへん。
   stats:
     taik: [50, 72]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 3]
     build_time: 170
   graph:
-    boko_n: [192, 148]
-    boko_d: [88, 124]
+    boko_n: [24, 136]
+    boko_d: [112, 160]
     kaisyu_n: [32, 16]
     kaisyu_d: [48, -16]
-    kaizo_n: [112, 104]
-    kaizo_d: [12, 72]
-    map_n: [112, 132]
-    map_d: [12, 120]
-    ensyuf_n: [120, 132]
-    ensyuf_d: [12, 112]
-    ensyue_n: [112, 0]
-    battle_n: [132, 148]
-    battle_d: [32, 132]
-    wed_a: [92, -8]
-    wed_b: [112, 112]
+    kaizo_n: [8, 64]
+    kaizo_d: [64, 80]
+    map_n: [16, 112]
+    map_d: [64, 128]
+    ensyuf_n: [32, 104]
+    ensyuf_d: [112, 112]
+    ensyue_n: [8, 0]
+    battle_n: [16, 112]
+    battle_d: [112, 112]
+    wed_a: [160, 8]
+    wed_b: [144, 96]
   wiki_id: "157"
   chinese_name: 龙骧改二
 ---

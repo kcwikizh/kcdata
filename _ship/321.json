@@ -14,7 +14,7 @@ data:
   get_mes: 提督、旗艦大淀、お供いたします。<br>前線艦隊指揮はどうぞお任せください！
   voice_f: 3
   filename: gixbrtnuabge
-  file_version: 15
+  file_version: ["16", "15", "15"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 0, 2, 2]
     build_time: 80
   graph:
-    boko_n: [212, 144]
-    boko_d: [192, 144]
+    boko_n: [-16, 96]
+    boko_d: [-32, 152]
     kaisyu_n: [32, 4]
     kaisyu_d: [40, 8]
-    kaizo_n: [132, 84]
-    kaizo_d: [112, 84]
-    map_n: [112, 120]
-    map_d: [92, 120]
-    ensyuf_n: [136, 128]
-    ensyuf_d: [116, 128]
-    ensyue_n: [120, 0]
-    battle_n: [144, 132]
-    battle_d: [124, 132]
-    wed_a: [72, -8]
-    wed_b: [104, 92]
+    kaizo_n: [-16, 40]
+    kaizo_d: [-64, 80]
+    map_n: [-24, 72]
+    map_d: [-48, 128]
+    ensyuf_n: [24, 64]
+    ensyuf_d: [-16, 128]
+    ensyue_n: [-16, 0]
+    battle_n: [24, 64]
+    battle_d: [-24, 128]
+    wed_a: [200, 40]
+    wed_b: [128, 104]
   wiki_id: "183a"
   chinese_name: 大淀改
 ---
