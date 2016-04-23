@@ -14,7 +14,7 @@ data:
   get_mes: 雲龍型航空母艦、天城と申します。<br>提督、どうぞよろしくお願い致します。<br>天城、精進致します！
   voice_f: 1
   filename: gmlbignzjwmq
-  file_version: ["6", "6", "6"]
+  file_version: ["6", "6", "7"]
   book_table_id: [331, 981]
   book_sinfo: 雲龍型航空母艦、その二番艦、天城です。戦時急造計画であるマル急計画により、建造されました。<br>空母機動部隊として運用されることは叶いませんでしたが、呉空襲時の対空戦で奮闘しました。
   stats:

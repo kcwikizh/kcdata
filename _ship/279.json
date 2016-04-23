@@ -14,7 +14,7 @@ data:
   get_mes: 航空母艦、蒼龍です。<br>空母機動部隊を編制するなら、私もぜひ入れてね！
   voice_f: 0
   filename: mxohelwcpocv
-  file_version: ["16", "16", "16"]
+  file_version: ["16", "16", "17"]
   book_table_id: 
   book_sinfo: 
   stats:

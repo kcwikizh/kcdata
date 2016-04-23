@@ -14,7 +14,7 @@ data:
   get_mes: 古鷹型重巡の2番艦、加古ってんだ、よっろしくぅー！
   voice_f: 0
   filename: vkmjguonqcsg
-  file_version: ["13", "13", "13"]
+  file_version: ["13", "13", "14"]
   book_table_id: [60]
   book_sinfo: 古鷹型重巡洋艦の２番艦、加古だよぉ。<br>第一次ソロモン海戦で大活躍したんだからね！<br>あ、帰り道？ホント、行きはよいよい、帰りは怖い～ってね！
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: 初めまして、ねのひ、だよぉ！<br>艦名、読みづらくなんか、ないよね？ね？
   voice_f: 1
   filename: nkrmsykdohgo
-  file_version: ["14", "14", "14"]
+  file_version: ["14", "14", "15"]
   book_table_id: 
   book_sinfo: 
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: 駆逐艦島風です。スピードなら誰にも負けません。<br>速きこと、島風の如し、です！
   voice_f: 1
   filename: cjhtlviffiwb
-  file_version: ["10", "10", "10"]
+  file_version: ["10", "10", "11"]
   book_table_id: 
   book_sinfo: 
   stats:

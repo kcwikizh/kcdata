@@ -14,7 +14,7 @@ data:
   get_mes: クマー。<br>よろしくだクマ。
   voice_f: 1
   filename: mbgjkzlvemui
-  file_version: ["11", "11", "11"]
+  file_version: ["11", "11", "12"]
   book_table_id: 
   book_sinfo: 
   stats:

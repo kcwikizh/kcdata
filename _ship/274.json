@@ -14,7 +14,7 @@ data:
   get_mes: はじめまして、利根型２番艦、筑摩と申します。
   voice_f: 1
   filename: paqnehcojygu
-  file_version: ["11", "11", "12"]
+  file_version: ["11", "11", "13"]
   book_table_id: 
   book_sinfo: 
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: こんにちは！陽炎型駆逐艦、舞風です。<br>暗い雰囲気は苦手です！
   voice_f: 3
   filename: emjpbjscgcvf
-  file_version: ["16", "16", "17"]
+  file_version: ["16", "16", "18"]
   book_table_id: [122]
   book_sinfo: 陽炎型駆逐艦の舞風よ。ミッドウェーから南方作戦まで、戦場で舞い続けたの。同じ陽炎型の野分とは仲良しよ。あのトラック島が襲撃された時も近くにいてくれたわ。
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: 軽空母、祥鳳です。<br>はい、ちょっと小柄ですけど、ぜひ提督の機動部隊に加えてくださいね！
   voice_f: 1
   filename: numjsnomjspr
-  file_version: ["16", "16", "17"]
+  file_version: ["16", "16", "18"]
   book_table_id: 
   book_sinfo: 
   stats:

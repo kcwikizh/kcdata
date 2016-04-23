@@ -9,12 +9,12 @@ data:
   ctype: 
   cnum: 
   backs: 5
-  after_lv: 
-  after_ship_id: 
+  after_lv: 75
+  after_ship_id: 469
   get_mes: 白露型駆逐艦九番艦、<br>改白露型の江風だよ。よろしくな！<br>あ、読み方、間違えンなよ。
   voice_f: 3
   filename: litugbpkilsf
-  file_version: ["11", "11", "12"]
+  file_version: ["11", "11", "13"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 300
+    after_bull: 390
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]

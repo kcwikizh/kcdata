@@ -14,7 +14,7 @@ data:
   get_mes: こんにちは。高雄です。<br>貴方のような素敵な提督で良かったわ。
   voice_f: 1
   filename: ghgphbvmzjrx
-  file_version: ["9", "9", "10"]
+  file_version: ["9", "9", "11"]
   book_table_id: 
   book_sinfo: 
   stats:

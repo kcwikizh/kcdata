@@ -9,12 +9,12 @@ data:
   ctype: 18
   cnum: 2
   backs: 6
-  after_lv:
-  after_ship_id:
+  after_lv: 
+  after_ship_id: 
   get_mes: 駆逐艦、大潮です～！<br>小さな体に大きな魚雷！　お任せください。
   voice_f: 1
   filename: jqqkmitxodgw
-  file_version: ["1", "1", "1"]
+  file_version: ["1", "1", "2"]
   book_table_id: [199]
   book_sinfo: 朝潮型駆逐艦の２番艦、大潮です！<br>各戦線で活躍した後、あのガダルカナル島撤収作戦にも3回出動しました。<br>支えてみせます！
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 26
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel:
-    after_bull:
+    after_fuel: 
+    after_bull: 
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]
