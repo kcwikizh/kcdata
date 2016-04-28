@@ -1,0 +1,6 @@
+---
+---
+[
+  {% for ship in site.ship %}{% if ship.data.id >= 500 and ship.data.id < 900 %}{{ ship.data | jsonify }}{% unless forloop.last %},
+  {% endunless %}{% endif %}{% endfor %}
+]
