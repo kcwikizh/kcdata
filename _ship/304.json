@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦四番艦、長波サマだよ！<br>さーいくぜ、オーッ！
   voice_f: 3
   filename: lovstgcfspwr
-  file_version: ["5", "4", "6"]
+  file_version: ["6", "4", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [104, 116]
-    boko_d: [144, 116]
+    boko_n: [36, 112]
+    boko_d: [40, 112]
     kaisyu_n: [20, -6]
     kaisyu_d: [40, -8]
-    kaizo_n: [64, 64]
-    kaizo_d: [80, 64]
-    map_n: [72, 96]
-    map_d: [88, 92]
-    ensyuf_n: [80, 96]
-    ensyuf_d: [92, 84]
+    kaizo_n: [44, 56]
+    kaizo_d: [44, 16]
+    map_n: [34, 68]
+    map_d: [48, 92]
+    ensyuf_n: [96, 96]
+    ensyuf_d: [56, 52]
     ensyue_n: [56, 0]
-    battle_n: [100, 112]
-    battle_d: [124, 104]
-    wed_a: [116, 36]
-    wed_b: [116, 104]
+    battle_n: [36, 96]
+    battle_d: [60, 104]
+    wed_a: [169, 33]
+    wed_b: [117, 137]
   wiki_id: "135a"
   chinese_name: 长波改
 ---

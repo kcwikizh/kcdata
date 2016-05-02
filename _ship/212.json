@@ -14,7 +14,7 @@ data:
   get_mes: マイク音量大丈夫…？チェック、1，2……。<br>よし。はじめまして、私、霧島です。
   voice_f: 1
   filename: kexwyrcqjxfs
-  file_version: ["14", "14", "16"]
+  file_version: ["14", "14", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 449
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
+  sort_no: 249
+  name: Pola
+  yomi: ポーラ
+  stype: 5
+  ctype:
+  cnum:
+  backs: 6
+  after_lv: 40
+  after_ship_id: 361
+  get_mes: Buon Giornov～。<br>ザラ級重巡の三番艦～、ポーラです～。<br>何にでも挑戦したいお年頃。頑張ります～。
+  voice_f: 1
   filename: zbwwxnwyxhps
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id:
+  book_sinfo:
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [42, 55]
+    souk: [35, 53]
+    houg: [35, 59]
+    raig: [0, 32]
+    tyku: [16, 64]
+    luck: [9, 49]
+    soku: 10
+    leng: 3
+    kaih:
+    tais:
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 270
+    after_bull: 440
+    fuel_max: 45
+    bull_max: 60
+    broken: [2, 2, 11, 2]
+    pow_up: [3, 0, 0, 2]
+    build_time: 70
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [88, 144]
+    boko_d: [72, 160]
+    kaisyu_n: [48, -12]
+    kaisyu_d: [32, -12]
+    kaizo_n: [56, 100]
+    kaizo_d: [28, 92]
+    map_n: [72, 120]
+    map_d: [20, 124]
+    ensyuf_n: [72, 120]
+    ensyuf_d: [16, 128]
+    ensyue_n: [56, 0]
+    battle_n: [108, 132]
+    battle_d: [48, 140]
+    wed_a: [112, 0]
+    wed_b: [96, 124]
+  wiki_id: "249"
+  chinese_name: 波拉
 ---

@@ -14,7 +14,7 @@ data:
   get_mes: おはようございます！<br>航空機搭載給油艦、速吸、頑張ります！<br>艦載機も出撃用意、ばっちりです！
   voice_f: 3
   filename: niuenzxpukjq
-  file_version: ["9", "9", "11"]
+  file_version: ["9", "9", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

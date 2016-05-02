@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 476
+  sort_no: 276
+  name: 神風改
+  yomi: かみかぜ
+  stype: 2
+  ctype:
+  cnum:
+  backs: 6
+  after_lv:
+  after_ship_id:
+  get_mes: 司令官、私、頑張るから！<br>神風型駆逐艦、一番艦、神風。推参です！<br>全力で事に当たりましょう！
+  voice_f: 3
+  filename: osxrcrtldvru
+  file_version: ["1", "1", "1"]
+  book_table_id:
+  book_sinfo:
+  stats:
+    taik: [23, 38]
+    souk: [10, 38]
+    houg: [8, 41]
+    raig: [14, 68]
+    tyku: [14, 48]
+    luck: [40, 99]
+    soku: 10
+    leng: 1
+    kaih:
+    tais:
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel:
+    after_bull:
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [92, 128]
+    boko_d: [32, 116]
+    kaisyu_n: [20, -12]
+    kaisyu_d: [24, 12]
+    kaizo_n: [28, 72]
+    kaizo_d: [-48, 52]
+    map_n: [44, 108]
+    map_d: [-56, 84]
+    ensyuf_n: [24, 92]
+    ensyuf_d: [-52, 76]
+    ensyue_n: [8, 0]
+    battle_n: [56, 104]
+    battle_d: [-20, 96]
+    wed_a: [216, 32]
+    wed_b: [76, 112]
+  wiki_id: "276"
+  chinese_name: 神风改
+---

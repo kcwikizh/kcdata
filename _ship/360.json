@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 360
+  sort_no: 1440
+  name: Iowa改
+  yomi: アイオワ
+  stype: 8
+  ctype:
+  cnum:
+  backs: 8
+  after_lv:
+  after_ship_id:
+  get_mes: Hi！ MeがIowa級戦艦、Iowaよ。<br>Youがこの艦隊のAdmiralなの？ いいじゃない！<br>私たちのこともよろしく！
+  voice_f: 3
+  filename: nwntjkczdexl
+  file_version: ["1", "1", "1"]
+  book_table_id:
+  book_sinfo:
+  stats:
+    taik: [92, 103]
+    souk: [89, 107]
+    houg: [90, 115]
+    raig: [0, 0]
+    tyku: [82, 120]
+    luck: [40, 99]
+    soku: 10
+    leng: 3
+    kaih:
+    tais:
+    slot_num: 4
+    max_eq: [4, 4, 4, 4, 0]
+    after_fuel:
+    after_bull:
+    fuel_max: 200
+    bull_max: 275
+    broken: [32, 45, 100, 40]
+    pow_up: [6, 0, 3, 5]
+    build_time: 500
+  graph:
+    boko_n: [-48, 76]
+    boko_d: [0, 136]
+    kaisyu_n: [14, -12]
+    kaisyu_d: [-4, -4]
+    kaizo_n: [-96, 20]
+    kaizo_d: [-40, 92]
+    map_n: [-88, 44]
+    map_d: [-40, 128]
+    ensyuf_n: [-72, 60]
+    ensyuf_d: [-44, 128]
+    ensyue_n: [-72, 0]
+    battle_n: [-60, 72]
+    battle_d: [-20, 152]
+    wed_a: [304, 80]
+    wed_b: [80, 96]
+  wiki_id: "240a"
+  chinese_name: 衣阿华改
+---

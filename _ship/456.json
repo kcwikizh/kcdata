@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 456
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
+  sort_no: 256
+  name: 親潮
+  yomi: おやしお
+  stype: 2
+  ctype:
+  cnum:
+  backs: 5
+  after_lv: 35
+  after_ship_id: 362
+  get_mes: 陽炎型駆逐艦四番艦、親潮です。<br>司令、第十五駆逐隊、どうぞよろしく<br>ご指導ください。お願いいたします！
+  voice_f: 1
   filename: dvcslbfkmdsy
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id:
+  book_sinfo:
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 30]
+    raig: [24, 68]
+    tyku: [9, 37]
+    luck: [13, 50]
+    soku: 10
+    leng: 1
+    kaih:
+    tais:
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 140
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [176, 160]
+    boko_d: [168, 156]
+    kaisyu_n: [4, -8]
+    kaisyu_d: [16, 8]
+    kaizo_n: [104, 96]
+    kaizo_d: [92, 100]
+    map_n: [112, 132]
+    map_d: [80, 140]
+    ensyuf_n: [104, 132]
+    ensyuf_d: [96, 132]
+    ensyue_n: [112, 0]
+    battle_n: [132, 144]
+    battle_d: [124, 152]
+    wed_a: [100, -8]
+    wed_b: [92, 96]
+  wiki_id: "256"
+  chinese_name: 亲潮
 ---

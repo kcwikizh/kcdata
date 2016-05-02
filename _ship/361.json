@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 361
+  sort_no: 1441
+  name: Pola改
+  yomi: ポーラ
+  stype: 5
+  ctype:
+  cnum:
+  backs: 7
+  after_lv:
+  after_ship_id:
+  get_mes: Buon Giornov～。<br>ザラ級重巡三番艦～ポーラです～。<br>提督と一緒に～何にでも挑戦中です～。頑張ります～。
+  voice_f: 3
+  filename: btfmqyxunhkj
+  file_version: ["1", "1", "1"]
+  book_table_id:
+  book_sinfo:
+  stats:
+    taik: [56, 68]
+    souk: [45, 77]
+    houg: [41, 77]
+    raig: [0, 44]
+    tyku: [21, 73]
+    luck: [11, 57]
+    soku: 10
+    leng: 3
+    kaih:
+    tais:
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel:
+    after_bull:
+    fuel_max: 45
+    bull_max: 65
+    broken: [4, 6, 18, 4]
+    pow_up: [4, 0, 1, 2]
+    build_time: 70
+  graph:
+    boko_n: [88, 144]
+    boko_d: [72, 160]
+    kaisyu_n: [48, -12]
+    kaisyu_d: [32, -12]
+    kaizo_n: [56, 100]
+    kaizo_d: [28, 92]
+    map_n: [72, 120]
+    map_d: [20, 124]
+    ensyuf_n: [72, 120]
+    ensyuf_d: [16, 128]
+    ensyue_n: [56, 0]
+    battle_n: [108, 132]
+    battle_d: [48, 140]
+    wed_a: [112, 0]
+    wed_b: [96, 124]
+  wiki_id: "249a"
+  chinese_name: 波拉改
+---

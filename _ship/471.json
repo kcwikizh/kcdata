@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 471
+  sort_no: 271
+  name: 神風
+  yomi: かみかぜ
+  stype: 2
+  ctype:
+  cnum:
+  backs: 4
+  after_lv: 50
+  after_ship_id: 476
+  get_mes: 待たせたわね、司令官。<br>神風型駆逐艦、一番艦、神風。推参です！<br>みんな、いい？　ついてらっしゃい！
+  voice_f: 1
+  filename: xqqqhgvzjuae
+  file_version: ["1", "1", "1"]
+  book_table_id:
+  book_sinfo:
+  stats:
+    taik: [12, 23]
+    souk: [5, 17]
+    houg: [5, 28]
+    raig: [12, 36]
+    tyku: [5, 26]
+    luck: [30, 79]
+    soku: 10
+    leng: 1
+    kaih:
+    tais:
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 80
+    after_bull: 130
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 3, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [92, 128]
+    boko_d: [32, 116]
+    kaisyu_n: [20, -12]
+    kaisyu_d: [24, 12]
+    kaizo_n: [28, 72]
+    kaizo_d: [-48, 52]
+    map_n: [44, 108]
+    map_d: [-56, 84]
+    ensyuf_n: [24, 92]
+    ensyuf_d: [-52, 76]
+    ensyue_n: [8, 0]
+    battle_n: [56, 104]
+    battle_d: [-20, 96]
+    wed_a: [216, 32]
+    wed_b: [76, 112]
+  wiki_id: "271"
+  chinese_name: 神风
+---

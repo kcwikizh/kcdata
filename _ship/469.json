@@ -9,8 +9,8 @@ data:
   ctype: 23
   cnum: 9
   backs: 6
-  after_lv:
-  after_ship_id:
+  after_lv: 
+  after_ship_id: 
   get_mes: 白露型駆逐艦九番艦、<br>改白露型の江風だよ。よろしくな！<br>あ、読み方、間違えンなよ。
   voice_f: 3
   filename: rwrhhyeloenn
@@ -30,8 +30,8 @@ data:
     tais: 25
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel:
-    after_bull:
+    after_fuel: 
+    after_bull: 
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]
@@ -54,5 +54,5 @@ data:
     wed_a: [236, 92]
     wed_b: [84, 112]
   wiki_id: "269"
-  chinese_name: "江风改二"
+  chinese_name: 江风改二
 ---
