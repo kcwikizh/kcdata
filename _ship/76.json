@@ -15,7 +15,7 @@ data:
   voice_f: 0
   filename: iyondwbusgym
   file_version: ["13", "13", "1"]
-  book_table_id: [76, 281, 904]
+  book_table_id: [76, 904]
   book_sinfo: 軽空母だけど、結構歴戦の空母なんよ、うち。<br>ああ、あの岩手沖での第四艦隊事件のこと？あれはきつかったー。<br>波浪で艦橋圧壊…いや、ホントありえへん。
   stats:
     taik: [31, 54]

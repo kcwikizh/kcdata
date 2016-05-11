@@ -6,8 +6,8 @@ data:
   name: Iowa
   yomi: アイオワ
   stype: 8
-  ctype:
-  cnum:
+  ctype: 65
+  cnum: 1
   backs: 7
   after_lv: 50
   after_ship_id: 360
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: tgknyzwyexxt
   file_version: ["1", "1", "1"]
-  book_table_id:
-  book_sinfo:
+  book_table_id: [440]
+  book_sinfo: Hi！　Iowa級戦艦Name Ship、Iowaよ。高速戦艦で、この重兵装。Battle shipの最終形ともいえる完成度。USAが生んだ最後の戦艦級として、この艦隊でも頑張るわ。よろしくね！
   stats:
     taik: [84, 95]
     souk: [79, 95]
@@ -26,8 +26,8 @@ data:
     luck: [35, 89]
     soku: 10
     leng: 3
-    kaih:
-    tais:
+    kaih: 34
+    tais: 0
     slot_num: 4
     max_eq: [4, 4, 4, 4, 0]
     after_fuel: 2800

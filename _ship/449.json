@@ -6,8 +6,8 @@ data:
   name: Pola
   yomi: ポーラ
   stype: 5
-  ctype:
-  cnum:
+  ctype: 64
+  cnum: 3
   backs: 6
   after_lv: 40
   after_ship_id: 361
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: zbwwxnwyxhps
   file_version: ["1", "1", "1"]
-  book_table_id:
-  book_sinfo:
+  book_table_id: [449]
+  book_sinfo: ザラ級重巡洋艦の三番艦、ポーラです～。皆さん、覚えてくださいね～。装甲と防御重視の優れた重巡さんなんです～。水上戦闘にちゃんと出撃したんですよ～。でも～、戦艦には勝てません～。飲むしかないです～。
   stats:
     taik: [42, 55]
     souk: [35, 53]
@@ -26,8 +26,8 @@ data:
     luck: [9, 49]
     soku: 10
     leng: 3
-    kaih:
-    tais:
+    kaih: 32
+    tais: 0
     slot_num: 3
     max_eq: [2, 2, 2, 0, 0]
     after_fuel: 270

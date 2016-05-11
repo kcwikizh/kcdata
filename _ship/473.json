@@ -6,8 +6,8 @@ data:
   name: 春風
   yomi: はるかぜ
   stype: 2
-  ctype:
-  cnum:
+  ctype: 66
+  cnum: 3
   backs: 4
   after_lv: 50
   after_ship_id: 363
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: gfogtnmgovlq
   file_version: ["1", "1", "1"]
-  book_table_id:
-  book_sinfo:
+  book_table_id: [473]
+  book_sinfo: 神風型駆逐艦の三番艦、春風と申します。舞鶴生まれです。<br>以前は第五駆逐艦とも呼ばれていたのですが、春風という大切な名前を頂きました。第五駆逐隊、そして第一海上護衛隊に所属して、皆さんをお守りしました。<br>戦いが終わった後も…お守りします。
   stats:
     taik: [12, 23]
     souk: [5, 17]
@@ -26,8 +26,8 @@ data:
     luck: [25, 74]
     soku: 10
     leng: 1
-    kaih:
-    tais:
+    kaih: 38
+    tais: 18
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 80
