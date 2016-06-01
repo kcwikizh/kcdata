@@ -14,7 +14,7 @@ data:
   get_mes: ちわ！涼風だよ。<br>私が艦隊に加われば百人力さ！
   voice_f: 1
   filename: jukighzxmudn
-  file_version: ["9", "9", "1"]
+  file_version: ["9", "9", "601"]
   book_table_id: 
   book_sinfo: 
   stats:

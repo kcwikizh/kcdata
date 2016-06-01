@@ -14,7 +14,7 @@ data:
   get_mes: ブォンジョールノ！<br>マエストラーレ級駆逐艦、リベッチオです。<br>リベでいいよ。提督さん、よろしくね！
   voice_f: 3
   filename: rgfuelwdntub
-  file_version: ["10", "10", "1"]
+  file_version: ["10", "10", "601"]
   book_table_id: 
   book_sinfo: 
   stats:

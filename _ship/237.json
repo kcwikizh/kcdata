@@ -14,7 +14,7 @@ data:
   get_mes: 電です。<br>どうか、よろしくお願いいたします。
   voice_f: 1
   filename: bqvrrfdcuvdr
-  file_version: ["5", "5", "1"]
+  file_version: ["5", "5", "601"]
   book_table_id: 
   book_sinfo: 
   stats:

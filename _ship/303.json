@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦、巻雲といいます。<br>夕雲姉さんを見習って、頑張ります！
   voice_f: 3
   filename: gekgxdsvrliq
-  file_version: ["5", "5", "1"]
+  file_version: ["5", "5", "601"]
   book_table_id: 
   book_sinfo: 
   stats:

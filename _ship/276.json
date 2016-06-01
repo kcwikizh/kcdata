@@ -14,7 +14,7 @@ data:
   get_mes: 長門型戦艦２番艦の陸奥よ。よろしくね。<br>あまり火遊びはしないでね…お願いよ。
   voice_f: 1
   filename: hujriolkmhzy
-  file_version: ["9", "9", "1"]
+  file_version: ["9", "9", "601"]
   book_table_id: 
   book_sinfo: 
   stats:

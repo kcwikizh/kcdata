@@ -14,7 +14,7 @@ data:
   get_mes: 霰です…<br>んちゃ…とかはいいません…よろしく…
   voice_f: 1
   filename: oxttbkywusfp
-  file_version: ["8", "8", "1"]
+  file_version: ["8", "8", "601"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -40,8 +40,8 @@ data:
   graph:
     boko_n: [46, 47]
     boko_d: [43, 55]
-    kaisyu_n: [11, 32]
-    kaisyu_d: [28, 7]
+    kaisyu_n: [0, 16]
+    kaisyu_d: [8, 20]
     kaizo_n: [-9, -8]
     kaizo_d: [-15, -21]
     map_n: [-50, 47]

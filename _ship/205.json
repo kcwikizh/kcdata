@@ -14,7 +14,7 @@ data:
   get_mes: あんたが司令官ね。<br>ま、せいぜい頑張りなさい！
   voice_f: 3
   filename: rmcvsljwdyur
-  file_version: ["17", "17", "1"]
+  file_version: ["17", "17", "601"]
   book_table_id: 
   book_sinfo: 
   stats:

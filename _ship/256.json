@@ -14,7 +14,7 @@ data:
   get_mes: 皐月だよっ。<br>よろしくな！
   voice_f: 1
   filename: ttcofyyswaum
-  file_version: ["12", "12", "1"]
+  file_version: ["12", "12", "601"]
   book_table_id: 
   book_sinfo: 
   stats:
