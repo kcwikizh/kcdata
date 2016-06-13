@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 124
+  sort_no: 124
+  name: FuMO25 レーダー
+  type: [5, 8, 13, 11]
+  rare: 4
+  broken: [0, 0, 27, 29]
+  info: かの国で開発された艦載用レーダー(電探)です。<br>科学の国の電子兵装、残念ながら、我が連合艦隊に装備された電探よりスペックは高いです。<br>主に巡洋艦以上の大型艦艇に搭載されました。
+  usebull: 0
+  cost: 9
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 3
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 7
+    tais: 0
+    atap: 0
+    houm: 10
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 9
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: FuMO25 雷达
+---

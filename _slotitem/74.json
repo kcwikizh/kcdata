@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 74
+  sort_no: 74
+  name: 探照灯
+  type: [8, 18, 29, 24]
+  rare: 0
+  broken: [0, 0, 1, 1]
+  info: 夜戦時照射用の探照灯です。<br>夜戦時に味方艦隊の射撃・雷撃を支援できますが、敵艦隊からの集中攻撃を浴びるリスクがあります。<br>(駆逐艦・軽巡洋艦・重巡洋艦・航空巡洋艦・水上機母艦・巡洋戦艦が装備可能です)
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id: 140
+  chinese_name: 探照灯
+---

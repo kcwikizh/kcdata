@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 539
+  sort_no: 0
+  name: 40mm二連装機関砲
+  type: [4, 6, 21, 15]
+  rare: 1
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 12
+  distance: 10
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 8
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 3
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 40mm二连装机关炮
+---

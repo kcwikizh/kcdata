@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 107
+  sort_no: 107
+  name: 艦隊司令部施設
+  type: [12, 22, 34, 28]
+  rare: 5
+  broken: [1, 1, 1, 1]
+  info: 洋上において艦隊を指揮する前線司令部です。<br>司令部施設を開設できるある一定以上の大きさの艦に設営可能です。同司令部を旗艦に設営した艦隊は「連合艦隊」として出撃している際に、随伴艦隊の健在な駆逐艦を「損害の大きい艦」の護衛につけて、戦場から退避させることが可能です。
+  usebull: 0
+  cost: 8
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 舰队司令部设施
+---

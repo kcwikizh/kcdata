@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 100
+  sort_no: 100
+  name: 彗星(江草隊)
+  type: [3, 5, 7, 7]
+  rare: 5
+  broken: [2, 3, 0, 3]
+  info: 「九九艦爆」の後継機として開発された高速艦爆「彗星」。<br>液冷発動機装備のため運用のやや難しい機体でしたが、江草隊長の腕とその空中指揮、そして練度の高い母艦整備員によって支えられた精鋭「彗星」艦爆隊は、圧倒的な命中率を誇るその急降下爆撃で新生機動部隊の打撃力を担います。
+  usebull: 0
+  cost: 5
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 13
+    tyku: 1
+    tais: 5
+    atap: 0
+    houm: 4
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 彗星(江草队)
+---

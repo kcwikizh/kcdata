@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 76
+  sort_no: 76
+  name: 38cm連装砲
+  type: [1, 1, 3, 3]
+  rare: 0
+  broken: [0, 11, 18, 0]
+  info: ビスマルク級戦艦に搭載された、かの国の戦艦主砲です。<br>主に電動を用いた砲塔旋回・揚弾・装填などが可能です。<br>短～中距離での砲撃戦を意識した戦艦主兵装です。
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 16
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  remodel_slot_id: 114
+  chinese_name: 38cm连装炮
+---

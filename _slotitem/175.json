@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 175
+  sort_no: 175
+  name: 雷電
+  type: [22, 39, 48, 38]
+  rare: 4
+  broken: [3, 2, 0, 7]
+  info: 「十四試局地戦闘機」として開発された、対爆撃機要撃に特化した迎撃戦闘機「雷電」です。零戦などの艦上戦闘機「甲戦」に対して、局地戦闘機「乙戦」として開発・運用されました。格闘戦向きではありませんが、優れた上昇力と大火力を備えています。
+  usebull: 0
+  cost: 6
+  distance: 2
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 6
+    tais: 0
+    atap: 0
+    houm: 5
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 雷电
+---

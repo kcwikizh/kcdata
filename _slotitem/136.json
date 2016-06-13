@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 136
+  sort_no: 136
+  name: プリエーゼ式水中防御隔壁
+  type: [6, 17, 28, 23]
+  rare: 3
+  broken: [0, 0, 24, 4]
+  info: シリンダータイプの隔壁による、艦幅も重量も増やさずに水中防御を向上させる大型艦艇の防御隔壁です。タラントでの戦訓から評価が分かれますが、一定の防御効果は期待できるといわれています。<br>(戦艦・巡洋戦艦・航空戦艦・正規空母(含む装甲空母)用)
+  usebull: 0
+  cost: 9
+  distance: 4
+  stats:
+    taik: 0
+    souk: 7
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: -1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 普列塞式水中防御隔壁
+---

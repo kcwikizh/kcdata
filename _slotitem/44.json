@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 44
+  sort_no: 44
+  name: 九四式爆雷投射機
+  type: [7, 32, 15, 17]
+  rare: 0
+  broken: [0, 2, 1, 1]
+  info: 対潜兵装です。<br>最も標準的な爆雷投射機です。駆逐艦・海防艦などの小型艦艇に対潜水艦用火力として装備されました。<br>若干旧式化しつつありますが、敵潜を発見さえできれば、その威力は十分です。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 5
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id: 45
+  chinese_name: 九四式爆雷投射机
+---

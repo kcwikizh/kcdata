@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 30
+  sort_no: 30
+  name: 21号対空電探
+  type: [5, 8, 13, 11]
+  rare: 2
+  broken: [0, 0, 20, 20]
+  info: 初の実用艦載電探です。<br>対空用ですが、対水上電探としても使用可能です。<br>13号電探と混載することも可能で、基本的にこの21号は大型艦に搭載されました。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 4
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 3
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id: 89
+  chinese_name: 21号对空电探
+---

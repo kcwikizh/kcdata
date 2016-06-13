@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 148
+  sort_no: 148
+  name: 試製南山
+  type: [3, 5, 7, 7]
+  rare: 5
+  broken: [4, 5, 0, 15]
+  info: 水上機搭載可能な潜水艦による戦略的な運用を目指して開発された、急降下爆撃可能なハイスペック艦載攻撃機「晴嵐」。その陸上運用機バージョン「南山」に着艦フックを付与した試作航空母艦運用型(爆装)です。テスト機なので、派手なカラーリングとなっています。
+  usebull: 0
+  cost: 9
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 11
+    tyku: 1
+    tais: 4
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 试制南山
+---

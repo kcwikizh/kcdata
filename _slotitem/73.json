@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 73
+  sort_no: 73
+  name: 増設バルジ(大型艦)
+  type: [6, 17, 28, 23]
+  rare: 2
+  broken: [0, 0, 30, 0]
+  info: 艦艇の防御力を強化する増加装甲の一種です。<br>戦艦等の大型艦艇の船体側面への増設が可能です。<br>(戦艦・巡洋戦艦・航空戦艦・正規空母(含む装甲空母)用)
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 9
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: -3
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 增设装甲(大型舰)
+---

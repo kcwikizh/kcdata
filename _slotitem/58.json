@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 58
+  sort_no: 58
+  name: 61cm五連装(酸素)魚雷
+  type: [2, 3, 5, 5]
+  rare: 2
+  broken: [2, 3, 2, 0]
+  info: 大威力長射程を誇る、秘密兵器「九三式酸素魚雷」。<br>その必殺の酸素魚雷を、五連装にしてしまった水雷兵装のファイナルウェポンが、この五連装【酸素魚雷】発射管です。高速重雷装駆逐艦の「島風」に搭載されました。大井さんやスーパー北上さまも、こっちを見ています！
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 12
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  remodel_slot_id:
+  chinese_name: 61cm五连装(酸素)鱼雷
+---

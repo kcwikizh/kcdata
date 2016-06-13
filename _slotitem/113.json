@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 113
+  sort_no: 113
+  name: 流星(六〇一空)
+  type: [3, 5, 8, 8]
+  rare: 4
+  broken: [2, 5, 0, 10]
+  info: 艦攻と艦爆を統合した先進的な"急降下爆撃可能な雷撃機"、それが「流星」です。<br>発動機不調と重量過大に悩みながらも、開発に成功。高い性能を誇る最新鋭の艦上攻撃機です。錬成を重ねた六〇一空が機種転換し、本機を装備します。整備の行き届いた流星を定数装備した、新生艦攻隊の主力です。
+  usebull: 0
+  cost: 7
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 13
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 5
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 3
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 流星(六〇一空)
+---

@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 92
+  sort_no: 92
+  name: 毘式40mm連装機銃
+  type: [4, 6, 21, 15]
+  rare: 0
+  broken: [0, 2, 1, 0]
+  info: 英国ヴィッカース社より導入した対空機銃です。<br>射撃時の音からポンポン砲とも呼ばれ、国内でライセンス生産もされました。徐々に後発の国産対空機銃に更新されていきました。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 6
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 毘式40mm连装机铳
+---

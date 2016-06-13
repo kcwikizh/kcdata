@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 94
+  sort_no: 94
+  name: 天山一二型(友永隊)
+  type: [3, 5, 8, 8]
+  rare: 5
+  broken: [2, 4, 0, 4]
+  info: 旧式化した「九七艦攻」の後継機として開発された、新鋭艦上攻撃機「天山」。本部隊は、闘志溢れる空中指揮官が率いる、「天山」への機種転換が完了した熟練搭乗員で構成された精鋭艦攻隊です。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 14
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 6
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 5
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 天山一二型(友永队)
+---

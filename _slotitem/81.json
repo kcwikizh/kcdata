@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 81
+  sort_no: 81
+  name: 瑞雲12型(六三四空)
+  type: [5, 7, 11, 10]
+  rare: 4
+  broken: [2, 3, 0, 6]
+  info: 高性能多用途水上偵察機「瑞雲」の改良型「瑞雲12型」。<br>同機によって編成された「伊勢」型航空戦艦などでの艦隊運用を担う六三四航空隊所属の「瑞雲12型」飛行隊です。
+  usebull: 0
+  cost: 7
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 9
+    tyku: 3
+    tais: 6
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 7
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 瑞云12型(六三四空)
+---

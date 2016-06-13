@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 57
+  sort_no: 57
+  name: 彗星一二型甲
+  type: [3, 5, 7, 7]
+  rare: 2
+  broken: [2, 3, 0, 4]
+  info: 「九九艦爆」の後継として開発された高速性能を誇る水冷エンジンの艦上爆撃機「彗星」。<br>彗星艦爆一二型甲は、エンジンをより強力なアツタ三二型に換装。そして後部機銃も13mmに火力強化しました。機動力と防御火力を向上させた本機で、あの有名な芙蓉部隊ばりの奮戦を！
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 10
+    tyku: 0
+    tais: 3
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 彗星一二型甲
+---

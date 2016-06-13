@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 83
+  sort_no: 83
+  name: 天山(九三一空)
+  type: [3, 5, 8, 8]
+  rare: 3
+  broken: [2, 4, 0, 5]
+  info: 登場の遅れた名艦上攻撃機「天山」。<br>この機体を用いて対潜哨戒・対潜制圧・対艦攻撃を担う九三一航空隊所属の「天山」装備飛行隊です。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 9
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 8
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 天山(九三一空)
+---

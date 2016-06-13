@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 61
+  sort_no: 61
+  name: 二式艦上偵察機
+  type: [5, 7, 9, 9]
+  rare: 1
+  broken: [3, 1, 0, 13]
+  info: 名機「彗星艦爆」の艦上偵察機型です。<br>偵察用カメラと増加燃料タンクを搭載して、艦隊の目として活躍可能です。ぜひ、彩雲と共に機動部隊で運用してね！
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 0
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 7
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 二式舰上侦察机
+---

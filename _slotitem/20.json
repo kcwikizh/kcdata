@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 20
+  sort_no: 20
+  name: 零式艦戦21型
+  type: [3, 5, 6, 6]
+  rare: 0
+  broken: [1, 1, 0, 2]
+  info: 「ゼロ戦」の名で知られる名機「零式艦上戦闘機」の初期型です。7.7mm機銃2門と自慢の20mm機銃2門を装備。<br>優れた格闘戦能力と長大な航続距離で、その圧倒的な力を見せつけました。<br>やがて敵が強力な新型機になってくると、火力と速度、防弾性などの弱点が露呈していきます。
+  usebull: 0
+  cost: 4
+  distance: 7
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 5
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 零式舰战21型
+---

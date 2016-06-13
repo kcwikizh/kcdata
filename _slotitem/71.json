@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 71
+  sort_no: 71
+  name: 10cm連装高角砲(砲架)
+  type: [1, 2, 4, 16]
+  rare: 3
+  broken: [0, 1, 3, 0]
+  info: 「長10cm」と呼ばれた長砲身の新型高性能防空用高角砲、その大型艦対空火器バージョンです。<br>複雑な構造のため量産には不向きでしたが、敵機の跳梁から大切な艦と艦隊を守る艦隊防空の切り札です。航空母艦や戦艦、巡洋艦などの大型艦の副砲として運用可能です。
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 7
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  remodel_slot_id:
+  chinese_name: 10cm连装高角炮(炮架)
+---

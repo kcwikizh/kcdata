@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 177
+  sort_no: 177
+  name: 三式戦 飛燕(飛行第244戦隊)
+  type: [22, 39, 48, 38]
+  rare: 5
+  broken: [1, 2, 0, 6]
+  info: 三式戦「飛燕」を駆り、東京調布に展開して首都防空に奮戦した陸軍戦闘機隊、飛行第244戦隊です。戦いの最終局面では、「飛燕」を空冷化した信頼性の高い「五式戦」に機種転換し、敵新型機に対抗していきます。
+  usebull: 0
+  cost: 7
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 9
+    tais: 0
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 4
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 三式战 飞燕(飞行第244战队)
+---

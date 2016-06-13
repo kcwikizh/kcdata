@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 163
+  sort_no: 163
+  name: Ro.43水偵
+  type: [5, 7, 10, 10]
+  rare: 3
+  broken: [1, 1, 0, 2]
+  info: パスタの国で開発/運用された運動性に優れた複葉複座の水上偵察機です。同国の中型以上の主力水上艦艇に搭載されました。低速機であるものの、信頼性と優れた操縦性を持った水偵として、艦隊の目や連絡を務めます。単座の戦闘機バージョンも存在しました。
+  usebull: 0
+  cost: 4
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 2
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id: 164
+  chinese_name: Ro.43水侦
+---

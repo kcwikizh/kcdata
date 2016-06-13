@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 52
+  sort_no: 52
+  name: 流星改
+  type: [3, 5, 8, 8]
+  rare: 3
+  broken: [2, 6, 0, 10]
+  info: 艦攻と艦爆を統合した先進的な急降下爆撃可能な雷撃機「流星」の性能向上型です。<br>美しいフォルムだけでなく、爆弾倉・主脚・主翼折り畳み機構も油圧操作式、20ｍｍ砲x2門と7.7ｍｍ機銃x2門、さらに13ｍｍ後方旋回銃x１門という世界最強武装を誇る艦上統合攻撃機「流星改」。提督の機動部隊でぜひ活躍させてくださいね。
+  usebull: 0
+  cost: 8
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 13
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 3
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 流星改
+---

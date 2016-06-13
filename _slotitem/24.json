@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 24
+  sort_no: 24
+  name: 彗星
+  type: [3, 5, 7, 7]
+  rare: 1
+  broken: [2, 3, 0, 3]
+  info: 「九九艦爆」の後継として開発された高速性能を誇る艦上爆撃機「彗星」。<br>液冷発動機を装備。当時の一般的な戦闘機より速く、護衛の零戦すら振り切れる高速性とも言われます。<br>整備の難しい機体ですが、高速艦爆としての完成度は高く、ぜひ機動部隊の中核として運用してくださいね。
+  usebull: 0
+  cost: 5
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 8
+    tyku: 0
+    tais: 3
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 彗星
+---

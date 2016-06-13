@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 51
+  sort_no: 51
+  name: 12cm30連装噴進砲
+  type: [4, 29, 21, 15]
+  rare: 2
+  broken: [0, 4, 2, 2]
+  info: 12cm30連装噴進砲は、艦載用対空ロケットランチャーです。<br>四式ロケット式焼霰弾(ロサ弾）を30連発で連続発射する脅威の弾幕は、肉薄する敵艦載機から味方艦を護ります。<br>ぜひ、改装した伊勢・日向に満載して、敵空母の猛攻を突破してください！
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 8
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 12cm30连装喷进炮
+---

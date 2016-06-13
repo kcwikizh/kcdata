@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 123
+  sort_no: 123
+  name: SKC34 20.3cm連装砲
+  type: [1, 1, 2, 2]
+  rare: 3
+  broken: [0, 4, 5, 0]
+  info: かの国の重巡洋艦装備用に開発された連装砲です。<br>高い命中率と火力を誇る優秀な巡洋艦主兵装です。<br>中距離の砲撃戦で威力を発揮します。
+  usebull: 0
+  cost: 9
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 10
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 0
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  remodel_slot_id:
+  chinese_name: SKC34 20.3cm连装炮
+---

@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 56
+  sort_no: 56
+  name: 震電改
+  type: [3, 5, 6, 6]
+  rare: 5
+  broken: [2, 3, 0, 28]
+  info: 九州飛行機＆海軍航空技術廠が生み出した、先進的なエンテ型の試作戦闘機「震電」。<br>推進プロペラを後方に配置し、重火力を機体前部に集中させた後進翼の機体は、まさに未来と希望を感じさせるもの。<br>現実世界では、海上に飛び立つことのなかった機体ですが、「艦これ」では着艦フックと尾翼等を補強して登場です！
+  usebull: 0
+  cost: 9
+  distance: 2
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 15
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 震电改
+---

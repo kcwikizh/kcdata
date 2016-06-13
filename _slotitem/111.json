@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 111
+  sort_no: 111
+  name: 彗星(六〇一空)
+  type: [3, 5, 7, 7]
+  rare: 3
+  broken: [2, 3, 0, 3]
+  info: 「九九艦爆」の後継機として開発された高速艦爆「彗星」。<br>液冷発動機装備のため運用のやや難しい機体ですが、整備体制を万全に、内地で訓練を重ねた六〇一空の精鋭が搭乗します。機動部隊決戦に向けて、錬成を重ねた六〇一空の精鋭艦爆隊です。
+  usebull: 0
+  cost: 5
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 11
+    tyku: 0
+    tais: 4
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 彗星(六〇一空)
+---

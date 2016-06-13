@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 88
+  sort_no: 88
+  name: 22号対水上電探改四
+  type: [5, 8, 12, 11]
+  rare: 3
+  broken: [0, 0, 16, 16]
+  info: 実戦運用された電探二号電波探信儀二型の改良型です。<br>新型受信機や様々な改良により、性能と安定性が向上、<br>実効力のあるレーダー射撃も可能となりました。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 2
+    atap: 0
+    houm: 8
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 5
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 22号对水上电探改四
+---

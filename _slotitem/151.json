@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 151
+  sort_no: 151
+  name: 試製景雲(艦偵型)
+  type: [5, 7, 9, 9]
+  rare: 5
+  broken: [4, 0, 0, 14]
+  info: 空技廠が開発した最新鋭の高々度試作偵察機「景雲」。同機に艦載用の改修を行った艦上偵察機バージョンです。様々な新機軸を盛り込んだユニークな機体の「景雲」は、開発中のターボジェットエンジン「ネ330」を搭載して、新鋭噴進式攻撃機化する計画もありました。<br>(本機は新鋭正規空母の一部のみ運用可能です)
+  usebull: 0
+  cost: 12
+  distance: 8
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 11
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 试制景云(舰侦型)
+---

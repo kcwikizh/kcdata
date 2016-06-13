@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 82
+  sort_no: 82
+  name: 九七式艦攻(九三一空)
+  type: [3, 5, 8, 8]
+  rare: 2
+  broken: [2, 3, 0, 4]
+  info: 初期の機動部隊を支えた主力攻撃機「九七艦攻」。<br>旧式化した同機を対潜哨戒機バージョンとして運用する九三一航空隊所属の「九七艦攻」装備飛行隊です。
+  usebull: 0
+  cost: 5
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 6
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 7
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 九七式舰攻(九三一空)
+---

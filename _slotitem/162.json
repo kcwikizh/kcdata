@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 162
+  sort_no: 162
+  name: 203mm/53 連装砲
+  type: [1, 1, 2, 2]
+  rare: 3
+  broken: [0, 4, 4, 0]
+  info: パスタの国で生まれた中口径主砲です。昼間砲撃戦で優位を確保すべく誕生したザラ級重巡の主兵装として採用されました。最大仰角で射撃では戦艦並の長射程距離を誇りましたが、構造上の問題でその精度と命中率には課題を抱えています。
+  usebull: 0
+  cost: 6
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 9
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 0
+    atap: 0
+    houm: -2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  remodel_slot_id:
+  chinese_name: 203mm/53 连装炮
+---

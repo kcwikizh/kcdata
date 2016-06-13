@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 527
+  sort_no: 0
+  name: 対空レーダ― Mark.I
+  type: [5, 8, 12, 11]
+  rare: 1
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 12
+  distance: 10
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 5
+    tais: 0
+    atap: 0
+    houm: 5
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 5
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 对空雷达 Mark.I
+---

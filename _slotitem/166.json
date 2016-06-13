@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 166
+  sort_no: 166
+  name: 大発動艇(八九式中戦車&陸戦隊)
+  type: [8, 14, 24, 20]
+  rare: 2
+  broken: [1, 2, 4, 1]
+  info: 大発動艇、略して「大発」。旧式ではありますが量産型「大発」に積載可能な「八九式中戦車」と、重火器で武装した陸戦隊を搭載した、上陸作戦用の強襲揚陸バージョン(試製噴進砲もif装備)です。輸送任務ではなく、敵地への上陸作戦等に適しています。
+  usebull: 0
+  cost: 5
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id: 167
+  chinese_name: 大发动艇(八九式中战车&陆战队)
+---

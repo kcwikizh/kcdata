@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 67
+  sort_no: 67
+  name: 53cm艦首(酸素)魚雷
+  type: [2, 3, 5, 5]
+  rare: 1
+  broken: [2, 2, 2, 0]
+  info: 伊号潜水艦の艦首に装備する潜水艦の主兵装です。<br>水上艦艇に搭載するものよりやや直径の小さい、長射程高威力を誇る必殺の酸素魚雷です。大型艦艇に大ダメージを与えることも可能です。
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 15
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  remodel_slot_id:
+  chinese_name: 53cm舰首(酸素)鱼雷
+---

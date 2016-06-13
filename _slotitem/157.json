@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 157
+  sort_no: 157
+  name: 零式艦戦53型(岩本隊)
+  type: [3, 5, 6, 6]
+  rare: 5
+  broken: [1, 2, 0, 5]
+  info: 遂に飛行隊を預かることになった「零戦虎徹」岩本隊長率いる、「零式艦上戦闘機53型」装備の艦戦隊です。「52型」のエンジンと生存性を強化した性能向上型である「零戦53型」を駆り、熟練搭乗員を率いて戦いの空に駆け上がります。
+  usebull: 0
+  cost: 6
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 12
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 4
+    raik: 0
+    bakk: 0
+    saku: 3
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 零式舰战53型(岩本队)
+---

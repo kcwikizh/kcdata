@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 118
+  sort_no: 118
+  name: 紫雲
+  type: [5, 7, 10, 10]
+  rare: 4
+  broken: [1, 1, 0, 15]
+  info: 制空権を失った空でも強行偵察が可能な高性能水偵を目指して開発された、十四試高速水上偵察機「紫雲」です。火星エンジンと二重反転プロペラの採用、投下可能フロート機構などで高速高性能な次世代艦載水偵となるはずでしたが、計画通りの高性能を発揮することは叶いませんでした。就役直後の軽巡「大淀」などで、増加試作機が運用されています。
+  usebull: 0
+  cost: 9
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 1
+    tyku: 0
+    tais: 2
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 8
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 紫云
+---

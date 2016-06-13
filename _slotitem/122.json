@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 122
+  sort_no: 122
+  name: 10cm連装高角砲+高射装置
+  type: [1, 1, 1, 16]
+  rare: 3
+  broken: [0, 2, 3, 2]
+  info: 「長10cm砲」といわれる10cm連装高角砲と「94式高射装置」の組み合わせによる、艦隊防空システムです。量産性が低く、また射撃装置は列強の最新鋭には劣りますが、優秀な長10cm砲と高射装置の組み合わせは艦隊の傘として十分に活躍します。
+  usebull: 0
+  cost: 9
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 3
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 10
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  remodel_slot_id:
+  chinese_name: 10cm连装高角炮+高射装置
+---

@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 40
+  sort_no: 40
+  name: 25mm三連装機銃
+  type: [4, 6, 21, 15]
+  rare: 1
+  broken: [0, 3, 1, 0]
+  info: 国産対空機銃兵装の強化バージョンです。<br>25mm高角機銃の三連装型ですが、一度に撃てるわけではなく、一門ずつ順番に撃って銃身の加熱を防ぎます。<br>従来の連装機銃や仮設の単装機銃を加え、この25mm三連装機銃が近接対空兵装の中核となりました。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 6
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id: 131
+  chinese_name: 25mm三连装机铳
+---

@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 54
+  sort_no: 54
+  name: 彩雲
+  type: [5, 7, 9, 9]
+  rare: 2
+  broken: [2, 0, 0, 11]
+  info: 「我ニ追イツク敵機無シ」有名な無電を発した俊足の艦上偵察機「彩雲」。敵戦闘機の追随を許さない高速性能を誇る、高性能な艦上偵察機です。悪化した戦況の中、敵情偵察に海上へと飛び立ちました。<br>ぜひ、提督の機動部隊の正規空母、その第4航空隊に配備してみてくださいね。
+  usebull: 0
+  cost: 9
+  distance: 8
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 9
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 彩云
+---

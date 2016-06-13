@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 12
+  sort_no: 12
+  name: 15.5cm三連装副砲
+  type: [1, 2, 4, 4]
+  rare: 1
+  broken: [0, 2, 5, 0]
+  info: 巡洋艦の主砲だったものを、戦艦の副砲として活用しました。<br>「大和」型に搭載され、対空戦も可能な、性能・運用性ともに優秀な戦艦副砲となりました。<br>砲塔部の装甲が薄いのが玉に瑕で、諸説ありますが「大和」型の唯一の弱点という指摘もありました。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 7
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 3
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  remodel_slot_id:
+  chinese_name: 15.5cm三连装副炮
+---

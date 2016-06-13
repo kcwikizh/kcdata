@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 95
+  sort_no: 95
+  name: 潜水艦53cm艦首魚雷(8門)
+  type: [2, 3, 32, 5]
+  rare: 2
+  broken: [2, 4, 2, 0]
+  info: 伊号潜水艦の艦首に装備する潜水艦専用兵装です。<br>水上艦艇に搭載するものよりやや直径の小さい、長射程高威力を誇る必殺の酸素魚雷発射管艦首8門です。高い魚雷火力を潜水艦に付与します。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 16
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  remodel_slot_id:
+  chinese_name: 潜水舰53cm舰首鱼雷(8门)
+---

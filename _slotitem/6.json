@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 6
+  sort_no: 6
+  name: 20.3cm連装砲
+  type: [1, 1, 2, 2]
+  rare: 0
+  broken: [0, 3, 4, 0]
+  info: 重巡に搭載された主砲、それが20.3cm連装砲です。<br>条約上限一杯の8インチ（20.3cm）のこの砲は、中距離での砲撃戦はもちろん、夜戦のような近距離での殴り合いでも十分にその威力を発揮します。<br>限定的ですが、対空射撃も可能です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 8
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 3
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  remodel_slot_id: 90
+  chinese_name: 20.3cm连装炮
+---

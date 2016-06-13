@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 64
+  sort_no: 64
+  name: Ju87C改
+  type: [3, 5, 7, 7]
+  rare: 3
+  broken: [2, 4, 0, 5]
+  info: かの国の代表的な急降下爆撃機、その艦載機バージョン。<br>「スツーカ」という呼称が有名な、優れた急降下爆撃性能を誇る、逆ガル式翼が特徴的な機体です。急降下時の風切音がサイレンに似ていることから「悪魔のサイレン」とも呼ばれたそうです。
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 9
+    tyku: 0
+    tais: 5
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: Ju87C改
+---

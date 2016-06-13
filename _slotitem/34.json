@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 34
+  sort_no: 34
+  name: 強化型艦本式缶
+  type: [6, 31, 17, 19]
+  rare: 1
+  broken: [10, 0, 20, 0]
+  info: 新開発の高温高圧缶です。<br>従来の艦本式ロ号缶から換装するもので、駆逐艦「島風」で採用した高温高圧缶をベースに、実用性と量産性を高めたもの。<br>高出力と低燃費を実現し、回避率を大きく向上させます。また、改良型タービンとの併用でさらに高い推力を実現します。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 10
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 强化型舰本式缶
+---

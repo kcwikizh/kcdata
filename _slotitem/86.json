@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 86
+  sort_no: 86
+  name: 艦艇修理施設
+  type: [10, 20, 31, 26]
+  rare: 3
+  broken: [10, 5, 20, 10]
+  info: 工作艦に搭載される修理装備一式です。「明石」等の工作艦に搭載することで、入渠なしに艦艇の応急修理が可能です。<br>(小破程度の損害の艦を、この装備一式につき、+1隻の同時修理が可能です)
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 舰艇修理设施
+---

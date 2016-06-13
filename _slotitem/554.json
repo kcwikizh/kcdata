@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 554
+  sort_no: 0
+  name: 深海水上攻撃機
+  type: [5, 7, 11, 10]
+  rare: 2
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 12
+  distance: 10
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 8
+    tyku: 4
+    tais: 8
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 6
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 深海水上攻击机
+---

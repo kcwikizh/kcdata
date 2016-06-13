@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 19
+  sort_no: 19
+  name: 九六式艦戦
+  type: [3, 5, 6, 6]
+  rare: 0
+  broken: [1, 1, 0, 1]
+  info: 旧式の艦上戦闘機です。<br>零戦より前に実戦配備されていた旧型機ですが、優れた格闘戦能力を持っています。<br>武装や航続力、速度の点で既に二線級ではありますが、防空戦闘には活用可能です。
+  usebull: 0
+  cost: 3
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 九六式舰战
+---

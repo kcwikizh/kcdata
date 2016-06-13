@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 156
+  sort_no: 156
+  name: 零戦52型甲(付岩本小隊)
+  type: [3, 5, 6, 6]
+  rare: 4
+  broken: [1, 2, 0, 4]
+  info: 圧倒的な空戦技量を誇るエース、岩本小隊長を擁する「零式艦上戦闘機52型」装備の艦戦隊です。卓越した空戦技量で零戦の後期改良型を駆る「零戦虎徹」は、機体の質的優位性が失われても果敢に敵機に挑み、撃墜を重ねていきました。
+  usebull: 0
+  cost: 5
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 11
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 零战52型甲(付岩本小队) 
+---

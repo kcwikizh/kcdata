@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 4
+  sort_no: 4
+  name: 14cm単装砲
+  type: [1, 1, 2, 2]
+  rare: 0
+  broken: [0, 2, 1, 0]
+  info: 巡洋艦の主砲や戦艦の副砲として独自開発された中距離砲です。<br>やや旧式化していますが、列強の15cm砲とほぼ同等の射程と威力を持っています。<br>対艦対地専門で、対空射撃はできません。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  remodel_slot_id: 119
+  chinese_name: 14cm单装炮
+---

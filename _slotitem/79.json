@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 79
+  sort_no: 79
+  name: 瑞雲(六三四空)
+  type: [5, 7, 11, 10]
+  rare: 2
+  broken: [2, 3, 0, 5]
+  info: 急降下爆撃も可能な多用途水上偵察機「瑞雲」。<br>「伊勢」型航空戦艦等での艦隊運用を前提に編成・錬成した、六三四航空隊所属の瑞雲飛行隊です。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 6
+    tyku: 2
+    tais: 5
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 6
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 瑞云(六三四空)
+---

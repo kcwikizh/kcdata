@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 42
+  sort_no: 42
+  name: 応急修理要員
+  type: [6, 30, 23, 14]
+  rare: 0
+  broken: [0, 0, 1, 0]
+  info: プロのダメコン（ダメージコントロール）集団。艦娘の戦闘による致命的な被害を最小限に抑えることによって、大切な艦娘を轟沈（ロスト）からお護りします！<br>艦隊決戦のリスクマネージメントに、ぜひどうぞ！<br>（発動すると消滅します）
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 应急修理要员
+---

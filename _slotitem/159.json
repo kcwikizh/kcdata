@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 159
+  sort_no: 159
+  name: Fw190T改
+  type: [3, 5, 6, 6]
+  rare: 4
+  broken: [2, 3, 0, 8]
+  info: かの国で開発/量産された強力で信頼性の高い戦闘機Fw190シリーズ。タンク博士の設計により誕生し、フォッケウルフの名で親しまれた名機です。本機はその後期型を改修した艦上機バージョンです。高い制空戦闘能力を発揮します。
+  usebull: 0
+  cost: 6
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 10
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: Fw190T改
+---

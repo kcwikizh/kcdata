@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 29
+  sort_no: 29
+  name: 33号対水上電探
+  type: [5, 8, 12, 11]
+  rare: 2
+  broken: [0, 0, 20, 15]
+  info: 対水上射撃管制用に開発された小型対水上射撃用電探です。<br>22号を改修して精度を上げ、探知距離・精度ともに実用レベルで運用可能です。<br>雷撃管制用にも使用でき、砲雷撃戦の質を大きく向上させます。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 5
+    raim: 12
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 7
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 33号对水上电探
+---

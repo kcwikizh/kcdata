@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 102
+  sort_no: 102
+  name: 九八式水上偵察機(夜偵)
+  type: [5, 7, 10, 10]
+  rare: 3
+  broken: [2, 1, 0, 4]
+  info: 水雷戦隊旗艦用に開発された水上夜間偵察機です。<br>長時間の滞空性能を持つ黒く塗装された機体に、夜間索敵能力に優れた搭乗員が乗りこみます(条件が整えば夜戦を支援する「夜間触接」が発生する可能性があります)。
+  usebull: 0
+  cost: 8
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 1
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 3
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 九八式水上侦察机(夜侦)
+---

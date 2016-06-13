@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 174
+  sort_no: 174
+  name: 53cm連装魚雷
+  type: [2, 3, 5, 5]
+  rare: 1
+  broken: [1, 1, 1, 0]
+  info: 旧式の53cm魚雷の連装発射管です。新型の61cm酸素魚雷と比較すると、射程・威力共に陳腐化は否めませんが、近距離魚雷戦ではまだまだ現役です。やや旧式の艦隊型駆逐艦「神風」型などに装備されました。
+  usebull: 0
+  cost: 6
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 3
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  remodel_slot_id:
+  chinese_name: 53cm连装鱼雷
+---

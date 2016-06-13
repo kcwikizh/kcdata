@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 104
+  sort_no: 104
+  name: 35.6cm連装砲(ダズル迷彩)
+  type: [1, 1, 3, 3]
+  rare: 3
+  broken: [0, 10, 15, 0]
+  info: 金剛型高速戦艦「榛名」の前部主砲の最終形態です。<br>あまり効果がなかったといわれていますが、縦縞ゼブラ模様のダズル迷彩を施しています。三式弾を装填して敵機が跳梁する空を睨み、母港呉と動けない残存艦隊の防戦に努めました。
+  usebull: 0
+  cost: 8
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 15
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 5
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  remodel_slot_id:
+  chinese_name: 35.6cm连装炮(迷彩)
+---

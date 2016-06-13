@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 35
+  sort_no: 35
+  name: 三式弾
+  type: [4, 28, 18, 12]
+  rare: 0
+  broken: [0, 9, 6, 3]
+  info: 戦艦の主砲から放たれる対空用特殊砲弾。<br>榴散弾の一種で、大量の子弾が爆散、敵を編隊ごと一網打尽に殲滅することが可能。<br>戦艦主砲の射撃装置の問題で命中率が低いのが難点だが、艦隊の防空力を大きく高めます。<br>戦艦・航空戦艦・巡洋戦艦が使用可能。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 5
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 三式弹
+---

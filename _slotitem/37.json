@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 37
+  sort_no: 37
+  name: 7.7mm機銃
+  type: [4, 6, 21, 15]
+  rare: 0
+  broken: [0, 1, 1, 0]
+  info: 対空補助兵装です。<br>初期の対空兵器として初期の駆逐艦等に装備された小口径機銃です。<br>射程及び威力ともに能力不足で、12.7mm機銃や25mm機銃への更新が進んでいます。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 7.7mm机铳
+---

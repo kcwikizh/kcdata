@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 180
+  sort_no: 180
+  name: 一式陸攻 二二型甲
+  type: [21, 38, 47, 37]
+  rare: 3
+  broken: [8, 5, 0, 14]
+  info: 陸上航空基地より発進、敵艦船への対艦攻撃及び敵飛行場等への対地攻撃などを行った海軍の主力陸上攻撃機「一式陸攻」、その性能向上型です。機体の一部を再設計改修、さらに機体上部の旋回機銃と機体側面機銃を強化、性能は限定的ではありましたが機上電探も搭載しました。
+  usebull: 0
+  cost: 12
+  distance: 10
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 11
+    soku: 0
+    baku: 12
+    tyku: 3
+    tais: 2
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 一式陆攻二二型甲
+---

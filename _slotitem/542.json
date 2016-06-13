@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 542
+  sort_no: 0
+  name: 深海爆雷投射機
+  type: [7, 9, 15, 17]
+  rare: 2
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 12
+  distance: 10
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 7
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 深海爆雷投射机
+---

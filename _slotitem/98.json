@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 98
+  sort_no: 98
+  name: 九七式艦攻(熟練)
+  type: [3, 5, 8, 8]
+  rare: 3
+  broken: [1, 1, 0, 2]
+  info: 熟練搭乗員で構成された「九七艦攻」装備の艦攻隊です。<br>速度や防弾装備は劣るものの優れた航続距離と熟練搭乗員の腕で、緒戦の機動部隊と共に大活躍を演じました。雷撃・水平爆撃をこなす主力艦上攻撃機ですが、徐々に現役を退いていきます。
+  usebull: 0
+  cost: 5
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 8
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 5
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 九七式舰攻(熟练)
+---

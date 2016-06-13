@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 99
+  sort_no: 99
+  name: 九九式艦爆(江草隊)
+  type: [3, 5, 7, 7]
+  rare: 4
+  broken: [1, 1, 0, 2]
+  info: 緒戦の空母機動部隊の打撃力の中核を担う「九九艦爆」。<br>やや設計の古い固定脚低速機ですが稼働率や信頼性は高く、特に高い練度を誇る江草隊長の率いる艦爆隊の急降下爆撃は、驚異的な命中率を誇ります。
+  usebull: 0
+  cost: 4
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 10
+    tyku: 0
+    tais: 5
+    atap: 0
+    houm: 4
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 3
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 九九式舰爆(江草队)
+---

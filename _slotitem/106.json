@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 106
+  sort_no: 106
+  name: 13号対空電探改
+  type: [5, 8, 12, 11]
+  rare: 3
+  broken: [0, 0, 10, 11]
+  info: 艦載用対空電探の改良調整版です。<br>比較的信頼性も高く、小型軽量で駆逐艦等への装備も可能だった「13号対空電探」に、技術者達がさらに改良を加えた対空電探です。水雷戦隊の眼として活躍します。
+  usebull: 0
+  cost: 8
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 4
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 13号对空电探改
+---

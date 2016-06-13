@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 126
+  sort_no: 126
+  name: WG42 (Wurfgerät 42)
+  type: [15, 26, 37, 31]
+  rare: 4
+  broken: [1, 4, 2, 1]
+  info: かの国で開発された対地対艦攻撃用の艦載ロケットランチャー装備「WG42」です。<br>Uボートにも搭載され、実際に運用されました。命中精度には難がありますが、ごく浅い深度なら水面下から発射可能な、潜水艦発射対地ミサイルのご先祖様のような装備で、主に対地攻撃に有効です。
+  usebull: 0
+  cost: 9
+  distance: 4
+  stats:
+    taik: 0
+    souk: -1
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  remodel_slot_id:
+  chinese_name: WG42(Wurfgerät 42)
+---

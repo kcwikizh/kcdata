@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 36
+  sort_no: 36
+  name: 九一式徹甲弾
+  type: [4, 25, 19, 13]
+  rare: 1
+  broken: [0, 3, 9, 0]
+  info: 遠距離砲撃戦における秘密兵器「九一式徹甲弾」。<br>海中突入後急激に向きを変え、魚雷のように敵艦水線下に突き進み、喫水下を破砕する特殊徹甲弾です。<br>水中弾効果を高める形状設計のため、空気抵抗も減少して射程も延伸します。<br>戦艦・航空戦艦等が使用可能。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 8
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id: 116
+  chinese_name: 九一式撤甲弹
+---

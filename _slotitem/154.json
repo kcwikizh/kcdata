@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 154
+  sort_no: 154
+  name: 零戦62型(爆戦/岩井隊)
+  type: [3, 5, 7, 7]
+  rare: 5
+  broken: [1, 3, 0, 4]
+  info: 遂に飛行隊を預かることになった「ゼロファイターゴッド」岩井隊長率いる、「零式艦上戦闘機62型」装備の爆戦隊です。整備の行き届いた「62型」を駆り、高機動戦闘爆撃機として敵艦に爆弾を叩き付け、しかるのち制空戦闘に参加します。
+  usebull: 0
+  cost: 5
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 4
+    tyku: 7
+    tais: 3
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 零战62型(爆战/岩井队)
+---

@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 129
+  sort_no: 129
+  name: 熟練見張員
+  type: [16, 27, 39, 32]
+  rare: 3
+  broken: [1, 0, 0, 0]
+  info: 水上戦闘艦に配備可能な熟練見張員です。<br>その鍛え抜かれた肉眼視力による偵察力・索敵力は状況によっては大きな威力を発揮し、敵艦隊のレーダー兵装が充実するまでは、特に夜戦などで水上艦隊の攻撃力を支えました。
+  usebull: 0
+  cost: 9
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 熟练见张员
+---

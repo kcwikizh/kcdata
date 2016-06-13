@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 134
+  sort_no: 134
+  name: OTO 152mm三連装速射砲
+  type: [1, 2, 4, 4]
+  rare: 3
+  broken: [0, 2, 5, 0]
+  info: パスタの国が生んだ、伝統と信頼の高性能中口径の三連装速射砲です。<br>砲の旋回や俯仰、砲弾の揚弾及び装填は主に電力で稼働する最新型です。新型高速戦艦の副砲にも採用されました。
+  usebull: 0
+  cost: 9
+  distance: 4
+  stats:
+    taik: 0
+    souk: 1
+    houg: 8
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  remodel_slot_id:
+  chinese_name: OTO 152mm三连装速射炮
+---

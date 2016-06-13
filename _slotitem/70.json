@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 70
+  sort_no: 70
+  name: 三式指揮連絡機(対潜)
+  type: [3, 16, 26, 22]
+  rare: 1
+  broken: [1, 1, 0, 2]
+  info: 陸軍で開発、対潜哨戒機としても運用されていた固定翼機です。<br>現代のSTOL(短距離離着陸機)のような性能を持ち、艦載対潜哨戒機として運用されました。全通甲板を持つ強襲揚陸艦や軽空母などで運用可能です。
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 7
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 三式指挥连絡机(对潜)
+---

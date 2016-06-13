@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 1
+  sort_no: 1
+  name: 12cm単装砲
+  type: [1, 1, 1, 1]
+  rare: 0
+  broken: [0, 1, 1, 0]
+  info: 旧型の小型砲です。<br>旧型駆逐艦に標準的主砲として搭載されました。<br>装填・操砲も人力ですが、シンプルな構造で経済性も高く、駆逐艦や海防艦等の主砲として、長く使われました。<br>対空射撃には不向きです。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  remodel_slot_id:
+  chinese_name: 12cm单装炮
+---

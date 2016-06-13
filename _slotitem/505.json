@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 505
+  sort_no: 0
+  name: 8inch三連装砲
+  type: [1, 1, 2, 2]
+  rare: 0
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 12
+  distance: 10
+  stats:
+    taik: 0
+    souk: 0
+    houg: 8
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  remodel_slot_id:
+  chinese_name: 8英寸三连装炮
+---

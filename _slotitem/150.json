@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 150
+  sort_no: 150
+  name: 秋刀魚の缶詰
+  type: [18, 34, 43, 34]
+  rare: 2
+  broken: [1, 0, 0, 1]
+  info: 旬の水揚げされたばかりの新鮮な秋刀魚を使った蒲焼の缶詰です。脂が乗った秋刀魚を炭火焼で丁寧に仕上げたその味は、そのままでも美味しいですが、おにぎりと一緒に食すれば美味しさ倍増です。(戦闘糧食と一緒に発動すると効果倍増です。発動すると消滅します)
+  usebull: 0
+  cost: 9
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 秋刀鱼的罐头
+---

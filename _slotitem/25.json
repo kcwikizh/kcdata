@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 25
+  sort_no: 25
+  name: 零式水上偵察機
+  type: [5, 7, 10, 10]
+  rare: 0
+  broken: [1, 1, 0, 2]
+  info: 「零水偵」とも呼ばれる標準的な水上偵察機です。<br>戦艦や巡洋艦、水上機母艦などに搭載され、索敵任務担当として艦隊の「目」の役目を務めます。<br>海戦は索敵が大事！　ぜひ、主力艦艇に搭載して、運用してくださいね。
+  usebull: 0
+  cost: 5
+  distance: 7
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 1
+    tyku: 1
+    tais: 2
+    atap: 0
+    houm: 1
+    raim: 10
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 5
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id: 165
+  chinese_name: 零式水上侦察机
+---

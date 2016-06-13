@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 139
+  sort_no: 139
+  name: 15.2cm連装砲改
+  type: [1, 1, 2, 2]
+  rare: 3
+  broken: [0, 2, 3, 1]
+  info: 阿賀野型軽巡シリーズの主兵装として開発された両用砲の改良改修型です。<br>対巡洋艦戦闘に重きをおいた新設計の軽巡主砲で、限定的ですが対空戦闘も可能です。改修により精度が若干向上しました。軽巡にフィットした新型の主砲兵装です。
+  usebull: 0
+  cost: 25
+  distance: 20
+  stats:
+    taik: 0
+    souk: 0
+    houg: 5
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 3
+    tais: 0
+    atap: 0
+    houm: 4
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  remodel_slot_id:
+  chinese_name: 15.2cm连装炮改
+---

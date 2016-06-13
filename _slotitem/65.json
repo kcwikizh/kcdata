@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 65
+  sort_no: 65
+  name: 15.2cm連装砲
+  type: [1, 1, 2, 2]
+  rare: 2
+  broken: [0, 2, 3, 0]
+  info: 新型軽巡のために開発された新型の両用砲です。<br>対巡洋艦戦闘に重きをおいた新設計の軽巡主砲で、限定的ですが対空戦闘も可能です。阿賀野型軽巡シリーズに装備されました。
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 4
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 3
+    tais: 0
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  remodel_slot_id: 139
+  chinese_name: 15.2cm连装炮
+---

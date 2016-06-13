@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 41
+  sort_no: 41
+  name: 甲標的
+  type: [2, 4, 22, 5]
+  rare: 1
+  broken: [0, 7, 7, 0]
+  info: 独自開発された「特殊潜航艇」です。<br>軽巡洋艦や甲標的母艦に改装した水上機母艦、そして潜水艦が搭載して運用します。<br>二発の魚雷を装備し、敵艦に肉薄して雷撃、艦隊決戦を補助する特殊兵器です。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 12
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 甲标的 甲
+---

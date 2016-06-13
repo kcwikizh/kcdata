@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 60
+  sort_no: 60
+  name: 零式艦戦62型(爆戦)
+  type: [3, 5, 7, 7]
+  rare: 2
+  broken: [1, 3, 0, 3]
+  info: 零式艦上戦闘機を艦上爆撃機仕様にした、通称「爆戦」です。<br>52型の胴体下に250kg爆弾懸吊架を増設しました。戦闘爆撃機型の機体で、爆撃後は制空戦闘機として空戦に参加できるマルチロールファイター。あの攻撃方法は採用しないで通常攻撃です！
+  usebull: 0
+  cost: 5
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 4
+    tyku: 4
+    tais: 3
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 零式舰战62型(爆战)
+---

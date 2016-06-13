@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 5
+  sort_no: 5
+  name: 15.5cm三連装砲
+  type: [1, 1, 2, 2]
+  rare: 0
+  broken: [0, 2, 5, 0]
+  info: 条約下で保有数に制限のあった重巡を、火力を増強した強力な軽巡で補うために開発されました。<br>初の三連装砲でしたが、射程・発射速度・運用性全てに高い評価を得ることになりました。<br>後に有名な「大和」型戦艦の副砲としても採用されています。<br>対空戦にも効果を発揮する傑作砲です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 7
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 4
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  remodel_slot_id:
+  chinese_name: 15.5cm三连装炮
+---

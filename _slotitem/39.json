@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 39
+  sort_no: 39
+  name: 25mm連装機銃
+  type: [4, 6, 21, 15]
+  rare: 0
+  broken: [0, 2, 1, 0]
+  info: 標準的な対空機銃兵装です。<br>フランス製の25mm機関砲をベースに国産化した、25mm高角機銃の連装型です。<br>連装型は標準に対空装備でしたが、スペースや状況が許す限り、より強力な三連装型に更新されていきました。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 5
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id: 40
+  chinese_name: 25mm连装机铳
+---

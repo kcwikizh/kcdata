@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 96
+  sort_no: 96
+  name: 零式艦戦21型(熟練)
+  type: [3, 5, 6, 6]
+  rare: 3
+  broken: [1, 1, 0, 2]
+  info: 熟練搭乗員で構成された「零式艦上戦闘機」装備の艦戦隊です。7.7mm機銃2門と自慢の20mm機銃2門、優れた格闘戦能力と長大な航続距離。搭乗員達の高い技量もあって、初期段階では圧倒的な力を誇りました。艦隊の上空直援や攻撃隊の護衛で活躍します。
+  usebull: 0
+  cost: 4
+  distance: 7
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 8
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 零式舰战21型(熟练)
+---

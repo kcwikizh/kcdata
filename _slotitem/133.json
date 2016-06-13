@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 133
+  sort_no: 133
+  name: 381mm/50 三連装砲
+  type: [1, 1, 3, 3]
+  rare: 4
+  broken: [0, 16, 21, 0]
+  info: パスタの国が生んだ三連装型の戦艦主砲です。<br>高射速の50口径、中近距離戦闘での火力は同クラス最強です。また、射程も大和型46cm砲と同等以上のカタログスペックを誇ります。ただし、砲の耐久性に難点があります。また散布界が広く、その命中率にも課題を残していました。
+  usebull: 0
+  cost: 9
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 20
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 0
+    atap: 0
+    houm: -3
+    raim: 0
+    houk: -1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 4
+  remodel_slot_id: 137
+  chinese_name: 381mm/50 三连装炮
+---

@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 127
+  sort_no: 127
+  name: 試製FaT仕様九五式酸素魚雷改
+  type: [2, 3, 32, 5]
+  rare: 5
+  broken: [2, 2, 1, 1]
+  info: かの国で開発されていた、ジャイロ機構によって自動変針と直線航行を繰り返し行い、面で敵艦を攻撃する「FaT航走パターン」仕様を実装した試製潜水艦搭載用酸素魚雷です。Uボートによってもたらされた技術を応用した、平面を制圧する航路を疾走する特殊な試作魚雷です。
+  usebull: 0
+  cost: 9
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 14
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 7
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  remodel_slot_id:
+  chinese_name: 试制FaT仕样九五式酸素鱼雷改
+---

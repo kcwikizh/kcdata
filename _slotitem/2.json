@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 2
+  sort_no: 2
+  name: 12.7cm連装砲
+  type: [1, 1, 1, 1]
+  rare: 0
+  broken: [0, 1, 2, 0]
+  info: 艦隊型駆逐艦の主砲です。<br>防盾で全周を遮蔽、弾片や荒天対策を施しており、また動力操砲も採用した近代的な小型艦の主砲で、多くの主力駆逐艦に採用されました。<br>あまり仰角はとれず、対空射撃は少し苦手です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  remodel_slot_id: 63
+  chinese_name: 12.7cm连装炮
+---
