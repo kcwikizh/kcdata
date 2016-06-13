@@ -1,0 +1,6 @@
+---
+---
+[
+  {% for slotitem in site.slotitem %}{{ slotitem.data | jsonify }}{% unless forloop.last %},
+  {% endunless %}{% endfor %}
+]

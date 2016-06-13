@@ -3,3 +3,5 @@ collections:
     output: true
   ship:
     output: true
+  slotitem:
+    output: true
