@@ -2,21 +2,34 @@
 layout: json
 data:
   id: 119
-  wikiId: "A20"
+  category: 1
   type: 1
-  period: 1
-  title: "「三川艦隊」を編成せよ！"
-  detail: "「鳥海」「青葉」「加古」「古鷹」「天龍」を含む高速艦隊を編成せよ！"
-  resources: [400, 0, 200, 0]
-  prerequisites: [113]
-  bonuses:
+  title: 「三川艦隊」を編成せよ！
+  detail: 「鳥海」「青葉」「加古」「古鷹」「天龍」を含む高速艦隊を編成せよ！
+  reward: [400,0,200,0]
+  reward2:
     -
-      type: 1
-      item: 1
-      count: 3
-  locales:
-    zh:
-      title: "「三川舰队」编成！"
-      detail: "编成包含「鸟海」「青叶」「加古」「古鹰」「天龙」在内的高速舰队！"
-      remark: "配置任务要求的舰娘\n再配置任意高速舰"
+      category: useitem
+      id: 1
+      amount: 3
+  prerequisite: [113]
+  requirements:
+    -
+      category: fleet
+      ship_id: [69, 272, 427]
+    -
+      category: fleet
+      ship_id: [61, 264]
+    -
+      category: fleet
+      ship_id: [60, 263, 417]
+    -
+      category: fleet
+      ship_id: [59, 262, 416]
+    -
+      category: fleet
+      ship_id: [51, 213]
+  wiki_id: A20
+  chinese_title: 「三川舰队」编成！
+  chinese_detail: 编成包含「鸟海」「青叶」「加古」「古鹰」「天龙」在内的高速舰队
 ---

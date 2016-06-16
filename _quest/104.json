@@ -2,21 +2,21 @@
 layout: json
 data:
   id: 104
-  wikiId: "A4"
+  category: 1
   type: 1
-  period: 1
-  title: "６隻編成の艦隊を編成せよ！"
-  detail: "全6隻で構成される主力艦隊を編成せよ！"
-  resources: [50, 0, 50, 0]
-  prerequisites: [103]
-  bonuses:
+  title: ６隻編成の艦隊を編成せよ！
+  detail: 全6隻で構成される主力艦隊を編成せよ！
+  reward: [50,0,50,0]
+  reward2:
     -
-      type: 5
-      item: "第2舰队开启"
-      count: 1
-  locales:
-    zh:
-      title: "编成6艘规模的舰队！"
-      detail: "编成全部6艘规模的主力舰队！"
-      remark: ""
+      category: other
+      item: 第2舰队开启
+  prerequisite: [103]
+  requirements:
+    -
+      category: fleet
+      amount: 6
+  wiki_id: A4
+  chinese_title: 编成6艘规模的舰队！
+  chinese_detail: 编成全部6艘规模的主力舰队
 ---

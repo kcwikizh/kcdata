@@ -2,21 +2,23 @@
 layout: json
 data:
   id: 105
-  wikiId: "A5"
+  category: 1
   type: 1
-  period: 1
-  title: "軽巡２隻を擁する隊を編成せよ！"
-  detail: "軽巡洋艦２隻を擁する高速艦隊を編成せよ！"
-  resources: [60, 60, 0, 0]
-  prerequisites: []
-  bonuses:
+  title: 軽巡２隻を擁する隊を編成せよ！
+  detail: 軽巡洋艦２隻を擁する高速艦隊を編成せよ！
+  reward: [60,60,0,0]
+  reward2:
     -
-      type: 1
-      item: 3
-      count: 1
-  locales:
-    zh:
-      title: "编成拥有2艘轻巡的舰队！"
-      detail: "编成拥有2艘轻巡洋舰的高速舰队！"
-      remark: ""
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: 
+  requirements:
+    -
+      category: fleet
+      amount: 2
+      ship_type: 3
+  wiki_id: A5
+  chinese_title: 编成拥有2艘轻巡的舰队！
+  chinese_detail: 编成拥有2艘轻巡洋舰的高速舰队
 ---

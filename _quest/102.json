@@ -2,21 +2,23 @@
 layout: json
 data:
   id: 102
-  wikiId: "A2"
+  category: 1
   type: 1
-  period: 1
-  title: "「駆逐隊」を編成せよ！"
-  detail: "駆逐艦４隻以上で構成される「駆逐隊」を編成せよ！"
-  resources: [30, 30, 30, 0]
-  prerequisites: []
-  bonuses:
+  title: 「駆逐隊」を編成せよ！
+  detail: 駆逐艦４隻以上で構成される「駆逐隊」を編成せよ！
+  reward: [30,30,30,0]
+  reward2:
     -
-      type: 1
-      item: 2
-      count: 1
-  locales:
-    zh:
-      title: "「驱逐队」编成！"
-      detail: "以驱逐舰四艘编成「驱逐队」！"
-      remark: ""
+      category: useitem
+      id: 2
+      amount: 1
+  prerequisite: 
+  requirements:
+    -
+      category: fleet
+      amount: 4
+      ship_type: 2
+  wiki_id: A2
+  chinese_title: 「驱逐队」编成！
+  chinese_detail: 以驱逐舰四艘编成「驱逐队」！
 ---

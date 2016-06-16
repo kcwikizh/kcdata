@@ -2,21 +2,26 @@
 layout: json
 data:
   id: 107
-  wikiId: "A12"
+  category: 1
   type: 1
-  period: 1
-  title: "「空母機動部隊」を編成せよ！"
-  detail: "空母1隻以上を旗艦とし、その護衛艦艇と共に、空母機動部隊を編成せよ！"
-  resources: [50, 0, 0, 100]
-  prerequisites: []
-  bonuses:
+  title: 「空母機動部隊」を編成せよ！
+  detail: 空母1隻以上を旗艦とし、その護衛艦艇と共に、空母機動部隊を編成せよ！
+  reward: [50,0,0,100]
+  reward2:
     -
-      type: 1
-      item: 3
-      count: 1
-  locales:
-    zh:
-      title: "空母机动部队编成！"
-      detail: "配备1艘以上空母，并且作为旗舰，与护卫舰艇一起，编成空母机动部队！"
-      remark: "配置正规空母或轻空母\n水上机母舰不可\n外加配置驱逐舰*3"
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: 
+  requirements:
+    -
+      category: fleet
+      amount: 3
+      ship_type: 2
+    -
+      category: flagship
+      ship_type: [7, 11, 18]
+  wiki_id: A12
+  chinese_title: 空母机动部队编成！
+  chinese_detail: 配备1艘以上空母，并且作为旗舰，与护卫舰艇一起，编成空母机动部队！
 ---
