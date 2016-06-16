@@ -20,16 +20,16 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: [83, 277]
+      ship_id: 83
     -
       category: fleet
-      ship_id: [84, 278]
+      ship_id: 84
     -
       category: fleet
-      ship_id: [91, 196, 280]
+      ship_id: 91
     -
       category: fleet
-      ship_id: [90, 197, 279]
+      ship_id: 90
     -
       category: fleet
       disallowed: true

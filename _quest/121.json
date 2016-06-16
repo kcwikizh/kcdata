@@ -2,25 +2,35 @@
 layout: json
 data:
   id: 121
-  wikiId: "A21"
+  category: 1
   type: 1
-  period: 1
-  title: "「第四戦隊」を編成せよ！"
-  detail: "「愛宕」「高雄」「鳥海」「摩耶」を基幹とした第四戦隊を編成せよ！"
-  resources: [300, 150, 0, 0]
-  prerequisites: [119]
-  bonuses:
+  title: 「第四戦隊」を編成せよ！
+  detail: 「愛宕」「高雄」「鳥海」「摩耶」を基幹とした第四戦隊を編成せよ！
+  reward: [300,150,0,0]
+  reward2:
     -
-      type: 1
-      item: 1
-      count: 2
+      category: useitem
+      id: 1
+      amount: 2
     -
-      type: 1
-      item: 3
-      count: 1
-  locales:
-    zh:
-      title: "「第四战队」编成！"
-      detail: "以「爱宕」「高雄」「鸟海」「摩耶」为基干编成第四战队！"
-      remark: ""
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [119]
+  requirements:
+    -
+      category: fleet
+      ship_id: 67
+    -
+      category: fleet
+      ship_id: 66
+    -
+      category: fleet
+      ship_id: 69
+    -
+      category: fleet
+      ship_id: 68
+  wiki_id: A21
+  chinese_title: 「第四战队」编成！
+  chinese_detail: 以「爱宕」「高雄」「鸟海」「摩耶」为基干编成第四战队！
 ---

@@ -20,16 +20,16 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: [62, 265, 319]
+      ship_id: 62
     -
       category: fleet
-      ship_id: [63, 192, 266]
+      ship_id: 63
     -
       category: fleet
-      ship_id: [64, 193, 267]
+      ship_id: 64
     -
       category: fleet
-      ship_id: [65, 194, 268]
+      ship_id: 65
   wiki_id: A15
   chinese_title: 「妙高」型重巡姐妹全部4舰编成！
   chinese_detail: 将妙高型重巡洋舰「妙高」「那智」「足柄」「羽黑」配属在同一舰队！

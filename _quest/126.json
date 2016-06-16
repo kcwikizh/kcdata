@@ -2,21 +2,27 @@
 layout: json
 data:
   id: 126
-  wikiId: "A26"
+  category: 1
   type: 1
-  period: 1
-  title: "航空水上打撃艦隊を編成せよ！"
-  detail: "航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊を編成せよ！"
-  resources: [0, 0, 200, 200]
-  prerequisites: [122]
-  bonuses:
+  title: 航空水上打撃艦隊を編成せよ！
+  detail: 航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊を編成せよ！
+  reward: [0,0,200,200]
+  reward2:
     -
-      type: 1
-      item: 1
-      count: 2
-  locales:
-    zh:
-      title: "航空水上打击舰队编成！"
-      detail: "以航空战舰2艘和航空巡洋舰2艘为基干编成舰队！"
-      remark: ""
+      category: useitem
+      id: 1
+      amount: 2
+  prerequisite: [122]
+  requirements:
+    -
+      category: fleet
+      amount: 2
+      ship_type: 10
+    -
+      category: fleet
+      amount: 2
+      ship_type: 6
+  wiki_id: A26
+  chinese_title: 航空水上打击舰队编成！
+  chinese_detail: 以航空战舰2艘和航空巡洋舰2艘为基干编成舰队！
 ---

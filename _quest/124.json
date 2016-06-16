@@ -2,21 +2,37 @@
 layout: json
 data:
   id: 124
-  wikiId: "A24"
+  category: 1
   type: 1
-  period: 1
-  title: "新「三川艦隊」を編成せよ！"
-  detail: "「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！"
-  resources: [300, 0, 300, 0]
-  prerequisites: [121]
-  bonuses:
+  title: 新「三川艦隊」を編成せよ！
+  detail: 「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！
+  reward: [300,0,300,0]
+  reward2:
     -
-      type: 1
-      item: 54
-      count: 1
-  locales:
-    zh:
-      title: "新「三川舰队」编成！"
-      detail: "以「鸟海」「青叶」「衣笠」「加古」「古鹰」「天龙」编成三川舰队！"
-      remark: ""
+      category: useitem
+      id: 54
+      amount: 1
+  prerequisite: [121]
+  requirements:
+    -
+      category: fleet
+      ship_id: 69
+    -
+      category: fleet
+      ship_id: 61
+    -
+      category: fleet
+      ship_id: 123
+    -
+      category: fleet
+      ship_id: 60
+    -
+      category: fleet
+      ship_id: 59
+    -
+      category: fleet
+      ship_id: 51
+  wiki_id: A24
+  chinese_title: 新「三川舰队」编成！
+  chinese_detail: 以「鸟海」「青叶」「衣笠」「加古」「古鹰」「天龙」编成三川舰队！
 ---

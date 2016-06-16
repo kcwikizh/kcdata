@@ -2,21 +2,23 @@
 layout: json
 data:
   id: 125
-  wikiId: "A25"
+  category: 1
   type: 1
-  period: 1
-  title: "潜水艦隊を編成せよ！"
-  detail: "伊号潜水艦2隻からなる潜水艦隊を編成せよ！"
-  resources: [150, 150, 0, 0]
-  prerequisites: [121]
-  bonuses:
+  title: 潜水艦隊を編成せよ！
+  detail: 伊号潜水艦2隻からなる潜水艦隊を編成せよ！
+  reward: [150,150,0,0]
+  reward2:
     -
-      type: 1
-      item: 50
-      count: 1
-  locales:
-    zh:
-      title: "潜水舰队编成！"
-      detail: "以2艘伊号潜水艇编成潜水舰队！"
-      remark: "潜水艇，潜水空母均可"
+      category: useitem
+      id: 50
+      amount: 1
+  prerequisite: [121]
+  requirements:
+    -
+      category: fleet
+      ship_type: [13, 14]
+      amount: 2
+  wiki_id: A25
+  chinese_title: 潜水舰队编成！
+  chinese_detail: 以2艘伊号潜水艇编成潜水舰队！
 ---

@@ -15,16 +15,16 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: [78, 149, 209]
+      ship_id: 78
     -
       category: fleet
-      ship_id: [86, 150, 210]
+      ship_id: 86
     -
       category: fleet
-      ship_id: [79, 151, 211]
+      ship_id: 79
     -
       category: fleet
-      ship_id: [85, 152, 212]
+      ship_id: 85
   wiki_id: A16
   chinese_title: 使用「金刚」型编成高速战舰部队！
   chinese_detail: 将金刚型战舰「金刚」「比叡」「榛名」「雾岛」全部4艘集中配备！

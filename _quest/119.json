@@ -16,19 +16,19 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: [69, 272, 427]
+      ship_id: 69
     -
       category: fleet
-      ship_id: [61, 264]
+      ship_id: 61
     -
       category: fleet
-      ship_id: [60, 263, 417]
+      ship_id: 60
     -
       category: fleet
-      ship_id: [59, 262, 416]
+      ship_id: 59
     -
       category: fleet
-      ship_id: [51, 213]
+      ship_id: 51
   wiki_id: A20
   chinese_title: 「三川舰队」编成！
   chinese_detail: 编成包含「鸟海」「青叶」「加古」「古鹰」「天龙」在内的高速舰队

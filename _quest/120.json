@@ -16,16 +16,16 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: [34, 234, 437]
+      ship_id: 34
     -
       category: fleet
-      ship_id: [35, 147, 235]
+      ship_id: 35
     -
       category: fleet
-      ship_id: [36, 236]
+      ship_id: 36
     -
       category: fleet
-      ship_id: [37, 237]
+      ship_id: 37
   wiki_id: A10
   chinese_title: 「第六驱逐队」编成！
   chinese_detail: 以「晓」「响」「雷」「电」4艘编成第六驱逐队！

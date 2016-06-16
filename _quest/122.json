@@ -2,21 +2,31 @@
 layout: json
 data:
   id: 122
-  wikiId: "A22"
+  category: 1
   type: 1
-  period: 1
-  title: "「西村艦隊」を編成せよ！"
-  detail: "「扶桑」「山城」「最上」「時雨」を基幹とした西村艦隊を編成せよ！"
-  resources: [200, 200, 200, 0]
-  prerequisites: [121]
-  bonuses:
+  title: 「西村艦隊」を編成せよ！
+  detail: 「扶桑」「山城」「最上」「時雨」を基幹とした西村艦隊を編成せよ！
+  reward: [200,200,200,0]
+  reward2:
     -
-      type: 1
-      item: 54
-      count: 1
-  locales:
-    zh:
-      title: "「西村舰队」编成！"
-      detail: "以「扶桑」「山城」「最上」「时雨」为基干编成西村舰队！"
-      remark: ""
+      category: useitem
+      id: 54
+      amount: 1
+  prerequisite: [121]
+  requirements:
+    -
+      category: fleet
+      ship_id: 26
+    -
+      category: fleet
+      ship_id: 27
+    -
+      category: fleet
+      ship_id: 70
+    -
+      category: fleet
+      ship_id: 43
+  wiki_id: A22
+  chinese_title: 「西村舰队」编成！
+  chinese_detail: 以「扶桑」「山城」「最上」「时雨」为基干编成西村舰队！
 ---

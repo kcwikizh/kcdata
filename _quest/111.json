@@ -20,10 +20,10 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: [26, 286, 411]
+      ship_id: 26
     -
       category: fleet
-      ship_id: [27, 287, 412]
+      ship_id: 27
   wiki_id: A17
   chinese_title: 「扶桑」型战舰姐妹全部2舰编成！
   chinese_detail: 将扶桑型战舰「扶桑」「山城」配属在同一舰队！！

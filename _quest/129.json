@@ -2,21 +2,31 @@
 layout: json
 data:
   id: 129
-  wikiId: "A29"
+  category: 1
   type: 1
-  period: 1
-  title: "「第五艦隊」を編成せよ！"
-  detail: "「那智」「足柄」「多摩」「木曾」を中核とした「第五艦隊」を編成せよ！"
-  resources: [200, 0, 300, 0]
-  prerequisites: [121]
-  bonuses:
+  title: 「第五艦隊」を編成せよ！
+  detail: 「那智」「足柄」「多摩」「木曾」を中核とした「第五艦隊」を編成せよ！
+  reward: [200,0,300,0]
+  reward2:
     -
-      type: 1
-      item: 1
-      count: 3
-  locales:
-    zh:
-      title: "「第五舰队」编成！"
-      detail: "以「那智」「足柄」「多摩」「木曾」为核心编成第五舰队！"
-      remark: ""
+      category: useitem
+      id: 1
+      amount: 3
+  prerequisite: [121]
+  requirements:
+    -
+      category: fleet
+      ship_id: 63
+    -
+      category: fleet
+      ship_id: 64
+    -
+      category: fleet
+      ship_id: 100
+    -
+      category: fleet
+      ship_id: 101
+  wiki_id: A29
+  chinese_title: 「第5舰队」编成！
+  chinese_detail: 以「那智」「足柄」「多摩」「木曾」为核心编成第五舰队！
 ---
