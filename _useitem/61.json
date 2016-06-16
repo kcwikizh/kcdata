@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 61
+  usetype: 4
+  category: 0
+  name: 甲種勲章
+  description:
+    - "難易度の高い作戦を、精鋭の艦娘たちと共に攻略した提督のみに贈られる勝利の証。それが、「甲種勲章」。資材等に交換することも可能です。"
+    - ""
+  price: 0
+  chinese_name: 甲种勋章
+  chinese_description: 只赠与与精锐的舰娘们共同攻略高难易度的作战的提督的胜利之证。这便是甲种勋章。可以与资材等物资交换。
+---

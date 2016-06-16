@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 58
+  usetype: 0
+  category: 0
+  name: 改装設計図
+  description:
+    - "艦娘の「特別な改造」に使用する設計図。"
+    - ""
+  price: 0
+  chinese_name: 改装设计图
+  chinese_description: 对舰娘进行「特别的改造」时使用的设计图。
+---

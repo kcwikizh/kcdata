@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 59
+  usetype: 0
+  category: 0
+  name: 給糧艦「伊良湖」
+  description:
+    - "艦娘たちの士気を高揚させる新型給糧艦。編成で使用可能。"
+    - ""
+  price: 0
+  chinese_name: 给粮舰「伊良湖」
+  chinese_description: 能够让舰娘们士气高扬的新型给粮舰。可在编成画面使用。
+---

@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 52
+  usetype: 0
+  category: 0
+  name: 特注家具職人
+  description:
+    - "特注家具を製作する職人さん。家具屋さんで使用する。"
+    - ""
+  price: 0
+  chinese_name: 特制家具职人
+  chinese_description: 制作特定的家具所需要的职人。在家具店使用。
+---

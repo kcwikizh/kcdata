@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 72
+  usetype: 4
+  category: 0
+  name: お飾り材料
+  description:
+    - "ある給糧艦が、新年の艦隊艦娘と提督の安全を祈って準備するお飾りの材料。３２個消費して艦隊安全お飾りを制作可能。"
+    - ""
+  price: 0
+  chinese_name: 装饰材料
+  chinese_description:
+---

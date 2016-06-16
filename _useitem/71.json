@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 71
+  usetype: 0
+  category: 0
+  name: ネ式エンジン
+  description:
+    - "新開発の燃焼噴射推進器です。日本初の実用ジェットエンジンとして戦力化が期待されます。(※後日改装任務で使用可能)"
+    - ""
+  price: 0
+  chinese_name: ネ(Ne)式引擎
+  chinese_description: 这是新开发的燃烧喷射推进器。作为日本第一个喷气式引擎，它的战力可以期待。(※在以后的改装任务中可以获得）
+---

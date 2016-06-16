@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 55
+  usetype: 0
+  category: 0
+  name: 書類一式＆指輪
+  description:
+    - "ケッコンカッコカリに必要な書類一式と指輪。改装で使用する。"
+    - ""
+  price: 0
+  chinese_name: 契约一份&戒指
+  chinese_description: 与舰娘结婚必要的证书和戒指。在改装界面使用。
+---

@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 50
+  usetype: 0
+  category: 0
+  name: 応急修理要員
+  description:
+    - "艦のスロットに装備する。装備した艦は1度だけ撃沈を回避できる。"
+    - ""
+  price: 0
+  chinese_name: 应急修理要员
+  chinese_description: 装备在舰娘的装备槽。装备的舰娘能够回避一次击沉。
+---

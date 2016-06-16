@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 44
+  usetype: 6
+  category: 21
+  name: 家具コイン
+  description:
+    - ""
+    - ""
+  price: 0
+  chinese_name: 家具币
+  chinese_description:
+---

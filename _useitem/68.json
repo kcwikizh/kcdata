@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 68
+  usetype: 4
+  category: 0
+  name: 秋刀魚
+  description:
+    - "漁場の安全を確保し、秋刀魚漁を支援することで入手した貴重な旬の「秋刀魚」です。※秋刀魚祭り終了時に消滅します。"
+    - ""
+  price: 0
+  chinese_name: 秋刀鱼
+  chinese_description: 通过确保渔场的安全来支援秋刀鱼捕捞，得到的贵重的时令“秋刀鱼”。※秋刀鱼祭结束后将消失
+---

@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 33
+  usetype: 6
+  category: 18
+  name: 鋼材
+  description:
+    - ""
+    - ""
+  price: 0
+  chinese_name: 钢材
+  chinese_description:
+---

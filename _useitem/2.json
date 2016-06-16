@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 2
+  usetype: 2
+  category: 2
+  name: 高速建造材
+  description:
+    - "建造時間を短縮できる。"
+    - ""
+  price: 0
+  chinese_name: 高速建造材
+  chinese_description: 可以缩短建造时间。
+---

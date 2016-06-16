@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 31
+  usetype: 6
+  category: 16
+  name: 燃料
+  description:
+    - ""
+    - ""
+  price: 0
+  chinese_name: 燃料
+  chinese_description:
+---

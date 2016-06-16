@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 65
+  usetype: 0
+  category: 0
+  name: 試製甲板カタパルト
+  description:
+    - "本格的な大型航空母艦を、より強力に改装するための、特殊な航空艤装です。ある型の正規空母の改二改装に使用します。"
+    - ""
+  price: 0
+  chinese_name: 试制甲板用弹射器
+  chinese_description: 为了更加强力的改装正规大型航空母舰的特殊航空舣装。某一型的正规空母改二改装道具。
+---

@@ -1,0 +1,13 @@
+---
+layout: json
+data:
+  id: 5
+  usetype: 4
+  category: 4
+  name: 
+  description:
+    - ""
+    - ""
+  price: 0
+  chinese_name:
+---

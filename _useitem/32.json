@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 32
+  usetype: 6
+  category: 17
+  name: 弾薬
+  description:
+    - ""
+    - ""
+  price: 0
+  chinese_name: 弹药
+  chinese_description:
+---

@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 54
+  usetype: 0
+  category: 0
+  name: 給糧艦「間宮」
+  description:
+    - "艦隊全体の疲労度を回復する給糧艦。編成で使用可能。"
+    - ""
+  price: 0
+  chinese_name: 给粮舰「间宫」
+  chinese_description: 能让舰队全体疲劳度回复的给粮舰。可在编成界面使用。
+---

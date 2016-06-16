@@ -5,3 +5,7 @@ collections:
     output: true
   slotitem:
     output: true
+  shiptype:
+    output: true
+  useitem:
+    output: true

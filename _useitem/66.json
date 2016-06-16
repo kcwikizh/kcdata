@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 66
+  usetype: 0
+  category: 0
+  name: 戦闘糧食
+  description:
+    - "腹が減ってはなんとやら……！この戦闘糧食を装備して、合戦前にしっかりと腹ごしらえを！(発動すると消滅します)"
+    - ""
+  price: 0
+  chinese_name: 战斗粮食
+  chinese_description: 肚子饿了怎么办呀……战斗前好好地填饱肚子准备吧。海上吃的饭团别有一番风味！(效果发动后道具消失)
+---

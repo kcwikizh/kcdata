@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 70
+  usetype: 0
+  category: 0
+  name: 熟練搭乗員
+  description:
+    - "精鋭の航空部隊を新規編成するために必要な、熟練した技術を持つ、航空機搭乗員です。　　(※部隊編成時に消滅します)"
+    - ""
+  price: 0
+  chinese_name: 熟练搭乘员
+  chinese_description: 编成新的精锐航空部队所必要的、技术熟练的航空机搭乘员。（部队编成时会消失）
+---

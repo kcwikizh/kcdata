@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 53
+  usetype: 0
+  category: 0
+  name: 母港拡張
+  description:
+    - "最大保有艦娘数＋10(最大290)。最大保有アイテム数＋40(最大1260)。"
+    - ""
+  price: 0
+  chinese_name: 母港扩张
+  chinese_description: 
+---

@@ -1,0 +1,6 @@
+---
+---
+[
+  {% for useitem in site.useitem %}{{ useitem.data | jsonify }}{% unless forloop.last %},
+  {% endunless %}{% endfor %}
+]

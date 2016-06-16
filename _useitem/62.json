@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 62
+  usetype: 4
+  category: 0
+  name: 菱餅
+  description:
+    - "桃の節句の時期だけ発見が可能となる美味しい「菱餅」です。展開時に希望の中味を選択することが可能です。"
+    - ""
+  price: 0
+  chinese_name: 菱饼
+  chinese_description: 女儿节时期才能发现的美味的菱饼。打开时可以选择所希望的口味。
+---

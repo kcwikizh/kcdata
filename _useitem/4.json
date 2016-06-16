@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 4
+  usetype: 3
+  category: 4
+  name: 改修資材
+  description:
+    - "装備を改修する為の資材、「改修工廠」で使用します。"
+    - ""
+  price: 0
+  chinese_name: 改修资材
+  chinese_description: 为了改修装备而准备的资材，在「改修工厂」使用。
+---

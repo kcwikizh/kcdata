@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 34
+  usetype: 6
+  category: 19
+  name: ボーキサイト
+  description:
+    - ""
+    - ""
+  price: 0
+  chinese_name: 铝土
+  chinese_description:
+---

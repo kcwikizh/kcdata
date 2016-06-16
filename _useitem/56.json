@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 56
+  usetype: 4
+  category: 0
+  name: 艦娘からのチョコ
+  description:
+    - "艦娘から贈られたチョコ。クリックして資源にするのもよし、保存しておくのもよし。"
+    - ""
+  price: 0
+  chinese_name: 从舰娘那里获得的巧克力
+  chinese_description: 从舰娘那里得到的巧克力。可以交换资源也可以保存。
+---

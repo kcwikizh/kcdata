@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 51
+  usetype: 0
+  category: 0
+  name: 応急修理女神
+  description:
+    - "応急修理要員がパワーアップ！撃沈回避時に出撃能力が全回復。"
+    - ""
+  price: 0
+  chinese_name: 应急修理女神
+  chinese_description: 应急修理要员升级！击沉回避的同时完全回复舰娘的出击能力。
+---

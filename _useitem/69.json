@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 69
+  usetype: 0
+  category: 0
+  name: 秋刀魚の缶詰
+  description:
+    - "旬の秋刀魚「蒲焼」缶詰です。単品はもちろん、おにぎり等と一緒に食すとより美味しい！(発動すると消滅します)"
+    - ""
+  price: 0
+  chinese_name: 秋刀鱼罐头
+  chinese_description: 用时令的秋刀鱼所做成的“蒲烧”罐头。单吃自然好吃，搭配饭团后更加美味！(效果发动后道具消失)
+---

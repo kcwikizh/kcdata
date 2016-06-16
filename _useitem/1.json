@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 1
+  usetype: 1
+  category: 1
+  name: 高速修復材
+  description:
+    - "入渠時間を短縮できる。"
+    - ""
+  price: 0
+  chinese_name: 高速修复材
+  chinese_description: 可以缩短入渠时间。
+---

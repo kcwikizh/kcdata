@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 60
+  usetype: 4
+  category: 0
+  name: プレゼント箱
+  description:
+    - "特別な時期だけ発見が可能となる丁寧に包装された「プレゼント箱」。開封時に希望の中味を選択することが可能です。"
+    - ""
+  price: 0
+  chinese_name: 礼物箱
+  chinese_description: 只有在特殊时期才能发现的细心包装好的礼物箱。在开封时可以选择所希望的口味。
+---

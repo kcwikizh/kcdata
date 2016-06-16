@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 67
+  usetype: 0
+  category: 0
+  name: 洋上補給
+  description:
+    - "戦闘航海中の洋上で燃料弾薬を艦隊補給することが可能です。艦隊決戦のサポートにどうぞ！（発動すると消滅します）"
+    - ""
+  price: 0
+  chinese_name: 洋上补给
+  chinese_description: 能够在战斗航海中在海上进行燃料弹药的补给。请在活用于长期舰队决战的补给。（效果发动后道具消失）
+---

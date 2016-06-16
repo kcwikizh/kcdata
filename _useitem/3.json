@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 3
+  usetype: 3
+  category: 3
+  name: 開発資材
+  description:
+    - "建造・開発を行うのに使用する資材。"
+    - ""
+  price: 0
+  chinese_name: 开发资材
+  chinese_description: 建造·开发所使用的资材。
+---

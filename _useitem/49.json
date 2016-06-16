@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 49
+  usetype: 0
+  category: 0
+  name: ドック開放キー
+  description:
+    - "入渠ドックまたは工廠ドックを１つ開放できるキー。さらに、艦隊編成記録枠を１つ拡張することも可能です。"
+    - ""
+  price: 0
+  chinese_name: 船坞开放匙
+  chinese_description: 能够增加一个修理槽或建造槽的钥匙。
+---

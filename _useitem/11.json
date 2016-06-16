@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 11
+  usetype: 4
+  category: 6
+  name: 家具箱（中）
+  description:
+    - "開けると、中から中量の家具コインが出現する。"
+    - "400"
+  price: 0
+  chinese_name: 家具箱（中）
+  chinese_description: 打开后，里面有中量家具币出现。
+---

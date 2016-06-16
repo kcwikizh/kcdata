@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 64
+  usetype: 0
+  category: 0
+  name: 補強増設
+  description:
+    - "艦娘(練度30以上必要)を補強増設改修できます。同改修により補強増設装備スロットが艦娘に増設されます。(1回分)"
+    - ""
+  price: 0
+  chinese_name: 补强增设
+  chinese_description: 舰娘(等级30以上)的补强增设改修道具(一次性道具)。
+---
