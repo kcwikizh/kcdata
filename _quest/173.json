@@ -1,0 +1,33 @@
+---
+layout: json
+data:
+  id: 173
+  category: 1
+  type: 1
+  title: 強行高速輸送部隊を編成せよ！
+  detail: 「川内改二」旗艦、「江風改二」「時雨改二」他駆逐2隻による水雷戦隊を編成せよ！
+  reward: [100,100,100,0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 2
+  prerequisite: [293]
+  requirements:
+    -
+      category: flagship
+      ship_id: 158
+    -
+      category: fleet
+      ship_id: 469
+    -
+      category: fleet
+      ship_id: 145
+    -
+      category: fleet
+      amount: 4
+      ship_type: 2
+  wiki_id: A68
+  chinese_title: 强行高速运输部队编成！
+  chinese_detail: 川内改二为旗舰、江风改二、时雨改二以及其他驱逐舰共同编成水雷战队！
+---

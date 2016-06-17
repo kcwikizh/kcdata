@@ -2,25 +2,41 @@
 layout: json
 data:
   id: 166
-  wikiId: "A61"
+  category: 1
   type: 1
-  period: 1
-  title: "「小沢艦隊」を編成せよ！"
-  detail: "「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！"
-  resources: [300, 0, 0, 300]
-  prerequisites: [165, 266]
-  bonuses:
+  title: 「小沢艦隊」を編成せよ！
+  detail: 「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！
+  reward: [300,0,0,300]
+  reward2:
     -
-      type: 1
-      item: 3
-      count: 2
+      category: useitem
+      id: 3
+      amount: 2
     -
-      type: 1
-      item: 50
-      count: 1
-  locales:
-    zh:
-      title: "「小沢舰队」编成！"
-      detail: "以瑞鹤改为旗舰、航母瑞凤改、千岁、千代田以及伊势改、日向改编成舰队！"
-      remark: "千岁、千代田在改造成轻型航母之前不能达成任务"
+      category: useitem
+      id: 50
+      amount: 1
+  prerequisite: [266,165]
+  requirements:
+    -
+      category: flagship
+      ship_id: 112
+    -
+      category: fleet
+      ship_id: 117
+    -
+      category: fleet
+      ship_id: 108
+    -
+      category: fleet
+      ship_id: 109
+    -
+      category: fleet
+      ship_id: 82
+    -
+      category: fleet
+      ship_id: 88
+  wiki_id: A61
+  chinese_title: “小沢舰队”编成！
+  chinese_detail: 以瑞鹤改为旗舰、航母瑞凤改、千岁、千代田以及伊势改、日向改编成舰队!
 ---

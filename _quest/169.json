@@ -1,0 +1,36 @@
+---
+layout: json
+data:
+  id: 169
+  category: 1
+  type: 1
+  title: 「新編成航空戦隊」を編成せよ！
+  detail: 空母2隻+航空戦艦/航空巡洋艦2隻+駆逐艦2隻の新航空戦隊を編成せよ！
+  reward: [0,200,0,200]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+    -
+      category: useitem
+      id: 4
+      amount: 2
+  prerequisite: [287,295]
+  requirements:
+    -
+      category: fleet
+      amount: 2
+      ship_type: [7, 11, 18]
+    -
+      category: fleet
+      amount: 2
+      ship_type: [6, 10]
+    -
+      category: fleet
+      amount: 2
+      ship_type: 2
+  wiki_id: A64
+  chinese_title: “新编航空战队”编成！
+  chinese_detail: 航空母舰两艘+（航空战舰or航空巡洋舰）两艘+驱逐舰两艘组成新编航空战队！
+---

@@ -1,0 +1,33 @@
+---
+layout: json
+data:
+  id: 168
+  category: 1
+  type: 1
+  title: 「第十六戦隊(第二次)」を編成せよ！
+  detail: 「名取」を旗艦として「五十鈴」「鬼怒」を擁する、第十六戦隊(第二次)を編成せよ！
+  reward: [160,160,160,0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 2
+    -
+      category: useitem
+      id: 3
+      amount: 2
+  prerequisite: [289,307]
+  requirements:
+    -
+      category: flagship
+      ship_id: 53
+    -
+      category: fleet
+      ship_id: 22
+    -
+      category: fleet
+      ship_id: 113
+  wiki_id: A63
+  chinese_title: 第十六战队（第二次）编成！
+  chinese_detail: 以名取为旗舰，包括五十铃、鬼怒的第十六战队（第二次）编成！
+---

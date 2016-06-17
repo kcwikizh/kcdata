@@ -1,0 +1,39 @@
+---
+layout: json
+data:
+  id: 172
+  category: 1
+  type: 1
+  title: 「第二七駆逐隊」を編成せよ！
+  detail: 「白露改」旗艦、「時雨」「春雨」「五月雨」4隻による第二七駆逐隊を編成せよ！
+  reward: [0,270,270,0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 2
+    -
+      category: useitem
+      id: 3
+      amount: 2
+  prerequisite: [120,216]
+  requirements:
+    -
+      category: flagship
+      ship_id: 242
+    -
+      category: fleet
+      ship_id: 43
+    -
+      category: fleet
+      ship_id: 405
+    -
+      category: fleet
+      ship_id: 46
+    -
+      category: fleet
+      disallowed: true
+  wiki_id: A67
+  chinese_title: 第二十七驱逐队编成！
+  chinese_detail: 以白露改为旗舰，包含时雨、春雨、五月雨的第二十七驱逐队队编成！
+---

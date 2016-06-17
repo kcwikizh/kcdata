@@ -2,25 +2,35 @@
 layout: json
 data:
   id: 164
-  wikiId: "A59"
+  category: 1
   type: 1
-  period: 1
-  title: "「第三航空戦隊」を編成せよ！"
-  detail: "「瑞鶴改」を旗艦とし、「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！"
-  resources: [200, 200, 0, 200]
-  prerequisites: [264, 624]
-  bonuses:
+  title: 「第三航空戦隊」を編成せよ！
+  detail: 「瑞鶴改」を旗艦とし、「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！
+  reward: [200,200,0,200]
+  reward2:
     -
-      type: 1
-      item: 3
-      count: 2
+      category: useitem
+      id: 3
+      amount: 2
     -
-      type: 1
-      item: 70
-      count: 1
-  locales:
-    zh:
-      title: "「第三航空战队」编成！"
-      detail: "以瑞鹤改为旗舰，瑞凤、千岁、千代田四只航母组成编队！"
-      remark: "千岁、千代田在改造成轻型航母之前不能达成任务"
+      category: useitem
+      id: 70
+      amount: 1
+  prerequisite: [264,624]
+  requirements:
+    -
+      category: flagship
+      ship_id: 112
+    -
+      category: fleet
+      ship_id: 116
+    -
+      category: fleet
+      ship_id: 108
+    -
+      category: fleet
+      ship_id: 109
+  wiki_id: A59
+  chinese_title: “第三航空战队”编成！
+  chinese_detail: 以瑞鹤改为旗舰，瑞凤、千岁、千代田四只航母组成编队!
 ---
