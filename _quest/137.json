@@ -2,21 +2,28 @@
 layout: json
 data:
   id: 137
-  wikiId: "A35"
+  category: 1
   type: 1
-  period: 1
-  title: "「第五戦隊」を編成せよ！"
-  detail: "「妙高」「那智」「羽黒」を基幹とした第五戦隊を編成せよ！"
-  resources: [0, 0, 300, 0]
-  prerequisites: [248]
-  bonuses:
+  title: 「第五戦隊」を編成せよ！
+  detail: 「妙高」「那智」「羽黒」を基幹とした第五戦隊を編成せよ！
+  reward: [0,0,300,0]
+  reward2:
     -
-      type: 1
-      item: 3
-      count: 5
-  locales:
-    zh:
-      title: "「第五战队」编成！"
-      detail: "以「妙高」「那智」「羽黑」为基干编成第五战队！"
-      remark: ""
+      category: useitem
+      id: 3
+      amount: 5
+  prerequisite: [248]
+  requirements:
+    -
+      category: fleet
+      ship_id: 62
+    -
+      category: fleet
+      ship_id: 63
+    -
+      category: fleet
+      ship_id: 65
+  wiki_id: A35
+  chinese_title: 「第五战队」编成！
+  chinese_detail: 以「妙高」「那智」「羽黑」为基干编成第五战队！
 ---

@@ -2,21 +2,31 @@
 layout: json
 data:
   id: 142
-  wikiId: "A40"
+  category: 1
   type: 1
-  period: 1
-  title: "精鋭「第三戦隊」全艦集結せよ！"
-  detail: "第二次改装を完了した改装金剛型高速戦艦4隻を集結させよ！"
-  resources: [0, 100, 0, 0]
-  prerequisites: [246]
-  bonuses:
+  title: 精鋭「第三戦隊」全艦集結せよ！
+  detail: 第二次改装を完了した改装金剛型高速戦艦4隻を集結させよ！
+  reward: [0,100,0,0]
+  reward2:
     -
-      type: 3
-      item: 103
-      count: 1
-  locales:
-    zh:
-      title: "精锐「第三战队」全舰集结！"
-      detail: "集结4艘第二次改装完成的金刚型高速战舰！"
-      remark: "要求：金刚改二，比睿改二，榛名改二，雾岛改二"
+      category: slotitem
+      id: 103
+      amount: 1
+  prerequisite: [246]
+  requirements:
+    -
+      category: fleet
+      ship_id: 149
+    -
+      category: fleet
+      ship_id: 150
+    -
+      category: fleet
+      ship_id: 151
+    -
+      category: fleet
+      ship_id: 152
+  wiki_id: A40
+  chinese_title: 精锐「第三战队」全舰集结！
+  chinese_detail: 集结4艘第二次改装完成的金刚型高速战舰！
 ---

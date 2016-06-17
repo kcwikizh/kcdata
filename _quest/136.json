@@ -2,21 +2,34 @@
 layout: json
 data:
   id: 136
-  wikiId: "A34"
+  category: 1
   type: 1
-  period: 1
-  title: "「第三十駆逐隊(第二次)」を編成せよ！"
-  detail: "「睦月」「弥生」「卯月」「望月」4隻による第三十駆逐隊(第二次)を編成せよ！"
-  resources: [220, 220, 0, 0]
-  prerequisites: [133]
-  bonuses:
+  title: 「第三十駆逐隊(第二次)」を編成せよ！
+  detail: 「睦月」「弥生」「卯月」「望月」4隻による第三十駆逐隊(第二次)を編成せよ！
+  reward: [220,220,0,0]
+  reward2:
     -
-      type: 1
-      item: 3
-      count: 3
-  locales:
-    zh:
-      title: "「第三十驱逐队(第二次)」编成！"
-      detail: "以「睦月」「卯月」「弥生」「望月」4艘编成第三十驱逐队（第二次）！"
-      remark: "只配置任务要求的舰娘"
+      category: useitem
+      id: 3
+      amount: 3
+  prerequisite: [133]
+  requirements:
+    -
+      category: fleet
+      ship_id: 1
+    -
+      category: fleet
+      ship_id: 164
+    -
+      category: fleet
+      ship_id: 165
+    -
+      category: fleet
+      ship_id: 31
+    -
+      category: fleet
+      disallowed: true
+  wiki_id: A34
+  chinese_title: 「第三十驱逐队(第二次)」编成！
+  chinese_detail: 以「睦月」「弥生」「卯月」「望月」4艘编成第三十驱逐队（第二次）！
 ---

@@ -2,21 +2,22 @@
 layout: json
 data:
   id: 143
-  wikiId: "A41"
+  category: 1
   type: 1
-  period: 1
-  title: "「新型正規空母」を配備せよ！"
-  detail: "雲龍型航空母艦一番艦「雲龍」を第一艦隊機旗艦に配備せよ！"
-  resources: [100, 100, 100, 300]
-  prerequisites: [123]
-  bonuses:
+  title: 「新型正規空母」を配備せよ！
+  detail: 雲龍型航空母艦一番艦「雲龍」を第一艦隊機旗艦に配備せよ！
+  reward: [100,100,100,300]
+  reward2:
     -
-      type: 1
-      item: 3
-      count: 2
-  locales:
-    zh:
-      title: "「新型正规空母」配备！"
-      detail: "在第一舰队旗舰配备云龙型航空母舰一号舰「云龙」！"
-      remark: ""
+      category: useitem
+      id: 3
+      amount: 2
+  prerequisite: [123]
+  requirements:
+    -
+      category: flagship
+      ship_id: 404
+  wiki_id: A41
+  chinese_title: 「新型正规空母」配备！
+  chinese_detail: 在第一舰队旗舰配备云龙型航空母舰一号舰「云龙」！
 ---

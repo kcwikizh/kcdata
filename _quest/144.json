@@ -2,21 +2,31 @@
 layout: json
 data:
   id: 144
-  wikiId: "A42"
+  category: 1
   type: 1
-  period: 1
-  title: "主力戦艦部隊「第二戦隊」を編成せよ！"
-  detail: "長門型2隻及び扶桑型2隻の計4隻の主力戦艦からなる第二戦隊を編成せよ！"
-  resources: [0, 250, 250, 0]
-  prerequisites: [132]
-  bonuses:
+  title: 主力戦艦部隊「第二戦隊」を編成せよ！
+  detail: 長門型2隻及び扶桑型2隻の計4隻の主力戦艦からなる第二戦隊を編成せよ！
+  reward: [0,250,250,0]
+  reward2:
     -
-      type: 1
-      item: 1
-      count: 2
-  locales:
-    zh:
-      title: "主力战舰部队「第二战队」编成！"
-      detail: "以长门型2艘和扶桑型2艘总计4艘主力战舰编成第二战队！"
-      remark: ""
+      category: useitem
+      id: 1
+      amount: 2
+  prerequisite: [132]
+  requirements:
+    -
+      category: fleet
+      ship_id: 80
+    -
+      category: fleet
+      ship_id: 81
+    -
+      category: fleet
+      ship_id: 26
+    -
+      category: fleet
+      ship_id: 27
+  wiki_id: A42
+  chinese_title: 主力战舰部队「第二战队」编成！
+  chinese_detail: 以长门型2艘和扶桑型2艘总计4艘主力战舰编成第二战队！
 ---

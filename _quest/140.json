@@ -2,21 +2,22 @@
 layout: json
 data:
   id: 140
-  wikiId: "A38"
+  category: 1
   type: 1
-  period: 1
-  title: "新型電探を配備せよ！"
-  detail: "新型電探運用試験のため、第一艦隊の旗艦に「妙高改二」を配備せよ！"
-  resources: [300, 0, 0, 300]
-  prerequisites: [137]
-  bonuses:
+  title: 新型電探を配備せよ！
+  detail: 新型電探運用試験のため、第一艦隊の旗艦に「妙高改二」を配備せよ！
+  reward: [300,0,0,300]
+  reward2:
     -
-      type: 3
-      item: 88
-      count: 1
-  locales:
-    zh:
-      title: "配备新型雷达！"
-      detail: "为了新型电探的运用试验，在第一舰队旗舰配置「妙高改二」！"
-      remark: ""
+      category: slotitem
+      id: 88
+      amount: 1
+  prerequisite: [137]
+  requirements:
+    -
+      category: flagship
+      ship_id: 319
+  wiki_id: A38
+  chinese_title: 配备新型雷达
+  chinese_detail: 为了新型电探的运用试验，在第一舰队旗舰配置「妙高改二」！
 ---
