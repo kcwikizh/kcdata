@@ -2,25 +2,39 @@
 layout: json
 data:
   id: 151
-  wikiId: "A49"
+  category: 1
   type: 1
-  period: 1
-  title: "「第二二駆逐隊」を編成せよ！"
-  detail: "「皐月」「文月」「長月」他1隻計駆逐艦4隻による第二二駆逐隊を編成せよ！"
-  resources: [220, 220, 0, 0]
-  prerequisites: [271]
-  bonuses:
+  title: 「第二二駆逐隊」を編成せよ！
+  detail: 「皐月」「文月」「長月」他1隻計駆逐艦4隻による第二二駆逐隊を編成せよ！
+  reward: [220,220,0,0]
+  reward2:
     -
-      type: 1
-      item: 1
-      count: 2
+      category: useitem
+      id: 1
+      amount: 2
     -
-      type: 1
-      item: 3
-      count: 2
-  locales:
-    zh:
-      title: "「第二二驱逐队」编成！"
-      detail: "以「皐月」「文月」「长月」和其他一艘驱逐舰总计4艘编成第二二驱逐队！"
-      remark: ""
+      category: useitem
+      id: 3
+      amount: 2
+  prerequisite: [271]
+  requirements:
+    -
+      category: fleet
+      ship_id: 28
+    -
+      category: fleet
+      ship_id: 29
+    -
+      category: fleet
+      ship_id: 6
+    -
+      category: fleet
+      amount: 1
+      ship_type: 2
+    -
+      category: fleet
+      disallowed: true
+  wiki_id: A49
+  chinese_title: 「第二二驱逐队」编成！
+  chinese_detail: 以「皐月」「文月」「长月」和其他一艘驱逐舰总计4艘编成第二二驱逐队！
 ---

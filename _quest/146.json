@@ -2,25 +2,25 @@
 layout: json
 data:
   id: 146
-  wikiId: "A45"
+  category: 1
   type: 1
-  period: 1
-  title: "改修工廠を準備せよ！"
-  detail: "第一艦隊の旗艦に工作艦「明石」を配備、改修工廠の準備を実施せよ！"
-  resources: [100, 0, 100, 0]
-  prerequisites: [116]
-  bonuses:
+  title: 改修工廠を準備せよ！
+  detail: 第一艦隊の旗艦に工作艦「明石」を配備、改修工廠の準備を実施せよ！
+  reward: [100,0,100,0]
+  reward2:
     -
-      type: 1
-      item: 3
-      count: 5
+      category: useitem
+      id: 4
+      amount: 5
     -
-      type: 5
-      item: "改修工厂开启"
-      count: 1
-  locales:
-    zh:
-      title: "改修工厂准备！"
-      detail: "在第一舰队旗舰配备工作舰「明石」，为改修工厂做准备！"
-      remark: ""
+      category: other
+      item: 改修工厂开启
+  prerequisite: [116]
+  requirements:
+    -
+      category: flagship
+      ship_id: 182
+  wiki_id: A45
+  chinese_title: 改修工厂准备！
+  chinese_detail: 在第一舰队旗舰配备工作舰「明石」，为改修工厂做准备！
 ---

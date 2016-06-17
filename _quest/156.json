@@ -2,25 +2,41 @@
 layout: json
 data:
   id: 156
-  wikiId: "A54"
+  category: 1
   type: 1
-  period: 1
-  title: "「第一水雷戦隊」北方突入準備！"
-  detail: "「阿武隈」を旗艦として「響」「初霜」「若葉」「五月雨」「島風」による一水戦を編成せよ！"
-  resources: [150, 150, 0, 0]
-  prerequisites: [240]
-  bonuses:
+  title: 「第一水雷戦隊」北方突入準備！
+  detail: 「阿武隈」を旗艦として「響」「初霜」「若葉」「五月雨」「島風」による一水戦を編成せよ！
+  reward: [150,150,0,0]
+  reward2:
     -
-      type: 1
-      item: 1
-      count: 2
+      category: useitem
+      id: 1
+      amount: 2
     -
-      type: 1
-      item: 11
-      count: 1
-  locales:
-    zh:
-      title: "「第一水雷战队」北方突入准备！"
-      detail: "以「阿武隈」为旗舰，「响」「初霜」「若叶」「五月雨」「岛风」编成一水战！"
-      remark: "Верный可"
+      category: useitem
+      id: 11
+      amount: 1
+  prerequisite: [201,240]
+  requirements:
+    -
+      category: flagship
+      ship_id: 114
+    -
+      category: fleet
+      ship_id: 35
+    -
+      category: fleet
+      ship_id: 41
+    -
+      category: fleet
+      ship_id: 40
+    -
+      category: fleet
+      ship_id: 46
+    -
+      category: fleet
+      ship_id: 50
+  wiki_id: A54
+  chinese_title: 「第一水雷战队」北方突入准备！
+  chinese_detail: 以「阿武隈」为旗舰，「响」「初霜」「若叶」「五月雨」「岛风」编成一水战！
 ---

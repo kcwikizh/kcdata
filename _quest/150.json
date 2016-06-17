@@ -2,21 +2,34 @@
 layout: json
 data:
   id: 150
-  wikiId: "A48"
+  category: 1
   type: 1
-  period: 1
-  title: "「第二一駆逐隊」を編成せよ！"
-  detail: "「初春」「子日」「若葉」「初霜」4隻による第二一駆逐隊を編成せよ！"
-  resources: [210, 210, 0, 0]
-  prerequisites: [267]
-  bonuses:
+  title: 「第二一駆逐隊」を編成せよ！
+  detail: 「初春」「子日」「若葉」「初霜」4隻による第二一駆逐隊を編成せよ！
+  reward: [210,210,0,0]
+  reward2:
     -
-      type: 1
-      item: 1
-      count: 3
-  locales:
-    zh:
-      title: "「第二一驱逐队」编成！"
-      detail: "以「初春」「子日」「若叶」「初霜」4艘编成「第二一驱逐队」！"
-      remark: "只配置任务要求的舰娘"
+      category: useitem
+      id: 1
+      amount: 3
+  prerequisite: [267]
+  requirements:
+    -
+      category: fleet
+      ship_id: 38
+    -
+      category: fleet
+      ship_id: 39
+    -
+      category: fleet
+      ship_id: 40
+    -
+      category: fleet
+      ship_id: 41
+    -
+      category: fleet
+      disallowed: true
+  wiki_id: A48
+  chinese_title: 「第二一驱逐队」编成！
+  chinese_detail: 以「初春」「子日」「若叶」「初霜」4艘编成「第二一驱逐队」！
 ---

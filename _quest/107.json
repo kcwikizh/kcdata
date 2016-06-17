@@ -15,12 +15,12 @@ data:
   prerequisite: 
   requirements:
     -
+      category: flagship
+      ship_type: [7, 11, 18]
+    -
       category: fleet
       amount: 3
       ship_type: 2
-    -
-      category: flagship
-      ship_type: [7, 11, 18]
   wiki_id: A12
   chinese_title: 空母机动部队编成！
   chinese_detail: 配备1艘以上空母，并且作为旗舰，与护卫舰艇一起，编成空母机动部队！

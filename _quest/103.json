@@ -15,12 +15,12 @@ data:
   prerequisite: 
   requirements:
     -
+      category: flagship
+      ship_type: 3
+    -
       category: fleet
       amount: 3
       ship_type: 2
-    -
-      category: flagship
-      ship_type: 3
   wiki_id: A3
   chinese_title: 「水雷战队」编成！
   chinese_detail: 编成以轻巡洋舰为旗舰，加上数艘驱逐舰构成的「水雷战队」！

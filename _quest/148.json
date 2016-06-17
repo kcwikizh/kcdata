@@ -2,25 +2,37 @@
 layout: json
 data:
   id: 148
-  wikiId: "A46"
+  category: 1
   type: 1
-  period: 1
-  title: "軽快な「水上反撃部隊」を編成せよ！"
-  detail: "駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！"
-  resources: [250, 250, 0, 50]
-  prerequisites: [123]
-  bonuses:
+  title: 軽快な「水上反撃部隊」を編成せよ！
+  detail: 駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！
+  reward: [250,250,0,50]
+  reward2:
     -
-      type: 1
-      item: 1
-      count: 2
+      category: useitem
+      id: 1
+      amount: 2
     -
-      type: 1
-      item: 3
-      count: 2
-  locales:
-    zh:
-      title: "轻快的「水上反击部队」编成！"
-      detail: "以驱逐舰「霞」为旗舰加上重巡「足柄」和轻巡1艘，驱逐3艘（共计4艘驱逐）编成水上挺身部队！"
-      remark: ""
+      category: useitem
+      id: 3
+      amount: 2
+  prerequisite: [123,224]
+  requirements:
+    -
+      category: flagship
+      ship_id: 49
+    -
+      category: fleet
+      ship_id: 64
+    -
+      category: fleet
+      amount: 1
+      ship_type: 3
+    -
+      category: fleet
+      amount: 4
+      ship_type: 2
+  wiki_id: A46
+  chinese_title: 轻快的「水上反击部队」编成！
+  chinese_detail: 以驱逐舰「霞」为旗舰加上重巡「足柄」和轻巡1艘，驱逐3艘（共计4艘驱逐）编成水上挺身部队！
 ---

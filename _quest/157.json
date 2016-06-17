@@ -2,25 +2,41 @@
 layout: json
 data:
   id: 157
-  wikiId: "A55"
+  category: 1
   type: 1
-  period: 1
-  title: "「第一水雷戦隊」北方再突入準備！"
-  detail: "「阿武隈改二」を旗艦として「響」「夕雲」「長波」「秋雲」「島風」の一水戦を再編成せよ！"
-  resources: [200, 200, 0, 0]
-  prerequisites: [309]
-  bonuses:
+  title: 「第一水雷戦隊」北方再突入準備！
+  detail: 「阿武隈改二」を旗艦として「響」「夕雲」「長波」「秋雲」「島風」の一水戦を再編成せよ！
+  reward: [200,200,0,0]
+  reward2:
     -
-      type: 1
-      item: 1
-      count: 3
+      category: useitem
+      id: 1
+      amount: 3
     -
-      type: 1
-      item: 12
-      count: 1
-  locales:
-    zh:
-      title: "「第一水雷战队」北方再突入准备！"
-      detail: "以「阿武隈改二」为旗舰，「响」「夕云」「长波」「秋云」「岛风」再次编成一水战！"
-      remark: "必须阿武隈改二\nВерный可"
+      category: useitem
+      id: 11
+      amount: 1
+  prerequisite: [309]
+  requirements:
+    -
+      category: flagship
+      ship_id: 200
+    -
+      category: fleet
+      ship_id: 35
+    -
+      category: fleet
+      ship_id: 133
+    -
+      category: fleet
+      ship_id: 135
+    -
+      category: fleet
+      ship_id: 132
+    -
+      category: fleet
+      ship_id: 50
+  wiki_id: A55
+  chinese_title: 「第一水雷战队」北方再突入准备！
+  chinese_detail: 以「阿武隈改二」为旗舰，「响」「夕云」「长波」「秋云」「岛风」再次编成一水战！
 ---

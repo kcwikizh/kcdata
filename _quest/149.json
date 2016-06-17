@@ -2,21 +2,34 @@
 layout: json
 data:
   id: 149
-  wikiId: "A47"
+  category: 1
   type: 1
-  period: 1
-  title: "「第十一駆逐隊」を編成せよ！"
-  detail: "特I型駆逐艦「吹雪」「白雪」「初雪」「叢雲」4隻による第十一駆逐隊を編成せよ！"
-  resources: [110, 110, 110, 0]
-  prerequisites: [132]
-  bonuses:
+  title: 「第十一駆逐隊」を編成せよ！
+  detail: 特I型駆逐艦「吹雪」「白雪」「初雪」「叢雲」4隻による第十一駆逐隊を編成せよ！
+  reward: [110,110,110,0]
+  reward2:
     -
-      type: 1
-      item: 3
-      count: 3
-  locales:
-    zh:
-      title: "「第十一驱逐队」编成！"
-      detail: "以特Ⅰ型驱逐舰「吹雪」「白雪」「初雪」「丛云」4艘编成第十一驱逐队！"
-      remark: "只配置任务要求的舰娘"
+      category: useitem
+      id: 3
+      amount: 3
+  prerequisite: [132]
+  requirements:
+    -
+      category: fleet
+      ship_id: 9
+    -
+      category: fleet
+      ship_id: 10
+    -
+      category: fleet
+      ship_id: 32
+    -
+      category: fleet
+      ship_id: 33
+    -
+      category: fleet
+      disallowed: true
+  wiki_id: A47
+  chinese_title: 「第十一驱逐队」编成！
+  chinese_detail: 以特Ⅰ型驱逐舰「吹雪」「白雪」「初雪」「丛云」4艘编成第十一驱逐队！
 ---

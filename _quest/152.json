@@ -2,21 +2,26 @@
 layout: json
 data:
   id: 152
-  wikiId: "A50"
+  category: 1
   type: 1
-  period: 1
-  title: "「三川艦隊」を新編、突入準備せよ！"
-  detail: "第一艦隊において、「鳥海改ニ」を旗艦とする「三川艦隊」を編成せよ！"
-  resources: [300, 300, 0, 0]
-  prerequisites: [136, 227]
-  bonuses:
+  title: 「三川艦隊」を新編、突入準備せよ！
+  detail: 第一艦隊において、「鳥海改ニ」を旗艦とする「三川艦隊」を編成せよ！
+  reward: [300,300,0,0]
+  reward2:
     -
-      type: 1
-      item: 1
-      count: 2
-  locales:
-    zh:
-      title: "「三川舰队」新编成，突入准备！"
-      detail: "在第一舰队，以「鸟海改二」为旗舰编成三川舰队！"
-      remark: "鸟海改二作为旗舰，古鹰/加古/青叶/衣笠/夕张/天龙之中任意选择选5艘"
+      category: useitem
+      id: 1
+      amount: 2
+  prerequisite: [227]
+  requirements:
+    -
+      category: flagship
+      ship_id: 427
+    -
+      category: fleet
+      amount: 5
+      ship_id: [51, 59, 60, 61, 115, 123]
+  wiki_id: A50
+  chinese_title: 「三川舰队」新编成，突入准备！
+  chinese_detail: 在第一舰队，以「鸟海改二」为旗舰编成三川舰队！
 ---
