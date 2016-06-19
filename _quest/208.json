@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 208
+  category: 2
+  type: 1
+  title: 「戦艦」を出撃させよ！
+  detail: 海上の覇者、戦艦を旗艦とした艦隊を編成、これを出撃させよ！
+  reward: [0,150,150,0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [207]
+  requirements:
+    -
+      category: sortie
+      times: 1
+    -
+      category: flagship
+      ship_type: [8, 9, 12]
+  wiki_id: B8
+  chinese_title: 「战舰」出击！
+  chinese_detail: 派出以海上的霸者，战舰为旗舰的舰队出击！
+---

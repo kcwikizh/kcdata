@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 210
+  category: 2
+  type: 2
+  title: 敵艦隊を10回邀撃せよ！
+  detail: 艦隊全力出撃！遊弋する敵艦隊を10回邀撃せよ！
+  reward: [150,150,200,100]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [216]
+  requirements:
+    -
+      category: battle
+      times: 10
+  wiki_id: Bd3
+  chinese_title: 击破10回敌舰队！
+  chinese_detail: 舰队全力出击！迎击10回游弋的敌舰队！
+---

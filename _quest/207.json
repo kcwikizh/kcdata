@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 207
+  category: 2
+  type: 1
+  title: 「重巡洋艦」を出撃させよ！
+  detail: 重巡洋艦を旗艦とした艦隊を編成、これを出撃させよ！
+  reward: [70,0,70,0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [206]
+  requirements:
+    -
+      category: sortie
+      times: 1
+    -
+      category: flagship
+      ship_type: 5
+  wiki_id: B7
+  chinese_title: 「重巡洋舰」出击！
+  chinese_detail: 派出以重巡洋舰为旗舰编成的舰队出击！
+---

@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 201
+  category: 2
+  type: 2
+  title: 敵艦隊を撃破せよ！
+  detail: 艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！
+  reward: [50,50,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [204]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      result: B
+  wiki_id: Bd1
+  chinese_title: 击破敌舰队！
+  chinese_detail: 舰队出击，捕捉敌方舰队，消灭他们！
+---

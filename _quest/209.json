@@ -1,0 +1,34 @@
+---
+layout: json
+data:
+  id: 209
+  category: 2
+  type: 1
+  title: 「空母機動部隊」出撃せよ！
+  detail: 空母1隻とその護衛艦艇で構成した空母機動部隊を出撃させよ！
+  reward: [200,0,0,300]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 1
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [208]
+  requirements:
+    -
+      category: sortie
+      times: 1
+    -
+      category: fleet
+      amount: 1
+      ship_type: [7, 11]
+    -
+      category: fleet
+      amount: 4
+  wiki_id: B9
+  chinese_title: 「空母机动部队」出击！
+  chinese_detail: 派出以空母1艘与护卫舰艇编成的空母机动部队出击！
+---

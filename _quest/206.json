@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 206
+  category: 2
+  type: 1
+  title: 「水雷戦隊」で出撃せよ！
+  detail: 軽巡洋艦1隻を旗艦とし、複数の駆逐艦からなる水雷戦隊で出撃せよ！
+  reward: [60,60,0,60]
+  reward2:
+    -
+      category: ship
+      id: 52
+      amount: 1
+  prerequisite: [205]
+  requirements:
+    -
+      category: sortie
+      times: 1
+    -
+      category: flagship
+      ship_type: 3
+    -
+      category: fleet
+      amount: 3
+      ship_type: 2
+  wiki_id: B6
+  chinese_title: 「水雷战队」出击！
+  chinese_detail: 派出以轻巡洋舰1艘为旗舰，复数驱逐舰组成的水雷战队出击！
+---
