@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 212
+  category: 2
+  type: 5
+  title: 敵輸送船団を叩け！
+  detail: 敵の輸送船5隻以上を撃沈し、敵の補給路を寸断せよ！
+  reward: [0,200,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+  prerequisite: [201]
+  requirements:
+    -
+      category: sink
+      amount: 5
+      ship_type: 15
+  wiki_id: Bd6
+  chinese_title: 打击敌方输送船团！
+  chinese_detail: 击沉敌方5艘以上运输船，切断敌人的补给线！
+---

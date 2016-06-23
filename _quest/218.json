@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 218
+  category: 2
+  type: 2
+  title: 敵補給艦を3隻撃沈せよ！
+  detail: 艦隊を出撃させ、敵補給艦を捕捉、これを撃滅せよ！
+  reward: [100,50,200,50]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 1
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [216]
+  requirements:
+    -
+      category: sink
+      amount: 3
+      ship_type: 15
+  wiki_id: Bd5
+  chinese_title: 击沉三艘敌方补给舰！
+  chinese_detail: 舰队出击，捕捉敌方补给舰，消灭他们！
+---

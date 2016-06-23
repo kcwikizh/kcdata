@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 217
+  category: 2
+  type: 1
+  title: 敵空母を撃沈せよ！
+  detail: 敵機動部隊を捕捉し、これを邀撃、敵空母を轟沈せよ！
+  reward: [0,0,0,100]
+  reward2:
+    -
+      category: ship
+      id: 83
+      amount: 1
+  prerequisite: [117]
+  requirements:
+    -
+      category: sink
+      amount: 1
+      ship_type: [7, 11]
+  wiki_id: B10
+  chinese_title: 击沉敌方空母！
+  chinese_detail: 捕捉敌方空母机动部队，游击，击沉敌空母！
+---

@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 213
+  category: 2
+  type: 3
+  title: 海上通商破壊作戦
+  detail: 1週間で敵輸送船を20隻以上撃沈せよ！
+  reward: [500,0,400,0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 3
+  prerequisite: [216]
+  requirements:
+    -
+      category: sink
+      amount: 20
+      ship_type: 15
+  wiki_id: Bw3
+  chinese_title: 海上通商破坏作战
+  chinese_detail: 一周内击沉敌方20艘以上输送船！
+---
