@@ -1,0 +1,36 @@
+---
+layout: json
+data:
+  id: 250
+  category: 2
+  type: 1
+  title: 新編「第二航空戦隊」出撃せよ！
+  detail: 新編「二航戦」を基幹とした艦隊で、珊瑚諸島沖に出撃、敵機動部隊を撃滅せよ！
+  reward: [0,500,0,500]
+  reward2:
+    -
+      category: useitem
+      id: 54
+      amount: 1
+  prerequisite: [138]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 52
+      boss: true
+      result: S
+    -
+      category: flagship
+      ship_id: 196
+    -
+      category: fleet
+      ship_id: 90
+    -
+      category: fleet
+      amount: 2
+      ship_type: 2
+  wiki_id: B25
+  chinese_title: 新编「第二航空战队」出击！
+  chinese_detail: 派出以新编「二航战」为基干的舰队，在5-2出击，消灭敌方机动部队！
+---

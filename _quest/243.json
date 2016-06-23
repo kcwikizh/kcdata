@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 243
+  category: 2
+  type: 3
+  title: 南方海域珊瑚諸島沖の制空権を握れ！
+  detail: 南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！
+  reward: [0,300,0,800]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+    -
+      category: useitem
+      id: 4
+      amount: 2
+  prerequisite: [242]
+  requirements:
+    -
+      category: sortie
+      times: 2
+      map: 52
+      boss: true
+      result: S
+  wiki_id: Bw9
+  chinese_title: 掌握南方海域珊瑚诸岛的制空权！
+  chinese_detail: 向南方海域5-2出击，消灭敌方机动部队本体，取得完全胜利！
+---

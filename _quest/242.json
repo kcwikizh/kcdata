@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 242
+  category: 2
+  type: 3
+  title: 敵東方中枢艦隊を撃破せよ！
+  detail: 西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！
+  reward: [500,0,500,0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 1
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [229]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 44
+      boss: true
+      result: B
+  wiki_id: Bw8
+  chinese_title: 击破敌东方中枢舰队！
+  chinese_detail: 向西方海域4-4出击，捕捉敌人东方中枢舰队，消灭他们！
+---

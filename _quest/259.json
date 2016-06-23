@@ -1,0 +1,38 @@
+---
+layout: json
+data:
+  id: 259
+  category: 2
+  type: 6
+  title: 「水上打撃部隊」南方へ！
+  detail: 戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！
+  reward: [350,400,350,0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 3
+    -
+      category: useitem
+      id: 4
+      amount: 4
+  prerequisite: [145]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 51
+      boss: true
+      result: S
+    -
+      category: fleet
+      amount: 3
+      ship_type: [9,10]
+    -
+      category: fleet
+      amount: 1
+      ship_type: 3
+  wiki_id: Bm4
+  chinese_title: 「水上打击部队」往南方！
+  chinese_detail: 以战舰3艘轻巡1艘为基干的水上打击部队向5-1推进，消灭敌方舰队！
+---

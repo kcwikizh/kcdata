@@ -1,0 +1,46 @@
+---
+layout: json
+data:
+  id: 254
+  category: 2
+  type: 1
+  title: 「軽空母」戦隊、出撃せよ！
+  detail: 軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でカムラン半島の敵を撃滅せよ！
+  reward: [0,300,0,300]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 3
+    -
+      category: useitem
+      id: 50
+      amount: 1
+  prerequisite: [105]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 21
+      boss: true
+      result: S
+    -
+      category: fleet
+      amount: 1
+      ship_type: 7
+    -
+      category: fleet
+      amount: 1
+      ship_type: 3
+    -
+      category: fleet
+      amount: 3
+      ship_type: 2
+    -
+      category: fleet
+      amount: 6
+      ship_type: [2,3,7]
+  wiki_id: B29
+  chinese_title: 「軽空母」战队、出击！
+  chinese_detail: 派出以轻空母1～2艘，轻巡1艘，驱逐舰3～4艘组成的舰队消灭2-1的敌人！
+---

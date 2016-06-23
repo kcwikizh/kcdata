@@ -1,0 +1,33 @@
+---
+layout: json
+data:
+  id: 253
+  category: 2
+  type: 1
+  title: 「第六〇一航空隊」出撃せよ！
+  detail: 雲龍型航空母艦「雲龍改」含む機動部隊で珊瑚島沖に出撃、敵機動部隊を撃滅せよ！
+  reward: [0,300,0,300]
+  reward2:
+    -
+      category: useitem
+      id: 12
+      amount: 1
+    -
+      category: slotitem
+      id: 108
+      amount: 1
+  prerequisite: [143]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 52
+      boss: true
+      result: S
+    -
+      category: fleet
+      ship_id: 406
+  wiki_id: B28
+  chinese_title: 「第六〇一航空队」出击！
+  chinese_detail: 派出包含云龙型航空母舰「云龙改」的机动部队，向5-2出击，消灭敌方机动部队！
+---

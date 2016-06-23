@@ -1,0 +1,41 @@
+---
+layout: json
+data:
+  id: 255
+  category: 2
+  type: 1
+  title: 「水雷戦隊」バシー島沖緊急展開
+  detail: 軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！
+  reward: [300,300,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 12
+      amount: 1
+    -
+      category: useitem
+      id: 52
+      amount: 1
+  prerequisite: [206]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 22
+      boss: true
+      result: S
+    -
+      category: flagship
+      ship_type: 3
+    -
+      category: fleet
+      amount: [1,2]
+      ship_type: 3
+    -
+      category: fleet
+      only: true
+      ship_type: [2,3]
+  wiki_id: B30
+  chinese_title: 「水雷战队」バシー岛沖紧急展开
+  chinese_detail: 以轻巡为旗舰的水雷战队（轻巡最大两只其他为驱逐舰）消灭2-2的敌人！
+---

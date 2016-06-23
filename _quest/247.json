@@ -1,0 +1,34 @@
+---
+layout: json
+data:
+  id: 247
+  category: 2
+  type: 1
+  title: 「航空戦艦」抜錨せよ！
+  detail: 航空戦艦2隻を基幹とする艦隊で、西方海域カスガダマ島の敵勢力を撃破せよ！
+  reward: [0,300,300,900]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 3
+    -
+      category: useitem
+      id: 12
+      amount: 1
+  prerequisite: [412]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 44
+      boss: true
+      result: B
+    -
+      category: fleet
+      amount: 2
+      ship_type: 10
+  wiki_id: B23
+  chinese_title: 「航空战舰」起锚！
+  chinese_detail: 派出以2艘航空战舰为基干的舰队出击，击破西方海域4-4的敌方势力！
+---
