@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 230
+  category: 2
+  type: 2
+  title: 敵潜水艦を制圧せよ！
+  detail: 対潜能力の充実した艦隊で出撃、敵潜水艦狩りを実施せよ！
+  reward: [300,30,300,30]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 1
+  prerequisite: [226]
+  requirements:
+    -
+      category: sink
+      amount: 6
+      ship_type: [13,14]
+  wiki_id: Bd8
+  chinese_title: 压制敌方潜水舰！
+  chinese_detail: 派出反潜能力充实的舰队出击，狩猎敌方潜水舰！
+---

@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 228
+  category: 2
+  type: 3
+  title: 海上護衛戦
+  detail: 有力な対潜能力を持つ海上護衛隊によって、可能な限り多くの敵潜水艦を撃滅せよ！
+  reward: [600,0,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 2
+    -
+      category: useitem
+      id: 4
+      amount: 1
+  prerequisite: [220]
+  requirements:
+    -
+      category: sink
+      amount: 15
+      ship_type: [13,14]
+  wiki_id: Bw5
+  chinese_title: 海上护卫战
+  chinese_detail: 派出具有强力反潜能力的海上护卫队,尽可能多地消灭敌方潜水舰！
+---

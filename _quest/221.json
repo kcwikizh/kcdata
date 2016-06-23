@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 221
+  category: 2
+  type: 3
+  title: ろ号作戦
+  detail: 1週間の全力出撃を行い、敵輸送船団を捕捉・撃滅、敵の補給路を寸断せよ！
+  reward: [400,0,800,0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 3
+  prerequisite: [214]
+  requirements:
+    -
+      category: sink
+      amount: 50
+      ship_type: 15
+  wiki_id: Bw4
+  chinese_title: ろ号作战
+  chinese_detail: 一周内全力出击，捕捉，消灭敌方输送船团，切断敌人的补给线！
+---

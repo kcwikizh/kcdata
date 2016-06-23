@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 226
+  category: 2
+  type: 2
+  title: 南西諸島海域の制海権を握れ！
+  detail: 艦隊を南西諸島海域に全力出撃させ、多数の敵艦隊「主力」群を捕捉、撃滅せよ！
+  reward: [300,0,0,200]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 1
+    -
+      category: useitem
+      id: 2
+      amount: 1
+  prerequisite: [218]
+  requirements:
+    -
+      category: sortie
+      times: 5
+      area: 2
+      boss: true
+      result: B
+  wiki_id: Bd7
+  chinese_title: 掌握南西诸岛海域制海权！
+  chinese_detail: 派出舰队在南西诸岛海域海域全力出击，捕捉消灭大量敌舰队「主力」群！
+---

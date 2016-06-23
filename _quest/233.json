@@ -1,0 +1,42 @@
+---
+layout: json
+data:
+  id: 233
+  category: 2
+  type: 1
+  title: 「第六戦隊」出撃せよ！
+  detail: 編成した「第六戦隊」をもって出撃し、オリョール海の敵を撃滅「完全勝利」せよ！
+  reward: [0,150,0,300]
+  reward2:
+    -
+      category: useitem
+      id: 11
+      amount: 1
+    -
+      category: ship
+      id: 50
+      amount: 1
+  prerequisite: [128]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 23
+      boss: true
+      result: S
+    -
+      category: fleet
+      ship_id: 59
+    -
+      category: fleet
+      ship_id: 60
+    -
+      category: fleet
+      ship_id: 61
+    -
+      category: fleet
+      ship_id: 123
+  wiki_id: B19
+  chinese_title: 「第六战队」出击！
+  chinese_detail: 派出「第六战队」出击，消灭2-3的敌人，获得「完全胜利」！
+---

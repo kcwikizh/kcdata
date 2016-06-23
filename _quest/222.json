@@ -1,0 +1,38 @@
+---
+layout: json
+data:
+  id: 222
+  category: 2
+  type: 1
+  title: 「第六駆逐隊」出撃せよ！
+  detail: 「暁」「響」「雷」「電」による第六駆逐隊、出撃せよ！
+  reward: [200,0,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 1
+  prerequisite: [120,213]
+  requirements:
+    -
+      category: sortie
+      times: 1
+    -
+      category: fleet
+      ship_id: 34
+    -
+      category: fleet
+      ship_id: 35
+    -
+      category: fleet
+      ship_id: 36
+    -
+      category: fleet
+      ship_id: 37
+    -
+      category: fleet
+      disallowed: true
+  wiki_id: B12
+  chinese_title: 「第六驱逐队」出击！
+  chinese_detail: 派出由「晓」「响」「雷」「电」组成的第六驱逐队出击！
+---

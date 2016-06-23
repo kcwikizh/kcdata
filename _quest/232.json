@@ -1,0 +1,34 @@
+---
+layout: json
+data:
+  id: 232
+  category: 2
+  type: 1
+  title: 「航空水上打撃艦隊」出撃せよ！
+  detail: 航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊でカレー洋の制海権を握れ！
+  reward: [0,150,0,300]
+  reward2:
+    -
+      category: useitem
+      id: 54
+      amount: 1
+  prerequisite: [126]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 42
+      boss: true
+      result: B
+    -
+      category: fleet
+      amount: 2
+      ship_type: 10
+    -
+      category: fleet
+      amount: 2
+      ship_type: 6
+  wiki_id: B18
+  chinese_title: 「航空水上打击舰队」出击！
+  chinese_detail: 派出以航空战舰2艘，航空巡洋舰2艘为基干的舰队，掌握4-2的制海权
+---

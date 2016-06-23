@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 229
+  category: 2
+  type: 3
+  title: 敵東方艦隊を撃滅せよ！
+  detail: 西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！
+  reward: [400,0,0,700]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+  prerequisite: [228]
+  requirements:
+    -
+      category: sortie
+      times: 12
+      area: 4
+      boss: true
+      result: B
+  wiki_id: Bw6
+  chinese_title: 消灭敌东方舰队！
+  chinese_detail: 向西方海域出击，捕捉敌方东方舰队主力，消灭他们！
+---
