@@ -1,0 +1,36 @@
+---
+layout: json
+data:
+  id: 275
+  category: 2
+  type: 1
+  title: 抜錨！「第十八戦隊」
+  detail: 「天龍」「龍田」を基幹戦力とした「第十八戦隊」で出撃し、オリョール海の敵主力を撃滅せよ！
+  reward: [350,0,0,250]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 3
+    -
+      category: useitem
+      id: 52
+      amount: 1
+  prerequisite: [153]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 23
+      boss: true
+      result: S
+    -
+      category: fleet
+      ship_id: 51
+    -
+      category: fleet
+      ship_id: 52
+  wiki_id: B43
+  chinese_title: 起锚！「第十八战队」
+  chinese_detail: 派出以「天龙」「龙田」为基干战力的「第十八战队」出击，消灭2-3的敌方主力！
+---

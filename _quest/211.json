@@ -17,7 +17,7 @@ data:
     -
       category: sink
       amount: 3
-      ship_type: [7, 11]
+      ship_type: [7,11,18]
   wiki_id: Bd4
   chinese_title: 击沉三艘敌空母！
   chinese_detail: 捕捉消灭成为舰队威胁的敌方空母群。击沉3艘！

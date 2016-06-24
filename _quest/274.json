@@ -1,0 +1,42 @@
+---
+layout: json
+data:
+  id: 274
+  category: 2
+  type: 1
+  title: 「第六駆逐隊」対潜哨戒なのです！
+  detail: 「第六駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！
+  reward: [200,200,200,0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 3
+    -
+      category: slotitem
+      id: 46
+      amount: 1
+  prerequisite: [120]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 15
+      boss: true
+      result: C
+    -
+      category: fleet
+      ship_id: 34
+    -
+      category: fleet
+      ship_id: 35
+    -
+      category: fleet
+      ship_id: 36
+    -
+      category: fleet
+      ship_id: 37
+  wiki_id: B42
+  chinese_title: 「第六驱逐队」反潜巡逻NaNoDeSu！
+  chinese_detail: 派出包含「第六驱逐队」的舰队向着1-5展开，实施反潜巡逻！
+---

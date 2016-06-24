@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 286
+  category: 2
+  type: 1
+  title: 鎮守府正面の対潜哨戒を強化せよ！
+  detail: 鎮守府正面の対潜哨戒を強化し、海上資源輸送路の安全を確立せよ！
+  reward: [300,300,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 52
+      amount: 1
+  prerequisite: [201]
+  requirements:
+    -
+      category: sortie
+      times: 4
+      map: 15
+      boss: true
+      result: A
+  wiki_id: B48
+  chinese_title: 强化镇守府正面的对潜！
+  chinese_detail: 强化镇守府正面的对潜警戒，确保海上资源输送道路的安全！
+---

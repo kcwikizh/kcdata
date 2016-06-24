@@ -1,0 +1,48 @@
+---
+layout: json
+data:
+  id: 276
+  category: 2
+  type: 1
+  title: 海上突入部隊、進発せよ！
+  detail: 「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方海域進出作戦を実施、敵を撃滅せよ！
+  reward: [500,0,500,0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 5
+    -
+      category: useitem
+      id: 4
+      amount: 2
+  prerequisite: [154,243]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 51
+      boss: true
+      result: S
+    -
+      category: fleet
+      ship_id: 86
+    -
+      category: fleet
+      ship_id: 85
+    -
+      category: fleet
+      ship_id: 21
+    -
+      category: fleet
+      ship_id: 34
+    -
+      category: fleet
+      ship_id: 36
+    -
+      category: fleet
+      ship_id: 37
+  wiki_id: B44
+  chinese_title: 海上突入部队、进发！
+  chinese_detail: 「比睿」「雾岛」「长良」「晓」「雷」「电」的舰队，实施5-1作战，击灭敌人！
+---

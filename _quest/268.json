@@ -1,0 +1,42 @@
+---
+layout: json
+data:
+  id: 268
+  category: 2
+  type: 1
+  title: 「第十一駆逐隊」対潜哨戒！
+  detail: 「第十一駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！
+  reward: [400,0,0,200]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+    -
+      category: slotitem
+      id: 47
+      amount: 1
+  prerequisite: [149]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 15
+      boss: true
+      result: C
+    -
+      category: fleet
+      ship_id: 9
+    -
+      category: fleet
+      ship_id: 10
+    -
+      category: fleet
+      ship_id: 32
+    -
+      category: fleet
+      ship_id: 33
+  wiki_id: B36
+  chinese_title: 「第十一驱逐队」反潜巡逻！
+  chinese_detail: 派出包含「第十一驱逐队」的舰队向1-5展开，实施反潜巡逻！
+---

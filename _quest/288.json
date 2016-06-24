@@ -1,0 +1,42 @@
+---
+layout: json
+data:
+  id: 288
+  category: 2
+  type: 1
+  title: 新編「第二一戦隊」北方へ出撃せよ！
+  detail: 新編「第二一戦隊」を基幹とする艦隊で北方海域モーレイ海に出撃、敵を撃滅せよ！
+  reward: [300,300,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 60
+      amount: 1
+    -
+      category: useitem
+      id: 66
+      amount: 1
+  prerequisite: [162]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 31
+      boss: true
+      result: S
+    -
+      category: fleet
+      ship_id: 192
+    -
+      category: fleet
+      ship_id: 193
+    -
+      category: fleet
+      ship_id: 100
+    -
+      category: fleet
+      ship_id: 101
+  wiki_id: B51
+  chinese_title: 新编成「第二十一战队」向北方海域出击！
+  chinese_detail: 以新编成的「第二十一战队」为基干的舰队向北方莫雷海域出击，击溃敌方舰队！
+---

@@ -1,0 +1,42 @@
+---
+layout: json
+data:
+  id: 277
+  category: 2
+  type: 1
+  title: 「第六駆逐隊」対潜哨戒を徹底なのです！
+  detail: 「第六駆逐隊」を含む艦隊で鎮守府正面で対潜哨戒を実施、敵潜水艦部隊を痛打せよ！
+  reward: [300,300,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 2
+    -
+      category: slotitem
+      id: 46
+      amount: 1
+  prerequisite: [155,274]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 15
+      boss: true
+      result: B
+    -
+      category: fleet
+      ship_id: 34
+    -
+      category: fleet
+      ship_id: 35
+    -
+      category: fleet
+      ship_id: 36
+    -
+      category: fleet
+      ship_id: 37
+  wiki_id: B45
+  chinese_title: 「第六驱逐队」进行彻底的对潜警戒NaNoDeSu！
+  chinese_detail: 包含「第六驱逐队」的舰队在1-5实施对潜警戒，痛打敌潜水舰部队！
+---

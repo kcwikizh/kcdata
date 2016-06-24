@@ -1,0 +1,48 @@
+---
+layout: json
+data:
+  id: 297
+  category: 2
+  type: 1
+  title: 「礼号作戦」実施せよ！
+  detail: 精強な「水上反撃部隊」で、南西諸島沖ノ島沖に突入！同海域の敵戦力を撃滅せよ！
+  reward: [300,700,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 3
+    -
+      category: useitem
+      id: 60
+      amount: 1
+  prerequisite: [170,265]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 25
+      boss: true
+      result: S
+    -
+      category: flagship
+      ship_id: 49
+    -
+      category: fleet
+      ship_id: 64
+    -
+      category: fleet
+      ship_id: 183
+    -
+      category: fleet
+      ship_id: 425
+    -
+      category: fleet
+      ship_id: 410
+    -
+      category: fleet
+      amount: 6
+  wiki_id: B57
+  chinese_title: “礼号作战”实施！
+  chinese_detail: 精锐“水上反击部队”突入2-5,消灭该海域的敌人战力！
+---

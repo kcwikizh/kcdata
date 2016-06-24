@@ -1,0 +1,43 @@
+---
+layout: json
+data:
+  id: 270
+  category: 2
+  type: 1
+  title: 「第二二駆逐隊」出撃せよ！
+  detail: 「第二二駆逐隊」を含む艦隊で南西諸島防衛線に出撃、敵主力艦隊を撃滅せよ！
+  reward: [0,0,0,400]
+  reward2:
+    -
+      category: useitem
+      id: 11
+      amount: 1
+    -
+      category: useitem
+      id: 59
+      amount: 1
+  prerequisite: [151]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 14
+      boss: true
+      result: S
+    -
+      category: fleet
+      ship_id: 28
+    -
+      category: fleet
+      ship_id: 29
+    -
+      category: fleet
+      ship_id: 6
+    -
+      category: fleet
+      amount: 4
+      ship_type: 2
+  wiki_id: B39
+  chinese_title: 「第二二驱逐队」出击！
+  chinese_detail: 派出包含「第二二驱逐队」的舰队向着1-4出击，消灭敌方之力舰队！
+---

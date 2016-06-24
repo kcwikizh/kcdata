@@ -1,0 +1,45 @@
+---
+layout: json
+data:
+  id: 266
+  category: 2
+  type: 6
+  title: 「水上反撃部隊」突入せよ！
+  detail: 駆逐艦を旗艦とした重巡1隻軽巡1隻駆逐艦4隻からなる水上挺身部隊、沖ノ島沖に突入せよ！
+  reward: [0,600,0,200]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 4
+    -
+      category: useitem
+      id: 4
+      amount: 2
+  prerequisite: [148,264]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 25
+      boss: true
+      result: S
+    -
+      category: flagship
+      ship_type: 2
+    -
+      category: fleet
+      amount: 4
+      ship_type: 2
+    -
+      category: fleet
+      amount: 1
+      ship_type: 3
+    -
+      category: fleet
+      amount: 1
+      ship_type: 5
+  wiki_id: Bm7
+  chinese_title: 「水上反击部队」突入！
+  chinese_detail: 派出以驱逐舰为旗舰，重巡1艘轻巡1艘驱逐舰4艘组成的水上挺身部队，出击2-5！
+---

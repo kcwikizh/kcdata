@@ -1,0 +1,45 @@
+---
+layout: json
+data:
+  id: 293
+  category: 2
+  type: 1
+  title: 「第三航空戦隊」南西諸島防衛線に出撃！
+  detail: 編成した「第三航空戦隊」を南西諸島防衛線に展開、敵侵攻艦隊を捕捉撃滅せよ！
+  reward: [0,0,300,0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 2
+    -
+      category: useitem
+      id: 59
+      amount: 1
+  prerequisite: [164]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 14
+      boss: true
+      result: S
+    -
+      category: flagship
+      ship_id: 112
+    -
+      category: fleet
+      ship_id: 116
+    -
+      category: fleet
+      ship_id: 108
+    -
+      category: fleet
+      ship_id: 109
+    -
+      category: fleet
+      amount: 6
+  wiki_id: B53
+  chinese_title: “第三航空战队”西南诸岛防卫战线出击！
+  chinese_detail: “第三航空战队”出击1-4，迎击敌方入侵部队!
+---

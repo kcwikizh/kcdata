@@ -17,7 +17,7 @@ data:
     -
       category: sink
       amount: 20
-      ship_type: [7, 11]
+      ship_type: [7,11,18]
   wiki_id: Bw2
   chinese_title: い号作战
   chinese_detail: 派出有力的航空母舰部队一周内全力出击，尽可能多地消灭敌方空母！

@@ -17,7 +17,7 @@ data:
     -
       category: sink
       amount: 1
-      ship_type: [7, 11]
+      ship_type: [7,11,18]
   wiki_id: B10
   chinese_title: 击沉敌方空母！
   chinese_detail: 捕捉敌方空母机动部队，游击，击沉敌空母！

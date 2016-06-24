@@ -1,0 +1,38 @@
+---
+layout: json
+data:
+  id: 264
+  category: 2
+  type: 6
+  title: 「空母機動部隊」西へ！
+  detail: 航空母艦2隻(随伴駆逐艦2隻)を基幹とする空母機動艦隊で、カレー洋の敵艦隊を撃滅せよ！
+  reward: [0,0,600,800]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 2
+    -
+      category: useitem
+      id: 12
+      amount: 2
+  prerequisite: [221,239]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 42
+      boss: true
+      result: S
+    -
+      category: fleet
+      amount: 2
+      ship_type: [7,11,18]
+    -
+      category: fleet
+      amount: 2
+      ship_type: 2
+  wiki_id: Bm6
+  chinese_title: 「空母机动部队」往西方！
+  chinese_detail: 派出以航空母舰2艘（伴随驱逐舰2艘）为基干的空母机动部队，消灭4-2的敌舰队！
+---

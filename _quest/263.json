@@ -1,0 +1,42 @@
+---
+layout: json
+data:
+  id: 263
+  category: 2
+  type: 1
+  title: 「第六戦隊」南西海域へ出撃せよ！
+  detail: 「古鷹」「加古」「青葉」「衣笠」を基幹とした「第六戦隊」で、沖ノ島沖の敵艦隊を撃滅せよ！
+  reward: [0,400,0,400]
+  reward2:
+    -
+      category: useitem
+      id: 12
+      amount: 1
+    -
+      category: useitem
+      id: 52
+      amount: 1
+  prerequisite: [233]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 25
+      boss: true
+      result: S
+    -
+      category: fleet
+      ship_id: 59
+    -
+      category: fleet
+      ship_id: 60
+    -
+      category: fleet
+      ship_id: 61
+    -
+      category: fleet
+      ship_id: 123
+  wiki_id: B34
+  chinese_title: 「第六战队」出击南方海域
+  chinese_detail: 派出以「古鹰」「加古」「青叶」「衣笠」为基干的「第六战队」，消灭2-5的敌人！
+---
