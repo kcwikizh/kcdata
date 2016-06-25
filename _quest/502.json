@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 502
+  category: 5
+  type: 1
+  title: はじめての「入渠」！
+  detail: 戦闘で傷ついた艦を「入渠」させて修理して、次の出撃に備えよう！
+  reward: [0,0,30,0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [203]
+  requirements:
+    -
+      category: repair
+      times: 1
+  wiki_id: E2
+  chinese_title: 初次的「入渠」！
+  chinese_detail: 「入渠」修理战斗中受伤的舰艇，为了下次的出击做准备！
+---

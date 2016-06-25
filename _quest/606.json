@@ -1,0 +1,27 @@
+---
+layout: json
+data:
+  id: 606
+  category: 6
+  type: 2
+  title: 新造艦「建造」指令
+  detail: 「工廠」で艦娘を本日中に新たに「建造」しよう！
+  reward: [50,50,50,50]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 1
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [605]
+  requirements:
+    -
+      category: construction
+      times: 1
+  wiki_id: F6
+  chinese_title: 新造舰「建造」指令
+  chinese_detail: 今天在「工厂」「建造」新舰娘！
+---

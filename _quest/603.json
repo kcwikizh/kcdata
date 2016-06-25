@@ -1,0 +1,27 @@
+---
+layout: json
+data:
+  id: 603
+  category: 6
+  type: 1
+  title: はじめての「解体」！
+  detail: 「工廠」で不要な艦を「解体」してみよう！
+  reward: [60,60,60,60]
+  reward2:
+    -
+      category: useitem
+      id: 2
+      amount: 1
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [602]
+  requirements:
+    -
+      category: dismantle
+      times: 1
+  wiki_id: F3
+  chinese_title: 初次的「解体」！
+  chinese_detail: 在「工厂」「解体」不要的舰艇！
+---

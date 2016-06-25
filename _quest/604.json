@@ -1,0 +1,27 @@
+---
+layout: json
+data:
+  id: 604
+  category: 6
+  type: 1
+  title: はじめての「廃棄」！
+  detail: 「工廠」で装備アイテムを「廃棄」してみよう！
+  reward: [80,80,80,80]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 1
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [603]
+  requirements:
+    -
+      category: scrap
+      times: 1
+  wiki_id: F4
+  chinese_title: 初次的「废弃」！
+  chinese_detail: 在「工厂」「废弃」不要的装备！
+---
