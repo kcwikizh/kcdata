@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 413
+  category: 4
+  type: 1
+  title: (続)航空火力艦の運用を強化せよ！
+  detail: 「航空戦艦運用演習」を継続実施し、航空火力艦の運用の強化に引き続き努めよ！
+  reward: [0,0,0,200]
+  reward2:
+    -
+      category: slotitem
+      id: 79
+      amount: 1
+  prerequisite: [412]
+  requirements:
+    -
+      category: expedition
+      times: 3
+      id: 23
+  wiki_id: D12
+  chinese_title: (续)强化航空火力舰的运用！
+  chinese_detail: 继续实施「航空战舰运用演习」，继续努力强化航空火力舰的运用！
+---

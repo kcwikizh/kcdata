@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 418
+  category: 4
+  type: 1
+  title: 観艦式予行を実施せよ！
+  detail: 観艦式を実施する。予行として「観艦式予行」を複数回実施し、これを2回成功させよ！
+  reward: [150,0,0,150]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 3
+  prerequisite: [137]
+  requirements:
+    -
+      category: expedition
+      times: 2
+      id: 7
+  wiki_id: D17
+  chinese_title: 实施观舰式预演！
+  chinese_detail: 在观舰式实施之前。实施多次作为预演的「观舰式予行」，成功两次！
+---

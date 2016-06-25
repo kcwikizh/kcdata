@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 409
+  category: 4
+  type: 1
+  title: 潜水艦派遣による海外艦との接触作戦
+  detail: 有力な潜水艦隊派遣による海外艦との接触作戦を成功させよ！
+  reward: [0,100,0,0]
+  reward2:
+    -
+      category: ship
+      id: 174
+      amount: 1
+  prerequisite: [408]
+  requirements:
+    -
+      category: expedition
+      times: 1
+      id: 31
+  wiki_id: D8
+  chinese_title: 派遣潜水舰与海外舰的接触作战
+  chinese_detail: 派遣有力的潜水舰队，成功实行与海外舰的接触作战！
+---

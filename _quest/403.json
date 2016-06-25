@@ -1,0 +1,27 @@
+---
+layout: json
+data:
+  id: 403
+  category: 4
+  type: 2
+  title: 「遠征」を１０回成功させよう！
+  detail: 本日中に「遠征」10回成功させよう！
+  reward: [150,300,300,150]
+  reward2:
+    -
+      category: useitem
+      id: 10
+      amount: 1
+    -
+      category: useitem
+      id: 11
+      amount: 1
+  prerequisite: [402]
+  requirements:
+    -
+      category: expedition
+      times: 10
+  wiki_id: D3
+  chinese_title: 「远征」10次成功！
+  chinese_detail: 今天「远征」成功10次！
+---

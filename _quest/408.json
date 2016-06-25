@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 408
+  category: 4
+  type: 1
+  title: 潜水艦派遣作戦による技術入手の継続！
+  detail: 第三次及び第四次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！
+  reward: [0,0,0,800]
+  reward2:
+    -
+      category: useitem
+      id: 52
+      amount: 1
+    -
+      category: slotitem
+      id: 64
+      amount: 1
+  prerequisite: [406]
+  requirements:
+    -
+      category: expedition
+      times: 2
+      id: 30
+  wiki_id: D7
+  chinese_title: 继续在潜水舰派遣作战获得技术！
+  chinese_detail: 成功实行第3次和第4次的潜水舰派遣作战，为了导入他国制造技术努力！
+---

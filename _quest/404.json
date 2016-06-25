@@ -1,0 +1,27 @@
+---
+layout: json
+data:
+  id: 404
+  category: 4
+  type: 3
+  title: 大規模遠征作戦、発令！
+  detail: 今週中に「遠征」30回成功させよう！
+  reward: [300,500,500,300]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 3
+    -
+      category: useitem
+      id: 12
+      amount: 1
+  prerequisite: 
+  requirements:
+    -
+      category: expedition
+      times: 30
+  wiki_id: D4
+  chinese_title: 大规模远征作战、宣布！
+  chinese_detail: 本周「远征」成功30次！
+---

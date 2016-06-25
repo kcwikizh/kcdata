@@ -1,0 +1,32 @@
+---
+layout: json
+data:
+  id: 420
+  category: 4
+  type: 1
+  title: 機動部隊の運用を強化せよ！
+  detail: 機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！
+  reward: [200,200,400,0]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 2
+    -
+      category: useitem
+      id: 12
+      amount: 1
+  prerequisite: [287,410]
+  requirements:
+    -
+      category: expedition
+      times: 1
+      id: 26
+    -
+      category: expedition
+      times: 1
+      id: 35
+  wiki_id: D19
+  chinese_title: 强化机动部队运用！
+  chinese_detail: 实施机动部队远征、成功实施「ＭＯ作戦」与「敵母港空襲作戦」！
+---

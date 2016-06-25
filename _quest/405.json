@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 405
+  category: 4
+  type: 1
+  title: 第一次潜水艦派遣作戦
+  detail: はじめての潜水艦派遣作戦を成功させよう！
+  reward: [0,0,10,10]
+  reward2:
+    -
+      category: useitem
+      id: 50
+      amount: 1
+  prerequisite: [127]
+  requirements:
+    -
+      category: expedition
+      times: 1
+      id: 30
+  wiki_id: D5
+  chinese_title: 第一次潜水舰派遣作战
+  chinese_detail: 成功实行初次的潜水舰派遣作战！
+---

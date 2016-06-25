@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 410
+  category: 4
+  type: 3
+  title: 南方への輸送作戦を成功させよ！
+  detail: 激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！
+  reward: [150,0,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 10
+      amount: 1
+  prerequisite: [130]
+  requirements:
+    -
+      category: expedition
+      times: 1
+      id: [37,38]
+  wiki_id: D9
+  chinese_title: 使向南方的输送作战成功！
+  chinese_detail: 向激战的南方海域成功实行「东京急行」系远征！
+---

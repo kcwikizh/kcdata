@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 406
+  category: 4
+  type: 1
+  title: 第二次潜水艦派遣作戦
+  detail: 第二次潜水艦派遣作戦を成功させよう！
+  reward: [0,0,10,10]
+  reward2:
+    -
+      category: slotitem
+      id: 64
+      amount: 1
+  prerequisite: [405]
+  requirements:
+    -
+      category: expedition
+      times: 1
+      id: 30
+  wiki_id: D6
+  chinese_title: 第二次潜水舰派遣作战
+  chinese_detail: 成功实行第2次的潜水舰派遣作战！
+---

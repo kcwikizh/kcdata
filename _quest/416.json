@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 416
+  category: 4
+  type: 1
+  title: 防空射撃演習を実施せよ！
+  detail: 「防空射撃演習」を複数回実施し、艦隊の防空能力を高めよ！
+  reward: [0,200,0,200]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+    -
+      category: slotitem
+      id: 40
+      amount: 1
+  prerequisite: [207]
+  requirements:
+    -
+      category: expedition
+      times: 3
+      id: 6
+  wiki_id: D15
+  chinese_title: 实施防空射击演习！
+  chinese_detail: 实施多次「防空射击演习」，提高舰队防空能力！
+---

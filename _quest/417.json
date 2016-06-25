@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 417
+  category: 4
+  type: 1
+  title: 囮機動部隊支援作戦を実施せよ！
+  detail: 「囮機動部隊支援作戦」を実施し、これを成功させよ！
+  reward: [400,0,0,400]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+    -
+      category: slotitem
+      id: 120
+      amount: 1
+  prerequisite: [272]
+  requirements:
+    -
+      category: expedition
+      times: 1
+      id: 15
+  wiki_id: D16
+  chinese_title: 实施「囮机动部队支援作战」！
+  chinese_detail: 成功实施「囮机动部队支援作战」！
+---

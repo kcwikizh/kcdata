@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 415
+  category: 4
+  type: 1
+  title: 遠洋潜水艦作戦の成果を拡大せよ！
+  detail: 「遠洋潜水艦作戦」を継続実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！
+  reward: [0,400,0,0]
+  reward2:
+    -
+      category: slotitem
+      id: 95
+      amount: 1
+  prerequisite: [414]
+  requirements:
+    -
+      category: expedition
+      times: 2
+      id: 39
+  wiki_id: D14
+  chinese_title: 扩大远洋潜水舰作战成果！
+  chinese_detail: 继续实施「远洋潜水舰作战」，努力提升潜水舰队实力与削弱敌舰队！
+---

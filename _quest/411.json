@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 411
+  category: 4
+  type: 3
+  title: 南方への鼠輸送を継続実施せよ！
+  detail: 今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう！
+  reward: [400,0,0,400]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+    -
+      category: useitem
+      id: 4
+      amount: 1
+  prerequisite: [410]
+  requirements:
+    -
+      category: expedition
+      times: 6
+      id: [37,38]
+  wiki_id: D11
+  chinese_title: 继续实施往南方的鼠輸送!
+  chinese_detail: 本周继续实行「东京急行」系远征，成功实行7次此作战！
+---

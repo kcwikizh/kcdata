@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 401
+  category: 4
+  type: 1
+  title: はじめての「遠征」！
+  detail: 艦隊を「遠征」に出発させよう！
+  reward: [30,30,30,30]
+  reward2:
+    -
+      category: useitem
+      id: 10
+      amount: 1
+  prerequisite: 
+  requirements:
+    -
+      category: expedition
+      times: 1
+  wiki_id: D1
+  chinese_title: 初次的「远征」！
+  chinese_detail: 舰队出发「远征」！
+---
