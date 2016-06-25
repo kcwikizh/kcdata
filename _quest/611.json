@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 611
+  category: 6
+  type: 1
+  title: 式の準備！(その壱)
+  detail: 式の準備をします！「工廠」で装備アイテムを2回「廃棄」して身の回りの整理を！
+  reward: [88,88,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [118]
+  requirements:
+    -
+      category: scrap
+      times: 2
+  wiki_id: WF01
+  chinese_title: 仪式的准备！(一)
+  chinese_detail: 仪式的准备！在「工厂」「废弃」2次装备整理身边！
+---

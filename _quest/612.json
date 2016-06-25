@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 612
+  category: 6
+  type: 1
+  title: 輸送用ドラム缶の準備
+  detail: 「工廠」で装備アイテムを3回「廃棄」して、輸送用のドラム缶を準備します。
+  reward: [0,0,30,0]
+  reward2:
+    -
+      category: slotitem
+      id: 75
+      amount: 3
+  prerequisite: [105]
+  requirements:
+    -
+      category: scrap
+      times: 3
+  wiki_id: F11
+  chinese_title: 输送桶的准备
+  chinese_detail: 在「工厂」「废弃」3次装备，准备输送用桶！
+---

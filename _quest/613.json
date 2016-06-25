@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 613
+  category: 6
+  type: 3
+  title: 資源の再利用
+  detail: 「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！
+  reward: [0,0,100,0]
+  reward2:
+    -
+      category: slotitem
+      id: 75
+      amount: 1
+  prerequisite: [228]
+  requirements:
+    -
+      category: scrap
+      times: 24
+  wiki_id: F12
+  chinese_title: 资源的再利用
+  chinese_detail: 在「工厂」尽可能多地「废弃」多余装备，努力使钢材再利用！
+---
