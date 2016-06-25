@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 304
+  category: 3
+  type: 2
+  title: 「演習」で他提督を圧倒せよ！
+  detail: 本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！
+  reward: [0,50,0,50]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [303]
+  requirements:
+    -
+      category: practice
+      times: 5
+      result: B
+  wiki_id: C3
+  chinese_title: 在「演习」战胜其他提督！
+  chinese_detail: 今天对其他司令官的舰队发起「演习」胜利5次以上！
+---

@@ -1,0 +1,29 @@
+---
+layout: json
+data:
+  id: 309
+  category: 3
+  type: 1
+  title: 北方再突入に備え、練度向上に努めよ！
+  detail: 艦隊再突入に備え、艦隊練度向上を図る！本日中に「演習」で4回以上「勝利」せよ！
+  reward: [300,300,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 2
+    -
+      category: useitem
+      id: 4
+      amount: 1
+  prerequisite: [278]
+  requirements:
+    -
+      category: practice
+      times: 4
+      result: B
+      period: 1
+  wiki_id: C7
+  chinese_title: 北方再突入而准备、努力提升舰队实力！
+  chinese_detail: 舰队再突入而准备、谋求舰队实力的上升！今天的「演习」胜利4次以上！
+---

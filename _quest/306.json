@@ -1,0 +1,25 @@
+---
+layout: json
+data:
+  id: 306
+  category: 3
+  type: 1
+  title: 式の準備！(その弐)
+  detail: 本日中に「演習」で2回以上「勝利」をおさめ、式への気持ちを整理しよう！
+  reward: [0,0,88,88]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [611]
+  requirements:
+    -
+      category: practice
+      times: 2
+      result: B
+      period: 1
+  wiki_id: WC01
+  chinese_title: 仪式的准备！(二)
+  chinese_detail: 今天在「演习」中胜利2次以上，调整对于仪式的心情！
+---

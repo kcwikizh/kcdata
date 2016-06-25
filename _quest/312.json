@@ -1,0 +1,29 @@
+---
+layout: json
+data:
+  id: 312
+  category: 3
+  type: 1
+  title: 上陸部隊演習
+  detail: 島嶼攻略部隊の練度向上のため、本日中に演習で4回以上「勝利」せよ！
+  reward: [0,200,200,0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+    -
+      category: slotitem
+      id: 145
+      amount: 1
+  prerequisite: [216,635]
+  requirements:
+    -
+      category: practice
+      times: 4
+      result: B
+      period: 1
+  wiki_id: C9
+  chinese_title: 登陆部队演习
+  chinese_detail: 对于岛屿攻略部队练度的提高、本日中演习达成4次以上胜利！
+---

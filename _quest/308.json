@@ -1,0 +1,29 @@
+---
+layout: json
+data:
+  id: 308
+  category: 3
+  type: 1
+  title: 演習を強化、艦隊の練度向上に努めよ！
+  detail: 艦隊のさらなる練度向上を図る！本日中に「演習」で4回以上「勝利」をおさめよう！
+  reward: [0,300,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 2
+    -
+      category: useitem
+      id: 4
+      amount: 1
+  prerequisite: [418]
+  requirements:
+    -
+      category: practice
+      times: 4
+      result: B
+      period: 1
+  wiki_id: C6
+  chinese_title: 努力利用演习强化、提升舰队能力！
+  chinese_detail: 努力提高舰队实力！今天的「演习」胜利4次以上！
+---

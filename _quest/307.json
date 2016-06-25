@@ -1,0 +1,25 @@
+---
+layout: json
+data:
+  id: 307
+  category: 3
+  type: 1
+  title: 艦隊の練度向上に努めよ！
+  detail: 作戦前に艦隊の練度向上を図る！本日中に「演習」で3回以上「勝利」をおさめよう！
+  reward: [0,0,300,300]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 2
+  prerequisite: [152]
+  requirements:
+    -
+      category: practice
+      times: 3
+      result: B
+      period: 1
+  wiki_id: C5
+  chinese_title: 努力提升舰队能力！
+  chinese_detail: 作战前努力提高舰队实力！今天的「演习」胜利3次以上！
+---

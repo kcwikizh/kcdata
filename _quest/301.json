@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 301
+  category: 3
+  type: 1
+  title: はじめての「演習」！
+  detail: 他の提督(プレイヤー)の艦隊と「演習」を行おう！
+  reward: [10,10,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: 
+  requirements:
+    -
+      category: practice
+      times: 1
+  wiki_id: C1
+  chinese_title: 初次的「演习」！
+  chinese_detail: 与其他提督（玩家）进行「演习」！
+---

@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 302
+  category: 3
+  type: 3
+  title: 大規模演習
+  detail: 今週中に「演習」で他の提督の艦隊に対して20回「勝利」しよう！
+  reward: [200,200,200,200]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+    -
+      category: useitem
+      id: 4
+      amount: 1
+  prerequisite: [303]
+  requirements:
+    -
+      category: practice
+      times: 20
+      result: B
+  wiki_id: C4
+  chinese_title: 大规模演习
+  chinese_detail: 本周对其他提督的舰队发起发起「演习」胜利20次！
+---

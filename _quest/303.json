@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 303
+  category: 3
+  type: 2
+  title: 「演習」で練度向上！
+  detail: 本日中に他の司令官の艦隊に対して3回「演習」を挑もう！
+  reward: [50,0,0,50]
+  reward2:
+    -
+      category: useitem
+      id: 2
+      amount: 1
+  prerequisite: 
+  requirements:
+    -
+      category: practice
+      times: 3
+  wiki_id: C2
+  chinese_title: 「演习」锻炼能力！
+  chinese_detail: 今天对其他司令官的舰队发起3次「演习」！
+---

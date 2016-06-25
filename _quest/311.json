@@ -1,0 +1,29 @@
+---
+layout: json
+data:
+  id: 311
+  category: 3
+  type: 6
+  title: 精鋭艦隊演習
+  detail: 同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！
+  reward: [0,400,0,200]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 2
+    -
+      category: slotitem
+      id: 145
+      amount: 1
+  prerequisite: [216]
+  requirements:
+    -
+      category: practice
+      times: 7
+      result: B
+      period: 1
+  wiki_id: C8
+  chinese_title: 精锐舰队演习
+  chinese_detail: 同一天内拿下七次演习的胜利，以示我们精锐舰队的练度！
+---
