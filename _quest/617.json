@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 617
+  category: 6
+  type: 1
+  title: 「伊良湖」の準備
+  detail: 「工廠」で不要な装備アイテムをいくつか「廃棄」して、新型給糧艦召喚の準備をしましょう！
+  reward: [100,0,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 59
+      amount: 4
+  prerequisite: [215,608]
+  requirements:
+    -
+      category: scrap
+      times: 10
+  wiki_id: F16
+  chinese_title: 「伊良湖」的准备
+  chinese_detail: 在「工厂」「废弃」若干不要的装备，为了召唤新型给粮舰做准备！
+---

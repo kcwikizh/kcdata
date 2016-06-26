@@ -1,0 +1,27 @@
+---
+layout: json
+data:
+  id: 614
+  category: 6
+  type: 1
+  title: 機種転換
+  detail: 「九七式艦攻(友永隊)」搭載空母を秘書艦にした状態で新たに「天山」を2つ廃棄！
+  reward: [0,0,0,50]
+  reward2:
+    -
+      category: slotitem
+      id: 94
+      amount: 1
+  prerequisite: [250]
+  requirements:
+    -
+      category: scrap
+      amount: 2
+      slotitem_id: 17
+    -
+      category: flagship
+      slotitem_id: 93
+  wiki_id: F13
+  chinese_title: 机种转换
+  chinese_detail: 以搭载了「九七式舰攻(友永队)」的空母作为秘书舰的状态废弃两架「天山」！
+---

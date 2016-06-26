@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 622
+  category: 6
+  type: 1
+  title: 機種転換
+  detail: 「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！
+  reward: [0,0,0,50]
+  reward2:
+    -
+      category: slotitem
+      id: 144
+      amount: 1
+  prerequisite: [287]
+  requirements:
+    -
+      category: scrap
+      amount: 2
+      slotitem_id: 17
+    -
+      category: flagship
+      ship_id: 106
+      slotitem_id: 143
+  wiki_id: F20
+  chinese_title: 机种转换
+  chinese_detail: 以「翔鹤」为秘书舰并搭载装备「九七式舰攻(村田队)」的状态下废弃装备「天山」两个！
+---

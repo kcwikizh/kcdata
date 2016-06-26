@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 701
+  category: 7
+  type: 1
+  title: はじめての「近代化改修」！
+  detail: 任意の艦を近代化改修(合成)して、強化せよ！
+  reward: [0,0,50,50]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: 
+  requirements:
+    -
+      category: modernize
+      times: 1
+  wiki_id: G1
+  chinese_title: 初次的「近代化改修」！
+  chinese_detail: 对任意舰进行近代化改修(合成)，强化！
+---

@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 704
+  category: 7
+  type: 1
+  title: 「大型艦建造」の準備！(その壱)
+  detail: 大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！
+  reward: [0,0,400,400]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [109]
+  requirements:
+    -
+      category: modernize
+      times: 4
+  wiki_id: G4
+  chinese_title: 「大型舰建造」的准备！(一)
+  chinese_detail: 为了大型舰/新型舰建造做准备。对任意舰成功实施4次以上近代化改修！
+---

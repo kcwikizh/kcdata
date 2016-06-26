@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 634
+  category: 6
+  type: 1
+  title: 新家具の準備
+  detail: 「工廠」で装備アイテムを9つ「廃棄」して、新家具の準備をします。
+  reward: [0,0,90,0]
+  reward2:
+    -
+      category: useitem
+      id: 52
+      amount: 1
+  prerequisite: [216]
+  requirements:
+    -
+      category: scrap
+      amount: 9
+  wiki_id: F31
+  chinese_title: 新家具的准备
+  chinese_detail: 工厂中废弃9件装备，为购买新家具做准备。
+---

@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 702
+  category: 7
+  type: 2
+  title: 艦の「近代化改修」を実施せよ！
+  detail: 近代化改修を実施して、２回以上これを成功させよ！
+  reward: [20,20,50,0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 1
+  prerequisite: [701]
+  requirements:
+    -
+      category: modernize
+      times: 2
+  wiki_id: G2
+  chinese_title: 实施舰船的「近代化改修」！
+  chinese_detail: 成功实施2次以上近代化改修！
+---

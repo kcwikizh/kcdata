@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 624
+  category: 6
+  type: 1
+  title: 試作艤装の準備
+  detail: 「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備します。
+  reward: [0,0,100,0]
+  reward2:
+    -
+      category: useitem
+      id: 65
+      amount: 1
+  prerequisite: [420]
+  requirements:
+    -
+      category: scrap
+      amount: 7
+  wiki_id: F21
+  chinese_title: 试作舣装的准备
+  chinese_detail: 在工厂进行7个装备道具废弃，为 试制甲板用弹射器 做准备吧。
+---

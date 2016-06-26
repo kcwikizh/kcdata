@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 636
+  category: 6
+  type: 1
+  title: 上陸戦用新装備の調達
+  detail: 「工廠」で「7.7mm機銃」及び「12.7mm単装機銃」を二つずつ廃棄！
+  reward: [50,0,0,0]
+  reward2:
+    -
+      category: slotitem
+      id: 167
+      amount: 1
+  prerequisite: [278,312]
+  requirements:
+    -
+      category: scrap
+      amount: 2
+      slotitem_id: 37
+    -
+      category: scrap
+      amount: 2
+      slotitem_id: 38
+  wiki_id: F33
+  chinese_title: 登陆战用装备的调集
+  chinese_detail: 工厂7.7mm机铳、12.7mm单装机铳各废弃两个！
+---

@@ -1,0 +1,27 @@
+---
+layout: json
+data:
+  id: 627
+  category: 6
+  type: 1
+  title: 機種転換
+  detail: 「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！
+  reward: [0,0,0,50]
+  reward2:
+    -
+      category: slotitem
+      id: 152
+      amount: 1
+  prerequisite: [164,626]
+  requirements:
+    -
+      category: scrap
+      amount: 2
+      slotitem_id: 21
+    -
+      category: flagship
+      slotitem_id: 96
+  wiki_id: F24
+  chinese_title: 机种转换
+  chinese_detail: 以搭载“零战21型（熟练）“的航母为秘书舰时废弃“零战52型”x2”!
+---
