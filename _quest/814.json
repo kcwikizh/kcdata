@@ -1,0 +1,43 @@
+---
+layout: json
+data:
+  id: 814
+  category: 8
+  type: 1
+  title: 強行高速輸送部隊、出撃せよ！
+  detail: 「江風改二」「時雨改二」「川内改二」他駆逐2隻を含む艦隊で、ジャム島攻略作戦を実施せよ！
+  reward: [500,0,500,0]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 2
+    -
+      category: useitem
+      id: 59
+      amount: 1
+  prerequisite: [173]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 41
+      boss: true
+      result: A
+    -
+      category: flagship
+      ship_id: 158
+    -
+      category: fleet
+      ship_id: 469
+    -
+      category: fleet
+      ship_id: 145
+    -
+      category: fleet
+      amount: 2
+      ship_type: 2
+  wiki_id: B68
+  chinese_title: 强行高速运输部队、出击！
+  chinese_detail: 江风改二、时雨改二、川内改二和包含其他两艘驱逐舰的舰队实施爪姆岛攻略作战！
+---

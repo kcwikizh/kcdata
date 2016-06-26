@@ -1,0 +1,38 @@
+---
+layout: json
+data:
+  id: 807
+  category: 8
+  type: 1
+  title: 「第三十一戦隊」出撃せよ！
+  detail: 第三十一戦隊(第一次)を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！
+  reward: [0,0,600,0]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 3
+    -
+      category: useitem
+      id: 62
+      amount: 1
+  prerequisite: [171]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 16
+      boss: true
+    -
+      category: flagship
+      ship_id: 141
+    -
+      category: fleet
+      ship_id: 418
+    -
+      category: fleet
+      ship_id: 309
+  wiki_id: B60
+  chinese_title: 第三十一战队出击！
+  chinese_detail: 第三十一战队（第一次）镇守府近海航路出击，确保同航路的安全！
+---

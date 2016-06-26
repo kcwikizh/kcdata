@@ -1,0 +1,37 @@
+---
+layout: json
+data:
+  id: 806
+  category: 8
+  type: 1
+  title: 旗艦「霞」出撃！敵艦隊を撃滅せよ！
+  detail: 旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！
+  reward: [500,500,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 3
+    -
+      category: slotitem
+      id: 131
+      amount: 1
+  prerequisite: [402,805]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 25
+      boss: true
+      result: S
+    -
+      category: flagship
+      ship_id: 464
+    -
+      category: fleet
+      amount: 3
+      ship_type: 2
+  wiki_id: B59
+  chinese_title: 旗舰“霞”出击！敌方舰队歼灭！
+  chinese_detail: 以霞改二为旗舰，包含驱逐舰共三艘的舰队出击2-5,歼灭敌方主力舰队！
+---

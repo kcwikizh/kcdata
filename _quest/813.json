@@ -1,0 +1,33 @@
+---
+layout: json
+data:
+  id: 813
+  category: 8
+  type: 1
+  title: 旗艦「大潮」出撃せよ！
+  detail: 「大潮改二」旗艦の有力な艦隊を北方AL海域に展開、北方海域戦闘哨戒を実施せよ！
+  reward: [500,500,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 3
+    -
+      category: useitem
+      id: 66
+      amount: 1
+  prerequisite: [806,812]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 35
+      boss: true
+      result: S
+    -
+      category: flagship
+      ship_id: 199
+  wiki_id: B66
+  chinese_title: 旗舰“大潮”出击！
+  chinese_detail: 派遣大潮改二作为旗舰的强大舰队与北方AL海域展开作战、在北方海域实施战斗巡逻！
+---

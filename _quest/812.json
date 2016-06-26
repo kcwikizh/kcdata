@@ -1,0 +1,33 @@
+---
+layout: json
+data:
+  id: 812
+  category: 8
+  type: 1
+  title: オリョール海の制海権を確保せよ！
+  detail: 大潮を旗艦とする艦隊を東部オリョール海に反復出撃、同方面敵艦隊を完全撃滅せよ！
+  reward: [0,400,0,200]
+  reward2:
+    -
+      category: useitem
+      id: 57
+      amount: 1
+    -
+      category: useitem
+      id: 59
+      amount: 1
+  prerequisite: [239,811]
+  requirements:
+    -
+      category: sortie
+      times: 6
+      map: 23
+      boss: true
+      result: S
+    -
+      category: flagship
+      ship_id: 96
+  wiki_id: B65
+  chinese_title: 东部奥廖尔海制海权确保！
+  chinese_detail: 大潮作为旗舰带领舰队反复出击东部奥廖尔海、并完全歼灭同方面的敌舰队！
+---

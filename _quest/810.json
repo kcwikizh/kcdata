@@ -1,0 +1,38 @@
+---
+layout: json
+data:
+  id: 810
+  category: 8
+  type: 1
+  title: 製油所地帯を防衛せよ！
+  detail: 水雷戦隊を製油所地帯沿岸に展開！同海域に出没する敵艦隊を三回以上撃滅せよ！
+  reward: [400,0,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 57
+      amount: 1
+    -
+      category: useitem
+      id: 66
+      amount: 1
+  prerequisite: [216]
+  requirements:
+    -
+      category: sortie
+      times: 3
+      map: 13
+      boss: true
+      result: B
+    -
+      category: fleet
+      amount: 1
+      ship_type: 3
+    -
+      category: fleet
+      amount: [1,5]
+      ship_type: 2
+  wiki_id: B63
+  chinese_title: 制油所地带防卫作战！
+  chinese_detail: 水雷战队于制油所沿岸地带展开！歼灭同海域出没的敌舰队三次以上！
+---

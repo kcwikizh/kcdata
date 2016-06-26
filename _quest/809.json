@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 809
+  category: 8
+  type: 1
+  title: 強襲上陸作戦用戦力を増強せよ！
+  detail: 中部海域における航空偵察「K作戦」を実施しつつ、強襲上陸作戦用戦力の強化を図れ！
+  reward: [0,600,0,0]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 3
+    -
+      category: slotitem
+      id: 68
+      amount: 1
+  prerequisite: [243,420]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 63
+      boss: true
+      result: B
+  wiki_id: B62
+  chinese_title: 强袭陆上作战战力增强！
+  chinese_detail: 中部海域航空侦查“K作战”实施的同时，增强强袭陆上作战战力！
+---
