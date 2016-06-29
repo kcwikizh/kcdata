@@ -20,16 +20,9 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: 67
-    -
-      category: fleet
-      ship_id: 66
-    -
-      category: fleet
-      ship_id: 69
-    -
-      category: fleet
-      ship_id: 68
+      amount:
+        gte: 4
+      ship_id: [67,66,69,68]
   wiki_id: A21
   chinese_title: 「第四战队」编成！
   chinese_detail: 以「爱宕」「高雄」「鸟海」「摩耶」为基干编成第四战队！

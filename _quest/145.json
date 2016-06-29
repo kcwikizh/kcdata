@@ -20,7 +20,8 @@ data:
       ship_type: [9, 10]
     -
       category: fleet
-      amount: 1
+      amount:
+        gte: 1
       ship_type: 3
   wiki_id: A43
   chinese_title: 战舰为主力的水上打击部队编成！

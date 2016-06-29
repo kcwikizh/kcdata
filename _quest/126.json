@@ -16,11 +16,13 @@ data:
   requirements:
     -
       category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: 10
     -
       category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: 6
   wiki_id: A26
   chinese_title: 航空水上打击舰队编成！

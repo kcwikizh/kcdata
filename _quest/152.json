@@ -19,8 +19,8 @@ data:
       ship_id: 427
     -
       category: fleet
-      amount: 5
-      ship_id: [51, 59, 60, 61, 115, 123]
+      amount: 6
+      ship_id: [427,51,59,60,61,115,123]
   wiki_id: A50
   chinese_title: 「三川舰队」新编成，突入准备！
   chinese_detail: 在第一舰队，以「鸟海改二」为旗舰编成三川舰队！

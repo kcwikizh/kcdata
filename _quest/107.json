@@ -12,14 +12,15 @@ data:
       category: useitem
       id: 3
       amount: 1
-  prerequisite: 
+  prerequisite: [106]
   requirements:
     -
       category: flagship
       ship_type: [7, 11, 18]
     -
       category: fleet
-      amount: 3
+      amount:
+        gte: 3
       ship_type: 2
   wiki_id: A12
   chinese_title: 空母机动部队编成！

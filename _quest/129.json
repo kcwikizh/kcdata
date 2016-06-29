@@ -16,16 +16,9 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: 63
-    -
-      category: fleet
-      ship_id: 64
-    -
-      category: fleet
-      ship_id: 100
-    -
-      category: fleet
-      ship_id: 101
+      amount:
+        gte: 4
+      ship_id: [63,64,100,101]
   wiki_id: A29
   chinese_title: 「第5舰队」编成！
   chinese_detail: 以「那智」「足柄」「多摩」「木曾」为核心编成第五舰队！

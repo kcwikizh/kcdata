@@ -12,11 +12,12 @@ data:
       category: useitem
       id: 3
       amount: 1
-  prerequisite: 
+  prerequisite: [103]
   requirements:
     -
       category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: 3
   wiki_id: A5
   chinese_title: 编成拥有2艘轻巡的舰队！

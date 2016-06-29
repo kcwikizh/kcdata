@@ -16,19 +16,8 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: 1
-    -
-      category: fleet
-      ship_id: 164
-    -
-      category: fleet
-      ship_id: 165
-    -
-      category: fleet
-      ship_id: 31
-    -
-      category: fleet
-      disallowed: true
+      amount: 4
+      ship_id: [1,164,165,31]
   wiki_id: A34
   chinese_title: 「第三十驱逐队(第二次)」编成！
   chinese_detail: 以「睦月」「弥生」「卯月」「望月」4艘编成第三十驱逐队（第二次）！

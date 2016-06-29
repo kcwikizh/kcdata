@@ -23,19 +23,8 @@ data:
       ship_id: 200
     -
       category: fleet
-      ship_id: 35
-    -
-      category: fleet
-      ship_id: 133
-    -
-      category: fleet
-      ship_id: 135
-    -
-      category: fleet
-      ship_id: 132
-    -
-      category: fleet
-      ship_id: 50
+      amount: 6
+      ship_id: [200,35,133,135,132,50]
   wiki_id: A55
   chinese_title: 「第一水雷战队」北方再突入准备！
   chinese_detail: 以「阿武隈改二」为旗舰，「响」「夕云」「长波」「秋云」「岛风」再次编成一水战！

@@ -19,10 +19,8 @@ data:
       ship_id: 158
     -
       category: fleet
-      ship_id: 469
-    -
-      category: fleet
-      ship_id: 145
+      amount: 5
+      ship_id: [158,469,145]
     -
       category: fleet
       amount: 4

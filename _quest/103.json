@@ -12,14 +12,15 @@ data:
       category: useitem
       id: 3
       amount: 1
-  prerequisite: 
+  prerequisite: [102]
   requirements:
     -
       category: flagship
       ship_type: 3
     -
       category: fleet
-      amount: 3
+      amount:
+        gte: 3
       ship_type: 2
   wiki_id: A3
   chinese_title: 「水雷战队」编成！

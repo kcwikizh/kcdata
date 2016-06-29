@@ -23,16 +23,8 @@ data:
       ship_id: 242
     -
       category: fleet
-      ship_id: 43
-    -
-      category: fleet
-      ship_id: 405
-    -
-      category: fleet
-      ship_id: 46
-    -
-      category: fleet
-      disallowed: true
+      amount: 4
+      ship_id: [242,43,405,46]
   wiki_id: A67
   chinese_title: 第二十七驱逐队编成！
   chinese_detail: 以白露改为旗舰，包含时雨、春雨、五月雨的第二十七驱逐队队编成！

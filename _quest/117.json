@@ -17,12 +17,13 @@ data:
     -
       category: flagship
       ship_type: [7, 11, 18]
-      fleet: 2
+      fleet_id: 2
     -
       category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: 2
-      fleet: 2
+      fleet_id: 2
   wiki_id: A11
   chinese_title: 在第二舰队编成空母机动部队！
   chinese_detail: 在第二舰队配备空母，编成空母机动部队！

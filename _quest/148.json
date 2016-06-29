@@ -23,7 +23,8 @@ data:
       ship_id: 49
     -
       category: fleet
-      ship_id: 64
+      amount: 6
+      ship_id: [49,64]
     -
       category: fleet
       amount: 1

@@ -23,10 +23,13 @@ data:
       ship_id: 196
     -
       category: fleet
-      ship_id: 90
+      amount:
+        gte: 4
+      ship_id: [196,90]
     -
       category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: 2
   wiki_id: A36
   chinese_title: 新编「第二航空战队」编成！

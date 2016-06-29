@@ -16,16 +16,9 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: 59
-    -
-      category: fleet
-      ship_id: 60
-    -
-      category: fleet
-      ship_id: 61
-    -
-      category: fleet
-      ship_id: 123
+      amount:
+        gte: 4
+      ship_id: [59,60,61,123]
   wiki_id: A28
   chinese_title: 「第六战队」编成！
   chinese_detail: 以「古鹰」「加古」「青叶」「衣笠」为基干编成第六战队！

@@ -19,13 +19,8 @@ data:
       ship_id: 437
     -
       category: fleet
-      ship_id: 35
-    -
-      category: fleet
-      ship_id: 36
-    -
-      category: fleet
-      ship_id: 37
+      amount: 4
+      ship_id: [437,35,36,37]
   wiki_id: A53
   chinese_title: 新编成「第六驱逐队」！
   chinese_detail: 以「晓改二」为旗舰，「响」「雷」「电」共4艘编成第六驱逐队！

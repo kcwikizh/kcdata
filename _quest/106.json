@@ -8,7 +8,6 @@ data:
   detail: 重巡洋艦２隻を擁する重巡艦隊を編成せよ！
   reward: [0,70,0,30]
   reward2:
-  reward2:
     -
       category: useitem
       id: 1
@@ -17,7 +16,8 @@ data:
   requirements:
     -
       category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: 5
   wiki_id: A7
   chinese_title: 「重巡战队」编成！

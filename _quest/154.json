@@ -20,22 +20,8 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: 86
-    -
-      category: fleet
-      ship_id: 85
-    -
-      category: fleet
-      ship_id: 21
-    -
-      category: fleet
-      ship_id: 34
-    -
-      category: fleet
-      ship_id: 36
-    -
-      category: fleet
-      ship_id: 37
+      amount: 6
+      ship_id: [86,85,21,34,36,37]
   wiki_id: A52
   chinese_title: 海上突入部队编成！
   chinese_detail: 以战舰「比睿」「雾岛」轻巡「长良」驱逐舰「晓」「雷」「电」编成海上突入部队！

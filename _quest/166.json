@@ -23,19 +23,8 @@ data:
       ship_id: 112
     -
       category: fleet
-      ship_id: 117
-    -
-      category: fleet
-      ship_id: 108
-    -
-      category: fleet
-      ship_id: 109
-    -
-      category: fleet
-      ship_id: 82
-    -
-      category: fleet
-      ship_id: 88
+      amount: 6
+      ship_id: [112,117,108,109,82,88]
   wiki_id: A61
   chinese_title: “小沢舰队”编成！
   chinese_detail: 以瑞鹤改为旗舰、航母瑞凤改、千岁、千代田以及伊势改、日向改编成舰队!

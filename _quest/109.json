@@ -15,13 +15,9 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: 54
-    -
-      category: fleet
-      ship_id: 55
-    -
-      category: fleet
-      ship_id: 56
+      amount:
+        gte: 3
+      ship_id: [54,55,56]
   wiki_id: A14
   chinese_title: 「川内」型轻巡姐妹全部3舰编成！
   chinese_detail: 川内型轻巡洋舰，将「川内」「神通」「那珂」编成在同一舰队！

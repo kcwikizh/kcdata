@@ -12,11 +12,12 @@ data:
       category: useitem
       id: 3
       amount: 1
-  prerequisite: 
+  prerequisite: [104]
   requirements:
     -
       category: fleet
-      amount: 1
+      amount:
+        gte: 1
       ship_type: 16
   wiki_id: A9
   chinese_title: 配备「水上机母舰」！

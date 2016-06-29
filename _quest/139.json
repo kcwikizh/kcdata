@@ -19,7 +19,8 @@ data:
       ship_type: 20
     -
       category: fleet
-      amount: 4
+      amount:
+        gte: 4
       ship_type: 13
   wiki_id: A37
   chinese_title: 潜水舰队「第六舰队」编成！

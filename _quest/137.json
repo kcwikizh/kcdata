@@ -16,13 +16,9 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: 62
-    -
-      category: fleet
-      ship_id: 63
-    -
-      category: fleet
-      ship_id: 65
+      amount:
+        gte: 3
+      ship_id: [62,63,65]
   wiki_id: A35
   chinese_title: 「第五战队」编成！
   chinese_detail: 以「妙高」「那智」「羽黑」为基干编成第五战队！

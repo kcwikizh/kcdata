@@ -20,13 +20,13 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: 461
+      amount:
+        gte: 4
+      ship_id: [461,462]
     -
       category: fleet
-      ship_id: 462
-    -
-      category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: 2
   wiki_id: A62
   chinese_title: “新航空战队”编成！

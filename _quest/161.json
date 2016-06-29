@@ -16,16 +16,9 @@ data:
   requirements:
     -
       category: fleet
-      ship_id: 110
-    -
-      category: fleet
-      ship_id: 111
-    -
-      category: fleet
-      ship_id: 93
-    -
-      category: fleet
-      ship_id: 132
+      amount:
+        gte: 4
+      ship_id: [110,11,93,132]
   wiki_id: A56
   chinese_title: 「第五航空战队」再次编成！
   chinese_detail: 以「翔鹤」、「瑞鹤」及伴随驱逐舰「胧」「秋云」为基干再次编成第五航空战队！

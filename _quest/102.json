@@ -12,11 +12,12 @@ data:
       category: useitem
       id: 2
       amount: 1
-  prerequisite: 
+  prerequisite: [101]
   requirements:
     -
       category: fleet
-      amount: 4
+      amount:
+        gte: 4
       ship_type: 2
   wiki_id: A2
   chinese_title: 「驱逐队」编成！
