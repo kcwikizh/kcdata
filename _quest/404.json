@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 12
       amount: 1
-  prerequisite: 
+  prerequisite: [401]
   requirements:
     -
       category: expedition

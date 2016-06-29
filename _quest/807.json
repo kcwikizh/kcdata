@@ -28,10 +28,9 @@ data:
       ship_id: 141
     -
       category: fleet
-      ship_id: 418
-    -
-      category: fleet
-      ship_id: 309
+      amount:
+        gte: 3
+      ship_id: [141,418,309]
   wiki_id: B60
   chinese_title: 第三十一战队出击！
   chinese_detail: 第三十一战队（第一次）镇守府近海航路出击，确保同航路的安全！

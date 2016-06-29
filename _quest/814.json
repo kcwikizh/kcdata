@@ -29,13 +29,13 @@ data:
       ship_id: 158
     -
       category: fleet
-      ship_id: 469
+      amount:
+        gte: 5
+      ship_id: [158,469,145]
     -
       category: fleet
-      ship_id: 145
-    -
-      category: fleet
-      amount: 2
+      amount:
+        gte: 4
       ship_type: 2
   wiki_id: B68
   chinese_title: 强行高速运输部队、出击！

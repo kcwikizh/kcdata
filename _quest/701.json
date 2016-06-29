@@ -12,7 +12,7 @@ data:
       category: useitem
       id: 3
       amount: 1
-  prerequisite: 
+  prerequisite: []
   requirements:
     -
       category: modernize

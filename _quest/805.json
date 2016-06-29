@@ -29,7 +29,8 @@ data:
       ship_id: 464
     -
       category: fleet
-      amount: 4
+      amount:
+        gte: 4
       ship_type: 2
   wiki_id: B58
   chinese_title: 旗舰“霞”北方海域警戒！

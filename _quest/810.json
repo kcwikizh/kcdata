@@ -30,7 +30,8 @@ data:
       ship_type: 3
     -
       category: fleet
-      amount: [1,5]
+      amount:
+        gte: 0
       ship_type: 2
   wiki_id: B63
   chinese_title: 制油所地带防卫作战！

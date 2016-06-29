@@ -21,11 +21,11 @@ data:
     -
       category: expedition
       times: 1
-      id: 26
+      expedition_id: 26
     -
       category: expedition
       times: 1
-      id: 35
+      expedition_id: 35
   wiki_id: D19
   chinese_title: 强化机动部队运用！
   chinese_detail: 实施机动部队远征、成功实施「ＭＯ作戦」与「敵母港空襲作戦」！

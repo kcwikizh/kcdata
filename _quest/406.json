@@ -17,7 +17,7 @@ data:
     -
       category: expedition
       times: 1
-      id: 30
+      expedition_id: 30
   wiki_id: D6
   chinese_title: 第二次潜水舰派遣作战
   chinese_detail: 成功实行第2次的潜水舰派遣作战！

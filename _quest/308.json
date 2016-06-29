@@ -22,7 +22,7 @@ data:
       category: practice
       times: 4
       result: B
-      period: 1
+      daily: true
   wiki_id: C6
   chinese_title: 努力利用演习强化、提升舰队能力！
   chinese_detail: 努力提高舰队实力！今天的「演习」胜利4次以上！

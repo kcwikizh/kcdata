@@ -25,13 +25,9 @@ data:
       ship_id: 242
     -
       category: fleet
-      ship_id: 43
-    -
-      category: fleet
-      ship_id: 405
-    -
-      category: fleet
-      ship_id: 46
+      amount:
+        gte: 4
+      ship_id: [242,43,405,46]
   wiki_id: B61
   chinese_title: 第二十七驱逐队出击！
   chinese_detail: 第二十七驱逐队出击2-3

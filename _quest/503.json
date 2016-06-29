@@ -12,7 +12,7 @@ data:
       category: useitem
       id: 1
       amount: 2
-  prerequisite: 
+  prerequisite: [502]
   requirements:
     -
       category: repair

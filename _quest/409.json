@@ -17,7 +17,7 @@ data:
     -
       category: expedition
       times: 1
-      id: 31
+      expedition_id: 31
   wiki_id: D8
   chinese_title: 派遣潜水舰与海外舰的接触作战
   chinese_detail: 派遣有力的潜水舰队，成功实行与海外舰的接触作战！

@@ -21,7 +21,7 @@ data:
     -
       category: expedition
       times: 2
-      id: 30
+      expedition_id: 30
   wiki_id: D7
   chinese_title: 继续在潜水舰派遣作战获得技术！
   chinese_detail: 成功实行第3次和第4次的潜水舰派遣作战，为了导入他国制造技术努力！

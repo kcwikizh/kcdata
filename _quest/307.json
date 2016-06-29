@@ -18,7 +18,7 @@ data:
       category: practice
       times: 3
       result: B
-      period: 1
+      daily: true
   wiki_id: C5
   chinese_title: 努力提升舰队能力！
   chinese_detail: 作战前努力提高舰队实力！今天的「演习」胜利3次以上！

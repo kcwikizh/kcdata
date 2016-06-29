@@ -17,7 +17,7 @@ data:
     -
       category: expedition
       times: 1
-      id: [37,38]
+      expedition_id: [37,38]
   wiki_id: D9
   chinese_title: 使向南方的输送作战成功！
   chinese_detail: 向激战的南方海域成功实行「东京急行」系远征！

@@ -21,7 +21,7 @@ data:
     -
       category: expedition
       times: 3
-      id: 6
+      expedition_id: 6
   wiki_id: D15
   chinese_title: 实施防空射击演习！
   chinese_detail: 实施多次「防空射击演习」，提高舰队防空能力！

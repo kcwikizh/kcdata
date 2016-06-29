@@ -17,7 +17,7 @@ data:
     -
       category: expedition
       times: 1
-      id: 39
+      expedition_id: 39
   wiki_id: D13
   chinese_title: 实施远洋潜水舰作战！
   chinese_detail: 实施「远洋潜水舰作战」，努力提升潜水舰队实力与削弱敌舰队！
