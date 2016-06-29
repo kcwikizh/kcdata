@@ -26,16 +26,13 @@ data:
       result: S
     -
       category: fleet
-      ship_id: 28
+      amount:
+        gte: 4
+      ship_id: [28,29,6]
     -
       category: fleet
-      ship_id: 29
-    -
-      category: fleet
-      ship_id: 6
-    -
-      category: fleet
-      amount: 4
+      amount:
+        gte: 4
       ship_type: 2
   wiki_id: B39
   chinese_title: 「第二二驱逐队」出击！

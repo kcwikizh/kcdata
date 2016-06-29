@@ -26,11 +26,13 @@ data:
       result: S
     -
       category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: [7,11,18]
     -
       category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: 2
   wiki_id: Bm6
   chinese_title: 「空母机动部队」往西方！

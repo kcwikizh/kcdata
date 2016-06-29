@@ -25,10 +25,13 @@ data:
       ship_id: 197
     -
       category: fleet
-      ship_id: 196
+      amount:
+        gte: 4
+      ship_id: [197,196]
     -
       category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: 2
   wiki_id: B26
   chinese_title: 精锐「第二航空战队」起锚

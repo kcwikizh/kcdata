@@ -26,7 +26,7 @@ data:
       result: S
     -
       category: fleet
-      amount: 1
+      amount: [1,2]
       ship_type: 7
     -
       category: fleet
@@ -34,12 +34,8 @@ data:
       ship_type: 3
     -
       category: fleet
-      amount: 3
+      amount: [3,4]
       ship_type: 2
-    -
-      category: fleet
-      amount: 6
-      ship_type: [2,3,7]
   wiki_id: B29
   chinese_title: 「軽空母」战队、出击！
   chinese_detail: 派出以轻空母1～2艘，轻巡1艘，驱逐舰3～4艘组成的舰队消灭2-1的敌人！

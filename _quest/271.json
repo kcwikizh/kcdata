@@ -29,19 +29,8 @@ data:
       ship_id: 63
     -
       category: fleet
-      ship_id: 41
-    -
-      category: fleet
-      ship_id: 49
-    -
-      category: fleet
-      ship_id: 16
-    -
-      category: fleet
-      ship_id: 15
-    -
-      category: fleet
       amount: 6
+      ship_id: [63,41,49,16,15]
   wiki_id: B38
   chinese_title: 「那智战队」起锚
   chinese_detail: 派出旗舰「那智」和「初霜」「霞」「潮」「曙」和其他1艘舰艇组成的舰队歼灭2-2的敌人！

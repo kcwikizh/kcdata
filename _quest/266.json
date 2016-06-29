@@ -29,16 +29,16 @@ data:
       ship_type: 2
     -
       category: fleet
-      amount: 4
-      ship_type: 2
+      amount: 1
+      ship_type: 5
     -
       category: fleet
       amount: 1
       ship_type: 3
     -
       category: fleet
-      amount: 1
-      ship_type: 5
+      amount: 4
+      ship_type: 2
   wiki_id: Bm7
   chinese_title: 「水上反击部队」突入！
   chinese_detail: 派出以驱逐舰为旗舰，重巡1艘轻巡1艘驱逐舰4艘组成的水上挺身部队，出击2-5！

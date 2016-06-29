@@ -29,19 +29,8 @@ data:
       ship_id: 112
     -
       category: fleet
-      ship_id: 117
-    -
-      category: fleet
-      ship_id: 108
-    -
-      category: fleet
-      ship_id: 109
-    -
-      category: fleet
-      ship_id: 82
-    -
-      category: fleet
-      ship_id: 88
+      amount: 6
+      ship_id: [112,117,108,109,82,88]
   wiki_id: B54
   chinese_title: “小沢舰队”出击！
   chinese_detail: “小沢舰队”出击2-4，捕捉敌方机动部队予以歼灭!

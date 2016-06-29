@@ -26,16 +26,8 @@ data:
       result: S
     -
       category: fleet
-      ship_id: 59
-    -
-      category: fleet
-      ship_id: 60
-    -
-      category: fleet
-      ship_id: 61
-    -
-      category: fleet
-      ship_id: 123
+      amount: 6
+      ship_id: [59,60,61,123]
   wiki_id: B19
   chinese_title: 「第六战队」出击！
   chinese_detail: 派出「第六战队」出击，消灭2-3的敌人，获得「完全胜利」！

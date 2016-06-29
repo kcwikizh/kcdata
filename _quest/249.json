@@ -26,13 +26,9 @@ data:
       result: S
     -
       category: fleet
-      ship_id: 62
-    -
-      category: fleet
-      ship_id: 63
-    -
-      category: fleet
-      ship_id: 65
+      amount:
+        gte: 3
+      ship_id: [62,63,65]
   wiki_id: Bm1
   chinese_title: 「第五战队」出击！
   chinese_detail: 派出「第五战队」在2-5实施战斗巡逻，捕捉敌方舰队主力，消灭他们！

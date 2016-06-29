@@ -26,16 +26,9 @@ data:
       result: B
     -
       category: fleet
-      ship_id: 49
-    -
-      category: fleet
-      ship_id: 48
-    -
-      category: fleet
-      ship_id: 17
-    -
-      category: fleet
-      ship_id: 18
+      amount:
+        gte: 4
+      ship_id: [49,48,17,18]
   wiki_id: B21
   chinese_title: 「第十八驱逐队」出击！
   chinese_detail: 派出包含「第十八驱逐队」的舰队出击，消灭3-1的敌人！

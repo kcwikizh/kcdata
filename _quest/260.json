@@ -26,11 +26,13 @@ data:
       result: S
     -
       category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: [8,9,12]
     -
       category: fleet
-      amount: 1
+      amount:
+        gte: 1
       ship_type: 7
   wiki_id: B32
   chinese_title: 「战舰部队」突入北方海域！

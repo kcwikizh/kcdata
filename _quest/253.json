@@ -26,6 +26,8 @@ data:
       result: S
     -
       category: fleet
+      amount:
+        gte: 1
       ship_id: 406
   wiki_id: B28
   chinese_title: 「第六〇一航空队」出击！

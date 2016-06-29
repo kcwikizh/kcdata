@@ -29,11 +29,13 @@ data:
       ship_id: [271,428]
     -
       category: fleet
-      amount: 1
+      amount:
+        gte: 1
       ship_type: 3
     -
       category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: 2
   wiki_id: B40
   chinese_title: 「改装防空重巡」出击！

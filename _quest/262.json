@@ -26,19 +26,9 @@ data:
       result: S
     -
       category: fleet
-      ship_id: 26
-    -
-      category: fleet
-      ship_id: 27
-    -
-      category: fleet
-      ship_id: 70
-    -
-      category: fleet
-      ship_id: 43
-    -
-      category: fleet
-      ship_id: 97
+      amount:
+        gte: 5
+      ship_id: [26,27,70,43,97]
   wiki_id: B33
   chinese_title: 「西村舰队」推进至南方海域！
   chinese_detail: 派出以「西村舰队」向5-1推进，向着敌方主力舰队突入，并消灭！

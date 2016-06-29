@@ -22,16 +22,9 @@ data:
       result: S
     -
       category: fleet
-      ship_id: 80
-    -
-      category: fleet
-      ship_id: 81
-    -
-      category: fleet
-      ship_id: 26
-    -
-      category: fleet
-      ship_id: 27
+      amount:
+        gte: 4
+      ship_id: [80,81,26,27]
   wiki_id: B31
   chinese_title: 「第二战队」起锚！
   chinese_detail: 派出以「第二战队」为基干的舰队向4-2推进，反复出击击破敌方海上兵力！

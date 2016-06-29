@@ -26,16 +26,9 @@ data:
       result: S
     -
       category: fleet
-      ship_id: 110
-    -
-      category: fleet
-      ship_id: 111
-    -
-      category: fleet
-      ship_id: 93
-    -
-      category: fleet
-      ship_id: 132
+      amount:
+        gte: 4
+      ship_id: [110,111,93,132]
   wiki_id: B50
   chinese_title: 「第五航空战队」向珊瑚诸岛冲海域进发！
   chinese_detail: 带领再次编成的「第五航空战队」向珊瑚诸岛冲海域展开敌机动部队捕捉击溃作战！

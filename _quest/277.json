@@ -26,16 +26,9 @@ data:
       result: B
     -
       category: fleet
-      ship_id: 34
-    -
-      category: fleet
-      ship_id: 35
-    -
-      category: fleet
-      ship_id: 36
-    -
-      category: fleet
-      ship_id: 37
+      amount:
+        gte: 4
+      ship_id: [34,35,36,37]
   wiki_id: B45
   chinese_title: 「第六驱逐队」进行彻底的对潜警戒NaNoDeSu！
   chinese_detail: 包含「第六驱逐队」的舰队在1-5实施对潜警戒，痛打敌潜水舰部队！

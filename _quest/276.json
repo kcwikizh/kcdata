@@ -26,22 +26,8 @@ data:
       result: S
     -
       category: fleet
-      ship_id: 86
-    -
-      category: fleet
-      ship_id: 85
-    -
-      category: fleet
-      ship_id: 21
-    -
-      category: fleet
-      ship_id: 34
-    -
-      category: fleet
-      ship_id: 36
-    -
-      category: fleet
-      ship_id: 37
+      amount: 6
+      ship_id: [86,85,21,34,36,37]
   wiki_id: B44
   chinese_title: 海上突入部队、进发！
   chinese_detail: 「比睿」「雾岛」「长良」「晓」「雷」「电」的舰队，实施5-1作战，击灭敌人！

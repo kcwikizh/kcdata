@@ -26,16 +26,9 @@ data:
       result: S
     -
       category: fleet
-      ship_id: 59
-    -
-      category: fleet
-      ship_id: 60
-    -
-      category: fleet
-      ship_id: 61
-    -
-      category: fleet
-      ship_id: 123
+      amount:
+        gte: 4
+      ship_id: [59,60,61,123]
   wiki_id: B34
   chinese_title: 「第六战队」出击南方海域
   chinese_detail: 派出以「古鹰」「加古」「青叶」「衣笠」为基干的「第六战队」，消灭2-5的敌人！

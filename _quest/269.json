@@ -22,16 +22,9 @@ data:
       result: S
     -
       category: fleet
-      ship_id: 38
-    -
-      category: fleet
-      ship_id: 39
-    -
-      category: fleet
-      ship_id: 40
-    -
-      category: fleet
-      ship_id: 41
+      amount:
+        gte: 4
+      ship_id: [38,39,40,41]
   wiki_id: B37
   chinese_title: 「第二一驱逐队」出击！
   chinese_detail: 派出包含「第二一驱逐队」的舰队出击，消灭北方海域3-1的敌人！

@@ -17,7 +17,7 @@ data:
     -
       category: sortie
       times: 1
-      fleet: 2
+      fleet_id: 2
   wiki_id: B3
   chinese_title: 第二舰队出击！
   chinese_detail: 派出新编成的第二舰队出击！

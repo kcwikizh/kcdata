@@ -26,16 +26,9 @@ data:
       result: B
     -
       category: fleet
-      ship_id: 95
-    -
-      category: fleet
-      ship_id: 97
-    -
-      category: fleet
-      ship_id: 96
-    -
-      category: fleet
-      ship_id: 98
+      amount:
+        gte: 4
+      ship_id: [95,97,96,98]
   wiki_id: B20
   chinese_title: 「第八驱逐队」出击！
   chinese_detail: 派出包含「第八驱逐队」的舰队出击，消灭2-3的敌人！

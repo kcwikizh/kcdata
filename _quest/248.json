@@ -22,16 +22,9 @@ data:
       result: C
     -
       category: fleet
-      ship_id: 1
-    -
-      category: fleet
-      ship_id: 164
-    -
-      category: fleet
-      ship_id: 165
-    -
-      category: fleet
-      ship_id: 31
+      amount:
+        gte: 4
+      ship_id: [1,164,165,31]
   wiki_id: B24
   chinese_title: 「第三十驱逐队」反潜巡逻！
   chinese_detail: 只派出「第三十驱逐队(第二次)」出击，在1-5实施反潜巡逻！

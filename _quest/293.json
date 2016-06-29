@@ -29,16 +29,9 @@ data:
       ship_id: 112
     -
       category: fleet
-      ship_id: 116
-    -
-      category: fleet
-      ship_id: 108
-    -
-      category: fleet
-      ship_id: 109
-    -
-      category: fleet
-      amount: 6
+      amount:
+        gte: 4
+      ship_id: [112,116,108,109]
   wiki_id: B53
   chinese_title: “第三航空战队”西南诸岛防卫战线出击！
   chinese_detail: “第三航空战队”出击1-4，迎击敌方入侵部队!

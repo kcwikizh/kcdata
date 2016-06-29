@@ -29,13 +29,9 @@ data:
       ship_id: 53
     -
       category: fleet
-      ship_id: 22
-    -
-      category: fleet
-      ship_id: 113
-    -
-      category: fleet
-      amount: 6
+      amount:
+        gte: 3
+      ship_id: [53,22,113]
   wiki_id: B55
   chinese_title: 第十六战队（第二次）出击！
   chinese_detail: 第十六战队（第二次）2-3出击，捕捉消灭地方主力舰队！

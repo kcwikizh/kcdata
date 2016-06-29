@@ -26,7 +26,8 @@ data:
       result: B
     -
       category: fleet
-      amount: 2
+      amount:
+        gte: 2
       ship_type: 10
   wiki_id: B23
   chinese_title: 「航空战舰」起锚！

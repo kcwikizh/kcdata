@@ -19,23 +19,9 @@ data:
       times: 1
     -
       category: fleet
-      ship_id: 69
-    -
-      category: fleet
-      ship_id: 61
-    -
-      category: fleet
-      ship_id: 60
-    -
-      category: fleet
-      ship_id: 59
-    -
-      category: fleet
-      ship_id: 51
-    -
-      category: fleet
       amount: 6
       speed: 10
+      ship_id: [69,61,60,59,51]
   wiki_id: B11
   chinese_title: 「三川舰队」出击！
   chinese_detail: 派出新编成的「三川舰队」出击！

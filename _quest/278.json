@@ -29,19 +29,8 @@ data:
       ship_id: 114
     -
       category: fleet
-      ship_id: 35
-    -
-      category: fleet
-      ship_id: 41
-    -
-      category: fleet
-      ship_id: 40
-    -
-      category: fleet
-      ship_id: 46
-    -
-      category: fleet
-      ship_id: 50
+      amount: 6
+      ship_id: [114,35,41,40,46,50]
   wiki_id: B46
   chinese_title: 「第一水雷战队」KE号作战、突入！
   chinese_detail: 北方突入准备完成的「一水战」突入3-2！突破包围网，救出友军！

@@ -22,6 +22,8 @@ data:
       result: S
     -
       category: fleet
+      amount:
+        gte: 1
       ship_id: 151
   wiki_id: B27
   chinese_title: 战舰「榛名」出击！

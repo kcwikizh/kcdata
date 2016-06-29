@@ -22,22 +22,8 @@ data:
       result: B
     -
       category: fleet
-      ship_id: 69
-    -
-      category: fleet
-      ship_id: 61
-    -
-      category: fleet
-      ship_id: 123
-    -
-      category: fleet
-      ship_id: 60
-    -
-      category: fleet
-      ship_id: 59
-    -
-      category: fleet
-      ship_id: 51
+      amount: 6
+      ship_id: [69,61,123,60,59,51]
   wiki_id: B16
   chinese_title: 新「三川舰队」出击！
   chinese_detail: 派出完全编成的「三川舰队」，消灭2-3的敌人！
