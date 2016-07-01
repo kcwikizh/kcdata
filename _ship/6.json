@@ -14,7 +14,7 @@ data:
   get_mes: 長月だ。<br>駆逐艦と侮るなよ。役に立つはずだ。
   voice_f: 0
   filename: kksiqffpclxh
-  file_version: ["10", "10", "1"]
+  file_version: ["10", "10", "630"]
   book_table_id: [6]
   book_sinfo: 睦月型８番艦だ。<br>東南アジア方面の攻略作戦後は、船団護衛を任されていた。<br>コロンバンガラ島への揚陸作戦では敵艦の襲撃を受けながら奮戦したよ。
   stats:

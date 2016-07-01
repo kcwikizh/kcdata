@@ -9,8 +9,8 @@ data:
   ctype: 
   cnum: 
   backs: 4
-  after_lv: 
-  after_ship_id: 
+  after_lv: 70
+  after_ship_id: 463
   get_mes: 駆逐艦、朝潮です。<br>勝負ならいつでも受けて立つ覚悟です。
   voice_f: 1
   filename: xbbfxeemifpv
@@ -30,8 +30,8 @@ data:
     tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 390
+    after_bull: 360
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]

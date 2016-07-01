@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 463
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
+  sort_no: 263
+  name: 朝潮改二
+  yomi: あさしお
+  stype: 2
+  ctype: 18
+  cnum: 1
+  backs: 6
+  after_lv: 85
+  after_ship_id: 468
+  get_mes: 駆逐艦、朝潮です。<br>勝負ならいつでも受けて立つ覚悟です。
+  voice_f: 1
   filename: grmdtyheocuc
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["1", "1", "601"]
+  book_table_id: [463]
+  book_sinfo: 朝潮型駆逐艦のネームシップ、朝潮よ。<br>バランスのとれた量産型駆逐艦として建造され、戦線を支えたの。<br>私の進化改良型が陽炎型になるわね。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [31, 53]
+    souk: [14, 52]
+    houg: [18, 68]
+    raig: [36, 92]
+    tyku: [22, 60]
+    luck: [17, 70]
+    soku: 10
+    leng: 1
+    kaih: 49
+    tais: 26
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 360
+    after_bull: 390
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 22
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [136, 156]
+    boko_d: [132, 164]
+    kaisyu_n: [4, -4]
+    kaisyu_d: [18, 8]
+    kaizo_n: [64, 100]
+    kaizo_d: [72, 112]
+    map_n: [76, 140]
+    map_d: [72, 144]
+    ensyuf_n: [76, 140]
+    ensyuf_d: [72, 136]
+    ensyue_n: [80, 0]
+    battle_n: [96, 148]
+    battle_d: [92, 152]
+    wed_a: [140, -4]
+    wed_b: [92, 112]
+  wiki_id: "263"
+  chinese_name: 朝潮改二
 ---
