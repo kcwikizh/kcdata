@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 181
+  sort_no: 181
+  name: 零式艦戦32型
+  type: [3, 5, 6, 6]
+  rare: 2
+  broken: [1, 2, 0, 2]
+  info: 名機零式艦戦21型の性能向上型、「零式艦上戦闘機32型」です。<br>翼端を角型に変更、エンジン換装により出力向上を図りました。また、搭載機銃の弾数も増やしています。航続距離など不利な点もありましたが、ラバウル航空隊やブイン、そしてソロモン上空の戦いに参加しました。
+  usebull: 0
+  cost: 4
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 5
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 零式舰战32型
+---

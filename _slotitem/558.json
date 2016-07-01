@@ -9,8 +9,8 @@ data:
   broken: [0, 0, 0, 0]
   info: 
   usebull: 0
-  cost: 12
-  distance: 10
+  cost: 4
+  distance: 5
   stats:
     taik: 0
     souk: 0
@@ -30,6 +30,6 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id:
+  remodel_slot_id: 
   chinese_name: 深海复仇舰攻改
 ---

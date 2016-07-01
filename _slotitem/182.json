@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 182
+  sort_no: 182
+  name: 零式艦戦32型(熟練)
+  type: [3, 5, 6, 6]
+  rare: 3
+  broken: [1, 2, 0, 2]
+  info: 熟練搭乗員で構成された「零式艦上戦闘機32型」装備の艦戦隊です。<br>翼端を切り落としたスタイルの21型の性能向上型「32型」は、航続距離などに課題もありましたが、精鋭の熟練搭乗員が駆る同機は、ラバウル、そしてソロモン上空の激戦を支えました。
+  usebull: 0
+  cost: 4
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 8
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 4
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: 零式舰战32型(熟练)
+---
