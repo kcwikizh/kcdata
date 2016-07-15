@@ -14,7 +14,7 @@ data:
   get_mes: アタシ、綾波型駆逐艦「朧」。<br>誰にも負けない…たぶん……
   voice_f: 1
   filename: sbdfpooechyn
-  file_version: ["16", "16", "601"]
+  file_version: ["17", "17", "715"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [120, 76]
-    boko_d: [52, 104]
+    boko_n: [124, 46]
+    boko_d: [124, 68]
     kaisyu_n: [12, -8]
     kaisyu_d: [16, -4]
-    kaizo_n: [32, 8]
-    kaizo_d: [-32, 32]
-    map_n: [56, 36]
-    map_d: [-24, 88]
-    ensyuf_n: [64, 48]
-    ensyuf_d: [-12, 80]
-    ensyue_n: [64, 0]
-    battle_n: [72, 48]
-    battle_d: [0, 96]
-    wed_a: [152, 64]
-    wed_b: [112, 140]
+    kaizo_n: [80, -12]
+    kaizo_d: [68, 12]
+    map_n: [92, 24]
+    map_d: [92, 52]
+    ensyuf_n: [88, 24]
+    ensyuf_d: [80, 52]
+    ensyue_n: [80, 0]
+    battle_n: [116, 32]
+    battle_d: [100, 60]
+    wed_a: [120, 104]
+    wed_b: [102, 128]
   wiki_id: "067a"
   chinese_name: 胧改
 ---

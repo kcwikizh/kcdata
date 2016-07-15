@@ -14,7 +14,7 @@ data:
   get_mes: 工作艦、明石です。<br>少々の損傷だったら、私が泊地でばっちり直してあげますね。<br>お任せください！
   voice_f: 3
   filename: scobmrrdbmsw
-  file_version: ["20", "19", "601"]
+  file_version: ["21", "19", "715"]
   book_table_id: [187, 910, 932, 993]
   book_sinfo: 連合艦隊唯一の工作艦、明石です。<br>トラック泊地に進出し、前線で損傷した艦艇の修理を担当したわ。トラック泊地が壊滅するその日まで、前線の艦隊を陰で支えたのよ。<br>よろしくね。
   stats:
@@ -42,15 +42,15 @@ data:
     boko_d: [-24, 136]
     kaisyu_n: [40, -8]
     kaisyu_d: [32, -8]
-    kaizo_n: [-80, 48]
-    kaizo_d: [-64, 40]
+    kaizo_n: [-80, 88]
+    kaizo_d: [-64, 64]
     map_n: [-64, 128]
     map_d: [-56, 128]
     ensyuf_n: [-32, 128]
     ensyuf_d: [-24, 128]
     ensyue_n: [-80, 0]
     battle_n: [-24, 128]
-    battle_d: [-32, 104]
+    battle_d: [-32, 128]
     wed_a: [240, 0]
     wed_b: [144, 128]
   wiki_id: "187"

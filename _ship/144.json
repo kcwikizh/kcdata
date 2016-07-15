@@ -14,8 +14,8 @@ data:
   get_mes: こんにちは、白露型駆逐艦「夕立」よ。<br>よろしくね！
   voice_f: 1
   filename: lngqiqvigduj
-  file_version: ["25", "24", "601"]
-  book_table_id: [144, 908, 928]
+  file_version: ["26", "25", "715"]
+  book_table_id: [144, 908, 928, 891]
   book_sinfo: 白露型駆逐艦の４番艦、夕立です。<br>第三次ソロモン海戦では、けっこう頑張ったっぽい？<br>でも、何気に「アイアンボトム・サウンド」って、ホントに怖い言葉よね？
   stats:
     taik: [31, 58]
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [92, 140]
-    boko_d: [152, 160]
+    boko_n: [124, 112]
+    boko_d: [136, 92]
     kaisyu_n: [34, 8]
     kaisyu_d: [40, -8]
-    kaizo_n: [32, 88]
-    kaizo_d: [84, 108]
-    map_n: [32, 112]
-    map_d: [92, 140]
-    ensyuf_n: [40, 120]
-    ensyuf_d: [96, 136]
-    ensyue_n: [20, 0]
-    battle_n: [56, 128]
-    battle_d: [112, 152]
-    wed_a: [168, 4]
-    wed_b: [112, 112]
+    kaizo_n: [80, 40]
+    kaizo_d: [80, 0]
+    map_n: [96, 96]
+    map_d: [80, 64]
+    ensyuf_n: [112, 80]
+    ensyuf_d: [112, 48]
+    ensyue_n: [80, 0]
+    battle_n: [112, 96]
+    battle_d: [80, 64]
+    wed_a: [112, 48]
+    wed_b: [112, 88]
   wiki_id: "144"
   chinese_name: 夕立改二
 ---

@@ -14,7 +14,7 @@ data:
   get_mes: はいはーい！白露型駆逐艦「村雨」だよ。<br>みんな、よろしくね！
   voice_f: 1
   filename: wvnchfzhekfo
-  file_version: ["26", "25", "601"]
+  file_version: ["27", "26", "715"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [96, 152]
-    boko_d: [16, 48]
+    boko_n: [144, 136]
+    boko_d: [64, 80]
     kaisyu_n: [16, 0]
     kaisyu_d: [32, -32]
-    kaizo_n: [64, 72]
-    kaizo_d: [-16, -16]
-    map_n: [96, 128]
-    map_d: [16, 32]
-    ensyuf_n: [96, 112]
-    ensyuf_d: [16, 16]
-    ensyue_n: [64, 0]
-    battle_n: [112, 112]
-    battle_d: [16, 16]
-    wed_a: [88, 4]
-    wed_b: [136, 120]
+    kaizo_n: [112, 80]
+    kaizo_d: [32, -16]
+    map_n: [112, 112]
+    map_d: [32, 48]
+    ensyuf_n: [128, 96]
+    ensyuf_d: [40, 32]
+    ensyue_n: [96, 0]
+    battle_n: [128, 120]
+    battle_d: [32, 64]
+    wed_a: [84, 16]
+    wed_b: [136, 112]
   wiki_id: "081a"
   chinese_name: 村雨改
 ---

@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦十四番艦の……沖波です。<br>えっと…はい、頑張ります。よろしくお願い致します！
   voice_f: 3
   filename: higuuqsbfkvb
-  file_version: ["2", "2", "601"]
+  file_version: ["3", "2", "715"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [204, 112]
-    boko_d: [72, 112]
+    boko_n: [132, 120]
+    boko_d: [56, 128]
     kaisyu_n: [16, -8]
     kaisyu_d: [24, 4]
-    kaizo_n: [136, 52]
-    kaizo_d: [16, 48]
-    map_n: [152, 80]
-    map_d: [16, 96]
-    ensyuf_n: [152, 96]
-    ensyuf_d: [16, 96]
-    ensyue_n: [148, 0]
-    battle_n: [172, 104]
-    battle_d: [36, 112]
-    wed_a: [48, 32]
-    wed_b: [112, 128]
+    kaizo_n: [80, 64]
+    kaizo_d: [0, 64]
+    map_n: [72, 96]
+    map_d: [4, 104]
+    ensyuf_n: [88, 96]
+    ensyuf_d: [-8, 104]
+    ensyue_n: [92, 0]
+    battle_n: [100, 108]
+    battle_d: [20, 120]
+    wed_a: [128, 32]
+    wed_b: [104, 116]
   wiki_id: "252a"
   chinese_name: 冲波改
 ---

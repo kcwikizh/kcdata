@@ -14,7 +14,7 @@ data:
   get_mes: 五十鈴です。水雷戦隊の指揮ならお任せ。<br>全力で提督を勝利に導くわ。よろしくね。
   voice_f: 0
   filename: tcqsalkhzurk
-  file_version: ["1", "1", "1"]
+  file_version: ["2", "1", "1"]
   book_table_id: [22]
   book_sinfo: 五十鈴は、大正時代に建造された長良型軽巡の２番艦。<br>韋駄天さはもちろんだけど、私の歴代艦長の中からは、あの山本五十六提督、山口多聞提督など後の海軍を支える人物が多数輩出されたの。凄いでしょ？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 60
   graph:
-    boko_n: [11, 109]
-    boko_d: [0, 120]
+    boko_n: [188, 152]
+    boko_d: [56, 152]
     kaisyu_n: [14, 13]
     kaisyu_d: [28, 7]
-    kaizo_n: [-44, 54]
-    kaizo_d: [-12, 8]
-    map_n: [-7, 107]
-    map_d: [-96, 110]
-    ensyuf_n: [10, 106]
-    ensyuf_d: [-29, 57]
-    ensyue_n: [10, 0]
-    battle_n: [-13, 88]
-    battle_d: [-14, 88]
-    wed_a: [230, 25]
-    wed_b: [144, 145]
+    kaizo_n: [128, 88]
+    kaizo_d: [16, 88]
+    map_n: [148, 136]
+    map_d: [12, 136]
+    ensyuf_n: [128, 132]
+    ensyuf_d: [-8, 136]
+    ensyue_n: [120, 0]
+    battle_n: [144, 132]
+    battle_d: [24, 132]
+    wed_a: [92, 0]
+    wed_b: [84, 112]
   wiki_id: "043"
   chinese_name: 五十铃
 ---

@@ -14,7 +14,7 @@ data:
   get_mes: 初めまして、龍田だよ。<br>天龍ちゃんがご迷惑かけてないかなあ～。
   voice_f: 0
   filename: qvqlfmytkmor
-  file_version: ["12", "12", "601"]
+  file_version: ["13", "12", "715"]
   book_table_id: [52, 931]
   book_sinfo: 軽巡洋艦、天龍型２番艦の龍田よ。<br>生まれは佐世保なの。<br>天龍ちゃんがみんなに迷惑かけてない？心配よね～。<br>え？私？私は潜水艦が、ちょっと鬼門だわ～。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 60
   graph:
-    boko_n: [-68, -54]
-    boko_d: [-68, -41]
+    boko_n: [92, 128]
+    boko_d: [112, 144]
     kaisyu_n: [-9, -23]
     kaisyu_d: [11, -16]
-    kaizo_n: [-69, -97]
-    kaizo_d: [-72, -140]
-    map_n: [-47, -56]
-    map_d: [-133, -62]
-    ensyuf_n: [-40, -39]
-    ensyuf_d: [-92, -103]
-    ensyue_n: [-40, 0]
-    battle_n: [-104, -57]
-    battle_d: [-104, -57]
-    wed_a: [299, 198]
-    wed_b: [121, 125]
+    kaizo_n: [40, 64]
+    kaizo_d: [40, 48]
+    map_n: [48, 104]
+    map_d: [64, 112]
+    ensyuf_n: [72, 96]
+    ensyuf_d: [64, 104]
+    ensyue_n: [40, 0]
+    battle_n: [64, 112]
+    battle_d: [64, 128]
+    wed_a: [160, 24]
+    wed_b: [120, 104]
   wiki_id: "029"
   chinese_name: 龙田
 ---

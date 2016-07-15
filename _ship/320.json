@@ -14,7 +14,7 @@ data:
   get_mes: 陽炎型駆逐艦十二番艦、磯風。<br>司令、共に進もう…心配はいらない。
   voice_f: 3
   filename: dyupugfxshtd
-  file_version: ["3", "3", "601"]
+  file_version: ["3", "3", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

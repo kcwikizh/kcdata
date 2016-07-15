@@ -14,8 +14,8 @@ data:
   get_mes: はーい、お待たせ？<br>兵装実験軽巡、夕張、到着いたしました！
   voice_f: 3
   filename: hieimxbtcqrt
-  file_version: ["16", "15", "610"]
-  book_table_id: [115]
+  file_version: ["17", "15", "715"]
+  book_table_id: [115, 893]
   book_sinfo: コンパクトボディに充実の重武装を施した実験艦的存在の軽巡、夕張です。私の残したデータが、様々な重武装新鋭艦開発の元になったんだから！<br>機関室に一発？何いってんの？<br>ほんと…失礼しちゃうわ。
   stats:
     taik: [19, 33]
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 82
   graph:
-    boko_n: [72, 144]
-    boko_d: [72, 144]
+    boko_n: [7, 74]
+    boko_d: [-12, 49]
     kaisyu_n: [29, 10]
     kaisyu_d: [29, 7]
-    kaizo_n: [4, 88]
-    kaizo_d: [4, 88]
-    map_n: [16, 116]
-    map_d: [16, 116]
-    ensyuf_n: [-8, 124]
-    ensyuf_d: [-8, 124]
-    ensyue_n: [0, 0]
-    battle_n: [20, 128]
-    battle_d: [20, 128]
-    wed_a: [220, 8]
-    wed_b: [84, 104]
+    kaizo_n: [-28, 19]
+    kaizo_d: [-43, -43]
+    map_n: [27, 62]
+    map_d: [-43, 54]
+    ensyuf_n: [2, 65]
+    ensyuf_d: [-48, -10]
+    ensyue_n: [42, 0]
+    battle_n: [-65, 58]
+    battle_d: [-18, 38]
+    wed_a: [217, 83]
+    wed_b: [106, 131]
   wiki_id: "111"
   chinese_name: 夕张
 ---
