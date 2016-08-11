@@ -15,8 +15,10 @@ data:
   prerequisite: [215]
   requirements:
     -
-      category: flagship
+      category: fleet
       ship_type: [7, 11, 18]
+      amount:
+        gte: 1
       fleet_id: 2
     -
       category: fleet

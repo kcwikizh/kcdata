@@ -18,7 +18,7 @@ data:
       category: fleet
       amount:
         gte: 1
-      ship_type: [8, 9, 12]
+      ship_type: [8, 9]
     -
       category: fleet
       amount:
