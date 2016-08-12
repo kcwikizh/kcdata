@@ -45,7 +45,7 @@ data:
     kaizo_n: [56, -12]
     kaizo_d: [15, -133]
     map_n: [15, 43]
-    map_d: [-37, -57]
+    map_d: [8, -57]
     ensyuf_n: [79, 39]
     ensyuf_d: [10, -108]
     ensyue_n: [79, 0]

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 481
+  sort_no: 281
+  name: 水無月
+  yomi: みなづき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 20
+  after_ship_id: 366
+  get_mes: 睦月型駆逐艦、その六番艦、水無月だよ。<br>遅れてごめん。司令官、よろしくね！……えへへ。
+  voice_f: 1
+  filename: xzuthqfclfmp
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [13, 24]
+    souk: [5, 18]
+    houg: [6, 29]
+    raig: [18, 49]
+    tyku: [7, 29]
+    luck: [13, 53]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 18
+  graph:
+    boko_n: [184, 144]
+    boko_d: [116, 156]
+    kaisyu_n: [6, -18]
+    kaisyu_d: [36, 4]
+    kaizo_n: [116, 72]
+    kaizo_d: [48, 84]
+    map_n: [140, 124]
+    map_d: [80, 136]
+    ensyuf_n: [104, 116]
+    ensyuf_d: [60, 128]
+    ensyue_n: [120, 0]
+    battle_n: [144, 128]
+    battle_d: [96, 144]
+    wed_a: [80, 12]
+    wed_b: [120, 112]
+  wiki_id: "281"
+  chinese_name: 水无月
+---

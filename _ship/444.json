@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 444
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 244
+  name: Aquila
+  yomi: アクィラ
+  stype: 11
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
+  backs: 7
+  after_lv: 45
+  after_ship_id: 365
+  get_mes: Buon Giornov！<br>地中海生まれの航空母艦Aquilaです。<br>活躍する……はずですー。楽しみにしてて！
+  voice_f: 1
   filename: beymvxmvhoct
   file_version: ["1", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [38, 60]
+    souk: [18, 38]
+    houg: [0, 14]
+    raig: [0, 0]
+    tyku: [18, 48]
+    luck: [5, 29]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 3
+    max_eq: [10, 26, 15, 0, 0]
+    after_fuel: 1000
+    after_bull: 880
+    fuel_max: 40
+    bull_max: 45
+    broken: [5, 8, 18, 8]
+    pow_up: [1, 0, 3, 2]
+    build_time: 240
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [100, 132]
+    boko_d: [144, 132]
+    kaisyu_n: [24, 8]
+    kaisyu_d: [20, 8]
+    kaizo_n: [64, 68]
+    kaizo_d: [108, 84]
+    map_n: [68, 112]
+    map_d: [124, 116]
+    ensyuf_n: [56, 112]
+    ensyuf_d: [104, 108]
+    ensyue_n: [48, 0]
+    battle_n: [88, 120]
+    battle_d: [128, 124]
+    wed_a: [140, 0]
+    wed_b: [108, 128]
+  wiki_id: "244"
+  chinese_name: 鹫座
 ---

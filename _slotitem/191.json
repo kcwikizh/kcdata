@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 191
+  sort_no: 191
+  name: QF 2ポンド8連装ポンポン砲
+  type: [4, 6, 21, 15]
+  rare: 3
+  broken: [0, 6, 1, 2]
+  info: 紅茶の国の大型艦などに搭載された対空火器で、その個性ある射撃音から通称ポンポン砲と呼ばれました。<br>本装備はその8連装バージョンです。運用性に難があり、故障も多いものの、大火力&有名な近接対空火器です。
+  usebull: 0
+  cost: 6
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 10
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name: QF 2镑8连装砰砰炮
+---

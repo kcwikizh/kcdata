@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 367
+  sort_no: 1447
+  name: 伊26改
+  yomi: い26
+  stype: 14
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: ねえねえねえ！　貴方が提督なんだ！<br>あたし、伊26潜水艦！　ニムでいいよ！　よろしくね！
+  voice_f: 3
+  filename: whdxgwhsflxf
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [18, 24]
+    souk: [5, 19]
+    houg: [3, 12]
+    raig: [39, 86]
+    tyku: [0, 0]
+    luck: [16, 66]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 25
+    broken: [1, 2, 2, 2]
+    pow_up: [0, 2, 1, 0]
+    build_time: 22
+  graph:
+    boko_n: [92, 120]
+    boko_d: [176, 160]
+    kaisyu_n: [16, 20]
+    kaisyu_d: [60, 0]
+    kaizo_n: [32, 52]
+    kaizo_d: [112, 88]
+    map_n: [48, 92]
+    map_d: [136, 136]
+    ensyuf_n: [36, 88]
+    ensyuf_d: [124, 136]
+    ensyue_n: [44, 0]
+    battle_n: [56, 108]
+    battle_d: [136, 144]
+    wed_a: [172, 32]
+    wed_b: [100, 112]
+  wiki_id: "283a"
+  chinese_name: 伊26改
+---

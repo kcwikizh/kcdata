@@ -10,7 +10,7 @@ data:
   info: 
   usebull: 0
   cost: 6
-  distance: 4
+  distance: 3
   stats:
     taik: 0
     souk: 2

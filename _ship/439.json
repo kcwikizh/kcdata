@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 439
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 239
+  name: Warspite
+  yomi: ウォースパイト
+  stype: 9
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
+  backs: 7
+  after_lv: 75
+  after_ship_id: 364
+  get_mes: 我が名は、Queen Elizabeth class Battleship<br>Warspite !   Admiral……よろしく、頼むわね。
+  voice_f: 1
   filename: lnltescodihe
   file_version: ["1", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [72, 87]
+    souk: [72, 91]
+    houg: [72, 92]
+    raig: [0, 0]
+    tyku: [38, 88]
+    luck: [55, 89]
+    soku: 5
+    leng: 3
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 1200
+    after_bull: 1100
+    fuel_max: 90
+    bull_max: 110
+    broken: [8, 18, 36, 4]
+    pow_up: [4, 0, 2, 4]
+    build_time: 280
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [-36, 120]
+    boko_d: [76, 112]
+    kaisyu_n: [8, -12]
+    kaisyu_d: [44, 6]
+    kaizo_n: [-56, 56]
+    kaizo_d: [32, 48]
+    map_n: [-48, 92]
+    map_d: [56, 92]
+    ensyuf_n: [-92, 92]
+    ensyuf_d: [32, 88]
+    ensyue_n: [-88, 0]
+    battle_n: [-40, 100]
+    battle_d: [52, 104]
+    wed_a: [304, 12]
+    wed_b: [96, 112]
+  wiki_id: "239"
+  chinese_name: 厌战
 ---
