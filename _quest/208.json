@@ -19,7 +19,7 @@ data:
       times: 1
     -
       category: flagship
-      ship_type: [8, 9, 12]
+      ship_type: [8, 9]
   wiki_id: B8
   chinese_title: 「战舰」出击！
   chinese_detail: 派出以海上的霸者，战舰为旗舰的舰队出击！
