@@ -26,7 +26,7 @@ data:
       result: S
     -
       category: flagship
-      ship_id: [271,428]
+      ship_id: 271
     -
       category: fleet
       amount:
