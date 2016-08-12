@@ -13,7 +13,7 @@ data:
       id: 11
       amount: 1
     -
-      category: ship
+      category: useitem
       id: 50
       amount: 1
   prerequisite: [128]
