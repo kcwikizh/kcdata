@@ -38,7 +38,7 @@ data:
       ship_type: 2
     -
       category: fleet
-      not_shiptype: [2,3,7]
+      not_ship_type: [2,3,7]
       amount: 0
   wiki_id: B29
   chinese_title: 「軽空母」战队、出击！

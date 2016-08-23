@@ -34,6 +34,10 @@ data:
       amount:
         gte: 1
       ship_type: 7
+    -
+      category: fleet
+      amount: 0
+      ship_type: [11,18]
   wiki_id: B32
   chinese_title: 「战舰部队」突入北方海域！
   chinese_detail: 派出以战舰2艘和支援轻空母1艘（无正规空母）为基干的舰队向3-5突入，消灭敌人！
