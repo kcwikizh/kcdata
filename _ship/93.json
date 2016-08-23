@@ -15,7 +15,7 @@ data:
   voice_f: 0
   filename: jqexjuembtvh
   file_version: ["17", "17", "801"]
-  book_table_id: [93, 230, 921, 935]
+  book_table_id: [93, 921, 935]
   book_sinfo: 綾波型駆逐艦７番艦の朧です。<br>佐世保の海軍工廠生まれです。南方進攻作戦などに参加しました。熱いところの海の方がいいな。<br>キス…か？じゃなくって、寒いキスカ島は…あまり近づきたくない…かな。
   stats:
     taik: [15, 29]

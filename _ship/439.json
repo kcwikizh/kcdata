@@ -6,8 +6,8 @@ data:
   name: Warspite
   yomi: ウォースパイト
   stype: 9
-  ctype: 
-  cnum: 
+  ctype: 67
+  cnum: 2
   backs: 7
   after_lv: 75
   after_ship_id: 364
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: lnltescodihe
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [439]
+  book_sinfo: Queen Elizabeth class　Battleship　二番艦、Warspiteです。<br>Admiral、よろしくお願いしますね。生粋の英国生まれ、英国育ちの戦艦です。本国艦隊、地中海、そしてインド洋にも展開しました。私の名前、Admiral、ぜひその胸に刻んでください。
   stats:
     taik: [72, 87]
     souk: [72, 91]
@@ -26,8 +26,8 @@ data:
     luck: [55, 89]
     soku: 5
     leng: 3
-    kaih: 
-    tais: 
+    kaih: 26
+    tais: 0
     slot_num: 4
     max_eq: [3, 3, 3, 3, 0]
     after_fuel: 1200

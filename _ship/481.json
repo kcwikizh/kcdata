@@ -6,8 +6,8 @@ data:
   name: 水無月
   yomi: みなづき
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 28
+  cnum: 6
   backs: 4
   after_lv: 20
   after_ship_id: 366
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: xzuthqfclfmp
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [481]
+  book_sinfo: 睦月型駆逐艦、その六番艦、水無月だよ。<br>横須賀の近く、浦賀で生まれたんだ。睦月型の姉や妹達と共に、緒戦の戦いに参加したんだ。船団護衛も何度も務めたよ。<br>ん？潜水艦？あれはやっかいな相手だよね。うん、わかるよ。
   stats:
     taik: [13, 24]
     souk: [5, 18]
@@ -26,8 +26,8 @@ data:
     luck: [13, 53]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 37
+    tais: 17
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 100

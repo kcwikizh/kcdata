@@ -6,8 +6,8 @@ data:
   name: Aquila
   yomi: アクィラ
   stype: 11
-  ctype: 
-  cnum: 
+  ctype: 68
+  cnum: 1
   backs: 7
   after_lv: 45
   after_ship_id: 365
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: beymvxmvhoct
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [444]
+  book_sinfo: 地中海ジェノヴァで建造されていたパスタの国の航空母艦、Aquilaですー。<br>貨客船改装空母ではありますがー、大規模な改装で正規空母に近い性能を発揮した……はず。ねえ、グラーフ、アカーギ！聞いてますー？
   stats:
     taik: [38, 60]
     souk: [18, 38]
@@ -26,8 +26,8 @@ data:
     luck: [5, 29]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 34
+    tais: 0
     slot_num: 3
     max_eq: [10, 26, 15, 0, 0]
     after_fuel: 1000

@@ -6,8 +6,8 @@ data:
   name: 伊26
   yomi: い26
   stype: 13
-  ctype: 
-  cnum: 
+  ctype: 39
+  cnum: 7
   backs: 4
   after_lv: 50
   after_ship_id: 367
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: qrubiqfijtfp
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [483]
+  book_sinfo: 呉生まれの伊号だよ！<br>ねえねえ、あたしのことも覚えていてね！<br>通商破壊戦はもちろん、巡洋艦や空母だって食っちゃうから！<br>まかせておいて！
   stats:
     taik: [14, 19]
     souk: [4, 18]
@@ -26,8 +26,8 @@ data:
     luck: [14, 51]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 13
+    tais: 0
     slot_num: 1
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 140
