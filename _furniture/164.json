@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 164
+  type: 5
+  no: 0
+  title: ただの段ボール
+  description: 引っ越ししたてのなかなか片付かない段ボール。<br>はやく捨てたい。
+  rarity: 0
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

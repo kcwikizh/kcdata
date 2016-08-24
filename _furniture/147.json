@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 147
+  type: 4
+  no: 14
+  title: 「赤城」模型と桐箪笥
+  description: 提督20万人突破と、家具箱<br>の一斉開封機能実装を記念<br>して用意された、最高級の<br>桐箪笥。某正規空母の精密<br>模型が鎮座してます。
+  rarity: 5
+  price: 7000
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

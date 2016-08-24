@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 81
+  type: 2
+  no: 9
+  title: 白いカーテンの小窓
+  description: 少し小ぶりの窓枠の両脇に<br>白いカーテンを備えた可愛<br>い小窓です。ガーリーな雰<br>囲気は優しい提督の艦娘に<br>ぴったりです！
+  rarity: 3
+  price: 330
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

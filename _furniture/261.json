@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 261
+  type: 3
+  no: 49
+  title: 艦隊大漁旗
+  description: 第六駆逐隊のある駆逐艦が<br>航海の安全と大漁を祈って<br>司令官のために作った大漁<br>旗です。手作りなので僚艦<br>もお手伝いしたのです！
+  rarity: 4
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

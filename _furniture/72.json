@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 72
+  type: 2
+  no: 0
+  title: 赤カーテンの窓
+  description: 鎮守府に備え付けの基本的なデザインの赤いカーテンと窓。母港の様子が一望できます。
+  rarity: 0
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

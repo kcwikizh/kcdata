@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 310
+  type: 0
+  no: 44
+  title: 波打ち際の砂浜床
+  description: 匠の職人の卓越した技術に<br>よって、波打ち際の砂浜が<br>鎮守府内にダイナミックに<br>再現されました。これなら<br>執務中も夏気分満喫です！
+  rarity: 5
+  price: 5500
+  saleflg: 1
+  season: 24
+  filename: "045"
+  file_version: "1"
+---

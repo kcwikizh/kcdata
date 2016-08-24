@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 84
+  type: 2
+  no: 12
+  title: てるてる坊主の窓
+  description: 艦娘お手製のてるてる坊主が吊るされた窓。梅雨の雨もこれがあれば安心です！中に何かが入っている気もしますが気にしませんっ！
+  rarity: 3
+  price: 2000
+  saleflg: 0
+  season: 18
+  filename: ""
+  file_version: ""
+---

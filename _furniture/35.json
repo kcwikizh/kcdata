@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 35
+  type: 0
+  no: 34
+  title: 戦艦タイルの床
+  description: 天然木と白タイルを組み合わせて戦艦級の艦艇柄をあしらった斬新な床です。自負に溢れた執務室です。
+  rarity: 4
+  price: 450
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

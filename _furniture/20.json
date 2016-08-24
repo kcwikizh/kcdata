@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 20
+  type: 0
+  no: 19
+  title: 西欧風カーペット
+  description: 大胆な柄が部屋の印象を明るく演出してくれます。お馬さんのぬいぐるみもポイント高し。
+  rarity: 3
+  price: 300
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 50
+  type: 1
+  no: 12
+  title: シンプルモダン壁紙
+  description: 低い位置に装飾のラインが一本だけ入った気品のある壁紙。どんな家具にもマッチします。
+  rarity: 2
+  price: 200
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

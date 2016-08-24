@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 5
+  type: 0
+  no: 4
+  title: 高級フローリング
+  description: 高級なマホガニー仕様の重厚なフローリング。地味にセンスの光る提督の執務室にぴったり！
+  rarity: 1
+  price: 100
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 174
+  type: 5
+  no: 10
+  title: 教室セット「教卓」
+  description: 鎮守府で戦術や航海の講義<br>をする際に用いる教室セッ<br>ト。その教卓と前列の机。<br>教卓最前列の机なので、真<br>面目な艦娘達が座ります！
+  rarity: 4
+  price: 40000
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

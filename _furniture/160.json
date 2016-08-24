@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 160
+  type: 4
+  no: 27
+  title: 「武蔵」模型と桐箪笥
+  description: 超弩級の家具コイン長者に<br>贈る最高級桐箪笥。上部に<br>は大和型二番艦「武蔵」の<br>精密模型が鎮座する、文字<br>通り最大最強の箪笥家具。
+  rarity: 5
+  price: 88000
+  saleflg: 0
+  season: 13
+  filename: ""
+  file_version: ""
+---

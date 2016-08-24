@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 311
+  type: 2
+  no: 43
+  title: 鎮守府夏時間の窓
+  description: どこか懐かしい夏仕様の窓<br>です。蚊取り線香と風鈴を<br>配して、ゆったりした時間<br>が流れます。艦娘が西瓜を<br>切ってきてくれました。
+  rarity: 5
+  price: 4800
+  saleflg: 0
+  season: 0
+  filename: "044"
+  file_version: "1"
+---

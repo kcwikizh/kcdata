@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 300
+  type: 4
+  no: 42
+  title: 「最上」模型と桐箪笥
+  description: 航空巡洋艦の模型が飾られ<br>た高級桐箪笥。家具コイン<br>長者に贈られるこの逸品…<br>大丈夫、箪笥には衝突しな<br>いって！痛っ、あ、あれ？
+  rarity: 5
+  price: 60000
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

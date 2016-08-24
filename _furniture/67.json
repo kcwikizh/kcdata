@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 67
+  type: 1
+  no: 29
+  title: 新春の壁紙
+  description: 新春の新たな鎮守府の装い<br>のために新調された壁紙。<br>控えめなデザインの中に、<br>新年を切り拓く艦娘たちの<br>闘志が込められています。
+  rarity: 3
+  price: 1800
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

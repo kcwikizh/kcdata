@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 112
+  type: 3
+  no: 10
+  title: 「夜戦」掛け軸
+  description: 「夜戦」に飽くなき執念と見敵必殺の想いを込めた艦娘自身の手による一筆です。
+  rarity: 4
+  price: 2000
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

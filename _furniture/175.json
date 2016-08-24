@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 175
+  type: 5
+  no: 11
+  title: モダンチェア
+  description: アートな輝きを放つスタイリッシュなデザイナーズチェア。これなら宇宙艦隊の指揮もとれそうです。
+  rarity: 3
+  price: 350
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

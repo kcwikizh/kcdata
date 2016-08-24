@@ -1,0 +1,6 @@
+---
+---
+[
+  {% for furniture in site.furniture %}{{ furniture.data | jsonify }}{% unless forloop.last %},
+  {% endunless %}{% endfor %}
+]

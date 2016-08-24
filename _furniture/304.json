@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 304
+  type: 0
+  no: 43
+  title: 青と白の床
+  description: 夏の季節の海をモチーフに<br>製作された爽やかな床板。<br>白を基調に、水色と海色の<br>ストライプが夏の鎮守府を<br>爽やかに演出します。
+  rarity: 4
+  price: 1700
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

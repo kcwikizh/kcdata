@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 138
+  type: 4
+  no: 5
+  title: 暖炉
+  description: 提督の執務室には暖炉が似合う！上には自慢の品を色々と飾っちゃいましょう！火事には注意してね。
+  rarity: 2
+  price: 250
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

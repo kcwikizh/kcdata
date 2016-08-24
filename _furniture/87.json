@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 87
+  type: 2
+  no: 15
+  title: 鉄格子の窓
+  description: 間諜や暴漢から執務室を守るための堅牢な鉄格子の窓。これで、防犯体制もばっちりです！
+  rarity: 5
+  price: 2500
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

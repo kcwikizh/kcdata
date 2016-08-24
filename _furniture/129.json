@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 129
+  type: 3
+  no: 27
+  title: 富士山の壁画
+  description: なんとなくコーヒー牛乳が飲みたくなる…そんな風情たっぷりの富士山をあしらった壁画。
+  rarity: 5
+  price: 3000
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

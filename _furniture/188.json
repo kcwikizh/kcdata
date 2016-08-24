@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 188
+  type: 5
+  no: 24
+  title: 高級ミシン
+  description: 艦娘の衣装作りに欠かせな<br>い高級ミシンセット。これ<br>で、夏〇ミ衣装もパッチリ<br>ですね！※実際に艦娘の衣<br>装製作機能はありません…<br>
+  rarity: 4
+  price: 4500
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

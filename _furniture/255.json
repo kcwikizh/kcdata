@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 255
+  type: 0
+  no: 37
+  title: 浜茶屋の床
+  description: 砂浜とフィットした鎮守府<br>浜茶屋の仮設床です。これ<br>さえあれば、夏の提督執務<br>室もナチュラルな浜茶屋に<br>大変貌！よし、これだ！
+  rarity: 3
+  price: 1800
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

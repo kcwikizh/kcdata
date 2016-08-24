@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 254
+  type: 3
+  no: 45
+  title: 艦隊氷旗
+  description: かき氷を愛する艦娘有志の<br>手による、艦隊氷旗です。<br>これを掲げれば、どんな暑<br>い日でも、気持ちよく過ご<br>せるはず…かも！
+  rarity: 2
+  price: 500
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

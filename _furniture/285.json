@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 285
+  type: 5
+  no: 61
+  title: 卯月の机
+  description: 紫とピンクのテーブルクロ<br>スと同色の椅子が可愛い、<br>ある睦月型駆逐艦娘がまと<br>めあげた特注提督机です。<br>謎ぬいぐるみも標準装備！
+  rarity: 4
+  price: 3400
+  saleflg: 0
+  season: 0
+  filename: "062"
+  file_version: "1"
+---

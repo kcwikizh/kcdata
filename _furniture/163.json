@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 163
+  type: 4
+  no: 30
+  title: 新生だるま
+  description: 突然変異で誕生しただるま。<br>神秘的な表情が神々しい気がしますが特にご利益はないようです。
+  rarity: 0
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 144
+  type: 4
+  no: 11
+  title: やかんストーブ
+  description: 冬を迎える各鎮守府に必要<br>なもの…それは充実の煖房<br>器具。その原点にして頂点<br>ともいえるこのストーブ。<br>やかんもセットでどうぞ！
+  rarity: 3
+  price: 2000
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 166
+  type: 5
+  no: 2
+  title: 執務机
+  description: 色々な資料を広げられる立派な机と椅子のセットをどうぞ。艦隊の指揮がぱっちりとれそうです！
+  rarity: 2
+  price: 200
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

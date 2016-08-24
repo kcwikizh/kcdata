@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 286
+  type: 3
+  no: 61
+  title: 「三周年記念」掛け軸
+  description: 提督のおかげで迎えること<br>ができた「祝三周年」を記<br>念してある高速戦艦によっ<br>て制作された掛け軸。四年<br>目も頑張っていくデース！
+  rarity: 5
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: "062"
+  file_version: "1"
+---

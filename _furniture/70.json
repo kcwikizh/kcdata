@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 70
+  type: 1
+  no: 32
+  title: 龍の壁紙
+  description: 家具箱の一斉開封機能実装<br>を記念して用意された家具<br>コイン長者に贈る逸品。龍<br>をモチーフにしたデザイン<br>の最高級和風壁紙です。
+  rarity: 4
+  price: 50000
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

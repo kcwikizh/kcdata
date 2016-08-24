@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 69
+  type: 1
+  no: 31
+  title: ピンクコンクリ壁
+  description: 一部の艦娘に絶賛されているピンクのコンクリート壁。打ちっぱなし壁面なのにキュートな独特な雰囲気。
+  rarity: 2
+  price: 250
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 74
+  type: 2
+  no: 2
+  title: 青カーテンの窓
+  description: 爽やかな雰囲気になれるブルーのカーテン。生地も少し高級な素材を使っています。
+  rarity: 1
+  price: 100
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

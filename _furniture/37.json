@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 37
+  type: 0
+  no: 36
+  title: い草の畳
+  description: 熟練の職人が仕上げた逸品。心も安らぐい草の香りが爽やか。懐かしい、そして最高級の畳の床です。
+  rarity: 5
+  price: 700
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

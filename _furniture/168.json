@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 168
+  type: 5
+  no: 4
+  title: 提督の机
+  description: １クラス上の提督の貴方にお奨めしたい、執務机。この机なら連戦連勝、間違いなし！
+  rarity: 3
+  price: 350
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

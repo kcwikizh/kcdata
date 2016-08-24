@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 239
+  type: 4
+  no: 37
+  title: 脱衣所
+  description: 提督の熱いリクエストから<br>実現した、まさかの脱衣所<br>です。各種温泉風呂と絶妙<br>なマッチング！あれ、秘書<br>艦によって棚に変化が…！
+  rarity: 4
+  price: 2300
+  saleflg: 1
+  season: 0
+  filename: "038"
+  file_version: "1"
+---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 227
+  type: 3
+  no: 39
+  title: しめ飾り
+  description: 新年を迎えるために艦娘が<br>用意してくれたしめ飾り。<br>これさえ飾れば、鎮守府の<br>新年の用意はバッチリ！<br>良いお年を！
+  rarity: 3
+  price: 800
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

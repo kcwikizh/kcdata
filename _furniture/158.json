@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 158
+  type: 4
+  no: 25
+  title: 診療台セット
+  description: 前線で戦う艦娘をベストな医療環境でバックアップ。一部の提督の熱い要望により実現した診療台セット。医療？診察？
+  rarity: 4
+  price: 4500
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

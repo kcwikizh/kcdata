@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 283
+  type: 2
+  no: 40
+  title: 卯月の窓
+  description: 卯月四月のため家具職人が<br>気合いを込めて制作した、<br>鎮守府の特注窓です。窓の<br>外には舞い落ちる桜も見え<br>る趣き深い春の家具です。
+  rarity: 4
+  price: 4000
+  saleflg: 0
+  season: 0
+  filename: "041"
+  file_version: "2"
+---

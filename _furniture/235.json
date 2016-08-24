@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 235
+  type: 3
+  no: 41
+  title: 武蔵の掛け軸
+  description: 大和型戦艦二番艦「武蔵」<br>その帰投を祝す掛け軸を、<br>提督方にお贈りします。<br>おかえりなさい。<br>※特殊BGM家具です。
+  rarity: 5
+  price: 0
+  saleflg: 0
+  season: 13
+  filename: "042"
+  file_version: "2"
+---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 93
+  type: 2
+  no: 21
+  title: 豪華なお月見窓
+  description: 艦娘と見る中秋の名月もお<br>つなもの。どうせなら豪華<br>なお月見専用窓を執務室に<br>設営してしまいます？家具<br>職人も呼んでおきました！
+  rarity: 4
+  price: 2200
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

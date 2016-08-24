@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 90
+  type: 2
+  no: 18
+  title: 障子デラックス
+  description: 究極にして最高の窓、それが障子。和のココロともいうべきデザイン。提督の熱いご要望でデラックス化！
+  rarity: 5
+  price: 3000
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

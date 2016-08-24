@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 308
+  type: 4
+  no: 45
+  title: 職人和飾棚
+  description: 職人がその技術を活かして<br>組み上げた和の飾棚です。<br>風流を重んじる艦娘たちが<br>季節折々の装飾を置いて…<br>いくかもしれません。
+  rarity: 4
+  price: 2200
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

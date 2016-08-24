@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 280
+  type: 3
+  no: 59
+  title: 「春の乙型姉妹」パネル
+  description: 「春の艦祭り」開催を記念<br>して撮られた、乙型駆逐艦<br>姉妹のポートレイトです。<br>提督の皆さん、今年の春も<br>よろしくお願い致します！
+  rarity: 4
+  price: 3000
+  saleflg: 0
+  season: 0
+  filename: "060"
+  file_version: "1"
+---

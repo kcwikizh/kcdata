@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 58
+  type: 1
+  no: 20
+  title: 折鶴の壁紙
+  description: 秋の気配を感じる今日この<br>頃にぴったりの落ち着いた<br>和の雰囲気の壁紙です。畳<br>などの和の家具とも自然と<br>馴染む穏やかな仕上がり。
+  rarity: 3
+  price: 1500
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

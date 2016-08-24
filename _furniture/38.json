@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 38
+  type: 1
+  no: 0
+  title: 普通の壁紙
+  description: 前任の提督が使っていたままの壁紙です。若干汚れていますし、なんとなく新調したい気もちょっぴりしますね。
+  rarity: 0
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

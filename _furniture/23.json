@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 23
+  type: 0
+  no: 22
+  title: 雪原の床
+  description: 匠の職人の技によって完成<br>した冬の雪原を鎮守府内に<br>ダイナミックに再現した雪<br>原の床。家具職人の未知の<br>技術を結集した逸品です。
+  rarity: 5
+  price: 3300
+  saleflg: 0
+  season: 0
+  filename: "023"
+  file_version: "1"
+---

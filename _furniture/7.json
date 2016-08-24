@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 7
+  type: 0
+  no: 6
+  title: ブルーカーペット
+  description: 出撃して高揚した気分も落ち着く、青色のカーペット。艦娘たちもお気に入りです。
+  rarity: 1
+  price: 150
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

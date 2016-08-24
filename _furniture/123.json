@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 123
+  type: 3
+  no: 21
+  title: アレンジメント
+  description: 喜び、明るさ、明朗、愉快を表現するフラワーアレンジメント。司令官室を華やかに快活に演出します！
+  rarity: 2
+  price: 150
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

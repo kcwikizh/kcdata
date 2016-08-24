@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 165
+  type: 5
+  no: 1
+  title: 椅子
+  description: 提督の執務室に似合う趣きのある椅子。ちょっと腰を落ち着けて物事をじっくり考えれそう！
+  rarity: 1
+  price: 100
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

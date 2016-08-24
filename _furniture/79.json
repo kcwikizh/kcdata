@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 79
+  type: 2
+  no: 7
+  title: 青い上品な大窓
+  description: 高級感溢れるビロードのカーテンが嬉しい、落ち着いた佇まいの大窓。
+  rarity: 3
+  price: 350
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

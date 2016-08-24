@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 209
+  type: 2
+  no: 30
+  title: 七夕飾りの窓
+  description: 七夕の季節がやってきまし<br>た！笹の葉に短冊を飾って<br>艦娘達が七夕飾りを手作り<br>しました。全ての提督の皆<br>さんにお贈りします！
+  rarity: 2
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

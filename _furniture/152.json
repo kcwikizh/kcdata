@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 152
+  type: 4
+  no: 19
+  title: ドレッサー
+  description: 艦娘が出撃前に殺到する鏡台。身だしなみは大事です！なぜ提督の部屋にあるのか、ちょっと謎です。
+  rarity: 5
+  price: 600
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

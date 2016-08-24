@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 268
+  type: 3
+  no: 53
+  title: 艦隊安全お飾り
+  description: ある給糧艦が提督と一緒に<br>手作りした年越しの準備。<br>艦隊に所属する全ての艦娘<br>への航海の安全と武運長久<br>の祈りが込められた逸品。
+  rarity: 5
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

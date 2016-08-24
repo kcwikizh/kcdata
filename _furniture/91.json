@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 91
+  type: 2
+  no: 19
+  title: シンプルフレーム
+  description: シンプルなフレームの窓。機能美を追究したシンプルさが、質実剛健さを求める提督にぴったりです。
+  rarity: 1
+  price: 100
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

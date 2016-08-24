@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 306
+  type: 2
+  no: 42
+  title: 青と白のブラインド窓
+  description: 白を基調にした木製枠の窓<br>に、青と白のストライプの<br>ブラインドを配置。夏色の<br>艦娘たちにもぴったりの、<br>リゾート感のある窓です。
+  rarity: 3
+  price: 1800
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

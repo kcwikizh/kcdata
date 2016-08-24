@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 230
+  type: 2
+  no: 35
+  title: 鎮守府カウンターバー
+  description: 夜の鎮守府は大人の時間。<br>お酒好きの艦娘たちが、集<br>まってそれぞれお気に入り<br>のお酒を片手に、ガールズ<br>トークに花を咲かせます。
+  rarity: 5
+  price: 32000
+  saleflg: 1
+  season: 19
+  filename: "036"
+  file_version: "18"
+---

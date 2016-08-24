@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 53
+  type: 1
+  no: 15
+  title: 青い壁紙
+  description: 寒色系でまとめた清楚かつ清潔なイメージの壁紙。知的な艦娘たちに好評です！
+  rarity: 2
+  price: 200
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 177
+  type: 5
+  no: 13
+  title: モダンなテーブル
+  description: 計算された角度や素材使いで使い心地抜群！<br>日常でアートを楽しめる一品。
+  rarity: 0
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

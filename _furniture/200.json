@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 200
+  type: 5
+  no: 36
+  title: 七面鳥のご馳走
+  description: 今夜は素敵なパーティしま<br>しょ！主計科さんが腕によ<br>りをかけて作ってくれた聖<br>夜のご馳走。よく焼かれた<br>七面鳥も美味しそう！
+  rarity: 3
+  price: 3000
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 132
+  type: 3
+  no: 30
+  title: 試作艦戦ポスター
+  description: 空技廠から独自のルートで手に入れた新型艦上戦闘機の試作機ポスター。空母な艦娘垂涎の逸品です。
+  rarity: 5
+  price: 1000
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

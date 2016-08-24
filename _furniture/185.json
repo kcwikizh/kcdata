@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 185
+  type: 5
+  no: 21
+  title: 艦娘専用デスク
+  description: 艦娘の待機部屋から持ち出してきたガーリーなデザインの机と椅子。後で怒られますよ？
+  rarity: 4
+  price: 400
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

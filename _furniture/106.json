@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 106
+  type: 3
+  no: 4
+  title: 鹿のオブジェ
+  description: リッチなロッジのような世界観を醸し出す鹿の壁掛け。だけど、剥製ではなくて、ぬいぐるみ。
+  rarity: 2
+  price: 300
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

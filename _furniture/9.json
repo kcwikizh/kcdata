@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 9
+  type: 0
+  no: 8
+  title: 白い石板タイル
+  description: 足元から明るい気分になれる白いタイル。洗練されたデザインは、モダンなインテリアにもよく合います！
+  rarity: 1
+  price: 150
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

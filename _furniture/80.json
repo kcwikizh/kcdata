@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 80
+  type: 2
+  no: 8
+  title: 広く開いた大窓
+  description: 母港のドックを見渡せるよ<br>うに大きく窓が開いた窓。<br>開放的な気分で、艦娘との<br>作戦会議も捗ります！
+  rarity: 4
+  price: 20000
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

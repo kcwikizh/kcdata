@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 233
+  type: 5
+  no: 48
+  title: 洋酒＆ワイン棚
+  description: ウイスキーやスコッチ、そ<br>してワインなどが好きな大<br>人の艦娘が酒保で入手した<br>大切なお酒をキープしてま<br>す。カウンター横にぜひ！
+  rarity: 4
+  price: 20000
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

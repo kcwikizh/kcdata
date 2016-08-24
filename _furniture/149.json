@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 149
+  type: 4
+  no: 16
+  title: 折り畳み机
+  description: 所属する艦娘の大雑把な性格が見事に表現された折り畳み机！とりあえずここにかけとこっと！
+  rarity: 1
+  price: 150
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

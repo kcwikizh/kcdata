@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 30
+  type: 0
+  no: 29
+  title: 黄緑の床
+  description: 草原を思わせるような明るい黄緑の床。
+  rarity: 0
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

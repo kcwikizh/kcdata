@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 135
+  type: 4
+  no: 2
+  title: サイドボード
+  description: 各提督御用達の落ち着いた高品質でシックなサイドボードはいかが？鎮守府の雰囲気にもぴったりです。
+  rarity: 2
+  price: 200
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

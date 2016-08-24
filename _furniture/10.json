@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 10
+  type: 0
+  no: 9
+  title: 暗めのウッドタイルの床
+  description: ダークブラウンで格調高い印象の高級な床。
+  rarity: 0
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

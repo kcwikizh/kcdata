@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 301
+  type: 4
+  no: 43
+  title: 涼しげな金魚鉢
+  description: 提督執務室を少し片付けて<br>涼しげな家具を置いてみる<br>のもいいですね。涼しげな<br>金魚鉢とのんびり泳ぐ金魚<br>は艦娘達にも人気です。
+  rarity: 3
+  price: 1300
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

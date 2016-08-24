@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 171
+  type: 5
+  no: 7
+  title: 社長の机
+  description: 気高く伝統的な、憧れの社長机。
+  rarity: 0
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 145
+  type: 4
+  no: 12
+  title: クラシックシェルフ
+  description: クラシックでシンプルな食器棚。やはり艦隊の指揮に紅茶セットは必須アイテムでしょ？
+  rarity: 3
+  price: 300
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 183
+  type: 5
+  no: 19
+  title: 煎餅布団
+  description: 書類一式にサインした提督<br>のみが敷くことができる、<br>シンプルにして至高の煎餅<br>布団。読みかけの本が平和<br>なひと時を感じさせます。
+  rarity: 5
+  price: 300
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

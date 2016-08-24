@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 155
+  type: 4
+  no: 22
+  title: 緑のプランター
+  description: お部屋も気持ちも爽やかにしてくれるグリーンのプランター。ぜひ、ときどき配置もしてみて気分転換を！
+  rarity: 1
+  price: 50
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

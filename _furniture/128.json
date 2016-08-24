@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 128
+  type: 3
+  no: 26
+  title: 怪獣映画ポスター
+  description: ちび大怪獣の襲来！迎え撃つ艦娘の勇姿！大ヒットした総天然色映画のポスターです。
+  rarity: 0
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

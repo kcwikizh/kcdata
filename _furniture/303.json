@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 303
+  type: 0
+  no: 42
+  title: 床半分の簡易畳
+  description: ちょっと畳な雰囲気を味わ<br>いつつシンプルな床も好き<br>という提督のための、ハー<br>フ＆ハーフな簡易畳です。<br>お値段もリーズナブル！
+  rarity: 3
+  price: 1500
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

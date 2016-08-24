@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 108
+  type: 3
+  no: 6
+  title: 花の絵画
+  description: なくとなく壁がさみしい…そんな提督のココロを癒す、花の絵画。司令官室を華やかに演出。
+  rarity: 1
+  price: 100
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

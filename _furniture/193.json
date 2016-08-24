@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 193
+  type: 5
+  no: 29
+  title: ガラステーブル
+  description: モダンセンスあふれるガラスを天板したテープル。艦娘たちとのパーティにも重宝します。
+  rarity: 3
+  price: 350
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

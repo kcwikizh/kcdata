@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 242
+  type: 3
+  no: 43
+  title: 「二周年記念」掛け軸
+  description: 提督のおかげで迎えること<br>ができた「祝二周年」を記<br>念して制作された掛け軸。<br>三年目も、頑張ってまいり<br>ましょう～！
+  rarity: 4
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

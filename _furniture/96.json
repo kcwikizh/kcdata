@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 96
+  type: 2
+  no: 24
+  title: 昔ながらのすりガラス
+  description: すりガラスを入れた窓です。素敵にデザインされた紅葉柄が艦隊司令部に不思議な雰囲気を演出します。
+  rarity: 4
+  price: 400
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

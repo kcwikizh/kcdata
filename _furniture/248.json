@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 248
+  type: 5
+  no: 51
+  title: 水風呂
+  description: ジメジメする日には水風呂<br>でさっぱり汗を流したい！<br>そんなアグレッシブな艦娘<br>の希望を叶える特注施設…<br>堂々の完成です！
+  rarity: 5
+  price: 7500
+  saleflg: 1
+  season: 0
+  filename: "052"
+  file_version: "1"
+---

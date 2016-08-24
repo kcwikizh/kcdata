@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 77
+  type: 2
+  no: 5
+  title: ちょっとゴージャスな窓
+  description: 重厚感と高級感を感じさせる、シックなカーテンと窓。黒色系で統一された風格のある執務室を演出します。
+  rarity: 2
+  price: 200
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

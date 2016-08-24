@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 170
+  type: 5
+  no: 6
+  title: 大将の机
+  description: 質の高い織柄のテーブルクロスがポイント！戦略資料を積み重ねて微動だにしない確かな作り。
+  rarity: 5
+  price: 500
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

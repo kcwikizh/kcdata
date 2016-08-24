@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 134
+  type: 4
+  no: 1
+  title: 昔ながらの箪笥
+  description: 昔ながらの雰囲気の箪笥。<br>どんなお部屋にも馴染みます。
+  rarity: 0
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

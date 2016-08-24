@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 110
+  type: 3
+  no: 8
+  title: 「100万の感謝」掛け軸
+  description: ある超弩級戦艦娘が書いた<br>提督数１００万人突破記念<br>感謝の掛け軸。同戦艦娘は<br>「就役する妹も、よろしく<br>お願いしますね」と語る。
+  rarity: 4
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

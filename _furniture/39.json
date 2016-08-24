@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 39
+  type: 1
+  no: 1
+  title: 低予算な壁紙
+  description: 一番安い壁紙です。いいのです。執務室で戦闘するわけではないですし！
+  rarity: 1
+  price: 50
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

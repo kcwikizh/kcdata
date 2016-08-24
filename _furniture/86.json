@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 86
+  type: 2
+  no: 14
+  title: お花見窓
+  description: いよいよ桜の季節となりま<br>した！家具職人を呼んで、<br>鎮守府の窓を大きく改造…<br>眼下の桜を肴に艦娘たちと<br>お昼からお花見宴会です！
+  rarity: 4
+  price: 3000
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

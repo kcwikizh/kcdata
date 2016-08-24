@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 22
+  type: 0
+  no: 21
+  title: 真っ白なフワフワ絨毯
+  description: 寝そべったら気持ちよさそ<br>う！真っ白でフワフワ仕上<br>げの高級絨毯。駆逐艦娘も<br>大喜びの逸品です。紅茶と<br>かこぼしたらダメ絶対！
+  rarity: 3
+  price: 1500
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

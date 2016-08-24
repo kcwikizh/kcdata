@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 244
+  type: 2
+  no: 36
+  title: 梅雨の緑カーテン窓
+  description: 梅雨の季節を楽しく過ごす<br>ため家具職人が腕によりを<br>かけて作った新作窓です。<br>駆逐艦娘がてるてる坊主を<br>大切にかけていきました。
+  rarity: 4
+  price: 3000
+  saleflg: 0
+  season: 18
+  filename: "037"
+  file_version: "1"
+---

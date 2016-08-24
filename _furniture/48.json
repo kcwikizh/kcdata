@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 48
+  type: 1
+  no: 10
+  title: 家具職人の壁紙
+  description: 特注家具職人がそのもてる<br>技術とセンスを総動員して<br>作り上げた、艦娘のための<br>新作壁紙。職人は満足気な<br>表情で帰って行きました…
+  rarity: 3
+  price: 2000
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

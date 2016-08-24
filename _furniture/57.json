@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 57
+  type: 1
+  no: 19
+  title: 高級木材の壁
+  description: 素材の木材自身の醸し出す<br>美しさと落ち着いた雰囲気<br>が味わえる高級木材の壁。<br>職人が山に登って厳選した<br>素材の良さが伝わります。
+  rarity: 3
+  price: 2200
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

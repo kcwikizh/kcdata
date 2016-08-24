@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 21
+  type: 0
+  no: 20
+  title: 真っ赤な高級絨毯
+  description: 高級な素材で仕上げられた真っ赤な絨毯。何かが三倍早くなるような気もしますが、それは気のせいです！紅茶セットも素敵デース！
+  rarity: 2
+  price: 800
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

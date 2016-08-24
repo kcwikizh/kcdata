@@ -9,3 +9,5 @@ collections:
     output: true
   useitem:
     output: true
+  furniture:
+    output: true

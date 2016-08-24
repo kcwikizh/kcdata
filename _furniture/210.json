@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 210
+  type: 2
+  no: 31
+  title: 蚊取り線香の窓
+  description: 今年の夏がやってきます！<br>鎮守府も窓を大きく開いて<br>夏の風を楽しみましょう。<br>蚊取り線香やラムネも重要<br>ですね！
+  rarity: 3
+  price: 1700
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

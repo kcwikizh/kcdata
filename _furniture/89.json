@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 89
+  type: 2
+  no: 17
+  title: 防空加工窓
+  description: いつ敵の空襲を受けてもいいように艦娘たちにガラスをテーピングしてもらいました。これで安心なのです！
+  rarity: 4
+  price: 2000
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

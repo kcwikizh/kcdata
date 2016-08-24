@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 141
+  type: 4
+  no: 8
+  title: エレガントボード
+  description: インテリジェンスを感じさせるエレガントなサイドボード。選ぶ人のセンスが光る逸品です。
+  rarity: 3
+  price: 300
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

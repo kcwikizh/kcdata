@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 181
+  type: 5
+  no: 17
+  title: 早く出しすぎた炬燵
+  description: ちょっと肌寒くなってきた<br>ので、例年より早く出して<br>きてしまった炬燵セット。<br>某球磨型軽巡も思わず丸く<br>なりそうな逸品です！
+  rarity: 3
+  price: 3500
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

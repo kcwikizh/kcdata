@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 26
+  type: 0
+  no: 25
+  title: 白い高級大理石床
+  description: 特注家具職人がその匠の<br>技で磨きあげた高級大理<br>石製の冬にぴったりの白<br>い床です。丁寧な仕上げ<br>で艦娘にも好評なのです！
+  rarity: 3
+  price: 2200
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

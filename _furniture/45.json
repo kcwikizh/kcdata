@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 45
+  type: 1
+  no: 7
+  title: ポップな壁紙
+  description: カジュアルな若い感性の壁紙。鮮やかな色彩のストライプには提督は渋い顔ですが、気にしません！
+  rarity: 1
+  price: 100
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

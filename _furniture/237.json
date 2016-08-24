@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 237
+  type: 1
+  no: 35
+  title: バー仕様の壁
+  description: 鎮守府カウンタバーに最適<br>なバー仕様の壁です。<br>落ち着いた雰囲気の、大人<br>の時間と空間を演出できる<br>シックな壁です。
+  rarity: 5
+  price: 30000
+  saleflg: 1
+  season: 0
+  filename: ""
+  file_version: ""
+---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 161
+  type: 4
+  no: 28
+  title: 「加賀」模型と桐箪笥
+  description: 超弩級の家具コイン長者に<br>贈る最高級桐箪笥。上部に<br>は加賀型航空母艦「加賀」<br>の精密模型が鎮座する流石<br>に気分が高揚する桐箪笥。
+  rarity: 5
+  price: 77000
+  saleflg: 0
+  season: 20
+  filename: "029"
+  file_version: "2"
+---

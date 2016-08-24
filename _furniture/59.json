@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 59
+  type: 1
+  no: 21
+  title: 緑の和壁紙
+  description: シンプルでありながら繊細<br>な仕事によって完成された<br>和の究極の壁紙のひとつ、<br>それがこの「緑の和壁紙」<br>壁紙ってわびさびよね…。
+  rarity: 4
+  price: 1900
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---

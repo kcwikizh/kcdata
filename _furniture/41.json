@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 41
+  type: 1
+  no: 3
+  title: 緑の壁紙
+  description: モスグリーンの落ち着いた地色に花柄パターンのシックでお洒落な壁。ちょっと格調高いですね！
+  rarity: 2
+  price: 250
+  saleflg: 0
+  season: 0
+  filename: ""
+  file_version: ""
+---
