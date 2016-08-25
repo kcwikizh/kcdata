@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「重巡洋艦」を出撃させよ！
   detail: 重巡洋艦を旗艦とした艦隊を編成、これを出撃させよ！
-  reward: [70,0,70,0]
+  reward: [70, 0, 70, 0]
   reward2:
     -
       category: useitem

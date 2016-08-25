@@ -6,7 +6,7 @@ data:
   type: 1
   title: 航空水上打撃艦隊を編成せよ！
   detail: 航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊を編成せよ！
-  reward: [0,0,200,200]
+  reward: [0, 0, 200, 200]
   reward2:
     -
       category: useitem

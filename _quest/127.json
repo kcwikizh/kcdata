@@ -6,7 +6,7 @@ data:
   type: 1
   title: 中規模潜水艦隊を編成せよ！
   detail: 伊号潜水艦3隻以上からなる潜水艦隊を編成せよ！
-  reward: [150,150,0,0]
+  reward: [150, 150, 0, 0]
   reward2:
     -
       category: useitem

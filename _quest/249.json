@@ -6,7 +6,7 @@ data:
   type: 6
   title: 「第五戦隊」出撃せよ！
   detail: 「第五戦隊」は沖ノ島沖の戦闘哨戒を実施、敵艦隊主力を捕捉、これを撃滅せよ！
-  reward: [0,550,550,0]
+  reward: [0, 550, 550, 0]
   reward2:
     -
       category: useitem
@@ -28,7 +28,7 @@ data:
       category: fleet
       amount:
         gte: 3
-      ship_id: [62,63,65]
+      ship_id: [62, 63, 65]
   wiki_id: Bm1
   chinese_title: 「第五战队」出击！
   chinese_detail: 派出「第五战队」在2-5实施战斗巡逻，捕捉敌方舰队主力，消灭他们！

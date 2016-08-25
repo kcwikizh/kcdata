@@ -6,7 +6,7 @@ data:
   type: 1
   title: 軽快な「水上反撃部隊」を編成せよ！
   detail: 駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！
-  reward: [250,250,0,50]
+  reward: [250, 250, 0, 50]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 3
       amount: 2
-  prerequisite: [123,224]
+  prerequisite: [123]
   requirements:
     -
       category: flagship
@@ -24,7 +24,7 @@ data:
     -
       category: fleet
       amount: 6
-      ship_id: [49,64]
+      ship_id: [49, 64]
     -
       category: fleet
       amount: 1

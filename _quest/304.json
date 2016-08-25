@@ -6,7 +6,7 @@ data:
   type: 2
   title: 「演習」で他提督を圧倒せよ！
   detail: 本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！
-  reward: [0,50,0,50]
+  reward: [0, 50, 0, 50]
   reward2:
     -
       category: useitem

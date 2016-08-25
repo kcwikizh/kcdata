@@ -6,13 +6,13 @@ data:
   type: 1
   title: 新装備の準備
   detail: 「工廠」で装備アイテムを5つ「廃棄」して、新装備配備の準備をします。
-  reward: [0,0,50,0]
+  reward: [0, 0, 50, 0]
   reward2:
     -
       category: useitem
       id: 11
       amount: 1
-  prerequisite: [113,220]
+  prerequisite: [113, 220]
   requirements:
     -
       category: scrap

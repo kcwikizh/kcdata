@@ -6,7 +6,7 @@ data:
   type: 1
   title: 潜水艦派遣作戦による技術入手の継続！
   detail: 第三次及び第四次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！
-  reward: [0,0,0,800]
+  reward: [0, 0, 0, 800]
   reward2:
     -
       category: useitem

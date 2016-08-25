@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第一水雷戦隊」を編成せよ！
   detail: 「阿武隈」「曙」「潮」「霞」「不知火」を中核とした「第一水雷戦隊」を編成せよ！
-  reward: [200,300,0,0]
+  reward: [200, 300, 0, 0]
   reward2:
     -
       category: useitem
@@ -18,7 +18,7 @@ data:
       category: fleet
       amount:
         gte: 5
-      ship_id: [114,15,16,49,18]
+      ship_id: [114, 15, 16, 49, 18]
   wiki_id: A30
   chinese_title: 「第1水雷战队」编成！
   chinese_detail: 以「阿武隈」「曙」「潮」「霞」「不知火」为核心编成第1水雷战队！

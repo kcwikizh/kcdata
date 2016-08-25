@@ -6,7 +6,7 @@ data:
   type: 1
   title: 強行高速輸送部隊、出撃せよ！
   detail: 「江風改二」「時雨改二」「川内改二」他駆逐2隻を含む艦隊で、ジャム島攻略作戦を実施せよ！
-  reward: [500,0,500,0]
+  reward: [500, 0, 500, 0]
   reward2:
     -
       category: useitem
@@ -31,7 +31,7 @@ data:
       category: fleet
       amount:
         gte: 5
-      ship_id: [158,469,145]
+      ship_id: [158, 469, 145]
     -
       category: fleet
       amount:

@@ -6,7 +6,7 @@ data:
   type: 6
   title: 「潜水艦隊」出撃せよ！
   detail: 潜水艦戦力を中核とした艦隊で中部海域哨戒線へ反復出撃、敵戦力を漸減せよ！
-  reward: [0,600,0,0]
+  reward: [0, 600, 0, 0]
   reward2:
     -
       category: useitem

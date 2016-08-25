@@ -6,7 +6,7 @@ data:
   type: 2
   title: 軍縮条約対応！
   detail: 少し艦隊規模が大きくなりすぎました！「工廠」で不要な艦を2隻「解体」してください！
-  reward: [0,0,0,50]
+  reward: [0, 0, 0, 50]
   reward2:
     -
       category: useitem

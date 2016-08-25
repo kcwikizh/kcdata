@@ -6,7 +6,7 @@ data:
   type: 3
   title: 大規模遠征作戦、発令！
   detail: 今週中に「遠征」30回成功させよう！
-  reward: [300,500,500,300]
+  reward: [300, 500, 500, 300]
   reward2:
     -
       category: useitem

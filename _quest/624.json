@@ -6,7 +6,7 @@ data:
   type: 1
   title: 試作艤装の準備
   detail: 「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備します。
-  reward: [0,0,100,0]
+  reward: [0, 0, 100, 0]
   reward2:
     -
       category: useitem

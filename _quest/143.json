@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「新型正規空母」を配備せよ！
   detail: 雲龍型航空母艦一番艦「雲龍」を第一艦隊機旗艦に配備せよ！
-  reward: [100,100,100,300]
+  reward: [100, 100, 100, 300]
   reward2:
     -
       category: useitem

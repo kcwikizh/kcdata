@@ -6,7 +6,7 @@ data:
   type: 1
   title: 式の準備！(その弐)
   detail: 本日中に「演習」で2回以上「勝利」をおさめ、式への気持ちを整理しよう！
-  reward: [0,0,88,88]
+  reward: [0, 0, 88, 88]
   reward2:
     -
       category: useitem

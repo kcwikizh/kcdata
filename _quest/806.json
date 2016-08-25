@@ -6,7 +6,7 @@ data:
   type: 1
   title: 旗艦「霞」出撃！敵艦隊を撃滅せよ！
   detail: 旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！
-  reward: [500,500,0,0]
+  reward: [500, 500, 0, 0]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: slotitem
       id: 131
       amount: 1
-  prerequisite: [402,805]
+  prerequisite: [805, 402]
   requirements:
     -
       category: sortie

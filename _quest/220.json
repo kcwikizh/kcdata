@@ -6,7 +6,7 @@ data:
   type: 3
   title: い号作戦
   detail: 有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！
-  reward: [0,500,0,500]
+  reward: [0, 500, 0, 500]
   reward2:
     -
       category: useitem
@@ -17,7 +17,7 @@ data:
     -
       category: sink
       amount: 20
-      ship_type: [7,11,18]
+      ship_type: [7, 11, 18]
   wiki_id: Bw2
   chinese_title: い号作战
   chinese_detail: 派出有力的航空母舰部队一周内全力出击，尽可能多地消灭敌方空母！

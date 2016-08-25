@@ -6,7 +6,7 @@ data:
   type: 3
   title: 海上通商破壊作戦
   detail: 1週間で敵輸送船を20隻以上撃沈せよ！
-  reward: [500,0,400,0]
+  reward: [500, 0, 400, 0]
   reward2:
     -
       category: useitem

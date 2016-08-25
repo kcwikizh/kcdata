@@ -6,7 +6,7 @@ data:
   type: 6
   title: 「水上反撃部隊」突入せよ！
   detail: 駆逐艦を旗艦とした重巡1隻軽巡1隻駆逐艦4隻からなる水上挺身部隊、沖ノ島沖に突入せよ！
-  reward: [0,600,0,200]
+  reward: [0, 600, 0, 200]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 4
       amount: 2
-  prerequisite: [148,264]
+  prerequisite: [148, 264]
   requirements:
     -
       category: sortie

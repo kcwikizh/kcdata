@@ -6,7 +6,7 @@ data:
   type: 1
   title: 新型電探を配備せよ！
   detail: 新型電探運用試験のため、第一艦隊の旗艦に「妙高改二」を配備せよ！
-  reward: [300,0,0,300]
+  reward: [300, 0, 0, 300]
   reward2:
     -
       category: slotitem

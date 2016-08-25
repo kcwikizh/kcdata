@@ -6,7 +6,7 @@ data:
   type: 1
   title: 改修工廠を準備せよ！
   detail: 第一艦隊の旗艦に工作艦「明石」を配備、改修工廠の準備を実施せよ！
-  reward: [100,0,100,0]
+  reward: [100, 0, 100, 0]
   reward2:
     -
       category: useitem

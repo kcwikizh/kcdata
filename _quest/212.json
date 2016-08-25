@@ -6,7 +6,7 @@ data:
   type: 5
   title: 敵輸送船団を叩け！
   detail: 敵の輸送船5隻以上を撃沈し、敵の補給路を寸断せよ！
-  reward: [0,200,0,0]
+  reward: [0, 200, 0, 0]
   reward2:
     -
       category: useitem

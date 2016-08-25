@@ -6,7 +6,7 @@ data:
   type: 1
   title: 第２艦隊、出撃せよ！
   detail: 新たに編成した「第２艦隊」を出撃させよ！
-  reward: [0,0,200,200]
+  reward: [0, 0, 200, 200]
   reward2:
     -
       category: useitem

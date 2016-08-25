@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「重巡戦隊」を編成せよ！
   detail: 重巡洋艦２隻を擁する重巡艦隊を編成せよ！
-  reward: [0,70,0,30]
+  reward: [0, 70, 0, 30]
   reward2:
     -
       category: useitem

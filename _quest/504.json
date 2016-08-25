@@ -6,7 +6,7 @@ data:
   type: 2
   title: 艦隊酒保祭り！
   detail: 艦隊酒保祭り！各艦に延べ15回以上の補給を実施しよう！
-  reward: [50,50,50,50]
+  reward: [50, 50, 50, 50]
   reward2:
     -
       category: useitem

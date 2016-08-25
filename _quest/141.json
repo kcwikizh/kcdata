@@ -6,7 +6,7 @@ data:
   type: 1
   title: 再編成「第二航空戦隊」を強化せよ！
   detail: 「蒼龍改二」(※旗艦)及び「飛龍改二」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！
-  reward: [0,0,0,450]
+  reward: [0, 0, 0, 450]
   reward2:
     -
       category: useitem
@@ -25,7 +25,7 @@ data:
       category: fleet
       amount:
         gte: 4
-      ship_id: [197,196]
+      ship_id: [197, 196]
     -
       category: fleet
       amount:

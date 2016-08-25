@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第三十一戦隊(第一次)」を編成せよ！
   detail: 「五十鈴改二」旗艦、「皐月改二」「卯月改」を含む、対潜機動水上部隊を編成せよ！
-  reward: [310,310,0,0]
+  reward: [310, 310, 0, 0]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 59
       amount: 1
-  prerequisite: [216, 295]
+  prerequisite: [295, 216]
   requirements:
     -
       category: flagship
@@ -25,7 +25,7 @@ data:
       category: fleet
       amount:
         gte: 3
-      ship_id: [141,418,309]
+      ship_id: [141, 418, 309]
   wiki_id: A66
   chinese_title: 第三十一战队（第一次）编成！
   chinese_detail: 以五十铃改二为旗舰，包含皋月改二、卯月改的对潜机动水上部队编成！

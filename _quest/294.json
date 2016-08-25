@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「小沢艦隊」出撃せよ！
   detail: 「小沢艦隊」を沖ノ島海域前面に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！
-  reward: [300,0,300,300]
+  reward: [300, 0, 300, 300]
   reward2:
     -
       category: useitem
@@ -30,7 +30,7 @@ data:
     -
       category: fleet
       amount: 6
-      ship_id: [112,117,108,109,82,88]
+      ship_id: [112, 117, 108, 109, 82, 88]
   wiki_id: B54
   chinese_title: “小沢舰队”出击！
   chinese_detail: “小沢舰队”出击2-4，捕捉敌方机动部队予以歼灭!

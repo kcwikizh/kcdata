@@ -6,7 +6,7 @@ data:
   type: 1
   title: 旗艦「霞」北方海域を哨戒せよ！
   detail: 旗艦「霞改二」で駆逐艦4隻を含む艦隊を北方海域に投入し、モーレイ海哨戒を実施せよ！
-  reward: [300,0,300,0]
+  reward: [300, 0, 300, 0]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: slotitem
       id: 106
       amount: 1
-  prerequisite: [132,303]
+  prerequisite: [132, 303]
   requirements:
     -
       category: sortie

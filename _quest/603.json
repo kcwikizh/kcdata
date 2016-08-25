@@ -6,7 +6,7 @@ data:
   type: 1
   title: はじめての「解体」！
   detail: 「工廠」で不要な艦を「解体」してみよう！
-  reward: [60,60,60,60]
+  reward: [60, 60, 60, 60]
   reward2:
     -
       category: useitem

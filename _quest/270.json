@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第二二駆逐隊」出撃せよ！
   detail: 「第二二駆逐隊」を含む艦隊で南西諸島防衛線に出撃、敵主力艦隊を撃滅せよ！
-  reward: [0,0,0,400]
+  reward: [0, 0, 0, 400]
   reward2:
     -
       category: useitem
@@ -28,7 +28,7 @@ data:
       category: fleet
       amount:
         gte: 4
-      ship_id: [28,29,6]
+      ship_id: [28, 29, 6]
     -
       category: fleet
       amount:

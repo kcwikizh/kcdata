@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第二一駆逐隊」を編成せよ！
   detail: 「初春」「子日」「若葉」「初霜」4隻による第二一駆逐隊を編成せよ！
-  reward: [210,210,0,0]
+  reward: [210, 210, 0, 0]
   reward2:
     -
       category: useitem
@@ -17,7 +17,7 @@ data:
     -
       category: fleet
       amount: 4
-      ship_id: [38,39,40,41]
+      ship_id: [38, 39, 40, 41]
   wiki_id: A48
   chinese_title: 「第二一驱逐队」编成！
   chinese_detail: 以「初春」「子日」「若叶」「初霜」4艘编成「第二一驱逐队」！

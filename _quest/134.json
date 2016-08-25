@@ -6,7 +6,7 @@ data:
   type: 1
   title: 式の準備！(その参)
   detail: 第一艦隊旗艦に練度の高い(Lv.90以上～99以下)艦娘を配備して気持ちを整理せよ！
-  reward: [88,88,88,88]
+  reward: [88, 88, 88, 88]
   reward2:
     -
       category: useitem

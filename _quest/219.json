@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「三川艦隊」出撃せよ！
   detail: 新編成した「三川艦隊」で出撃せよ！
-  reward: [0,200,0,0]
+  reward: [0, 200, 0, 0]
   reward2:
     -
       category: useitem
@@ -21,7 +21,7 @@ data:
       category: fleet
       amount: 6
       speed: 10
-      ship_id: [69,61,60,59,51]
+      ship_id: [69, 61, 60, 59, 51]
   wiki_id: B11
   chinese_title: 「三川舰队」出击！
   chinese_detail: 派出新编成的「三川舰队」出击！

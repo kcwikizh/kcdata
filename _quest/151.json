@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第二二駆逐隊」を編成せよ！
   detail: 「皐月」「文月」「長月」他1隻計駆逐艦4隻による第二二駆逐隊を編成せよ！
-  reward: [220,220,0,0]
+  reward: [220, 220, 0, 0]
   reward2:
     -
       category: useitem
@@ -21,7 +21,7 @@ data:
     -
       category: fleet
       amount: 4
-      ship_id: [28,29,6]
+      ship_id: [28, 29, 6]
     -
       category: fleet
       amount: 4

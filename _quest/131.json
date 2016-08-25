@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第八駆逐隊」を編成せよ！
   detail: 「朝潮」「満潮」「大潮」「荒潮」4隻による第八駆逐隊を編成せよ！
-  reward: [150,150,0,0]
+  reward: [150, 150, 0, 0]
   reward2:
     -
       category: useitem
@@ -17,7 +17,7 @@ data:
     -
       category: fleet
       amount: 4
-      ship_id: [95,97,96,98]
+      ship_id: [95, 97, 96, 98]
   wiki_id: A31
   chinese_title: 「第八驱逐队」编成！
   chinese_detail: 以「朝潮」「满潮」「大潮」「荒潮」4艘编成第八驱逐队！

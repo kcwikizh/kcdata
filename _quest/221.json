@@ -6,7 +6,7 @@ data:
   type: 3
   title: ろ号作戦
   detail: 1週間の全力出撃を行い、敵輸送船団を捕捉・撃滅、敵の補給路を寸断せよ！
-  reward: [400,0,800,0]
+  reward: [400, 0, 800, 0]
   reward2:
     -
       category: useitem

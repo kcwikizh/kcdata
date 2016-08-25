@@ -6,7 +6,7 @@ data:
   type: 1
   title: はじめての「入渠」！
   detail: 戦闘で傷ついた艦を「入渠」させて修理して、次の出撃に備えよう！
-  reward: [0,0,30,0]
+  reward: [0, 0, 30, 0]
   reward2:
     -
       category: useitem

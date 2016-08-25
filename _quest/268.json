@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第十一駆逐隊」対潜哨戒！
   detail: 「第十一駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！
-  reward: [400,0,0,200]
+  reward: [400, 0, 0, 200]
   reward2:
     -
       category: useitem
@@ -28,7 +28,7 @@ data:
       category: fleet
       amount:
         gte: 4
-      ship_id: [9,10,32,33]
+      ship_id: [9, 10, 32, 33]
   wiki_id: B36
   chinese_title: 「第十一驱逐队」反潜巡逻！
   chinese_detail: 派出包含「第十一驱逐队」的舰队向1-5展开，实施反潜巡逻！

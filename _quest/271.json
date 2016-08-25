@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「那智戦隊」抜錨せよ！
   detail: 旗艦「那智」及び「初霜」「霞」「潮」「曙」他1隻の艦隊でバシー島沖の敵を撃滅せよ！
-  reward: [500,300,0,0]
+  reward: [500, 300, 0, 0]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 12
       amount: 1
-  prerequisite: [249,269]
+  prerequisite: [269, 249]
   requirements:
     -
       category: sortie
@@ -30,7 +30,7 @@ data:
     -
       category: fleet
       amount: 6
-      ship_id: [63,41,49,16,15]
+      ship_id: [63, 41, 49, 16, 15]
   wiki_id: B38
   chinese_title: 「那智战队」起锚
   chinese_detail: 派出旗舰「那智」和「初霜」「霞」「潮」「曙」和其他1艘舰艇组成的舰队歼灭2-2的敌人！

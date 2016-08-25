@@ -6,7 +6,7 @@ data:
   type: 1
   title: 海上突入部隊を編成せよ！
   detail: 戦艦「比叡」「霧島」軽巡「長良」駆逐艦「暁」「雷」「電」による海上突入部隊を編成せよ！
-  reward: [0,300,0,0]
+  reward: [0, 300, 0, 0]
   reward2:
     -
       category: useitem
@@ -21,7 +21,7 @@ data:
     -
       category: fleet
       amount: 6
-      ship_id: [86,85,21,34,36,37]
+      ship_id: [86, 85, 21, 34, 36, 37]
   wiki_id: A52
   chinese_title: 海上突入部队编成！
   chinese_detail: 以战舰「比睿」「雾岛」轻巡「长良」驱逐舰「晓」「雷」「电」编成海上突入部队！

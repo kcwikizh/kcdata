@@ -6,7 +6,7 @@ data:
   type: 1
   title: はじめての「廃棄」！
   detail: 「工廠」で装備アイテムを「廃棄」してみよう！
-  reward: [80,80,80,80]
+  reward: [80, 80, 80, 80]
   reward2:
     -
       category: useitem

@@ -6,7 +6,7 @@ data:
   type: 1
   title: 抜錨！「第十八戦隊」
   detail: 「天龍」「龍田」を基幹戦力とした「第十八戦隊」で出撃し、オリョール海の敵主力を撃滅せよ！
-  reward: [350,0,0,250]
+  reward: [350, 0, 0, 250]
   reward2:
     -
       category: useitem
@@ -28,7 +28,7 @@ data:
       category: fleet
       amount:
         gte: 2
-      ship_id: [51,52]
+      ship_id: [51, 52]
   wiki_id: B43
   chinese_title: 起锚！「第十八战队」
   chinese_detail: 派出以「天龙」「龙田」为基干战力的「第十八战队」出击，消灭2-3的敌方主力！

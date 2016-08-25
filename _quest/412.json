@@ -6,7 +6,7 @@ data:
   type: 1
   title: 航空火力艦の運用を強化せよ！
   detail: 「航空戦艦運用演習」を実施し、航空火力艦の運用の強化に努めよ！
-  reward: [0,0,0,100]
+  reward: [0, 0, 0, 100]
   reward2:
     -
       category: slotitem

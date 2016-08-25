@@ -6,7 +6,7 @@ data:
   type: 1
   title: 第二次潜水艦派遣作戦
   detail: 第二次潜水艦派遣作戦を成功させよう！
-  reward: [0,0,10,10]
+  reward: [0, 0, 10, 10]
   reward2:
     -
       category: slotitem

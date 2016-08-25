@@ -6,7 +6,7 @@ data:
   type: 3
   title: 資源の再利用
   detail: 「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！
-  reward: [0,0,100,0]
+  reward: [0, 0, 100, 0]
   reward2:
     -
       category: slotitem

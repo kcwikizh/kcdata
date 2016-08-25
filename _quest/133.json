@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第三十駆逐隊(第一次)」を編成せよ！
   detail: 「睦月」「如月」「弥生」「望月」4隻による第三十駆逐隊(第一次)を編成せよ！
-  reward: [200,200,0,0]
+  reward: [200, 200, 0, 0]
   reward2:
     -
       category: useitem
@@ -21,7 +21,7 @@ data:
     -
       category: fleet
       amount: 4
-      ship_id: [1,2,164,31]
+      ship_id: [1, 2, 164, 31]
   wiki_id: A33
   chinese_title: 「第三十驱逐队(第一次)」编成！
   chinese_detail: 以「睦月」「如月」「弥生」「望月」4艘编成第三十驱逐队（第一次）！

@@ -6,7 +6,7 @@ data:
   type: 1
   title: 新「三川艦隊」出撃せよ！
   detail: 完全編成した「三川艦隊」をもって、オリョール海の敵を撃滅せよ！
-  reward: [100,150,100,150]
+  reward: [100, 150, 100, 150]
   reward2:
     -
       category: useitem
@@ -23,7 +23,7 @@ data:
     -
       category: fleet
       amount: 6
-      ship_id: [69,61,123,60,59,51]
+      ship_id: [69, 61, 123, 60, 59, 51]
   wiki_id: B16
   chinese_title: 新「三川舰队」出击！
   chinese_detail: 派出完全编成的「三川舰队」，消灭2-3的敌人！

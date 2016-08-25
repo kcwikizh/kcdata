@@ -6,7 +6,7 @@ data:
   type: 2
   title: 艦の「近代化改修」を実施せよ！
   detail: 近代化改修を実施して、２回以上これを成功させよ！
-  reward: [20,20,50,0]
+  reward: [20, 20, 50, 0]
   reward2:
     -
       category: useitem

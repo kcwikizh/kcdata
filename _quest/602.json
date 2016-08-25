@@ -6,13 +6,13 @@ data:
   type: 1
   title: はじめての「開発」！
   detail: 「工廠」でボーキサイトなどの資材を使って新しい装備アイテムを「開発」しよう！
-  reward: [100,100,100,100]
+  reward: [100, 100, 100, 100]
   reward2:
     -
       category: useitem
       id: 3
       amount: 1
-  prerequisite: [601] 
+  prerequisite: [601]
   requirements:
     -
       category: development

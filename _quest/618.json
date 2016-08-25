@@ -6,7 +6,7 @@ data:
   type: 1
   title: はじめての「装備改修」！
   detail: 「改修工廠」で「装備」を改修してみましょう！明石さん、お願いします！
-  reward: [0,0,100,0]
+  reward: [0, 0, 100, 0]
   reward2:
     -
       category: useitem

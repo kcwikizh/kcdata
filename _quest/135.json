@@ -6,7 +6,7 @@ data:
   type: 1
   title: 新たなる旅立ち！
   detail: 第一艦隊旗艦に強い絆を結んだLv.100以上の艦娘を配備した6隻の艦隊を編成せよ！
-  reward: [200,200,200,200]
+  reward: [200, 200, 200, 200]
   reward2:
     -
       category: useitem

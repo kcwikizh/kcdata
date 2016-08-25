@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「航空戦艦」抜錨せよ！
   detail: 航空戦艦2隻を基幹とする艦隊で、西方海域カスガダマ島の敵勢力を撃破せよ！
-  reward: [0,300,300,900]
+  reward: [0, 300, 300, 900]
   reward2:
     -
       category: useitem

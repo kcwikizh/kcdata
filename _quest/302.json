@@ -6,7 +6,7 @@ data:
   type: 3
   title: 大規模演習
   detail: 今週中に「演習」で他の提督の艦隊に対して20回「勝利」しよう！
-  reward: [200,200,200,200]
+  reward: [200, 200, 200, 200]
   reward2:
     -
       category: useitem

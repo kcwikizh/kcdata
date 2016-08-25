@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「天龍」型軽巡姉妹の全２艦を編成せよ！
   detail: 天龍型軽巡洋艦「天龍」「龍田」を同一艦隊に配属せよ！
-  reward: [100,100,100,50]
+  reward: [100, 100, 100, 50]
   reward2:
     -
       category: useitem
@@ -18,7 +18,7 @@ data:
       category: fleet
       amount:
         gte: 2
-      ship_id: [51,52]
+      ship_id: [51, 52]
   wiki_id: A8
   chinese_title: 「天龙」型轻巡姐妹全部2舰编成！
   chinese_detail: 将天龙型轻巡洋舰「天龙」「龙田」配备在同一舰队！

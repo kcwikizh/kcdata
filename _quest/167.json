@@ -6,7 +6,7 @@ data:
   type: 1
   title: 新航空戦隊を編成せよ！
   detail: 改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！
-  reward: [0,300,300,300]
+  reward: [0, 300, 300, 300]
   reward2:
     -
       category: useitem
@@ -22,7 +22,7 @@ data:
       category: fleet
       amount:
         gte: 4
-      ship_id: [461,462]
+      ship_id: [461, 462]
     -
       category: fleet
       amount:

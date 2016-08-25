@@ -6,7 +6,7 @@ data:
   type: 1
   title: オリョール海の制海権を確保せよ！
   detail: 大潮を旗艦とする艦隊を東部オリョール海に反復出撃、同方面敵艦隊を完全撃滅せよ！
-  reward: [0,400,0,200]
+  reward: [0, 400, 0, 200]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 59
       amount: 1
-  prerequisite: [239,811]
+  prerequisite: [811, 239]
   requirements:
     -
       category: sortie

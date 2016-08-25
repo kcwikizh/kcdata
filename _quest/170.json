@@ -6,7 +6,7 @@ data:
   type: 1
   title: 精強な「水上反撃部隊」を再編成せよ！
   detail: 駆逐艦「霞」旗艦、「足柄」「大淀」「朝霜」「清霜」他の水上反撃部隊を再編成せよ！
-  reward: [300,300,0,0]
+  reward: [300, 300, 0, 0]
   reward2:
     -
       category: useitem
@@ -20,7 +20,7 @@ data:
     -
       category: fleet
       amount: 6
-      ship_id: [49,64,183,425,410]
+      ship_id: [49, 64, 183, 425, 410]
   wiki_id: A65
   chinese_title: 精锐“水上反击部队”再编成！
   chinese_detail: 以霞为旗舰，足柄、大淀、朝霜、清霜和其他舰只再次编成水上反击部队!

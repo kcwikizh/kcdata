@@ -6,7 +6,7 @@ data:
   type: 1
   title: 新家具の準備
   detail: 「工廠」で装備アイテムを9つ「廃棄」して、新家具の準備をします。
-  reward: [0,0,90,0]
+  reward: [0, 0, 90, 0]
   reward2:
     -
       category: useitem

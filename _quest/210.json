@@ -6,7 +6,7 @@ data:
   type: 2
   title: 敵艦隊を10回邀撃せよ！
   detail: 艦隊全力出撃！遊弋する敵艦隊を10回邀撃せよ！
-  reward: [150,150,200,100]
+  reward: [150, 150, 200, 100]
   reward2:
     -
       category: useitem

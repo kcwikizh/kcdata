@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「西村艦隊」南方海域へ進出せよ！
   detail: 「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！
-  reward: [0,0,500,300]
+  reward: [0, 0, 500, 300]
   reward2:
     -
       category: useitem
@@ -28,7 +28,7 @@ data:
       category: fleet
       amount:
         gte: 5
-      ship_id: [26,27,70,43,97]
+      ship_id: [26, 27, 70, 43, 97]
   wiki_id: B33
   chinese_title: 「西村舰队」推进至南方海域！
   chinese_detail: 派出以「西村舰队」向5-1推进，向着敌方主力舰队突入，并消灭！

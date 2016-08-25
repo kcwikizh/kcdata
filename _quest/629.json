@@ -6,13 +6,13 @@ data:
   type: 1
   title: 「艦戦」隊の再編成
   detail: 練度max「零戦52型(熟練)」搭載「瑞鶴」秘書艦で「零戦52型丙(六〇一空)」を廃棄！
-  reward: [0,0,0,50]
+  reward: [0, 0, 0, 50]
   reward2:
     -
       category: slotitem
       id: 153
       amount: 1
-  prerequisite: [293,624,627]
+  prerequisite: [293, 624, 627]
   requirements:
     -
       category: scrap

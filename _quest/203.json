@@ -6,7 +6,7 @@ data:
   type: 1
   title: 鎮守府正面海域を護れ！
   detail: 鎮守府正面海域に艦隊を出撃させ、敵艦の跳梁を阻止せよ！
-  reward: [30,30,30,0]
+  reward: [30, 30, 30, 0]
   reward2:
     -
       category: useitem

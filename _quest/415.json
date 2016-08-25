@@ -6,7 +6,7 @@ data:
   type: 1
   title: 遠洋潜水艦作戦の成果を拡大せよ！
   detail: 「遠洋潜水艦作戦」を継続実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！
-  reward: [0,400,0,0]
+  reward: [0, 400, 0, 0]
   reward2:
     -
       category: slotitem

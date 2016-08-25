@@ -6,13 +6,13 @@ data:
   type: 6
   title: 機種転換
   detail: 練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！
-  reward: [0,0,0,50]
+  reward: [0, 0, 0, 50]
   reward2:
     -
       category: slotitem
       id: 152
       amount: 1
-  prerequisite: [265,627]
+  prerequisite: [627, 265]
   requirements:
     -
       category: scrap

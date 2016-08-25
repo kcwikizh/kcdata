@@ -6,7 +6,7 @@ data:
   type: 1
   title: 戦艦「榛名」出撃せよ！
   detail: 第二次改装実施した「榛名」を基幹とした艦隊で「南方海域」へ進出、敵艦隊主力を撃滅せよ！
-  reward: [100,0,0,0]
+  reward: [100, 0, 0, 0]
   reward2:
     -
       category: slotitem

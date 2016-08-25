@@ -6,7 +6,7 @@ data:
   type: 1
   title: はじめての「演習」！
   detail: 他の提督(プレイヤー)の艦隊と「演習」を行おう！
-  reward: [10,10,0,0]
+  reward: [10, 10, 0, 0]
   reward2:
     -
       category: useitem

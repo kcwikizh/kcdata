@@ -6,7 +6,7 @@ data:
   type: 1
   title: 新編「第六駆逐隊」を編成せよ！
   detail: 「暁改二」を旗艦とした「響」「雷」「電」4隻による第六駆逐隊を編成せよ！
-  reward: [150,150,0,0]
+  reward: [150, 150, 0, 0]
   reward2:
     -
       category: slotitem
@@ -20,7 +20,7 @@ data:
     -
       category: fleet
       amount: 4
-      ship_id: [437,35,36,37]
+      ship_id: [437, 35, 36, 37]
   wiki_id: A53
   chinese_title: 新编成「第六驱逐队」！
   chinese_detail: 以「晓改二」为旗舰，「响」「雷」「电」共4艘编成第六驱逐队！

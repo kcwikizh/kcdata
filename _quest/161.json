@@ -6,19 +6,19 @@ data:
   type: 1
   title: 「第五航空戦隊」を再編成せよ！
   detail: 「翔鶴」「瑞鶴」と随伴駆逐艦「朧」「秋雲」を基幹とした第五航空戦隊を再編成せよ！
-  reward: [300,0,0,300]
+  reward: [300, 0, 0, 300]
   reward2:
     -
       category: useitem
       id: 3
       amount: 3
-  prerequisite: [123,264]
+  prerequisite: [264, 123]
   requirements:
     -
       category: fleet
       amount:
         gte: 4
-      ship_id: [110,111,93,132]
+      ship_id: [110, 111, 93, 132]
   wiki_id: A56
   chinese_title: 「第五航空战队」再次编成！
   chinese_detail: 以「翔鹤」、「瑞鹤」及伴随驱逐舰「胧」「秋云」为基干再次编成第五航空战队！

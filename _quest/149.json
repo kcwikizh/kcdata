@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第十一駆逐隊」を編成せよ！
   detail: 特I型駆逐艦「吹雪」「白雪」「初雪」「叢雲」4隻による第十一駆逐隊を編成せよ！
-  reward: [110,110,110,0]
+  reward: [110, 110, 110, 0]
   reward2:
     -
       category: useitem
@@ -17,7 +17,7 @@ data:
     -
       category: fleet
       amount: 4
-      ship_id: [9,10,32,33]
+      ship_id: [9, 10, 32, 33]
   wiki_id: A47
   chinese_title: 「第十一驱逐队」编成！
   chinese_detail: 以特Ⅰ型驱逐舰「吹雪」「白雪」「初雪」「丛云」4艘编成第十一驱逐队！

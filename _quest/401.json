@@ -6,13 +6,13 @@ data:
   type: 1
   title: はじめての「遠征」！
   detail: 艦隊を「遠征」に出発させよう！
-  reward: [30,30,30,30]
+  reward: [30, 30, 30, 30]
   reward2:
     -
       category: useitem
       id: 10
       amount: 1
-  prerequisite: []
+  prerequisite: [105]
   requirements:
     -
       category: expedition

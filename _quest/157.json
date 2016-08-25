@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第一水雷戦隊」北方再突入準備！
   detail: 「阿武隈改二」を旗艦として「響」「夕雲」「長波」「秋雲」「島風」の一水戦を再編成せよ！
-  reward: [200,200,0,0]
+  reward: [200, 200, 0, 0]
   reward2:
     -
       category: useitem
@@ -24,7 +24,7 @@ data:
     -
       category: fleet
       amount: 6
-      ship_id: [200,35,133,135,132,50]
+      ship_id: [200, 35, 133, 135, 132, 50]
   wiki_id: A55
   chinese_title: 「第一水雷战队」北方再突入准备！
   chinese_detail: 以「阿武隈改二」为旗舰，「响」「夕云」「长波」「秋云」「岛风」再次编成一水战！

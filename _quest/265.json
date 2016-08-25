@@ -6,7 +6,7 @@ data:
   type: 6
   title: 海上護衛強化月間
   detail: 鎮守府正面海域の対潜哨戒を強化し、敵潜水艦を制圧、安全な海上輸送体制を確立せよ！
-  reward: [800,0,0,0]
+  reward: [800, 0, 0, 0]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 4
       amount: 3
-  prerequisite: [240,249]
+  prerequisite: [249, 240]
   requirements:
     -
       category: sortie

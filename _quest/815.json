@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第一航空戦隊」西へ！
   detail: 旗艦「赤城」同僚艦「加賀」を中核とする艦隊で、深海東洋艦隊漸減作戦を貫徹せよ！
-  reward: [0,800,0,800]
+  reward: [0, 800, 0, 800]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 70
       amount: 1
-  prerequisite: [636,814]
+  prerequisite: [814, 636]
   requirements:
     -
       category: sortie
@@ -31,7 +31,7 @@ data:
       category: fleet
       amount:
         gte: 2
-      ship_id: [83,84]
+      ship_id: [83, 84]
   wiki_id: B69
   chinese_title: “第一航空战队”向西前行！
   chinese_detail: 赤城为旗舰、同僚舰加贺为核心的舰队、贯彻深海东方舰队的削弱作战！

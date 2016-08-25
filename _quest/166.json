@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「小沢艦隊」を編成せよ！
   detail: 「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！
-  reward: [300,0,0,300]
+  reward: [300, 0, 0, 300]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 50
       amount: 1
-  prerequisite: [266,165]
+  prerequisite: [266, 165]
   requirements:
     -
       category: flagship
@@ -24,7 +24,7 @@ data:
     -
       category: fleet
       amount: 6
-      ship_id: [112,117,108,109,82,88]
+      ship_id: [112, 117, 108, 109, 82, 88]
   wiki_id: A61
   chinese_title: “小沢舰队”编成！
   chinese_detail: 以瑞鹤改为旗舰、航母瑞凤改、千岁、千代田以及伊势改、日向改编成舰队!

@@ -6,7 +6,7 @@ data:
   type: 3
   title: 敵北方艦隊主力を撃滅せよ！
   detail: 北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！
-  reward: [300,300,400,300]
+  reward: [300, 300, 400, 300]
   reward2:
     -
       category: useitem
@@ -21,7 +21,7 @@ data:
     -
       category: sortie
       times: 5
-      map: [33,34,35]
+      map: [33, 34, 35]
       boss: true
       result: B
   wiki_id: Bw7

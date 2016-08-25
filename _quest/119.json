@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「三川艦隊」を編成せよ！
   detail: 「鳥海」「青葉」「加古」「古鷹」「天龍」を含む高速艦隊を編成せよ！
-  reward: [400,0,200,0]
+  reward: [400, 0, 200, 0]
   reward2:
     -
       category: useitem
@@ -18,7 +18,7 @@ data:
       category: fleet
       amount:
         gte: 5
-      ship_id: [69,61,60,59,51]
+      ship_id: [69, 61, 60, 59, 51]
       speed: 10
   wiki_id: A20
   chinese_title: 「三川舰队」编成！

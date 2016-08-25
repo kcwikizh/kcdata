@@ -6,7 +6,7 @@ data:
   type: 3
   title: 敵東方艦隊を撃滅せよ！
   detail: 西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！
-  reward: [400,0,0,700]
+  reward: [400, 0, 0, 700]
   reward2:
     -
       category: useitem

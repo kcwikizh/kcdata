@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「戦艦」を出撃させよ！
   detail: 海上の覇者、戦艦を旗艦とした艦隊を編成、これを出撃させよ！
-  reward: [0,150,150,0]
+  reward: [0, 150, 150, 0]
   reward2:
     -
       category: useitem

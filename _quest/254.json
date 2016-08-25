@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「軽空母」戦隊、出撃せよ！
   detail: 軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でカムラン半島の敵を撃滅せよ！
-  reward: [0,300,0,300]
+  reward: [0, 300, 0, 300]
   reward2:
     -
       category: useitem
@@ -26,7 +26,7 @@ data:
       result: S
     -
       category: fleet
-      amount: [1,2]
+      amount: [1, 2]
       ship_type: 7
     -
       category: fleet
@@ -34,11 +34,11 @@ data:
       ship_type: 3
     -
       category: fleet
-      amount: [3,4]
+      amount: [3, 4]
       ship_type: 2
     -
       category: fleet
-      not_ship_type: [2,3,7]
+      not_ship_type: [2, 3, 7]
       amount: 0
   wiki_id: B29
   chinese_title: 「軽空母」战队、出击！

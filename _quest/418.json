@@ -6,7 +6,7 @@ data:
   type: 1
   title: 観艦式予行を実施せよ！
   detail: 観艦式を実施する。予行として「観艦式予行」を複数回実施し、これを2回成功させよ！
-  reward: [150,0,0,150]
+  reward: [150, 0, 0, 150]
   reward2:
     -
       category: useitem

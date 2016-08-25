@@ -6,7 +6,7 @@ data:
   type: 2
   title: 新造艦「建造」指令
   detail: 「工廠」で艦娘を本日中に新たに「建造」しよう！
-  reward: [50,50,50,50]
+  reward: [50, 50, 50, 50]
   reward2:
     -
       category: useitem

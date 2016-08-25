@@ -6,13 +6,13 @@ data:
   type: 1
   title: 南西諸島沖に出撃せよ！
   detail: 南西諸島沖に艦隊を出撃させ、敵艦隊と交戦せよ！
-  reward: [40,40,0,0]
+  reward: [40, 40, 0, 0]
   reward2:
     -
       category: useitem
       id: 1
       amount: 1
-  prerequisite: [202]
+  prerequisite: [203]
   requirements:
     -
       category: sortie

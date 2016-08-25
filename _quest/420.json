@@ -6,7 +6,7 @@ data:
   type: 1
   title: 機動部隊の運用を強化せよ！
   detail: 機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！
-  reward: [200,200,400,0]
+  reward: [200, 200, 400, 0]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 12
       amount: 1
-  prerequisite: [287,410]
+  prerequisite: [287, 410]
   requirements:
     -
       category: expedition

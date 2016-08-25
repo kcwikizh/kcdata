@@ -6,7 +6,7 @@ data:
   type: 1
   title: 精鋭「九七式艦攻」部隊の編成
   detail: 「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！
-  reward: [0,0,0,50]
+  reward: [0, 0, 0, 50]
   reward2:
     -
       category: slotitem
@@ -20,7 +20,7 @@ data:
       slotitem_id: 16
     -
       category: flagship
-      ship_id: [83,110]
+      ship_id: [83, 110]
   wiki_id: F19
   chinese_title: 编成精锐「九七式舰攻」部队
   chinese_detail: 在「翔鹤」或「赤城」为秘书舰的状态下废弃装备「九七式舰攻」3个！

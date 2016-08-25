@@ -6,7 +6,7 @@ data:
   type: 1
   title: 試製航空艤装の追加試作
   detail: 「工廠」で装備アイテムを9つ「廃棄」して、「試製甲板カタパルト」を追加試作します。
-  reward: [0,0,100,50]
+  reward: [0, 0, 100, 50]
   reward2:
     -
       category: useitem

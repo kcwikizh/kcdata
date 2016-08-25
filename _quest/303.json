@@ -6,7 +6,7 @@ data:
   type: 2
   title: 「演習」で練度向上！
   detail: 本日中に他の司令官の艦隊に対して3回「演習」を挑もう！
-  reward: [50,0,0,50]
+  reward: [50, 0, 0, 50]
   reward2:
     -
       category: useitem

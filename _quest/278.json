@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第一水雷戦隊」ケ号作戦、突入せよ！
   detail: 北方突入準備を完了した「一水戦」で北方キス島に突入！包囲網を破り、友軍を救出せよ！
-  reward: [0,300,0,400]
+  reward: [0, 300, 0, 400]
   reward2:
     -
       category: useitem
@@ -30,7 +30,7 @@ data:
     -
       category: fleet
       amount: 6
-      ship_id: [114,35,41,40,46,50]
+      ship_id: [114, 35, 41, 40, 46, 50]
   wiki_id: B46
   chinese_title: 「第一水雷战队」KE号作战、突入！
   chinese_detail: 北方突入准备完成的「一水战」突入3-2！突破包围网，救出友军！

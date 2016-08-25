@@ -6,7 +6,7 @@ data:
   type: 1
   title: 精鋭「第二航空戦隊」抜錨せよ！
   detail: 錬成を終え再編成「二航戦」を基幹とした艦隊で、敵リランカ島を空襲、破砕せよ！
-  reward: [500,0,500,0]
+  reward: [500, 0, 500, 0]
   reward2:
     -
       category: useitem
@@ -27,7 +27,7 @@ data:
       category: fleet
       amount:
         gte: 4
-      ship_id: [197,196]
+      ship_id: [197, 196]
     -
       category: fleet
       amount:

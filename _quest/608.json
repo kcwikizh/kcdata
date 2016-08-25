@@ -6,7 +6,7 @@ data:
   type: 2
   title: 艦娘「建造」艦隊強化！
   detail: 艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！
-  reward: [200,200,300,100]
+  reward: [200, 200, 300, 100]
   reward2:
     -
       category: useitem

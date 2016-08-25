@@ -6,7 +6,7 @@ data:
   type: 3
   title: 「近代化改修」を進め、戦備を整えよ！
   detail: 一週間の間に、近代化改修を１5回成功させよ！
-  reward: [200,200,300,100]
+  reward: [200, 200, 300, 100]
   reward2:
     -
       category: useitem

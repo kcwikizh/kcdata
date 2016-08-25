@@ -6,7 +6,7 @@ data:
   type: 3
   title: あ号作戦
   detail: 1週間の全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！
-  reward: [300,300,300,100]
+  reward: [300, 300, 300, 100]
   reward2:
     -
       category: useitem

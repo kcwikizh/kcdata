@@ -6,7 +6,7 @@ data:
   type: 3
   title: 敵東方中枢艦隊を撃破せよ！
   detail: 西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！
-  reward: [500,0,500,0]
+  reward: [500, 0, 500, 0]
   reward2:
     -
       category: useitem

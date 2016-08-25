@@ -6,7 +6,7 @@ data:
   type: 1
   title: 新編「第二一戦隊」出撃準備！
   detail: 「那智改二」「足柄改二」及び「多摩」「木曾」を基幹とした、第二一戦隊を編成せよ！
-  reward: [150,150,150,0]
+  reward: [150, 150, 150, 0]
   reward2:
     -
       category: useitem
@@ -16,13 +16,13 @@ data:
       category: useitem
       id: 4
       amount: 2
-  prerequisite: [152,263]
+  prerequisite: [152, 263]
   requirements:
     -
       category: fleet
       amount:
         gte: 4
-      ship_id: [192,193,100,101]
+      ship_id: [192, 193, 100, 101]
   wiki_id: A57
   chinese_title: 新编「第二十一战队」出击准备！
   chinese_detail: 以「那智改二」、「足柄改二」及「多摩」「木曾」为基干编成第二十一战队！

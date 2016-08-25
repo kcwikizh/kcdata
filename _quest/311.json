@@ -6,7 +6,7 @@ data:
   type: 6
   title: 精鋭艦隊演習
   detail: 同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！
-  reward: [0,400,0,200]
+  reward: [0, 400, 0, 200]
   reward2:
     -
       category: useitem

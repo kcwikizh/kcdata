@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第五航空戦隊」を編成せよ！
   detail: 「翔鶴」「瑞鶴」を基幹とし、駆逐艦2隻を加えた第五航空戦隊を編成せよ！
-  reward: [300,0,0,300]
+  reward: [300, 0, 0, 300]
   reward2:
     -
       category: useitem
@@ -18,7 +18,7 @@ data:
       category: fleet
       amount:
         gte: 4
-      ship_id: [110,111]
+      ship_id: [110, 111]
     -
       category: fleet
       amount:

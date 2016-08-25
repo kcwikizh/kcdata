@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第十八駆逐隊」を編成せよ！
   detail: 「霞」「霰」「陽炎」「不知火」4隻による第十八駆逐隊を編成せよ！
-  reward: [180,180,0,0]
+  reward: [180, 180, 0, 0]
   reward2:
     -
       category: useitem
@@ -21,7 +21,7 @@ data:
     -
       category: fleet
       amount: 4
-      ship_id: [49,48,17,18]
+      ship_id: [49, 48, 17, 18]
   wiki_id: A32
   chinese_title: 「第十八驱逐队」编成！
   chinese_detail: 以「霞」「霰」「阳炎」「不知火」4艘编成第十八驱逐队！

@@ -6,7 +6,7 @@ data:
   type: 1
   title: 潜水艦派遣による海外艦との接触作戦
   detail: 有力な潜水艦隊派遣による海外艦との接触作戦を成功させよ！
-  reward: [0,100,0,0]
+  reward: [0, 100, 0, 0]
   reward2:
     -
       category: ship

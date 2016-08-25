@@ -6,7 +6,7 @@ data:
   type: 1
   title: 第２艦隊を編成せよ！
   detail: 二つ目の艦隊、第２艦隊の旗艦を指定して、第２艦隊を編成せよ！
-  reward: [50,50,100,0]
+  reward: [50, 50, 100, 0]
   reward2:
     -
       category: useitem

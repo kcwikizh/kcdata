@@ -6,7 +6,7 @@ data:
   type: 2
   title: 新装備「開発」指令
   detail: 「工廠」で装備アイテムを新たに「開発」しよう(失敗もOK)！
-  reward: [40,40,40,40]
+  reward: [40, 40, 40, 40]
   reward2:
     -
       category: useitem

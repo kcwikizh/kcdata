@@ -6,7 +6,7 @@ data:
   type: 1
   title: 観艦式を敢行せよ！
   detail: 練度の高い艦隊で観艦式本番を実施する。「観艦式」を実施し、これを成功させよ！
-  reward: [300,300,300,0]
+  reward: [300, 300, 300, 0]
   reward2:
     -
       category: useitem

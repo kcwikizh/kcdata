@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第十六戦隊(第一次)」を編成せよ！
   detail: 「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！
-  reward: [150,150,150,0]
+  reward: [150, 150, 150, 0]
   reward2:
     -
       category: useitem
@@ -25,7 +25,7 @@ data:
       category: fleet
       amount:
         gte: 3
-      ship_id: [64,99,21]
+      ship_id: [64, 99, 21]
   wiki_id: A58
   chinese_title: 编成「第十六战队(第一次)」！
   chinese_detail: 以「足柄」为旗舰、伴随舰「球磨」「长良」为基干编成第十六战队(第一次)！

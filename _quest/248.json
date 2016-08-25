@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第三十駆逐隊」対潜哨戒！
   detail: 「第三十駆逐隊(第二次)」は直ちに抜錨！鎮守府正面の対潜哨戒を実施せよ！
-  reward: [330,330,330,0]
+  reward: [330, 330, 330, 0]
   reward2:
     -
       category: useitem
@@ -24,7 +24,7 @@ data:
       category: fleet
       amount:
         gte: 4
-      ship_id: [1,164,165,31]
+      ship_id: [1, 164, 165, 31]
   wiki_id: B24
   chinese_title: 「第三十驱逐队」反潜巡逻！
   chinese_detail: 只派出「第三十驱逐队(第二次)」出击，在1-5实施反潜巡逻！

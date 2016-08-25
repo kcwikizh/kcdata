@@ -6,7 +6,7 @@ data:
   type: 1
   title: 強行高速輸送部隊を編成せよ！
   detail: 「川内改二」旗艦、「江風改二」「時雨改二」他駆逐2隻による水雷戦隊を編成せよ！
-  reward: [100,100,100,0]
+  reward: [100, 100, 100, 0]
   reward2:
     -
       category: useitem
@@ -20,7 +20,7 @@ data:
     -
       category: fleet
       amount: 5
-      ship_id: [158,469,145]
+      ship_id: [158, 469, 145]
     -
       category: fleet
       amount: 4

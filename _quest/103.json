@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「水雷戦隊」を編成せよ！
   detail: 軽巡洋艦を旗艦とし、数隻の駆逐艦で構成される「水雷戦隊」を編成せよ！
-  reward: [40,40,0,40]
+  reward: [40, 40, 0, 40]
   reward2:
     -
       category: useitem

@@ -6,7 +6,7 @@ data:
   type: 2
   title: 「遠征」を１０回成功させよう！
   detail: 本日中に「遠征」10回成功させよう！
-  reward: [150,300,300,150]
+  reward: [150, 300, 300, 150]
   reward2:
     -
       category: useitem

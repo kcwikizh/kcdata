@@ -6,13 +6,13 @@ data:
   type: 1
   title: 「三川艦隊」を新編、突入準備せよ！
   detail: 第一艦隊において、「鳥海改ニ」を旗艦とする「三川艦隊」を編成せよ！
-  reward: [300,300,0,0]
+  reward: [300, 300, 0, 0]
   reward2:
     -
       category: useitem
       id: 1
       amount: 2
-  prerequisite: [227]
+  prerequisite: [136, 227]
   requirements:
     -
       category: flagship
@@ -20,7 +20,7 @@ data:
     -
       category: fleet
       amount: 6
-      ship_id: [427,51,59,60,61,115,123]
+      ship_id: [427, 51, 59, 60, 61, 115, 123]
   wiki_id: A50
   chinese_title: 「三川舰队」新编成，突入准备！
   chinese_detail: 在第一舰队，以「鸟海改二」为旗舰编成三川舰队！

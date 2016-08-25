@@ -6,7 +6,7 @@ data:
   type: 1
   title: 新編成航空戦隊、北方へ進出せよ！
   detail: 「新編成航空戦隊」をアルフォンシーノ方面へ進出、敵泊地の機動部隊を撃滅せよ！
-  reward: [0,400,0,400]
+  reward: [0, 400, 0, 400]
   reward2:
     -
       category: useitem

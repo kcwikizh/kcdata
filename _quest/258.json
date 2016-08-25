@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第二戦隊」抜錨！
   detail: 「第二戦隊」を基幹とした艦隊でカレー洋に進出、反復出撃により敵海上兵力を撃滅せよ！
-  reward: [0,400,0,0]
+  reward: [0, 400, 0, 0]
   reward2:
     -
       category: slotitem
@@ -24,7 +24,7 @@ data:
       category: fleet
       amount:
         gte: 4
-      ship_id: [80,81,26,27]
+      ship_id: [80, 81, 26, 27]
   wiki_id: B31
   chinese_title: 「第二战队」起锚！
   chinese_detail: 派出以「第二战队」为基干的舰队向4-2推进，反复出击击破敌方海上兵力！

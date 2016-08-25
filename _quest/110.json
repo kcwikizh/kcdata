@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「妙高」型重巡姉妹の全４隻を編成せよ！
   detail: 妙高型重巡洋艦「妙高」「那智」「足柄」「羽黒」を同一艦隊に配属せよ！
-  reward: [150,100,150,100]
+  reward: [150, 100, 150, 100]
   reward2:
     -
       category: useitem
@@ -22,7 +22,7 @@ data:
       category: fleet
       amount:
         gte: 4
-      ship_id: [62,63,64,65]
+      ship_id: [62, 63, 64, 65]
   wiki_id: A15
   chinese_title: 「妙高」型重巡姐妹全部4舰编成！
   chinese_detail: 将妙高型重巡洋舰「妙高」「那智」「足柄」「羽黑」配属在同一舰队！

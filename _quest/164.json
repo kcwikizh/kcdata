@@ -6,7 +6,7 @@ data:
   type: 1
   title: 「第三航空戦隊」を編成せよ！
   detail: 「瑞鶴改」を旗艦とし、「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！
-  reward: [200,200,0,200]
+  reward: [200, 200, 0, 200]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 70
       amount: 1
-  prerequisite: [264,624]
+  prerequisite: [264, 624]
   requirements:
     -
       category: flagship
@@ -25,7 +25,7 @@ data:
       category: fleet
       amount:
         gte: 4
-      ship_id: [112,116,108,109]
+      ship_id: [112, 116, 108, 109]
   wiki_id: A59
   chinese_title: “第三航空战队”编成！
   chinese_detail: 以瑞鹤改为旗舰，瑞凤、千岁、千代田四只航母组成编队!

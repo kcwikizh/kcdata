@@ -6,7 +6,7 @@ data:
   type: 1
   title: 潜水艦隊を編成せよ！
   detail: 伊号潜水艦2隻からなる潜水艦隊を編成せよ！
-  reward: [150,150,0,0]
+  reward: [150, 150, 0, 0]
   reward2:
     -
       category: useitem

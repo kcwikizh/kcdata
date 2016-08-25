@@ -6,13 +6,13 @@ data:
   type: 2
   title: 装備の改修強化
   detail: 「改修工廠」で「装備」の改修強化に努めます。
-  reward: [0,50,0,0]
+  reward: [0, 50, 0, 0]
   reward2:
     -
       category: useitem
       id: 4
       amount: 1
-  prerequisite: [608,618]
+  prerequisite: [608, 618]
   requirements:
     -
       category: improve

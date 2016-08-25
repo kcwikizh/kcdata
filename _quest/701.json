@@ -6,7 +6,7 @@ data:
   type: 1
   title: はじめての「近代化改修」！
   detail: 任意の艦を近代化改修(合成)して、強化せよ！
-  reward: [0,0,50,50]
+  reward: [0, 0, 50, 50]
   reward2:
     -
       category: useitem

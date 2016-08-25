@@ -6,7 +6,7 @@ data:
   type: 1
   title: 南西諸島防衛線を強化せよ！
   detail: 南西諸島防衛線に有力な艦隊を展開、同方面に来襲する敵艦隊を五回以上撃滅せよ！
-  reward: [0,0,400,0]
+  reward: [0, 0, 400, 0]
   reward2:
     -
       category: useitem
@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 66
       amount: 1
-  prerequisite: [634,810]
+  prerequisite: [810, 634]
   requirements:
     -
       category: sortie
