@@ -16,7 +16,7 @@ data:
       category: slotitem
       id: 145
       amount: 1
-  prerequisite: [635, 216]
+  prerequisite: [216, 635]
   requirements:
     -
       category: practice

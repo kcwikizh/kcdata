@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 59
       amount: 1
-  prerequisite: [295, 216]
+  prerequisite: [216, 295]
   requirements:
     -
       category: flagship

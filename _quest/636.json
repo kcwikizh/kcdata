@@ -12,7 +12,7 @@ data:
       category: slotitem
       id: 167
       amount: 1
-  prerequisite: [312, 278]
+  prerequisite: [278, 312]
   requirements:
     -
       category: scrap

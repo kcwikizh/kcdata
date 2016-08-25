@@ -16,7 +16,7 @@ data:
       category: slotitem
       id: 131
       amount: 1
-  prerequisite: [805, 402]
+  prerequisite: [402, 805]
   requirements:
     -
       category: sortie

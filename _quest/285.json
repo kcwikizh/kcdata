@@ -16,7 +16,7 @@ data:
       category: slotitem
       id: 145
       amount: 2
-  prerequisite: [260, 230, 221]
+  prerequisite: [221, 230, 260]
   requirements:
     -
       category: sortie
