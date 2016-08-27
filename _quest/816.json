@@ -3,7 +3,7 @@ layout: json
 data:
   id: 816
   category: 8
-  type: 1
+  type: 4
   title: 艦隊、三周年！
   detail: 三周年を記念しバシー島沖及び東部オリョール海に出撃、同海域の敵艦隊を撃滅せよ！
   reward: [1000, 1000, 1000, 0]

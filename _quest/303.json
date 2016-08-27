@@ -3,7 +3,7 @@ layout: json
 data:
   id: 303
   category: 3
-  type: 2
+  type: 1
   title: 「演習」で練度向上！
   detail: 本日中に他の司令官の艦隊に対して3回「演習」を挑もう！
   reward: [50, 0, 0, 50]

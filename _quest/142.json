@@ -3,7 +3,7 @@ layout: json
 data:
   id: 142
   category: 1
-  type: 1
+  type: 4
   title: 精鋭「第三戦隊」全艦集結せよ！
   detail: 第二次改装を完了した改装金剛型高速戦艦4隻を集結させよ！
   reward: [0, 100, 0, 0]

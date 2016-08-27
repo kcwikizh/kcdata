@@ -3,7 +3,7 @@ layout: json
 data:
   id: 218
   category: 2
-  type: 2
+  type: 1
   title: 敵補給艦を3隻撃沈せよ！
   detail: 艦隊を出撃させ、敵補給艦を捕捉、これを撃滅せよ！
   reward: [100, 50, 200, 50]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 417
   category: 4
-  type: 1
+  type: 4
   title: 囮機動部隊支援作戦を実施せよ！
   detail: 「囮機動部隊支援作戦」を実施し、これを成功させよ！
   reward: [400, 0, 0, 400]

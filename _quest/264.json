@@ -3,7 +3,7 @@ layout: json
 data:
   id: 264
   category: 2
-  type: 6
+  type: 3
   title: 「空母機動部隊」西へ！
   detail: 航空母艦2隻(随伴駆逐艦2隻)を基幹とする空母機動艦隊で、カレー洋の敵艦隊を撃滅せよ！
   reward: [0, 0, 600, 800]

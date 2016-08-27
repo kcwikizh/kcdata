@@ -3,7 +3,7 @@ layout: json
 data:
   id: 259
   category: 2
-  type: 6
+  type: 3
   title: 「水上打撃部隊」南方へ！
   detail: 戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！
   reward: [350, 400, 350, 0]

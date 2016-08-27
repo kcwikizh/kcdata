@@ -3,7 +3,7 @@ layout: json
 data:
   id: 703
   category: 7
-  type: 3
+  type: 2
   title: 「近代化改修」を進め、戦備を整えよ！
   detail: 一週間の間に、近代化改修を１5回成功させよ！
   reward: [200, 200, 300, 100]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 248
   category: 2
-  type: 1
+  type: 4
   title: 「第三十駆逐隊」対潜哨戒！
   detail: 「第三十駆逐隊(第二次)」は直ちに抜錨！鎮守府正面の対潜哨戒を実施せよ！
   reward: [330, 330, 330, 0]

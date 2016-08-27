@@ -3,7 +3,7 @@ layout: json
 data:
   id: 619
   category: 6
-  type: 2
+  type: 1
   title: 装備の改修強化
   detail: 「改修工廠」で「装備」の改修強化に努めます。
   reward: [0, 50, 0, 0]

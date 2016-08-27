@@ -3,7 +3,7 @@ layout: json
 data:
   id: 101
   category: 1
-  type: 1
+  type: 4
   title: はじめての「編成」！
   detail: ２隻以上の艦で構成される「艦隊」を編成せよ！
   reward: [20, 20, 0, 0]

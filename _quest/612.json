@@ -3,7 +3,7 @@ layout: json
 data:
   id: 612
   category: 6
-  type: 1
+  type: 4
   title: 輸送用ドラム缶の準備
   detail: 「工廠」で装備アイテムを3回「廃棄」して、輸送用のドラム缶を準備します。
   reward: [0, 0, 30, 0]

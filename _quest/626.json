@@ -3,7 +3,7 @@ layout: json
 data:
   id: 626
   category: 6
-  type: 6
+  type: 3
   title: 精鋭「艦戦」隊の新編成
   detail: 要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！
   reward: [0, 0, 0, 50]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 149
   category: 1
-  type: 1
+  type: 4
   title: 「第十一駆逐隊」を編成せよ！
   detail: 特I型駆逐艦「吹雪」「白雪」「初雪」「叢雲」4隻による第十一駆逐隊を編成せよ！
   reward: [110, 110, 110, 0]

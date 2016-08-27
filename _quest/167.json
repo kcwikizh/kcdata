@@ -3,7 +3,7 @@ layout: json
 data:
   id: 167
   category: 1
-  type: 1
+  type: 4
   title: 新航空戦隊を編成せよ！
   detail: 改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！
   reward: [0, 300, 300, 300]

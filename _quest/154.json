@@ -3,7 +3,7 @@ layout: json
 data:
   id: 154
   category: 1
-  type: 1
+  type: 4
   title: 海上突入部隊を編成せよ！
   detail: 戦艦「比叡」「霧島」軽巡「長良」駆逐艦「暁」「雷」「電」による海上突入部隊を編成せよ！
   reward: [0, 300, 0, 0]

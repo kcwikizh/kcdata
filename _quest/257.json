@@ -3,7 +3,7 @@ layout: json
 data:
   id: 257
   category: 2
-  type: 6
+  type: 3
   title: 「水雷戦隊」南西へ！
   detail: 軽巡旗艦の水雷戦隊(軽巡最大3隻他駆逐艦)を急派、南西諸島防衛線で敵を撃滅せよ！
   reward: [500, 0, 0, 300]

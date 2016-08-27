@@ -3,7 +3,7 @@ layout: json
 data:
   id: 202
   category: 2
-  type: 1
+  type: 4
   title: はじめての「出撃」！
   detail: 艦隊を出撃させ、敵艦隊と交戦せよ！
   reward: [20, 20, 0, 0]

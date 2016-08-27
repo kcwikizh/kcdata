@@ -3,7 +3,7 @@ layout: json
 data:
   id: 220
   category: 2
-  type: 3
+  type: 2
   title: い号作戦
   detail: 有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！
   reward: [0, 500, 0, 500]

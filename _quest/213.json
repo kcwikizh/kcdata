@@ -3,7 +3,7 @@ layout: json
 data:
   id: 213
   category: 2
-  type: 3
+  type: 2
   title: 海上通商破壊作戦
   detail: 1週間で敵輸送船を20隻以上撃沈せよ！
   reward: [500, 0, 400, 0]

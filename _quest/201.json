@@ -3,7 +3,7 @@ layout: json
 data:
   id: 201
   category: 2
-  type: 2
+  type: 1
   title: 敵艦隊を撃破せよ！
   detail: 艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！
   reward: [50, 50, 0, 0]

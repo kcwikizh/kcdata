@@ -3,7 +3,7 @@ layout: json
 data:
   id: 164
   category: 1
-  type: 1
+  type: 4
   title: 「第三航空戦隊」を編成せよ！
   detail: 「瑞鶴改」を旗艦とし、「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！
   reward: [200, 200, 0, 200]

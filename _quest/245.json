@@ -3,7 +3,7 @@ layout: json
 data:
   id: 245
   category: 2
-  type: 1
+  type: 4
   title: 式の準備！(最終)
   detail: 練度の高い(Lv.90～99)第一艦隊旗艦で出撃し、オリョール海の暁に勝利を刻め！
   reward: [0, 0, 0, 0]

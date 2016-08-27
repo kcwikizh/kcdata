@@ -3,7 +3,7 @@ layout: json
 data:
   id: 311
   category: 3
-  type: 6
+  type: 3
   title: 精鋭艦隊演習
   detail: 同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！
   reward: [0, 400, 0, 200]

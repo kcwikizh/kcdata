@@ -3,7 +3,7 @@ layout: json
 data:
   id: 153
   category: 1
-  type: 1
+  type: 4
   title: 「第十八戦隊」を新編成せよ！
   detail: 軽巡洋艦「天龍」「龍田」を基幹戦力とした「第十八戦隊」を4隻以上で新編成せよ！
   reward: [180, 180, 0, 180]

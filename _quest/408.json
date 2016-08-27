@@ -3,7 +3,7 @@ layout: json
 data:
   id: 408
   category: 4
-  type: 1
+  type: 4
   title: 潜水艦派遣作戦による技術入手の継続！
   detail: 第三次及び第四次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！
   reward: [0, 0, 0, 800]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 501
   category: 5
-  type: 1
+  type: 4
   title: はじめての「補給」！
   detail: 補給は大事です！燃料・弾薬を艦に「補給」しよう！
   reward: [0, 20, 0, 0]

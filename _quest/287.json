@@ -3,7 +3,7 @@ layout: json
 data:
   id: 287
   category: 2
-  type: 1
+  type: 4
   title: 「第五航空戦隊」珊瑚諸島沖に出撃せよ！
   detail: 再編成した「第五航空戦隊」を珊瑚諸島沖に展開、敵機動部隊を捕捉撃滅せよ！
   reward: [0, 500, 0, 0]

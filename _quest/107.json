@@ -3,7 +3,7 @@ layout: json
 data:
   id: 107
   category: 1
-  type: 1
+  type: 4
   title: 「空母機動部隊」を編成せよ！
   detail: 空母1隻以上を旗艦とし、その護衛艦艇と共に、空母機動部隊を編成せよ！
   reward: [50, 0, 0, 100]

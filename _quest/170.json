@@ -3,7 +3,7 @@ layout: json
 data:
   id: 170
   category: 1
-  type: 1
+  type: 4
   title: 精強な「水上反撃部隊」を再編成せよ！
   detail: 駆逐艦「霞」旗艦、「足柄」「大淀」「朝霜」「清霜」他の水上反撃部隊を再編成せよ！
   reward: [300, 300, 0, 0]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 135
   category: 1
-  type: 1
+  type: 4
   title: 新たなる旅立ち！
   detail: 第一艦隊旗艦に強い絆を結んだLv.100以上の艦娘を配備した6隻の艦隊を編成せよ！
   reward: [200, 200, 200, 200]

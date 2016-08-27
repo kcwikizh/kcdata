@@ -3,7 +3,7 @@ layout: json
 data:
   id: 261
   category: 2
-  type: 3
+  type: 2
   title: 海上輸送路の安全確保に努めよ！
   detail: 鎮守府正面の対潜哨戒を反復実施し、安全な海上輸送路を確保せよ！
   reward: [100, 0, 0, 0]

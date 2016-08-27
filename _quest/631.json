@@ -3,7 +3,7 @@ layout: json
 data:
   id: 631
   category: 6
-  type: 1
+  type: 4
   title: 機種転換＆部隊再編
   detail: 練度max「零戦52型丙(付岩井小隊)」搭載「瑞鶴」秘書艦で、「零戦62型(爆戦)」を2つ廃棄！
   reward: [0, 0, 0, 50]

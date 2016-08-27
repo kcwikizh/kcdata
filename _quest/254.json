@@ -3,7 +3,7 @@ layout: json
 data:
   id: 254
   category: 2
-  type: 1
+  type: 4
   title: 「軽空母」戦隊、出撃せよ！
   detail: 軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でカムラン半島の敵を撃滅せよ！
   reward: [0, 300, 0, 300]

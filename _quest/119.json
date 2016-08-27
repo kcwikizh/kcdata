@@ -3,7 +3,7 @@ layout: json
 data:
   id: 119
   category: 1
-  type: 1
+  type: 4
   title: 「三川艦隊」を編成せよ！
   detail: 「鳥海」「青葉」「加古」「古鷹」「天龍」を含む高速艦隊を編成せよ！
   reward: [400, 0, 200, 0]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 271
   category: 2
-  type: 1
+  type: 4
   title: 「那智戦隊」抜錨せよ！
   detail: 旗艦「那智」及び「初霜」「霞」「潮」「曙」他1隻の艦隊でバシー島沖の敵を撃滅せよ！
   reward: [500, 300, 0, 0]

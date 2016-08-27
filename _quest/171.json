@@ -3,7 +3,7 @@ layout: json
 data:
   id: 171
   category: 1
-  type: 1
+  type: 4
   title: 「第三十一戦隊(第一次)」を編成せよ！
   detail: 「五十鈴改二」旗艦、「皐月改二」「卯月改」を含む、対潜機動水上部隊を編成せよ！
   reward: [310, 310, 0, 0]

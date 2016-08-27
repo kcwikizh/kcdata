@@ -3,7 +3,7 @@ layout: json
 data:
   id: 263
   category: 2
-  type: 1
+  type: 4
   title: 「第六戦隊」南西海域へ出撃せよ！
   detail: 「古鷹」「加古」「青葉」「衣笠」を基幹とした「第六戦隊」で、沖ノ島沖の敵艦隊を撃滅せよ！
   reward: [0, 400, 0, 400]

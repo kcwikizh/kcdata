@@ -3,7 +3,7 @@ layout: json
 data:
   id: 226
   category: 2
-  type: 2
+  type: 1
   title: 南西諸島海域の制海権を握れ！
   detail: 艦隊を南西諸島海域に全力出撃させ、多数の敵艦隊「主力」群を捕捉、撃滅せよ！
   reward: [300, 0, 0, 200]

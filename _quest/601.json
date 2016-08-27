@@ -3,7 +3,7 @@ layout: json
 data:
   id: 601
   category: 6
-  type: 1
+  type: 4
   title: はじめての「建造」！
   detail: 「工廠」で鋼材などの資材を使って新しい艦を「建造」しよう！
   reward: [50, 50, 50, 50]

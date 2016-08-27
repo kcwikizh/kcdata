@@ -3,7 +3,7 @@ layout: json
 data:
   id: 136
   category: 1
-  type: 1
+  type: 4
   title: 「第三十駆逐隊(第二次)」を編成せよ！
   detail: 「睦月」「弥生」「卯月」「望月」4隻による第三十駆逐隊(第二次)を編成せよ！
   reward: [220, 220, 0, 0]

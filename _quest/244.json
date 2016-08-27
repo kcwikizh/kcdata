@@ -3,7 +3,7 @@ layout: json
 data:
   id: 244
   category: 2
-  type: 1
+  type: 4
   title: 「第三十駆逐隊(第一次)」出撃せよ！
   detail: 「第三十駆逐隊(第一次)」を含む艦隊で出撃し、キス島沖の主力艦隊と交戦せよ！
   reward: [100, 100, 100, 500]

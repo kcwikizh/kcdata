@@ -3,7 +3,7 @@ layout: json
 data:
   id: 623
   category: 6
-  type: 1
+  type: 4
   title: 精鋭「九七式艦攻」部隊の編成
   detail: 「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！
   reward: [0, 0, 0, 50]

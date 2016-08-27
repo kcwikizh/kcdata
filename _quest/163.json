@@ -3,7 +3,7 @@ layout: json
 data:
   id: 163
   category: 1
-  type: 1
+  type: 4
   title: 「第十六戦隊(第一次)」を編成せよ！
   detail: 「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！
   reward: [150, 150, 150, 0]

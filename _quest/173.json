@@ -3,7 +3,7 @@ layout: json
 data:
   id: 173
   category: 1
-  type: 1
+  type: 4
   title: 強行高速輸送部隊を編成せよ！
   detail: 「川内改二」旗艦、「江風改二」「時雨改二」他駆逐2隻による水雷戦隊を編成せよ！
   reward: [100, 100, 100, 0]

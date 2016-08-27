@@ -3,7 +3,7 @@ layout: json
 data:
   id: 805
   category: 8
-  type: 1
+  type: 4
   title: 旗艦「霞」北方海域を哨戒せよ！
   detail: 旗艦「霞改二」で駆逐艦4隻を含む艦隊を北方海域に投入し、モーレイ海哨戒を実施せよ！
   reward: [300, 0, 300, 0]

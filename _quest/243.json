@@ -3,7 +3,7 @@ layout: json
 data:
   id: 243
   category: 2
-  type: 3
+  type: 2
   title: 南方海域珊瑚諸島沖の制空権を握れ！
   detail: 南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！
   reward: [0, 300, 0, 800]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 273
   category: 2
-  type: 1
+  type: 4
   title: 新編「三川艦隊」ソロモン方面へ！
   detail: 第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！
   reward: [480, 480, 0, 0]

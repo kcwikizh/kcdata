@@ -3,7 +3,7 @@ layout: json
 data:
   id: 613
   category: 6
-  type: 3
+  type: 2
   title: 資源の再利用
   detail: 「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！
   reward: [0, 0, 100, 0]

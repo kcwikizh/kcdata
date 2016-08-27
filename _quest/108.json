@@ -3,7 +3,7 @@ layout: json
 data:
   id: 108
   category: 1
-  type: 1
+  type: 4
   title: 「天龍」型軽巡姉妹の全２艦を編成せよ！
   detail: 天龍型軽巡洋艦「天龍」「龍田」を同一艦隊に配属せよ！
   reward: [100, 100, 100, 50]

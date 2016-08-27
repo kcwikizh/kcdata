@@ -3,7 +3,7 @@ layout: json
 data:
   id: 251
   category: 2
-  type: 1
+  type: 4
   title: 精鋭「第二航空戦隊」抜錨せよ！
   detail: 錬成を終え再編成「二航戦」を基幹とした艦隊で、敵リランカ島を空襲、破砕せよ！
   reward: [500, 0, 500, 0]

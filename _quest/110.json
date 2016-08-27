@@ -3,7 +3,7 @@ layout: json
 data:
   id: 110
   category: 1
-  type: 1
+  type: 4
   title: 「妙高」型重巡姉妹の全４隻を編成せよ！
   detail: 妙高型重巡洋艦「妙高」「那智」「足柄」「羽黒」を同一艦隊に配属せよ！
   reward: [150, 100, 150, 100]

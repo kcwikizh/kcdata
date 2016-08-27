@@ -3,7 +3,7 @@ layout: json
 data:
   id: 157
   category: 1
-  type: 1
+  type: 4
   title: 「第一水雷戦隊」北方再突入準備！
   detail: 「阿武隈改二」を旗艦として「響」「夕雲」「長波」「秋雲」「島風」の一水戦を再編成せよ！
   reward: [200, 200, 0, 0]

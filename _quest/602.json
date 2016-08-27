@@ -3,7 +3,7 @@ layout: json
 data:
   id: 602
   category: 6
-  type: 1
+  type: 4
   title: はじめての「開発」！
   detail: 「工廠」でボーキサイトなどの資材を使って新しい装備アイテムを「開発」しよう！
   reward: [100, 100, 100, 100]

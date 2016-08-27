@@ -3,7 +3,7 @@ layout: json
 data:
   id: 146
   category: 1
-  type: 1
+  type: 4
   title: 改修工廠を準備せよ！
   detail: 第一艦隊の旗艦に工作艦「明石」を配備、改修工廠の準備を実施せよ！
   reward: [100, 0, 100, 0]

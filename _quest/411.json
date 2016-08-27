@@ -3,7 +3,7 @@ layout: json
 data:
   id: 411
   category: 4
-  type: 3
+  type: 2
   title: 南方への鼠輸送を継続実施せよ！
   detail: 今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう！
   reward: [400, 0, 0, 400]

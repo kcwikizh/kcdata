@@ -3,7 +3,7 @@ layout: json
 data:
   id: 228
   category: 2
-  type: 3
+  type: 2
   title: 海上護衛戦
   detail: 有力な対潜能力を持つ海上護衛隊によって、可能な限り多くの敵潜水艦を撃滅せよ！
   reward: [600, 0, 0, 0]

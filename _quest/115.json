@@ -3,7 +3,7 @@ layout: json
 data:
   id: 115
   category: 1
-  type: 1
+  type: 4
   title: 第２艦隊を編成せよ！
   detail: 二つ目の艦隊、第２艦隊の旗艦を指定して、第２艦隊を編成せよ！
   reward: [50, 50, 100, 0]

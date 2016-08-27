@@ -3,7 +3,7 @@ layout: json
 data:
   id: 293
   category: 2
-  type: 1
+  type: 4
   title: 「第三航空戦隊」南西諸島防衛線に出撃！
   detail: 編成した「第三航空戦隊」を南西諸島防衛線に展開、敵侵攻艦隊を捕捉撃滅せよ！
   reward: [0, 0, 300, 0]

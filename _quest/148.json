@@ -3,7 +3,7 @@ layout: json
 data:
   id: 148
   category: 1
-  type: 1
+  type: 4
   title: 軽快な「水上反撃部隊」を編成せよ！
   detail: 駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！
   reward: [250, 250, 0, 50]

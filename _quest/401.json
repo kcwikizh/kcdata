@@ -3,7 +3,7 @@ layout: json
 data:
   id: 401
   category: 4
-  type: 1
+  type: 4
   title: はじめての「遠征」！
   detail: 艦隊を「遠征」に出発させよう！
   reward: [30, 30, 30, 30]

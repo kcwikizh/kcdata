@@ -3,7 +3,7 @@ layout: json
 data:
   id: 625
   category: 6
-  type: 1
+  type: 4
   title: 試製航空艤装の追加試作
   detail: 「工廠」で装備アイテムを9つ「廃棄」して、「試製甲板カタパルト」を追加試作します。
   reward: [0, 0, 100, 50]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 615
   category: 6
-  type: 1
+  type: 4
   title: 機種転換
   detail: 「九九式艦爆(江草隊)」搭載空母を秘書艦にした状態で新たに「彗星」を2つ廃棄！
   reward: [0, 0, 0, 50]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 307
   category: 3
-  type: 1
+  type: 4
   title: 艦隊の練度向上に努めよ！
   detail: 作戦前に艦隊の練度向上を図る！本日中に「演習」で3回以上「勝利」をおさめよう！
   reward: [0, 0, 300, 300]

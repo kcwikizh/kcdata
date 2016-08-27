@@ -3,7 +3,7 @@ layout: json
 data:
   id: 276
   category: 2
-  type: 1
+  type: 4
   title: 海上突入部隊、進発せよ！
   detail: 「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方海域進出作戦を実施、敵を撃滅せよ！
   reward: [500, 0, 500, 0]

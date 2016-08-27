@@ -3,7 +3,7 @@ layout: json
 data:
   id: 279
   category: 2
-  type: 1
+  type: 4
   title: 「第一水雷戦隊」北方ケ号作戦、再突入！
   detail: 北方再突入準備の新編「一水戦」で北方キス島に再突入を敢行、同撤収作戦を完遂せよ！
   reward: [0, 400, 0, 500]

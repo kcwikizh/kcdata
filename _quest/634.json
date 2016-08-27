@@ -3,7 +3,7 @@ layout: json
 data:
   id: 634
   category: 6
-  type: 1
+  type: 4
   title: 新家具の準備
   detail: 「工廠」で装備アイテムを9つ「廃棄」して、新家具の準備をします。
   reward: [0, 0, 90, 0]

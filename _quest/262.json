@@ -3,7 +3,7 @@ layout: json
 data:
   id: 262
   category: 2
-  type: 1
+  type: 4
   title: 「西村艦隊」南方海域へ進出せよ！
   detail: 「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！
   reward: [0, 0, 500, 300]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 275
   category: 2
-  type: 1
+  type: 4
   title: 抜錨！「第十八戦隊」
   detail: 「天龍」「龍田」を基幹戦力とした「第十八戦隊」で出撃し、オリョール海の敵主力を撃滅せよ！
   reward: [350, 0, 0, 250]

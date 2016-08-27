@@ -3,7 +3,7 @@ layout: json
 data:
   id: 309
   category: 3
-  type: 1
+  type: 4
   title: 北方再突入に備え、練度向上に努めよ！
   detail: 艦隊再突入に備え、艦隊練度向上を図る！本日中に「演習」で4回以上「勝利」せよ！
   reward: [300, 0, 0, 0]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 635
   category: 6
-  type: 1
+  type: 4
   title: 新装備の準備
   detail: 「工廠」で装備アイテムを5つ「廃棄」して、新装備配備の準備をします。
   reward: [0, 0, 50, 0]

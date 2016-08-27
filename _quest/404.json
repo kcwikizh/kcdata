@@ -3,7 +3,7 @@ layout: json
 data:
   id: 404
   category: 4
-  type: 3
+  type: 2
   title: 大規模遠征作戦、発令！
   detail: 今週中に「遠征」30回成功させよう！
   reward: [300, 500, 500, 300]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 166
   category: 1
-  type: 1
+  type: 4
   title: 「小沢艦隊」を編成せよ！
   detail: 「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！
   reward: [300, 0, 0, 300]

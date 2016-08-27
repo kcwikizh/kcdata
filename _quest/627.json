@@ -3,7 +3,7 @@ layout: json
 data:
   id: 627
   category: 6
-  type: 1
+  type: 4
   title: 機種転換
   detail: 「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！
   reward: [0, 0, 0, 50]

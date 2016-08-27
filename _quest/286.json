@@ -3,7 +3,7 @@ layout: json
 data:
   id: 286
   category: 2
-  type: 1
+  type: 4
   title: 鎮守府正面の対潜哨戒を強化せよ！
   detail: 鎮守府正面の対潜哨戒を強化し、海上資源輸送路の安全を確立せよ！
   reward: [300, 300, 0, 0]

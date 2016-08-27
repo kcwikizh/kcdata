@@ -3,7 +3,7 @@ layout: json
 data:
   id: 815
   category: 8
-  type: 1
+  type: 4
   title: 「第一航空戦隊」西へ！
   detail: 旗艦「赤城」同僚艦「加賀」を中核とする艦隊で、深海東洋艦隊漸減作戦を貫徹せよ！
   reward: [0, 800, 0, 800]

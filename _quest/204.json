@@ -3,7 +3,7 @@ layout: json
 data:
   id: 204
   category: 2
-  type: 1
+  type: 4
   title: 南西諸島沖に出撃せよ！
   detail: 南西諸島沖に艦隊を出撃させ、敵艦隊と交戦せよ！
   reward: [40, 40, 0, 0]

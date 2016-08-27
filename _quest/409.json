@@ -3,7 +3,7 @@ layout: json
 data:
   id: 409
   category: 4
-  type: 1
+  type: 4
   title: 潜水艦派遣による海外艦との接触作戦
   detail: 有力な潜水艦隊派遣による海外艦との接触作戦を成功させよ！
   reward: [0, 100, 0, 0]

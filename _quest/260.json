@@ -3,7 +3,7 @@ layout: json
 data:
   id: 260
   category: 2
-  type: 1
+  type: 4
   title: 「戦艦部隊」北方海域に突入せよ！
   detail: 戦艦2隻と直援軽空母1隻(正規空母無し)基幹の艦隊で北方AL海域に突入、敵を撃滅せよ！
   reward: [0, 500, 0, 250]

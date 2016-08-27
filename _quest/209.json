@@ -3,7 +3,7 @@ layout: json
 data:
   id: 209
   category: 2
-  type: 1
+  type: 4
   title: 「空母機動部隊」出撃せよ！
   detail: 空母1隻とその護衛艦艇で構成した空母機動部隊を出撃させよ！
   reward: [200, 0, 0, 300]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 288
   category: 2
-  type: 1
+  type: 4
   title: 新編「第二一戦隊」北方へ出撃せよ！
   detail: 新編「第二一戦隊」を基幹とする艦隊で北方海域モーレイ海に出撃、敵を撃滅せよ！
   reward: [300, 300, 0, 0]

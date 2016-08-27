@@ -3,7 +3,7 @@ layout: json
 data:
   id: 301
   category: 3
-  type: 1
+  type: 4
   title: はじめての「演習」！
   detail: 他の提督(プレイヤー)の艦隊と「演習」を行おう！
   reward: [10, 10, 0, 0]

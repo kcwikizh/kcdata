@@ -3,7 +3,7 @@ layout: json
 data:
   id: 419
   category: 4
-  type: 1
+  type: 4
   title: 観艦式を敢行せよ！
   detail: 練度の高い艦隊で観艦式本番を実施する。「観艦式」を実施し、これを成功させよ！
   reward: [300, 300, 300, 0]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 117
   category: 1
-  type: 1
+  type: 4
   title: 第２艦隊で空母機動部隊を編成せよ！
   detail: 第２艦隊に空母を配備して、空母機動部隊を編成せよ！
   reward: [100, 0, 0, 100]

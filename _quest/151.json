@@ -3,7 +3,7 @@ layout: json
 data:
   id: 151
   category: 1
-  type: 1
+  type: 4
   title: 「第二二駆逐隊」を編成せよ！
   detail: 「皐月」「文月」「長月」他1隻計駆逐艦4隻による第二二駆逐隊を編成せよ！
   reward: [220, 220, 0, 0]

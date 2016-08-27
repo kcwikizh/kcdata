@@ -3,7 +3,7 @@ layout: json
 data:
   id: 412
   category: 4
-  type: 1
+  type: 4
   title: 航空火力艦の運用を強化せよ！
   detail: 「航空戦艦運用演習」を実施し、航空火力艦の運用の強化に努めよ！
   reward: [0, 0, 0, 100]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 811
   category: 8
-  type: 1
+  type: 4
   title: 南西諸島防衛線を強化せよ！
   detail: 南西諸島防衛線に有力な艦隊を展開、同方面に来襲する敵艦隊を五回以上撃滅せよ！
   reward: [0, 0, 400, 0]

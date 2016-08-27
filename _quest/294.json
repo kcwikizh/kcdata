@@ -3,7 +3,7 @@ layout: json
 data:
   id: 294
   category: 2
-  type: 1
+  type: 4
   title: 「小沢艦隊」出撃せよ！
   detail: 「小沢艦隊」を沖ノ島海域前面に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！
   reward: [300, 0, 300, 300]

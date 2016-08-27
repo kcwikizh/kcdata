@@ -3,7 +3,7 @@ layout: json
 data:
   id: 249
   category: 2
-  type: 6
+  type: 3
   title: 「第五戦隊」出撃せよ！
   detail: 「第五戦隊」は沖ノ島沖の戦闘哨戒を実施、敵艦隊主力を捕捉、これを撃滅せよ！
   reward: [0, 550, 550, 0]

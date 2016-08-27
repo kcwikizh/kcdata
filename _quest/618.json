@@ -3,7 +3,7 @@ layout: json
 data:
   id: 618
   category: 6
-  type: 1
+  type: 4
   title: はじめての「装備改修」！
   detail: 「改修工廠」で「装備」を改修してみましょう！明石さん、お願いします！
   reward: [0, 0, 100, 0]

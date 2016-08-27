@@ -3,7 +3,7 @@ layout: json
 data:
   id: 127
   category: 1
-  type: 1
+  type: 4
   title: 中規模潜水艦隊を編成せよ！
   detail: 伊号潜水艦3隻以上からなる潜水艦隊を編成せよ！
   reward: [150, 150, 0, 0]

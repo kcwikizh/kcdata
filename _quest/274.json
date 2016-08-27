@@ -3,7 +3,7 @@ layout: json
 data:
   id: 274
   category: 2
-  type: 1
+  type: 4
   title: 「第六駆逐隊」対潜哨戒なのです！
   detail: 「第六駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！
   reward: [200, 200, 200, 0]

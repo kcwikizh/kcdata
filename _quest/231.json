@@ -3,7 +3,7 @@ layout: json
 data:
   id: 231
   category: 2
-  type: 1
+  type: 4
   title: 「潜水艦隊」出撃せよ！
   detail: 伊号潜水艦2隻からなる潜水艦隊でオリョール海の敵を撃滅せよ！
   reward: [150, 0, 300, 0]

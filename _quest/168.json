@@ -3,7 +3,7 @@ layout: json
 data:
   id: 168
   category: 1
-  type: 1
+  type: 4
   title: 「第十六戦隊(第二次)」を編成せよ！
   detail: 「名取」を旗艦として「五十鈴」「鬼怒」を擁する、第十六戦隊(第二次)を編成せよ！
   reward: [160, 160, 160, 0]

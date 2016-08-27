@@ -3,7 +3,7 @@ layout: json
 data:
   id: 109
   category: 1
-  type: 1
+  type: 4
   title: 「川内」型軽巡姉妹の全３艦を編成せよ！
   detail: 川内型軽巡洋艦「川内」「神通」「那珂」を同一艦隊に配属せよ！
   reward: [100, 0, 100, 0]

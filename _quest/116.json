@@ -3,7 +3,7 @@ layout: json
 data:
   id: 116
   category: 1
-  type: 1
+  type: 4
   title: 「水上機母艦」を配備せよ！
   detail: 多数の水上偵察機を運用する「水上機母艦」を艦隊に配備せよ！
   reward: [0, 0, 0, 200]

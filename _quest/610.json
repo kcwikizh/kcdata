@@ -3,7 +3,7 @@ layout: json
 data:
   id: 610
   category: 6
-  type: 1
+  type: 4
   title: 「大型艦建造」の準備！(その弐)
   detail: 大型艦建造の準備をします！「工廠」で装備アイテムを4回「廃棄」してみてください！
   reward: [800, 800, 0, 0]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 617
   category: 6
-  type: 1
+  type: 4
   title: 「伊良湖」の準備
   detail: 「工廠」で不要な装備アイテムをいくつか「廃棄」して、新型給糧艦召喚の準備をしましょう！
   reward: [100, 0, 0, 0]

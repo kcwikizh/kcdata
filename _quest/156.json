@@ -3,7 +3,7 @@ layout: json
 data:
   id: 156
   category: 1
-  type: 1
+  type: 4
   title: 「第一水雷戦隊」北方突入準備！
   detail: 「阿武隈」を旗艦として「響」「初霜」「若葉」「五月雨」「島風」による一水戦を編成せよ！
   reward: [150, 150, 0, 0]

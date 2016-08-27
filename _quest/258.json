@@ -3,7 +3,7 @@ layout: json
 data:
   id: 258
   category: 2
-  type: 1
+  type: 4
   title: 「第二戦隊」抜錨！
   detail: 「第二戦隊」を基幹とした艦隊でカレー洋に進出、反復出撃により敵海上兵力を撃滅せよ！
   reward: [0, 400, 0, 0]

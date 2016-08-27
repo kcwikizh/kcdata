@@ -3,7 +3,7 @@ layout: json
 data:
   id: 633
   category: 6
-  type: 1
+  type: 4
   title: 機種転換＆部隊再編
   detail: 部隊を再編する！練度max「零戦52型甲(付岩本小隊)」搭載「瑞鶴」秘書艦で、「彩雲」を2つ廃棄！
   reward: [0, 0, 0, 50]

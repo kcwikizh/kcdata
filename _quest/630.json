@@ -3,7 +3,7 @@ layout: json
 data:
   id: 630
   category: 6
-  type: 1
+  type: 4
   title: 「艦戦」隊の再編成
   detail: 練度max「零戦21型(熟練)」搭載「瑞鶴」が秘書の状態で、「零戦21型」を2つ廃棄！
   reward: [0, 0, 0, 50]

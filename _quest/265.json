@@ -3,7 +3,7 @@ layout: json
 data:
   id: 265
   category: 2
-  type: 6
+  type: 3
   title: 海上護衛強化月間
   detail: 鎮守府正面海域の対潜哨戒を強化し、敵潜水艦を制圧、安全な海上輸送体制を確立せよ！
   reward: [800, 0, 0, 0]

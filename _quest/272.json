@@ -3,7 +3,7 @@ layout: json
 data:
   id: 272
   category: 2
-  type: 1
+  type: 4
   title: 「改装防空重巡」出撃せよ！
   detail: 摩耶改または摩耶改二及び軽巡1駆逐2隻を含む艦隊でオリョール海の敵艦隊を撃滅せよ！
   reward: [300, 0, 300, 0]

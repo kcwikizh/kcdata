@@ -3,7 +3,7 @@ layout: json
 data:
   id: 616
   category: 6
-  type: 1
+  type: 4
   title: 機種転換
   detail: 「零戦52型丙(六〇一空)」搭載空母を秘書艦にした状態で新たに「烈風」を2つ廃棄！
   reward: [0, 0, 0, 50]

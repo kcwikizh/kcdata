@@ -3,7 +3,7 @@ layout: json
 data:
   id: 205
   category: 2
-  type: 1
+  type: 4
   title: 接近する「敵前衛艦隊」を迎撃せよ！
   detail: 南西諸島沖に接近する「敵前衛艦隊」を捕捉、これを撃滅せよ！
   reward: [50, 0, 50, 0]

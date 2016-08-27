@@ -3,7 +3,7 @@ layout: json
 data:
   id: 806
   category: 8
-  type: 1
+  type: 4
   title: 旗艦「霞」出撃！敵艦隊を撃滅せよ！
   detail: 旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！
   reward: [500, 500, 0, 0]

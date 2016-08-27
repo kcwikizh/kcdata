@@ -3,7 +3,7 @@ layout: json
 data:
   id: 230
   category: 2
-  type: 2
+  type: 1
   title: 敵潜水艦を制圧せよ！
   detail: 対潜能力の充実した艦隊で出撃、敵潜水艦狩りを実施せよ！
   reward: [300, 30, 300, 30]

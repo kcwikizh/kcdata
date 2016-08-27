@@ -3,7 +3,7 @@ layout: json
 data:
   id: 609
   category: 6
-  type: 2
+  type: 1
   title: 軍縮条約対応！
   detail: 少し艦隊規模が大きくなりすぎました！「工廠」で不要な艦を2隻「解体」してください！
   reward: [0, 0, 0, 50]

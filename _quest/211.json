@@ -3,7 +3,7 @@ layout: json
 data:
   id: 211
   category: 2
-  type: 4
+  type: 5
   title: 敵空母を３隻撃沈せよ！
   detail: 艦隊の脅威となる敵空母群。これを捕捉撃滅し、3隻轟沈せよ！
   reward: [150, 150, 150, 300]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 114
   category: 1
-  type: 1
+  type: 4
   title: 「南雲機動部隊」を編成せよ！
   detail: 一航戦「赤城」「加賀」二航戦「飛龍」「蒼龍」からなる第一機動部隊を編成せよ！
   reward: [500, 500, 500, 500]

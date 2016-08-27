@@ -3,7 +3,7 @@ layout: json
 data:
   id: 122
   category: 1
-  type: 1
+  type: 4
   title: 「西村艦隊」を編成せよ！
   detail: 「扶桑」「山城」「最上」「時雨」を基幹とした西村艦隊を編成せよ！
   reward: [200, 200, 200, 0]

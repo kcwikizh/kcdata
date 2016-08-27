@@ -3,7 +3,7 @@ layout: json
 data:
   id: 809
   category: 8
-  type: 1
+  type: 4
   title: 強襲上陸作戦用戦力を増強せよ！
   detail: 中部海域における航空偵察「K作戦」を実施しつつ、強襲上陸作戦用戦力の強化を図れ！
   reward: [0, 600, 0, 0]

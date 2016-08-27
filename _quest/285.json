@@ -3,7 +3,7 @@ layout: json
 data:
   id: 285
   category: 2
-  type: 1
+  type: 4
   title: 「空母機動部隊」北方海域に進出せよ！
   detail: 航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！
   reward: [500, 0, 500, 0]

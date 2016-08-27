@@ -3,7 +3,7 @@ layout: json
 data:
   id: 289
   category: 2
-  type: 1
+  type: 4
   title: 「第十六戦隊(第一次)」出撃せよ！
   detail: 「第十六戦隊(第一次)」をバシー島沖に展開、敵艦隊を撃滅せよ！
   reward: [200, 0, 200, 0]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 112
   category: 1
-  type: 1
+  type: 4
   title: 「伊勢」型戦艦姉妹の全２隻を編成せよ！
   detail: 伊勢型戦艦「伊勢」「日向」を同一艦隊に配属せよ！
   reward: [300, 200, 300, 200]

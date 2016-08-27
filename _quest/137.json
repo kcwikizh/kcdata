@@ -3,7 +3,7 @@ layout: json
 data:
   id: 137
   category: 1
-  type: 1
+  type: 4
   title: 「第五戦隊」を編成せよ！
   detail: 「妙高」「那智」「羽黒」を基幹とした第五戦隊を編成せよ！
   reward: [0, 0, 300, 0]

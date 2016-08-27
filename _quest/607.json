@@ -3,7 +3,7 @@ layout: json
 data:
   id: 607
   category: 6
-  type: 2
+  type: 1
   title: 装備「開発」集中強化！
   detail: 「工廠」で装備アイテムを本日中に3回「開発」しよう(失敗もOK)！
   reward: [100, 100, 100, 100]

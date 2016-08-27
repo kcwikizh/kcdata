@@ -3,7 +3,7 @@ layout: json
 data:
   id: 503
   category: 5
-  type: 2
+  type: 1
   title: 艦隊大整備！
   detail: 各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！
   reward: [30, 30, 30, 30]

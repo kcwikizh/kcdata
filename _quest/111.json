@@ -3,7 +3,7 @@ layout: json
 data:
   id: 111
   category: 1
-  type: 1
+  type: 4
   title: 「扶桑」型戦艦姉妹の全２隻を編成せよ！
   detail: 扶桑型戦艦「扶桑」「山城」を同一艦隊に配属せよ！
   reward: [200, 200, 200, 200]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 266
   category: 2
-  type: 6
+  type: 3
   title: 「水上反撃部隊」突入せよ！
   detail: 駆逐艦を旗艦とした重巡1隻軽巡1隻駆逐艦4隻からなる水上挺身部隊、沖ノ島沖に突入せよ！
   reward: [0, 600, 0, 200]

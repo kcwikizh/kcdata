@@ -3,7 +3,7 @@ layout: json
 data:
   id: 162
   category: 1
-  type: 1
+  type: 4
   title: 新編「第二一戦隊」出撃準備！
   detail: 「那智改二」「足柄改二」及び「多摩」「木曾」を基幹とした、第二一戦隊を編成せよ！
   reward: [150, 150, 150, 0]

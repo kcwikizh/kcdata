@@ -3,7 +3,7 @@ layout: json
 data:
   id: 297
   category: 2
-  type: 1
+  type: 4
   title: 「礼号作戦」実施せよ！
   detail: 精強な「水上反撃部隊」で、南西諸島沖ノ島沖に突入！同海域の敵戦力を撃滅せよ！
   reward: [300, 700, 0, 0]

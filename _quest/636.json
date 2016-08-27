@@ -3,7 +3,7 @@ layout: json
 data:
   id: 636
   category: 6
-  type: 1
+  type: 4
   title: 上陸戦用新装備の調達
   detail: 「工廠」で「7.7mm機銃」及び「12.7mm単装機銃」を二つずつ廃棄！
   reward: [50, 0, 0, 0]

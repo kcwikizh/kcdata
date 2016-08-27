@@ -3,7 +3,7 @@ layout: json
 data:
   id: 632
   category: 6
-  type: 1
+  type: 4
   title: 機種転換
   detail: 練度max「零戦21型(付岩本小隊)」搭載「瑞鶴」秘書艦で、「零戦52型」を2つ廃棄！
   reward: [0, 0, 0, 50]

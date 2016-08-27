@@ -3,7 +3,7 @@ layout: json
 data:
   id: 312
   category: 3
-  type: 1
+  type: 4
   title: 上陸部隊演習
   detail: 島嶼攻略部隊の練度向上のため、本日中に演習で4回以上「勝利」せよ！
   reward: [0, 200, 200, 0]

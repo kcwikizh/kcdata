@@ -3,7 +3,7 @@ layout: json
 data:
   id: 155
   category: 1
-  type: 1
+  type: 4
   title: 新編「第六駆逐隊」を編成せよ！
   detail: 「暁改二」を旗艦とした「響」「雷」「電」4隻による第六駆逐隊を編成せよ！
   reward: [150, 150, 0, 0]

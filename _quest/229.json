@@ -3,7 +3,7 @@ layout: json
 data:
   id: 229
   category: 2
-  type: 3
+  type: 2
   title: 敵東方艦隊を撃滅せよ！
   detail: 西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！
   reward: [400, 0, 0, 700]

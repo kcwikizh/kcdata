@@ -3,7 +3,7 @@ layout: json
 data:
   id: 128
   category: 1
-  type: 1
+  type: 4
   title: 「第六戦隊」を編成せよ！
   detail: 「古鷹」「加古」「青葉」「衣笠」を基幹とした第六戦隊を編成せよ！
   reward: [250, 300, 0, 0]

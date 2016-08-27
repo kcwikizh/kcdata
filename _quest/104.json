@@ -3,7 +3,7 @@ layout: json
 data:
   id: 104
   category: 1
-  type: 1
+  type: 4
   title: ６隻編成の艦隊を編成せよ！
   detail: 全6隻で構成される主力艦隊を編成せよ！
   reward: [50, 0, 50, 0]

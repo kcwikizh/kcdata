@@ -3,7 +3,7 @@ layout: json
 data:
   id: 810
   category: 8
-  type: 1
+  type: 4
   title: 製油所地帯を防衛せよ！
   detail: 水雷戦隊を製油所地帯沿岸に展開！同海域に出没する敵艦隊を三回以上撃滅せよ！
   reward: [400, 0, 0, 0]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 144
   category: 1
-  type: 1
+  type: 4
   title: 主力戦艦部隊「第二戦隊」を編成せよ！
   detail: 長門型2隻及び扶桑型2隻の計4隻の主力戦艦からなる第二戦隊を編成せよ！
   reward: [0, 250, 250, 0]

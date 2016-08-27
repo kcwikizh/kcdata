@@ -3,7 +3,7 @@ layout: json
 data:
   id: 246
   category: 2
-  type: 1
+  type: 4
   title: 二人でする初めての任務！
   detail: 強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！
   reward: [300, 300, 300, 300]

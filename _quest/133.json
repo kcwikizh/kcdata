@@ -3,7 +3,7 @@ layout: json
 data:
   id: 133
   category: 1
-  type: 1
+  type: 4
   title: 「第三十駆逐隊(第一次)」を編成せよ！
   detail: 「睦月」「如月」「弥生」「望月」4隻による第三十駆逐隊(第一次)を編成せよ！
   reward: [200, 200, 0, 0]

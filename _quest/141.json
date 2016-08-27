@@ -3,7 +3,7 @@ layout: json
 data:
   id: 141
   category: 1
-  type: 1
+  type: 4
   title: 再編成「第二航空戦隊」を強化せよ！
   detail: 「蒼龍改二」(※旗艦)及び「飛龍改二」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！
   reward: [0, 0, 0, 450]

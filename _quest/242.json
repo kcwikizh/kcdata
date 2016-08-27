@@ -3,7 +3,7 @@ layout: json
 data:
   id: 242
   category: 2
-  type: 3
+  type: 2
   title: 敵東方中枢艦隊を撃破せよ！
   detail: 西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！
   reward: [500, 0, 500, 0]

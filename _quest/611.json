@@ -3,7 +3,7 @@ layout: json
 data:
   id: 611
   category: 6
-  type: 1
+  type: 4
   title: 式の準備！(その壱)
   detail: 式の準備をします！「工廠」で装備アイテムを2回「廃棄」して身の回りの整理を！
   reward: [88, 88, 0, 0]

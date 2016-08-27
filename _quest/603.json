@@ -3,7 +3,7 @@ layout: json
 data:
   id: 603
   category: 6
-  type: 1
+  type: 4
   title: はじめての「解体」！
   detail: 「工廠」で不要な艦を「解体」してみよう！
   reward: [60, 60, 60, 60]

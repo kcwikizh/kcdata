@@ -3,7 +3,7 @@ layout: json
 data:
   id: 402
   category: 4
-  type: 2
+  type: 1
   title: 「遠征」を３回成功させよう！
   detail: 本日中に「遠征」３回成功させよう！
   reward: [100, 100, 100, 100]

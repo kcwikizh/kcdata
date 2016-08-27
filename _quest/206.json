@@ -3,7 +3,7 @@ layout: json
 data:
   id: 206
   category: 2
-  type: 1
+  type: 4
   title: 「水雷戦隊」で出撃せよ！
   detail: 軽巡洋艦1隻を旗艦とし、複数の駆逐艦からなる水雷戦隊で出撃せよ！
   reward: [60, 60, 0, 60]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 145
   category: 1
-  type: 1
+  type: 4
   title: 戦艦を主力とした水上打撃部隊を編成せよ！
   detail: 大和型・長門型・伊勢型・扶桑型のいずれか3隻と軽巡1隻他の水上打撃部隊を配備せよ！
   reward: [300, 300, 0, 0]

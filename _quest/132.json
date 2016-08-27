@@ -3,7 +3,7 @@ layout: json
 data:
   id: 132
   category: 1
-  type: 1
+  type: 4
   title: 「第十八駆逐隊」を編成せよ！
   detail: 「霞」「霰」「陽炎」「不知火」4隻による第十八駆逐隊を編成せよ！
   reward: [180, 180, 0, 0]

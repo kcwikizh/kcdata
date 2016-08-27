@@ -3,7 +3,7 @@ layout: json
 data:
   id: 134
   category: 1
-  type: 1
+  type: 4
   title: 式の準備！(その参)
   detail: 第一艦隊旗艦に練度の高い(Lv.90以上～99以下)艦娘を配備して気持ちを整理せよ！
   reward: [88, 88, 88, 88]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 216
   category: 2
-  type: 2
+  type: 1
   title: 敵艦隊主力を撃滅せよ！
   detail: 艦隊を出撃させ、敵艦隊「主力」を捕捉！これを撃滅せよ！
   reward: [50, 50, 50, 50]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 410
   category: 4
-  type: 3
+  type: 2
   title: 南方への輸送作戦を成功させよ！
   detail: 激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！
   reward: [150, 0, 0, 0]

@@ -3,7 +3,7 @@ layout: json
 data:
   id: 420
   category: 4
-  type: 1
+  type: 4
   title: 機動部隊の運用を強化せよ！
   detail: 機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！
   reward: [200, 200, 400, 0]

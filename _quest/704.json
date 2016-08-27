@@ -3,7 +3,7 @@ layout: json
 data:
   id: 704
   category: 7
-  type: 1
+  type: 4
   title: 「大型艦建造」の準備！(その壱)
   detail: 大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！
   reward: [0, 0, 400, 400]

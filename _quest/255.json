@@ -3,7 +3,7 @@ layout: json
 data:
   id: 255
   category: 2
-  type: 1
+  type: 4
   title: 「水雷戦隊」バシー島沖緊急展開
   detail: 軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！
   reward: [300, 300, 0, 0]
