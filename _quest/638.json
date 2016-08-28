@@ -11,7 +11,7 @@ data:
     -
       category: useitem
       id: 3
-      amount: 1
+      amount: 2
     -
       category: useitem
       id: 4
