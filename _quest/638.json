@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 638
+  category: 6
+  type: 2
+  title: 対空機銃量産
+  detail: 「機銃」系装備を量産し、工廠で6個廃棄！ 「装備改修」強化をサポートせよ！
+  reward: [0, 100, 0, 200]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+    -
+      category: useitem
+      id: 4
+      amount: 1
+  prerequisite: [619]
+  requirements:
+    -
+      category: scrap
+      amount: 6
+      slotitem_type: 21
+  wiki_id: F34
+  chinese_title: 对空机枪量产！
+  chinese_detail: 量产机枪类装备，并在工厂废弃六个，以支持装备改修的强化！
+---

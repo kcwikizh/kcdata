@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 175
+  category: 1
+  type: 4
+  title: 新編「第八駆逐隊」を再編成せよ！
+  detail: 「朝潮改二」を旗艦とした「満潮」「大潮」「荒潮」4隻による第八駆逐隊を再編成せよ！
+  reward: [200, 200, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 3
+  prerequisite: [132]
+  requirements:
+    -
+      category: flagship
+      ship_id: 463
+    -
+      category: fleet
+      amount:
+        gte: 4
+      ship_id: [463, 96, 97, 98]
+  wiki_id: A70
+  chinese_title: 新编「第八驱逐队」的再编成！
+  chinese_detail: 朝潮改二作为旗舰，大潮，满潮，荒潮，组成的「第八驱逐队」的再编成！
+---

@@ -1,0 +1,38 @@
+---
+layout: json
+data:
+  id: 817
+  category: 8
+  type: 4
+  title: 新編艦隊、南西諸島防衛線へ急行せよ！
+  detail: 水雷戦隊を含む新編艦隊を南西諸島防衛線に展開、同方面に来襲する敵艦隊を撃破せよ！
+  reward: [300, 300, 300, 0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 3
+    -
+      category: useitem
+      id: 54
+      amount: 1
+  prerequisite: [174]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 14
+      boss: true
+      result: A
+    -
+      category: flagship
+      ship_type: [3, 4, 21]
+    -
+      category: fleet
+      amount:
+        gte: 4
+      ship_type: 2
+  wiki_id: B70
+  chinese_title: 新编舰队、南西群岛防卫线紧急出击！
+  chinese_detail: 新编的水雷战队出击南西群岛防卫线，歼灭同方面的来袭之敌！
+---

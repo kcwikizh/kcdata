@@ -1,0 +1,33 @@
+---
+layout: json
+data:
+  id: 639
+  category: 6
+  type: 4
+  title: 新型魚雷兵装の開発
+  detail: 勲章x2消費：「島風」秘書艦に改修max「61cm五連装(酸素)魚雷」と<br>改修max「61cm三連装(酸素)魚雷」を装備！(任務達成後、各装備は消滅します)
+  reward: [0, 600, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 6
+    -
+      category: slotitem
+      id: 179
+      amount: 1
+  prerequisite: [638, 818]
+  requirements:
+    -
+      category: flagship
+      ship_id: 50
+      slotitem_id: [58, 125]
+      slotitem_level: 10
+    -
+      category: useitem
+      amount: 2
+      useitem_id: 57
+  wiki_id: F36
+  chinese_title: 新型鱼雷兵装的开发
+  chinese_detail: 消费勋章x2：以「岛风」为秘书舰装备改修max的「61cm五连装(酸素)鱼雷」和改修max的「61cm三连装(酸素)鱼雷」！（任务完成后，各装备将会被消去）
+---

@@ -1,0 +1,34 @@
+---
+layout: json
+data:
+  id: 637
+  category: 6
+  type: 5
+  title: 「熟練搭乗員」養成
+  detail: 勲章x2消費：「鳳翔」秘書艦に練度max及び改修max「九六式艦戦」を搭載、熟練搭乗員を養成せよ！<br>(任務達成後、部隊は消滅します)
+  reward: [0, 0, 0, 100]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 4
+    -
+      category: useitem
+      id: 70
+      amount: 1
+  prerequisite: [638]
+  requirements:
+    -
+      category: flagship
+      ship_id: 89
+      slotitem_id: 20
+      slotitem_skill: 7
+      slotitem_level: 10
+    -
+      category: useitem
+      amount: 2
+      useitem_id: 57
+  wiki_id: F35
+  chinese_title: 「熟练搭乘员」养成
+  chinese_detail: 消费勋章x2：以「凤翔」为秘书舰搭载一架练度max及改修max的「九六式舰战」，养成熟练搭乘员！（任务完成后，部队将会被消去）
+---

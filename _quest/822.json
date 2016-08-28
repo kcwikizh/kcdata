@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 822
+  category: 8
+  type: 5
+  title: 沖ノ島海域迎撃戦
+  detail: 有力な艦隊を沖ノ島海域前面に反復投入、侵攻する敵機動部隊を迎撃、これを撃滅せよ！
+  reward: [800, 800, 800, 0]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 5
+    -
+      category: useitem
+      id: 54
+      amount: 1
+  prerequisite: [233, 264]
+  requirements:
+    -
+      category: sortie
+      times: 2
+      map: 24
+      boss: true
+      result: S
+  wiki_id: Bq1
+  chinese_title: 冲之岛海域迎击战！
+  chinese_detail: 有力的舰队反复投入冲之岛海域，迎击侵攻的敌机动部队，将他们消灭！
+---

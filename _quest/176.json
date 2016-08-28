@@ -1,0 +1,29 @@
+---
+layout: json
+data:
+  id: 176
+  category: 1
+  type: 4
+  title: 精鋭！八駆第一小隊！
+  detail: 「朝潮改二丁」及び「大潮改二」を含む艦隊を編成せよ！
+  reward: [250, 250, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 3
+    -
+      category: useitem
+      id: 59
+      amount: 1
+  prerequisite: [288, 819]
+  requirements:
+    -
+      category: fleet
+      amount:
+        gte: 2
+      ship_id: [468, 199]
+  wiki_id: A71
+  chinese_title: 精锐！八驱第一小队！
+  chinese_detail: 编成包含「朝潮改二丁」及「大潮改二」的舰队！
+---
