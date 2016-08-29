@@ -1,7 +1,7 @@
 [
   {
     "game_id": 101,
-    "wiki_id": "A1",
+    "wiki_id": "A01",
     "category": 1,
     "type": 1,
     "name": "はじめての「編成」！",
@@ -32,7 +32,7 @@
   },
   {
     "game_id": 102,
-    "wiki_id": "A2",
+    "wiki_id": "A02",
     "category": 1,
     "type": 1,
     "name": "「駆逐隊」を編成せよ！",
@@ -62,7 +62,7 @@
   },
   {
     "game_id": 103,
-    "wiki_id": "A3",
+    "wiki_id": "A03",
     "category": 1,
     "type": 1,
     "name": "「水雷戦隊」を編成せよ！",
@@ -96,7 +96,7 @@
   },
   {
     "game_id": 104,
-    "wiki_id": "A4",
+    "wiki_id": "A04",
     "category": 1,
     "type": 1,
     "name": "６隻編成の艦隊を編成せよ！",
@@ -125,7 +125,7 @@
   },
   {
     "game_id": 105,
-    "wiki_id": "A5",
+    "wiki_id": "A05",
     "category": 1,
     "type": 1,
     "name": "軽巡２隻を擁する隊を編成せよ！",
@@ -155,7 +155,7 @@
   },
   {
     "game_id": 106,
-    "wiki_id": "A7",
+    "wiki_id": "A07",
     "category": 1,
     "type": 1,
     "name": "「重巡戦隊」を編成せよ！",
@@ -219,7 +219,7 @@
   },
   {
     "game_id": 108,
-    "wiki_id": "A8",
+    "wiki_id": "A08",
     "category": 1,
     "type": 1,
     "name": "「天龍」型軽巡姉妹の全２艦を編成せよ！",
@@ -477,7 +477,7 @@
   },
   {
     "game_id": 115,
-    "wiki_id": "A6",
+    "wiki_id": "A06",
     "category": 1,
     "type": 1,
     "name": "第２艦隊を編成せよ！",
@@ -508,7 +508,7 @@
   },
   {
     "game_id": 116,
-    "wiki_id": "A9",
+    "wiki_id": "A09",
     "category": 1,
     "type": 1,
     "name": "「水上機母艦」を配備せよ！",
@@ -2819,7 +2819,7 @@
   },
   {
     "game_id": 201,
-    "wiki_id": "Bd1",
+    "wiki_id": "Bd01",
     "category": 2,
     "type": 2,
     "name": "敵艦隊を撃破せよ！",
@@ -2845,7 +2845,7 @@
   },
   {
     "game_id": 202,
-    "wiki_id": "B1",
+    "wiki_id": "B01",
     "category": 2,
     "type": 1,
     "name": "はじめての「出撃」！",
@@ -2870,7 +2870,7 @@
   },
   {
     "game_id": 203,
-    "wiki_id": "B2",
+    "wiki_id": "B02",
     "category": 2,
     "type": 1,
     "name": "鎮守府正面海域を護れ！",
@@ -2898,7 +2898,7 @@
   },
   {
     "game_id": 204,
-    "wiki_id": "B4",
+    "wiki_id": "B04",
     "category": 2,
     "type": 1,
     "name": "南西諸島沖に出撃せよ！",
@@ -2924,7 +2924,7 @@
   },
   {
     "game_id": 205,
-    "wiki_id": "B5",
+    "wiki_id": "B05",
     "category": 2,
     "type": 1,
     "name": "接近する「敵前衛艦隊」を迎撃せよ！",
@@ -2957,7 +2957,7 @@
   },
   {
     "game_id": 206,
-    "wiki_id": "B6",
+    "wiki_id": "B06",
     "category": 2,
     "type": 1,
     "name": "「水雷戦隊」で出撃せよ！",
@@ -2993,7 +2993,7 @@
   },
   {
     "game_id": 207,
-    "wiki_id": "B7",
+    "wiki_id": "B07",
     "category": 2,
     "type": 1,
     "name": "「重巡洋艦」を出撃させよ！",
@@ -3024,7 +3024,7 @@
   },
   {
     "game_id": 208,
-    "wiki_id": "B8",
+    "wiki_id": "B08",
     "category": 2,
     "type": 1,
     "name": "「戦艦」を出撃させよ！",
@@ -3056,7 +3056,7 @@
   },
   {
     "game_id": 209,
-    "wiki_id": "B9",
+    "wiki_id": "B09",
     "category": 2,
     "type": 1,
     "name": "「空母機動部隊」出撃せよ！",
@@ -3095,7 +3095,7 @@
   },
   {
     "game_id": 210,
-    "wiki_id": "Bd3",
+    "wiki_id": "Bd03",
     "category": 2,
     "type": 2,
     "name": "敵艦隊を10回邀撃せよ！",
@@ -3121,7 +3121,7 @@
   },
   {
     "game_id": 211,
-    "wiki_id": "Bd4",
+    "wiki_id": "Bd04",
     "category": 2,
     "type": 4,
     "name": "敵空母を３隻撃沈せよ！",
@@ -3147,7 +3147,7 @@
   },
   {
     "game_id": 212,
-    "wiki_id": "Bd6",
+    "wiki_id": "Bd06",
     "category": 2,
     "type": 5,
     "name": "敵輸送船団を叩け！",
@@ -3173,7 +3173,7 @@
   },
   {
     "game_id": 213,
-    "wiki_id": "Bw3",
+    "wiki_id": "Bw03",
     "category": 2,
     "type": 3,
     "name": "海上通商破壊作戦",
@@ -3199,7 +3199,7 @@
   },
   {
     "game_id": 214,
-    "wiki_id": "Bw1",
+    "wiki_id": "Bw01",
     "category": 2,
     "type": 3,
     "name": "あ号作戦",
@@ -3227,7 +3227,7 @@
   },
   {
     "game_id": 215,
-    "wiki_id": "B3",
+    "wiki_id": "B03",
     "category": 2,
     "type": 1,
     "name": "第２艦隊、出撃せよ！",
@@ -3253,7 +3253,7 @@
   },
   {
     "game_id": 216,
-    "wiki_id": "Bd2",
+    "wiki_id": "Bd02",
     "category": 2,
     "type": 2,
     "name": "敵艦隊主力を撃滅せよ！",
@@ -3309,7 +3309,7 @@
   },
   {
     "game_id": 218,
-    "wiki_id": "Bd5",
+    "wiki_id": "Bd05",
     "category": 2,
     "type": 2,
     "name": "敵補給艦を3隻撃沈せよ！",
@@ -3385,7 +3385,7 @@
   },
   {
     "game_id": 220,
-    "wiki_id": "Bw2",
+    "wiki_id": "Bw02",
     "category": 2,
     "type": 3,
     "name": "い号作戦",
@@ -3411,7 +3411,7 @@
   },
   {
     "game_id": 221,
-    "wiki_id": "Bw4",
+    "wiki_id": "Bw04",
     "category": 2,
     "type": 3,
     "name": "ろ号作戦",
@@ -3606,7 +3606,7 @@
   },
   {
     "game_id": 226,
-    "wiki_id": "Bd7",
+    "wiki_id": "Bd07",
     "category": 2,
     "type": 2,
     "name": "南西諸島海域の制海権を握れ！",
@@ -3686,7 +3686,7 @@
   },
   {
     "game_id": 228,
-    "wiki_id": "Bw5",
+    "wiki_id": "Bw05",
     "category": 2,
     "type": 3,
     "name": "海上護衛戦",
@@ -3716,7 +3716,7 @@
   },
   {
     "game_id": 229,
-    "wiki_id": "Bw6",
+    "wiki_id": "Bw06",
     "category": 2,
     "type": 3,
     "name": "敵東方艦隊を撃滅せよ！",
@@ -3744,7 +3744,7 @@
   },
   {
     "game_id": 230,
-    "wiki_id": "Bd8",
+    "wiki_id": "Bd08",
     "category": 2,
     "type": 2,
     "name": "敵潜水艦を制圧せよ！",
@@ -3983,7 +3983,7 @@
   },
   {
     "game_id": 241,
-    "wiki_id": "Bw7",
+    "wiki_id": "Bw07",
     "category": 2,
     "type": 3,
     "name": "敵北方艦隊主力を撃滅せよ！",
@@ -4015,7 +4015,7 @@
   },
   {
     "game_id": 242,
-    "wiki_id": "Bw8",
+    "wiki_id": "Bw08",
     "category": 2,
     "type": 3,
     "name": "敵東方中枢艦隊を撃破せよ！",
@@ -4047,7 +4047,7 @@
   },
   {
     "game_id": 243,
-    "wiki_id": "Bw9",
+    "wiki_id": "Bw09",
     "category": 2,
     "type": 3,
     "name": "南方海域珊瑚諸島沖の制空権を握れ！",
@@ -4280,7 +4280,7 @@
   },
   {
     "game_id": 249,
-    "wiki_id": "Bm1",
+    "wiki_id": "Bm01",
     "category": 2,
     "type": 6,
     "name": "「第五戦隊」出撃せよ！",
@@ -4580,7 +4580,7 @@
   },
   {
     "game_id": 256,
-    "wiki_id": "Bm2",
+    "wiki_id": "Bm02",
     "category": 2,
     "type": 6,
     "name": "「潜水艦隊」出撃せよ！",
@@ -4612,7 +4612,7 @@
   },
   {
     "game_id": 257,
-    "wiki_id": "Bm3",
+    "wiki_id": "Bm03",
     "category": 2,
     "type": 6,
     "name": "「水雷戦隊」南西へ！",
@@ -4705,7 +4705,7 @@
   },
   {
     "game_id": 259,
-    "wiki_id": "Bm4",
+    "wiki_id": "Bm04",
     "category": 2,
     "type": 6,
     "name": "「水上打撃部隊」南方へ！",
@@ -4924,7 +4924,7 @@
   },
   {
     "game_id": 264,
-    "wiki_id": "Bm6",
+    "wiki_id": "Bm06",
     "category": 2,
     "type": 6,
     "name": "「空母機動部隊」西へ！",
@@ -4967,7 +4967,7 @@
   },
   {
     "game_id": 265,
-    "wiki_id": "Bm5",
+    "wiki_id": "Bm05",
     "category": 2,
     "type": 6,
     "name": "海上護衛強化月間",
@@ -5000,7 +5000,7 @@
   },
   {
     "game_id": 266,
-    "wiki_id": "Bm7",
+    "wiki_id": "Bm07",
     "category": 2,
     "type": 6,
     "name": "「水上反撃部隊」突入せよ！",
@@ -6144,7 +6144,7 @@
   },
   {
     "game_id": 301,
-    "wiki_id": "C1",
+    "wiki_id": "C01",
     "category": 3,
     "type": 1,
     "name": "はじめての「演習」！",
@@ -6169,7 +6169,7 @@
   },
   {
     "game_id": 302,
-    "wiki_id": "C4",
+    "wiki_id": "C04",
     "category": 3,
     "type": 3,
     "name": "大規模演習",
@@ -6199,7 +6199,7 @@
   },
   {
     "game_id": 303,
-    "wiki_id": "C2",
+    "wiki_id": "C02",
     "category": 3,
     "type": 2,
     "name": "「演習」で練度向上！",
@@ -6224,7 +6224,7 @@
   },
   {
     "game_id": 304,
-    "wiki_id": "C3",
+    "wiki_id": "C03",
     "category": 3,
     "type": 2,
     "name": "「演習」で他提督を圧倒せよ！",
@@ -6277,7 +6277,7 @@
   },
   {
     "game_id": 307,
-    "wiki_id": "C5",
+    "wiki_id": "C05",
     "category": 3,
     "type": 1,
     "name": "艦隊の練度向上に努めよ！",
@@ -6304,7 +6304,7 @@
   },
   {
     "game_id": 308,
-    "wiki_id": "C6",
+    "wiki_id": "C06",
     "category": 3,
     "type": 1,
     "name": "演習を強化、艦隊の練度向上に努めよ！",
@@ -6335,7 +6335,7 @@
   },
   {
     "game_id": 309,
-    "wiki_id": "C7",
+    "wiki_id": "C07",
     "category": 3,
     "type": 1,
     "name": "北方再突入に備え、練度向上に努めよ！",
@@ -6366,7 +6366,7 @@
   },
   {
     "game_id": 311,
-    "wiki_id": "C8",
+    "wiki_id": "C08",
     "category": 3,
     "type": 6,
     "name": "精鋭艦隊演習",
@@ -6398,7 +6398,7 @@
   },
   {
     "game_id": 312,
-    "wiki_id": "C9",
+    "wiki_id": "C09",
     "category": 3,
     "type": 1,
     "name": "上陸部隊演習",
@@ -6431,7 +6431,7 @@
   },
   {
     "game_id": 401,
-    "wiki_id": "D1",
+    "wiki_id": "D01",
     "category": 4,
     "type": 1,
     "name": "はじめての「遠征」！",
@@ -6460,7 +6460,7 @@
   },
   {
     "game_id": 402,
-    "wiki_id": "D2",
+    "wiki_id": "D02",
     "category": 4,
     "type": 2,
     "name": "「遠征」を３回成功させよう！",
@@ -6489,7 +6489,7 @@
   },
   {
     "game_id": 403,
-    "wiki_id": "D3",
+    "wiki_id": "D03",
     "category": 4,
     "type": 2,
     "name": "「遠征」を１０回成功させよう！",
@@ -6522,7 +6522,7 @@
   },
   {
     "game_id": 404,
-    "wiki_id": "D4",
+    "wiki_id": "D04",
     "category": 4,
     "type": 3,
     "name": "大規模遠征作戦、発令！",
@@ -6555,7 +6555,7 @@
   },
   {
     "game_id": 405,
-    "wiki_id": "D5",
+    "wiki_id": "D05",
     "category": 4,
     "type": 1,
     "name": "第一次潜水艦派遣作戦",
@@ -6585,7 +6585,7 @@
   },
   {
     "game_id": 406,
-    "wiki_id": "D6",
+    "wiki_id": "D06",
     "category": 4,
     "type": 1,
     "name": "第二次潜水艦派遣作戦",
@@ -6616,7 +6616,7 @@
   },
   {
     "game_id": 408,
-    "wiki_id": "D7",
+    "wiki_id": "D07",
     "category": 4,
     "type": 1,
     "name": "潜水艦派遣作戦による技術入手の継続！",
@@ -6651,7 +6651,7 @@
   },
   {
     "game_id": 409,
-    "wiki_id": "D8",
+    "wiki_id": "D08",
     "category": 4,
     "type": 1,
     "name": "潜水艦派遣による海外艦との接触作戦",
@@ -6682,7 +6682,7 @@
   },
   {
     "game_id": 410,
-    "wiki_id": "D9",
+    "wiki_id": "D09",
     "category": 4,
     "type": 3,
     "name": "南方への輸送作戦を成功させよ！",
@@ -7049,7 +7049,7 @@
   },
   {
     "game_id": 501,
-    "wiki_id": "E1",
+    "wiki_id": "E01",
     "category": 5,
     "type": 1,
     "name": "はじめての「補給」！",
@@ -7075,7 +7075,7 @@
   },
   {
     "game_id": 502,
-    "wiki_id": "E2",
+    "wiki_id": "E02",
     "category": 5,
     "type": 1,
     "name": "はじめての「入渠」！",
@@ -7101,7 +7101,7 @@
   },
   {
     "game_id": 503,
-    "wiki_id": "E3",
+    "wiki_id": "E03",
     "category": 5,
     "type": 2,
     "name": "艦隊大整備！",
@@ -7127,7 +7127,7 @@
   },
   {
     "game_id": 504,
-    "wiki_id": "E4",
+    "wiki_id": "E04",
     "category": 5,
     "type": 2,
     "name": "艦隊酒保祭り！",
@@ -7157,7 +7157,7 @@
   },
   {
     "game_id": 601,
-    "wiki_id": "F1",
+    "wiki_id": "F01",
     "category": 6,
     "type": 1,
     "name": "はじめての「建造」！",
@@ -7183,7 +7183,7 @@
   },
   {
     "game_id": 602,
-    "wiki_id": "F2",
+    "wiki_id": "F02",
     "category": 6,
     "type": 1,
     "name": "はじめての「開発」！",
@@ -7209,7 +7209,7 @@
   },
   {
     "game_id": 603,
-    "wiki_id": "F3",
+    "wiki_id": "F03",
     "category": 6,
     "type": 1,
     "name": "はじめての「解体」！",
@@ -7239,7 +7239,7 @@
   },
   {
     "game_id": 604,
-    "wiki_id": "F4",
+    "wiki_id": "F04",
     "category": 6,
     "type": 1,
     "name": "はじめての「廃棄」！",
@@ -7270,7 +7270,7 @@
   },
   {
     "game_id": 605,
-    "wiki_id": "F5",
+    "wiki_id": "F05",
     "category": 6,
     "type": 2,
     "name": "新装備「開発」指令",
@@ -7300,7 +7300,7 @@
   },
   {
     "game_id": 606,
-    "wiki_id": "F6",
+    "wiki_id": "F06",
     "category": 6,
     "type": 2,
     "name": "新造艦「建造」指令",
@@ -7330,7 +7330,7 @@
   },
   {
     "game_id": 607,
-    "wiki_id": "F7",
+    "wiki_id": "F07",
     "category": 6,
     "type": 2,
     "name": "装備「開発」集中強化！",
@@ -7356,7 +7356,7 @@
   },
   {
     "game_id": 608,
-    "wiki_id": "F8",
+    "wiki_id": "F08",
     "category": 6,
     "type": 2,
     "name": "艦娘「建造」艦隊強化！",
@@ -7386,7 +7386,7 @@
   },
   {
     "game_id": 609,
-    "wiki_id": "F9",
+    "wiki_id": "F09",
     "category": 6,
     "type": 2,
     "name": "軍縮条約対応！",
@@ -8307,7 +8307,7 @@
   },
   {
     "game_id": 701,
-    "wiki_id": "G1",
+    "wiki_id": "G01",
     "category": 7,
     "type": 1,
     "name": "はじめての「近代化改修」！",
@@ -8333,7 +8333,7 @@
   },
   {
     "game_id": 702,
-    "wiki_id": "G2",
+    "wiki_id": "G02",
     "category": 7,
     "type": 2,
     "name": "艦の「近代化改修」を実施せよ！",
@@ -8359,7 +8359,7 @@
   },
   {
     "game_id": 703,
-    "wiki_id": "G3",
+    "wiki_id": "G03",
     "category": 7,
     "type": 3,
     "name": "「近代化改修」を進め、戦備を整えよ！",
@@ -8389,7 +8389,7 @@
   },
   {
     "game_id": 704,
-    "wiki_id": "G4",
+    "wiki_id": "G04",
     "category": 7,
     "type": 1,
     "name": "「大型艦建造」の準備！(その壱)",
@@ -9174,7 +9174,7 @@
   },
   {
     "game_id": 822,
-    "wiki_id": "Bq1",
+    "wiki_id": "Bq01",
     "category": 2,
     "type": 7,
     "name": "沖ノ島海域迎撃戦",
