@@ -17,7 +17,7 @@ data:
     -
       category: fleet
       amount: 3
-      ship_type: [9, 10]
+      ship_ctype: [37, 19, 2, 26]
     -
       category: fleet
       amount:
