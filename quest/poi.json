@@ -6431,6 +6431,37 @@
     }
   },
   {
+    "game_id": 313,
+    "wiki_id": "C10",
+    "category": 3,
+    "type": 1,
+    "name": "秋季大演習",
+    "detail": "秋の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！",
+    "reward_fuel": 1000,
+    "reward_ammo": 0,
+    "reward_steel": 300,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "給糧艦「間宮」",
+        "amount": 1
+      },
+      {
+        "name": "プレゼント箱",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      303
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 8,
+      "victory": true,
+      "daily": true
+    }
+  },
+  {
     "game_id": 401,
     "wiki_id": "D01",
     "category": 4,
@@ -8307,6 +8338,169 @@
     }
   },
   {
+    "game_id": 641,
+    "wiki_id": "F37",
+    "category": 6,
+    "type": 1,
+    "name": "「航空基地設営」事前準備",
+    "detail": "「航空基地設営」の事前準備を開始する。「ドラム缶(輸送用)」を二つ「工廠」で廃棄し、「7.7mm機銃」及び「九六式艦戦」を各二つずつ用意せよ！(任務達成後、用意した必要装備は消滅します)",
+    "reward_fuel": 200,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 200,
+    "reward_other": [
+      {
+        "name": "開発資材",
+        "amount": 2
+      },
+      {
+        "name": "九六式陸攻",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      296
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "equipments": [
+        {
+          "name": "7.7mm機銃",
+          "amount": 2
+        },
+        {
+          "name": "九六式艦戦",
+          "amount": 2
+        }
+      ],
+      "scraps": [
+        {
+          "name": "ドラム缶(輸送用)",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 642,
+    "wiki_id": "F38",
+    "category": 6,
+    "type": 1,
+    "name": "「陸攻」隊の増勢",
+    "detail": "「基地航空隊」開設に向け、「陸攻」の追加調達を行う。「7.7mm機銃」及び<br>「九九式艦爆」を各二つずつ準備せよ！(任務達成後、同装備は消滅します)",
+    "reward_fuel": 0,
+    "reward_ammo": 200,
+    "reward_steel": 0,
+    "reward_bauxite": 200,
+    "reward_other": [
+      {
+        "name": "九六式陸攻",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      641,
+      825
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "equipments": [
+        {
+          "name": "7.7mm機銃",
+          "amount": 2
+        },
+        {
+          "name": "九九式艦爆",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 643,
+    "wiki_id": "F39",
+    "category": 6,
+    "type": 7,
+    "name": "主力「陸攻」の調達",
+    "detail": "主力陸上攻撃機「一式陸攻」の新規調達を行う。「零式艦戦21型」を二つ「工廠」で廃棄し、<br>「九六式陸攻」一つと「九七式艦攻」二つを準備せよ！(任務達成後、用意した必要装備は消滅します)",
+    "reward_fuel": 250,
+    "reward_ammo": 250,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "開発資材",
+        "amount": 2
+      },
+      {
+        "name": "一式陸攻",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      410,
+      642
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "equipments": [
+        {
+          "name": "九六式陸攻",
+          "amount": 1
+        },
+        {
+          "name": "九七式艦攻",
+          "amount": 2
+        }
+      ],
+      "scraps": [
+        {
+          "name": "零式艦戦21型",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 644,
+    "wiki_id": "F40",
+    "category": 6,
+    "type": 1,
+    "name": "「一式陸攻」性能向上型の調達",
+    "detail": "「一式陸攻」性能向上型の配備を行う。「一式陸攻」一つと「天山」二つを準備せよ！<br>(任務達成後、用意した必要装備は消滅します/「一式陸攻」の熟練度は継承されます)",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 300,
+    "reward_other": [
+      {
+        "name": "一式陸攻 二二型甲",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      313,
+      643
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "equipments": [
+        {
+          "name": "一式陸攻",
+          "amount": 1
+        },
+        {
+          "name": "天山",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  {
     "game_id": 701,
     "wiki_id": "G01",
     "category": 7,
@@ -9294,6 +9488,78 @@
         {
           "ship": "艦",
           "amount": 2
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 825,
+    "wiki_id": "B77",
+    "category": 2,
+    "type": 1,
+    "name": "水雷戦隊、南西諸島海域を哨戒せよ！",
+    "detail": "水雷戦隊を基幹とした有力な艦隊で南西諸島海域バシー島沖及び東部オリョール海を哨戒、<br>同海域に遊弋する敵艦隊を捕捉、これを撃滅せよ！",
+    "reward_fuel": 600,
+    "reward_ammo": 600,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "特注家具職人",
+        "amount": 1
+      },
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      303
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-2",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": "軽巡",
+              "flagship": true
+            },
+            {
+              "ship": "駆逐",
+              "amount": 4
+            },
+            {
+              "ship": "艦",
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-3",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": "軽巡",
+              "flagship": true
+            },
+            {
+              "ship": "駆逐",
+              "amount": 4
+            },
+            {
+              "ship": "艦",
+              "amount": 1
+            }
+          ]
         }
       ]
     }
