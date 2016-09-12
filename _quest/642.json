@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 642
+  category: 6
+  type: 4
+  title: 「陸攻」隊の増勢
+  detail: 「基地航空隊」開設に向け、「陸攻」の追加調達を行う。「7.7mm機銃」及び<br>「九九式艦爆」を各二つずつ準備せよ！(任務達成後、同装備は消滅します)
+  reward: [0, 200, 0, 200]
+  reward2:
+    -
+      category: slotitem
+      id: 168
+      amount: 1
+  prerequisite: [641, 825]
+  requirements:
+    -
+      category: possess
+      amount: 2
+      slotitem_id: 37
+    -
+      category: possess
+      amount: 2
+      slotitem_id: 23
+  wiki_id: F38
+  chinese_title: “陆攻”队的增强
+  chinese_detail: 为建设“基地航空队”，追加采购“陆攻”。准备7.7mm机铳、九九式舰爆 各两个！（任务达成后装备消失）
+---

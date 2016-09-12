@@ -1,0 +1,36 @@
+---
+layout: json
+data:
+  id: 643
+  category: 6
+  type: 5
+  title: 主力「陸攻」の調達
+  detail: 主力陸上攻撃機「一式陸攻」の新規調達を行う。「零式艦戦21型」を二つ「工廠」で廃棄し、<br>「九六式陸攻」一つと「九七式艦攻」二つを準備せよ！(任務達成後、用意した必要装備は消滅します)
+  reward: [250, 250, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+    -
+      category: slotitem
+      id: 169
+      amount: 1
+  prerequisite: [410, 642]
+  requirements:
+    -
+      category: scrap
+      amount: 2
+      slotitem_id: 20
+    -
+      category: possess
+      amount: 1
+      slotitem_id: 168
+    -
+      category: possess
+      amount: 2
+      slotitem_id: 16
+  wiki_id: F39
+  chinese_title: 主力“陆攻”的采购
+  chinese_detail: 新采购主力陆上攻击机“一式陆攻”。于工厂废弃零式舰战21型 两个，另准备九六式陆攻一个、九七式舰攻两个！（任务达成后装备消失）
+---

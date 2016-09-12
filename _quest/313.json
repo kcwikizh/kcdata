@@ -1,0 +1,29 @@
+---
+layout: json
+data:
+  id: 313
+  category: 3
+  type: 4
+  title: 秋季大演習
+  detail: 秋の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！
+  reward: [1000, 0, 300, 0]
+  reward2:
+    -
+      category: useitem
+      id: 54
+      amount: 1
+    -
+      category: useitem
+      id: 60
+      amount: 1
+  prerequisite: [303]
+  requirements:
+    -
+      category: practice
+      times: 8
+      result: B
+      daily: true
+  wiki_id: C10
+  chinese_title: 秋季大演习
+  chinese_detail: 同日中演习取得八次胜利以上，进一步加强舰队练度！
+---

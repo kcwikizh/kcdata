@@ -1,0 +1,48 @@
+---
+layout: json
+data:
+  id: 825
+  category: 8
+  type: 4
+  title: 水雷戦隊、南西諸島海域を哨戒せよ！
+  detail: 水雷戦隊を基幹とした有力な艦隊で南西諸島海域バシー島沖及び東部オリョール海を哨戒、<br>同海域に遊弋する敵艦隊を捕捉、これを撃滅せよ！
+  reward: [600, 600, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 52
+      amount: 1
+    -
+      category: useitem
+      id: 59
+      amount: 1
+  prerequisite: [303]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 22
+      boss: true
+      result: S
+    -
+      category: sortie
+      times: 1
+      map: 23
+      boss: true
+      result: S
+    -
+      category: flagship
+      ship_type: [3, 4, 21]
+    -
+      category: fleet
+      amount:
+        gte: 4
+      ship_type: 2
+    -
+      category: fleet
+      amount: 0
+      not_ship_type: [2, 3, 4, 21]
+  wiki_id: B77
+  chinese_title: 水雷战队、南西诸岛海域的警戒！
+  chinese_detail: 以水雷战队出击巴士岛近海、东部奥廖尔海，捕捉歼灭同海域的敌军！
+---

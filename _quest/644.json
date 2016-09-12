@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 644
+  category: 6
+  type: 4
+  title: 「一式陸攻」性能向上型の調達
+  detail: 「一式陸攻」性能向上型の配備を行う。「一式陸攻」一つと「天山」二つを準備せよ！<br>(任務達成後、用意した必要装備は消滅します/「一式陸攻」の熟練度は継承されます)
+  reward: [0, 0, 0, 300]
+  reward2:
+    -
+      category: slotitem
+      id: 180
+      amount: 1
+  prerequisite: [313, 643]
+  requirements:
+    -
+      category: possess
+      amount: 1
+      slotitem_id: 169
+    -
+      category: possess
+      amount: 2
+      slotitem_id: 17
+  wiki_id: F40
+  chinese_title: “一式陆攻”性能加强型号的采购
+  chinese_detail: 配备“一式陆攻”性能加强型号。准备一式陆攻一个、天山两个！（任务达成后装备消失/一式陆攻熟练度会被继承）
+---
