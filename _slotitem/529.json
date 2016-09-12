@@ -4,7 +4,7 @@ data:
   id: 529
   sort_no: 0
   name: 水上レーダ― Mark.II
-  type: [5, 8, 12, 11]
+  type: [5, 8, 12, 11, 0]
   rare: 2
   broken: [0, 0, 0, 0]
   info: 

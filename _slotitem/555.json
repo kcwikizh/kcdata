@@ -4,7 +4,7 @@ data:
   id: 555
   sort_no: 0
   name: 深海水上攻撃機改
-  type: [5, 7, 11, 10]
+  type: [5, 7, 11, 10, 0]
   rare: 4
   broken: [0, 0, 0, 0]
   info: 

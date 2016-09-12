@@ -4,7 +4,7 @@ data:
   id: 189
   sort_no: 189
   name: Re.2005 改
-  type: [3, 5, 6, 6]
+  type: [3, 5, 6, 6, 14]
   rare: 5
   broken: [2, 3, 0, 10]
   info: パスタの国で戦いの後期に開発が進められていた高性能戦闘機です。<br>量産戦力化されることは叶いませんでしたが、高い潜在力を持ち、優れた戦闘力が期待されました。本機はその艦載機バージョンです。
@@ -30,6 +30,6 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id:
+  remodel_slot_id: 
   chinese_name: Re.2005 改
 ---

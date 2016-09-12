@@ -4,7 +4,7 @@ data:
   id: 530
   sort_no: 0
   name: 対空レーダ― Mark.II
-  type: [5, 8, 13, 11]
+  type: [5, 8, 13, 11, 0]
   rare: 2
   broken: [0, 0, 0, 0]
   info: 

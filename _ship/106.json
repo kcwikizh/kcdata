@@ -14,7 +14,7 @@ data:
   get_mes: ダイエットして空母になった千歳です！<br>足も速くなったの。本でも出そうかしら！
   voice_f: 3
   filename: ttkeodhvrmog
-  file_version: ["12", "10", "715"]
+  file_version: ["12", "10", "1"]
   book_table_id: [106]
   book_sinfo: 水上機母艦千歳です。<br>水上機を沢山運用できる優れものですが、給油艦として重油を他の艦に補給もできちゃうの。後期には、航空母艦に改装され、第一線で戦ったのよ。
   stats:

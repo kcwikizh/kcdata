@@ -4,7 +4,7 @@ data:
   id: 567
   sort_no: 0
   name: 沿岸設置レーダー
-  type: [5, 8, 13, 11]
+  type: [5, 8, 13, 11, 0]
   rare: 3
   broken: [0, 0, 0, 0]
   info: 

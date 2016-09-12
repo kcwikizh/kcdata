@@ -8,8 +8,8 @@ data:
   description: いつ敵の空襲を受けてもいいように艦娘たちにガラスをテーピングしてもらいました。これで安心なのです！
   rarity: 4
   price: 2000
-  saleflg: 0
+  saleflg: 1
   season: 0
-  filename: ""
-  file_version: ""
+  filename: 
+  file_version: 
 ---

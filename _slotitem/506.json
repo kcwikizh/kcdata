@@ -4,7 +4,7 @@ data:
   id: 506
   sort_no: 0
   name: 6inch連装速射砲
-  type: [1, 1, 2, 2]
+  type: [1, 1, 2, 2, 0]
   rare: 0
   broken: [0, 0, 0, 0]
   info: 

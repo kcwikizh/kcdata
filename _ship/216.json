@@ -14,7 +14,7 @@ data:
   get_mes: 軽巡、多摩です。<br>猫じゃないにゃ。
   voice_f: 1
   filename: cxhxktltjtbg
-  file_version: ["11", "11", "801"]
+  file_version: ["12", "11", "831"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [47, 91]
-    boko_d: [58, 102]
+    boko_n: [72, 136]
+    boko_d: [80, 160]
     kaisyu_n: [9, 2]
     kaisyu_d: [10, 7]
-    kaizo_n: [-6, 42]
-    kaizo_d: [-20, -4]
-    map_n: [-21, 87]
-    map_d: [-38, 92]
-    ensyuf_n: [-14, 79]
-    ensyuf_d: [-12, 29]
-    ensyue_n: [-14, 0]
-    battle_n: [-29, 68]
-    battle_d: [-29, 68]
-    wed_a: [209, 48]
-    wed_b: [118, 131]
+    kaizo_n: [48, 64]
+    kaizo_d: [40, 64]
+    map_n: [48, 104]
+    map_d: [32, 128]
+    ensyuf_n: [56, 104]
+    ensyuf_d: [56, 136]
+    ensyue_n: [40, 0]
+    battle_n: [64, 120]
+    battle_d: [40, 136]
+    wed_a: [148, 12]
+    wed_b: [132, 112]
   wiki_id: "040a"
   chinese_name: 多摩改
 ---

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 313
+  type: 2
+  no: 44
+  title: すすきの窓
+  description: 素敵な秋を迎えるために、<br>職人らが腕によりをかけて<br>製作した木製高級窓です。<br>艦娘が飾ってくれたすすき<br>が秋の風に揺れています。
+  rarity: 4
+  price: 2400
+  saleflg: 1
+  season: 0
+  filename: "045"
+  file_version: "1"
+---

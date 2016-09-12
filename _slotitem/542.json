@@ -4,7 +4,7 @@ data:
   id: 542
   sort_no: 0
   name: 深海爆雷投射機
-  type: [7, 9, 15, 17]
+  type: [7, 9, 15, 17, 0]
   rare: 2
   broken: [0, 0, 0, 0]
   info: 

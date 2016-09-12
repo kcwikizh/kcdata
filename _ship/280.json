@@ -12,9 +12,9 @@ data:
   after_lv: 77
   after_ship_id: 196
   get_mes: 航空母艦、飛龍です。<br>空母戦ならお任せ！どんな苦境でも戦えます！
-  voice_f: 0
+  voice_f: 3
   filename: kftqxfempust
-  file_version: ["15", "15", "1"]
+  file_version: ["15", "16", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

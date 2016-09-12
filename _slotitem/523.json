@@ -4,7 +4,7 @@ data:
   id: 523
   sort_no: 0
   name: 深海棲艦爆
-  type: [3, 5, 7, 7]
+  type: [3, 5, 7, 7, 0]
   rare: 0
   broken: [0, 0, 0, 0]
   info: 

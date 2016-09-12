@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 882
+  sort_no: 0
+  name: 夏三隅
+  yomi: みくま
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: muvekdsyxbwk
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [108, 36]
+    boko_d: [100, 32]
+    kaisyu_n: [18, 7]
+    kaisyu_d: [28, 7]
+    kaizo_n: [56, 32]
+    kaizo_d: [56, -28]
+    map_n: [68, 12]
+    map_d: [60, 8]
+    ensyuf_n: [72, 8]
+    ensyuf_d: [48, 4]
+    ensyue_n: [60, 0]
+    battle_n: [84, 24]
+    battle_d: [92, 24]
+    wed_a: [136, 112]
+    wed_b: [112, 112]
+  wiki_id:
+  chinese_name:
+---

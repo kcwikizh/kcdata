@@ -4,7 +4,7 @@ data:
   id: 558
   sort_no: 0
   name: 深海復讐艦攻改
-  type: [3, 5, 8, 8]
+  type: [3, 5, 8, 8, 0]
   rare: 4
   broken: [0, 0, 0, 0]
   info: 

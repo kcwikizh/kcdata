@@ -4,7 +4,7 @@ data:
   id: 534
   sort_no: 0
   name: 強化型深海缶
-  type: [6, 9, 17, 19]
+  type: [6, 9, 17, 19, 0]
   rare: 1
   broken: [0, 0, 0, 0]
   info: 

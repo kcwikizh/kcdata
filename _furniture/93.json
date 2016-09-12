@@ -8,8 +8,8 @@ data:
   description: 艦娘と見る中秋の名月もお<br>つなもの。どうせなら豪華<br>なお月見専用窓を執務室に<br>設営してしまいます？家具<br>職人も呼んでおきました！
   rarity: 4
   price: 2200
-  saleflg: 0
+  saleflg: 1
   season: 0
-  filename: ""
-  file_version: ""
+  filename: 
+  file_version: 
 ---

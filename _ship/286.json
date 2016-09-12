@@ -14,7 +14,7 @@ data:
   get_mes: 扶桑型超弩級戦艦、姉の扶桑です。<br>妹の山城ともども、よろしくお願い致します。
   voice_f: 1
   filename: mnkjkgammeds
-  file_version: ["17", "16", "715"]
+  file_version: ["18", "16", "831"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 4]
     build_time: 260
   graph:
-    boko_n: [84, 116]
-    boko_d: [72, 152]
+    boko_n: [-84, 12]
+    boko_d: [-26, 33]
     kaisyu_n: [11, -7]
     kaisyu_d: [32, 18]
-    kaizo_n: [36, 60]
-    kaizo_d: [40, 88]
-    map_n: [36, 84]
-    map_d: [52, 128]
-    ensyuf_n: [36, 92]
-    ensyuf_d: [32, 124]
-    ensyue_n: [48, 0]
-    battle_n: [68, 96]
-    battle_d: [88, 144]
-    wed_a: [168, 32]
-    wed_b: [88, 112]
+    kaizo_n: [-90, -29]
+    kaizo_d: [8, -48]
+    map_n: [-56, -19]
+    map_d: [10, 6]
+    ensyuf_n: [-9, -3]
+    ensyuf_d: [40, -24]
+    ensyue_n: [-36, 0]
+    battle_n: [0, 34]
+    battle_d: [-5, 17]
+    wed_a: [291, 124]
+    wed_b: [98, 109]
   wiki_id: "026a"
   chinese_name: 扶桑改
 ---

@@ -4,7 +4,7 @@ data:
   id: 517
   sort_no: 0
   name: 深海棲艦攻 Mark.II
-  type: [3, 5, 8, 8]
+  type: [3, 5, 8, 8, 0]
   rare: 1
   broken: [0, 0, 0, 0]
   info: 

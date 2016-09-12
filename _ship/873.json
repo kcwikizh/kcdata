@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 873
+  sort_no: 0
+  name: 夏沖波
+  yomi: おきなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: jqycffotzsjh
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [132, 120]
+    boko_d: [56, 128]
+    kaisyu_n: [16, -8]
+    kaisyu_d: [24, 4]
+    kaizo_n: [80, 64]
+    kaizo_d: [0, 64]
+    map_n: [72, 96]
+    map_d: [4, 104]
+    ensyuf_n: [88, 96]
+    ensyuf_d: [-8, 104]
+    ensyue_n: [92, 0]
+    battle_n: [100, 108]
+    battle_d: [20, 120]
+    wed_a: [128, 32]
+    wed_b: [104, 116]
+  wiki_id:
+  chinese_name:
+---

@@ -8,8 +8,8 @@ data:
   description: 夏だ！海だ！海といえば、<br>浜茶屋です！夏の浜辺が大<br>好きな艦娘たちの熱い要望<br>によって実現した、鎮守府<br>内浜茶屋施設…完成です！
   rarity: 4
   price: 4000
-  saleflg: 1
+  saleflg: 0
   season: 2
-  filename: ""
-  file_version: ""
+  filename: 
+  file_version: 
 ---

@@ -14,8 +14,8 @@ data:
   get_mes: 大和型戦艦、一番艦、大和。<br>推して参ります！
   voice_f: 3
   filename: liqjxscjkogx
-  file_version: ["5", "4", "801"]
-  book_table_id: [131]
+  file_version: ["6", "4", "831"]
+  book_table_id: [131, 878]
   book_sinfo: 大和型戦艦一番艦、大和です。<br>艦隊決戦の切り札として、呉海軍工廠で極秘建造されました。当時の最高技術の粋を結集されたこの体、二番艦の武蔵と共に、連合艦隊の中枢戦力として頑張ります！
   stats:
     taik: [93, 98]
@@ -38,21 +38,21 @@ data:
     pow_up: [7, 0, 2, 5]
     build_time: 480
   graph:
-    boko_n: [120, 104]
-    boko_d: [64, 144]
+    boko_n: [-16, 59]
+    boko_d: [-16, 140]
     kaisyu_n: [20, 0]
     kaisyu_d: [44, 0]
-    kaizo_n: [80, 36]
-    kaizo_d: [36, 80]
-    map_n: [112, 56]
-    map_d: [56, 128]
-    ensyuf_n: [84, 64]
-    ensyuf_d: [28, 120]
-    ensyue_n: [76, 0]
-    battle_n: [128, 64]
-    battle_d: [64, 136]
-    wed_a: [92, 60]
-    wed_b: [92, 120]
+    kaizo_n: [-10, -12]
+    kaizo_d: [-11, 16]
+    map_n: [-22, 48]
+    map_d: [-49, 92]
+    ensyuf_n: [32, 42]
+    ensyuf_d: [20, 80]
+    ensyue_n: [-3, 0]
+    battle_n: [-14, 38]
+    battle_d: [-14, 96]
+    wed_a: [223, 93]
+    wed_b: [101, 96]
   wiki_id: "131"
   chinese_name: 大和
 ---

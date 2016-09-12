@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 876
+  sort_no: 0
+  name: 夏山城
+  yomi: やましろ
+  stype: 9
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: dmhtjodhbxvv
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 5
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [24, 124]
+    boko_d: [68, 128]
+    kaisyu_n: [8, -5]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-32, 72]
+    kaizo_d: [56, 64]
+    map_n: [-32, 104]
+    map_d: [68, 116]
+    ensyuf_n: [-40, 104]
+    ensyuf_d: [72, 92]
+    ensyue_n: [-48, 0]
+    battle_n: [-12, 112]
+    battle_d: [104, 116]
+    wed_a: [256, 16]
+    wed_b: [104, 120]
+  wiki_id:
+  chinese_name:
+---

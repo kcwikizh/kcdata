@@ -4,7 +4,7 @@ data:
   id: 537
   sort_no: 0
   name: 12.7mm機銃
-  type: [4, 6, 21, 15]
+  type: [4, 6, 21, 15, 0]
   rare: 0
   broken: [0, 0, 0, 0]
   info: 

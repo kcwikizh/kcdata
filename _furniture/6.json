@@ -8,8 +8,8 @@ data:
   description: 匠の職人の技によって完成<br>した海岸の砂浜を鎮守府内<br>にダイナミックに再現した<br>砂浜の床。艦娘たちも時々<br>砂遊びに来るみたいです！
   rarity: 4
   price: 2000
-  saleflg: 1
+  saleflg: 0
   season: 0
-  filename: "006"
-  file_version: "1"
+  filename: 006
+  file_version: 1
 ---

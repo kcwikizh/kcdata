@@ -4,7 +4,7 @@ data:
   id: 557
   sort_no: 0
   name: 深海地獄艦爆改
-  type: [3, 5, 7, 7]
+  type: [3, 5, 7, 7, 0]
   rare: 4
   broken: [0, 0, 0, 0]
   info: 

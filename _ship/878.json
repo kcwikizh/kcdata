@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 878
+  sort_no: 0
+  name: 夏大和
+  yomi: やまと
+  stype: 9
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: wciqdkvclaol
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 5
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [120, 104]
+    boko_d: [64, 144]
+    kaisyu_n: [20, 0]
+    kaisyu_d: [44, 0]
+    kaizo_n: [80, 36]
+    kaizo_d: [36, 80]
+    map_n: [112, 56]
+    map_d: [56, 128]
+    ensyuf_n: [84, 64]
+    ensyuf_d: [28, 120]
+    ensyue_n: [76, 0]
+    battle_n: [128, 64]
+    battle_d: [64, 136]
+    wed_a: [92, 60]
+    wed_b: [92, 120]
+  wiki_id:
+  chinese_name:
+---

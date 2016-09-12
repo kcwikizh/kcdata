@@ -14,7 +14,7 @@ data:
   get_mes: クマー。<br>よろしくだクマ。
   voice_f: 1
   filename: mbgjkzlvemui
-  file_version: ["11", "11", "801"]
+  file_version: ["12", "11", "831"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [66, 29]
-    boko_d: [71, 40]
+    boko_n: [0, 104]
+    boko_d: [104, 144]
     kaisyu_n: [2, -12]
     kaisyu_d: [28, 7]
-    kaizo_n: [24, -9]
-    kaizo_d: [-14, -20]
-    map_n: [21, 26]
-    map_d: [-26, 40]
-    ensyuf_n: [30, 14]
-    ensyuf_d: [-2, -26]
-    ensyue_n: [30, 0]
-    battle_n: [-19, 9]
-    battle_d: [-19, 9]
-    wed_a: [175, 108]
-    wed_b: [121, 129]
+    kaizo_n: [-24, 24]
+    kaizo_d: [72, 48]
+    map_n: [-16, 64]
+    map_d: [80, 112]
+    ensyuf_n: [-8, 72]
+    ensyuf_d: [88, 96]
+    ensyue_n: [-16, 0]
+    battle_n: [0, 80]
+    battle_d: [88, 112]
+    wed_a: [224, 48]
+    wed_b: [124, 104]
   wiki_id: "039a"
   chinese_name: 球磨改
 ---

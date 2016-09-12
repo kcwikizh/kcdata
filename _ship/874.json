@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 874
+  sort_no: 0
+  name: 夏五十鈴
+  yomi: いすず
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: vkysxwnkevyj
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [188, 152]
+    boko_d: [56, 152]
+    kaisyu_n: [14, 13]
+    kaisyu_d: [28, 7]
+    kaizo_n: [128, 88]
+    kaizo_d: [16, 88]
+    map_n: [148, 136]
+    map_d: [12, 136]
+    ensyuf_n: [128, 132]
+    ensyuf_d: [-8, 136]
+    ensyue_n: [120, 0]
+    battle_n: [144, 132]
+    battle_d: [24, 132]
+    wed_a: [92, 0]
+    wed_b: [84, 112]
+  wiki_id:
+  chinese_name:
+---

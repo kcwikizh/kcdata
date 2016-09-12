@@ -4,7 +4,7 @@ data:
   id: 84
   sort_no: 84
   name: 2cm 四連装FlaK 38
-  type: [4, 6, 21, 15]
+  type: [4, 6, 21, 15, 0]
   rare: 3
   broken: [0, 3, 1, 1]
   info: かの国からもたらされた四連装対空機銃です。<br>2cm Flakvierling38と呼ばれる優れた近接防空火器で、艦船だけでなく対空戦闘車両や防空陣地でも運用されました。

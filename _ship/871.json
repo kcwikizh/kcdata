@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 871
+  sort_no: 0
+  name: 夏2016朧改
+  yomi: おぼろ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: lrosjupgxfte
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [124, 46]
+    boko_d: [124, 68]
+    kaisyu_n: [12, -8]
+    kaisyu_d: [16, -4]
+    kaizo_n: [80, -12]
+    kaizo_d: [68, 12]
+    map_n: [92, 24]
+    map_d: [92, 52]
+    ensyuf_n: [88, 24]
+    ensyuf_d: [80, 52]
+    ensyue_n: [80, 0]
+    battle_n: [116, 32]
+    battle_d: [100, 60]
+    wed_a: [120, 104]
+    wed_b: [102, 128]
+  wiki_id:
+  chinese_name:
+---

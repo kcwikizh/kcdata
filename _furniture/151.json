@@ -8,8 +8,8 @@ data:
   description: 何となく視線を感じる素敵なハンガーラック。ちょっと大きめで色々かけられそう！
   rarity: 1
   price: 100
-  saleflg: 0
+  saleflg: 1
   season: 0
-  filename: ""
-  file_version: ""
+  filename: 
+  file_version: 
 ---

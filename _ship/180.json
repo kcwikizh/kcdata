@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: Guten Tag.<br>私は駆逐艦マックス・シュルツよ。<br>マックス…でもいいけれど。よろしく。
   voice_f: 3
-  filename: utmejyqmcvbz
-  file_version: ["2", "1", "1"]
+  filename: utmejyqmcvbk
+  file_version: ["3", "1", "1"]
   book_table_id: [180]
   book_sinfo: ドイツ1934年計画型駆逐艦、その三番艦よ。<br>生存性の高い設計の本格的駆逐艦だけれど…新型のタービンは少し整備に難もあるけれど。<br>今度は…大丈夫。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 24
   graph:
-    boko_n: [124, 156]
-    boko_d: [100, 156]
+    boko_n: [48, 144]
+    boko_d: [64, 128]
     kaisyu_n: [16, 0]
     kaisyu_d: [24, 8]
-    kaizo_n: [92, 88]
-    kaizo_d: [40, 88]
-    map_n: [92, 120]
-    map_d: [52, 132]
-    ensyuf_n: [92, 124]
-    ensyuf_d: [40, 128]
-    ensyue_n: [80, 0]
-    battle_n: [112, 132]
-    battle_d: [64, 144]
-    wed_a: [128, -4]
-    wed_b: [92, 120]
+    kaizo_n: [48, 64]
+    kaizo_d: [72, 32]
+    map_n: [48, 112]
+    map_d: [64, 112]
+    ensyuf_n: [64, 112]
+    ensyuf_d: [64, 48]
+    ensyue_n: [32, 0]
+    battle_n: [48, 112]
+    battle_d: [80, 112]
+    wed_a: [168, 24]
+    wed_b: [112, 112]
   wiki_id: "180"
   chinese_name: Z3 zwei
 ---

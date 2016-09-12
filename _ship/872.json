@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 872
+  sort_no: 0
+  name: 夏風雲
+  yomi: かざぐも
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: nslwlbmqmztu
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [48, 124]
+    boko_d: [44, 120]
+    kaisyu_n: [-4, 4]
+    kaisyu_d: [16, -4]
+    kaizo_n: [0, 68]
+    kaizo_d: [-4, 64]
+    map_n: [12, 100]
+    map_d: [-8, 96]
+    ensyuf_n: [0, 104]
+    ensyuf_d: [-8, 104]
+    ensyue_n: [100, 0]
+    battle_n: [16, 116]
+    battle_d: [0, 116]
+    wed_a: [215, 32]
+    wed_b: [80, 112]
+  wiki_id:
+  chinese_name:
+---

@@ -14,7 +14,7 @@ data:
   get_mes: ヴィットリオ・ヴェネト級戦艦２番艦、リットリオです。<br>火力と速度には自信があるの。よろしくお願いしますね。
   voice_f: 1
   filename: hkhkiqkleprp
-  file_version: ["13", "12", "801"]
+  file_version: ["14", "12", "1"]
   book_table_id: [441, 933, 965]
   book_sinfo: パスタの国で生まれました。ヴィットリオ・ヴェネト級戦艦２番艦、リットリオです。<br>高速で兵装も充実した新鋭高速戦艦です。妹のローマ共々、どうぞよろしくお願い致します。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 0, 1, 3]
     build_time: 300
   graph:
-    boko_n: [124, 140]
-    boko_d: [132, 140]
+    boko_n: [24, 140]
+    boko_d: [12, 152]
     kaisyu_n: [24, -12]
     kaisyu_d: [24, -4]
-    kaizo_n: [96, 80]
-    kaizo_d: [96, 64]
-    map_n: [128, 136]
-    map_d: [136, 128]
-    ensyuf_n: [116, 112]
-    ensyuf_d: [144, 112]
-    ensyue_n: [72, 0]
-    battle_n: [108, 128]
-    battle_d: [136, 128]
-    wed_a: [72, -8]
-    wed_b: [136, 112]
+    kaizo_n: [-24, 64]
+    kaizo_d: [-48, 88]
+    map_n: [-8, 136]
+    map_d: [-8, 144]
+    ensyuf_n: [16, 112]
+    ensyuf_d: [0, 120]
+    ensyue_n: [-8, 0]
+    battle_n: [8, 128]
+    battle_d: [-16, 144]
+    wed_a: [219, 9]
+    wed_b: [116, 121]
   wiki_id: "241"
   chinese_name: 利托里奥
 ---

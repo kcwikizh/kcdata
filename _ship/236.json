@@ -14,7 +14,7 @@ data:
   get_mes: 雷よ！　かみなりじゃないわ！<br>そこのとこもよろしく頼むわねっ！
   voice_f: 1
   filename: eathbqlrqvda
-  file_version: ["5", "5", "801"]
+  file_version: ["6", "5", "831"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [63, 90]
-    boko_d: [48, 60]
+    boko_n: [112, 128]
+    boko_d: [120, 184]
     kaisyu_n: [17, 15]
     kaisyu_d: [28, 7]
-    kaizo_n: [-2, 40]
-    kaizo_d: [-8, -39]
-    map_n: [-8, 87]
-    map_d: [-48, 50]
-    ensyuf_n: [27, 78]
-    ensyuf_d: [17, 0]
-    ensyue_n: [27, 0]
-    battle_n: [5, 91]
-    battle_d: [-15, 55]
-    wed_a: [188, 44]
-    wed_b: [131, 145]
+    kaizo_n: [64, 56]
+    kaizo_d: [48, 80]
+    map_n: [64, 80]
+    map_d: [88, 144]
+    ensyuf_n: [100, 72]
+    ensyuf_d: [80, 136]
+    ensyue_n: [56, 0]
+    battle_n: [80, 96]
+    battle_d: [96, 144]
+    wed_a: [132, 48]
+    wed_b: [132, 104]
   wiki_id: "073a"
   chinese_name: 雷改
 ---

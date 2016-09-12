@@ -4,12 +4,12 @@ data:
   id: 29
   type: 0
   no: 28
-  title: 緑の床
-  description: カジュアルにも渋くも部屋を演出できる濃い緑の床。
-  rarity: 0
-  price: 0
-  saleflg: 0
+  title: 紅葉の職人床
+  description: 最高級の木材を用いて職人<br>が丁寧に組み上げた、秋の<br>季節にぴったりの季節床。<br>家具コイン長者向けですが<br>ダイナミック職人支援可！
+  rarity: 4
+  price: 117000
+  saleflg: 1
   season: 0
-  filename: ""
-  file_version: ""
+  filename: 
+  file_version: 
 ---

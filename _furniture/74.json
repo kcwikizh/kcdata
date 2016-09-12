@@ -10,6 +10,6 @@ data:
   price: 100
   saleflg: 1
   season: 0
-  filename: ""
-  file_version: ""
+  filename: 
+  file_version: 
 ---

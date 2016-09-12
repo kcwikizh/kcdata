@@ -4,7 +4,7 @@ data:
   id: 560
   sort_no: 0
   name: 深海探照灯
-  type: [8, 18, 29, 24]
+  type: [8, 18, 29, 24, 0]
   rare: 1
   broken: [0, 0, 0, 0]
   info: 

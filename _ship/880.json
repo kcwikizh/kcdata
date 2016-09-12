@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 880
+  sort_no: 0
+  name: 夏大鯨
+  yomi: たいげい・りゅうほう
+  stype: 20
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: lsbcshmtwsrt
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 5
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [156, 148]
+    boko_d: [168, 156]
+    kaisyu_n: [8, 8]
+    kaisyu_d: [24, 16]
+    kaizo_n: [96, 92]
+    kaizo_d: [100, 80]
+    map_n: [96, 116]
+    map_d: [96, 124]
+    ensyuf_n: [92, 112]
+    ensyuf_d: [92, 112]
+    ensyue_n: [92, 0]
+    battle_n: [116, 128]
+    battle_d: [120, 140]
+    wed_a: [120, -4]
+    wed_b: [88, 140]
+  wiki_id:
+  chinese_name:
+---

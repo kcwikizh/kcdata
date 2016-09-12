@@ -10,6 +10,6 @@ data:
   price: 330
   saleflg: 0
   season: 16
-  filename: ""
-  file_version: ""
+  filename: 
+  file_version: 
 ---

@@ -14,7 +14,7 @@ data:
   get_mes: あの……軽巡洋艦、神通です。<br>どうか、よろしくお願い致します……
   voice_f: 1
   filename: xyqotgpmnjih
-  file_version: ["10", "10", "801"]
+  file_version: ["11", "10", "831"]
   book_table_id: [159, 949]
   book_sinfo: 神通です。近代化改装を受け、<br>第２水雷戦隊の旗艦を務めました。<br>コロンバンガラ島沖海戦では先頭に立って奮戦します。<br>でも、みんな私の事狙うんですもの…ひどいわ……。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [64, 128]
-    boko_d: [96, 140]
+    boko_n: [200, 132]
+    boko_d: [112, 160]
     kaisyu_n: [8, 16]
     kaisyu_d: [56, 0]
-    kaizo_n: [44, 44]
-    kaizo_d: [44, 44]
-    map_n: [48, 112]
-    map_d: [128, 128]
-    ensyuf_n: [88, 120]
-    ensyuf_d: [128, 80]
-    ensyue_n: [80, 0]
-    battle_n: [72, 104]
-    battle_d: [96, 112]
-    wed_a: [160, 24]
-    wed_b: [112, 104]
+    kaizo_n: [136, 64]
+    kaizo_d: [64, 56]
+    map_n: [144, 104]
+    map_d: [80, 128]
+    ensyuf_n: [144, 112]
+    ensyuf_d: [88, 124]
+    ensyue_n: [112, 0]
+    battle_n: [136, 120]
+    battle_d: [80, 132]
+    wed_a: [56, 8]
+    wed_b: [144, 128]
   wiki_id: "159"
   chinese_name: 神通改二
 ---

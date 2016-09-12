@@ -14,7 +14,7 @@ data:
   get_mes: うち、浦風じゃ、よろしくね！
   voice_f: 0
   filename: cmupwurocdpn
-  file_version: ["14", "14", "1"]
+  file_version: ["15", "14", "831"]
   book_table_id: [168, 938]
   book_sinfo: 生まれは大阪、所属は呉。真珠湾からガダルカナルまで駆けまわったんじゃ。<br>最期は金剛姉さんを護衛して台湾海峡…<br>まぁ、もうどうにもならんなぁ……。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [80, 96]
-    boko_d: [48, 80]
+    boko_n: [56, 124]
+    boko_d: [48, 140]
     kaisyu_n: [0, 8]
     kaisyu_d: [8, 0]
-    kaizo_n: [32, 64]
-    kaizo_d: [-16, 16]
-    map_n: [32, 96]
-    map_d: [-16, 64]
-    ensyuf_n: [80, 96]
-    ensyuf_d: [64, 48]
-    ensyue_n: [48, 0]
-    battle_n: [32, 96]
-    battle_d: [32, 64]
-    wed_a: [160, 32]
-    wed_b: [144, 144]
+    kaizo_n: [0, 64]
+    kaizo_d: [-8, 48]
+    map_n: [0, 96]
+    map_d: [-16, 104]
+    ensyuf_n: [32, 104]
+    ensyuf_d: [0, 120]
+    ensyue_n: [8, 0]
+    battle_n: [32, 120]
+    battle_d: [0, 120]
+    wed_a: [184, 8]
+    wed_b: [152, 144]
   wiki_id: "168"
   chinese_name: 浦风
 ---

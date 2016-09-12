@@ -12,9 +12,9 @@ data:
   after_lv: 
   after_ship_id: 
   get_mes: 航空母艦、蒼龍です。<br>空母機動部隊を編制するなら、私もぜひ入れてね！
-  voice_f: 0
+  voice_f: 3
   filename: mwlzgwdjlpxx
-  file_version: ["16", "16", "1"]
+  file_version: ["16", "17", "1"]
   book_table_id: [197]
   book_sinfo: 航空母艦、蒼龍です。<br>真珠湾攻撃から始まって、緒戦の重要な戦いに、主力空母の一隻として参加しました。<br>え？なに、ミッドウェー？なにそれ、美味しいの？
   stats:

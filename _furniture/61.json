@@ -8,8 +8,8 @@ data:
   description: ピンクの大きなドットがポップな雰囲気を醸し出す壁紙。前衛的なキュートさは、一部の艦娘に大好評！
   rarity: 4
   price: 400
-  saleflg: 1
+  saleflg: 0
   season: 0
-  filename: ""
-  file_version: ""
+  filename: 
+  file_version: 
 ---

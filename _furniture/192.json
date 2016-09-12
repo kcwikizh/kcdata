@@ -8,8 +8,8 @@ data:
   description: 提督20万人突破を記念して<br>用意された夏の風物詩。艦<br>娘たちより提督が先に童心<br>に返って水遊びしちゃ、だ<br>めですよ！
   rarity: 4
   price: 2000
-  saleflg: 1
+  saleflg: 0
   season: 0
-  filename: ""
-  file_version: ""
+  filename: 
+  file_version: 
 ---

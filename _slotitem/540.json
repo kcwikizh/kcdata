@@ -4,7 +4,7 @@ data:
   id: 540
   sort_no: 0
   name: 40mm四連装機関砲
-  type: [4, 6, 21, 15]
+  type: [4, 6, 21, 15, 0]
   rare: 2
   broken: [0, 0, 0, 0]
   info: 

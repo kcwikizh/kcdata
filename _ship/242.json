@@ -14,7 +14,7 @@ data:
   get_mes: 白露型駆逐艦一番艦、「白露」です！<br>はい、一番艦ですっ！
   voice_f: 1
   filename: xcbmsjqrostq
-  file_version: ["24", "23", "801"]
+  file_version: ["25", "24", "831"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [152, 124]
-    boko_d: [152, 104]
-    kaisyu_n: [16, 16]
-    kaisyu_d: [32, 0]
-    kaizo_n: [96, 80]
-    kaizo_d: [96, 0]
-    map_n: [112, 112]
-    map_d: [112, 64]
-    ensyuf_n: [112, 96]
-    ensyuf_d: [112, 56]
-    ensyue_n: [96, 0]
-    battle_n: [128, 120]
-    battle_d: [128, 88]
-    wed_a: [84, 16]
-    wed_b: [136, 112]
+    boko_n: [144, 120]
+    boko_d: [144, 140]
+    kaisyu_n: [-16, -12]
+    kaisyu_d: [-5, 7]
+    kaizo_n: [80, 48]
+    kaizo_d: [88, 80]
+    map_n: [78, 92]
+    map_d: [108, 120]
+    ensyuf_n: [84, 96]
+    ensyuf_d: [84, 112]
+    ensyue_n: [72, 0]
+    battle_n: [92, 108]
+    battle_d: [104, 132]
+    wed_a: [144, 32]
+    wed_b: [82, 112]
   wiki_id: "079a"
   chinese_name: 白露改
 ---

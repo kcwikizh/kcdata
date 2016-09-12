@@ -4,7 +4,7 @@ data:
   id: 550
   sort_no: 0
   name: 5inch連装両用莢砲
-  type: [1, 1, 1, 16]
+  type: [1, 1, 1, 16, 0]
   rare: 3
   broken: [0, 0, 0, 0]
   info: 

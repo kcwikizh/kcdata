@@ -4,7 +4,7 @@ data:
   id: 507
   sort_no: 0
   name: 14inch連装砲
-  type: [1, 1, 3, 3]
+  type: [1, 1, 3, 3, 0]
   rare: 0
   broken: [0, 0, 0, 0]
   info: 

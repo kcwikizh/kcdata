@@ -14,7 +14,7 @@ data:
   get_mes: 如月と申します。<br>おそばに置いてくださいね。
   voice_f: 1
   filename: lwlmcwxyvcyz
-  file_version: ["20", "20", "801"]
+  file_version: ["20", "20", "831"]
   book_table_id: 
   book_sinfo: 
   stats:

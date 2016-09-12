@@ -4,7 +4,7 @@ data:
   id: 512
   sort_no: 0
   name: 12.5inch連装副砲
-  type: [1, 2, 4, 4]
+  type: [1, 2, 4, 4, 0]
   rare: 1
   broken: [0, 0, 0, 0]
   info: 

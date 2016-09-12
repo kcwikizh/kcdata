@@ -4,7 +4,7 @@ data:
   id: 533
   sort_no: 0
   name: 改良型深海タービン
-  type: [6, 9, 17, 19]
+  type: [6, 9, 17, 19, 0]
   rare: 0
   broken: [0, 0, 0, 0]
   info: 

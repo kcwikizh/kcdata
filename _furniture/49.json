@@ -8,8 +8,8 @@ data:
   description: 秋の鎮守府のために用意さ<br>れた壁紙。和のテイストで<br>落ち着いた雰囲気を醸し出<br>しています。少し大人の艦<br>娘にも好評です。
   rarity: 2
   price: 1000
-  saleflg: 0
+  saleflg: 1
   season: 0
-  filename: ""
-  file_version: ""
+  filename: 
+  file_version: 
 ---

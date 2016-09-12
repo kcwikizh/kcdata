@@ -4,7 +4,7 @@ data:
   id: 520
   sort_no: 0
   name: 深海棲艦戦 Mark.II
-  type: [3, 5, 6, 6]
+  type: [3, 5, 6, 6, 0]
   rare: 0
   broken: [0, 0, 0, 0]
   info: 

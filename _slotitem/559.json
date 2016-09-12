@@ -4,7 +4,7 @@ data:
   id: 559
   sort_no: 0
   name: 深海FCS+CIC
-  type: [7, 10, 14, 18]
+  type: [7, 10, 14, 18, 0]
   rare: 3
   broken: [0, 0, 0, 0]
   info: 

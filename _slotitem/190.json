@@ -4,7 +4,7 @@ data:
   id: 190
   sort_no: 190
   name: 38.1cm Mk.I連装砲
-  type: [1, 1, 3, 3]
+  type: [1, 1, 3, 3, 0]
   rare: 3
   broken: [0, 11, 18, 0]
   info: 紅茶の国の戦艦主兵装用に開発された連装大口径主砲です。<br>同国ならでは堅実な作りの主砲ですが、後期にはレーダーシステムの連動した射撃管制装置も開発されました。
@@ -30,6 +30,6 @@ data:
     sakb: 0
     luck: 0
     leng: 3
-  remodel_slot_id:
+  remodel_slot_id: 
   chinese_name: 38.1cm Mk.I连装炮
 ---

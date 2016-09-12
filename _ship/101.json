@@ -14,7 +14,7 @@ data:
   get_mes: 木曾だ、お前に最高の勝利を与えてやる。
   voice_f: 0
   filename: veulocbvzaqy
-  file_version: ["12", "12", "801"]
+  file_version: ["12", "12", "1"]
   book_table_id: [101]
   book_sinfo: 5500トン型の軽巡洋艦、球磨型の木曾だ。よろしくな。<br>やれ、滑走台だ、カタパルトだ、そんなもんはいらねえな。<br>戦いは敵の懐に飛び込んでやるもんよ。なあ？
   stats:

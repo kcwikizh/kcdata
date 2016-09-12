@@ -4,7 +4,7 @@ data:
   id: 565
   sort_no: 0
   name: 5inch沿岸設置砲
-  type: [1, 1, 1, 1]
+  type: [1, 1, 1, 1, 0]
   rare: 2
   broken: [0, 0, 0, 0]
   info: 

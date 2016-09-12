@@ -14,7 +14,7 @@ data:
   get_mes: 電です。<br>どうか、よろしくお願いいたします。
   voice_f: 1
   filename: bqvrrfdcuvdr
-  file_version: ["5", "5", "801"]
+  file_version: ["6", "5", "831"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [70, 82]
-    boko_d: [24, 97]
+    boko_n: [112, 160]
+    boko_d: [96, 168]
     kaisyu_n: [6, 4]
     kaisyu_d: [28, 7]
-    kaizo_n: [15, 27]
-    kaizo_d: [-40, -17]
-    map_n: [11, 78]
-    map_d: [-72, 87]
-    ensyuf_n: [59, 77]
-    ensyuf_d: [-6, 29]
-    ensyue_n: [59, 0]
-    battle_n: [28, 83]
-    battle_d: [-22, 83]
-    wed_a: [152, 47]
-    wed_b: [171, 153]
+    kaizo_n: [72, 88]
+    kaizo_d: [48, 64]
+    map_n: [80, 136]
+    map_d: [64, 128]
+    ensyuf_n: [100, 128]
+    ensyuf_d: [64, 116]
+    ensyue_n: [72, 0]
+    battle_n: [88, 136]
+    battle_d: [72, 128]
+    wed_a: [124, 0]
+    wed_b: [132, 112]
   wiki_id: "074a"
   chinese_name: 电改
 ---
