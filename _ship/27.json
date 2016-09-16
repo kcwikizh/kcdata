@@ -15,7 +15,7 @@ data:
   voice_f: 0
   filename: dyurkaeenkdh
   file_version: ["17", "15", "831"]
-  book_table_id: [27, 287, 978, 876]
+  book_table_id: [27, 978, 876]
   book_sinfo: 扶桑型戦艦２番艦、山城です。<br>「欠陥戦艦」とか「艦隊にいる方が珍しい」とか、いいたい放題ね…。<br>でも、いいの。最後の時も、扶桑姉さまと一緒に戦えれば……
   stats:
     taik: [67, 89]

@@ -10,6 +10,6 @@ data:
   price: 32000
   saleflg: 1
   season: 19
-  filename: 036
-  file_version: 19
+  filename: "036"
+  file_version: 20
 ---

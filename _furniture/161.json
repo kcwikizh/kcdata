@@ -10,6 +10,6 @@ data:
   price: 77000
   saleflg: 0
   season: 20
-  filename: 029
+  filename: "029"
   file_version: 2
 ---
