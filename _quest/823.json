@@ -32,10 +32,6 @@ data:
       amount:
         gte: 4
       ship_type: 2
-    -
-      category: fleet
-      amount: 0
-      not_ship_type: [2, 3, 4, 21]
   wiki_id: B75
   chinese_title: 水雷战队、南西诸岛防卫线反复出击！
   chinese_detail: 编成以轻巡为旗舰和四艘驱逐舰为基干的护卫舰队，反复出击南西诸岛防卫线，努力确保同海域的制海权！

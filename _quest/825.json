@@ -38,10 +38,6 @@ data:
       amount:
         gte: 4
       ship_type: 2
-    -
-      category: fleet
-      amount: 0
-      not_ship_type: [2, 3, 4, 21]
   wiki_id: B77
   chinese_title: 水雷战队、南西诸岛海域的警戒！
   chinese_detail: 以水雷战队出击巴士岛近海、东部奥廖尔海，捕捉歼灭同海域的敌军！

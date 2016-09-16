@@ -32,10 +32,6 @@ data:
         gte: 4
       ship_type: 2
     -
-      category: fleet
-      amount: 0
-      not_ship_type: [2, 3, 21]
-    -
       category: sink
       amount:
         gte: 3
