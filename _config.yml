@@ -11,3 +11,5 @@ collections:
     output: true
   furniture:
     output: true
+  shipclass:
+    output: true
