@@ -1,0 +1,8 @@
+---
+layout: json
+data:
+  id: 3
+  name: 大口径主砲
+  show_flg: 1
+  chinese_name:
+---

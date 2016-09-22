@@ -1,0 +1,6 @@
+---
+---
+[
+  {% for equiptype in site.equiptype %}{{ equiptype.data | jsonify }}{% unless forloop.last %},
+  {% endunless %}{% endfor %}
+]

@@ -1,0 +1,8 @@
+---
+layout: json
+data:
+  id: 12
+  name: 小型電探
+  show_flg: 1
+  chinese_name:
+---

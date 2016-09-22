@@ -1,0 +1,8 @@
+---
+layout: json
+data:
+  id: 6
+  name: 艦上戦闘機
+  show_flg: 1
+  chinese_name:
+---

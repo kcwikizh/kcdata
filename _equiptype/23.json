@@ -1,0 +1,8 @@
+---
+layout: json
+data:
+  id: 23
+  name: 応急修理要員
+  show_flg: 1
+  chinese_name:
+---

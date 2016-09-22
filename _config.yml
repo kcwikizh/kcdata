@@ -13,3 +13,5 @@ collections:
     output: true
   shipclass:
     output: true
+  equiptype:
+    output: true
