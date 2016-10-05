@@ -15,7 +15,7 @@ data:
   voice_f: 0
   filename: sdiauxhgyfkj
   file_version: ["7", "7", "1"]
-  book_table_id: [75]
+  book_table_id: [75, 283]
   book_sinfo: 飛鷹よ。<br>北米航路用の新造客船「出雲丸」を建造途中で改装した商船改造空母なの。<br>でも、正規空母並の活躍を見せたんだから。ホントよ。
   stats:
     taik: [40, 64]

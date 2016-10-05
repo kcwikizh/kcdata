@@ -14,7 +14,7 @@ data:
   get_mes: 水上機母艦、秋津洲よ！<br>この大艇ちゃんと一緒に覚えてよね！
   voice_f: 1
   filename: oswtwcbzgbfm
-  file_version: ["12", "13", "831"]
+  file_version: ["13", "13", "831"]
   book_table_id: [445, 976]
   book_sinfo: あたしが水上機母艦、秋津洲よ！<br>そう、大型飛行艇の運用支援や洋上補給のために建造された、飛行艇母艦。え、迷彩が厚化粧？　ホントに失礼かも。二式大艇ちゃんはあげないからね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 1]
     build_time: 70
   graph:
-    boko_n: [80, 80]
-    boko_d: [104, 64]
+    boko_n: [92, 148]
+    boko_d: [92, 148]
     kaisyu_n: [8, -12]
     kaisyu_d: [36, -8]
-    kaizo_n: [32, 40]
-    kaizo_d: [80, 8]
-    map_n: [56, 64]
-    map_d: [80, 64]
-    ensyuf_n: [64, 48]
-    ensyuf_d: [96, 32]
-    ensyue_n: [48, 0]
-    battle_n: [96, 80]
-    battle_d: [112, 64]
-    wed_a: [127, 87]
-    wed_b: [141, 121]
+    kaizo_n: [44, 72]
+    kaizo_d: [36, 56]
+    map_n: [52, 112]
+    map_d: [52, 112]
+    ensyuf_n: [36, 112]
+    ensyuf_d: [36, 112]
+    ensyue_n: [24, 0]
+    battle_n: [64, 120]
+    battle_d: [64, 120]
+    wed_a: [172, 0]
+    wed_b: [92, 112]
   wiki_id: "245"
   chinese_name: 秋津洲
 ---

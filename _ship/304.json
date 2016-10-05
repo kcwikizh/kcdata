@@ -42,7 +42,7 @@ data:
     boko_d: [104, 160]
     kaisyu_n: [20, -6]
     kaisyu_d: [40, -8]
-    kaizo_n: [104, 80]
+    kaizo_n: [108, 80]
     kaizo_d: [68, 84]
     map_n: [132, 120]
     map_d: [92, 136]

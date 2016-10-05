@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 73
+  usetype: 0
+  category: 0
+  name: 設営隊
+  description:
+    - "飛行場などの設営に必要です。※基地航空隊の拡張も可能　　※最大計10個まで保有可能"
+    - ""
+  price: 0
+  chinese_name: 设营队
+  chinese_description:
+---

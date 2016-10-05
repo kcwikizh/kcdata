@@ -14,7 +14,7 @@ data:
   get_mes: 特型駆逐艦「曙」よ。<br>って、こっち見んな！　この糞提督！
   voice_f: 1
   filename: wnocckxgfmnh
-  file_version: ["21", "20", "831"]
+  file_version: ["22", "20", "831"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [86, -11]
-    boko_d: [93, -6]
+    boko_n: [142, 142]
+    boko_d: [132, 140]
     kaisyu_n: [29, -23]
     kaisyu_d: [28, -19]
-    kaizo_n: [31, -66]
-    kaizo_d: [26, -87]
-    map_n: [10, -11]
-    map_d: [-3, -16]
-    ensyuf_n: [48, -7]
-    ensyuf_d: [67, -50]
-    ensyue_n: [48, 0]
-    battle_n: [35, -18]
-    battle_d: [19, -16]
-    wed_a: [144, 130]
-    wed_b: [153, 168]
+    kaizo_n: [72, 76]
+    kaizo_d: [92, 96]
+    map_n: [96, 112]
+    map_d: [108, 108]
+    ensyuf_n: [80, 120]
+    ensyuf_d: [88, 104]
+    ensyue_n: [72, 0]
+    battle_n: [112, 128]
+    battle_d: [128, 136]
+    wed_a: [132, 4]
+    wed_b: [96, 128]
   wiki_id: "068a"
   chinese_name: 曙改
 ---

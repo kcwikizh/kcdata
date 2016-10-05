@@ -14,7 +14,7 @@ data:
   get_mes: 航空母艦、赤城です。<br>空母機動部隊を編制するなら、私にお任せくださいませ。
   voice_f: 1
   filename: gtmwrbaniaud
-  file_version: ["14", "14", "831"]
+  file_version: ["15", "14", "831"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 5, 4]
     build_time: 270
   graph:
-    boko_n: [42, 76]
-    boko_d: [39, 80]
+    boko_n: [156, 144]
+    boko_d: [156, 144]
     kaisyu_n: [12, 22]
     kaisyu_d: [28, 25]
-    kaizo_n: [9, 25]
-    kaizo_d: [36, -16]
-    map_n: [8, 68]
-    map_d: [-35, 64]
-    ensyuf_n: [48, 58]
-    ensyuf_d: [45, 23]
-    ensyue_n: [48, 0]
-    battle_n: [16, 56]
-    battle_d: [16, 56]
-    wed_a: [198, 65]
-    wed_b: [95, 100]
+    kaizo_n: [84, 84]
+    kaizo_d: [76, 68]
+    map_n: [96, 124]
+    map_d: [96, 124]
+    ensyuf_n: [84, 132]
+    ensyuf_d: [84, 132]
+    ensyue_n: [76, 0]
+    battle_n: [116, 132]
+    battle_d: [116, 132]
+    wed_a: [132, -8]
+    wed_b: [96, 96]
   wiki_id: "006a"
   chinese_name: 赤城改
 ---

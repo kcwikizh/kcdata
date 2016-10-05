@@ -14,7 +14,7 @@ data:
   get_mes: 秋雲、着任！<br>提督よろしくねっ！
   voice_f: 3
   filename: khxsxmiuccsf
-  file_version: ["3", "3", "831"]
+  file_version: ["4", "3", "831"]
   book_table_id: [132]
   book_sinfo: 横須賀生まれ横須賀育ちの秋雲さんだよ！陽炎型の中でも航続距離は南雲さんの目にも留まって、一航戦に入ったんだ。ていうか、自分では夕雲型だと思ってたんだけどな...ブツブツ...ま、いいや。その後、五航戦の護衛を務めたよ。翔鶴瑞鶴も描き残したかったな。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [6, 12]
-    boko_d: [-4, 62]
+    boko_n: [116, 160]
+    boko_d: [64, 84]
     kaisyu_n: [24, -8]
     kaisyu_d: [26, 0]
-    kaizo_n: [6, -44]
-    kaizo_d: [6, -24]
-    map_n: [-10, -8]
-    map_d: [-40, 32]
-    ensyuf_n: [40, 0]
-    ensyuf_d: [-20, -10]
-    ensyue_n: [0, 0]
-    battle_n: [0, 16]
-    battle_d: [0, 44]
-    wed_a: [174, 138]
-    wed_b: [144, 143]
+    kaizo_n: [40, 96]
+    kaizo_d: [8, 8]
+    map_n: [56, 136]
+    map_d: [24, 52]
+    ensyuf_n: [48, 128]
+    ensyuf_d: [20, 24]
+    ensyue_n: [36, 0]
+    battle_n: [68, 148]
+    battle_d: [32, 52]
+    wed_a: [180, -4]
+    wed_b: [96, 104]
   wiki_id: "132"
   chinese_name: 秋云
 ---
