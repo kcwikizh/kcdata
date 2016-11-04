@@ -14,7 +14,7 @@ data:
   get_mes: 英国で生まれた帰国子女の金剛デース。<br>ヨロシクオネガイシマース！
   voice_f: 1
   filename: fxypdctjnicq
-  file_version: ["18", "18", "1"]
+  file_version: ["19", "18", "1021"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 3]
     build_time: 240
   graph:
-    boko_n: [-27, 74]
-    boko_d: [-34, 46]
+    boko_n: [156, 132]
+    boko_d: [152, 132]
     kaisyu_n: [41, 2]
     kaisyu_d: [40, -39]
-    kaizo_n: [-3, 24]
-    kaizo_d: [4, -33]
-    map_n: [-4, 72]
-    map_d: [24, 52]
-    ensyuf_n: [-5, 69]
-    ensyuf_d: [-3, 2]
-    ensyue_n: [-5, 0]
-    battle_n: [5, 55]
-    battle_d: [12, 41]
-    wed_a: [174, 51]
-    wed_b: [99, 130]
+    kaizo_n: [100, 60]
+    kaizo_d: [104, 64]
+    map_n: [120, 100]
+    map_d: [124, 100]
+    ensyuf_n: [112, 112]
+    ensyuf_d: [116, 112]
+    ensyue_n: [108, 0]
+    battle_n: [132, 112]
+    battle_d: [136, 120]
+    wed_a: [112, 0]
+    wed_b: [104, 128]
   wiki_id: "021a"
   chinese_name: 金刚改
 ---

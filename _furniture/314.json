@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 314
+  type: 3
+  no: 64
+  title: 一六式大漁旗
+  description: 最新鋭を自負するある軽巡<br>洋艦が、いえ、主にその妹<br>が艦隊の航海の安全と大漁<br>を祈って作った新大漁旗。<br>長女たちも寄書き済です！
+  rarity: 4
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: "065"
+  file_version: "2"
+---

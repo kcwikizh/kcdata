@@ -14,7 +14,7 @@ data:
   get_mes: 陽炎型駆逐艦十二番艦、磯風。<br>司令、共に進もう…心配はいらない。
   voice_f: 3
   filename: dyupugfxshtd
-  file_version: ["3", "3", "831"]
+  file_version: ["4", "3", "1021"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [32, 144]
-    boko_d: [-8, 140]
+    boko_n: [144, 164]
+    boko_d: [124, 144]
     kaisyu_n: [8, 12]
     kaisyu_d: [24, 24]
-    kaizo_n: [-8, 72]
-    kaizo_d: [-16, 56]
-    map_n: [0, 128]
-    map_d: [-16, 128]
-    ensyuf_n: [32, 112]
-    ensyuf_d: [16, 112]
-    ensyue_n: [0, 0]
-    battle_n: [32, 128]
-    battle_d: [-8, 128]
-    wed_a: [208, 0]
-    wed_b: [112, 112]
+    kaizo_n: [96, 80]
+    kaizo_d: [64, 64]
+    map_n: [112, 144]
+    map_d: [64, 128]
+    ensyuf_n: [124, 108]
+    ensyuf_d: [76, 132]
+    ensyue_n: [96, 0]
+    battle_n: [128, 144]
+    battle_d: [80, 136]
+    wed_a: [84, 16]
+    wed_b: [112, 120]
   wiki_id: "167a"
   chinese_name: 矶风改
 ---

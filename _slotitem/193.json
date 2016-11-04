@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 193
+  sort_no: 193
+  name: 特大発動艇
+  type: [8, 14, 24, 20, 0]
+  rare: 2
+  broken: [2, 2, 0, 1]
+  info: 特大発動艇、略して「特大発」。<br>輸送船からの揚陸作業や上陸戦に用いる数多く量産された上陸用舟艇、「大発」。この海上のトラック「大発」を新型中戦車搭載等に対応するためより大型化、搭載力が向上しています。
+  usebull: 0
+  cost: 6
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  remodel_slot_id:
+  chinese_name:
+---

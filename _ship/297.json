@@ -14,7 +14,7 @@ data:
   get_mes: 空母になった千代田です。<br>ぜひ、千歳お姉と一緒に機動部隊を編制してね！
   voice_f: 3
   filename: jhefpwucyxiq
-  file_version: ["12", "10", "1"]
+  file_version: ["13", "10", "1021"]
   book_table_id: [297]
   book_sinfo: 水上機母艦から大改装を受けて、航空母艦にジョブチェンジした千代田です。結構ちゃんとした空母でしょ？千歳お姉と一緒に敵機動部隊と戦うわ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 3]
     build_time: 190
   graph:
-    boko_n: [-44, 50]
-    boko_d: [-36, 55]
+    boko_n: [192, 148]
+    boko_d: [172, 176]
     kaisyu_n: [26, -7]
     kaisyu_d: [10, -7]
-    kaizo_n: [-80, -11]
-    kaizo_d: [-54, -30]
-    map_n: [-73, 41]
-    map_d: [-85, 45]
-    ensyuf_n: [-59, 19]
-    ensyuf_d: [-59, -13]
-    ensyue_n: [-62, 0]
-    battle_n: [-48, 21]
-    battle_d: [-49, 21]
-    wed_a: [298, 101]
-    wed_b: [102, 111]
+    kaizo_n: [144, 88]
+    kaizo_d: [96, 80]
+    map_n: [128, 128]
+    map_d: [96, 144]
+    ensyuf_n: [152, 132]
+    ensyuf_d: [104, 132]
+    ensyue_n: [144, 0]
+    battle_n: [144, 136]
+    battle_d: [128, 152]
+    wed_a: [68, -8]
+    wed_b: [128, 112]
   wiki_id: "122"
   chinese_name: 千代田航改二
 ---

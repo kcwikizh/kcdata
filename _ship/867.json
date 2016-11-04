@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 867
+  sort_no: 0
+  name: 親子丼Roma
+  yomi: ローマ
+  stype: 8
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: imrniyblbspo
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [104, 140]
+    boko_d: [156, 172]
+    kaisyu_n: [16, -8]
+    kaisyu_d: [28, -12]
+    kaizo_n: [104, 84]
+    kaizo_d: [152, 120]
+    map_n: [112, 108]
+    map_d: [164, 140]
+    ensyuf_n: [120, 132]
+    ensyuf_d: [160, 128]
+    ensyue_n: [100, 0]
+    battle_n: [124, 136]
+    battle_d: [180, 148]
+    wed_a: [104, -4]
+    wed_b: [96, 104]
+  wiki_id:
+  chinese_name:
+---

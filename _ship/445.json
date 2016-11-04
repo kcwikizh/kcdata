@@ -15,7 +15,7 @@ data:
   voice_f: 1
   filename: oswtwcbzgbfm
   file_version: ["13", "13", "831"]
-  book_table_id: [445, 976]
+  book_table_id: [445, 976, 861]
   book_sinfo: あたしが水上機母艦、秋津洲よ！<br>そう、大型飛行艇の運用支援や洋上補給のために建造された、飛行艇母艦。え、迷彩が厚化粧？　ホントに失礼かも。二式大艇ちゃんはあげないからね！
   stats:
     taik: [32, 44]
