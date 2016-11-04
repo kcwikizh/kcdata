@@ -9,12 +9,12 @@ data:
   ctype: 
   cnum: 
   backs: 5
-  after_lv: 
-  after_ship_id: 
+  after_lv: 75
+  after_ship_id: 487
   get_mes: きたきたぁ！　鬼怒、いよいよ到着しましたよ！
   voice_f: 3
   filename: ikwmknqjpvkg
-  file_version: ["15", "15", "831"]
+  file_version: ["15", "15", "1104"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 
     slot_num: 3
     max_eq: [1, 1, 1, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 580
+    after_bull: 350
     fuel_max: 25
     bull_max: 35
     broken: [2, 2, 10, 0]

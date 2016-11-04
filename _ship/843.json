@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 843
+  sort_no: 0
+  name: 浴衣白露
+  yomi: しらつゆ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: cxmxeqsgxcix
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [144, 120]
+    boko_d: [144, 140]
+    kaisyu_n: [-16, -12]
+    kaisyu_d: [-5, 7]
+    kaizo_n: [80, 48]
+    kaizo_d: [88, 80]
+    map_n: [78, 92]
+    map_d: [108, 120]
+    ensyuf_n: [84, 96]
+    ensyuf_d: [84, 112]
+    ensyue_n: [72, 0]
+    battle_n: [92, 108]
+    battle_d: [104, 132]
+    wed_a: [144, 32]
+    wed_b: [82, 112]
+  wiki_id:
+  chinese_name:
+---

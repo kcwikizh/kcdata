@@ -12,9 +12,9 @@ data:
   after_lv: 
   after_ship_id: 
   get_mes: 軽巡、長良です。<br>よろしくお願いします！
-  voice_f: 0
+  voice_f: 1
   filename: jmpkkzqwgxtc
-  file_version: ["5", "4", "1"]
+  file_version: ["6", "5", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [112, 104]
-    boko_d: [36, 60]
-    kaisyu_n: [7, 20]
+    boko_n: [128, 144]
+    boko_d: [104, 144]
+    kaisyu_n: [7, 16]
     kaisyu_d: [28, 20]
-    kaizo_n: [80, 64]
-    kaizo_d: [-16, -32]
-    map_n: [64, 72]
-    map_d: [-32, 8]
-    ensyuf_n: [72, 80]
-    ensyuf_d: [-24, 12]
-    ensyue_n: [56, 0]
-    battle_n: [80, 80]
-    battle_d: [0, 32]
-    wed_a: [124, 48]
-    wed_b: [128, 120]
+    kaizo_n: [96, 84]
+    kaizo_d: [59, 56]
+    map_n: [60, 107]
+    map_d: [15, 126]
+    ensyuf_n: [120, 130]
+    ensyuf_d: [49, 80]
+    ensyue_n: [105, 0]
+    battle_n: [90, 120]
+    battle_d: [75, 116]
+    wed_a: [102, 0]
+    wed_b: [134, 130]
   wiki_id: "042a"
   chinese_name: 长良改
 ---

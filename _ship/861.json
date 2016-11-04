@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 861
+  sort_no: 0
+  name: 親子丼秋津洲
+  yomi: あきつしま
+  stype: 16
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: siqutnqjmfbb
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 5
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [92, 148]
+    boko_d: [92, 148]
+    kaisyu_n: [8, -12]
+    kaisyu_d: [36, -8]
+    kaizo_n: [44, 72]
+    kaizo_d: [36, 56]
+    map_n: [52, 112]
+    map_d: [52, 112]
+    ensyuf_n: [36, 112]
+    ensyuf_d: [36, 112]
+    ensyue_n: [24, 0]
+    battle_n: [64, 120]
+    battle_d: [64, 120]
+    wed_a: [172, 0]
+    wed_b: [92, 112]
+  wiki_id:
+  chinese_name:
+---

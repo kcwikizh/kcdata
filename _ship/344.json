@@ -14,7 +14,7 @@ data:
   get_mes: よお！　夕雲型駆逐艦、十六番艦の朝霜、いつでも出撃できんぜ。<br>まだまだ、暴れよう…な、司令！
   voice_f: 1
   filename: jozbiyweyksl
-  file_version: ["13", "12", "1021"]
+  file_version: ["14", "12", "1104"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [128, 124]
-    boko_d: [104, 144]
+    boko_n: [0, 120]
+    boko_d: [120, 120]
     kaisyu_n: [8, -16]
     kaisyu_d: [64, 32]
-    kaizo_n: [76, 64]
-    kaizo_d: [72, 64]
-    map_n: [100, 104]
-    map_d: [88, 100]
-    ensyuf_n: [80, 96]
-    ensyuf_d: [84, 80]
-    ensyue_n: [60, 0]
-    battle_n: [112, 112]
-    battle_d: [112, 108]
-    wed_a: [124, 48]
-    wed_b: [102, 104]
+    kaizo_n: [-48, 64]
+    kaizo_d: [64, 32]
+    map_n: [-32, 112]
+    map_d: [112, 96]
+    ensyuf_n: [-32, 104]
+    ensyuf_d: [112, 80]
+    ensyue_n: [-48, 0]
+    battle_n: [0, 112]
+    battle_d: [128, 104]
+    wed_a: [256, 36]
+    wed_b: [128, 128]
   wiki_id: "225a"
   chinese_name: 朝霜改
 ---

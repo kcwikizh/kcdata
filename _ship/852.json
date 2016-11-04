@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 852
+  sort_no: 0
+  name: 秋刀魚多摩
+  yomi: たま
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: yvvgrjleziyn
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [36, 76]
+    boko_d: [84, 164]
+    kaisyu_n: [9, 2]
+    kaisyu_d: [10, 7]
+    kaizo_n: [-12, 16]
+    kaizo_d: [44, 88]
+    map_n: [48, 60]
+    map_d: [68, 128]
+    ensyuf_n: [-8, 52]
+    ensyuf_d: [52, 132]
+    ensyue_n: [-16, 0]
+    battle_n: [12, 64]
+    battle_d: [68, 152]
+    wed_a: [240, 76]
+    wed_b: [96, 112]
+  wiki_id:
+  chinese_name:
+---

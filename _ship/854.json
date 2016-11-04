@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 854
+  sort_no: 0
+  name: 秋刀魚時雨改二
+  yomi: しぐれ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: styrhweqvizy
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [160, 120]
+    boko_d: [204, 132]
+    kaisyu_n: [12, 4]
+    kaisyu_d: [36, -4]
+    kaizo_n: [108, 48]
+    kaizo_d: [144, 44]
+    map_n: [116, 92]
+    map_d: [160, 112]
+    ensyuf_n: [108, 104]
+    ensyuf_d: [156, 112]
+    ensyue_n: [108, 0]
+    battle_n: [128, 128]
+    battle_d: [180, 128]
+    wed_a: [108, 24]
+    wed_b: [104, 112]
+  wiki_id:
+  chinese_name:
+---

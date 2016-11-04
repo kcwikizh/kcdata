@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 487
+  sort_no: 287
+  name: 鬼怒改二
+  yomi: きぬ
+  stype: 3
+  ctype: 20
+  cnum: 5
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: きたきたぁ！　鬼怒、いよいよ到着しましたよ！
+  voice_f: 3
+  filename: glyidgppuqgp
+  file_version: ["1", "1", "1104"]
+  book_table_id: [487]
+  book_sinfo: 神戸生まれの鬼怒だよ。<br>舞鶴の学校で訓練に励んだんだ。色々と大変になってきた後は、南西方面で頑張ったよ…いやぁ、大変だったなあ。球磨ちゃんには随分と助けてもらったんだ。でも…パナイ島だけはマジパナイ！改装された鬼怒の魅力もマジパナイ！
+  stats:
+    taik: [45, 61]
+    souk: [29, 68]
+    houg: [15, 55]
+    raig: [28, 82]
+    tyku: [41, 83]
+    luck: [17, 72]
+    soku: 10
+    leng: 1
+    kaih: 44
+    tais: 49
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 25
+    bull_max: 30
+    broken: [2, 2, 10, 0]
+    pow_up: [1, 2, 2, 2]
+    build_time: 75
+  graph:
+    boko_n: [136, 154]
+    boko_d: [128, 152]
+    kaisyu_n: [48, -16]
+    kaisyu_d: [32, 0]
+    kaizo_n: [112, 84]
+    kaizo_d: [68, 72]
+    map_n: [128, 132]
+    map_d: [84, 132]
+    ensyuf_n: [128, 132]
+    ensyuf_d: [88, 132]
+    ensyue_n: [120, 0]
+    battle_n: [148, 148]
+    battle_d: [100, 148]
+    wed_a: [84, -4]
+    wed_b: [104, 104]
+  wiki_id: "287"
+  chinese_name: 鬼怒改二
+---

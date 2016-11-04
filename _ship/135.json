@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦四番艦、長波サマだよ！<br>さーいくぜ、オーッ！
   voice_f: 3
   filename: xwvykvklvvqk
-  file_version: ["6", "3", "1021"]
+  file_version: ["7", "3", "1104"]
   book_table_id: [135, 898, 846]
   book_sinfo: マル4計画で建造されて戦時就航した夕雲型四番艦、長波だ。栄光の第二水雷戦隊で縦横無尽の活躍したぞ。ガダルカナル島では、田中頼三少将の名指揮で、敵の待ち伏せを完膚なきまでに蹴散らしてやったぜ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [160, 140]
-    boko_d: [104, 160]
+    boko_n: [36, 112]
+    boko_d: [40, 112]
     kaisyu_n: [20, -6]
     kaisyu_d: [40, -8]
-    kaizo_n: [108, 80]
-    kaizo_d: [68, 84]
-    map_n: [132, 120]
-    map_d: [92, 136]
-    ensyuf_n: [104, 116]
-    ensyuf_d: [76, 128]
-    ensyue_n: [92, 0]
-    battle_n: [132, 128]
-    battle_d: [96, 144]
-    wed_a: [104, 4]
-    wed_b: [88, 120]
+    kaizo_n: [44, 56]
+    kaizo_d: [44, 16]
+    map_n: [34, 68]
+    map_d: [48, 92]
+    ensyuf_n: [96, 96]
+    ensyuf_d: [56, 52]
+    ensyue_n: [56, 0]
+    battle_n: [36, 96]
+    battle_d: [60, 104]
+    wed_a: [169, 33]
+    wed_b: [117, 137]
   wiki_id: "135"
   chinese_name: 长波
 ---

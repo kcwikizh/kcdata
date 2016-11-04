@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 866
+  sort_no: 0
+  name: 買い出し天城
+  yomi: あまぎ
+  stype: 11
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: ffweetfkupoz
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [224, 136]
+    boko_d: [16, 152]
+    kaisyu_n: [24, 12]
+    kaisyu_d: [32, -8]
+    kaizo_n: [152, 84]
+    kaizo_d: [-40, 84]
+    map_n: [172, 124]
+    map_d: [0, 140]
+    ensyuf_n: [156, 128]
+    ensyuf_d: [-20, 132]
+    ensyue_n: [152, 0]
+    battle_n: [184, 128]
+    battle_d: [-12, 136]
+    wed_a: [60, -4]
+    wed_b: [84, 104]
+  wiki_id:
+  chinese_name:
+---

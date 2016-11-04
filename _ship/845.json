@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 845
+  sort_no: 0
+  name: 浴衣陸奥
+  yomi: むつ
+  stype: 9
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: xpedaxvnvqgx
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 5
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [160, 128]
+    boko_d: [212, 132]
+    kaisyu_n: [12, 16]
+    kaisyu_d: [34, -5]
+    kaizo_n: [152, 68]
+    kaizo_d: [168, 68]
+    map_n: [172, 104]
+    map_d: [180, 116]
+    ensyuf_n: [160, 104]
+    ensyuf_d: [160, 112]
+    ensyue_n: [128, 0]
+    battle_n: [172, 116]
+    battle_d: [200, 124]
+    wed_a: [64, 8]
+    wed_b: [100, 128]
+  wiki_id:
+  chinese_name:
+---
