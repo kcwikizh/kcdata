@@ -30,6 +30,122 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: [47, 149]
+  improvement: 
+    -
+      consume:
+        resource: [10, 0, 30, 30]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [2, 3]
+        slotitem:
+          - 
+          -
+            id: 46
+            amount: 1
+      upgrade:
+        id: 47
+        level: 3
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [6, 9]
+            -
+              id: 4
+              amount: [3, 5]
+          slotitem:
+            id: 46
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 115
+        -
+          -
+            ship_id: 141
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 115
+        -
+          -
+            ship_id: 115
+    -
+      consume:
+        resource: [10, 0, 30, 30]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [2, 3]
+        slotitem:
+          - 
+          -
+            id: 46
+            amount: 1
+      upgrade:
+        id: 149
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [10, 20]
+            -
+              id: 4
+              amount: [6, 12]
+          slotitem:
+            id: 47
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 145
+          -
+            ship_id: 343
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 145
+          -
+            ship_id: 141
+        -
+          -
+            ship_id: 145
+          -
+            ship_id: 141
+          -
+            ship_id: 343
+        -
+          -
+            ship_id: 145
+          -
+            ship_id: 343
   chinese_name: 九三式水中听音机
 ---

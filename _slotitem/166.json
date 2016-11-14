@@ -30,6 +30,73 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 167
+  improvement: 
+    -
+      consume:
+        resource: [70, 80, 120, 30]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [4, 8]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          -
+            id: 49
+            amount: 1
+          -
+            id: 51
+            amount: 2
+      upgrade:
+        id: 167
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [10, 18]
+            -
+              id: 4
+              amount: [5, 9]
+          slotitem:
+            id: 37
+            amount: 3
+      day:
+        -
+          -
+            ship_id: 161
+        -
+          -
+            ship_id: 161
+        -
+          -
+            ship_id: 200
+        -
+          -
+            ship_id: 200
+        -
+          -
+            ship_id: 418
+          -
+            ship_id: 200
+        -
+          -
+            ship_id: 161
+          -
+            ship_id: 418
+        -
+          -
+            ship_id: 161
+          -
+            ship_id: 418
   chinese_name: 大发动艇(八九式中战车&陆战队)
 ---

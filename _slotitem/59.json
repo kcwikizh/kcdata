@@ -30,6 +30,56 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [90, 40, 0, 270]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 6]
+            -
+              id: 4
+              amount: [3, 5]
+          -
+            -
+              id: 3
+              amount: [6, 9]
+            -
+              id: 4
+              amount: [4, 7]
+        slotitem:
+          -
+            id: 26
+            amount: 1
+          -
+            id: 59
+            amount: 1
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 451
+        -
+          -
+            ship_id: 451
+        -
+          -
+            ship_id: 451
+        -
+          -
+            ship_id: 451
+        -
+          -
+            ship_id: 143
+        -
+          -
+            ship_id: 143
+        -
+          -
+            ship_id: 451
+          -
+            ship_id: 143
   chinese_name: 零式水上观测机
 ---

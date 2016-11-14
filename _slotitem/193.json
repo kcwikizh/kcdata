@@ -30,6 +30,54 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id:
+  improvement: 
+    -
+      consume:
+        resource: [70, 80, 120, 30]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [4, 8]
+            -
+              id: 4
+              amount: [4, 6]
+        slotitem:
+          -
+            id: 75
+            amount: 2
+          -
+            id: 68
+            amount: 1
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 487
+        -
+          -
+            ship_id: 487
+        -
+          -
+            ship_id: 161
+        -
+          -
+            ship_id: 161
+        -
+          -
+            ship_id: 161
+        -
+          -
+            ship_id: 487
+        -
+          -
+            ship_id: 487
   chinese_name: 特大发动艇
 ---

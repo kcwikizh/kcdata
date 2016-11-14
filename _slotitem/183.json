@@ -30,6 +30,48 @@ data:
     sakb: 0
     luck: 0
     leng: 3
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [45, 500, 770, 500]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [16, 24]
+            -
+              id: 4
+              amount: [8, 12]
+          -
+            -
+              id: 3
+              amount: [16, 24]
+            -
+              id: 4
+              amount: [8, 16]
+        slotitem:
+          -
+            id: 28
+            amount: 2
+          -
+            id: 31
+            amount: 2
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 440
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 440
+        -
+          -
+            ship_id: 440
+        -
+          -
+            ship_id: 440
   chinese_name: 16英寸三连装炮 Mk.7+GFCS
 ---

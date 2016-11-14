@@ -30,6 +30,56 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [10, 0, 60, 70]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [10, 12]
+            -
+              id: 4
+              amount: [4, 8]
+        slotitem:
+          -
+            id: 30
+            amount: 1
+          -
+            id: 30
+            amount: 2
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 131
+        - false
+        -
+          -
+            ship_id: 143
+        -
+          -
+            ship_id: 143
+        -
+          -
+            ship_id: 131
+          -
+            ship_id: 143
+        -
+          -
+            ship_id: 131
+          -
+            ship_id: 143
+        -
+          -
+            ship_id: 131
   chinese_name: 21号对空电探改
 ---

@@ -30,6 +30,62 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [120, 120, 0, 280]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 6]
+            -
+              id: 4
+              amount: [3, 5]
+          -
+            -
+              id: 3
+              amount: [5, 9]
+            -
+              id: 4
+              amount: [4, 6]
+        slotitem:
+          -
+            id: 21
+            amount: 2
+          -
+            id: 17
+            amount: 2
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 153
+        -
+          -
+            ship_id: 153
+        -
+          -
+            ship_id: 153
+        -
+          -
+            ship_id: 153
+          -
+            ship_id: 404
+        -
+          -
+            ship_id: 153
+          -
+            ship_id: 404
+        -
+          -
+            ship_id: 153
+          -
+            ship_id: 404
+        -
+          -
+            ship_id: 153
+          -
+            ship_id: 404
   chinese_name: 零战52型丙(六〇一空)
 ---

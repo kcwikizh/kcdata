@@ -30,6 +30,44 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [120, 120, 0, 280]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 6]
+            -
+              id: 4
+              amount: [3, 5]
+          -
+            -
+              id: 3
+              amount: [5, 9]
+            -
+              id: 4
+              amount: [4, 6]
+        slotitem:
+          -
+            id: 21
+            amount: 2
+          -
+            id: 21
+            amount: 3
+      upgrade:
+      day:
+        - false
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 111
+        -
+          -
+            ship_id: 111
   chinese_name: 零战52型甲(付岩本小队)
 ---

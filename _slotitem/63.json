@@ -30,6 +30,50 @@ data:
     sakb: 0
     luck: 0
     leng: 1
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [10, 40, 70, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 2]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [2, 4]
+        slotitem:
+          - 
+          -
+            id: 63
+            amount: 1
+      upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 144
+          -
+            ship_id: 195
+        -
+          -
+            ship_id: 144
+          -
+            ship_id: 195
+        -
+          -
+            ship_id: 144
+          -
+            ship_id: 195
+        - false
+        - false
+        - false
   chinese_name: 12.7cm连装炮B型改二
 ---

@@ -30,6 +30,138 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 166
+  improvement: 
+    -
+      consume:
+        resource: [50, 30, 30, 10]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [1, 4]
+            -
+              id: 4
+              amount: [2, 3]
+        slotitem:
+          -
+            id: 75
+            amount: 1
+          -
+            id: 37
+            amount: 1
+      upgrade:
+        id: 166
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [4, 8]
+            -
+              id: 4
+              amount: [3, 7]
+          slotitem:
+            id: 38
+            amount: 3
+      day:
+        -
+          -
+            ship_id: 161
+          -
+            ship_id: 418
+          -
+            ship_id: 200
+        -
+          -
+            ship_id: 161
+          -
+            ship_id: 418
+          -
+            ship_id: 200
+        -
+          -
+            ship_id: 161
+          -
+            ship_id: 418
+        -
+          -
+            ship_id: 161
+          -
+            ship_id: 418
+        -
+          -
+            ship_id: 161
+        -
+          -
+            ship_id: 161
+          -
+            ship_id: 200
+        -
+          -
+            ship_id: 161
+          -
+            ship_id: 200
+    -
+      consume:
+        resource: [50, 30, 30, 10]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [1, 4]
+            -
+              id: 4
+              amount: [2, 3]
+        slotitem:
+          -
+            id: 75
+            amount: 1
+          -
+            id: 37
+            amount: 1
+      upgrade:
+        id: 193
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [8, 16]
+            -
+              id: 4
+              amount: [6, 12]
+          slotitem:
+            id: 68
+            amount: 4
+      day:
+        -
+          -
+            ship_id: 487
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 487
+        -
+          -
+            ship_id: 487
+        -
+          -
+            ship_id: 487
   chinese_name: 大发动艇
 ---

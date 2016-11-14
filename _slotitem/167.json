@@ -30,6 +30,64 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [80, 90, 100, 70]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 8]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [8, 12]
+            -
+              id: 4
+              amount: [4, 6]
+        slotitem:
+          -
+            id: 37
+            amount: 2
+          -
+            id: 38
+            amount: 3
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 127
+        -
+          -
+            ship_id: 127
+          -
+            ship_id: 155
+        -
+          -
+            ship_id: 155
+        -
+          -
+            ship_id: 128
+          -
+            ship_id: 155
+        -
+          -
+            ship_id: 128
+          -
+            ship_id: 155
+        -
+          -
+            ship_id: 127
+          -
+            ship_id: 128
+        -
+          -
+            ship_id: 127
+          -
+            ship_id: 128
   chinese_name: 特二式内火艇
 ---

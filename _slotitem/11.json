@@ -30,6 +30,69 @@ data:
     sakb: 0
     luck: 0
     leng: 2
-  remodel_slot_id: 65
+  improvement: 
+    -
+      consume:
+        resource: [10, 60, 90, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [2, 3]
+        slotitem:
+          - 
+          -
+            id: 11
+            amount: 1
+      upgrade:
+        id: 65
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [3, 5]
+          slotitem:
+            id: 11
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 137
+          -
+            ship_id: 78
+        -
+          -
+            ship_id: 137
+          -
+            ship_id: 78
+          -
+            ship_id: 27
+        -
+          -
+            ship_id: 137
+          -
+            ship_id: 27
+        -
+          -
+            ship_id: 27
+        - false
+        - false
+        -
+          -
+            ship_id: 78
   chinese_name: 15.2cm单装炮
 ---

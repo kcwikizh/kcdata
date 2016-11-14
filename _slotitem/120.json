@@ -30,6 +30,75 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 121
+  improvement: 
+    -
+      consume:
+        resource: [0, 0, 60, 40]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [2, 4]
+        slotitem:
+          - 
+          -
+            id: 10
+            amount: 1
+      upgrade:
+        id: 121
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [4, 9]
+            -
+              id: 4
+              amount: [4, 7]
+          slotitem:
+            id: 3
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 68
+          -
+            ship_id: 421
+          -
+            ship_id: 422
+        -
+          -
+            ship_id: 68
+          -
+            ship_id: 421
+        - false
+        - false
+        -
+          -
+            ship_id: 422
+        -
+          -
+            ship_id: 68
+          -
+            ship_id: 421
+          -
+            ship_id: 422
+        -
+          -
+            ship_id: 68
+          -
+            ship_id: 421
+          -
+            ship_id: 422
   chinese_name: 91式高射装置
 ---

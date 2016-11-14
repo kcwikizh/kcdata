@@ -30,6 +30,67 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 89
+  improvement: 
+    -
+      consume:
+        resource: [10, 0, 40, 50]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 6]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          - 
+          -
+            id: 30
+            amount: 1
+      upgrade:
+        id: 89
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [12, 16]
+            -
+              id: 4
+              amount: [5, 13]
+          slotitem:
+            id: 30
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 77
+        -
+          -
+            ship_id: 77
+        - false
+        -
+          -
+            ship_id: 87
+        -
+          -
+            ship_id: 87
+        -
+          -
+            ship_id: 77
+          -
+            ship_id: 87
+        -
+          -
+            ship_id: 77
+          -
+            ship_id: 87
   chinese_name: 21号对空电探
 ---

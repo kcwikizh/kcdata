@@ -30,6 +30,56 @@ data:
     sakb: 0
     luck: 0
     leng: 1
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [10, 20, 70, 10]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [1, 2]
+        slotitem:
+          -
+            id: 3
+            amount: 1
+          -
+            id: 3
+            amount: 2
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 442
+        -
+          -
+            ship_id: 441
+        -
+          -
+            ship_id: 441
+        -
+          -
+            ship_id: 441
+        -
+          -
+            ship_id: 441
+          -
+            ship_id: 442
+        -
+          -
+            ship_id: 442
+        -
+          -
+            ship_id: 442
   chinese_name: 90mm单装高角炮
 ---

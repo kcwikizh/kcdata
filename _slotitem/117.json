@@ -30,6 +30,61 @@ data:
     sakb: 0
     luck: 0
     leng: 4
-  remodel_slot_id: 9
+  improvement: 
+    -
+      consume:
+        resource: [40, 420, 650, 40]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 6]
+            -
+              id: 4
+              amount: [3, 5]
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [4, 7]
+        slotitem:
+          -
+            id: 8
+            amount: 2
+          -
+            id: 8
+            amount: 3
+      upgrade:
+        id: 9
+        level: 5
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [12, 18]
+            -
+              id: 4
+              amount: [8, 14]
+          slotitem:
+            id: 8
+            amount: 4
+      day:
+        -
+          -
+            ship_id: 131
+        -
+          -
+            ship_id: 131
+        -
+          -
+            ship_id: 143
+        -
+          -
+            ship_id: 143
+        - false
+        - false
+        - false
   chinese_name: 试制46cm连装炮
 ---

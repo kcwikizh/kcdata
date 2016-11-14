@@ -30,6 +30,42 @@ data:
     sakb: 0
     luck: 0
     leng: 2
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [10, 60, 100, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [2, 4]
+            -
+              id: 4
+              amount: [2, 3]
+        slotitem:
+          - 
+          -
+            id: 119
+            amount: 1
+      upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 115
+        - false
+        - false
+        -
+          -
+            ship_id: 115
+        - false
+        - false
   chinese_name: 14cm连装炮
 ---

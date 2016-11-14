@@ -30,6 +30,71 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 164
+  improvement: 
+    -
+      consume:
+        resource: [60, 30, 0, 180]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [4, 6]
+            -
+              id: 4
+              amount: [2, 4]
+        slotitem:
+          -
+            id: 25
+            amount: 1
+          -
+            id: 26
+            amount: 1
+      upgrade:
+        id: 164
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [5, 10]
+            -
+              id: 4
+              amount: [3, 5]
+          slotitem:
+            id: 25
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 446
+        -
+          -
+            ship_id: 358
+        -
+          -
+            ship_id: 358
+          -
+            ship_id: 447
+        -
+          -
+            ship_id: 358
+          -
+            ship_id: 447
+        -
+          -
+            ship_id: 358
+        -
+          -
+            ship_id: 358
+        -
+          -
+            ship_id: 446
   chinese_name: Ro.43水侦
 ---

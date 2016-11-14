@@ -30,6 +30,52 @@ data:
     sakb: 0
     luck: 0
     leng: 1
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [120, 180, 120, 40]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [5, 6]
+          -
+            -
+              id: 3
+              amount: [9, 12]
+            -
+              id: 4
+              amount: [6, 12]
+        slotitem:
+          -
+            id: 15
+            amount: 2
+          -
+            id: 58
+            amount: 1
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 50
+        - false
+        - false
+        -
+          -
+            ship_id: 423
+        -
+          -
+            ship_id: 423
+        -
+          -
+            ship_id: 423
+        -
+          -
+            ship_id: 423
+          -
+            ship_id: 50
   chinese_name: 试制61cm六连装(酸素)鱼雷
 ---

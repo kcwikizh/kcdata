@@ -30,6 +30,67 @@ data:
     sakb: 0
     luck: 0
     leng: 4
-  remodel_slot_id: 137
+  improvement: 
+    -
+      consume:
+        resource: [30, 400, 480, 20]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 5]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [5, 8]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          -
+            id: 7
+            amount: 1
+          -
+            id: 7
+            amount: 2
+      upgrade:
+        id: 137
+        level: 3
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [12, 22]
+            -
+              id: 4
+              amount: [7, 14]
+          slotitem:
+            id: 39
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 442
+        -
+          -
+            ship_id: 442
+        -
+          -
+            ship_id: 441
+        -
+          -
+            ship_id: 441
+        -
+          -
+            ship_id: 441
+        -
+          -
+            ship_id: 441
+        -
+          -
+            ship_id: 442
   chinese_name: 381mm/50 三连装炮
 ---

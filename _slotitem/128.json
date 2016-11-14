@@ -30,6 +30,48 @@ data:
     sakb: 0
     luck: 0
     leng: 4
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [50, 550, 950, 80]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [7, 9]
+            -
+              id: 4
+              amount: [5, 7]
+          -
+            -
+              id: 3
+              amount: [10, 15]
+            -
+              id: 4
+              amount: [7, 10]
+        slotitem:
+          -
+            id: 9
+            amount: 2
+          -
+            id: 9
+            amount: 3
+      upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 136
+          -
+            ship_id: 148
+        -
+          -
+            ship_id: 136
+        -
+          -
+            ship_id: 148
+        - false
+        - false
+        - false
   chinese_name: 试制51cm连装炮
 ---

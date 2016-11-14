@@ -30,6 +30,52 @@ data:
     sakb: 0
     luck: 0
     leng: 3
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [30, 350, 480, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [4, 7]
+            -
+              id: 4
+              amount: [3, 6]
+        slotitem:
+          -
+            id: 8
+            amount: 1
+          -
+            id: 8
+            amount: 2
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 81
+        -
+          -
+            ship_id: 81
+        -
+          -
+            ship_id: 80
+        - false
+        -
+          -
+            ship_id: 81
+        -
+          -
+            ship_id: 80
+        -
+          -
+            ship_id: 80
   chinese_name: 41cm连装炮
 ---

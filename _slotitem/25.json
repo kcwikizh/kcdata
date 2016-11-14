@@ -30,6 +30,79 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 165
+  improvement: 
+    -
+      consume:
+        resource: [90, 20, 0, 300]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 6]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [5, 8]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          -
+            id: 25
+            amount: 1
+          -
+            id: 25
+            amount: 2
+      upgrade:
+        id: 165
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [9, 15]
+            -
+              id: 4
+              amount: [5, 10]
+          slotitem:
+            id: 20
+            amount: 3
+      day:
+        -
+          -
+            ship_id: 450
+          -
+            ship_id: 451
+        -
+          -
+            ship_id: 451
+        -
+          -
+            ship_id: 451
+        -
+          -
+            ship_id: 107
+        -
+          -
+            ship_id: 107
+          -
+            ship_id: 450
+        -
+          -
+            ship_id: 106
+          -
+            ship_id: 450
+          -
+            ship_id: 451
+        -
+          -
+            ship_id: 106
+          -
+            ship_id: 450
+          -
+            ship_id: 451
   chinese_name: 零式水上侦察机
 ---

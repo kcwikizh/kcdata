@@ -30,6 +30,48 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [10, 0, 30, 50]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 5]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [5, 7]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          - 
+          -
+            id: 47
+            amount: 1
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 141
+        - false
+        -
+          -
+            ship_id: 115
+          -
+            ship_id: 141
+        -
+          -
+            ship_id: 115
+          -
+            ship_id: 141
+        - false
+        - false
+        - false
   chinese_name: 三式水中探信仪
 ---

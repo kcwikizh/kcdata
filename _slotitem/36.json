@@ -30,6 +30,67 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 116
+  improvement: 
+    -
+      consume:
+        resource: [30, 150, 310, 10]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [1, 1]
+          -
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [1, 2]
+        slotitem:
+          - 
+          -
+            id: 36
+            amount: 1
+      upgrade:
+        id: 116
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [6, 9]
+            -
+              id: 4
+              amount: [4, 9]
+          slotitem:
+            id: 36
+            amount: 3
+      day:
+        -
+          -
+            ship_id: 85
+        -
+          -
+            ship_id: 85
+        - false
+        -
+          -
+            ship_id: 86
+        -
+          -
+            ship_id: 86
+        -
+          -
+            ship_id: 86
+          -
+            ship_id: 85
+        -
+          -
+            ship_id: 86
+          -
+            ship_id: 85
   chinese_name: 九一式撤甲弹
 ---

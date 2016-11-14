@@ -30,6 +30,48 @@ data:
     sakb: 0
     luck: 0
     leng: 3
-  remodel_slot_id:
+  improvement: 
+    -
+      consume:
+        resource: [28, 320, 420, 40]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 6]
+            -
+              id: 4
+              amount: [3, 5]
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [4, 7]
+        slotitem:
+          -
+            id: 8
+            amount: 1
+          -
+            id: 8
+            amount: 2
+      upgrade:
+      day:
+        - false
+        - false
+        -
+          -
+            ship_id: 439
+        -
+          -
+            ship_id: 439
+        -
+          -
+            ship_id: 439
+        -
+          -
+            ship_id: 439
+        - false
   chinese_name: 38.1cm Mk.I/N连装炮改
 ---

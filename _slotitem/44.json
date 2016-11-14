@@ -30,6 +30,51 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 45
+  improvement: 
+    -
+      consume:
+        resource: [10, 60, 20, 20]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [1, 3]
+        slotitem:
+          - 
+          -
+            id: 44
+            amount: 1
+      upgrade:
+        id: 45
+        level: 3
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [3, 6]
+            -
+              id: 4
+              amount: [3, 8]
+          slotitem:
+            id: 44
+            amount: 2
+      day:
+        - false
+        - false
+        - false
+        - true
+        - true
+        - false
+        - false
   chinese_name: 九四式爆雷投射机
 ---

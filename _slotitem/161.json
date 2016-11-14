@@ -30,6 +30,67 @@ data:
     sakb: 0
     luck: 0
     leng: 3
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [45, 450, 750, 100]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [10, 15]
+            -
+              id: 4
+              amount: [6, 8]
+          -
+            -
+              id: 3
+              amount: [16, 24]
+            -
+              id: 4
+              amount: [8, 12]
+        slotitem:
+          -
+            id: 8
+            amount: 3
+          -
+            id: 9
+            amount: 3
+      upgrade:
+        id: 183
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [20, 28]
+            -
+              id: 4
+              amount: [12, 20]
+          slotitem:
+            id: 31
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 440
+        -
+          -
+            ship_id: 440
+        -
+          -
+            ship_id: 440
+        -
+          -
+            ship_id: 440
+        -
+          -
+            ship_id: 440
+        -
+          -
+            ship_id: 440
+        -
+          -
+            ship_id: 440
   chinese_name: 16英寸三连装炮 Mk.7
 ---

@@ -30,6 +30,54 @@ data:
     sakb: 0
     luck: 0
     leng: 1
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [10, 60, 150, 50]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 7]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [5, 8]
+            -
+              id: 4
+              amount: [4, 7]
+        slotitem:
+          - 
+          -
+            id: 3
+            amount: 2
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 422
+        -
+          -
+            ship_id: 421
+        -
+          -
+            ship_id: 421
+        -
+          -
+            ship_id: 421
+        -
+          -
+            ship_id: 421
+          -
+            ship_id: 422
+        -
+          -
+            ship_id: 422
+        -
+          -
+            ship_id: 422
   chinese_name: 10cm连装高角炮+高射装置
 ---

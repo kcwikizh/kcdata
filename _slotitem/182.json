@@ -30,6 +30,61 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [90, 100, 0, 260]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [4, 6]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          -
+            id: 20
+            amount: 2
+          -
+            id: 20
+            amount: 3
+      upgrade:
+        id: 152
+        level: 3
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [5, 8]
+            -
+              id: 4
+              amount: [4, 6]
+          slotitem:
+            id: 181
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 83
+        -
+          -
+            ship_id: 83
+        - false
+        -
+          -
+            ship_id: 84
+        -
+          -
+            ship_id: 84
+        - false
+        - false
   chinese_name: 零式舰战32型(熟练)
 ---

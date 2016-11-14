@@ -30,6 +30,79 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 131
+  improvement: 
+    -
+      consume:
+        resource: [0, 30, 20, 10]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 1]
+          -
+            -
+              id: 3
+              amount: [1, 3]
+            -
+              id: 4
+              amount: [1, 2]
+        slotitem:
+          - 
+          -
+            id: 40
+            amount: 1
+      upgrade:
+        id: 131
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [5, 9]
+            -
+              id: 4
+              amount: [3, 7]
+          slotitem:
+            id: 40
+            amount: 5
+      day:
+        -
+          -
+            ship_id: 428
+        -
+          -
+            ship_id: 141
+          -
+            ship_id: 428
+          -
+            ship_id: 487
+        -
+          -
+            ship_id: 141
+          -
+            ship_id: 68
+          -
+            ship_id: 428
+          -
+            ship_id: 487
+        -
+          -
+            ship_id: 141
+          -
+            ship_id: 68
+          -
+            ship_id: 428
+          -
+            ship_id: 418
+        -
+          -
+            ship_id: 68
+          -
+            ship_id: 418
+        - false
+        - false
   chinese_name: 25mm三连装机铳
 ---

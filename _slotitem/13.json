@@ -30,6 +30,63 @@ data:
     sakb: 0
     luck: 0
     leng: 1
-  remodel_slot_id: 125
+  improvement: 
+    -
+      consume:
+        resource: [50, 70, 60, 20]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 1]
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [1, 2]
+        slotitem:
+          - 
+          -
+            id: 13
+            amount: 1
+      upgrade:
+        id: 125
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [2, 4]
+          slotitem:
+            id: 13
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 33
+        -
+          -
+            ship_id: 33
+        -
+          -
+            ship_id: 33
+        - false
+        -
+          -
+            ship_id: 9
+        -
+          -
+            ship_id: 9
+        -
+          -
+            ship_id: 9
   chinese_name: 61cm三连装鱼雷
 ---

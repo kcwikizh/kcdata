@@ -30,6 +30,57 @@ data:
     sakb: 0
     luck: 0
     leng: 2
-  remodel_slot_id: 50
+  improvement: 
+    -
+      consume:
+        resource: [10, 100, 130, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [2, 4]
+            -
+              id: 4
+              amount: [2, 4]
+        slotitem:
+          - 
+          -
+            id: 90
+            amount: 1
+      upgrade:
+        id: 50
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [4, 8]
+            -
+              id: 4
+              amount: [4, 11]
+          slotitem:
+            id: 90
+            amount: 1
+      day:
+        -
+          -
+            ship_id: 62
+        -
+          -
+            ship_id: 62
+        -
+          -
+            ship_id: 62
+        - false
+        - false
+        - false
+        - false
   chinese_name: 20.3cm(2号)连装炮
 ---

@@ -30,6 +30,54 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [10, 0, 100, 80]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [10, 15]
+            -
+              id: 4
+              amount: [5, 6]
+          -
+            -
+              id: 3
+              amount: [14, 18]
+            -
+              id: 4
+              amount: [7, 10]
+        slotitem:
+          -
+            id: 28
+            amount: 3
+          -
+            id: 31
+            amount: 1
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 77
+        -
+          -
+            ship_id: 77
+        -
+          -
+            ship_id: 77
+        -
+          -
+            ship_id: 87
+        -
+          -
+            ship_id: 87
+        -
+          -
+            ship_id: 87
+        -
+          -
+            ship_id: 87
   chinese_name: 32号对水上电探改
 ---

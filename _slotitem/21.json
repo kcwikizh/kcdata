@@ -30,6 +30,52 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [120, 120, 0, 280]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [5, 8]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          -
+            id: 21
+            amount: 1
+          -
+            id: 21
+            amount: 2
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 111
+        -
+          -
+            ship_id: 111
+        - false
+        -
+          -
+            ship_id: 111
+        -
+          -
+            ship_id: 110
+        -
+          -
+            ship_id: 110
+        -
+          -
+            ship_id: 110
   chinese_name: 零式舰战52型
 ---

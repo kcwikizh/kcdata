@@ -30,6 +30,52 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [0, 90, 90, 150]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [3, 5]
+          -
+            -
+              id: 3
+              amount: [6, 9]
+            -
+              id: 4
+              amount: [6, 9]
+        slotitem:
+          -
+            id: 40
+            amount: 3
+          -
+            id: 40
+            amount: 5
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 487
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 428
+        -
+          -
+            ship_id: 428
+          -
+            ship_id: 487
+        -
+          -
+            ship_id: 428
+          -
+            ship_id: 487
   chinese_name: 25mm三连装机铳 集中配备
 ---

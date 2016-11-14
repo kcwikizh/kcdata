@@ -30,6 +30,42 @@ data:
     sakb: 0
     luck: 0
     leng: 0
-  remodel_slot_id: 
+  improvement: 
+    -
+      consume:
+        resource: [10, 80, 20, 30]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 3]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [2, 4]
+        slotitem:
+          - 
+          -
+            id: 45
+            amount: 1
+      upgrade:
+      day:
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 141
+        -
+          -
+            ship_id: 141
+        - false
+        - false
   chinese_name: 三式爆雷投射机
 ---

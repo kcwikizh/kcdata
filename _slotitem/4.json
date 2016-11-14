@@ -30,6 +30,51 @@ data:
     sakb: 0
     luck: 0
     leng: 2
-  remodel_slot_id: 119
+  improvement: 
+    -
+      consume:
+        resource: [10, 50, 80, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 2]
+        slotitem:
+          - 
+          -
+            id: 4
+            amount: 1
+      upgrade:
+        id: 119
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [3, 6]
+          slotitem:
+            id: 4
+            amount: 2
+      day:
+        - true
+        - true
+        - true
+        - true
+        - true
+        - true
+        - true
   chinese_name: 14cm单装炮
 ---
