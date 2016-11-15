@@ -1,0 +1,1 @@
+{% capture qid %}/equiptype/{{ include.id[2] }}{% endcapture %}{% assign result = site.equiptype | where: "id", qid | first %}{% if include.result == "name" %}{{ result.data.name }}{% endif %}

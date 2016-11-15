@@ -1,0 +1,97 @@
+---
+---
+{% assign array = "" | split: "|" %}{% for slotitem in site.slotitem %}{% if slotitem.data.improvement %}{% capture str %}{
+    "id": {{ slotitem.data.id }},
+    "type": "{% include helper/equiptype_finder.md id=slotitem.data.type result="name" %}",
+    "icon": {{ slotitem.data.type[3] }},
+    "name": "{{ slotitem.data.name }}",
+    "improvement": [{% for improve in slotitem.data.improvement %}
+      {
+        "upgrade": {% if improve.upgrade %}{
+          "level": {{ improve.upgrade.level }},
+          "name": "{% include helper/slotitem_finder.md id=improve.upgrade.id result="name" %}",
+          "icon": {% include helper/slotitem_finder.md id=improve.upgrade.id result="type[3]" %}
+        }{% else %}false{% endif %},
+        "req": [{% capture improve_group %}{% include poi_improve/translate_day.md data=improve.day %}{% endcapture %}{% capture improve_group %}{% include poi_improve/group_day.md data=improve_group %}{% endcapture %}{% assign improve_group = improve_group | split: ";" %}{% for group in improve_group %}{% assign str = group | split: ":" %}
+          {
+            "day": [{% assign days = str[0] | split: "" %}{% for day in days %}
+              {% if day == "1" %}true{% else %}false{% endif %}{% unless forloop.last %},{% endunless %}{% endfor %}
+            ],
+            "secretary": [{% assign ships = str[1] | split: "," %}{% for ship in ships %}
+              "{% if ship == "0" %}None{% else %}{% include helper/ship_finder.md id=ship result="name" %}{%endif%}"{% unless forloop.last %},{% endunless %}{% endfor %}
+            ]
+          }{% unless forloop.last %},{% endunless %}{% endfor %}
+        ],
+        "consume": {
+          "fuel": {{ improve.consume.resource[0] }},
+          "ammo": {{ improve.consume.resource[1] }},
+          "steel": {{ improve.consume.resource[2] }},
+          "bauxite": {{ improve.consume.resource[3] }},
+          "material": [
+            {
+              "development": [
+                {{ improve.consume.useitem[0][0].amount[0] }},
+                {{ improve.consume.useitem[0][0].amount[1] }}
+              ],
+              "improvement": [
+                {{ improve.consume.useitem[0][1].amount[0] }},
+                {{ improve.consume.useitem[0][1].amount[1] }}
+              ],
+              "item": {
+                "icon": {% if improve.consume.slotitem[0] %}{% capture qid %}{{ improve.consume.slotitem[0].id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="type[3]" %}{% else %}0{% endif %},
+                "name": "{% if improve.consume.slotitem[0] %}{% capture qid %}{{ improve.consume.slotitem[0].id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="name" %}{% endif %}",
+                "count": {% if improve.consume.slotitem[0] %}{{ improve.consume.slotitem[0].amount }}{% else %}0{% endif %}
+              }
+            },
+            {
+              "development": [
+                {{ improve.consume.useitem[1][0].amount[0] }},
+                {{ improve.consume.useitem[1][0].amount[1] }}
+              ],
+              "improvement": [
+                {{ improve.consume.useitem[1][1].amount[0] }},
+                {{ improve.consume.useitem[1][1].amount[1] }}
+              ],
+              "item": {
+                "icon": {% if improve.consume.slotitem[1] %}{% capture qid %}{{ improve.consume.slotitem[1].id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="type[3]" %}{% else %}0{% endif %},
+                "name": "{% if improve.consume.slotitem[1] %}{% capture qid %}{{ improve.consume.slotitem[1].id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="name" %}{% endif %}",
+                "count": {% if improve.consume.slotitem[1] %}{{ improve.consume.slotitem[1].amount }}{% else %}0{% endif %}
+              }
+            },
+            {% if improve.upgrade %}{
+              "development": [
+                {{ improve.upgrade.consume.useitem[0].amount[0] }},
+                {{ improve.upgrade.consume.useitem[0].amount[1] }}
+              ],
+              "improvement": [
+                {{ improve.upgrade.consume.useitem[1].amount[0] }},
+                {{ improve.upgrade.consume.useitem[1].amount[1] }}
+              ],
+              "item": {
+                "icon": {% if improve.upgrade.consume.slotitem %}{% capture qid %}{{ improve.upgrade.consume.slotitem.id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="type[3]" %}{% else %}0{% endif %},
+                "name": "{% if improve.upgrade.consume.slotitem %}{% capture qid %}{{ improve.upgrade.consume.slotitem.id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="name" %}{% endif %}",
+                "count": {% if improve.upgrade.consume.slotitem %}{{ improve.upgrade.consume.slotitem.amount }}{% else %}0{% endif %}
+              }
+            }{% else %}{
+              "development": [
+                0,
+                0
+              ],
+              "improvement": [
+                0,
+                0
+              ],
+              "item": {
+                "icon": 0,
+                "name": "",
+                "count": 0
+              }
+            }{% endif %}
+          ]
+        }
+      }{% unless forloop.last %},
+      {% endunless %}{% endfor %}
+    ]
+  }{% endcapture %}{% assign array = array | push: str %}{% endif %}{% endfor %}[{% for str in array %}
+  {{ str }}{% unless forloop.last %},{% endunless %}{% endfor %}
+]

@@ -1,0 +1,1 @@
+{% capture qid %}/slotitem/{{ include.id }}{% endcapture %}{% assign result = site.slotitem | where: "id", qid | first %}{% if include.result == "name" %}{{ result.data.name }}{% endif %}{% if include.result == "type[3]" %}{{ result.data.type[3] }}{% endif %}

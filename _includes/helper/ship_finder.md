@@ -1,0 +1,1 @@
+{% capture qid %}/ship/{{ include.id }}{% endcapture %}{% assign result = site.ship | where: "id", qid | first %}{% if include.result == "name" %}{{ result.data.name }}{% endif %}
