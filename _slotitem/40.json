@@ -1,5 +1,6 @@
 ---
 layout: json
+order: 40
 data:
   id: 40
   sort_no: 40

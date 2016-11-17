@@ -1,6 +1,6 @@
 ---
 ---
 [
-  {% for slotitem in site.slotitem %}{{ slotitem.data | jsonify }}{% unless forloop.last %},
+  {% assign slotitems = site.slotitem | sort: "order" %}{% for slotitem in slotitems %}{{ slotitem.data | jsonify }}{% unless forloop.last %},
   {% endunless %}{% endfor %}
 ]

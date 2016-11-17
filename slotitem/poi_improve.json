@@ -1,6 +1,6 @@
 ---
 ---
-{% assign array = "" | split: "|" %}{% for slotitem in site.slotitem %}{% if slotitem.data.improvement %}{% capture str %}{
+{% assign array = "" | split: "|" %}{% assign slotitems = site.slotitem | sort: "order" %}{% for slotitem in slotitems | sort: "order" %}{% if slotitem.data.improvement %}{% capture str %}{
     "id": {{ slotitem.data.id }},
     "type": "{% include helper/equiptype_finder.md id=slotitem.data.type result="name" %}",
     "icon": {{ slotitem.data.type[3] }},
