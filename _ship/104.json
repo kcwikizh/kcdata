@@ -14,7 +14,7 @@ data:
   get_mes: ダイエットして空母になった千歳です！<br>足も速くなったの。本でも出そうかしら！
   voice_f: 1
   filename: wvkpfygaipjq
-  file_version: ["13", "10", "1021"]
+  file_version: ["14", "10", "1"]
   book_table_id: [104]
   book_sinfo: 水上機母艦千歳です。<br>水上機を沢山運用できる優れものですが、給油艦として重油を他の艦に補給もできちゃうの。後期には、航空母艦に改装され、第一線で戦ったのよ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 2, 2]
     build_time: 150
   graph:
-    boko_n: [88, 148]
-    boko_d: [92, 148]
+    boko_n: [41, 104]
+    boko_d: [-7, 120]
     kaisyu_n: [19, 15]
     kaisyu_d: [28, 7]
-    kaizo_n: [48, 96]
-    kaizo_d: [-40, 60]
-    map_n: [56, 124]
-    map_d: [56, 128]
-    ensyuf_n: [56, 128]
-    ensyuf_d: [48, 128]
-    ensyue_n: [48, 0]
-    battle_n: [64, 140]
-    battle_d: [32, 144]
-    wed_a: [148, -8]
-    wed_b: [128, 112]
+    kaizo_n: [-14, 49]
+    kaizo_d: [-86, 2]
+    map_n: [-29, 104]
+    map_d: [-103, 110]
+    ensyuf_n: [-15, 85]
+    ensyuf_d: [-80, 50]
+    ensyue_n: [-15, 0]
+    battle_n: [-24, 80]
+    battle_d: [-91, 82]
+    wed_a: [217, 36]
+    wed_b: [110, 118]
   wiki_id: "095"
   chinese_name: 千岁改
 ---

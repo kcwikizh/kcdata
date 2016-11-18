@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 457
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 257
+  name: 山風
+  yomi: やまかぜ
+  stype: 2
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
+  backs: 4
+  after_lv: 45
+  after_ship_id: 369
+  get_mes: あたし…白露型駆逐艦……その八番艦。山雲。<br>いいよ……。別に。
+  voice_f: 1
   filename: tvieoobotato
   file_version: ["1", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [16, 32]
+    souk: [6, 19]
+    houg: [11, 31]
+    raig: [24, 69]
+    tyku: [8, 38]
+    luck: [6, 39]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 100
+    after_bull: 180
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 22
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [74, 118]
+    boko_d: [60, 180]
+    kaisyu_n: [8, -18]
+    kaisyu_d: [24, 0]
+    kaizo_n: [40, 40]
+    kaizo_d: [20, 76]
+    map_n: [56, 92]
+    map_d: [48, 144]
+    ensyuf_n: [36, 100]
+    ensyuf_d: [48, 136]
+    ensyue_n: [36, 0]
+    battle_n: [64, 104]
+    battle_d: [64, 172]
+    wed_a: [172, 32]
+    wed_b: [100, 120]
+  wiki_id: "257"
+  chinese_name: 山风
 ---

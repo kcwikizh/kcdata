@@ -14,7 +14,7 @@ data:
   get_mes: Buon Giornov～。<br>ザラ級重巡三番艦～ポーラです～。<br>提督と一緒に～何にでも挑戦中です～。頑張ります～。
   voice_f: 3
   filename: btfmqyxunhkj
-  file_version: ["1", "1", "1104"]
+  file_version: ["2", "1", "1104"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 1, 2]
     build_time: 70
   graph:
-    boko_n: [88, 144]
-    boko_d: [72, 160]
+    boko_n: [148, 136]
+    boko_d: [100, 152]
     kaisyu_n: [48, -12]
     kaisyu_d: [32, -12]
-    kaizo_n: [56, 100]
-    kaizo_d: [28, 92]
-    map_n: [72, 120]
-    map_d: [20, 124]
-    ensyuf_n: [72, 120]
-    ensyuf_d: [16, 128]
-    ensyue_n: [56, 0]
-    battle_n: [108, 132]
-    battle_d: [48, 140]
-    wed_a: [112, 0]
-    wed_b: [96, 124]
+    kaizo_n: [132, 76]
+    kaizo_d: [48, 72]
+    map_n: [144, 112]
+    map_d: [96, 116]
+    ensyuf_n: [136, 112]
+    ensyuf_d: [80, 126]
+    ensyue_n: [128, 0]
+    battle_n: [156, 120]
+    battle_d: [88, 132]
+    wed_a: [76, -8]
+    wed_b: [100, 132]
   wiki_id: "249a"
   chinese_name: 波拉改
 ---

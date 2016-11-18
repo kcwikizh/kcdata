@@ -10,8 +10,8 @@ data:
   broken: [0, 0, 0, 0]
   info: 
   usebull: 0
-  cost: 6
-  distance: 3
+  cost: 5
+  distance: 4
   stats:
     taik: 0
     souk: 2

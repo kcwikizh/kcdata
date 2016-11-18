@@ -14,7 +14,7 @@ data:
   get_mes: 空母になった千代田です。<br>ぜひ、千歳お姉と一緒に機動部隊を編制してね！
   voice_f: 3
   filename: agybvcshxbpm
-  file_version: ["15", "12", "1021"]
+  file_version: ["16", "12", "1"]
   book_table_id: [107]
   book_sinfo: 水上機母艦として建造された千歳型２番艦、千代田です。甲標的母艦としても運用できるようになっているのよ。千歳お姉と一緒に頑張りますね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 2]
     build_time: 160
   graph:
-    boko_n: [192, 148]
-    boko_d: [172, 176]
+    boko_n: [27, 74]
+    boko_d: [8, 49]
     kaisyu_n: [14, 10]
     kaisyu_d: [28, 7]
-    kaizo_n: [144, 88]
-    kaizo_d: [96, 80]
-    map_n: [128, 128]
-    map_d: [96, 144]
-    ensyuf_n: [152, 132]
-    ensyuf_d: [104, 132]
-    ensyue_n: [144, 0]
-    battle_n: [144, 136]
-    battle_d: [128, 152]
-    wed_a: [68, -8]
-    wed_b: [128, 112]
+    kaizo_n: [-28, 19]
+    kaizo_d: [-63, -63]
+    map_n: [-23, 65]
+    map_d: [-88, 39]
+    ensyuf_n: [42, 42]
+    ensyuf_d: [-48, -10]
+    ensyue_n: [42, 0]
+    battle_n: [-35, 38]
+    battle_d: [-58, 18]
+    wed_a: [225, 80]
+    wed_b: [95, 111]
   wiki_id: "100"
   chinese_name: 千代田甲
 ---

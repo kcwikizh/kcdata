@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 316
+  type: 5
+  no: 67
+  title: 提督文机
+  description: 落ち着いた気持ちで作戦指<br>揮を執りたい提督のために<br>職人が心を込めて作りあげ<br>た提督文机です。お茶と座<br>布団もご用意しました。
+  rarity: 4
+  price: 4000
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

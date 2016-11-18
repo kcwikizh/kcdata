@@ -14,7 +14,7 @@ data:
   get_mes: ごきげんよう、三隈です。<br>最上さんはどこにいらっしゃるのかしら？
   voice_f: 3
   filename: oqqerytyeisg
-  file_version: ["5", "3", "1104"]
+  file_version: ["5", "3", "1"]
   book_table_id: [120, 882]
   book_sinfo: 最上型１番艦のモガミンとは、とっても仲がいいのだけれど、仲が良すぎて彼女とは衝突することも多いの…ええ、そう…物理的に…私はちゃんと前見てるのよ？
   stats:

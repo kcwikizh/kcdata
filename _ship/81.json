@@ -14,7 +14,7 @@ data:
   get_mes: 長門型戦艦２番艦の陸奥よ。よろしくね。<br>あまり火遊びはしないでね…お願いよ。
   voice_f: 0
   filename: jkjqeleyhbus
-  file_version: ["11", "9", "1104"]
+  file_version: ["11", "9", "1"]
   book_table_id: [81, 845]
   book_sinfo: 長門型戦艦の２番艦として生まれた陸奥よ。<br>もちろん、世界のビッグ７の一艦になるわね。<br>え？主砲火薬庫爆発事故？<br>まあ、隠してもしょうがないわね。今度は大丈夫よ！
   stats:

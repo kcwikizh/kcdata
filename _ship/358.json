@@ -14,7 +14,7 @@ data:
   get_mes: Buon Giornov！ ザラ級重巡、一番艦ザラです！<br>粘り強さが信条です。提督、よろしくね！
   voice_f: 3
   filename: waviopoxryme
-  file_version: ["4", "2", "1104"]
+  file_version: ["4", "2", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

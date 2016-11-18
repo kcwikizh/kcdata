@@ -4,10 +4,10 @@ data:
   id: 30
   type: 0
   no: 29
-  title: 黄緑の床
-  description: 草原を思わせるような明るい黄緑の床。
-  rarity: 0
-  price: 0
+  title: 艦娘座布団の床
+  description: 提督室の床板もちょこっと<br>座布団を置くだけで居住性<br>は格段に向上！提督が艦娘<br>のために用意した、小さい<br>けれど特別な座布団です。
+  rarity: 2
+  price: 880
   saleflg: 0
   season: 0
   filename: 

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 317
+  type: 5
+  no: 68
+  title: 鎮守府囲炉裏
+  description: 寒くなってきたら囲炉裏が<br>が恋しくなりませんか？<br>炭のナチュラルな暖かさが<br>提督室を優しく包み込みま<br>す。換気には気をつけて！
+  rarity: 5
+  price: 170000
+  saleflg: 1
+  season: 0
+  filename: "069"
+  file_version: "1"
+---

@@ -14,7 +14,7 @@ data:
   get_mes: 綾波型駆逐艦「漣」です、ご主人さま。<br>こう書いてさざなみと読みます。
   voice_f: 1
   filename: xfxhmadcxfdq
-  file_version: ["19", "19", "1104"]
+  file_version: ["19", "19", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

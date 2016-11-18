@@ -14,7 +14,7 @@ data:
   get_mes: 貴様が司令官か。<br>私は那智。よろしくお願いする。
   voice_f: 0
   filename: wnkageqzigwd
-  file_version: ["14", "14", "1104"]
+  file_version: ["14", "14", "1"]
   book_table_id: [63]
   book_sinfo: 生れは呉海軍工廠。妙高型重巡２番艦の私は、上海事変にも警備出動したぞ。<br>太平洋戦線では第五艦隊の旗艦として、暴れまわったさ。<br>敵艦載機？　ああ、あれは少し苦手だな。
   stats:

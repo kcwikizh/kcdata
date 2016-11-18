@@ -14,7 +14,7 @@ data:
   get_mes: あなたが司令官ですね。三日月です。<br>どうぞお手柔らかにお願いします。
   voice_f: 1
   filename: sxrrihbkdkjl
-  file_version: ["11", "11", "1104"]
+  file_version: ["11", "11", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
