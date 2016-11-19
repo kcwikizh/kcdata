@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: Bonjour！<br>Enchanté　 Je m’appelle Commandant Teste<br>Amiral、どうぞよろしくお願い致します。
+  get_mes: Bonjour！<br>Enchantée　 Je m’appelle Commandant Teste<br>提督、どうぞよろしくお願い致します。
   voice_f: 3
   filename: wgyatqtsrghn
   file_version: ["1", "1", "1"]
@@ -54,5 +54,5 @@ data:
     wed_a: [220, -4]
     wed_b: [92, 112]
   wiki_id: "291a"
-  chinese_name: "塔斯特司令官改"
+  chinese_name: 塔斯特司令官改
 ---

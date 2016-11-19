@@ -1,0 +1,36 @@
+---
+layout: json
+order: 196
+data:
+  id: 196
+  sort_no: 196
+  name: TBD
+  type: [3, 5, 8, 8, 14]
+  rare: 2
+  broken: [1, 4, 0, 3]
+  info: 九七艦攻のライバルともいえる艦上攻撃機です。<br>速度が遅く、大戦初期の機体で激戦の中でも陳腐化しつつありましたが、その必死の戦いは大きな戦いの勝機をもたらしました。
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 5
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 4
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: TBD
+---

@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 438
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 238
+  name: Saratoga改
+  yomi: サラトガ
+  stype: 11
   ctype: 
   cnum: 
-  backs: 
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
+  get_mes: Hello！　航空母艦、Saratogaです。<br>提督、サラとお呼びくださいね。よろしくお願い致します。
+  voice_f: 3
   filename: wmebertagnxm
-  file_version: ["1", "1", "1"]
+  file_version: ["2", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [88, 98]
+    souk: [48, 83]
+    houg: [0, 53]
+    raig: [0, 0]
+    tyku: [52, 93]
+    luck: [35, 85]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
+    slot_num: 4
+    max_eq: [36, 18, 18, 18, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 85
+    bull_max: 90
+    broken: [12, 18, 50, 18]
+    pow_up: [0, 0, 5, 6]
+    build_time: 330
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [40, 40]
+    boko_d: [60, 168]
+    kaisyu_n: [24, -28]
+    kaisyu_d: [12, -6]
+    kaizo_n: [-12, -16]
+    kaizo_d: [4, 80]
+    map_n: [40, 40]
+    map_d: [28, 148]
+    ensyuf_n: [8, 36]
+    ensyuf_d: [32, 128]
+    ensyue_n: [-20, 0]
+    battle_n: [32, 44]
+    battle_d: [16, 148]
+    wed_a: [236, 100]
+    wed_b: [88, 96]
+  wiki_id: "238"
+  chinese_name: 萨拉托加改
 ---

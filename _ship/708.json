@@ -14,7 +14,7 @@ data:
   get_mes: 
   voice_f: 
   filename: wakhgkznssbr
-  file_version: ["1", "1", "1"]
+  file_version: ["2", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -53,6 +53,6 @@ data:
     battle_d: [-420, 92]
     wed_a: [0, 0]
     wed_b: [0, 0]
-  wiki_id:
-  chinese_name:
+  wiki_id: 
+  chinese_name: 
 ---

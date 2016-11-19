@@ -1,0 +1,36 @@
+---
+layout: json
+order: 194
+data:
+  id: 194
+  sort_no: 194
+  name: Laté 298B
+  type: [5, 7, 11, 10, 2]
+  rare: 3
+  broken: [2, 4, 0, 5]
+  info: トリコロールの国で開発された水上攻撃機です。<br>日本海軍ではあまり研究されなかった、水上雷撃機としての運用を狙った機体でもあります。本機は同機の水上機母艦艦載機バージョンで、索敵や爆装攻撃を含むマルチロールが期待されていました。
+  usebull: 0
+  cost: 7
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 4
+    soku: 0
+    baku: 5
+    tyku: 1
+    tais: 2
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: Laté 298B
+---

@@ -10,7 +10,7 @@ data:
   broken: [0, 0, 0, 0]
   info: 
   usebull: 0
-  cost: 5
+  cost: 6
   distance: 4
   stats:
     taik: 0
@@ -32,5 +32,5 @@ data:
     luck: 0
     leng: 0
   improvement: 
-  chinese_name:
+  chinese_name: 
 ---

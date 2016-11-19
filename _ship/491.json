@@ -6,17 +6,17 @@ data:
   name: Commandant Teste
   yomi: コマンダン・テスト
   stype: 16
-  ctype: 
-  cnum: 
+  ctype: 70
+  cnum: 1
   backs: 6
   after_lv: 40
   after_ship_id: 372
-  get_mes: Bonjour！<br>Enchanté　 Je m’appelle Commandant Teste<br>Amiral、どうぞよろしくお願い致します。
+  get_mes: Bonjour！<br>Enchantée　 Je m’appelle Commandant Teste<br>提督、どうぞよろしくお願い致します。
   voice_f: 1
   filename: ighfxhygboim
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [491]
+  book_sinfo: 自由・平等・博愛の国からまいりました、水上機母艦Commandant Testeです。<br>充実の搭載機数と水上機の補修も可能な本格的な水上機母艦として生まれました。巡洋艦並の火力もいいでしょう？<br>え、実戦での活躍ですか？ C’est la vie！
   stats:
     taik: [42, 63]
     souk: [24, 50]
@@ -26,8 +26,8 @@ data:
     luck: [17, 79]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 20
+    tais: 0
     slot_num: 3
     max_eq: [12, 7, 7, 0, 0]
     after_fuel: 200
@@ -54,5 +54,5 @@ data:
     wed_a: [220, -4]
     wed_b: [92, 112]
   wiki_id: "291"
-  chinese_name: "塔斯特司令官"
+  chinese_name: 塔斯特司令官
 ---
