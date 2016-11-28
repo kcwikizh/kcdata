@@ -1,0 +1,4 @@
+---
+---
+{% for ship in site.ship %}{% if ship.data.sort_no > 0 %}{% if ship.data.sort_no < 500 %}api_index_no:{{ ship.data.sort_no }},api_kaih:{{ ship.data.stats.kaih }},api_tais:{{ ship.data.stats.tais }},api_sinfo:"{{ ship.data.book_sinfo }}"
+{% endif %}{% endif %}{% endfor %}
