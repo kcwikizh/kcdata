@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 826
+  category: 8
+  type: 4
+  title: 「第十九駆逐隊」出撃せよ！
+  detail: 特型駆逐艦4隻による「第十九駆逐隊」を鎮守府近海に展開！<br>鎮守府正面対潜哨戒を実施し、跳梁する敵潜部隊の制圧に努めよ！
+  reward: [300, 300, 300, 0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 3
+    -
+      category: useitem
+      id: 59
+      amount: 1
+  prerequisite: [177]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 15
+      boss: true
+      result: A
+    -
+      category: fleet
+      amount:
+        gte: 4
+      ship_id: [12, 486, 13, 14]
+  wiki_id: B78
+  chinese_title: “第十九驱逐队”出击！
+  chinese_detail: 以四支特型驱逐舰组成的“第十九驱逐队”出击镇守府近海，实施1-5，压制猖獗的敌潜水部队！
+---

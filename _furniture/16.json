@@ -4,12 +4,12 @@ data:
   id: 16
   type: 0
   no: 15
-  title: モダンな床
-  description: ブロックチェックがモダンで都会的な高級感を演出。
-  rarity: 0
-  price: 0
-  saleflg: 0
-  season: 0
+  title: 雪模様の特製絨毯
+  description: 選び抜かれた高級な素材を<br>ふんだんに使用して、職人<br>が作り上げた雪模様の特製<br>絨毯です。白が似合う艦娘<br>達にも大好評の逸品です。
+  rarity: 4
+  price: 2000
+  saleflg: 1
+  season: 25
   filename: 
   file_version: 
 ---

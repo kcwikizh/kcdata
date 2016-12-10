@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 827
+  category: 8
+  type: 4
+  title: 「第十九駆逐隊」敵主力に突入せよ！
+  detail: 「第十九駆逐隊」を含む有力な艦隊を編成し、南西諸島海域沖ノ島沖に展開！<br>同方面に遊弋する敵主力を捕捉、これを撃破せよ！
+  reward: [600, 600, 0, 300]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 4
+    -
+      category: useitem
+      id: 67
+      amount: 1
+  prerequisite: [826]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 25
+      boss: true
+      result: A
+    -
+      category: fleet
+      amount:
+        gte: 4
+      ship_id: [12, 486, 13, 14]
+  wiki_id: B79
+  chinese_title: “第十九驱逐队”突入敌方主力！
+  chinese_detail: 编成并出击包含“第十九驱逐队”的有力舰队，捕获并击破位于冲之岛近海(2-5)的敌主力舰队。
+---

@@ -14,7 +14,7 @@ data:
   get_mes: 駆逐艦、大潮です～！<br>小さな体に大きな魚雷！　お任せください。
   voice_f: 1
   filename: ngcxxfxovpmn
-  file_version: ["12", "11", "1"]
+  file_version: ["12", "11", "1209"]
   book_table_id: 
   book_sinfo: 
   stats:

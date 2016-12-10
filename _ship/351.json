@@ -14,7 +14,7 @@ data:
   get_mes: 白露型駆逐艦九番艦、<br>改白露型の江風だよ。よろしくな！<br>あ、読み方、間違えンなよ。
   voice_f: 3
   filename: litugbpkilsf
-  file_version: ["13", "11", "1"]
+  file_version: ["14", "11", "1209"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [48, 144]
-    boko_d: [96, 80]
+    boko_n: [84, 136]
+    boko_d: [68, 72]
     kaisyu_n: [24, -8]
     kaisyu_d: [40, -12]
-    kaizo_n: [0, 80]
-    kaizo_d: [40, 0]
-    map_n: [32, 136]
-    map_d: [64, 48]
-    ensyuf_n: [48, 128]
-    ensyuf_d: [72, 40]
-    ensyue_n: [16, 0]
-    battle_n: [48, 128]
-    battle_d: [72, 64]
-    wed_a: [200, -4]
-    wed_b: [128, 120]
+    kaizo_n: [8, 64]
+    kaizo_d: [0, 8]
+    map_n: [16, 128]
+    map_d: [8, 48]
+    ensyuf_n: [20, 128]
+    ensyuf_d: [0, 48]
+    ensyue_n: [12, 0]
+    battle_n: [32, 136]
+    battle_d: [16, 64]
+    wed_a: [200, 4]
+    wed_b: [116, 128]
   wiki_id: "259a"
   chinese_name: 江风改
 ---

@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 830
+  category: 8
+  type: 4
+  title: 夜の海を照らす「灯り」を入手せよ！
+  detail: 有力な艦隊をカムラン半島に投入、同方面に出没する敵艦隊を捕捉、これを撃滅せよ！<br>そして、夜を照らす「灯り」を入手せよ！　ある季節は夜戦以外にも使い道があるようだ！
+  reward: [100, 100, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 66
+      amount: 1
+    -
+      category: slotitem
+      id: 74
+      amount: 1
+  prerequisite: [216]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 21
+      boss: true
+      result: S
+  wiki_id: B82
+  chinese_title: 获取照亮夜晚的大海的「灯火」吧！
+  chinese_detail: 向カムラン半岛投入有力舰队，同时捕捉出没的敌军舰队，歼灭他们！然后入手照亮夜晚的“灯”！有的季节在夜战以外也能派上用场的样子！
+---

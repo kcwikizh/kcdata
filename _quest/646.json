@@ -1,0 +1,36 @@
+---
+layout: json
+data:
+  id: 646
+  category: 4
+  type: 6
+  title: 「特注家具」の調達
+  detail: 「25mm単装機銃」一つを廃棄、家具コイン5,000と「25mm連装機銃」及び「25mm三連装機銃」を各<br>二つ準備せよ！　※任務達成後、用意した家具コイン及び必要装備(改修値の低いもの優先)は消滅します。
+  reward: [0, 0, 0, 100]
+  reward2:
+    -
+      category: useitem
+      id: 52
+      amount: 1
+  prerequisite: [296, 302]
+  requirements:
+    -
+      category: scrap
+      amount: 1
+      slotitem_id: 49
+    -
+      category: useitem
+      amount: 5000
+      useitem_id: 44
+    -
+      category: possess
+      amount: 2
+      slotitem_id: 30
+    -
+      category: possess
+      amount: 2
+      slotitem_id: 40
+  wiki_id: F42
+  chinese_title: “特注家具”的调拨
+  chinese_detail: 废弃25mm单装机铳一个，并准备家具币5000、以及25mm连装机铳和25mm三连装机铳各两个！ ※在任务达成后，准备的资源和装备将被消耗（改修值低的装备将优先被消耗）。
+---

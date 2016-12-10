@@ -1,0 +1,36 @@
+---
+layout: json
+order: 200
+data:
+  id: 200
+  sort_no: 200
+  name: 橘花改
+  type: [3, 40, 57, 40, 23]
+  rare: 5
+  broken: [6, 4, 10, 14]
+  info: 潜水艦派遣作戦によりもたらされた海外で実用化されたターボジェット戦闘機の一部の設計図などを参考に開発された国産ジェット戦闘攻撃機です。本機「橘花改」は、爆装及び機首に30mm機銃を2門装備した戦闘爆撃機型として戦力化を図ります。※基地航空隊及び装甲甲板＆甲板カタパルトを装備する一部正規空母のみ運用可能です。運用時には鋼材を消費します。
+  usebull: 0
+  cost: 13
+  distance: 2
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 11
+    tyku: 12
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  improvement: 
+  chinese_name: 橘花改
+---

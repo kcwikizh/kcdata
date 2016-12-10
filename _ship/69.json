@@ -14,7 +14,7 @@ data:
   get_mes: 私が鳥海です。よろしくです。
   voice_f: 0
   filename: qmmdyeprdqsu
-  file_version: ["18", "18", "1"]
+  file_version: ["18", "18", "1209"]
   book_table_id: [69]
   book_sinfo: 高雄型の４番艦、鳥海です。<br>マレー、ソロモン、マリアナ、レイテと数々の作戦に参加しました。<br>鳥海の名は、現在、海自のイージス護衛艦、その４番艦に受け継がれています。
   stats:

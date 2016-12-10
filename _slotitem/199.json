@@ -4,33 +4,33 @@ order: 199
 data:
   id: 199
   sort_no: 199
-  name: SB2U
-  type: [3, 5, 7, 7, 15]
-  rare: 3
-  broken: [1, 0, 0, 0]
-  info: ※
+  name: 噴式景雲改
+  type: [3, 40, 57, 39, 22]
+  rare: 5
+  broken: [7, 5, 12, 16]
+  info: 空技廠が開発した最新鋭の高々度試作偵察機「景雲」。新機軸を盛り込んだユニークかつ大型の試作偵察機「景雲」にターボジェット「ネ式エンジン」を搭載、噴式戦闘爆撃機化したのが本機「噴式景雲改」です。※基地航空隊及び装甲甲板＆甲板カタパルトを装備する一部正規空母のみ運用可能です。運用時には鋼材を消費します。
   usebull: 0
-  cost: 5
-  distance: 4
+  cost: 14
+  distance: 3
   stats:
     taik: 0
     souk: 0
     houg: 0
     raig: 0
     soku: 0
-    baku: 0
-    tyku: 0
+    baku: 15
+    tyku: 6
     tais: 0
     atap: 0
-    houm: 0
+    houm: 1
     raim: 0
     houk: 0
     raik: 0
     bakk: 0
-    saku: 0
+    saku: 3
     sakb: 0
     luck: 0
-    leng: 0
+    leng: 3
   improvement: 
-  chinese_name:
+  chinese_name: 喷式景云改
 ---

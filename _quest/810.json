@@ -23,7 +23,7 @@ data:
       times: 3
       map: 13
       boss: true
-      result: B
+      result: S
     -
       category: fleet
       amount: 1

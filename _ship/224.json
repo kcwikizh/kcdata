@@ -14,7 +14,7 @@ data:
   get_mes: 艦隊のアイドル、那珂（なか）ちゃんだよー！<br>よっろしくぅ！
   voice_f: 1
   filename: vxkcklmfevkk
-  file_version: ["11", "12", "1"]
+  file_version: ["12", "12", "1209"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [41, 68]
-    boko_d: [24, 71]
+    boko_n: [44, 96]
+    boko_d: [72, 120]
     kaisyu_n: [9, 28]
     kaisyu_d: [28, 7]
-    kaizo_n: [28, 17]
-    kaizo_d: [25, -33]
+    kaizo_n: [28, 44]
+    kaizo_d: [80, 64]
     map_n: [20, 61]
-    map_d: [-29, 49]
-    ensyuf_n: [64, 64]
-    ensyuf_d: [13, 16]
+    map_d: [96, 72]
+    ensyuf_n: [72, 74]
+    ensyuf_d: [80, 24]
     ensyue_n: [72, 0]
-    battle_n: [6, 42]
-    battle_d: [18, 31]
-    wed_a: [186, 73]
-    wed_b: [92, 109]
+    battle_n: [64, 80]
+    battle_d: [80, 72]
+    wed_a: [143, 65]
+    wed_b: [94, 117]
   wiki_id: "048a"
   chinese_name: 那珂改
 ---

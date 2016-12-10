@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 829
+  category: 8
+  type: 4
+  title: 夜間突入！敵上陸部隊を叩け！
+  detail: 南方サブ島沖海域へ精鋭艦隊を突入！敵艦隊の邀撃を突破し、同方面の敵上陸部隊を叩け！
+  reward: [0, 0, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 73
+      amount: 1
+  prerequisite: [809]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 53
+      boss: true
+      result: A
+  wiki_id: B81
+  chinese_title: 夜间突入！击溃敌军登陆部队！
+  chinese_detail: 用精锐部队突入南方サブ岛冲海域！突破敌人的迎击，同时击溃敌军登陆部队!
+---

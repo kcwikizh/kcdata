@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 841
+  sort_no: 0
+  name: Xmas漣改
+  yomi: さざなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: lsxmdfvwuvnj
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [168, 120]
+    boko_d: [160, 120]
+    kaisyu_n: [0, -20]
+    kaisyu_d: [44, -8]
+    kaizo_n: [152, 56]
+    kaizo_d: [136, 56]
+    map_n: [156, 96]
+    map_d: [148, 100]
+    ensyuf_n: [164, 104]
+    ensyuf_d: [152, 100]
+    ensyue_n: [144, 0]
+    battle_n: [178, 112]
+    battle_d: [168, 116]
+    wed_a: [60, 12]
+    wed_b: [84, 128]
+  wiki_id:
+  chinese_name:
+---

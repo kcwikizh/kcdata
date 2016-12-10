@@ -14,7 +14,7 @@ data:
   get_mes: よお！　夕雲型駆逐艦、十六番艦の朝霜、いつでも出撃できんぜ。<br>まだまだ、暴れよう…な、司令！
   voice_f: 1
   filename: jozbiyweyksl
-  file_version: ["14", "12", "1"]
+  file_version: ["14", "12", "1209"]
   book_table_id: 
   book_sinfo: 
   stats:

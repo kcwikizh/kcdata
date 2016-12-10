@@ -14,7 +14,7 @@ data:
   get_mes: アタシ、綾波型駆逐艦「朧」。<br>誰にも負けない…たぶん……
   voice_f: 1
   filename: sbdfpooechyn
-  file_version: ["19", "18", "1"]
+  file_version: ["19", "18", "1209"]
   book_table_id: 
   book_sinfo: 
   stats:

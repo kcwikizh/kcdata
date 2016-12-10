@@ -14,7 +14,7 @@ data:
   get_mes: 提督、谷風だよ。<br>これからお世話になるね！
   voice_f: 1
   filename: jdyqtxzmsyng
-  file_version: ["14", "14", "1"]
+  file_version: ["15", "14", "1209"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [128, 136]
-    boko_d: [128, 136]
+    boko_n: [92, 128]
+    boko_d: [96, 92]
     kaisyu_n: [24, 8]
     kaisyu_d: [24, 8]
-    kaizo_n: [96, 64]
-    kaizo_d: [80, 48]
-    map_n: [64, 112]
-    map_d: [64, 112]
-    ensyuf_n: [96, 112]
-    ensyuf_d: [96, 112]
-    ensyue_n: [48, 0]
-    battle_n: [96, 112]
-    battle_d: [96, 112]
-    wed_a: [144, -16]
-    wed_b: [144, 128]
+    kaizo_n: [48, 64]
+    kaizo_d: [80, 0]
+    map_n: [56, 112]
+    map_d: [96, 72]
+    ensyuf_n: [48, 128]
+    ensyuf_d: [92, 68]
+    ensyue_n: [36, 0]
+    battle_n: [64, 132]
+    battle_d: [96, 88]
+    wed_a: [148, 0]
+    wed_b: [120, 144]
   wiki_id: "169a"
   chinese_name: 谷风改
 ---

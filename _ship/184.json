@@ -14,7 +14,7 @@ data:
   get_mes: こんにちわあ。潜水母艦大鯨です。<br>不束者ですが、よろしくお願い致します。
   voice_f: 1
   filename: xumujwygrmby
-  file_version: ["7", "3", "1"]
+  file_version: ["7", "3", "1209"]
   book_table_id: [184, 973, 880, 855]
   book_sinfo: 潜水母艦、大鯨です。<br>潜水艦隊旗艦機能と補給物資や水上偵察機を装備して、潜水艦作戦を支援します。いざという時は空母に改装できる空母予備艦として設計されました。<br>頑張ります！
   stats:

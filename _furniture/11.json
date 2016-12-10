@@ -4,10 +4,10 @@ data:
   id: 11
   type: 0
   no: 10
-  title: 黒いタイルの床
-  description: シャープで重厚な印象の黒いタイルの床。
-  rarity: 0
-  price: 0
+  title: 手編みとフローリング
+  description: シンプルだけど手入れが行<br>き届いたフローリングの上<br>にちょこんと置かれたクッ<br>ションと途中まで編まれた<br>艦娘の手編みのマフラー。
+  rarity: 5
+  price: 3300
   saleflg: 0
   season: 0
   filename: 

@@ -14,7 +14,7 @@ data:
   get_mes: はーい、お待たせ？<br>兵装実験軽巡、夕張、到着いたしました！
   voice_f: 3
   filename: hfhcjjdyqyzn
-  file_version: ["17", "15", "1104"]
+  file_version: ["17", "15", "1209"]
   book_table_id: 
   book_sinfo: 
   stats:

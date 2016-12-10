@@ -14,7 +14,7 @@ data:
   get_mes: 初風です、よろしく。<br>提督さんにとって私は何人目の私かしら？
   voice_f: 3
   filename: ukwcjqlolezy
-  file_version: ["15", "15", "1"]
+  file_version: ["16", "15", "1209"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [16, 62]
-    boko_d: [16, 62]
+    boko_n: [159, 138]
+    boko_d: [125, 156]
     kaisyu_n: [28, 22]
     kaisyu_d: [34, 30]
-    kaizo_n: [16, -31]
-    kaizo_d: [-4, -4]
-    map_n: [29, 24]
-    map_d: [29, 24]
-    ensyuf_n: [65, 50]
-    ensyuf_d: [10, 0]
-    ensyue_n: [40, 0]
-    battle_n: [-10, 27]
-    battle_d: [29, 21]
-    wed_a: [205, 80]
-    wed_b: [113, 118]
+    kaizo_n: [96, 60]
+    kaizo_d: [88, 74]
+    map_n: [112, 112]
+    map_d: [101, 135]
+    ensyuf_n: [104, 120]
+    ensyuf_d: [122, 128]
+    ensyue_n: [100, 0]
+    battle_n: [128, 120]
+    battle_d: [120, 140]
+    wed_a: [102, 8]
+    wed_b: [102, 128]
   wiki_id: "118a"
   chinese_name: 初风改
 ---

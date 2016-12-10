@@ -14,7 +14,7 @@ data:
   get_mes: 高速戦艦、榛名、着任しました。<br>あなたが提督なのね？　よろしくお願い致します。
   voice_f: 1
   filename: nolhhoujolpc
-  file_version: ["14", "14", "1"]
+  file_version: ["14", "14", "1209"]
   book_table_id: 
   book_sinfo: 
   stats:

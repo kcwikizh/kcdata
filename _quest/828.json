@@ -1,0 +1,26 @@
+---
+layout: json
+data:
+  id: 828
+  category: 8
+  type: 4
+  title: 飛行場設営の準備を実施せよ！
+  detail: 中部海域における航空偵察「K作戦」を再度実施、さらに同方面に遊弋する敵艦隊を撃滅し、<br>中部海域における飛行場設営の準備を実施せよ！
+  reward: [0, 0, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 73
+      amount: 1
+  prerequisite: [273, 809]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 63
+      boss: true
+      result: S
+  wiki_id: B80
+  chinese_title: 实施飞行场的施工准备吧！
+  chinese_detail: 再度实施中部海域的航空侦查“K作战”，同时歼灭敌方巡逻舰队，为实施中部海域的飞机场施工做准备！
+---

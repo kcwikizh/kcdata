@@ -6,17 +6,17 @@ data:
   name: 朝風
   yomi: あさかぜ
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 66
+  cnum: 2
   backs: 4
   after_lv: 50
   after_ship_id: 370
   get_mes: おはよう！　朝風よ。神風型駆逐艦二番艦、朝風。<br>司令官？　早く覚えなさい！　いい？
   voice_f: 1
   filename: fmsaumjkejlm
-  file_version: ["2", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["2", "1", "1209"]
+  book_table_id: [472]
+  book_sinfo: 神風型駆逐艦二番艦の朝風よ。長崎生まれ。妹の春風たちと一緒に、歴史ある第五駆逐隊を編成したわ。旗艦は当然私。緒戦の海戦や攻略戦に参加したわ。もちろん、大切な船団護衛もしっかりきっちりやりきったわよ。<br>うん……やるだけ、やったんだから！
   stats:
     taik: [12, 23]
     souk: [5, 17]
@@ -26,8 +26,8 @@ data:
     luck: [13, 72]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 37
+    tais: 17
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 80

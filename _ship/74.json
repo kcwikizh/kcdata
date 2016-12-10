@@ -14,8 +14,8 @@ data:
   get_mes: 軽空母、祥鳳です。<br>はい、ちょっと小柄ですけど、ぜひ提督の機動部隊に加えてくださいね！
   voice_f: 0
   filename: qihrkkfwekpo
-  file_version: ["18", "16", "1"]
-  book_table_id: [74, 918]
+  file_version: ["18", "16", "1209"]
+  book_table_id: [74, 282, 918]
   book_sinfo: 祥鳳型航空母艦１番艦です。<br>元々は潜水母艦だったんです。<br>前衛艦隊や主力じゃない小艦隊に空母を配属するなら、ぜひ私を使ってね！運用によってはお役に立つはずです！
   stats:
     taik: [32, 55]
