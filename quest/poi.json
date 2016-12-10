@@ -10031,7 +10031,9 @@
         "amount": 1
       }
     ],
-    "prerequisite": null,
+    "prerequisite": [
+
+    ],
     "requirements": {
       "category": "sortie",
       "map": "1-4",
