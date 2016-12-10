@@ -1,0 +1,31 @@
+---
+layout: json
+data:
+  id: 179
+  category: 1
+  type: 4
+  title: 精鋭「第十六戦隊」を再編成せよ！
+  detail: 「鬼怒改二」を旗艦として、「北上改二」「大井改二」「球磨改」及び<br>「青葉改」「浦波改」「敷波改」から5隻、計6隻の精鋭「第十六戦隊」を再編成せよ！
+  reward: [300, 300, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 3
+    -
+      category: useitem
+      id: 50
+      amount: 1
+  prerequisite: [835]
+  requirements:
+    -
+      category: flagship
+      ship_id: 487
+    -
+      category: fleet
+      amount: 6
+      ship_id: [487, 119, 118, 215, 264, 368, 208]
+  wiki_id: A74
+  chinese_title: 精锐“第十六战队”再次编成！
+  chinese_detail: 以“鬼怒改二”为旗舰，加上“北上改二”、“大井改二”、“球磨改”、“青叶改”、“浦波改”　“敷波改”中的五支，再编成共计六支的精锐“第十六战队”！
+---

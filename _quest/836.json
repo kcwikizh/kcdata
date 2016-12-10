@@ -1,0 +1,33 @@
+---
+layout: json
+data:
+  id: 836
+  category: 8
+  type: 4
+  title: 精鋭「第十六戦隊」突入せよ！
+  detail: 再編成を完了した精鋭「第十六戦隊」を南西諸島海域沖ノ島沖に展開、<br>同方面に遊弋する敵主力を捕捉、これを撃破せよ！
+  reward: [600, 600, 0, 0]
+  reward2:
+    -
+      category: slotitem
+      id: 193
+      amount: 1
+  prerequisite: [179]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 25
+      boss: true
+      result: S
+    -
+      category: flagship
+      ship_id: 487
+    -
+      category: fleet
+      amount: 6
+      ship_id: [487, 119, 118, 215, 264, 368, 208]
+  wiki_id: B85
+  chinese_title: 精锐“第十六战队”突入！
+  chinese_detail: 以再编成完毕的精锐“第十六战队”出击2-5，捕捉并击破同海域的敌主力部队！
+---
