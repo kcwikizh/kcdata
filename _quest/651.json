@@ -1,0 +1,36 @@
+---
+layout: json
+data:
+  id: 651
+  category: 6
+  type: 4
+  title: ネ式エンジンの増産
+  detail: 噴式航空機生産のため、ネ式エンジンの増産を行う。「零式艦戦52型」三つを「工廠」で廃棄し、「流星」「烈風」各二つと鉄鋼8,000を準備せよ！※任務達成後、用意した必要装備と資源は消費します。
+  reward: [0, 0, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 71
+      amount: 1
+  prerequisite: [422, 649]
+  requirements:
+    -
+      category: scrap
+      amount: 3
+      slotitem_id: 21
+    -
+      category: useitem
+      amount: 8000
+      useitem_id: 33
+    -
+      category: possess
+      amount: 2
+      slotitem_id: 18
+    -
+      category: possess
+      amount: 2
+      slotitem_id: 22
+  wiki_id: F47
+  chinese_title: 
+  chinese_detail: 
+---

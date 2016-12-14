@@ -1,0 +1,41 @@
+---
+layout: json
+data:
+  id: 838
+  category: 8
+  type: 4
+  title: 重巡戦隊、抜錨せよ！
+  detail: 重巡4隻を基幹戦力とした重巡旗艦の艦隊を南西諸島海域東部オリョール海に展開し、<br>同海域の敵艦隊を撃滅、制海権を確保せよ！
+  reward: [400, 400, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 59
+      amount: 1
+    -
+      category: furniture
+      id: 11
+      amount: 1
+  prerequisite: []
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 23
+      boss: true
+      result: S
+    -
+      category: flagship
+      ship_type: [5, 6]
+    -
+      category: fleet
+      amount:
+        gte: 4
+    -
+      category: fleet
+      amount: 4
+      ship_type: [5, 6]
+  wiki_id: B87
+  chinese_title: 重巡战队，拔锚！
+  chinese_detail: 派出以4只重巡为基干战力并以重巡为旗舰的舰队，前往西南诸岛海域东部奥廖尔海，消灭本海域的敌方舰队，确保制海权！
+---

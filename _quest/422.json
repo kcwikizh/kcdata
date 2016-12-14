@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 422
+  category: 4
+  type: 4
+  title: 潜水艦派遣作戦による航空機技術入手
+  detail: 潜水艦派遣作戦により、新型航空機技術の導入に努めよ！
+  reward: [0, 100, 0, 100]
+  reward2:
+    -
+      category: useitem
+      id: 74
+      amount: 1
+  prerequisite: [402, 406]
+  requirements:
+    -
+      category: expedition
+      times: 1
+      expedition_id: 30
+    -
+      category: expedition
+      times: 1
+      expedition_id: 31
+  wiki_id: D20
+  chinese_title: 通过潜水艇派遣作战获得飞机技术
+  chinese_detail: 通过「潜水艇派遣作战」，努力引入新型飞机技术！
+---

@@ -1,0 +1,36 @@
+---
+layout: json
+data:
+  id: 649
+  category: 6
+  type: 4
+  title: 新機軸偵察機の開発
+  detail: 新機軸の偵察機の調達を行う。「零式水上偵察機」を二つ「工廠」で廃棄し、<br>「一式陸攻」一つと「彩雲」二つを準備せよ！(任務達成後、用意した必要装備は消費します)
+  reward: [0, 0, 0, 100]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+    -
+      category: slotitem
+      id: 151
+      amount: 1
+  prerequisite: [167, 647]
+  requirements:
+    -
+      category: scrap
+      amount: 2
+      slotitem_id: 25
+    -
+      category: possess
+      amount: 1
+      slotitem_id: 169
+    -
+      category: possess
+      amount: 2
+      slotitem_id: 54
+  wiki_id: F45
+  chinese_title: 新式侦察机的开发
+  chinese_detail: 进行新式侦察机的采购。在「工厂」中废弃2架「零式水上侦察机」，准备好1架「一式陆攻」和2架「彩云」！（任务完成后，准备好的必要装备会被消耗掉。）
+---

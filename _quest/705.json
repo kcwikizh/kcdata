@@ -1,0 +1,36 @@
+---
+layout: json
+data:
+  id: 705
+  category: 7
+  type: 4
+  title: 航空艤装の近代化改修
+  detail: 鉄鋼5,500及びボーキサイト2,500を準備して、任意の正規空母の近代化改修を<br>[航空母艦]x5隻同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。
+  reward: [0, 0, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 74
+      amount: 1
+  prerequisite: [703, 838]
+  requirements:
+    -
+      category: useitem
+      amount: 5500
+      useitem_id: 33
+    -
+      category: useitem
+      amount: 2500
+      useitem_id: 34
+    -
+      category: modernize
+      times: 2
+      ship_type: [11, 18]
+      consumptions:
+        -
+          ship_type: [7, 11, 18]
+          amount: 5
+  wiki_id: G5
+  chinese_title: 航空舰装的近代化改修
+  chinese_detail: 准备5500钢材和2500铝土，对任意正规空母进行2次成功的近代化改修，每次同时消耗5艘航空母舰。※任务达成后，准备好的资源会被消耗掉。
+---
