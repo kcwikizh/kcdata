@@ -2682,7 +2682,8 @@
       }
     ],
     "prerequisite": [
-      293
+      165,
+      201
     ],
     "requirements": {
       "category": "fleet",
@@ -6592,6 +6593,37 @@
     }
   },
   {
+    "game_id": 314,
+    "wiki_id": "C11",
+    "category": 3,
+    "type": 1,
+    "name": "冬季大演習",
+    "detail": "冬の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！",
+    "reward_fuel": 300,
+    "reward_ammo": 1000,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "高速修復材",
+        "amount": 3
+      },
+      {
+        "name": "給糧艦「間宮」",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      303
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 8,
+      "victory": true,
+      "daily": true
+    }
+  },
+  {
     "game_id": 401,
     "wiki_id": "D01",
     "category": 4,
@@ -7206,6 +7238,86 @@
           "times": 1,
           "id": 35
         }
+      ]
+    }
+  },
+  {
+    "game_id": 422,
+    "wiki_id": "D20",
+    "category": 4,
+    "type": 1,
+    "name": "潜水艦派遣作戦による航空機技術入手",
+    "detail": "潜水艦派遣作戦により、新型航空機技術の導入に努めよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 100,
+    "reward_other": [
+      {
+        "name": "新型航空機設計図",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      402,
+      406
+    ],
+    "requirements": {
+      "category": "expedition",
+      "objects": [
+        {
+          "times": 1,
+          "id": 30
+        },
+        {
+          "times": 1,
+          "id": 31
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 423,
+    "wiki_id": "D21",
+    "category": 4,
+    "type": 1,
+    "name": "潜水艦派遣作戦による噴式技術の入手",
+    "detail": "鉄鋼5,000及びボーキサイト1,500を準備して、潜水艦派遣作戦により<br>噴式エンジン技術の導入に努めよ！※任務達成後、準備した資源は消費します。",
+    "reward_fuel": 100,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 100,
+    "reward_other": [
+      {
+        "name": "開発資材",
+        "amount": 2
+      },
+      {
+        "name": "ネ式エンジン",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      422,
+      839
+    ],
+    "requirements": {
+      "category": "expedition",
+      "objects": [
+        {
+          "times": 1,
+          "id": 30
+        },
+        {
+          "times": 1,
+          "id": 31
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        5000,
+        1500
       ]
     }
   },
@@ -8761,6 +8873,192 @@
     }
   },
   {
+    "game_id": 648,
+    "wiki_id": "F44",
+    "category": 6,
+    "type": 1,
+    "name": "「特注家具」の調達",
+    "detail": "「12.7cm連装高角砲」二つを廃棄し、家具コイン5,000と「14cm単装砲」及び「15.2cm単装砲」を各二つずつ準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修を優先)は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "特注家具職人",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      303,
+      645
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "equipments": [
+        {
+          "name": "14cm単装砲",
+          "amount": 2
+        },
+        {
+          "name": "15.2cm単装砲",
+          "amount": 2
+        }
+      ],
+      "scraps": [
+        {
+          "name": "12.7cm連装高角砲",
+          "amount": 2
+        }
+      ],
+      "consumptions": [
+        {
+          "name": "家具コイン",
+          "amount": 5000
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 649,
+    "wiki_id": "F45",
+    "category": 6,
+    "type": 1,
+    "name": "新機軸偵察機の開発",
+    "detail": "新機軸の偵察機の調達を行う。「零式水上偵察機」を二つ「工廠」で廃棄し、<br>「一式陸攻」一つと「彩雲」二つを準備せよ！(任務達成後、用意した必要装備は消費します)",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 100,
+    "reward_other": [
+      {
+        "name": "開発資材",
+        "amount": 2
+      },
+      {
+        "name": "試製景雲(艦偵型)",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      167,
+      647
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "零式水上偵察機",
+          "amount": 2
+        }
+      ],
+      "consumptions": [
+        {
+          "name": "新型航空機設計図",
+          "amount": 2
+        },
+        {
+          "name": "ネ式エンジン",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 650,
+    "wiki_id": "F46",
+    "category": 6,
+    "type": 1,
+    "name": "噴式戦闘爆撃機の開発",
+    "detail": "ネ式エンジンを搭載した新型戦闘爆撃機の開発を行う。「紫電改二」三つを「工廠」で廃棄し、「新型航空機設計図」二つと「ネ式エンジン」一つを準備せよ！(任務達成後、用意した必要アイテムは消費します)",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 100,
+    "reward_other": [
+      {
+        "name": "開発資材",
+        "amount": 2
+      },
+      {
+        "name": "橘花改",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      304,
+      649
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "equipments": [
+        {
+          "name": "一式陸攻",
+          "amount": 1
+        },
+        {
+          "name": "彩雲",
+          "amount": 2
+        }
+      ],
+      "scraps": [
+        {
+          "name": "紫電改二",
+          "amount": 3
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 651,
+    "wiki_id": "F47",
+    "category": 6,
+    "type": 1,
+    "name": "ネ式エンジンの増産",
+    "detail": "噴式航空機生産のため、ネ式エンジンの増産を行う。「零式艦戦52型」三つを「工廠」で廃棄し、「流星」「烈風」各二つと鉄鋼8,000を準備せよ！※任務達成後、用意した必要装備と資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "ネ式エンジン",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      422,
+      649
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "equipments": [
+        {
+          "name": "流星",
+          "amount": 2
+        },
+        {
+          "name": "烈風",
+          "amount": 2
+        }
+      ],
+      "scraps": [
+        {
+          "name": "零式艦戦52型",
+          "amount": 3
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        8000,
+        0
+      ]
+    }
+  },
+  {
     "game_id": 701,
     "wiki_id": "G01",
     "category": 7,
@@ -8866,6 +9164,42 @@
       "category": "simple",
       "subcategory": "modernization",
       "times": 4
+    }
+  },
+  {
+    "game_id": 705,
+    "wiki_id": "G05",
+    "category": 7,
+    "type": 1,
+    "name": "航空艤装の近代化改修",
+    "detail": "鉄鋼5,500及びボーキサイト2,500を準備して、任意の正規空母の近代化改修を<br>[航空母艦]x5隻同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "新型航空機設計図",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      703,
+      838
+    ],
+    "requirements": {
+      "category": "modernization",
+      "times": 2,
+      "ship": "空母",
+      "consumptions": [
+        {
+          "ship": [
+            "轻母",
+            "空母"
+          ],
+          "amount": 5
+        }
+      ]
     }
   },
   {
@@ -10193,6 +10527,115 @@
         {
           "ship": "艦",
           "amount": 1
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 838,
+    "wiki_id": "B87",
+    "category": 2,
+    "type": 1,
+    "name": "重巡戦隊、抜錨せよ！",
+    "detail": "重巡4隻を基幹戦力とした重巡旗艦の艦隊を南西諸島海域東部オリョール海に展開し、<br>同海域の敵艦隊を撃滅、制海権を確保せよ！",
+    "reward_fuel": 400,
+    "reward_ammo": 400,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 1
+      },
+      {
+        "name": "手編みとフローリング",
+        "category": "家具"
+      }
+    ],
+    "prerequisite": [
+
+    ],
+    "requirements": {
+      "category": "sortie",
+      "map": "2-3",
+      "boss": true,
+      "result": "S",
+      "times": 1,
+      "groups": [
+        {
+          "ship": [
+            "重巡",
+            "航巡"
+          ],
+          "flagship": true
+        },
+        {
+          "ship": [
+            "重巡",
+            "航巡"
+          ],
+          "amount": 4
+        },
+        {
+          "ship": "艦",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 839,
+    "wiki_id": "B88",
+    "category": 2,
+    "type": 1,
+    "name": "戦艦戦隊、出撃せよ！",
+    "detail": "戦艦2隻を中核戦力とする戦艦旗艦の艦隊を北方海域アルフォンシーノ方面に進出させ、<br>同海域の敵艦隊を撃滅、北方海域の制海権確保に努めよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 800,
+    "reward_steel": 0,
+    "reward_bauxite": 200,
+    "reward_other": [
+      {
+        "name": "改修資材",
+        "amount": 2
+      },
+      {
+        "name": "二式水戦改 / PBY-5A Catalina",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      838
+    ],
+    "requirements": {
+      "category": "sortie",
+      "map": "3-3",
+      "boss": true,
+      "result": "S",
+      "times": 1,
+      "groups": [
+        {
+          "ship": [
+            "戦艦",
+            "航戦"
+          ],
+          "flagship": true
+        },
+        {
+          "ship": [
+            "戦艦",
+            "航戦"
+          ],
+          "amount": 2
+        },
+        {
+          "ship": "空母",
+          "amount": 2
+        },
+        {
+          "ship": "艦",
+          "amount": 2
         }
       ]
     }

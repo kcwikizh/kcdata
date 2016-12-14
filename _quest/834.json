@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 52
       amount: 1
-  prerequisite: 
+  prerequisite: []
   requirements:
     -
       category: sortie
