@@ -11,7 +11,11 @@
           "level": {{ improve.upgrade.level }},
           "name": "{% include helper/slotitem_finder.md id=improve.upgrade.id result="name" %}",
           "icon": {% include helper/slotitem_finder.md id=improve.upgrade.id result="type[3]" %}
-        }{% else %}false{% endif %},
+        }{% else %}{
+          "level": 0,
+          "name": "",
+          "icon": 0
+        }{% endif %},
         "req": [{% capture improve_group %}{% include poi_improve/translate_day.md data=improve.day %}{% endcapture %}{% capture improve_group %}{% include poi_improve/group_day.md data=improve_group %}{% endcapture %}{% assign improve_group = improve_group | split: ";" %}{% for group in improve_group %}{% assign str = group | split: ":" %}
           {
             "day": [{% assign days = str[0] | split: "" %}{% for day in days %}
@@ -71,6 +75,11 @@
                 "icon": {% if improve.upgrade.consume.slotitem %}{% capture qid %}{{ improve.upgrade.consume.slotitem.id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="type[3]" %}{% else %}0{% endif %},
                 "name": "{% if improve.upgrade.consume.slotitem %}{% capture qid %}{{ improve.upgrade.consume.slotitem.id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="name" %}{% endif %}",
                 "count": {% if improve.upgrade.consume.slotitem %}{{ improve.upgrade.consume.slotitem.amount }}{% else %}0{% endif %}
+              },
+              "useitem": {
+                "icon": {% if improve.upgrade.consume.useitem[2] %}{{ improve.upgrade.consume.useitem[2].id }}{% else %}0{% endif %},
+                "name": "{% if improve.upgrade.consume.useitem[2] %}{% capture qid %}{{ improve.upgrade.consume.useitem[2].id }}{% endcapture %}{% include helper/useitem_finder.md id=qid result="name" %}{% endif %}",
+                "count": {% if improve.upgrade.consume.useitem[2] %}{{ improve.upgrade.consume.useitem[2].amount }}{% else %}0{% endif %}
               }
             }{% else %}{
               "development": [
@@ -82,6 +91,11 @@
                 0
               ],
               "item": {
+                "icon": 0,
+                "name": "",
+                "count": 0
+              },
+              "useitem": {
                 "icon": 0,
                 "name": "",
                 "count": 0
