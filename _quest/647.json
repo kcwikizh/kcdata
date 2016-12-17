@@ -10,7 +10,7 @@ data:
   reward2:
     -
       category: other
-      item: 中部海域「基地航空队」开放
+      item: 中部海域「基地航空隊」開放
   prerequisite: [642, 809]
   requirements:
     -

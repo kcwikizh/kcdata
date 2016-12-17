@@ -107,7 +107,7 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "第2舰队开启"
+        "name": "第2艦隊開放"
       }
     ],
     "prerequisite": [
@@ -262,7 +262,7 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "第3舰队开启"
+        "name": "第3艦隊開放"
       }
     ],
     "prerequisite": [
@@ -584,7 +584,7 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "第4舰队开启"
+        "name": "第4艦隊開放"
       }
     ],
     "prerequisite": [
@@ -1655,7 +1655,7 @@
         "amount": 5
       },
       {
-        "name": "改修工厂开启"
+        "name": "改修工廠開放"
       }
     ],
     "prerequisite": [
@@ -7697,7 +7697,7 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "大型舰建造开启"
+        "name": "大型艦建造開放"
       }
     ],
     "prerequisite": [
@@ -8849,7 +8849,7 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "中部海域「基地航空队」开放"
+        "name": "中部海域「基地航空隊」開放"
       }
     ],
     "prerequisite": [

@@ -10,7 +10,7 @@ data:
   reward2:
     -
       category: other
-      item: 大型舰建造开启
+      item: 大型艦建造開放
   prerequisite: [704]
   requirements:
     -

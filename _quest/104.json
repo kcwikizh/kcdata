@@ -10,7 +10,7 @@ data:
   reward2:
     -
       category: other
-      item: 第2舰队开启
+      item: 第2艦隊開放
   prerequisite: [103]
   requirements:
     -

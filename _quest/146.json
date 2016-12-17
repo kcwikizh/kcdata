@@ -14,7 +14,7 @@ data:
       amount: 5
     -
       category: other
-      item: 改修工厂开启
+      item: 改修工廠開放
   prerequisite: [116]
   requirements:
     -
