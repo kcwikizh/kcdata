@@ -8947,20 +8947,20 @@
     ],
     "requirements": {
       "category": "equipexchange",
+      "equipments": [
+        {
+          "name": "一式陸攻",
+          "amount": 1
+        },
+        {
+          "name": "彩雲",
+          "amount": 2
+        }
+      ],
       "scraps": [
         {
           "name": "零式水上偵察機",
           "amount": 2
-        }
-      ],
-      "consumptions": [
-        {
-          "name": "新型航空機設計図",
-          "amount": 2
-        },
-        {
-          "name": "ネ式エンジン",
-          "amount": 1
         }
       ]
     }
@@ -8993,20 +8993,20 @@
     ],
     "requirements": {
       "category": "equipexchange",
-      "equipments": [
-        {
-          "name": "一式陸攻",
-          "amount": 1
-        },
-        {
-          "name": "彩雲",
-          "amount": 2
-        }
-      ],
       "scraps": [
         {
           "name": "紫電改二",
           "amount": 3
+        }
+      ],
+      "consumptions": [
+        {
+          "name": "新型航空機設計図",
+          "amount": 2
+        },
+        {
+          "name": "ネ式エンジン",
+          "amount": 1
         }
       ]
     }
