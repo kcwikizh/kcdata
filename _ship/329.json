@@ -14,7 +14,7 @@ data:
   get_mes: 陽炎型駆逐艦、野分。参上しました。<br>さあ、司令。いきましょう。
   voice_f: 3
   filename: qegrehgswrpg
-  file_version: ["15", "15", "1209"]
+  file_version: ["15", "15", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

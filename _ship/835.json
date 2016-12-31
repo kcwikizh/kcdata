@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 835
+  sort_no: 0
+  name: Xmas利根改二
+  yomi: とね
+  stype: 6
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: amsnfcvsfnmg
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [84, 132]
+    boko_d: [140, 158]
+    kaisyu_n: [16, -16]
+    kaisyu_d: [8, -16]
+    kaizo_n: [56, 52]
+    kaizo_d: [92, 68]
+    map_n: [68, 88]
+    map_d: [132, 136]
+    ensyuf_n: [72, 96]
+    ensyuf_d: [116, 120]
+    ensyue_n: [48, 0]
+    battle_n: [80, 108]
+    battle_d: [124, 144]
+    wed_a: [156, 12]
+    wed_b: [100, 124]
+  wiki_id:
+  chinese_name:
+---

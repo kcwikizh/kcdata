@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 833
+  sort_no: 0
+  name: Xmas瑞穂
+  yomi: みずほ
+  stype: 16
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: qcdjbqihbwdi
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 5
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [16, 76]
+    boko_d: [16, 94]
+    kaisyu_n: [12, -8]
+    kaisyu_d: [24, -4]
+    kaizo_n: [-40, 16]
+    kaizo_d: [-50, 12]
+    map_n: [-28, 64]
+    map_d: [-28, 82]
+    ensyuf_n: [-52, 56]
+    ensyuf_d: [-52, 72]
+    ensyue_n: [-56, 0]
+    battle_n: [-20, 72]
+    battle_d: [-20, 88]
+    wed_a: [256, 32]
+    wed_b: [108, 128]
+  wiki_id:
+  chinese_name:
+---

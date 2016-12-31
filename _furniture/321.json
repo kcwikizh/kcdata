@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 321
+  type: 5
+  no: 70
+  title: ローストビーフディナー
+  description: 上質の牛肉を丹念な調理法<br>で仕上げたローストビーフ<br>をメインにしたフルコース<br>ディナーです。あの戦艦が<br>自信を持ってお薦めです！
+  rarity: 4
+  price: 2500
+  saleflg: 0
+  season: 0
+  filename: 
+  file_version: ""
+---

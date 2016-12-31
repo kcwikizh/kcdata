@@ -14,7 +14,7 @@ data:
   get_mes: 空母になった千代田です。<br>ぜひ、千歳お姉と一緒に機動部隊を編制してね！
   voice_f: 1
   filename: tsfbgfyeqxhg
-  file_version: ["16", "12", "1209"]
+  file_version: ["16", "12", "1226"]
   book_table_id: [105]
   book_sinfo: 水上機母艦として建造された千歳型２番艦、千代田です。甲標的母艦としても運用できるようになっているのよ。千歳お姉と一緒に頑張りますね！
   stats:

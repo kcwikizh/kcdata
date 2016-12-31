@@ -14,7 +14,7 @@ data:
   get_mes: Guten Morgen!　私が航空母艦、Graf Zeppelin だ。<br>貴方がこの艦隊を預かる提督なのだな。そうか……了解だ。
   voice_f: 3
   filename: uljlkucfqqcc
-  file_version: ["8", "8", "1209"]
+  file_version: ["8", "8", "1226"]
   book_table_id: 
   book_sinfo: 
   stats:

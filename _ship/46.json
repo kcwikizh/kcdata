@@ -14,7 +14,7 @@ data:
   get_mes: 五月雨っていいます！よろしくお願いします。<br>護衛任務はお任せください！
   voice_f: 0
   filename: tyjrubumfpxy
-  file_version: ["12", "12", "1209"]
+  file_version: ["12", "12", "1"]
   book_table_id: [46]
   book_sinfo: 五月雨です。<br>村雨・夕立・春雨とは第２駆逐隊でお友達でした。<br>そうそう、輸送任務中に白露と衝突してしまったことも…ホント、私ってば、ドジでごめんなさい。<br>でも、頑張ります！
   stats:

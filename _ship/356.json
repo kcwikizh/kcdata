@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 提督さん、お疲れさまです。<br>練習巡洋艦、鹿島、着任です。うふふ。
   voice_f: 3
-  filename: grgeljjshnfk
-  file_version: ["11", "10", "1209"]
+  filename: grgeljjshnxe
+  file_version: ["12", "10", "1226"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 2, 1]
     build_time: 70
   graph:
-    boko_n: [116, 124]
-    boko_d: [196, 148]
+    boko_n: [76, 140]
+    boko_d: [88, 172]
     kaisyu_n: [16, 0]
     kaisyu_d: [8, -16]
-    kaizo_n: [56, 72]
-    kaizo_d: [120, 72]
-    map_n: [64, 100]
-    map_d: [136, 120]
-    ensyuf_n: [40, 112]
-    ensyuf_d: [120, 136]
-    ensyue_n: [48, 0]
-    battle_n: [72, 112]
-    battle_d: [144, 136]
-    wed_a: [168, 8]
-    wed_b: [112, 144]
+    kaizo_n: [16, 85]
+    kaizo_d: [8, 96]
+    map_n: [36, 125]
+    map_d: [32, 144]
+    ensyuf_n: [40, 114]
+    ensyuf_d: [32, 120]
+    ensyue_n: [20, 0]
+    battle_n: [24, 128]
+    battle_d: [32, 152]
+    wed_a: [172, 16]
+    wed_b: [132, 104]
   wiki_id: "265a"
   chinese_name: 鹿岛改
 ---

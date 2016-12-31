@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 828
+  sort_no: 0
+  name: 買い物Pola
+  yomi: ポーラ
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: itbynvalzvbp
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [148, 136]
+    boko_d: [100, 152]
+    kaisyu_n: [48, -12]
+    kaisyu_d: [32, -12]
+    kaizo_n: [132, 76]
+    kaizo_d: [48, 72]
+    map_n: [144, 112]
+    map_d: [96, 116]
+    ensyuf_n: [136, 112]
+    ensyuf_d: [80, 126]
+    ensyue_n: [128, 0]
+    battle_n: [156, 120]
+    battle_d: [88, 132]
+    wed_a: [76, -8]
+    wed_b: [100, 132]
+  wiki_id:
+  chinese_name:
+---

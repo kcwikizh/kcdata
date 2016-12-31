@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 840
+  sort_no: 0
+  name: Xmas明石
+  yomi: あかし
+  stype: 19
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: clbllbonryxc
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 5
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [-20, 56]
+    boko_d: [-12, 80]
+    kaisyu_n: [24, 8]
+    kaisyu_d: [8, 32]
+    kaizo_n: [-88, 24]
+    kaizo_d: [-72, 28]
+    map_n: [-40, 56]
+    map_d: [-56, 84]
+    ensyuf_n: [-32, 52]
+    ensyuf_d: [-72, 80]
+    ensyue_n: [-40, 0]
+    battle_n: [-8, 68]
+    battle_d: [-72, 96]
+    wed_a: [240, 68]
+    wed_b: [120, 120]
+  wiki_id:
+  chinese_name:
+---

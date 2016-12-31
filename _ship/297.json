@@ -14,7 +14,7 @@ data:
   get_mes: 空母になった千代田です。<br>ぜひ、千歳お姉と一緒に機動部隊を編制してね！
   voice_f: 3
   filename: jhefpwucyxiq
-  file_version: ["14", "10", "1209"]
+  file_version: ["14", "10", "1226"]
   book_table_id: [297]
   book_sinfo: 水上機母艦から大改装を受けて、航空母艦にジョブチェンジした千代田です。結構ちゃんとした空母でしょ？千歳お姉と一緒に敵機動部隊と戦うわ！
   stats:

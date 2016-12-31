@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 829
+  sort_no: 0
+  name: Xmas鈴谷
+  yomi: すずや
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: cainepgyisnq
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [176, 148]
+    boko_d: [72, 168]
+    kaisyu_n: [6, 0]
+    kaisyu_d: [28, 7]
+    kaizo_n: [148, 96]
+    kaizo_d: [0, 88]
+    map_n: [144, 132]
+    map_d: [24, 144]
+    ensyuf_n: [144, 128]
+    ensyuf_d: [12, 144]
+    ensyue_n: [124, 0]
+    battle_n: [164, 148]
+    battle_d: [28, 160]
+    wed_a: [72, -12]
+    wed_b: [92, 104]
+  wiki_id:
+  chinese_name:
+---

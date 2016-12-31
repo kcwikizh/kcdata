@@ -14,7 +14,7 @@ data:
   get_mes: 私が、戦艦長門だ。よろしく頼むぞ。<br>敵戦艦との殴り合いなら任せておけ。
   voice_f: 1
   filename: szgthkexanxl
-  file_version: ["16", "16", "1209"]
+  file_version: ["16", "16", "1226"]
   book_table_id: 
   book_sinfo: 
   stats:

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 322
+  type: 5
+  no: 71
+  title: ライスコロッケディナー
+  description: ある水上機母艦が腕により<br>をかけて自慢のお米で作っ<br>た、ライスコロッケがメイ<br>ンのディナーコースです。<br>日本酒にもよくあいます。
+  rarity: 4
+  price: 2200
+  saleflg: 0
+  season: 0
+  filename: 
+  file_version: ""
+---
