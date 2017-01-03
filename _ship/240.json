@@ -14,7 +14,7 @@ data:
   get_mes: 駆逐艦、若葉だ。
   voice_f: 1
   filename: tkcwrodgemlj
-  file_version: ["11", "11", "1"]
+  file_version: ["11", "11", "101"]
   book_table_id: 
   book_sinfo: 
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: こんにちは！陽炎型駆逐艦、舞風です。<br>暗い雰囲気は苦手です！
   voice_f: 3
   filename: ssvrjquubpim
-  file_version: ["14", "14", "1"]
+  file_version: ["14", "14", "101"]
   book_table_id: 
   book_sinfo: 
   stats:

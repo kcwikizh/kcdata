@@ -14,7 +14,7 @@ data:
   get_mes: 私が菊月だ、共にゆこう。
   voice_f: 1
   filename: zrrxemjrtmql
-  file_version: ["10", "10", "1"]
+  file_version: ["10", "10", "101"]
   book_table_id: 
   book_sinfo: 
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: 阿賀野型軽巡二番艦、能代。<br>着任しました。よろしくどうぞ！
   voice_f: 3
   filename: lpiecumljbyp
-  file_version: ["9", "9", "1226"]
+  file_version: ["9", "9", "101"]
   book_table_id: [138]
   book_sinfo: 新鋭阿賀野型軽巡の二番艦、能代です。<br>能代独自の飛行機運搬軌条がチャームポイントなんです。レイテ沖海戦でも主力の栗田艦隊の一員として頑張りました！
   stats:

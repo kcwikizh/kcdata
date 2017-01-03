@@ -14,7 +14,7 @@ data:
   get_mes: Bonjour！<br>Enchantée　 Je m’appelle Commandant Teste<br>提督、どうぞよろしくお願い致します。
   voice_f: 3
   filename: wgyatqtsrgxe
-  file_version: ["3", "1", "1226"]
+  file_version: ["3", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 提督、ごきげんよう。<br>潜特型二番艦伊401、改良型です！
   voice_f: 3
-  filename: tuvoqtqrddem
-  file_version: ["3", "3", "1"]
+  filename: tuvoqtqrddys
+  file_version: ["4", "3", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 1]
     build_time: 200
   graph:
-    boko_n: [-32, 128]
-    boko_d: [-32, 128]
+    boko_n: [168, 152]
+    boko_d: [180, 144]
     kaisyu_n: [24, 8]
     kaisyu_d: [40, 24]
-    kaizo_n: [16, 64]
-    kaizo_d: [16, 64]
-    map_n: [32, 112]
-    map_d: [32, 112]
-    ensyuf_n: [48, 112]
-    ensyuf_d: [48, 72]
-    ensyue_n: [16, 0]
-    battle_n: [16, 96]
-    battle_d: [32, 96]
-    wed_a: [170, 8]
-    wed_b: [114, 123]
+    kaizo_n: [100, 80]
+    kaizo_d: [76, 64]
+    map_n: [100, 116]
+    map_d: [80, 112]
+    ensyuf_n: [104, 116]
+    ensyuf_d: [72, 112]
+    ensyue_n: [96, 0]
+    battle_n: [124, 132]
+    battle_d: [96, 132]
+    wed_a: [104, 0]
+    wed_b: [102, 128]
   wiki_id: "155a"
   chinese_name: 伊401改
 ---

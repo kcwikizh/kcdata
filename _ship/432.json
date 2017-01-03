@@ -14,7 +14,7 @@ data:
   get_mes: Guten Morgen!　私が航空母艦、Graf Zeppelin だ。<br>貴方がこの艦隊を預かる提督なのだな。そうか……了解だ。
   voice_f: 1
   filename: tepoqqczfonx
-  file_version: ["8", "8", "1226"]
+  file_version: ["8", "8", "1"]
   book_table_id: [432, 353]
   book_sinfo: Graf Zeppelin級航空母艦一番艦、Graf Zeppelinだ。立体的な通商破壊戦を展開できる重武装の本格空母だ。建造には日本の空母「赤城」の技術も参考にしたらしい。日本の艦隊…か……楽しみだな。
   stats:

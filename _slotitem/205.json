@@ -1,0 +1,36 @@
+---
+layout: json
+order: 205
+data:
+  id: 205
+  sort_no: 205
+  name: F6F-3
+  type: [3, 5, 6, 6, 21]
+  rare: 4
+  broken: [1, 2, 0, 3]
+  info: 大戦初期の太平洋上で零戦としのぎを削った米海軍艦上戦闘機F4Fシリーズの後継機、F6Fシリーズの初期量産型です。<br>大出力エンジンを装備した強力な主力艦上戦闘機として、零戦を徐々に圧倒していきました。
+  usebull: 0
+  cost: 8
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 8
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

@@ -13,8 +13,8 @@ data:
   after_ship_id: 117
   get_mes: 瑞鳳です。<br>軽空母ですが、練度があがれば、正規空母並の活躍をおみせできます。
   voice_f: 3
-  filename: ktexichqewel
-  file_version: ["17", "17", "1226"]
+  filename: ktexichqewys
+  file_version: ["18", "17", "101"]
   book_table_id: [116, 979]
   book_sinfo: 祥鳳型軽空母、瑞鳳です。<br>元々は高速給油艦として計画され、次に潜水母艦、最終的に軽空母として完成しました。小柄なボディだけれど、機動部隊最後の日まで敢闘しました！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 2, 2]
     build_time: 160
   graph:
-    boko_n: [64, 88]
-    boko_d: [64, 88]
+    boko_n: [204, 156]
+    boko_d: [204, 156]
     kaisyu_n: [18, 16]
     kaisyu_d: [28, 24]
-    kaizo_n: [20, 12]
-    kaizo_d: [20, 12]
-    map_n: [24, 72]
-    map_d: [8, 72]
-    ensyuf_n: [48, 72]
-    ensyuf_d: [44, 72]
-    ensyue_n: [32, 0]
-    battle_n: [44, 68]
-    battle_d: [44, 68]
-    wed_a: [173, 43]
-    wed_b: [123, 151]
+    kaizo_n: [112, 72]
+    kaizo_d: [112, 72]
+    map_n: [128, 132]
+    map_d: [128, 132]
+    ensyuf_n: [128, 132]
+    ensyuf_d: [128, 132]
+    ensyue_n: [136, 0]
+    battle_n: [144, 136]
+    battle_d: [144, 136]
+    wed_a: [88, -8]
+    wed_b: [112, 124]
   wiki_id: "112"
   chinese_name: 瑞凤
 ---

@@ -14,7 +14,7 @@ data:
   get_mes: はじめまして吹雪です。<br>よろしくお願い致します。
   voice_f: 3
   filename: rtkekdbkqrkg
-  file_version: ["19", "17", "1226"]
+  file_version: ["19", "17", "101"]
   book_table_id: [426, 848]
   book_sinfo: ワシントン条約制限下で設計された、世界中を驚愕させたクラスを超えた特型駆逐艦の１番艦、吹雪です。<br>私たちは、後の艦隊型駆逐艦のベースとなりました。<br>はいっ、頑張ります！
   stats:

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 323
+  type: 4
+  no: 46
+  title: 鎮守府大掃除道具
+  description: 師走は鎮守府も大掃除の季<br>節です！一年の埃をとって<br>提督室もきれいにして新年<br>を迎えましょう！艦娘たち<br>も大忙しです！
+  rarity: 4
+  price: 1800
+  saleflg: 1
+  season: 26
+  filename: 
+  file_version: ""
+---

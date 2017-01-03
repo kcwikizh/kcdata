@@ -14,7 +14,7 @@ data:
   get_mes: 軽巡、多摩です。<br>猫じゃないにゃ。
   voice_f: 1
   filename: cxhxktltjtbg
-  file_version: ["14", "11", "1226"]
+  file_version: ["14", "11", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
