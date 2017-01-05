@@ -25,6 +25,10 @@ data:
       category: useitem
       amount: 3000
       useitem_id: 34
+    -
+      category: useitem
+      amount: 1
+      useitem_id: 73
   wiki_id: F43
   chinese_title: 展开中部海域的「基地航空队」吧！
   chinese_detail: 废弃桶(运输用)两个，准备1200燃料和3000铝，以及一个设营队。
