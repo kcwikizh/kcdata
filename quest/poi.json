@@ -8897,7 +8897,7 @@
     ],
     "prerequisite": [
       303,
-      645
+      646
     ],
     "requirements": {
       "category": "equipexchange",
@@ -9035,7 +9035,7 @@
       }
     ],
     "prerequisite": [
-      422,
+      423,
       649
     ],
     "requirements": {
@@ -9061,6 +9061,54 @@
         0,
         8000,
         0
+      ]
+    }
+  },
+  {
+    "game_id": 652,
+    "wiki_id": "F48",
+    "category": 6,
+    "type": 1,
+    "name": "「特注家具」の調達",
+    "detail": "主砲「12.7cm連装砲」を二つ廃棄、家具コイン5,000と「7.7mm機銃」及び「九六式艦戦」各二つずつ<br>準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 100,
+    "reward_other": [
+      {
+        "name": "特注家具職人",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      303,
+      604,
+      842
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "equipments": [
+        {
+          "name": "7.7mm機銃",
+          "amount": 2
+        },
+        {
+          "name": "九六式艦戦",
+          "amount": 2
+        }
+      ],
+      "scraps": [
+        {
+          "name": "12.7cm連装砲",
+          "amount": 2
+        }
+      ],
+      "consumptions": [
+        {
+          "name": "家具コイン",
+          "amount": 5000
+        }
       ]
     }
   },
@@ -9851,8 +9899,8 @@
       }
     ],
     "prerequisite": [
-      228,
-      813
+      171,
+      228
     ],
     "requirements": {
       "category": "sortie",
@@ -10645,6 +10693,52 @@
         {
           "ship": "艦",
           "amount": 2
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 842,
+    "wiki_id": "B89",
+    "category": 2,
+    "type": 1,
+    "name": "主力戦艦戦隊、抜錨せよ！",
+    "detail": "戦艦または航空戦艦2隻以上からなる強力な戦艦戦隊を中核とした艦隊を沖ノ島海域前面に展開、<br>侵攻する敵艦隊を捕捉、これを撃滅せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 800,
+    "reward_steel": 400,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 1
+      },
+      {
+        "name": "改良型艦本式タービン / 強化型艦本式缶",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      233
+    ],
+    "requirements": {
+      "category": "sortie",
+      "map": "2-4",
+      "boss": true,
+      "result": "S",
+      "times": 1,
+      "groups": [
+        {
+          "ship": [
+            "低速戦艦",
+            "航戦"
+          ],
+          "amount": 2
+        },
+        {
+          "ship": "艦",
+          "amount": 4
         }
       ]
     }
