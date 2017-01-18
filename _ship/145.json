@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 僕は白露型駆逐艦、「時雨」。<br>これからよろしくね。
   voice_f: 3
-  filename: ogkwigciybxe
-  file_version: ["33", "28", "101"]
+  filename: ogkwigciybxf
+  file_version: ["34", "28", "110"]
   book_table_id: [145, 903, 916, 927, 995, 854]
   book_sinfo: 僕は白露型駆逐艦２番艦の時雨だよ。<br>あのレイテ沖海戦では、西村艦隊に所属して、運命のスリガオ海峡に突入したんだ。<br>扶桑も山城も凄かったよ……。<br>皆が忘れても、僕だけはずっと覚えているから……。
   stats:
@@ -23,7 +23,7 @@ data:
     houg: [13, 59]
     raig: [28, 84]
     tyku: [24, 72]
-    luck: [50, 79]
+    luck: [50, 88]
     soku: 10
     leng: 1
     kaih: 62

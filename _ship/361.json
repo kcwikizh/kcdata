@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: Buon Giornov～。<br>ザラ級重巡三番艦～ポーラです～。<br>提督と一緒に～何にでも挑戦中です～。頑張ります～。
   voice_f: 3
-  filename: btfmqyxunhxe
-  file_version: ["4", "1", "101"]
+  filename: btfmqyxunhkj
+  file_version: ["5", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

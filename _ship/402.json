@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 隊長、もっとまるゆに頑張らせてくださいね。
   voice_f: 3
-  filename: nrdgjqcgecxe
-  file_version: ["3", "1", "1"]
+  filename: nrdgjqcgecmg
+  file_version: ["4", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 提督、旗艦大淀、お供いたします。<br>前線艦隊指揮はどうぞお任せください！
   voice_f: 3
-  filename: gixbrtnuabys
-  file_version: ["22", "15", "101"]
+  filename: gixbrtnuabge
+  file_version: ["23", "15", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

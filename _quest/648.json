@@ -12,7 +12,7 @@ data:
       category: useitem
       id: 52
       amount: 1
-  prerequisite: [303, 645]
+  prerequisite: [303, 646]
   requirements:
     -
       category: scrap

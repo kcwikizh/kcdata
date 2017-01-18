@@ -14,7 +14,7 @@ data:
   get_mes: おはよう！　朝風よ。神風型駆逐艦二番艦、朝風。<br>司令官？　早く覚えなさい！　いい？
   voice_f: 3
   filename: sfhznwdwstgj
-  file_version: ["2", "1", "101"]
+  file_version: ["2", "1", "110"]
   book_table_id: 
   book_sinfo: 
   stats:

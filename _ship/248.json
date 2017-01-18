@@ -14,7 +14,7 @@ data:
   get_mes: 駆逐艦、朝潮です。<br>勝負ならいつでも受けて立つ覚悟です。
   voice_f: 1
   filename: xbbfxeemifpv
-  file_version: ["10", "10", "101"]
+  file_version: ["10", "10", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

@@ -1,0 +1,36 @@
+---
+layout: json
+data:
+  id: 652
+  category: 6
+  type: 4
+  title: 「特注家具」の調達
+  detail: 主砲「12.7cm連装砲」を二つ廃棄、家具コイン5,000と「7.7mm機銃」及び「九六式艦戦」各二つずつ<br>準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。
+  reward: [0, 0, 0, 100]
+  reward2:
+    -
+      category: useitem
+      id: 52
+      amount: 1
+  prerequisite: [303, 604, 842]
+  requirements:
+    -
+      category: scrap
+      amount: 2
+      slotitem_id: 2
+    -
+      category: useitem
+      amount: 5000
+      useitem_id: 44
+    -
+      category: possess
+      amount: 2
+      slotitem_id: 37
+    -
+      category: possess
+      amount: 2
+      slotitem_id: 19
+  wiki_id: F48
+  chinese_title: “特注家具”的调拨
+  chinese_detail: 废弃12.7cm连装炮两个，并准备家具币5000、以及7.7mm机铳和九六式舰战各两个！ ※在任务达成后，准备的家具币和装备将被消耗（改修值低的装备将优先被消耗）。
+---

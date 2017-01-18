@@ -14,7 +14,7 @@ data:
   get_mes: わらわが初春じゃ。<br>よろしく頼みますぞ。
   voice_f: 1
   filename: tedevipdbvdr
-  file_version: ["14", "14", "101"]
+  file_version: ["14", "14", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

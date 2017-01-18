@@ -12,9 +12,9 @@ data:
   after_lv: 
   after_ship_id: 
   get_mes: 長良型軽巡四番艦の「由良」です。<br>どうぞ、よろしくお願いいたしますっ！
-  voice_f: 0
+  voice_f: 1
   filename: xtqbjysffsvx
-  file_version: ["21", "19", "101"]
+  file_version: ["21", "20", "110"]
   book_table_id: 
   book_sinfo: 
   stats:

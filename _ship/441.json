@@ -13,8 +13,8 @@ data:
   after_ship_id: 446
   get_mes: ヴィットリオ・ヴェネト級戦艦２番艦、リットリオです。<br>火力と速度には自信があるの。よろしくお願いしますね。
   voice_f: 1
-  filename: hkhkiqklepxe
-  file_version: ["16", "12", "101"]
+  filename: hkhkiqkleprp
+  file_version: ["17", "12", "1"]
   book_table_id: [441, 933, 965]
   book_sinfo: パスタの国で生まれました。ヴィットリオ・ヴェネト級戦艦２番艦、リットリオです。<br>高速で兵装も充実した新鋭高速戦艦です。妹のローマ共々、どうぞよろしくお願い致します。
   stats:

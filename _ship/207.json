@@ -14,7 +14,7 @@ data:
   get_mes: ごきげんよう。<br>特型駆逐艦、綾波と申します。
   voice_f: 1
   filename: sgpilzypnejy
-  file_version: ["13", "13", "101"]
+  file_version: ["13", "13", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

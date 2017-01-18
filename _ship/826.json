@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 826
+  sort_no: 0
+  name: 正月鳳翔
+  yomi: ほうしょう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: epvwbrsckdxd
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 5
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [120, 140]
+    boko_d: [12, 184]
+    kaisyu_n: [2, -21]
+    kaisyu_d: [28, -19]
+    kaizo_n: [64, 92]
+    kaizo_d: [-48, 96]
+    map_n: [64, 136]
+    map_d: [-40, 164]
+    ensyuf_n: [60, 132]
+    ensyuf_d: [-48, 144]
+    ensyue_n: [64, 0]
+    battle_n: [80, 136]
+    battle_d: [-36, 156]
+    wed_a: [152, 0]
+    wed_b: [92, 100]
+  wiki_id:
+  chinese_name:
+---

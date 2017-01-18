@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 825
+  sort_no: 0
+  name: 正月Iowa
+  yomi: アイオワ
+  stype: 8
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: jbqnlsbgvlll
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [112, 132]
+    boko_d: [204, 132]
+    kaisyu_n: [14, -12]
+    kaisyu_d: [-4, -4]
+    kaizo_n: [88, 80]
+    kaizo_d: [152, 64]
+    map_n: [76, 112]
+    map_d: [152, 128]
+    ensyuf_n: [72, 120]
+    ensyuf_d: [144, 128]
+    ensyue_n: [76, 0]
+    battle_n: [108, 128]
+    battle_d: [164, 132]
+    wed_a: [132, -4]
+    wed_b: [88, 112]
+  wiki_id:
+  chinese_name:
+---

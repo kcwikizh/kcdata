@@ -14,7 +14,7 @@ data:
   get_mes: ねえねえねえ！　貴方が提督なんだ！<br>あたし、伊26潜水艦！　ニムでいいよ！　よろしくね！
   voice_f: 3
   filename: whdxgwhsflxf
-  file_version: ["1", "2", "101"]
+  file_version: ["1", "2", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

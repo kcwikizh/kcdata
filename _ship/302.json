@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 夕雲型一番艦、夕雲、着任しました。<br>提督、甘えてくれても、いいんですよ？
   voice_f: 3
-  filename: bbgkikxppkys
-  file_version: ["10", "5", "101"]
+  filename: bbgkikxppksy
+  file_version: ["11", "5", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [108, 124]
-    boko_d: [80, 144]
+    boko_n: [-24, 82]
+    boko_d: [-94, 102]
     kaisyu_n: [6, 6]
     kaisyu_d: [28, 7]
-    kaizo_n: [48, 64]
-    kaizo_d: [8, 76]
-    map_n: [80, 100]
-    map_d: [16, 112]
-    ensyuf_n: [32, 96]
-    ensyuf_d: [8, 104]
-    ensyue_n: [32, 0]
-    battle_n: [64, 104]
-    battle_d: [32, 132]
-    wed_a: [176, 24]
-    wed_b: [102, 120]
+    kaizo_n: [-49, 4]
+    kaizo_d: [-64, 6]
+    map_n: [-20, 52]
+    map_d: [-50, 72]
+    ensyuf_n: [0, 70]
+    ensyuf_d: [-60, 40]
+    ensyue_n: [-20, 0]
+    battle_n: [-20, 64]
+    battle_d: [-40, 110]
+    wed_a: [271, 47]
+    wed_b: [125, 145]
   wiki_id: "133a"
   chinese_name: 夕云改
 ---

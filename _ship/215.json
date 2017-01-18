@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: クマー。<br>よろしくだクマ。
   voice_f: 1
-  filename: mbgjkzlvemxe
-  file_version: ["16", "11", "101"]
+  filename: mbgjkzlvemui
+  file_version: ["17", "11", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

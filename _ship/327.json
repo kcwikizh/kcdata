@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 朝潮型駆逐艦、朝雲、着任したわ！<br>貴方が司令…かあ。ふうーん。ま、いいわ。私がやったげる！
   voice_f: 3
-  filename: vdieczinfgxe
-  file_version: ["17", "15", "101"]
+  filename: vdieczinfgce
+  file_version: ["18", "15", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

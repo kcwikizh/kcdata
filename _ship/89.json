@@ -13,9 +13,9 @@ data:
   after_ship_id: 285
   get_mes: 航空母艦、鳳翔です。<br>ふつつか者ですが、よろしくお願い致します。
   voice_f: 0
-  filename: bwgbubdrhvys
-  file_version: ["4", "3", "101"]
-  book_table_id: [89]
+  filename: bwgbubdrhvfg
+  file_version: ["5", "3", "1"]
+  book_table_id: [89, 826]
   book_sinfo: 航空母艦、鳳翔と申します。<br>最初から空母として建造された、世界で初めての航空母艦なんです。<br>小さな艦ですが、頑張りますね。
   stats:
     taik: [30, 49]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 2]
     build_time: 120
   graph:
-    boko_n: [120, 140]
-    boko_d: [12, 184]
+    boko_n: [-13, -17]
+    boko_d: [-20, -3]
     kaisyu_n: [2, -21]
     kaisyu_d: [28, -19]
-    kaizo_n: [64, 92]
-    kaizo_d: [-48, 96]
-    map_n: [64, 136]
-    map_d: [-40, 164]
-    ensyuf_n: [60, 132]
-    ensyuf_d: [-48, 144]
-    ensyue_n: [64, 0]
-    battle_n: [80, 136]
-    battle_d: [-36, 156]
-    wed_a: [152, 0]
-    wed_b: [92, 100]
+    kaizo_n: [-68, -72]
+    kaizo_d: [-84, -114]
+    map_n: [-72, -22]
+    map_d: [-91, -16]
+    ensyuf_n: [-15, -26]
+    ensyuf_d: [-26, -74]
+    ensyue_n: [-15, 0]
+    battle_n: [-103, -48]
+    battle_d: [-103, -48]
+    wed_a: [294, 167]
+    wed_b: [90, 100]
   wiki_id: "025"
   chinese_name: 凤翔
 ---

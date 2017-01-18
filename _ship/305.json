@@ -14,7 +14,7 @@ data:
   get_mes: こんにちはーっ！<br>最新鋭軽巡の阿賀野でーすっ。ふふ。
   voice_f: 7
   filename: cmpqwemjahur
-  file_version: ["9", "9", "101"]
+  file_version: ["9", "9", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

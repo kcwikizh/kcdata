@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 提督、谷風だよ。<br>これからお世話になるね！
   voice_f: 1
-  filename: jdyqtxzmsyxe
-  file_version: ["16", "14", "101"]
+  filename: jdyqtxzmsyng
+  file_version: ["17", "14", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

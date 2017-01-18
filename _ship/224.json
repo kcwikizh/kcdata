@@ -13,8 +13,8 @@ data:
   after_ship_id: 160
   get_mes: 艦隊のアイドル、那珂（なか）ちゃんだよー！<br>よっろしくぅ！
   voice_f: 1
-  filename: vxkcklmfevxe
-  file_version: ["13", "12", "1"]
+  filename: vxkcklmfevkk
+  file_version: ["14", "12", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

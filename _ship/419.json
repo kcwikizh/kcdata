@@ -14,13 +14,13 @@ data:
   get_mes: 初春型四番艦、初霜です。<br>皆さん、よろしくお願いします！
   voice_f: 1
   filename: ufgydlyjdaxb
-  file_version: ["8", "8", "101"]
+  file_version: ["8", "8", "1"]
   book_table_id: [419]
   book_sinfo: 初春型駆逐艦の４番艦、初霜です。<br>アリューシャン作戦、アッツ島沖海戦、キスカ島撤退作戦、マリアナ沖海戦、北号作戦、坊ノ岬沖海戦など、様々な激戦に参加しました！<br>ほんと、頑張ったんです！
   stats:
-    taik: [31, 52]
+    taik: [32, 53]
     souk: [14, 51]
-    houg: [12, 53]
+    houg: [12, 55]
     raig: [28, 84]
     tyku: [35, 81]
     luck: [53, 100]

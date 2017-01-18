@@ -14,7 +14,7 @@ data:
   get_mes: こんにちはー。軽巡洋艦、大井です。<br>どうぞ、よろしくお願い致しますね。
   voice_f: 1
   filename: yomyfjkhndny
-  file_version: ["15", "15", "101"]
+  file_version: ["15", "15", "1"]
   book_table_id: [24]
   book_sinfo: 球磨型軽巡洋艦の４番艦、大井よ。<br>神戸生まれなの。<br>平時は海軍兵学校練習艦として活躍したのよ？<br>もちろん、真打ちは、重雷装艦へのモデルチェンジよね？頑張るわ！
   stats:

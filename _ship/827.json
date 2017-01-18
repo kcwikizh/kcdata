@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 827
+  sort_no: 0
+  name: 正月山風
+  yomi: やまかぜ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: jbdxzljeqpvb
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [208, 116]
+    boko_d: [132, 100]
+    kaisyu_n: [8, -18]
+    kaisyu_d: [24, 0]
+    kaizo_n: [140, 44]
+    kaizo_d: [100, 8]
+    map_n: [136, 92]
+    map_d: [128, 88]
+    ensyuf_n: [144, 104]
+    ensyuf_d: [120, 72]
+    ensyue_n: [148, 0]
+    battle_n: [164, 112]
+    battle_d: [132, 100]
+    wed_a: [76, 24]
+    wed_b: [80, 124]
+  wiki_id:
+  chinese_name:
+---

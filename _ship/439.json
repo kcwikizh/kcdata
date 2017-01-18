@@ -14,7 +14,7 @@ data:
   get_mes: 我が名は、Queen Elizabeth class Battleship<br>Warspite !   Admiral……よろしく、頼むわね。
   voice_f: 1
   filename: lnltescodihe
-  file_version: ["1", "1", "101"]
+  file_version: ["1", "1", "1"]
   book_table_id: [439]
   book_sinfo: Queen Elizabeth class　Battleship　二番艦、Warspiteです。<br>Admiral、よろしくお願いしますね。生粋の英国生まれ、英国育ちの戦艦です。本国艦隊、地中海、そしてインド洋にも展開しました。私の名前、Admiral、ぜひその胸に刻んでください。
   stats:

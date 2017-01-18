@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 夕雲型駆逐艦、巻雲といいます。<br>夕雲姉さんを見習って、頑張ります！
   voice_f: 3
-  filename: gekgxdsvrlys
-  file_version: ["6", "5", "101"]
+  filename: gekgxdsvrliq
+  file_version: ["7", "5", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [124, 140]
-    boko_d: [152, 160]
+    boko_n: [36, 52]
+    boko_d: [36, 88]
     kaisyu_n: [44, -12]
     kaisyu_d: [32, -8]
-    kaizo_n: [88, 48]
-    kaizo_d: [92, 72]
-    map_n: [92, 92]
-    map_d: [96, 112]
-    ensyuf_n: [92, 84]
-    ensyuf_d: [84, 112]
-    ensyue_n: [72, 0]
-    battle_n: [100, 104]
-    battle_d: [116, 132]
-    wed_a: [128, 24]
-    wed_b: [112, 128]
+    kaizo_n: [70, 16]
+    kaizo_d: [24, 16]
+    map_n: [29, 24]
+    map_d: [32, 72]
+    ensyuf_n: [120, 40]
+    ensyuf_d: [16, 28]
+    ensyue_n: [80, 0]
+    battle_n: [72, 40]
+    battle_d: [32, 72]
+    wed_a: [149, 93]
+    wed_b: [129, 131]
   wiki_id: "134a"
   chinese_name: 卷云改
 ---

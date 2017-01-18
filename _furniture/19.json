@@ -4,11 +4,11 @@ data:
   id: 19
   type: 0
   no: 18
-  title: フェミニンなマット
-  description: 装飾的なアイテムは落ち着いたピンク系統でまとめると落ち着いたフェミニンな印象に。
-  rarity: 0
-  price: 0
-  saleflg: 0
+  title: 睦月の床
+  description: 高品質の床板をある駆逐艦<br>娘たちがさらに磨き上げて<br>くれました。冬の鎮守府の<br>庭に咲いた、雪椿がそっと<br>置かれています。
+  rarity: 4
+  price: 2100
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

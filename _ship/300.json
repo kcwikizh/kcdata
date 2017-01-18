@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 初風です、よろしく。<br>提督さんにとって私は何人目の私かしら？
   voice_f: 3
-  filename: ukwcjqlolexe
-  file_version: ["17", "15", "101"]
+  filename: ukwcjqlolezy
+  file_version: ["18", "15", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
