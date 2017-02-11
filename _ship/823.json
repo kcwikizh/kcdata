@@ -3,9 +3,9 @@ layout: json
 data:
   id: 823
   sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  name: 節分浦波
+  yomi: うらなみ
+  stype: 2
   ctype: 
   cnum: 
   backs: 
@@ -24,11 +24,11 @@ data:
     raig: 
     tyku: 
     luck: 
-    soku: 
+    soku: 10
     leng: 
     kaih: 
     tais: 
-    slot_num: 
+    slot_num: 2
     max_eq: 
     after_fuel: 
     after_bull: 
@@ -53,6 +53,6 @@ data:
     battle_d: [140, 88]
     wed_a: [104, 48]
     wed_b: [88, 112]
-  wiki_id:
-  chinese_name:
+  wiki_id: 
+  chinese_name: 
 ---

@@ -3,9 +3,9 @@ layout: json
 data:
   id: 824
   sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  name: 節分Commandant Teste
+  yomi: コマンダン・テスト
+  stype: 16
   ctype: 
   cnum: 
   backs: 
@@ -24,11 +24,11 @@ data:
     raig: 
     tyku: 
     luck: 
-    soku: 
+    soku: 5
     leng: 
     kaih: 
     tais: 
-    slot_num: 
+    slot_num: 3
     max_eq: 
     after_fuel: 
     after_bull: 
@@ -53,6 +53,6 @@ data:
     battle_d: [88, 136]
     wed_a: [220, -4]
     wed_b: [92, 112]
-  wiki_id:
-  chinese_name:
+  wiki_id: 
+  chinese_name: 
 ---

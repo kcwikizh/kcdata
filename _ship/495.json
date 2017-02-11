@@ -3,40 +3,40 @@ layout: json
 data:
   id: 495
   sort_no: 295
-  name: 
-  yomi: 
-  stype: 
+  name: 伊14
+  yomi: い14
+  stype: 14
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
+  backs: 6
+  after_lv: 35
+  after_ship_id: 375
+  get_mes: 晴嵐運用のために生まれた伊号潜水艦、伊14よ。<br>いいよ、イヨって呼んで。提督、よろしくどうぞ！
+  voice_f: 1
   filename: umpejcgdjwrp
   file_version: ["1", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [20, 24]
+    souk: [5, 24]
+    houg: [2, 9]
+    raig: [36, 72]
+    tyku: [0, 0]
+    luck: [20, 59]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 1
+    max_eq: [3, 0, 0, 0, 0]
+    after_fuel: 300
+    after_bull: 100
+    fuel_max: 20
+    bull_max: 15
+    broken: [1, 2, 3, 2]
+    pow_up: [0, 1, 1, 1]
+    build_time: 200
   graph:
     boko_n: [192, 152]
     boko_d: [176, 164]
@@ -53,6 +53,6 @@ data:
     battle_d: [204, 152]
     wed_a: [64, -4]
     wed_b: [84, 132]
-  wiki_id:
-  chinese_name:
+  wiki_id: "295"
+  chinese_name: 伊14
 ---

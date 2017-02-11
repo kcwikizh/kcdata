@@ -3,9 +3,9 @@ layout: json
 data:
   id: 821
   sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  name: 節分明石改
+  yomi: あかし
+  stype: 19
   ctype: 
   cnum: 
   backs: 
@@ -24,11 +24,11 @@ data:
     raig: 
     tyku: 
     luck: 
-    soku: 
+    soku: 5
     leng: 
     kaih: 
     tais: 
-    slot_num: 
+    slot_num: 4
     max_eq: 
     after_fuel: 
     after_bull: 
@@ -53,6 +53,6 @@ data:
     battle_d: [-24, 144]
     wed_a: [240, -8]
     wed_b: [144, 124]
-  wiki_id:
-  chinese_name:
+  wiki_id: 
+  chinese_name: 
 ---

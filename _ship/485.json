@@ -3,40 +3,40 @@ layout: json
 data:
   id: 485
   sort_no: 285
-  name: 
-  yomi: 
-  stype: 
+  name: 藤波
+  yomi: ふじなみ
+  stype: 2
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
+  backs: 4
+  after_lv: 30
+  after_ship_id: 373
+  get_mes: お疲れ！　夕雲型十一番艦、藤波よ。<br>司令、よろしくね！
+  voice_f: 1
   filename: hskuxickjvmq
   file_version: ["1", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 31]
+    raig: [24, 69]
+    tyku: [12, 42]
+    luck: [9, 49]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 150
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
   graph:
     boko_n: [172, 112]
     boko_d: [108, 116]
@@ -53,6 +53,6 @@ data:
     battle_d: [112, 120]
     wed_a: [88, 32]
     wed_b: [84, 112]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "285"
+  chinese_name: 藤波
 ---

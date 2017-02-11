@@ -15,7 +15,7 @@ data:
   voice_f: 3
   filename: scobmrrdbmsw
   file_version: ["28", "19", "214"]
-  book_table_id: [187, 910, 932, 993, 839]
+  book_table_id: [187, 910, 932, 993, 839, 821]
   book_sinfo: 連合艦隊唯一の工作艦、明石です。<br>トラック泊地に進出し、前線で損傷した艦艇の修理を担当したわ。トラック泊地が壊滅するその日まで、前線の艦隊を陰で支えたのよ。<br>よろしくね。
   stats:
     taik: [45, 58]

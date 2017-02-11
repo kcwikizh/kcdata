@@ -15,7 +15,7 @@ data:
   voice_f: 1
   filename: qhphdxqmvzbq
   file_version: ["3", "1", "214"]
-  book_table_id: [486]
+  book_table_id: [486, 823]
   book_sinfo: 吹雪型駆逐艦十番艦、特改Ｉ型、浦波です。<br>佐世保生まれです。磯波姉さんや、綾波、敷波と共に、第十九駆逐隊を編成しました。緒戦からミッドウェー、南方へも出動しました。<br>第十九駆逐隊……覚えていてくださいね。
   stats:
     taik: [15, 29]

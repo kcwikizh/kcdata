@@ -15,7 +15,7 @@ data:
   voice_f: 0
   filename: bqwjdltjktls
   file_version: ["5", "3", "214"]
-  book_table_id: [53, 221, 945]
+  book_table_id: [53, 945]
   book_sinfo: 長良型３番艦の名取です。<br>ちょっと古いモデルっていわれるけれど、高速軽巡洋艦として使い方はあるはず…<br>そ、そう、水雷戦隊には、ぜひ配属してくださいね。<br>が、頑張りますから！
   stats:
     taik: [26, 39]

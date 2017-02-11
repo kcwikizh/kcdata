@@ -3,9 +3,9 @@ layout: json
 data:
   id: 720
   sort_no: 0
-  name: 
+  name: 深海双子棲姫-壊
   yomi: 
-  stype: 
+  stype: 10
   ctype: 
   cnum: 
   backs: 
@@ -24,11 +24,11 @@ data:
     raig: 
     tyku: 
     luck: 
-    soku: 
+    soku: 5
     leng: 
     kaih: 
     tais: 
-    slot_num: 
+    slot_num: 4
     max_eq: 
     after_fuel: 
     after_bull: 
@@ -53,6 +53,6 @@ data:
     battle_d: [0, 64]
     wed_a: [0, 0]
     wed_b: [0, 0]
-  wiki_id:
-  chinese_name:
+  wiki_id: 
+  chinese_name: 
 ---
