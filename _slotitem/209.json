@@ -1,0 +1,36 @@
+---
+layout: json
+order: 209
+data:
+  id: 209
+  sort_no: 209
+  name: 彩雲(輸送用分解済)
+  type: [23, 41, 50, 41, 0]
+  rare: 3
+  broken: [2, 0, 0, 11]
+  info: 「我ニ追イツク敵機無シ」有名な無電を発した俊足の艦上偵察機「彩雲」。<br>敵戦闘機の追随を許さない高速性能を誇る、高性能な艦上偵察機です。悪化した戦況の中、敵情偵察に海上へと飛び立ちました。その「彩雲」を航空機格納庫を持つ潜水艦空母に格納して輸送できるように分解しました。
+  usebull: 0
+  cost: 10
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

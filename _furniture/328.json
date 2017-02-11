@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 328
+  type: 5
+  no: 72
+  title: 節分の原稿机
+  description: 季節の修羅場を乗り切った<br>ある艦娘が、節分に備えて<br>あれこれ準備している原稿<br>机です。机の横には、やや<br>薄い本も常備しています。
+  rarity: 4
+  price: 25000
+  saleflg: 0
+  season: 0
+  filename: "073"
+  file_version: "1"
+---

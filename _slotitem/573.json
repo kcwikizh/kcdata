@@ -1,0 +1,36 @@
+---
+layout: json
+order: 573
+data:
+  id: 573
+  sort_no: 0
+  name: 深海潜水下駄履き
+  type: [5, 7, 11, 10, 0]
+  rare: 5
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 9
+  distance: 8
+  stats:
+    taik: 0
+    souk: 3
+    houg: 6
+    raig: 0
+    soku: 0
+    baku: 18
+    tyku: 6
+    tais: 9
+    atap: 0
+    houm: 12
+    raim: 0
+    houk: 6
+    raik: 0
+    bakk: 0
+    saku: 3
+    sakb: 0
+    luck: 0
+    leng: 5
+  improvement: 
+  chinese_name:
+---

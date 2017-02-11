@@ -2,7 +2,7 @@
 layout: json
 data:
   id: 371
-  sort_no: 0
+  sort_no: 1451
   name: 
   yomi: 
   stype: 
@@ -38,21 +38,21 @@ data:
     pow_up: 
     build_time: 
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
+    boko_n: [84, 136]
+    boko_d: [148, 148]
+    kaisyu_n: [22, -8]
+    kaisyu_d: [68, 2]
+    kaizo_n: [40, 60]
+    kaizo_d: [116, 56]
+    map_n: [48, 112]
+    map_d: [140, 128]
+    ensyuf_n: [48, 120]
+    ensyuf_d: [124, 124]
+    ensyue_n: [40, 0]
+    battle_n: [64, 132]
+    battle_d: [144, 144]
+    wed_a: [172, -4]
+    wed_b: [92, 112]
   wiki_id: 
   chinese_name: 
 ---

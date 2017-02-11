@@ -14,7 +14,7 @@ data:
   get_mes: 貴様が司令官か。<br>私は那智。よろしくお願いする。
   voice_f: 1
   filename: nvftqenyroyu
-  file_version: ["14", "14", "1"]
+  file_version: ["14", "14", "214"]
   book_table_id: 
   book_sinfo: 
   stats:

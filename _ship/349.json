@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦、三番艦の風雲よ。<br>そっか、貴方が提督なんだ。了解です。<br>ご命令、どうぞ！
   voice_f: 3
   filename: gykqxdkfpzih
-  file_version: ["11", "9", "110"]
+  file_version: ["13", "9", "214"]
   book_table_id: 
   book_sinfo: 
   stats:

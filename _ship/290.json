@@ -14,7 +14,7 @@ data:
   get_mes: こ、こんにちは、軽巡、阿武隈です。
   voice_f: 3
   filename: uuxoixtoemiv
-  file_version: ["15", "16", "1"]
+  file_version: ["15", "16", "214"]
   book_table_id: 
   book_sinfo: 
   stats:

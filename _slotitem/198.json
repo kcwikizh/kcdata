@@ -72,20 +72,20 @@ data:
             id: 21
             amount: 2
       day:
-        -
-          -
-            ship_id: 438
-        -
-          -
-            ship_id: 433
-          -
-            ship_id: 438
-        -
-          -
-            ship_id: 433
-          -
-            ship_id: 438
         - false
+        -
+          -
+            ship_id: 433
+          -
+            ship_id: 438
+        -
+          -
+            ship_id: 433
+          -
+            ship_id: 438
+        -
+          -
+            ship_id: 438
         - false
         - false
         - false

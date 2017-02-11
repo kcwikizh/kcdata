@@ -14,7 +14,7 @@ data:
   get_mes: 神風型駆逐艦の三番艦、春風と申します。<br>司令官様、海上護衛はお任せくださいませ。<br>最後まで……お支え致します。
   voice_f: 3
   filename: ihdaromldkrr
-  file_version: ["1", "1", "1"]
+  file_version: ["1", "1", "214"]
   book_table_id: 
   book_sinfo: 
   stats:

@@ -1,0 +1,36 @@
+---
+layout: json
+order: 210
+data:
+  id: 210
+  sort_no: 210
+  name: 潜水艦搭載電探&水防式望遠鏡
+  type: [24, 42, 51, 42, 0]
+  rare: 2
+  broken: [0, 0, 12, 13]
+  info: 潜水艦に搭載する、索敵及び水上偵察用装備です。<br>艦橋上部に集中装備する多数の優れた水防式望遠鏡と水上電探及び対空電探群によって、脅威の早期発見に努めます。
+  usebull: 0
+  cost: 10
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 8
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

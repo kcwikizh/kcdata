@@ -1,0 +1,36 @@
+---
+layout: json
+order: 207
+data:
+  id: 207
+  sort_no: 207
+  name: 瑞雲(六三一空)
+  type: [5, 7, 11, 10, 2]
+  rare: 3
+  broken: [2, 3, 0, 5]
+  info: 急降下爆撃も可能な多用途水上偵察機「瑞雲」。<br>高価かつ高性能潜水艦搭載攻撃機「晴嵐」を運用する潜水艦部隊の航空隊として編成された第六三一海軍航空隊。その六三一空の「瑞雲」による練成部隊です。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 7
+    tyku: 1
+    tais: 2
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

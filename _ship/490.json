@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 490
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 290
+  name: 荒潮改二
+  yomi: あらしお
+  stype: 2
+  ctype: 18
+  cnum: 4
+  backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
+  get_mes: あら。自己紹介まだでしたかー。<br>私、荒潮です。
+  voice_f: 1
   filename: hrkuspdmjtmd
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["1", "1", "214"]
+  book_table_id: [490]
+  book_sinfo: 神戸娘の駆逐艦よ？そう、名前は荒潮。<br>姉妹達とけっこう色々頑張ったのよ。<br>でも、私の煙突に爆弾落とすのだけは、ちょっとやめてほしいわ。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [31, 54]
+    souk: [14, 52]
+    houg: [19, 69]
+    raig: [33, 88]
+    tyku: [22, 70]
+    luck: [17, 71]
+    soku: 10
+    leng: 1
+    kaih: 50
+    tais: 26
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 22
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
+    boko_n: [100, 148]
+    boko_d: [100, 168]
+    kaisyu_n: [12, -16]
+    kaisyu_d: [24, 2]
+    kaizo_n: [32, 84]
+    kaizo_d: [32, 84]
+    map_n: [36, 124]
+    map_d: [36, 140]
+    ensyuf_n: [40, 132]
+    ensyuf_d: [44, 136]
+    ensyue_n: [40, 0]
+    battle_n: [64, 144]
+    battle_d: [64, 160]
+    wed_a: [188, -12]
+    wed_b: [84, 120]
   wiki_id: 
   chinese_name: 
 ---

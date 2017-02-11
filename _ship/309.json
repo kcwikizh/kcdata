@@ -14,7 +14,7 @@ data:
   get_mes: やったぁ！ でたっぴょん！ 卯月でっす！ <br>うーちゃんって呼ばれてまっす！
   voice_f: 1
   filename: xwjlobdutrwv
-  file_version: ["15", "15", "110"]
+  file_version: ["16", "15", "214"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [0, 52]
-    boko_d: [0, 80]
+    boko_n: [160, 160]
+    boko_d: [160, 160]
     kaisyu_n: [8, 0]
     kaisyu_d: [12, 0]
-    kaizo_n: [16, 16]
-    kaizo_d: [0, -24]
-    map_n: [48, 48]
-    map_d: [0, 32]
-    ensyuf_n: [48, 26]
-    ensyuf_d: [0, 0]
-    ensyue_n: [32, 0]
-    battle_n: [56, 48]
-    battle_d: [16, 32]
-    wed_a: [146, 100]
-    wed_b: [119, 120]
+    kaizo_n: [96, 80]
+    kaizo_d: [96, 80]
+    map_n: [100, 112]
+    map_d: [100, 112]
+    ensyuf_n: [100, 112]
+    ensyuf_d: [100, 112]
+    ensyue_n: [96, 0]
+    battle_n: [128, 128]
+    battle_d: [128, 128]
+    wed_a: [92, 20]
+    wed_b: [116, 120]
   wiki_id: "165a"
   chinese_name: 卯月改
 ---

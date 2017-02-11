@@ -14,7 +14,7 @@ data:
   get_mes: あんたが司令官ね。<br>ま、せいぜい頑張りなさい！
   voice_f: 1
   filename: hpfcwdqxgyvl
-  file_version: ["18", "18", "1"]
+  file_version: ["19", "18", "214"]
   book_table_id: [33, 915]
   book_sinfo: 特型駆逐艦、５番艦の叢雲よ。<br>え、知らないって？　全く、ありえないわね。<br>南方作戦や、古鷹の救援、数々の作戦に参加した名艦の私を知らないって、あんた、もぐりでしょ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [-117, -8]
+    boko_n: [-24, 56]
     boko_d: [-119, -2]
     kaisyu_n: [15, -6]
     kaisyu_d: [28, 7]
-    kaizo_n: [-202, -65]
+    kaizo_n: [0, 32]
     kaizo_d: [-128, -96]
-    map_n: [-168, -14]
+    map_n: [-32, 64]
     map_d: [-215, -12]
-    ensyuf_n: [-158, -16]
+    ensyuf_n: [-16, 32]
     ensyuf_d: [-152, -60]
-    ensyue_n: [-158, 0]
-    battle_n: [-187, -8]
+    ensyue_n: [-48, 0]
+    battle_n: [0, 64]
     battle_d: [-187, -7]
-    wed_a: [411, 147]
-    wed_b: [122, 117]
+    wed_a: [256, 72]
+    wed_b: [144, 112]
   wiki_id: "015"
   chinese_name: 丛云
 ---
