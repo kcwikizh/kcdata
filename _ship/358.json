@@ -9,12 +9,12 @@ data:
   ctype: 
   cnum: 
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv: 88
+  after_ship_id: 496
   get_mes: Buon Giornov！ ザラ級重巡、一番艦ザラです！<br>粘り強さが信条です。提督、よろしくね！
   voice_f: 3
   filename: waviopoxryme
-  file_version: ["4", "2", "214"]
+  file_version: ["4", "2", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 
     slot_num: 4
     max_eq: [2, 2, 2, 2, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 1600
+    after_bull: 1500
     fuel_max: 45
     bull_max: 65
     broken: [4, 6, 18, 3]

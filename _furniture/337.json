@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 337
+  type: 3
+  no: 68
+  title: 弥生のアレンジメント
+  description: ある睦月型駆逐艦が弥生の<br>季節の花々を使って作った<br>フラワーアレンジメントで<br>す。もちろん、怒ってなん<br>かいません。
+  rarity: 3
+  price: 1300
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

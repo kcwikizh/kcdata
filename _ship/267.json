@@ -14,7 +14,7 @@ data:
   get_mes: 足柄よ。砲雷撃戦が得意なの。<br>ふふ、よろしくね。
   voice_f: 3
   filename: bekjyovmrmfd
-  file_version: ["14", "14", "214"]
+  file_version: ["14", "14", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

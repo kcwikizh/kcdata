@@ -8,7 +8,7 @@ data:
   description: 何度描いても水で簡単にふき取りが可能な楽しい床。戦略を立てるのにも有効です。
   rarity: 4
   price: 400
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

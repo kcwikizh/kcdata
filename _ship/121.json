@@ -14,7 +14,7 @@ data:
   get_mes: 提督、三隈、新型になりましてよ
   voice_f: 3
   filename: yyvxfxdusxlx
-  file_version: ["6", "4", "214"]
+  file_version: ["6", "4", "228"]
   book_table_id: [121]
   book_sinfo: 最上型１番艦のモガミンとは、とっても仲がいいのだけれど、仲が良すぎて彼女とは衝突することも多いの…ええ、そう…物理的に…私はちゃんと前見てるのよ？
   stats:

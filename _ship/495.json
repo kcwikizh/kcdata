@@ -6,33 +6,33 @@ data:
   name: 伊14
   yomi: い14
   stype: 14
-  ctype: 
-  cnum: 
+  ctype: 71
+  cnum: 2
   backs: 6
-  after_lv: 35
+  after_lv: 45
   after_ship_id: 375
   get_mes: 晴嵐運用のために生まれた伊号潜水艦、伊14よ。<br>いいよ、イヨって呼んで。提督、よろしくどうぞ！
   voice_f: 1
   filename: umpejcgdjwrp
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [495]
+  book_sinfo: 伊十三型潜水艦、その二番艦、伊14よ！戦略運用を目指す潜水空母艦隊を構成するために建造されたの。生まれた時には、もうそんな状況ではなかったけれど。六三一空の晴嵐隊と共に実戦で活躍することはできなかったけど、あの戦局の中で「光」作戦を成功させたんだから！伊14…そして伊13、覚えていてね。
   stats:
-    taik: [20, 24]
-    souk: [5, 24]
+    taik: [18, 23]
+    souk: [5, 22]
     houg: [2, 9]
-    raig: [36, 72]
+    raig: [27, 66]
     tyku: [0, 0]
-    luck: [20, 59]
+    luck: [24, 64]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
-    slot_num: 1
-    max_eq: [3, 0, 0, 0, 0]
-    after_fuel: 300
+    kaih: 14
+    tais: 0
+    slot_num: 2
+    max_eq: [2, 0, 0, 0, 0]
+    after_fuel: 280
     after_bull: 100
-    fuel_max: 20
+    fuel_max: 15
     bull_max: 15
     broken: [1, 2, 3, 2]
     pow_up: [0, 1, 1, 1]

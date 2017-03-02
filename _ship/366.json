@@ -14,7 +14,7 @@ data:
   get_mes: 睦月型駆逐艦、その六番艦、水無月だよ。<br>遅れてごめん。司令官、よろしくね！……えへへ。
   voice_f: 3
   filename: mnqveismubcz
-  file_version: ["2", "1", "214"]
+  file_version: ["3", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [176, 156]
-    boko_d: [180, 156]
+    boko_n: [184, 144]
+    boko_d: [116, 156]
     kaisyu_n: [6, -18]
     kaisyu_d: [36, 4]
-    kaizo_n: [144, 76]
-    kaizo_d: [124, 56]
-    map_n: [156, 124]
-    map_d: [144, 124]
-    ensyuf_n: [152, 128]
-    ensyuf_d: [140, 128]
-    ensyue_n: [144, 0]
-    battle_n: [172, 136]
-    battle_d: [160, 136]
-    wed_a: [64, -12]
-    wed_b: [100, 124]
+    kaizo_n: [116, 72]
+    kaizo_d: [48, 84]
+    map_n: [140, 124]
+    map_d: [80, 136]
+    ensyuf_n: [104, 116]
+    ensyuf_d: [60, 128]
+    ensyue_n: [120, 0]
+    battle_n: [144, 128]
+    battle_d: [96, 144]
+    wed_a: [80, 12]
+    wed_b: [120, 112]
   wiki_id: "281a"
   chinese_name: 水无月改
 ---

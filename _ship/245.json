@@ -14,7 +14,7 @@ data:
   get_mes: こんにちは、白露型駆逐艦「夕立」よ。<br>よろしくね！
   voice_f: 1
   filename: wpsyznjwvlmd
-  file_version: ["24", "25", "214"]
+  file_version: ["24", "25", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

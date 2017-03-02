@@ -14,7 +14,7 @@ data:
   get_mes: 提督、お疲れさまです。<br>水上機母艦、瑞穂、推参致しました。<br>どうぞよろしくお願い申し上げます。
   voice_f: 3
   filename: ycgllqsxwdgy
-  file_version: ["25", "10", "214"]
+  file_version: ["26", "10", "228"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,8 +38,8 @@ data:
     pow_up: [1, 2, 1, 2]
     build_time: 140
   graph:
-    boko_n: [0, 88]
-    boko_d: [0, 104]
+    boko_n: [12, 84]
+    boko_d: [12, 100]
     kaisyu_n: [12, -8]
     kaisyu_d: [24, -4]
     kaizo_n: [-48, 24]

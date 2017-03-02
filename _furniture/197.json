@@ -8,7 +8,7 @@ data:
   description: 至高にして究極。普通のお布団と麦わら枕。結局これが一番疲れがとれるかも…。
   rarity: 1
   price: 50
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

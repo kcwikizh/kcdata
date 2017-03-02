@@ -14,7 +14,7 @@ data:
   get_mes: 特型駆逐艦…綾波型の「潮」です。<br>もう下がってよろしいでしょうか…。
   voice_f: 1
   filename: dpqjexkcixhw
-  file_version: ["23", "19", "214"]
+  file_version: ["24", "19", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [137, 11]
-    boko_d: [47, 30]
+    boko_n: [216, 136]
+    boko_d: [184, 132]
     kaisyu_n: [21, 9]
     kaisyu_d: [28, 7]
-    kaizo_n: [82, -44]
-    kaizo_d: [11, -53]
-    map_n: [41, 11]
-    map_d: [-49, 20]
-    ensyuf_n: [103, 8]
-    ensyuf_d: [23, -23]
-    ensyue_n: [103, 0]
-    battle_n: [62, 16]
-    battle_d: [-15, 19]
-    wed_a: [106, 116]
-    wed_b: [134, 145]
+    kaizo_n: [152, 84]
+    kaizo_d: [124, 40]
+    map_n: [168, 124]
+    map_d: [156, 120]
+    ensyuf_n: [160, 124]
+    ensyuf_d: [156, 116]
+    ensyue_n: [152, 0]
+    battle_n: [176, 132]
+    battle_d: [164, 132]
+    wed_a: [52, 4]
+    wed_b: [112, 120]
   wiki_id: "070a"
   chinese_name: 潮改
 ---

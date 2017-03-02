@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 496
+  sort_no: 296
+  name: Zara due
+  yomi: ザラ
+  stype: 5
+  ctype: 64
+  cnum: 1
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: Buon Giornov！ ザラ級重巡、一番艦ザラです！<br>粘り強さが信条です。提督、よろしくね！
+  voice_f: 3
+  filename: jprnkicueltw
+  file_version: ["1", "1", "1"]
+  book_table_id: [496]
+  book_sinfo: ザラ級重巡洋艦、その一番艦、ザラです。巡洋艦同士の昼間水上砲戦なら、誰にも負けない自負はあります。妹のポーラが少し心配だけど、この艦隊なら！提督、頑張りましょう！<br>重巡ザラ、艦隊に参加します！
+  stats:
+    taik: [62, 74]
+    souk: [55, 88]
+    houg: [57, 87]
+    raig: [0, 48]
+    tyku: [35, 90]
+    luck: [17, 70]
+    soku: 10
+    leng: 3
+    kaih: 38
+    tais: 0
+    slot_num: 4
+    max_eq: [6, 3, 3, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 50
+    bull_max: 80
+    broken: [4, 10, 25, 5]
+    pow_up: [4, 0, 2, 3]
+    build_time: 70
+  graph:
+    boko_n: [-44, 136]
+    boko_d: [20, 132]
+    kaisyu_n: [20, -12]
+    kaisyu_d: [20, -4]
+    kaizo_n: [-72, 68]
+    kaizo_d: [-52, 60]
+    map_n: [-52, 120]
+    map_d: [-20, 128]
+    ensyuf_n: [-64, 128]
+    ensyuf_d: [-28, 132]
+    ensyue_n: [-64, 0]
+    battle_n: [-40, 144]
+    battle_d: [-20, 144]
+    wed_a: [288, 4]
+    wed_b: [92, 104]
+  wiki_id: "296"
+  chinese_name: 扎拉 due
+---

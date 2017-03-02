@@ -6,8 +6,8 @@ data:
   name: 松風
   yomi: まつかぜ
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 66
+  cnum: 4
   backs: 4
   after_lv: 50
   after_ship_id: 371
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: uesladlyqrru
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [474]
+  book_sinfo: 神風型駆逐艦、その四番艦、松風だ。旧式だって？は！冗談じゃない。攻略作戦から南方ソロモン方面の最前線、そして船団護衛まで、戦線を支えた僕たちを忘れようったって、そうはいかないさ。<br>神風型の仲間達、そしてこの松風、忘れんなよ。<br>頼んだぜ。
   stats:
     taik: [12, 23]
     souk: [5, 17]
@@ -26,8 +26,8 @@ data:
     luck: [12, 70]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 36
+    tais: 21
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 80

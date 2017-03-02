@@ -1,0 +1,36 @@
+---
+layout: json
+order: 214
+data:
+  id: 214
+  sort_no: 214
+  name: 熟練聴音員+後期型艦首魚雷(6門)
+  type: [2, 3, 32, 5, 0]
+  rare: 4
+  broken: [2, 3, 2, 2]
+  info: 潜水艦の艦首に装備する潜水艦専用兵装の改良後期型です。<br>水上艦搭載のものよりやや直径の小さい、必殺の潜水艦搭載酸素魚雷。その無気泡発射管の改良後期型艦首6門と熟練の高いソナー員達の組み合わせは、高い攻撃力と生存性を潜水艦に付与します。
+  usebull: 0
+  cost: 9
+  distance: 8
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 15
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 5
+    raim: 0
+    houk: 4
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name: 熟练听音员+后期型舰首鱼雷(6门)
+---

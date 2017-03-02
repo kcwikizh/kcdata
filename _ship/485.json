@@ -6,8 +6,8 @@ data:
   name: 藤波
   yomi: ふじなみ
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 38
+  cnum: 11
   backs: 4
   after_lv: 30
   after_ship_id: 373
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: hskuxickjvmq
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [485]
+  book_sinfo: 艦隊型駆逐艦の決定版、夕雲型の十一番艦、藤波だよ。三十二駆、そして十一水戦でデビューしたんだ。かなり状況は良くなかったけど、できる限り頑張ったよ。最期は華の二水戦で、艦隊決戦、捷一号作戦に参加した…うん…辛かったな。でも、やれるだけはやったんだ。覚えておいてね！
   stats:
     taik: [16, 34]
     souk: [6, 19]
@@ -26,8 +26,8 @@ data:
     luck: [9, 49]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 46
+    tais: 26
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 110

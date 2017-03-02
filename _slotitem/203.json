@@ -1,0 +1,36 @@
+---
+layout: json
+order: 203
+data:
+  id: 203
+  sort_no: 203
+  name: 艦本新設計 増設バルジ(中型艦)
+  type: [6, 17, 27, 23, 0]
+  rare: 3
+  broken: [0, 0, 24, 2]
+  info: 新設計された艦艇の防御力を強化する増加装甲の一種です。重巡洋艦以上の中型艦艇の船体側面への増設により防御力を高めることが可能です。<br>(重巡洋艦級・軽空母級・水上機母艦及び特定艦艇に適用可能です)
+  usebull: 0
+  cost: 13
+  distance: 2
+  stats:
+    taik: 0
+    souk: 8
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: -1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: 舰本新设计 增设装甲板(中型舰)
+---

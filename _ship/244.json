@@ -14,7 +14,7 @@ data:
   get_mes: はいはーい！白露型駆逐艦「村雨」だよ。<br>みんな、よろしくね！
   voice_f: 1
   filename: wvnchfzhekfo
-  file_version: ["30", "27", "214"]
+  file_version: ["30", "27", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

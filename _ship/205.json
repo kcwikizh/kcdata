@@ -14,7 +14,7 @@ data:
   get_mes: あんたが司令官ね。<br>ま、せいぜい頑張りなさい！
   voice_f: 3
   filename: rmcvsljwdyur
-  file_version: ["18", "17", "214"]
+  file_version: ["19", "17", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [-24, 56]
+    boko_n: [-117, -8]
     boko_d: [-119, -2]
     kaisyu_n: [15, -6]
     kaisyu_d: [28, 7]
-    kaizo_n: [0, 32]
+    kaizo_n: [-202, -65]
     kaizo_d: [-128, -96]
-    map_n: [-32, 64]
+    map_n: [-168, -14]
     map_d: [-215, -12]
-    ensyuf_n: [-16, 32]
+    ensyuf_n: [-158, -16]
     ensyuf_d: [-152, -60]
-    ensyue_n: [-48, 0]
-    battle_n: [0, 64]
+    ensyue_n: [-158, 0]
+    battle_n: [-187, -8]
     battle_d: [-187, -7]
-    wed_a: [256, 72]
-    wed_b: [144, 112]
+    wed_a: [411, 147]
+    wed_b: [122, 117]
   wiki_id: "015a"
   chinese_name: 丛云改
 ---

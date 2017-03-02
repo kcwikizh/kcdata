@@ -14,7 +14,7 @@ data:
   get_mes: 如月と申します。<br>おそばに置いてくださいね。
   voice_f: 1
   filename: lwlmcwxyvcyz
-  file_version: ["21", "20", "214"]
+  file_version: ["22", "20", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [104, 144]
-    boko_d: [104, 144]
+    boko_n: [130, 68]
+    boko_d: [114, 59]
     kaisyu_n: [19, 8]
     kaisyu_d: [28, 7]
-    kaizo_n: [80, 96]
-    kaizo_d: [80, 96]
-    map_n: [80, 112]
-    map_d: [80, 112]
-    ensyuf_n: [96, 128]
-    ensyuf_d: [96, 128]
-    ensyue_n: [64, 0]
-    battle_n: [112, 128]
-    battle_d: [112, 128]
-    wed_a: [128, -8]
-    wed_b: [136, 136]
+    kaizo_n: [75, 13]
+    kaizo_d: [60, 2]
+    map_n: [34, 68]
+    map_d: [18, 49]
+    ensyuf_n: [126, 66]
+    ensyuf_d: [32, 11]
+    ensyue_n: [126, 0]
+    battle_n: [79, 63]
+    battle_d: [66, 51]
+    wed_a: [106, 63]
+    wed_b: [139, 114]
   wiki_id: "032a"
   chinese_name: 如月改
 ---
