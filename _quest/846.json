@@ -1,0 +1,38 @@
+---
+layout: json
+data:
+  id: 846
+  category: 8
+  type: 4
+  title: 潜水艦隊、中部海域の哨戒を実施せよ！
+  detail: 潜水艦を旗艦とし、4隻以上の有力な潜水艦を配備した第一艦隊、精鋭潜水艦隊で<br>中部海域哨戒線に進出、回航中の敵空母を捕捉、これを襲撃せよ！
+  reward: [300, 300, 300, 0]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 3
+    -
+      category: useitem
+      id: 59
+      amount: 1
+  prerequisite: [218, 815]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 61
+      boss: true
+      result: B
+    -
+      category: flagship
+      ship_type: [13, 14]
+    -
+      category: fleet
+      amount:
+        gte: 4
+      ship_type: [13, 14]
+  wiki_id: B91
+  chinese_title: 潜水舰队，实施中部海域巡逻！
+  chinese_detail: 以潜艇为旗舰，编成4支以上强力潜艇组成的精锐第一舰队。进出中部海域警戒线(6-1)，捕捉并袭击巡航中的敌空母！ 
+---

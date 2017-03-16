@@ -1,0 +1,29 @@
+---
+layout: json
+data:
+  id: 848
+  category: 8
+  type: 4
+  title: 重装甲巡洋艦、鉄底海峡に突入せよ！
+  detail: 第一艦隊旗艦に「Zara due」を配備、同艦隊で南方サブ島沖海域へ突入！同方面の敵艦隊群を突破し、鉄底海峡に展開する敵戦力を撃破せよ！
+  reward: [0, 0, 700, 0]
+  reward2:
+    -
+      category: slotitem
+      id: 203
+      amount: 1
+  prerequisite: [846]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 53
+      boss: true
+      result: A
+    -
+      category: flagship
+      ship_id: 496
+  wiki_id: B92
+  chinese_title: 重装甲巡洋舰，突入铁底海峡！
+  chinese_detail: 编成以Zara due为旗舰的第一舰队，突入萨部岛近海海域(5-3)！突破海域中的敌舰队群，击破部署于铁底海峡的敌战力！
+---

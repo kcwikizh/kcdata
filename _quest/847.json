@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 847
+  category: 8
+  type: 4
+  title: 春の準備任務：桃の節句準備を完遂せよ！
+  detail: 春の準備任務：艦隊を東部オリョール海に反復出撃、同方面敵艦隊を覆滅し、<br>同海域周辺の制海権を完全に確保、桃の節句を迎える準備を完遂せよ！
+  reward: [330, 330, 0, 330]
+  reward2:
+    -
+      category: useitem
+      id: 62
+      amount: 3
+    -
+      category: useitem
+      id: 64
+      amount: 1
+  prerequisite: [657]
+  requirements:
+    -
+      category: sortie
+      times: 5
+      map: 23
+      boss: true
+      result: S
+  wiki_id: SB22
+  chinese_title: 春季准备任务：完成桃之节句的准备！
+  chinese_detail: 春季准备任务：派遣舰队反复出击东部奥廖尔海(2-3)，歼灭同海域的敌方舰队，完全确保海域周边制海权，完成迎接桃之节句的准备工作。 
+---

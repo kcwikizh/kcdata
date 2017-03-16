@@ -1,0 +1,38 @@
+---
+layout: json
+data:
+  id: 844
+  category: 8
+  type: 4
+  title: 精鋭「第八駆逐隊」突入せよ！
+  detail: 「荒潮改二」を旗艦とし、僚艦に「第八駆逐隊」から1隻を配備した精鋭第1艦隊で<br>サーモン海域北方に突入、同方面に接近する有力な敵艦隊を捕捉、同方面の敵戦力の漸減に努めよ！
+  reward: [800, 800, 0, 800]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 4
+    -
+      category: useitem
+      id: 64
+      amount: 1
+  prerequisite: [820, 829]
+  requirements:
+    -
+      category: sortie
+      times: 2
+      map: 55
+      boss: true
+      result: A
+    -
+      category: flagship
+      ship_id: 490
+    -
+      category: fleet
+      amount:
+        gte: 2
+      ship_id: [490, 95, 96, 97]
+  wiki_id: B90
+  chinese_title: 精锐「第八驱逐队」突入！
+  chinese_detail: 编成以荒潮改二为旗舰，僚舰中包含另一「第八驱逐队」成员的精锐第一舰队，突入沙门海域北方(5-5)，捕捉接近该方面的强力敌舰队，尽力削弱敌方战力！
+---

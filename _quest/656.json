@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 656
+  category: 6
+  type: 4
+  title: 六三一空「晴嵐」隊の編成
+  detail: 秘書艦に「伊401」または「伊14」または「伊13」を配備。「晴嵐」を一番スロットに搭載。「瑞雲(六三一空)」を二番スロットに搭載。「晴嵐(六三一空)」を新編せよ！　※任務達成後瑞雲は消滅します。
+  reward: [0, 0, 0, 0]
+  reward2:
+    -
+      category: slotitem
+      id: 208
+      amount: 1
+  prerequisite: [828, 846]
+  requirements:
+    -
+      category: flagship
+      ship_id: [155, 295, 294]
+      slotitem_id: [62, 207]
+  wiki_id: F50
+  chinese_title: 编成六三一“晴岚”航空队
+  chinese_detail: 将伊401或伊14或伊13配置为秘书舰，在其第一格搭载试制晴岚，第二格搭载瑞云(六三一空)，以编成晴岚(六三一空)！ ※任务完成后瑞云将被消耗。
+---

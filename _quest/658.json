@@ -1,0 +1,36 @@
+---
+layout: json
+data:
+  id: 658
+  category: 6
+  type: 4
+  title: 潜水艦武装の強化
+  detail: 「61cm三連装魚雷」を四つ廃棄、開発資材x120と「61cm四連装(酸素)魚雷」「九三式水中聴音機」各三つを準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。
+  reward: [0, 100, 0, 0]
+  reward2:
+    -
+      category: slotitem
+      id: 213
+      amount: 1
+  prerequisite: [619, 846]
+  requirements:
+    -
+      category: scrap
+      amount: 4
+      slotitem_id: 13
+    -
+      category: useitem
+      amount: 120
+      useitem_id: 3
+    -
+      category: possess
+      amount: 3
+      slotitem_id: 15
+    -
+      category: possess
+      amount: 3
+      slotitem_id: 46
+  wiki_id: F49
+  chinese_title: 潜艇武器的强化
+  chinese_detail: 废弃4枚61cm三连装鱼雷，并准备开发资材x120及61cm四连装(酸素)鱼雷和九三式水中听音机各三枚！ ※在任务达成后，准备的开发资材和装备将被消耗（改修值低的装备将优先被消耗）。
+---

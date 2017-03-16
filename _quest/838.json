@@ -16,7 +16,7 @@ data:
       category: furniture
       id: 11
       amount: 1
-  prerequisite: []
+  prerequisite: [120]
   requirements:
     -
       category: sortie

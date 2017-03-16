@@ -9113,6 +9113,136 @@
     }
   },
   {
+    "game_id": 656,
+    "wiki_id": "F50",
+    "category": 6,
+    "type": 1,
+    "name": "六三一空「晴嵐」隊の編成",
+    "detail": "秘書艦に「伊401」または「伊14」または「伊13」を配備。「晴嵐」を一番スロットに搭載。「瑞雲(六三一空)」を二番スロットに搭載。「晴嵐(六三一空)」を新編せよ！　※任務達成後瑞雲は消滅します。",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "晴嵐(六三一空)",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      828,
+      846
+    ],
+    "requirements": {
+      "category": "modelconversion",
+      "equipment": [
+        "試製晴嵐",
+        "瑞雲(六三一空)"
+      ],
+      "secretary": "伊401 / 伊14 / 伊13"
+    }
+  },
+  {
+    "game_id": 657,
+    "wiki_id": "SF03",
+    "category": 6,
+    "type": 1,
+    "name": "春の準備任務：桃の節句準備！",
+    "detail": "春の準備任務：「14cm単装砲」を二つ廃棄、家具コイン5,000と「九九式艦爆」「61cm三連装魚雷」各二つを準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "特注家具職人",
+        "amount": 1
+      },
+      {
+        "name": "菱餅",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      303,
+      604
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "equipments": [
+        {
+          "name": "九九式艦爆",
+          "amount": 2
+        },
+        {
+          "name": "61cm三連装魚雷",
+          "amount": 2
+        }
+      ],
+      "scraps": [
+        {
+          "name": "14cm単装砲",
+          "amount": 2
+        }
+      ],
+      "consumptions": [
+        {
+          "name": "家具コイン",
+          "amount": 5000
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 658,
+    "wiki_id": "F49",
+    "category": 6,
+    "type": 1,
+    "name": "潜水艦武装の強化",
+    "detail": "「61cm三連装魚雷」を四つ廃棄、開発資材x120と「61cm四連装(酸素)魚雷」「九三式水中聴音機」各三つを準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "後期型艦首魚雷(6門)",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      619,
+      846
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "equipments": [
+        {
+          "name": "61cm四連装(酸素)魚雷",
+          "amount": 3
+        },
+        {
+          "name": "九三式水中聴音機",
+          "amount": 3
+        }
+      ],
+      "scraps": [
+        {
+          "name": "61cm三連装魚雷",
+          "amount": 4
+        }
+      ],
+      "consumptions": [
+        {
+          "name": "開発資材",
+          "amount": 120
+        }
+      ]
+    }
+  },
+  {
     "game_id": 701,
     "wiki_id": "G01",
     "category": 7,
@@ -10358,7 +10488,7 @@
       }
     ],
     "prerequisite": [
-      809
+      828
     ],
     "requirements": {
       "category": "sortie",
@@ -10610,7 +10740,7 @@
       }
     ],
     "prerequisite": [
-
+      120
     ],
     "requirements": {
       "category": "sortie",
@@ -10739,6 +10869,169 @@
         {
           "ship": "艦",
           "amount": 4
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 844,
+    "wiki_id": "B90",
+    "category": 2,
+    "type": 1,
+    "name": "精鋭「第八駆逐隊」突入せよ！",
+    "detail": "「荒潮改二」を旗艦とし、僚艦に「第八駆逐隊」から1隻を配備した精鋭第1艦隊で<br>サーモン海域北方に突入、同方面に接近する有力な敵艦隊を捕捉、同方面の敵戦力の漸減に努めよ！",
+    "reward_fuel": 800,
+    "reward_ammo": 800,
+    "reward_steel": 0,
+    "reward_bauxite": 800,
+    "reward_other": [
+      {
+        "name": "改修資材",
+        "amount": 4
+      },
+      {
+        "name": "補強増設",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      820,
+      829
+    ],
+    "requirements": {
+      "category": "sortie",
+      "map": "5-5",
+      "boss": true,
+      "result": "A",
+      "times": 2,
+      "groups": [
+        {
+          "ship": "荒潮改二",
+          "flagship": true
+        },
+        {
+          "ship": [
+            "朝潮",
+            "大潮",
+            "満潮"
+          ],
+          "select": 1
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 846,
+    "wiki_id": "B91",
+    "category": 2,
+    "type": 1,
+    "name": "潜水艦隊、中部海域の哨戒を実施せよ！",
+    "detail": "潜水艦を旗艦とし、4隻以上の有力な潜水艦を配備した第一艦隊、精鋭潜水艦隊で<br>中部海域哨戒線に進出、回航中の敵空母を捕捉、これを襲撃せよ！",
+    "reward_fuel": 300,
+    "reward_ammo": 300,
+    "reward_steel": 300,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "改修資材",
+        "amount": 3
+      },
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      218,
+      815
+    ],
+    "requirements": {
+      "category": "sortie",
+      "map": "6-1",
+      "boss": true,
+      "result": "B",
+      "times": 1,
+      "groups": [
+        {
+          "ship": [
+            "潜水艦",
+            "潜水空母"
+          ],
+          "flagship": true
+        },
+        {
+          "ship": [
+            "潜水艦",
+            "潜水空母"
+          ],
+          "amount": 3
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 847,
+    "wiki_id": "SB22",
+    "category": 2,
+    "type": 1,
+    "name": "春の準備任務：桃の節句準備を完遂せよ！",
+    "detail": "春の準備任務：艦隊を東部オリョール海に反復出撃、同方面敵艦隊を覆滅し、<br>同海域周辺の制海権を完全に確保、桃の節句を迎える準備を完遂せよ！",
+    "reward_fuel": 330,
+    "reward_ammo": 330,
+    "reward_steel": 0,
+    "reward_bauxite": 330,
+    "reward_other": [
+      {
+        "name": "菱餅",
+        "amount": 3
+      },
+      {
+        "name": "補強増設",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      657
+    ],
+    "requirements": {
+      "category": "sortie",
+      "map": "2-3",
+      "boss": true,
+      "result": "S",
+      "times": 5
+    }
+  },
+  {
+    "game_id": 848,
+    "wiki_id": "B92",
+    "category": 2,
+    "type": 1,
+    "name": "重装甲巡洋艦、鉄底海峡に突入せよ！",
+    "detail": "第一艦隊旗艦に「Zara due」を配備、同艦隊で南方サブ島沖海域へ突入！同方面の敵艦隊群を突破し、鉄底海峡に展開する敵戦力を撃破せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 700,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "艦本新設計 増設バルジ(中型艦)",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      846
+    ],
+    "requirements": {
+      "category": "sortie",
+      "map": "5-3",
+      "boss": true,
+      "result": "A",
+      "times": 1,
+      "groups": [
+        {
+          "ship": "Zara due",
+          "flagship": true
         }
       ]
     }

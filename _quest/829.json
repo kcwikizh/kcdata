@@ -12,7 +12,7 @@ data:
       category: useitem
       id: 73
       amount: 1
-  prerequisite: [809]
+  prerequisite: [828]
   requirements:
     -
       category: sortie
