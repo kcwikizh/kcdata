@@ -1,0 +1,36 @@
+---
+layout: json
+order: 215
+data:
+  id: 215
+  sort_no: 215
+  name: Ro.44水上戦闘機bis
+  type: [5, 36, 45, 43, 25]
+  rare: 4
+  broken: [1, 1, 0, 2]
+  info: パスタの国で運用された信頼性と運動性に優れた複葉複座の水偵Ro.43を単座に改修した水上戦闘機です。低速なため戦闘機としては限界がありますが、貴重な洋上防空戦力として期待されました。本機は戦訓をフィードバックした同改修機です。
+  usebull: 0
+  cost: 4
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 3
+    tais: 1
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 3
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: Ro.44水上战斗机bis
+---

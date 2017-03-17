@@ -20,7 +20,7 @@ data:
   stats:
     taik: [47, 64]
     souk: [32, 68]
-    houg: [32, 63]
+    houg: [32, 70]
     raig: [0, 49]
     tyku: [22, 74]
     luck: [30, 79]

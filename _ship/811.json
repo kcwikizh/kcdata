@@ -1,10 +1,10 @@
 ---
 layout: json
 data:
-  id: 817
+  id: 811
   sort_no: 0
-  name: Valentine朧
-  yomi: おぼろ
+  name: 桃節句潮
+  yomi: うしお
   stype: 2
   ctype: 
   cnum: 
@@ -13,7 +13,7 @@ data:
   after_ship_id: 
   get_mes: 
   voice_f: 
-  filename: rotcxwtkglry
+  filename: kxmwbqtugllx
   file_version: ["1", "1", "1"]
   book_table_id: 
   book_sinfo: 
@@ -38,21 +38,21 @@ data:
     pow_up: 
     build_time: 
   graph:
-    boko_n: [236, 140]
-    boko_d: [236, 132]
-    kaisyu_n: [24, -5]
+    boko_n: [216, 136]
+    boko_d: [184, 132]
+    kaisyu_n: [21, 9]
     kaisyu_d: [28, 7]
-    kaizo_n: [160, 72]
-    kaizo_d: [160, 64]
-    map_n: [180, 132]
-    map_d: [180, 124]
-    ensyuf_n: [176, 128]
-    ensyuf_d: [176, 120]
-    ensyue_n: [160, 0]
-    battle_n: [192, 132]
-    battle_d: [192, 124]
-    wed_a: [48, -4]
-    wed_b: [100, 112]
-  wiki_id: 
-  chinese_name: 
+    kaizo_n: [152, 84]
+    kaizo_d: [124, 40]
+    map_n: [168, 124]
+    map_d: [156, 120]
+    ensyuf_n: [160, 124]
+    ensyuf_d: [156, 116]
+    ensyue_n: [152, 0]
+    battle_n: [176, 132]
+    battle_d: [164, 132]
+    wed_a: [52, 4]
+    wed_b: [112, 120]
+  wiki_id:
+  chinese_name:
 ---

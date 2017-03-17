@@ -1,0 +1,36 @@
+---
+layout: json
+order: 216
+data:
+  id: 216
+  sort_no: 216
+  name: 二式水戦改(熟練)
+  type: [5, 36, 45, 43, 3]
+  rare: 4
+  broken: [1, 1, 0, 4]
+  info: 熟練搭乗員によって編成された「二式水戦」装備の水戦隊です。新型水上戦闘機「強風」実戦投入までの繋ぎとして、零式艦上戦闘機をベースに急遽開発/実戦投入された水上戦闘機、二式水戦。元々は艦上運用を考慮した機材ではありませんでしたが、機体及びフロート強度を改良強化して投入です。
+  usebull: 0
+  cost: 5
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 5
+    tais: 1
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: 二式水战改(熟练)
+---
