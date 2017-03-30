@@ -32,5 +32,43 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [80, 60, 0, 280]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [8, 14]
+            -
+              id: 4
+              amount: [4, 5]
+          -
+            -
+              id: 3
+              amount: [14, 18]
+            -
+              id: 4
+              amount: [6, 7]
+        slotitem:
+          -
+            id: 26
+            amount: 2
+          -
+            id: 164
+            amount: 1
+      upgrade:
+      day:
+        - false
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 496
+        -
+          -
+            ship_id: 496
   chinese_name: Ro.44水上战斗机bis
 ---

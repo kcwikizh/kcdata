@@ -32,5 +32,74 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [70, 0, 770, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [7, 9]
+            -
+              id: 4
+              amount: [4, 5]
+          -
+            -
+              id: 3
+              amount: [18, "null"]
+            -
+              id: 4
+              amount: [6, 9]
+        slotitem:
+          -
+            id: 72
+            amount: 1
+          -
+            id: 72
+            amount: 2
+      upgrade:
+        id: 203
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [28, 35]
+            -
+              id: 4
+              amount: [8, 12]
+          slotitem:
+            id: 72
+            amount: 3
+      day:
+        -
+          -
+            ship_id: 147
+        -
+          -
+            ship_id: 147
+          -
+            ship_id: 140
+          -
+            ship_id: 496
+        -
+          -
+            ship_id: 147
+          -
+            ship_id: 140
+          -
+            ship_id: 496
+        -
+          -
+            ship_id: 147
+          -
+            ship_id: 140
+          -
+            ship_id: 496
+        -
+          -
+            ship_id: 140
+        - false
+        - false
   chinese_name: 增设装甲(中型舰)
 ---

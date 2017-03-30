@@ -32,5 +32,45 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [170, 0, 870, 70]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [16, 24]
+            -
+              id: 4
+              amount: [6, 9]
+          -
+            -
+              id: 3
+              amount: [28, 35]
+            -
+              id: 4
+              amount: [8, 12]
+        slotitem:
+          -
+            id: 72
+            amount: 2
+          -
+            id: 72
+            amount: 3
+      upgrade:
+      day:
+        - false
+        - false
+        -
+          -
+            ship_id: 496
+        -
+          -
+            ship_id: 496
+        -
+          -
+            ship_id: 496
+        - false
+        - false
   chinese_name: 舰本新设计 增设装甲板(中型舰)
 ---

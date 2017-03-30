@@ -32,5 +32,47 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [80, 90, 100, 70]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [20, 24]
+            -
+              id: 4
+              amount: [7, 9]
+          -
+            -
+              id: 3
+              amount: [30, 40]
+            -
+              id: 4
+              amount: [8, 10]
+        slotitem:
+          -
+            id: 28
+            amount: 2
+          -
+            id: 129
+            amount: 1
+      upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 155
+        -
+          -
+            ship_id: 155
+        -
+          -
+            ship_id: 155
+        -
+          -
+            ship_id: 155
+        - false
+        - false
   chinese_name: 潜水艇搭载电探&防水式望远镜
 ---

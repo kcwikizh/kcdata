@@ -1,0 +1,36 @@
+---
+layout: json
+order: 217
+data:
+  id: 217
+  sort_no: 217
+  name: 強風改
+  type: [5, 36, 45, 43, 26]
+  rare: 3
+  broken: [1, 1, 0, 6]
+  info: 現代にも系譜を繋ぐ水上機の名門が開発を手掛けた、空戦に特化した水上機「強風」。難航する本機開発の繋ぎとして投入された二式水戦の後継として、その登場が期待されました。期待された性能を発揮することはできませんでしたが、本機をベースに開発された「紫電改」は本土防空等に奮戦します。機体を熟成、各強度を改良強化した「強風改」として登場です！
+  usebull: 0
+  cost: 6
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 5
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: 强风改
+---

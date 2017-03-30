@@ -1,0 +1,36 @@
+---
+layout: json
+order: 219
+data:
+  id: 219
+  sort_no: 219
+  name: 零式艦戦63型(爆戦)
+  type: [3, 5, 7, 7, 12]
+  rare: 3
+  broken: [1, 4, 0, 4]
+  info: 零式艦上戦闘機の戦闘爆撃機仕様、通称「爆戦」の改良後期型です。改良型エンジンに換装、燃料タンクを防弾仕様化した零戦の性能向上型、53型。その胴体下に250kgまたは500kg爆弾懸吊架を増設、爆撃機動に耐えられるよう、一部機体強度も強化しています。重巡改装の攻撃型軽空母などで、ぜひ機動部隊運用を！
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 5
+    tyku: 5
+    tais: 2
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: 零式舰战63型(爆战)
+---

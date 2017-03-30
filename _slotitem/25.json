@@ -86,6 +86,8 @@ data:
         -
           -
             ship_id: 107
+          -
+            ship_id: 451
         -
           -
             ship_id: 107
@@ -96,14 +98,10 @@ data:
             ship_id: 106
           -
             ship_id: 450
-          -
-            ship_id: 451
         -
           -
             ship_id: 106
           -
             ship_id: 450
-          -
-            ship_id: 451
   chinese_name: 零式水上侦察机
 ---

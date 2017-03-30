@@ -32,5 +32,45 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [110, 100, 0, 390]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 6]
+            -
+              id: 4
+              amount: [7, 8]
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [8, 10]
+        slotitem:
+          -
+            id: 181
+            amount: 2
+          -
+            id: 26
+            amount: 3
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 451
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 451
+        -
+          -
+            ship_id: 451
   chinese_name: 二式水战改(熟练)
 ---

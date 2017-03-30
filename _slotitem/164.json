@@ -5,7 +5,7 @@ data:
   id: 164
   sort_no: 164
   name: Ro.44水上戦闘機
-  type: [5, 36, 45, 10, 3]
+  type: [5, 36, 45, 43, 25]
   rare: 3
   broken: [1, 1, 0, 2]
   info: パスタの国で運用された信頼性と運動性に優れた複葉複座の水偵Ro.43を単座に改修した水上戦闘機です。低速なため戦闘機としては限界がありますが、貴重な洋上防空戦力として期待されました。量産数は控えめです。
@@ -32,5 +32,60 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [70, 50, 0, 220]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 9]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [9, 14]
+            -
+              id: 4
+              amount: [5, 6]
+        slotitem:
+          -
+            id: 26
+            amount: 1
+          -
+            id: 26
+            amount: 2
+      upgrade:
+        id: 215
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [24, 40]
+            -
+              id: 4
+              amount: [8, 12]
+          slotitem:
+            id: 164
+            amount: 1
+      day:
+        -
+          -
+            ship_id: 496
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 496
+        -
+          -
+            ship_id: 496
+        -
+          -
+            ship_id: 496
   chinese_name: Ro.44水上战斗机
 ---
