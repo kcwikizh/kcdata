@@ -1,0 +1,37 @@
+---
+layout: json
+data:
+  id: 660
+  category: 6
+  type: 4
+  title: 精鋭「水戦」隊の増勢
+  detail: 精鋭飛行隊の増勢：練度max及び改修maxの「二式水戦改」を一番スロットに搭載した秘書艦で、<br>「零式艦戦21型」x2「瑞雲」x2を廃棄！　※新飛行隊を編成する「熟練搭乗員」が必要です。
+  reward: [0, 0, 0, 50]
+  reward2:
+    -
+      category: slotitem
+      id: 216
+      amount: 1
+  prerequisite: [659, 850]
+  requirements:
+    -
+      category: flagship
+      slotitem_id: 165
+      slotitem_skill: 7
+      slotitem_level: 10
+    -
+      category: useitem
+      amount: 1
+      useitem_id: 70
+    -
+      category: scrap
+      amount: 2
+      slotitem_id: 20
+    -
+      category: scrap
+      amount: 2
+      slotitem_id: 26
+  wiki_id: F52
+  chinese_title: 精锐“水战”队的扩充
+  chinese_detail: 精锐“水战”队的扩充：在秘书舰第一格装备练度max且改修max的二式水战改，并废弃零式舰战21型x2与瑞云x2！　※新飞行队编成中需要熟练搭乘员。
+---

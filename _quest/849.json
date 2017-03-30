@@ -1,0 +1,45 @@
+---
+layout: json
+data:
+  id: 849
+  category: 8
+  type: 4
+  title: 南西諸島方面の敵艦隊を撃破せよ！
+  detail: 軽巡を旗艦とした艦隊を編成し、南西諸島防衛線、バシー島沖及び<br>東部オリョール海に展開、同海域に遊弋する敵艦隊を撃破せよ！
+  reward: [300, 0, 300, 300]
+  reward2:
+    -
+      category: useitem
+      id: 54
+      amount: 1
+    -
+      category: useitem
+      id: 59
+      amount: 1
+  prerequisite: []
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 14
+      boss: true
+      result: A
+    -
+      category: sortie
+      times: 1
+      map: 22
+      boss: true
+      result: A
+    -
+      category: sortie
+      times: 1
+      map: 23
+      boss: true
+      result: A
+    -
+      category: flagship
+      ship_type: 3
+  wiki_id: B93
+  chinese_title: 击破南西群岛方面的敌舰队！
+  chinese_detail: 编成以轻巡为旗舰的舰队，出击南西诸岛防卫线(1-4)、巴士岛近海(2-2)和东部奥廖尔海(2-3)，击破在同海域巡逻的敌舰队！
+---

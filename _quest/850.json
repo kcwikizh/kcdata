@@ -1,0 +1,45 @@
+---
+layout: json
+data:
+  id: 850
+  category: 8
+  type: 4
+  title: 洋上航空戦力を拡充せよ！
+  detail: 航空母艦、または水上機母艦を旗艦とした有力な艦隊を編成、北方AL海域、<br>西方海域カスガダマ沖 、中部海域MS諸島沖に展開し、各海域の敵艦隊を撃滅せよ！
+  reward: [500, 500, 0, 1000]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 5
+    -
+      category: useitem
+      id: 70
+      amount: 1
+  prerequisite: [846, 849]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 35
+      boss: true
+      result: S
+    -
+      category: sortie
+      times: 1
+      map: 44
+      boss: true
+      result: S
+    -
+      category: sortie
+      times: 1
+      map: 62
+      boss: true
+      result: S
+    -
+      category: flagship
+      ship_type: [7, 11, 16, 18]
+  wiki_id: B94
+  chinese_title: 扩充洋上航空战力！
+  chinese_detail: 编成以航空母舰或水上机母舰为旗舰的强力舰队，出击3-5、4-4，6-2，摧毁各海域的敌舰队！
+---

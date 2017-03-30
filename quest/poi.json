@@ -9243,6 +9243,87 @@
     }
   },
   {
+    "game_id": 659,
+    "wiki_id": "F51",
+    "category": 6,
+    "type": 1,
+    "name": "精鋭「水戦」隊の新編成",
+    "detail": "精鋭飛行隊の新編成：練度max及び改修maxの「二式水戦改」を一番スロットに搭載した秘書艦で、<br>「零式艦戦21型」x2「瑞雲」x2を廃棄！　※新飛行隊を編成する「熟練搭乗員」が必要です。",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 50,
+    "reward_other": [
+      {
+        "name": "二式水戦改(熟練)",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      270,
+      607,
+      839
+    ],
+    "requirements": {
+      "category": "modelconversion",
+      "equipment": "二式水戦改",
+      "scraps": [
+        {
+          "name": "零式艦戦21型",
+          "amount": 2
+        },
+        {
+          "name": "瑞雲",
+          "amount": 2
+        }
+      ],
+      "fullyskilled": true,
+      "maxmodified": true,
+      "use_skilled_crew": true
+    }
+  },
+  {
+    "game_id": 660,
+    "wiki_id": "F52",
+    "category": 6,
+    "type": 1,
+    "name": "精鋭「水戦」隊の増勢",
+    "detail": "精鋭飛行隊の増勢：練度max及び改修maxの「二式水戦改」を一番スロットに搭載した秘書艦で、<br>「零式艦戦21型」x2「瑞雲」x2を廃棄！　※新飛行隊を編成する「熟練搭乗員」が必要です。",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 50,
+    "reward_other": [
+      {
+        "name": "二式水戦改(熟練)",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      659,
+      850
+    ],
+    "requirements": {
+      "category": "modelconversion",
+      "equipment": "二式水戦改",
+      "scraps": [
+        {
+          "name": "零式艦戦21型",
+          "amount": 2
+        },
+        {
+          "name": "瑞雲",
+          "amount": 2
+        }
+      ],
+      "fullyskilled": true,
+      "maxmodified": true,
+      "use_skilled_crew": true
+    }
+  },
+  {
     "game_id": 701,
     "wiki_id": "G01",
     "category": 7,
@@ -11032,6 +11113,154 @@
         {
           "ship": "Zara due",
           "flagship": true
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 849,
+    "wiki_id": "B93",
+    "category": 2,
+    "type": 1,
+    "name": "南西諸島方面の敵艦隊を撃破せよ！",
+    "detail": "軽巡を旗艦とした艦隊を編成し、南西諸島防衛線、バシー島沖及び<br>東部オリョール海に展開、同海域に遊弋する敵艦隊を撃破せよ！",
+    "reward_fuel": 300,
+    "reward_ammo": 0,
+    "reward_steel": 300,
+    "reward_bauxite": 300,
+    "reward_other": [
+      {
+        "name": "給糧艦「間宮」",
+        "amount": 1
+      },
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "1-4",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "軽巡",
+              "flagship": true
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-2",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "軽巡",
+              "flagship": true
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-3",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "軽巡",
+              "flagship": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 850,
+    "wiki_id": "B94",
+    "category": 2,
+    "type": 1,
+    "name": "洋上航空戦力を拡充せよ！",
+    "detail": "航空母艦、または水上機母艦を旗艦とした有力な艦隊を編成、北方AL海域、<br>西方海域カスガダマ沖 、中部海域MS諸島沖に展開し、各海域の敵艦隊を撃滅せよ！",
+    "reward_fuel": 500,
+    "reward_ammo": 500,
+    "reward_steel": 0,
+    "reward_bauxite": 1000,
+    "reward_other": [
+      {
+        "name": "開発資材",
+        "amount": 5
+      },
+      {
+        "name": "熟練搭乗員",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      846,
+      849
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "3-5",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": [
+                "空母",
+                "水母"
+              ],
+              "flagship": true
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "4-4",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": [
+                "空母",
+                "水母"
+              ],
+              "flagship": true
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "6-2",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": [
+                "空母",
+                "水母"
+              ],
+              "flagship": true
+            }
+          ]
         }
       ]
     }
