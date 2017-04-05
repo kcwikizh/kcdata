@@ -15,7 +15,7 @@ data:
   voice_f: 1
   filename: gjtvekieqatn
   file_version: ["16", "14", "1"]
-  book_table_id: [165, 989]
+  book_table_id: [165, 309, 989]
   book_sinfo: 睦月型駆逐艦四番艦の「卯月」だぴょん。船団護衛から攻略作戦まで、頑張って働いたんでっす！　最後のほうは砲をいくつか下して機銃を一杯積んだよ。<br>うーちゃん、爆撃じゃ沈まないから！
   stats:
     taik: [13, 24]

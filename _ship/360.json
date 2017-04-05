@@ -14,7 +14,7 @@ data:
   get_mes: Hi！ MeがIowa級戦艦、Iowaよ。<br>Youがこの艦隊のAdmiralなの？ いいじゃない！<br>私たちのこともよろしく！
   voice_f: 3
   filename: nwntjkczdexl
-  file_version: ["3", "1", "1"]
+  file_version: ["3", "1", "405"]
   book_table_id: 
   book_sinfo: 
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: Buon Giornov！<br>地中海生まれの航空母艦Aquilaです。<br>活躍する……はずですー。楽しみにしてて！
   voice_f: 1
   filename: beymvxmvhoct
-  file_version: ["1", "1", "1"]
+  file_version: ["1", "1", "405"]
   book_table_id: [444]
   book_sinfo: 地中海ジェノヴァで建造されていたパスタの国の航空母艦、Aquilaですー。<br>貨客船改装空母ではありますがー、大規模な改装で正規空母に近い性能を発揮した……はず。ねえ、グラーフ、アカーギ！聞いてますー？
   stats:

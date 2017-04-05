@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦十四番艦の……沖波です。<br>えっと…はい、頑張ります。よろしくお願い致します！
   voice_f: 3
   filename: higuuqsbfkvb
-  file_version: ["4", "2", "1"]
+  file_version: ["4", "2", "405"]
   book_table_id: 
   book_sinfo: 
   stats:

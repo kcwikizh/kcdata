@@ -14,7 +14,7 @@ data:
   get_mes: 白露型駆逐艦九番艦、<br>改白露型の江風だよ。よろしくな！<br>あ、読み方、間違えンなよ。
   voice_f: 3
   filename: litugbpkilsf
-  file_version: ["16", "11", "1"]
+  file_version: ["16", "11", "405"]
   book_table_id: 
   book_sinfo: 
   stats:

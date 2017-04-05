@@ -14,7 +14,7 @@ data:
   get_mes: お疲れ！　夕雲型十一番艦、藤波よ。<br>司令、よろしくね！
   voice_f: 1
   filename: kbnitqplofhm
-  file_version: ["1", "1", "1"]
+  file_version: ["1", "1", "405"]
   book_table_id: 
   book_sinfo: 
   stats:
