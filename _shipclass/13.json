@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 13
 data:
   id: 13
   name: 青葉型
-  chinese_name: 青叶级
+  chinese_name: 青叶型
 ---

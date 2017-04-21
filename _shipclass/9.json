@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 9
 data:
   id: 9
   name: 最上型
-  chinese_name: 最上级
+  chinese_name: 最上型
 ---

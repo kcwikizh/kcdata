@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 58
 data:
   id: 58
-  name: ヴィットリオ・ヴェネト級
+  name: V.Veneto級
   chinese_name: 维内托级
 ---

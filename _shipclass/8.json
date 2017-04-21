@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 8
 data:
   id: 8
   name: 高雄型
-  chinese_name: 高雄级
+  chinese_name: 高雄型
 ---

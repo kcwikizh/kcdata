@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 15
 data:
   id: 15
   name: 千歳型
-  chinese_name: 千岁级
+  chinese_name: 千岁型
 ---

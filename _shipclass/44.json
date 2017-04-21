@@ -1,5 +1,6 @@
 ---
 layout: json
+order: 44
 data:
   id: 44
   name: 潜特型

@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 32
 data:
   id: 32
-  name: 龍驤
-  chinese_name: 龙骧
+  name: 龍驤型
+  chinese_name: 龙骧型
 ---

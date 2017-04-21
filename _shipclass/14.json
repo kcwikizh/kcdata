@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 14
 data:
   id: 14
-  name: 赤城
-  chinese_name: 赤城
+  name: 赤城型
+  chinese_name: 赤城型
 ---

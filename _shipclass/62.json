@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 62
 data:
   id: 62
   name: 瑞穂型
-  chinese_name: 瑞穗级
+  chinese_name: 瑞穗型
 ---

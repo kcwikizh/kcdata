@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 3
 data:
   id: 3
-  name: 加賀
-  chinese_name: 加贺
+  name: 加賀型
+  chinese_name: 加贺型
 ---

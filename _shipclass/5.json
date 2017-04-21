@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 5
 data:
   id: 5
   name: 暁型
-  chinese_name: 晓级
+  chinese_name: 晓型
 ---

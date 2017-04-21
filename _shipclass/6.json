@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 6
 data:
   id: 6
   name: 金剛型
-  chinese_name: 金刚级
+  chinese_name: 金刚型
 ---

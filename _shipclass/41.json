@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 41
 data:
   id: 41
   name: 阿賀野型
-  chinese_name: 阿贺野级
+  chinese_name: 阿贺野型
 ---

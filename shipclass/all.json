@@ -1,6 +1,6 @@
 ---
 ---
 [
-  {% for shipclass in site.shipclass %}{{ shipclass.data | jsonify }}{% unless forloop.last %},
+  {% for shipclass in site.shipclass | sort: "order" %}{{ shipclass.data | jsonify }}{% unless forloop.last %},
   {% endunless %}{% endfor %}
 ]

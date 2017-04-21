@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 34
 data:
   id: 34
   name: 夕張型
-  chinese_name: 夕张级
+  chinese_name: 夕张型
 ---

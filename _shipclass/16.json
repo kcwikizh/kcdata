@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 16
 data:
   id: 16
   name: 川内型
-  chinese_name: 川内级
+  chinese_name: 川内型
 ---

@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 52
 data:
   id: 52
   name: 大淀型
-  chinese_name: 大淀级
+  chinese_name: 大淀型
 ---

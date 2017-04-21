@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 47
 data:
   id: 47
-  name: ビスマルク級
+  name: Bismarck級
   chinese_name: 俾斯麦级
 ---

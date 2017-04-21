@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 29
 data:
   id: 29
   name: 妙高型
-  chinese_name: 妙高级
+  chinese_name: 妙高型
 ---

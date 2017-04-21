@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 19
 data:
   id: 19
   name: 長門型
-  chinese_name: 长门级
+  chinese_name: 长门型
 ---

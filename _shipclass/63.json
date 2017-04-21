@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 63
 data:
   id: 63
-  name: グラーフ・ツェッペリン級
+  name: Graf Zeppelin級
   chinese_name: 齐柏林伯爵级
 ---

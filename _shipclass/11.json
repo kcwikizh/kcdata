@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 11
 data:
   id: 11
   name: 祥鳳型
-  chinese_name: 祥凤级
+  chinese_name: 祥凤型
 ---

@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 50
 data:
   id: 50
   name: 大鯨型
-  chinese_name: 大鲸级
+  chinese_name: 大鲸型
 ---

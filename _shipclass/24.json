@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 24
 data:
   id: 24
   name: 飛鷹型
-  chinese_name: 飞鹰级
+  chinese_name: 飞鹰型
 ---

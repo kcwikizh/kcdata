@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 33
 data:
   id: 33
   name: 翔鶴型
-  chinese_name: 翔鹤级
+  chinese_name: 翔鹤型
 ---

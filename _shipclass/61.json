@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 61
 data:
   id: 61
-  name: マエストラーレ級
+  name: Maestrale級
   chinese_name: 西北风级
 ---

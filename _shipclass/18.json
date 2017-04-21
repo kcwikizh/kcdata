@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 18
 data:
   id: 18
   name: 朝潮型
-  chinese_name: 朝潮级
+  chinese_name: 朝潮型
 ---

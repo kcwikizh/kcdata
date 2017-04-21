@@ -1,5 +1,6 @@
 ---
 layout: json
+order: 35
 data:
   id: 35
   name: 海大VI型

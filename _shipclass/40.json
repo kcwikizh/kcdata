@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 40
 data:
   id: 40
-  name: 巡潜３型
+  name: 巡潜3型
   chinese_name: 巡潜3型
 ---

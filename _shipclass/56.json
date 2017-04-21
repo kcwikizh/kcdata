@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 56
 data:
   id: 56
   name: 香取型
-  chinese_name: 香取级
+  chinese_name: 香取型
 ---

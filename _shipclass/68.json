@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 68
 data:
   id: 68
-  name: アクィラ級
-  chinese_name: 鹫座级
+  name: Aquila級
+  chinese_name: 天鹰座级
 ---

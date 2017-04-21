@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 67
 data:
   id: 67
-  name: クイーン・エリザベス級
+  name: Queen Elizabeth級
   chinese_name: 伊丽莎白女王级
 ---

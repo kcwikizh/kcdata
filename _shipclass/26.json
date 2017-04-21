@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 26
 data:
   id: 26
   name: 扶桑型
-  chinese_name: 扶桑级
+  chinese_name: 扶桑型
 ---

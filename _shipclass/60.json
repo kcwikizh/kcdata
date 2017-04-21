@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 60
 data:
   id: 60
-  name: 風早型
-  chinese_name: 风早型
+  name: 改風早型
+  chinese_name: 改风早型
 ---

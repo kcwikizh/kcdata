@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 64
 data:
   id: 64
-  name: ザラ級
+  name: Zara級
   chinese_name: 扎拉级
 ---

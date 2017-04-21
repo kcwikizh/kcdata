@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 31
 data:
   id: 31
   name: 利根型
-  chinese_name: 利根级
+  chinese_name: 利根型
 ---

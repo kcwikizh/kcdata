@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 12
 data:
   id: 12
   name: 吹雪型
-  chinese_name: 吹雪级
+  chinese_name: 吹雪型
 ---

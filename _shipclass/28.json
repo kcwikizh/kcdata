@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 28
 data:
   id: 28
   name: 睦月型
-  chinese_name: 睦月级
+  chinese_name: 睦月型
 ---

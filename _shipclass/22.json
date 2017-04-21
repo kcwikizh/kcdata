@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 22
 data:
   id: 22
   name: 島風型
-  chinese_name: 岛风级
+  chinese_name: 岛风型
 ---

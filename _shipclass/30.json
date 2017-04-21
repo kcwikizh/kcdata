@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 30
 data:
   id: 30
   name: 陽炎型
-  chinese_name: 阳炎级
+  chinese_name: 阳炎型
 ---

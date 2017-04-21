@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 1
 data:
   id: 1
   name: 綾波型
-  chinese_name: 绫波级
+  chinese_name: 绫波型
 ---

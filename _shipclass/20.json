@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 20
 data:
   id: 20
   name: 長良型
-  chinese_name: 长良级
+  chinese_name: 长良型
 ---

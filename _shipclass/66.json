@@ -1,7 +1,8 @@
 ---
 layout: json
+order: 66
 data:
   id: 66
   name: 神風型
-  chinese_name: 神风级
+  chinese_name: 神风型
 ---
