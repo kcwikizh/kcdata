@@ -32,5 +32,53 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [130, 80, 0, 300]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [10, 12]
+            -
+              id: 4
+              amount: [6, 8]
+          -
+            -
+              id: 3
+              amount: [12, 17]
+            -
+              id: 4
+              amount: [7, 11]
+        slotitem:
+          -
+            id: 55
+            amount: 1
+          -
+            id: 55
+            amount: 1
+      upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 503
+        -
+          -
+            ship_id: 503
+          -
+            ship_id: 451
+        -
+          -
+            ship_id: 503
+          -
+            ship_id: 451
+        -
+          -
+            ship_id: 503
+          -
+            ship_id: 451
+        - false
+        - false
   chinese_name: 强风改
 ---

@@ -32,5 +32,63 @@ data:
     luck: 0
     leng: 1
   improvement: 
+    -
+      consume:
+        resource: [30, 70, 100, 80]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [4, 5]
+          -
+            -
+              id: 3
+              amount: [8, 15]
+            -
+              id: 4
+              amount: [6, 8]
+        slotitem:
+          -
+            id: 3
+            amount: 2
+          -
+            id: 49
+            amount: 2
+      upgrade:
+      day:
+        - false
+        - false
+        -
+          -
+            ship_id: 503
+          -
+            ship_id: 508
+          -
+            ship_id: 139
+          -
+            ship_id: 140
+        -
+          -
+            ship_id: 503
+          -
+            ship_id: 508
+          -
+            ship_id: 139
+          -
+            ship_id: 140
+        -
+          -
+            ship_id: 503
+          -
+            ship_id: 508
+          -
+            ship_id: 139
+          -
+            ship_id: 140
+        - false
+        - false
   chinese_name: 8cm高脚炮改+增设机铳
 ---
