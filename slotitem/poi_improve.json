@@ -9,10 +9,12 @@
       {
         "upgrade": {% if improve.upgrade %}{
           "level": {{ improve.upgrade.level }},
+          "id": {{ improve.upgrade.id }},
           "name": "{% include helper/slotitem_finder.md id=improve.upgrade.id result="name" %}",
           "icon": {% include helper/slotitem_finder.md id=improve.upgrade.id result="type[3]" %}
         }{% else %}{
           "level": 0,
+          "id": 0,
           "name": "",
           "icon": 0
         }{% endif %},
@@ -23,6 +25,9 @@
             ],
             "secretary": [{% assign ships = str[1] | split: "," %}{% for ship in ships %}
               "{% if ship == "0" %}None{% else %}{% include helper/ship_finder.md id=ship result="name" %}{%endif%}"{% unless forloop.last %},{% endunless %}{% endfor %}
+            ],
+            "secretaryIds": [{% assign ships = str[1] | split: "," %}{% for ship in ships %}
+              {{ ship }}{% unless forloop.last %},{% endunless %}{% endfor %}
             ]
           }{% unless forloop.last %},{% endunless %}{% endfor %}
         ],
@@ -44,6 +49,7 @@
               "item": {
                 "icon": {% if improve.consume.slotitem[0] %}{% capture qid %}{{ improve.consume.slotitem[0].id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="type[3]" %}{% else %}0{% endif %},
                 "name": "{% if improve.consume.slotitem[0] %}{% capture qid %}{{ improve.consume.slotitem[0].id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="name" %}{% endif %}",
+                "id": {% if improve.consume.slotitem[0] %}{{ improve.consume.slotitem[0].id }}{% else %}0{% endif %},
                 "count": {% if improve.consume.slotitem[0] %}{{ improve.consume.slotitem[0].amount }}{% else %}0{% endif %}
               }
             },
@@ -59,6 +65,7 @@
               "item": {
                 "icon": {% if improve.consume.slotitem[1] %}{% capture qid %}{{ improve.consume.slotitem[1].id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="type[3]" %}{% else %}0{% endif %},
                 "name": "{% if improve.consume.slotitem[1] %}{% capture qid %}{{ improve.consume.slotitem[1].id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="name" %}{% endif %}",
+                "id": {% if improve.consume.slotitem[1] %}{{ improve.consume.slotitem[1].id }}{% else %}0{% endif %},
                 "count": {% if improve.consume.slotitem[1] %}{{ improve.consume.slotitem[1].amount }}{% else %}0{% endif %}
               }
             },
@@ -74,11 +81,13 @@
               "item": {
                 "icon": {% if improve.upgrade.consume.slotitem %}{% capture qid %}{{ improve.upgrade.consume.slotitem.id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="type[3]" %}{% else %}0{% endif %},
                 "name": "{% if improve.upgrade.consume.slotitem %}{% capture qid %}{{ improve.upgrade.consume.slotitem.id }}{% endcapture %}{% include helper/slotitem_finder.md id=qid result="name" %}{% endif %}",
+                "id": {% if improve.upgrade.consume.slotitem %}{{ improve.upgrade.consume.slotitem.id }}{% else %}0{% endif %},
                 "count": {% if improve.upgrade.consume.slotitem %}{{ improve.upgrade.consume.slotitem.amount }}{% else %}0{% endif %}
               },
               "useitem": {
                 "icon": {% if improve.upgrade.consume.useitem[2] %}{{ improve.upgrade.consume.useitem[2].id }}{% else %}0{% endif %},
                 "name": "{% if improve.upgrade.consume.useitem[2] %}{% capture qid %}{{ improve.upgrade.consume.useitem[2].id }}{% endcapture %}{% include helper/useitem_finder.md id=qid result="name" %}{% endif %}",
+                "id": {% if improve.upgrade.consume.useitem[2] %}{{ improve.upgrade.consume.useitem[2].id }}{% else %}0{% endif %},
                 "count": {% if improve.upgrade.consume.useitem[2] %}{{ improve.upgrade.consume.useitem[2].amount }}{% else %}0{% endif %}
               }
             }{% else %}{
@@ -93,11 +102,13 @@
               "item": {
                 "icon": 0,
                 "name": "",
+                "id": 0,
                 "count": 0
               },
               "useitem": {
                 "icon": 0,
                 "name": "",
+                "id": 0,
                 "count": 0
               }
             }{% endif %}
