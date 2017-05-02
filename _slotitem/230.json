@@ -1,0 +1,36 @@
+---
+layout: json
+order: 230
+data:
+  id: 230
+  sort_no: 230
+  name: 特大発動艇+戦車第11連隊
+  type: [8, 14, 24, 20, 0]
+  rare: 4
+  broken: [2, 4, 5, 1]
+  info: 終戦時、北千島最北端、占守島に布陣していた精鋭、戦車第11連隊。<br>「士魂」部隊とも云われた同精鋭部隊を特大発動艇で輸送、海上機動及び上陸戦闘運用が可能です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

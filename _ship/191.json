@@ -14,7 +14,7 @@ data:
   get_mes: 素敵な提督で嬉しいのね。<br>伊十九なの。そう、イクって呼んでもいいの！
   voice_f: 3
   filename: jdsszkolhitg
-  file_version: ["8", "8", "405"]
+  file_version: ["8", "8", "1"]
   book_table_id: [191]
   book_sinfo: 潜水艦、伊一九よ。うん、イク。正規空母ワスプを自慢の酸素魚雷で仕留めたの。さらにずーっと先を航行していた戦艦や駆逐艦にも命中したの。海のスナイパー、イクさんの活躍、ずーっと覚えていてなの…ね。
   stats:

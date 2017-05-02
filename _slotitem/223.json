@@ -1,0 +1,36 @@
+---
+layout: json
+order: 223
+data:
+  id: 223
+  sort_no: 223
+  name: 一式戦 隼III型甲(54戦隊)
+  type: [22, 39, 48, 44, 27]
+  rare: 4
+  broken: [1, 1, 0, 4]
+  info: 陸軍主力戦闘機、一式戦「隼」を装備する飛行戦隊です。<br>折り鶴の部隊マークの同戦隊は、北海道や北方千島方面などにも展開しました。北千島派遣隊の隼は、占守島の戦いでも奮戦します。
+  usebull: 0
+  cost: 4
+  distance: 7
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 8
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 380
+  sort_no: 1460
+  name: 大鷹改
+  yomi: たいよう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 85
+  after_ship_id: 529
+  get_mes: <br>
+  voice_f: 3
+  filename: gjdwbkyoqrwv
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [47, 72]
+    souk: [22, 52]
+    houg: [0, 23]
+    raig: [0, 0]
+    tyku: [16, 42]
+    luck: [9, 54]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [14, 14, 5, 3, 0]
+    after_fuel: 720
+    after_bull: 980
+    fuel_max: 30
+    bull_max: 30
+    broken: [2, 2, 16, 3]
+    pow_up: [0, 0, 2, 2]
+    build_time: 160
+  graph:
+    boko_n: [152, 140]
+    boko_d: [136, 140]
+    kaisyu_n: [36, 2]
+    kaisyu_d: [26, 12]
+    kaizo_n: [148, 72]
+    kaizo_d: [64, 64]
+    map_n: [160, 136]
+    map_d: [84, 140]
+    ensyuf_n: [148, 128]
+    ensyuf_d: [72, 132]
+    ensyue_n: [148, 0]
+    battle_n: [172, 136]
+    battle_d: [96, 156]
+    wed_a: [68, -16]
+    wed_b: [80, 104]
+  wiki_id: "326a"
+  chinese_name: 大鹰改
+---

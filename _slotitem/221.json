@@ -1,0 +1,36 @@
+---
+layout: json
+order: 221
+data:
+  id: 221
+  sort_no: 221
+  name: 一式戦 隼II型
+  type: [22, 39, 48, 44, 18]
+  rare: 2
+  broken: [1, 1, 0, 3]
+  info: 最も量産された陸軍主力戦闘機、一式戦「隼」、<br>その改良二型です。<br>零式艦戦とよく似た機体ですが、防弾性にも留意したその機体はやや旧式ながら各戦線で戦いの最後まで奮戦を続けました。
+  usebull: 0
+  cost: 4
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 6
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

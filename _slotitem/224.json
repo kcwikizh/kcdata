@@ -1,0 +1,36 @@
+---
+layout: json
+order: 224
+data:
+  id: 224
+  sort_no: 224
+  name: 爆装一式戦 隼III型改(55戦隊)
+  type: [22, 39, 47, 44, 27]
+  rare: 4
+  broken: [1, 3, 0, 5]
+  info: 陸軍主力戦闘機、一式戦「隼」、その爆装機を装備する飛行戦隊です。<br>電波欺瞞紙、現代でいうチャフを装備した爆装一式戦などを駆使して、苦しい戦局の中、通常戦闘で奮戦しました。
+  usebull: 0
+  cost: 4
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 3
+    raig: 0
+    soku: 0
+    baku: 8
+    tyku: 6
+    tais: 0
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

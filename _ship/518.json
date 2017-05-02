@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 518
+  sort_no: 318
+  name: 国後
+  yomi: くなしり
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 40
+  after_ship_id: 377
+  get_mes: 占守型海防艦、その二番艦、国後。<br>何それ？　違うけど？　そうね、クナって…<br>呼んでもらってもいいけど。
+  voice_f: 1
+  filename: duclkhpiwzon
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [9, 18]
+    souk: [4, 16]
+    houg: [4, 19]
+    raig: [0, 0]
+    tyku: [6, 22]
+    luck: [35, 78]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 60
+    after_bull: 90
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 0, 0]
+    build_time: 14
+  graph:
+    boko_n: [156, 164]
+    boko_d: [180, 160]
+    kaisyu_n: [20, -14]
+    kaisyu_d: [36, 2]
+    kaizo_n: [80, 76]
+    kaizo_d: [108, 68]
+    map_n: [104, 140]
+    map_d: [128, 136]
+    ensyuf_n: [100, 132]
+    ensyuf_d: [128, 136]
+    ensyue_n: [96, 0]
+    battle_n: [112, 148]
+    battle_d: [136, 152]
+    wed_a: [120, -16]
+    wed_b: [112, 112]
+  wiki_id: "318"
+  chinese_name: 国后
+---

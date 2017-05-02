@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 521
+  sort_no: 321
+  name: 春日丸
+  yomi: たいよう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 30
+  after_ship_id: 526
+  get_mes: 特設航空母艦、春日丸と申します。<br>不束者ですが、務めを果したいと思います。
+  voice_f: 1
+  filename: ycfrigxehfwt
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [36, 58]
+    souk: [14, 32]
+    houg: [0, 9]
+    raig: [0, 0]
+    tyku: [12, 24]
+    luck: [5, 39]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [14, 9, 0, 0, 0]
+    after_fuel: 350
+    after_bull: 190
+    fuel_max: 25
+    bull_max: 25
+    broken: [2, 1, 16, 3]
+    pow_up: [0, 0, 1, 2]
+    build_time: 160
+  graph:
+    boko_n: [156, 140]
+    boko_d: [136, 140]
+    kaisyu_n: [36, 2]
+    kaisyu_d: [26, 12]
+    kaizo_n: [152, 72]
+    kaizo_d: [64, 64]
+    map_n: [164, 136]
+    map_d: [84, 140]
+    ensyuf_n: [152, 128]
+    ensyuf_d: [72, 132]
+    ensyue_n: [152, 0]
+    battle_n: [176, 136]
+    battle_d: [96, 156]
+    wed_a: [68, -16]
+    wed_b: [80, 104]
+  wiki_id: "321"
+  chinese_name: 春日丸
+---

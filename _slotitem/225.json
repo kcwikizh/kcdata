@@ -1,0 +1,36 @@
+---
+layout: json
+order: 225
+data:
+  id: 225
+  sort_no: 225
+  name: 一式戦 隼II型(64戦隊)
+  type: [22, 39, 48, 44, 27]
+  rare: 5
+  broken: [1, 2, 0, 3]
+  info: 陸軍主力戦闘機、一式戦「隼」を装備する飛行戦隊です。<br>加藤隼戦闘隊とも呼ばれました。<br>加藤名隊長の育てた同戦隊は緒戦の大活躍の後、南方作戦やビルマ方面で苦しい戦局の中奮戦を続け、最後まで隼と共に戦い抜きます。
+  usebull: 0
+  cost: 4
+  distance: 7
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 11
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 5
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

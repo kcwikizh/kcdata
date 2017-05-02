@@ -1,0 +1,36 @@
+---
+layout: json
+order: 222
+data:
+  id: 222
+  sort_no: 222
+  name: 一式戦 隼III型甲
+  type: [22, 39, 48, 44, 27]
+  rare: 3
+  broken: [1, 1, 0, 4]
+  info: 最も量産された陸軍主力戦闘機、一式戦「隼」、<br>その最終量産型です。<br>機体の基本設計自体は旧式となりつつありましたが、エンジン等を強化した本機は各戦線で戦いの最終局面まで奮闘を続けました。
+  usebull: 0
+  cost: 4
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 7
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

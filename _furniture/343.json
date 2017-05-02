@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 343
+  type: 3
+  no: 71
+  title: 「四周年記念」掛け軸
+  description: 提督のおかげで迎えること<br>ができた「祝四周年」を記<br>念して特型駆逐艦四番艦と<br>その姉妹艦たちが制作した<br>記念のスペシャル掛け軸！
+  rarity: 5
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: "072"
+  file_version: "1"
+---

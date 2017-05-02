@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 511
+  sort_no: 311
+  name: Гангут
+  yomi: ガングート
+  stype: 8
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 25
+  after_ship_id: 512
+  get_mes: ※
+  voice_f: 0
+  filename: cqcrtbwortoi
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [63, 79]
+    souk: [52, 69]
+    houg: [63, 89]
+    raig: [0, 0]
+    tyku: [24, 69]
+    luck: [12, 49]
+    soku: 10
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [3, 3, 3, 0, 0]
+    after_fuel: 400
+    after_bull: 600
+    fuel_max: 80
+    bull_max: 110
+    broken: [10, 14, 33, 3]
+    pow_up: [3, 0, 1, 3]
+    build_time: 240
+  graph:
+    boko_n: [-48, 100]
+    boko_d: [-96, 116]
+    kaisyu_n: [2, -28]
+    kaisyu_d: [16, -18]
+    kaizo_n: [-108, 16]
+    kaizo_d: [-176, 20]
+    map_n: [-64, 76]
+    map_d: [-172, 68]
+    ensyuf_n: [-88, 76]
+    ensyuf_d: [-176, 68]
+    ensyue_n: [-92, 0]
+    battle_n: [-64, 92]
+    battle_d: [-168, 92]
+    wed_a: [304, 40]
+    wed_b: [108, 124]
+  wiki_id: "311"
+  chinese_name: 甘古特
+---

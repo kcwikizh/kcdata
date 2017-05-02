@@ -1,0 +1,36 @@
+---
+layout: json
+order: 226
+data:
+  id: 226
+  sort_no: 226
+  name: 九五式爆雷
+  type: [7, 32, 15, 17, 0]
+  rare: 1
+  broken: [1, 2, 0, 1]
+  info: 対潜水艦に使用する増加爆雷装備です。<br>駆逐艦や海防艦などに爆雷投射機やソナー類などの対潜装備ともに装備することで、対潜能力の向上が図れます。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 4
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

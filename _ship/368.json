@@ -14,7 +14,7 @@ data:
   get_mes: 特Ｉ型駆逐艦、吹雪型の末娘、浦波です。<br>司令官、どうぞよろしくお願い致します。
   voice_f: 3
   filename: uvihthcdkhof
-  file_version: ["3", "1", "405"]
+  file_version: ["3", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

@@ -1,0 +1,36 @@
+---
+layout: json
+order: 229
+data:
+  id: 229
+  sort_no: 229
+  name: 12.7cm単装高角砲(後期型)
+  type: [1, 1, 1, 16, 0]
+  rare: 2
+  broken: [0, 1, 2, 0]
+  info: 駆逐艦や海防艦などに装備された両用砲です。<br>特筆する高い性能を誇るわけではありませんが、対艦、対地、対空、いずれの戦闘も可能なある程度実用的な両用砲として、後期の小型戦闘艦艇に装備されました。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 4
+    tais: 1
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name:
+---

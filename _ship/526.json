@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 526
+  sort_no: 326
+  name: 大鷹
+  yomi: たいよう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 60
+  after_ship_id: 380
+  get_mes: <br>
+  voice_f: 3
+  filename: gvryjheydxtt
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [37, 59]
+    souk: [15, 34]
+    houg: [0, 12]
+    raig: [0, 0]
+    tyku: [13, 27]
+    luck: [6, 44]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [14, 11, 2, 0, 0]
+    after_fuel: 390
+    after_bull: 230
+    fuel_max: 30
+    bull_max: 25
+    broken: [2, 2, 16, 3]
+    pow_up: [0, 0, 1, 2]
+    build_time: 160
+  graph:
+    boko_n: [152, 140]
+    boko_d: [136, 140]
+    kaisyu_n: [36, 2]
+    kaisyu_d: [26, 12]
+    kaizo_n: [148, 72]
+    kaizo_d: [64, 64]
+    map_n: [160, 136]
+    map_d: [84, 140]
+    ensyuf_n: [148, 128]
+    ensyuf_d: [72, 132]
+    ensyue_n: [148, 0]
+    battle_n: [172, 136]
+    battle_d: [96, 156]
+    wed_a: [68, -16]
+    wed_b: [80, 104]
+  wiki_id: "326"
+  chinese_name: 大鹰
+---

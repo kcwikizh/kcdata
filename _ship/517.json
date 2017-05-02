@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 517
+  sort_no: 317
+  name: 占守
+  yomi: しむしゅ
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 40
+  after_ship_id: 376
+  get_mes: 占守型海防艦一番艦！　占守っす！<br>司令、沿岸防衛は、この占守に任せるっす！<br>海を守る……海防艦っす！
+  voice_f: 1
+  filename: mztdruitgisb
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [9, 18]
+    souk: [4, 16]
+    houg: [4, 18]
+    raig: [0, 0]
+    tyku: [7, 24]
+    luck: [40, 79]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 60
+    after_bull: 90
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 0, 0]
+    build_time: 14
+  graph:
+    boko_n: [172, 168]
+    boko_d: [156, 168]
+    kaisyu_n: [24, -2]
+    kaisyu_d: [32, 10]
+    kaizo_n: [104, 76]
+    kaizo_d: [96, 64]
+    map_n: [136, 140]
+    map_d: [112, 136]
+    ensyuf_n: [128, 136]
+    ensyuf_d: [108, 136]
+    ensyue_n: [128, 0]
+    battle_n: [144, 148]
+    battle_d: [116, 148]
+    wed_a: [92, -12]
+    wed_b: [100, 116]
+  wiki_id: "317"
+  chinese_name: 占守
+---

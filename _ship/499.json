@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 499
+  sort_no: 299
+  name: 神威改
+  yomi: かもい
+  stype: 16
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 60
+  after_ship_id: 500
+  get_mes: 給油艦、神威と申します。<br>はい、北海道神威岬由来の名前を頂いています。<br>できる限り、頑張りますね。
+  voice_f: 3
+  filename: tuzyehskgaup
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [37, 48]
+    souk: [13, 29]
+    houg: [6, 22]
+    raig: [0, 0]
+    tyku: [12, 28]
+    luck: [19, 69]
+    soku: 5
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [11, 8, 3, 0, 0]
+    after_fuel: 240
+    after_bull: 30
+    fuel_max: 30
+    bull_max: 15
+    broken: [3, 0, 10, 1]
+    pow_up: [0, 0, 1, 1]
+    build_time: 140
+  graph:
+    boko_n: [44, 130]
+    boko_d: [112, 110]
+    kaisyu_n: [22, -6]
+    kaisyu_d: [60, 2]
+    kaizo_n: [20, 58]
+    kaizo_d: [84, 34]
+    map_n: [24, 114]
+    map_d: [128, 102]
+    ensyuf_n: [32, 114]
+    ensyuf_d: [140, 94]
+    ensyue_n: [8, 0]
+    battle_n: [52, 130]
+    battle_d: [144, 106]
+    wed_a: [184, 6]
+    wed_b: [92, 107]
+  wiki_id: "299"
+  chinese_name: 神威改
+---

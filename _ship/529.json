@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 529
+  sort_no: 331
+  name: 大鷹改二
+  yomi: たいよう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: biuzgypssrhi
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [49, 74]
+    souk: [26, 55]
+    houg: [18, 39]
+    raig: [0, 0]
+    tyku: [24, 54]
+    luck: [14, 64]
+    soku: 5
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [14, 14, 8, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 35
+    bull_max: 35
+    broken: [3, 6, 16, 5]
+    pow_up: [0, 0, 3, 2]
+    build_time: 160
+  graph:
+    boko_n: [152, 132]
+    boko_d: [136, 142]
+    kaisyu_n: [36, 2]
+    kaisyu_d: [26, 12]
+    kaizo_n: [148, 64]
+    kaizo_d: [64, 66]
+    map_n: [160, 128]
+    map_d: [84, 142]
+    ensyuf_n: [148, 120]
+    ensyuf_d: [72, 134]
+    ensyue_n: [148, 0]
+    battle_n: [172, 128]
+    battle_d: [96, 158]
+    wed_a: [68, -14]
+    wed_b: [80, 104]
+  wiki_id: "331"
+  chinese_name: 大鹰改二
+---

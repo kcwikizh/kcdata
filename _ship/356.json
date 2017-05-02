@@ -14,7 +14,7 @@ data:
   get_mes: 提督さん、お疲れさまです。<br>練習巡洋艦、鹿島、着任です。うふふ。
   voice_f: 3
   filename: grgeljjshnfk
-  file_version: ["15", "10", "405"]
+  file_version: ["15", "10", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
