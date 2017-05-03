@@ -83,11 +83,17 @@ data:
         -
           -
             ship_id: 9
+          -
+            ship_id: 201
         -
           -
             ship_id: 9
+          -
+            ship_id: 201
         -
           -
             ship_id: 9
+          -
+            ship_id: 201
   chinese_name: 61cm三连装鱼雷
 ---
