@@ -6,8 +6,8 @@ data:
   name: 神威
   yomi: かもい
   stype: 22
-  ctype: 
-  cnum: 
+  ctype: 72
+  cnum: 1
   backs: 4
   after_lv: 35
   after_ship_id: 499
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: jqvoyyolpqgv
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [162]
+  book_sinfo: 給油艦として建造された「神威」です。<br>米国で生まれ、その後水上機母艦に改装されました。水上機収容用ハイン式マットは思ったより便利ではなかったけれど……。最終的に飛行艇母艦となり、輸送作戦に従事しました。戦いの前は、米艦と共に女性飛行家の捜索も頑張りました。
   stats:
     taik: [36, 48]
     souk: [6, 18]
@@ -26,8 +26,8 @@ data:
     luck: [17, 67]
     soku: 5
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 13
+    tais: 0
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 230

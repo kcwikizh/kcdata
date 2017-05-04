@@ -6,8 +6,8 @@ data:
   name: Гангут
   yomi: ガングート
   stype: 8
-  ctype: 
-  cnum: 
+  ctype: 73
+  cnum: 1
   backs: 5
   after_lv: 25
   after_ship_id: 512
@@ -15,8 +15,8 @@ data:
   voice_f: 0
   filename: cqcrtbwortoi
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [511]
+  book_sinfo: 三連装主砲を持つロシアの弩級戦艦Гангут級、その一番艦だ。革命後は名前を変えたが、近代化改装後、再びГангутの名に戻ったさ。冬戦争、そしてあの大きな戦いにも参加した。地上戦支援で勝利に大きく貢献した私は勲章ももらったな。この戦い、私も貢献しよう。私に任せておけ！
   stats:
     taik: [63, 79]
     souk: [52, 69]
@@ -26,8 +26,8 @@ data:
     luck: [12, 49]
     soku: 10
     leng: 3
-    kaih: 
-    tais: 
+    kaih: 23
+    tais: 0
     slot_num: 3
     max_eq: [3, 3, 3, 0, 0]
     after_fuel: 400

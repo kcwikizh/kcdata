@@ -6,8 +6,8 @@ data:
   name: 択捉
   yomi: えとろふ
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 77
+  cnum: 1
   backs: 4
   after_lv: 20
   after_ship_id: 383
@@ -15,8 +15,8 @@ data:
   voice_f: 0
   filename: lupcrslexuxo
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [524]
+  book_sinfo: 択捉型海防艦の一番艦、択捉です。先輩の占守型の改良型です。生産性と爆雷装備数などが向上しているの。とても多くの姉妹が建造され、船団護衛の任などに就きました、最後まで戦えた艦は多くはなかったけれど、後方の海を最後まで護って戦いました。戦いが終わったも、少し頑張らせて頂きました。
   stats:
     taik: [13, 24]
     souk: [5, 18]
@@ -26,8 +26,8 @@ data:
     luck: [10, 49]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 40
+    tais: 35
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 100
