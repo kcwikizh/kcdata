@@ -9,32 +9,32 @@ data:
   ctype: 
   cnum: 
   backs: 6
-  after_lv: 25
+  after_lv: 75
   after_ship_id: 513
-  get_mes: ※
-  voice_f: 0
+  get_mes: <br>
+  voice_f: 3
   filename: famtkxknboyg
-  file_version: ["1", "1", "1"]
+  file_version: ["51", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [63, 79]
-    souk: [52, 69]
-    houg: [63, 89]
+    taik: [72, 87]
+    souk: [68, 90]
+    houg: [65, 89]
     raig: [0, 0]
-    tyku: [24, 69]
-    luck: [12, 49]
-    soku: 10
+    tyku: [36, 65]
+    luck: [30, 79]
+    soku: 5
     leng: 3
     kaih: 
     tais: 
-    slot_num: 3
-    max_eq: [3, 3, 3, 0, 0]
-    after_fuel: 400
-    after_bull: 600
+    slot_num: 4
+    max_eq: [1, 1, 1, 1, 0]
+    after_fuel: 4200
+    after_bull: 1600
     fuel_max: 80
-    bull_max: 110
-    broken: [10, 14, 33, 3]
+    bull_max: 105
+    broken: [9, 13, 32, 3]
     pow_up: [3, 0, 1, 3]
     build_time: 240
   graph:

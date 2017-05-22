@@ -9,12 +9,12 @@ data:
   ctype: 
   cnum: 
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv: 88
+  after_ship_id: 541
   get_mes: 私が、戦艦長門だ。よろしく頼むぞ。<br>敵戦艦との殴り合いなら任せておけ。
-  voice_f: 1
+  voice_f: 3
   filename: szgthkexanxl
-  file_version: ["16", "16", "1"]
+  file_version: ["16", "17", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 
     slot_num: 4
     max_eq: [3, 3, 3, 3, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 9200
+    after_bull: 8800
     fuel_max: 100
     bull_max: 160
     broken: [20, 30, 50, 3]

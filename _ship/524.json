@@ -9,34 +9,34 @@ data:
   ctype: 77
   cnum: 1
   backs: 4
-  after_lv: 20
+  after_lv: 37
   after_ship_id: 383
-  get_mes: ※
-  voice_f: 0
+  get_mes: 司令、おはようございます！<br>択捉型海防艦一番艦、択捉です。<br>今日も頑張ります！
+  voice_f: 1
   filename: lupcrslexuxo
-  file_version: ["1", "1", "1"]
+  file_version: ["51", "1", "1"]
   book_table_id: [524]
   book_sinfo: 択捉型海防艦の一番艦、択捉です。先輩の占守型の改良型です。生産性と爆雷装備数などが向上しているの。とても多くの姉妹が建造され、船団護衛の任などに就きました、最後まで戦えた艦は多くはなかったけれど、後方の海を最後まで護って戦いました。戦いが終わったも、少し頑張らせて頂きました。
   stats:
-    taik: [13, 24]
-    souk: [5, 18]
-    houg: [6, 29]
-    raig: [18, 49]
-    tyku: [7, 29]
-    luck: [10, 49]
-    soku: 10
+    taik: [9, 18]
+    souk: [4, 16]
+    houg: [4, 18]
+    raig: [0, 0]
+    tyku: [7, 27]
+    luck: [37, 78]
+    soku: 5
     leng: 1
     kaih: 40
     tais: 35
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 100
-    after_bull: 100
-    fuel_max: 15
-    bull_max: 15
-    broken: [1, 1, 4, 0]
-    pow_up: [0, 1, 0, 0]
-    build_time: 18
+    after_fuel: 55
+    after_bull: 95
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 0, 0]
+    build_time: 14
   graph:
     boko_n: [184, 56]
     boko_d: [176, 48]

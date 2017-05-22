@@ -14,7 +14,7 @@ data:
   get_mes: 白露型駆逐艦五番艦の春雨です、はい。<br>輸送作戦はお任せください……です。
   voice_f: 3
   filename: cispmgxqaedk
-  file_version: ["14", "6", "1"]
+  file_version: ["15", "6", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

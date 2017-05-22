@@ -14,7 +14,7 @@ data:
   get_mes: 提督、お疲れさまです。<br>水上機母艦、瑞穂、推参致しました。<br>どうぞよろしくお願い申し上げます。
   voice_f: 3
   filename: ycgllqsxwdgy
-  file_version: ["29", "10", "1"]
+  file_version: ["30", "10", "1"]
   book_table_id: 
   book_sinfo: 
   stats:

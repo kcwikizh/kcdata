@@ -11,32 +11,32 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: ※
-  voice_f: 0
+  get_mes: 司令、おはようございます！<br>択捉型海防艦一番艦、択捉です。<br>今日も頑張ります！
+  voice_f: 1
   filename: glvwrolqeexv
   file_version: ["1", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [13, 24]
-    souk: [5, 18]
-    houg: [6, 29]
-    raig: [18, 49]
-    tyku: [7, 29]
-    luck: [10, 49]
-    soku: 10
+    taik: [17, 28]
+    souk: [7, 33]
+    houg: [5, 37]
+    raig: [0, 0]
+    tyku: [12, 54]
+    luck: [40, 88]
+    soku: 5
     leng: 1
     kaih: 
     tais: 
-    slot_num: 2
+    slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 15
-    bull_max: 15
-    broken: [1, 1, 4, 0]
-    pow_up: [0, 1, 0, 0]
-    build_time: 18
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 1, 0]
+    build_time: 14
   graph:
     boko_n: [184, 56]
     boko_d: [176, 48]

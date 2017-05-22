@@ -9,33 +9,33 @@ data:
   ctype: 73
   cnum: 1
   backs: 5
-  after_lv: 25
+  after_lv: 45
   after_ship_id: 512
-  get_mes: ※
-  voice_f: 0
+  get_mes: 貴様が提督というヤツか。<br>ふん。Гангут級一番艦、Гангутだ。<br>いい面構えだ。いいだろう。
+  voice_f: 1
   filename: cqcrtbwortoi
-  file_version: ["1", "1", "1"]
+  file_version: ["51", "1", "1"]
   book_table_id: [511]
   book_sinfo: 三連装主砲を持つロシアの弩級戦艦Гангут級、その一番艦だ。革命後は名前を変えたが、近代化改装後、再びГангутの名に戻ったさ。冬戦争、そしてあの大きな戦いにも参加した。地上戦支援で勝利に大きく貢献した私は勲章ももらったな。この戦い、私も貢献しよう。私に任せておけ！
   stats:
-    taik: [63, 79]
-    souk: [52, 69]
-    houg: [63, 89]
-    raig: [0, 0]
-    tyku: [24, 69]
-    luck: [12, 49]
-    soku: 10
+    taik: [59, 79]
+    souk: [55, 73]
+    houg: [55, 78]
+    raig: [14, 28]
+    tyku: [22, 58]
+    luck: [20, 69]
+    soku: 5
     leng: 3
     kaih: 23
     tais: 0
-    slot_num: 3
-    max_eq: [3, 3, 3, 0, 0]
-    after_fuel: 400
-    after_bull: 600
-    fuel_max: 80
-    bull_max: 110
-    broken: [10, 14, 33, 3]
-    pow_up: [3, 0, 1, 3]
+    slot_num: 4
+    max_eq: [1, 1, 1, 1, 0]
+    after_fuel: 2000
+    after_bull: 2400
+    fuel_max: 75
+    bull_max: 100
+    broken: [8, 12, 29, 3]
+    pow_up: [2, 1, 1, 3]
     build_time: 240
   graph:
     boko_n: [-48, 100]
