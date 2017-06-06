@@ -14,7 +14,7 @@ data:
   get_mes: 初めまして、弥生、着任…。<br>あ、気を使わないでくれていい…です。
   voice_f: 1
   filename: jnvcrrgmtvwl
-  file_version: ["16", "14", "1"]
+  file_version: ["16", "14", "606"]
   book_table_id: [164, 988]
   book_sinfo: 睦月型駆逐艦三番艦「弥生」です。<br>横須賀の浦賀生まれ。「睦月」や「望月」と艦隊を組んで色々頑張りました。爆撃機とかは嫌い。よろしくね。
   stats:

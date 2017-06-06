@@ -14,7 +14,7 @@ data:
   get_mes: 提督、また会ったね？最上だよ。<br>ボクの飛行甲板どう？似合ってる？
   voice_f: 3
   filename: ethdbrvnuznc
-  file_version: ["8", "6", "1"]
+  file_version: ["9", "6", "606"]
   book_table_id: [73]
   book_sinfo: 最上型重巡洋艦１番艦。<br>最上の後部主砲を全て取り払って、代わりに水上機を運用する航空甲板を設置した、航空巡洋艦だよ。<br>水上機母艦並の航空力と火力、どうよ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 3, 2]
     build_time: 100
   graph:
-    boko_n: [37, -20]
-    boko_d: [17, -2]
+    boko_n: [172, 80]
+    boko_d: [128, 112]
     kaisyu_n: [25, -2]
     kaisyu_d: [28, 7]
-    kaizo_n: [12, -54]
-    kaizo_d: [0, -113]
-    map_n: [27, -18]
-    map_d: [-47, -13]
-    ensyuf_n: [21, -24]
-    ensyuf_d: [9, -71]
-    ensyue_n: [21, 0]
-    battle_n: [-7, -26]
-    battle_d: [-7, -26]
-    wed_a: [198, 158]
-    wed_b: [109, 97]
+    kaizo_n: [84, 24]
+    kaizo_d: [64, 60]
+    map_n: [88, 56]
+    map_d: [64, 96]
+    ensyuf_n: [88, 56]
+    ensyuf_d: [64, 88]
+    ensyue_n: [96, 0]
+    battle_n: [112, 68]
+    battle_d: [96, 92]
+    wed_a: [132, 76]
+    wed_b: [80, 104]
   wiki_id: "101"
   chinese_name: 最上改
 ---

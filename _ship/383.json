@@ -14,7 +14,7 @@ data:
   get_mes: 司令、おはようございます！<br>択捉型海防艦一番艦、択捉です。<br>今日も頑張ります！
   voice_f: 1
   filename: glvwrolqeexv
-  file_version: ["1", "1", "1"]
+  file_version: ["1", "1", "606"]
   book_table_id: 
   book_sinfo: 
   stats:

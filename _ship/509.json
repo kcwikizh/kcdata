@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 509
+  sort_no: 309
+  name: 熊野航改二
+  yomi: くまの
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 8
+  after_lv: 88
+  after_ship_id: 504
+  get_mes: ごきげんよう、<br>わたくしが重巡、熊野ですわ！
+  voice_f: 3
+  filename: oqjojspqklln
+  file_version: ["51", "1", "606"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [62, 74]
+    souk: [42, 75]
+    houg: [0, 55]
+    raig: [0, 0]
+    tyku: [33, 86]
+    luck: [12, 73]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [15, 12, 12, 8, 0]
+    after_fuel: 4500
+    after_bull: 1300
+    fuel_max: 60
+    bull_max: 55
+    broken: [5, 9, 20, 6]
+    pow_up: [1, 0, 3, 3]
+    build_time: 100
+  graph:
+    boko_n: [112, 132]
+    boko_d: [138, 160]
+    kaisyu_n: [36, -8]
+    kaisyu_d: [44, 8]
+    kaizo_n: [96, 64]
+    kaizo_d: [116, 80]
+    map_n: [100, 124]
+    map_d: [132, 136]
+    ensyuf_n: [100, 124]
+    ensyuf_d: [132, 136]
+    ensyue_n: [100, 0]
+    battle_n: [136, 132]
+    battle_d: [152, 164]
+    wed_a: [112, -4]
+    wed_b: [104, 116]
+  wiki_id: "309"
+  chinese_name: 熊野航改二
+---

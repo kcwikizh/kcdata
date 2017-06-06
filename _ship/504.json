@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 504
+  sort_no: 304
+  name: 熊野改二
+  yomi: くまの
+  stype: 6
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 88
+  after_ship_id: 509
+  get_mes: ごきげんよう、<br>わたくしが重巡、熊野ですわ！
+  voice_f: 3
+  filename: babicartxhcm
+  file_version: ["51", "1", "606"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [62, 74]
+    souk: [42, 75]
+    houg: [30, 76]
+    raig: [40, 87]
+    tyku: [30, 84]
+    luck: [13, 73]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [3, 3, 7, 11, 0]
+    after_fuel: 4700
+    after_bull: 800
+    fuel_max: 55
+    bull_max: 60
+    broken: [5, 8, 20, 5]
+    pow_up: [2, 1, 3, 2]
+    build_time: 100
+  graph:
+    boko_n: [98, 136]
+    boko_d: [138, 160]
+    kaisyu_n: [32, -8]
+    kaisyu_d: [36, 8]
+    kaizo_n: [80, 64]
+    kaizo_d: [116, 80]
+    map_n: [84, 124]
+    map_d: [132, 136]
+    ensyuf_n: [84, 124]
+    ensyuf_d: [132, 136]
+    ensyue_n: [84, 0]
+    battle_n: [120, 132]
+    battle_d: [152, 164]
+    wed_a: [124, -4]
+    wed_b: [104, 116]
+  wiki_id: "304"
+  chinese_name: 熊野改二
+---

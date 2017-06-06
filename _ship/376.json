@@ -14,7 +14,7 @@ data:
   get_mes: 占守型海防艦一番艦！　占守っす！<br>司令、沿岸防衛は、この占守に任せるっす！<br>海を守る……海防艦っす！
   voice_f: 1
   filename: vtnbtspwclng
-  file_version: ["1", "1", "1"]
+  file_version: ["1", "1", "606"]
   book_table_id: 
   book_sinfo: 
   stats:
