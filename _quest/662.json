@@ -1,0 +1,32 @@
+---
+layout: json
+data:
+  id: 662
+  category: 6
+  type: 4
+  title: 新型艤装の開発研究
+  detail: "工廠任務：新型艤装の開発研究を実施する。「中口径主砲」系装備x10を廃棄、鉄鋼12,000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲墳兵装資材」の獲得選択が可能です。"
+  reward: [0, 500, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 2
+    -
+      category: useitem
+      id: [57, 75]
+      amount: 1
+  prerequisite: [661]
+  requirements:
+    -
+      category: scrap
+      amount: 10
+      slotitem_equiptype: 2
+    -
+      category: useitem
+      amount: 12000
+      useitem_id: 33
+  wiki_id: F54
+  chinese_title: 新型舾装的开发研究
+  chinese_detail: 工厂任务：进行新型舾装的开发研究。废弃10个「中口径主炮」系的装备，准备12000钢材！（任务完成后，准备好的资源会消耗掉。能够选择性获得「勋章」或「新型火炮兵装资材」。）
+---

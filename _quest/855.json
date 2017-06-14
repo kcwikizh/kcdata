@@ -1,0 +1,52 @@
+---
+layout: json
+data:
+  id: 855
+  category: 8
+  type: 4
+  title: 海上護衛体制の強化に努めよ！
+  detail: 海上護衛作戦：駆逐艦または海防艦3隻以上を含む護衛艦隊を編成し、鎮守府海域の製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海、鎮守府近海航路にそれぞれ展開、各海域における作戦を成功させよ！
+  reward: [400, 0, 0, 400]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 4
+    -
+      category: useitem
+      id: 52
+      amount: 1
+  prerequisite: [216]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 13
+      boss: true
+      result: S
+    -
+      category: sortie
+      times: 1
+      map: 14
+      boss: true
+      result: S
+    -
+      category: sortie
+      times: 1
+      map: 15
+      boss: true
+      result: S
+    -
+      category: sortie
+      times: 1
+      map: 16
+      event: 8
+    -
+      category: flagship
+      ship_type: [1, 2]
+      amount:
+        gte: 3
+  wiki_id: B98
+  chinese_title: 努力进行海上护卫体制的强化！
+  chinese_detail: 海上护卫作战：编成含三艘驱逐舰或者海防舰在内的护卫舰队，前往镇守府海域的炼油厂地带沿岸(1-3)、南西群岛防卫线(1-4)、镇守府近海对潜警戒(1-5)和镇守府近海航路(1-6)，在各海域作战成功！
+---

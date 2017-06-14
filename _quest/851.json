@@ -1,0 +1,39 @@
+---
+layout: json
+data:
+  id: 851
+  category: 8
+  type: 4
+  title: 改装航空巡洋艦、出撃！
+  detail: 改装航空巡洋艦「鈴谷改二」を旗艦とした精強な艦隊を編成、同艦隊を南方海域に展開、<br>南方海域前面、及びサブ島沖海域に遊弋する敵艦隊群を捕捉、これを撃破せよ！
+  reward: [300, 300, 300, 700]
+  reward2:
+    -
+      category: useitem
+      id: 4
+      amount: 4
+    -
+      category: slotitem
+      id: [217, 203]
+      amount: 1
+  prerequisite: [287, 838]
+  requirements:
+    -
+      category: sortie
+      times: 1
+      map: 51
+      boss: true
+      result: A
+    -
+      category: sortie
+      times: 1
+      map: 53
+      boss: true
+      result: A
+    -
+      category: flagship
+      ship_id: 503
+  wiki_id: B95
+  chinese_title: 改装航空巡洋舰，出击！
+  chinese_detail: 以改装航空巡洋舰铃谷改二为旗舰编成强力舰队，向南方海域展开，捕捉游弋于南方海域前方(5-1)和萨部岛近海海域(5-3)的敌方舰队群，并将其击破！
+---

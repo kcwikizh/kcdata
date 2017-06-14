@@ -22,7 +22,7 @@ data:
       category: sortie
       times: 1
       map: 16
-      boss: true
+      event: 8
     -
       category: flagship
       ship_id: 141

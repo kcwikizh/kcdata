@@ -1,0 +1,24 @@
+---
+layout: json
+data:
+  id: 424
+  category: 4
+  type: 3
+  title: 輸送船団護衛を強化せよ！
+  detail: 遠征任務：「海上護衛任務」を反復実施し、輸送船団の護衛に務めよ！
+  reward: [1000, 0, 0, 300]
+  reward2:
+    -
+      category: useitem
+      id: 11
+      amount: 2
+  prerequisite: [402, 419]
+  requirements:
+    -
+      category: expedition
+      times: 4
+      expedition_id: 5
+  wiki_id: D22
+  chinese_title: 强化输送船队护卫！
+  chinese_detail: 远征任务：反复进行「海上护卫任务」，尽力进行输送船队的护卫！
+---

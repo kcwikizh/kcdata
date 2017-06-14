@@ -16,7 +16,7 @@ data:
       category: useitem
       id: 59
       amount: 1
-  prerequisite: [288, 819]
+  prerequisite: [175, 819]
   requirements:
     -
       category: fleet

@@ -1,0 +1,28 @@
+---
+layout: json
+data:
+  id: 180
+  category: 1
+  type: 4
+  title: 新編「第一戦隊」を編成せよ！
+  detail: 編成任務：第一艦隊に新改装された長門型戦艦一番艦「長門改二」及び同二番艦「陸奥改」からなる<br>新編第一戦隊を配備せよ！
+  reward: [0, 880, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 2
+    -
+      category: useitem
+      id: 59
+      amount: 1
+  prerequisite: [258, 289]
+  requirements:
+    -
+      category: fleet
+      amount: 2
+      ship_id: [541, 276]
+  wiki_id: A75
+  chinese_title: 编成新编「第一舰队」！
+  chinese_detail: 编成任务：配备由已编成的第一舰队中的长门型战舰一号舰「长门改二」以及二号舰「陆奥改」组成的新编第一战队！
+---
