@@ -2802,7 +2802,7 @@
       }
     ],
     "prerequisite": [
-      288,
+      175,
       819
     ],
     "requirements": {
@@ -2943,6 +2943,90 @@
             "敷波改"
           ],
           "select": 5
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 180,
+    "wiki_id": "A75",
+    "category": 1,
+    "type": 1,
+    "name": "新編「第一戦隊」を編成せよ！",
+    "detail": "編成任務：第一艦隊に新改装された長門型戦艦一番艦「長門改二」及び同二番艦「陸奥改」からなる<br>新編第一戦隊を配備せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 880,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "高速修復材",
+        "amount": 2
+      },
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      258,
+      289
+    ],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "長門改二"
+        },
+        {
+          "ship": "陸奥改"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 181,
+    "wiki_id": "A76",
+    "category": 1,
+    "type": 1,
+    "name": "新編「第七戦隊」を編成せよ！",
+    "detail": "編成任務：第一艦隊旗艦に新改装された改鈴谷型「熊野改二」、同二番艦に「鈴谷改二」、<br>僚艦に「最上改」「三隈改」を配した新編第七戦隊を配備せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 700,
+    "reward_other": [
+      {
+        "name": "高速修復材",
+        "amount": 2
+      },
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      303,
+      851
+    ],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "熊野改二",
+          "flagship": true
+        },
+        {
+          "ship": "鈴谷改二"
+        },
+        {
+          "ship": "最上改"
+        },
+        {
+          "ship": "三隈改"
+        },
+        {
+          "ship": "鈴谷改二"
         }
       ]
     }
@@ -7322,6 +7406,90 @@
     }
   },
   {
+    "game_id": 424,
+    "wiki_id": "D22",
+    "category": 4,
+    "type": 6,
+    "name": "輸送船団護衛を強化せよ！",
+    "detail": "遠征任務：「海上護衛任務」を反復実施し、輸送船団の護衛に務めよ！",
+    "reward_fuel": 1000,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 300,
+    "reward_other": [
+      {
+        "name": "家具箱（中）",
+        "amount": 2
+      }
+    ],
+    "prerequisite": [
+      402,
+      419
+    ],
+    "requirements": {
+      "category": "expedition",
+      "objects": [
+        {
+          "times": 4,
+          "id": 5
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 425,
+    "wiki_id": "D23",
+    "category": 4,
+    "type": 1,
+    "name": "海上護衛総隊、遠征開始！",
+    "detail": "遠征任務：遠征任務「対潜警戒任務」「海上護衛任務」「タンカー護衛任務」を実施、<br>軽巡、駆逐艦、海防艦などから編成された護衛艦隊で各遠征を成功させよ！",
+    "reward_fuel": 700,
+    "reward_ammo": 700,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "高速修復材",
+        "amount": 2
+      },
+      {
+        "name": "開発資材",
+        "amount": 2
+      }
+    ],
+    "prerequisite": [
+      424,
+      662
+    ],
+    "requirements": {
+      "category": "expedition",
+      "objects": [
+        {
+          "times": 1,
+          "id": 4
+        },
+        {
+          "times": 1,
+          "id": 5
+        },
+        {
+          "times": 1,
+          "id": 9
+        }
+      ],
+      "groups": [
+        {
+          "ship": [
+            "軽巡",
+            "駆逐艦",
+            "海防艦"
+          ]
+        }
+      ],
+      "disallowed": "他の艦"
+    }
+  },
+  {
     "game_id": 501,
     "wiki_id": "E01",
     "category": 5,
@@ -9324,6 +9492,127 @@
     }
   },
   {
+    "game_id": 661,
+    "wiki_id": "F53",
+    "category": 6,
+    "type": 1,
+    "name": "新型砲墳兵装、戦力化開始！",
+    "detail": "工廠任務：新型砲墳兵装の開発及び同戦力化を開始する。「副砲」系装備x10を廃棄、<br>鉄鋼6,000を準備せよ！　※任務達成後、準備した資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 400,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "家具箱（中）",
+        "amount": 2
+      },
+      {
+        "name": "新型砲墳兵装資材",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      150,
+      607
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "副砲",
+          "amount": 10
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        6000,
+        0
+      ]
+    }
+  },
+  {
+    "game_id": 662,
+    "wiki_id": "F54",
+    "category": 6,
+    "type": 1,
+    "name": "新型艤装の開発研究",
+    "detail": "工廠任務：新型艤装の開発研究を実施する。「中口径主砲」系装備x10を廃棄、鉄鋼12,000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲墳兵装資材」の獲得選択が可能です。",
+    "reward_fuel": 0,
+    "reward_ammo": 500,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "開発資材",
+        "amount": 2
+      },
+      {
+        "name": "勲章 / 新型砲墳兵装資材",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      661
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "中口径主砲",
+          "amount": 10
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        12000,
+        0
+      ]
+    }
+  },
+  {
+    "game_id": 663,
+    "wiki_id": "F55",
+    "category": 6,
+    "type": 7,
+    "name": "新型艤装の継続研究",
+    "detail": "工廠任務：新型艤装の開発を継続実施する。「大口径主砲」系装備x10を廃棄、鉄鋼18,000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。",
+    "reward_fuel": 0,
+    "reward_ammo": 600,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "開発資材",
+        "amount": 3
+      },
+      {
+        "name": "勲章 / 新型砲墳兵装資材",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      425
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "大口径主砲",
+          "amount": 10
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        18000,
+        0
+      ]
+    }
+  },
+  {
     "game_id": 701,
     "wiki_id": "G01",
     "category": 7,
@@ -9593,7 +9882,6 @@
     "requirements": {
       "category": "sortie",
       "map": "1-6",
-      "boss": true,
       "times": 1,
       "groups": [
         {
@@ -11259,6 +11547,649 @@
                 "水母"
               ],
               "flagship": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 851,
+    "wiki_id": "B95",
+    "category": 2,
+    "type": 1,
+    "name": "改装航空巡洋艦、出撃！",
+    "detail": "改装航空巡洋艦「鈴谷改二」を旗艦とした精強な艦隊を編成、同艦隊を南方海域に展開、<br>南方海域前面、及びサブ島沖海域に遊弋する敵艦隊群を捕捉、これを撃破せよ！",
+    "reward_fuel": 300,
+    "reward_ammo": 300,
+    "reward_steel": 300,
+    "reward_bauxite": 700,
+    "reward_other": [
+      {
+        "name": "改修資材",
+        "amount": 4
+      },
+      {
+        "name": "強風改 / 艦本新設計 増設バルジ(中型艦)",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      287,
+      838
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "5-1",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "鈴谷改二",
+              "flagship": true
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "5-3",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "鈴谷改二",
+              "flagship": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 852,
+    "wiki_id": "B96",
+    "category": 2,
+    "type": 1,
+    "name": "改装攻撃型軽空母、前線展開せよ！",
+    "detail": "改装航空母艦「鈴谷航改二」を旗艦とした精強な機動部隊を編成、同艦隊を中部海域に進出。<br>MS諸島沖、KW環礁沖海域に展開し、同海域の敵機動部隊を捕捉、これを撃滅せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 1000,
+    "reward_steel": 0,
+    "reward_bauxite": 1000,
+    "reward_other": [
+      {
+        "name": "零式艦戦63型(爆戦)",
+        "category": "装備",
+        "amount": 1
+      },
+      {
+        "name": "8cm高角砲改+増設機銃",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      851
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "6-2",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "鈴谷航改二",
+              "flagship": true
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "6-5",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": "鈴谷航改二",
+              "flagship": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 853,
+    "wiki_id": "B97",
+    "category": 2,
+    "type": 1,
+    "name": "鎮守府海域警戒を厳とせよ！",
+    "detail": "巡洋艦クラスを旗艦に配備、2隻以上の駆逐艦を擁する警戒艦隊を編成せよ。同警戒艦隊を以て、<br>鎮守府海域(南西諸島/製油所地帯沿岸/南西諸島防衛線/鎮守府近海)の警戒任務にあたれ！",
+    "reward_fuel": 400,
+    "reward_ammo": 400,
+    "reward_steel": 400,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 2
+      },
+      {
+        "name": "特注家具職人",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      839
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "1-2",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "巡洋艦",
+              "flagship": true
+            },
+            {
+              "ship": "駆逐",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "1-3",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "巡洋艦",
+              "flagship": true
+            },
+            {
+              "ship": "駆逐",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "1-4",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "巡洋艦",
+              "flagship": true
+            },
+            {
+              "ship": "駆逐",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "1-5",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "巡洋艦",
+              "flagship": true
+            },
+            {
+              "ship": "駆逐",
+              "amount": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 854,
+    "wiki_id": "Bq02",
+    "category": 2,
+    "type": 7,
+    "name": "戦果拡張任務！「Z作戦」前段作戦",
+    "detail": "戦果拡張作戦：我が第一艦隊に精鋭艦艇を集中配備、同精鋭艦隊を以て、南西諸島の沖ノ島海域、<br>中部海域哨戒線、グアノ環礁沖の敵艦隊を撃破、中部北海域ピーコック島の敵戦力を破砕殲滅せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 2000,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "改修資材",
+        "amount": 4
+      },
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 3
+      },
+      {
+        "name": "戦果350"
+      }
+    ],
+    "prerequisite": [
+      220,
+      846
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-4",
+          "boss": true,
+          "result": "A"
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "6-1",
+          "boss": true,
+          "result": "A"
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "6-3",
+          "boss": true,
+          "result": "A"
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "6-4",
+          "boss": true,
+          "result": "S"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 855,
+    "wiki_id": "B98",
+    "category": 2,
+    "type": 1,
+    "name": "海上護衛体制の強化に努めよ！",
+    "detail": "海上護衛作戦：駆逐艦または海防艦3隻以上を含む護衛艦隊を編成し、鎮守府海域の製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海、鎮守府近海航路にそれぞれ展開、各海域における作戦を成功させよ！",
+    "reward_fuel": 400,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 400,
+    "reward_other": [
+      {
+        "name": "開発資材",
+        "amount": 4
+      },
+      {
+        "name": "特注家具職人",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      216
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "1-3",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": [
+                "駆逐",
+                "海防艦"
+              ],
+              "amount": 3
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "1-4",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": [
+                "駆逐",
+                "海防艦"
+              ],
+              "amount": 3
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "1-5",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": [
+                "駆逐",
+                "海防艦"
+              ],
+              "amount": 3
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "1-6",
+          "boss": true,
+          "groups": [
+            {
+              "ship": [
+                "駆逐",
+                "海防艦"
+              ],
+              "amount": 3
+            }
+          ],
+          "result": "クリア"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 856,
+    "wiki_id": "B99",
+    "category": 2,
+    "type": 1,
+    "name": "新編「第一戦隊」、抜錨せよ！",
+    "detail": "新編「第一戦隊」出撃任務：戦艦「長門改二」を旗艦、二番艦に「陸奥改」を配備した第一艦隊で出撃！<br>カレー洋リランカ島沖、サーモン海域北方に展開し、同海域の敵艦隊主力を捕捉、これを撃滅せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 880,
+    "reward_steel": 880,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "改修資材",
+        "amount": 4
+      },
+      {
+        "name": "艦本新設計 増設バルジ(大型艦)",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      180,
+      855
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "4-5",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": "長門改二",
+              "flagship": true
+            },
+            {
+              "ship": "陸奥改(二番艦)"
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "5-5",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": "長門改二",
+              "flagship": true
+            },
+            {
+              "ship": "陸奥改(二番艦)"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 857,
+    "wiki_id": "B100",
+    "category": 2,
+    "type": 1,
+    "name": "増強海上護衛総隊、抜錨せよ！",
+    "detail": "出撃任務：軽巡1隻以上、駆逐艦または海防艦2隻以上、さらに航空巡洋艦または軽空母で増強した<br>第一護衛艦隊を第一艦隊に編成、南西諸島海域の各海域に展開、敵艦隊を撃破、各作戦を成功させよ！",
+    "reward_fuel": 700,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "高速修復材",
+        "amount": 3
+      },
+      {
+        "name": "勲章 / 新型砲墳兵装資材",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      228,
+      855
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-2",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "軽巡",
+              "amount": 1
+            },
+            {
+              "ship": [
+                "駆逐",
+                "海防艦"
+              ],
+              "amount": 2
+            },
+            {
+              "ship": [
+                "航巡",
+                "軽母"
+              ],
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-3",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "軽巡",
+              "amount": 1
+            },
+            {
+              "ship": [
+                "駆逐",
+                "海防艦"
+              ],
+              "amount": 2
+            },
+            {
+              "ship": [
+                "航巡",
+                "軽母"
+              ],
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-4",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "軽巡",
+              "amount": 1
+            },
+            {
+              "ship": [
+                "駆逐",
+                "海防艦"
+              ],
+              "amount": 2
+            },
+            {
+              "ship": [
+                "航巡",
+                "軽母"
+              ],
+              "amount": 1
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-5",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "軽巡",
+              "amount": 1
+            },
+            {
+              "ship": [
+                "駆逐",
+                "海防艦"
+              ],
+              "amount": 2
+            },
+            {
+              "ship": [
+                "航巡",
+                "軽母"
+              ],
+              "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 858,
+    "wiki_id": "B101",
+    "category": 2,
+    "type": 1,
+    "name": "新編「第七戦隊」、出撃せよ！",
+    "detail": "出撃任務：新編「第七戦隊」を出撃！　カレー洋リランカ島沖「深海東洋艦隊漸減作戦」、<br>MS諸島沖「MS諸島防衛戦」において、敵艦隊主力を捕捉、これを撃滅せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 1000,
+    "reward_bauxite": 500,
+    "reward_other": [
+      {
+        "name": "改修資材",
+        "amount": 4
+      },
+      {
+        "name": "勲章 / 新型砲墳兵装資材 / 零式艦戦63型(爆戦)",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      181
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "4-5",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": "熊野改二",
+              "flagship": true
+            },
+            {
+              "ship": [
+                "鈴谷改二(二番艦)",
+                "最上改",
+                "三隈改"
+              ]
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "6-2",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": "熊野改二",
+              "flagship": true
+            },
+            {
+              "ship": [
+                "鈴谷改二(二番艦)",
+                "最上改",
+                "三隈改"
+              ]
             }
           ]
         }
