@@ -9,15 +9,16 @@ data:
   reward: [100, 0, 100, 0]
   reward2:
     -
-      category: other
-      item: 第3艦隊開放
+      type: text
+      content: 第3艦隊開放
   prerequisite: [106]
   requirements:
     -
       category: fleet
-      amount:
-        gte: 3
-      ship_id: [54, 55, 56]
+      ship:
+        type: ship
+        id: [54, 55, 56]
+      amount: 3
   wiki_id: A14
   chinese_title: 「川内」型轻巡姐妹全部3舰编成！
   chinese_detail: 川内型轻巡洋舰，将「川内」「神通」「那珂」编成在同一舰队！

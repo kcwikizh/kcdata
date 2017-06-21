@@ -9,16 +9,18 @@ data:
   reward: [30, 30, 30, 0]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 2
       amount: 1
   prerequisite: [101]
   requirements:
     -
       category: fleet
+      ship:
+        type: shiptype
+        id: 2
       amount:
         gte: 4
-      ship_type: 2
   wiki_id: A2
   chinese_title: 「驱逐队」编成！
   chinese_detail: 以驱逐舰四艘编成「驱逐队」！

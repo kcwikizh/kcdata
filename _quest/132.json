@@ -9,11 +9,11 @@ data:
   reward: [180, 180, 0, 0]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 3
       amount: 1
     -
-      category: useitem
+      type: useitem
       id: 50
       amount: 1
   prerequisite: [239]
@@ -21,7 +21,12 @@ data:
     -
       category: fleet
       amount: 4
-      ship_id: [49, 48, 17, 18]
+    -
+      category: fleet
+      ship:
+        type: ship
+        id: [49, 48, 17, 18]
+      amount: 4
   wiki_id: A32
   chinese_title: 「第十八驱逐队」编成！
   chinese_detail: 以「霞」「霰」「阳炎」「不知火」4艘编成第十八驱逐队！

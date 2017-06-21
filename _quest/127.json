@@ -9,14 +9,16 @@ data:
   reward: [150, 150, 0, 0]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 54
       amount: 1
   prerequisite: [121]
   requirements:
     -
       category: fleet
-      ship_type: [13, 14]
+      ship:
+        type: shiptype
+        id: [13, 14]
       amount:
         gte: 3
   wiki_id: A27

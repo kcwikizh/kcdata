@@ -9,20 +9,21 @@ data:
   reward: [300, 150, 0, 0]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 1
       amount: 2
     -
-      category: useitem
+      type: useitem
       id: 3
       amount: 1
   prerequisite: [119]
   requirements:
     -
       category: fleet
-      amount:
-        gte: 4
-      ship_id: [67, 66, 69, 68]
+      ship:
+        type: ship
+        id: [67, 66, 69, 68]
+      amount: 4
   wiki_id: A21
   chinese_title: 「第四战队」编成！
   chinese_detail: 以「爱宕」「高雄」「鸟海」「摩耶」为基干编成第四战队！

@@ -9,21 +9,25 @@ data:
   reward: [0, 0, 200, 200]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 1
       amount: 2
   prerequisite: [122]
   requirements:
     -
       category: fleet
+      ship:
+        type: shiptype
+        id: 10
       amount:
         gte: 2
-      ship_type: 10
     -
       category: fleet
+      ship:
+        type: shiptype
+        id: 6
       amount:
         gte: 2
-      ship_type: 6
   wiki_id: A26
   chinese_title: 航空水上打击舰队编成！
   chinese_detail: 以航空战舰2艘和航空巡洋舰2艘为基干编成舰队！

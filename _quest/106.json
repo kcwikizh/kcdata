@@ -9,16 +9,18 @@ data:
   reward: [0, 70, 0, 30]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 1
       amount: 1
   prerequisite: [105]
   requirements:
     -
       category: fleet
+      ship:
+        type: shiptype
+        id: 5
       amount:
         gte: 2
-      ship_type: 5
   wiki_id: A7
   chinese_title: 「重巡战队」编成！
   chinese_detail: 编成拥有2艘重巡的重巡舰队！

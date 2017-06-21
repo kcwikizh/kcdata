@@ -9,16 +9,17 @@ data:
   reward: [200, 200, 200, 0]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 54
       amount: 1
   prerequisite: [121]
   requirements:
     -
       category: fleet
-      amount:
-        gte: 4
-      ship_id: [26, 27, 70, 43]
+      ship:
+        type: ship
+        id: [26, 27, 70, 43]
+      amount: 4
   wiki_id: A22
   chinese_title: 「西村舰队」编成！
   chinese_detail: 以「扶桑」「山城」「最上」「时雨」为基干编成西村舰队！

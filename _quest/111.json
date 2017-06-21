@@ -9,20 +9,21 @@ data:
   reward: [200, 200, 200, 200]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 1
       amount: 2
     -
-      category: useitem
+      type: useitem
       id: 3
       amount: 1
   prerequisite: [108]
   requirements:
     -
       category: fleet
-      amount:
-        gte: 2
-      ship_id: [26, 27]
+      ship:
+        type: ship
+        id: [26, 27]
+      amount: 2
   wiki_id: A17
   chinese_title: 「扶桑」型战舰姐妹全部2舰编成！
   chinese_detail: 将扶桑型战舰「扶桑」「山城」配属在同一舰队！！

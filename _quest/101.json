@@ -9,7 +9,7 @@ data:
   reward: [20, 20, 0, 0]
   reward2:
     -
-      category: ship
+      type: ship
       id: 10
       amount: 1
   prerequisite: []

@@ -9,14 +9,15 @@ data:
   reward: [200, 200, 200, 200]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 50
       amount: 1
   prerequisite: [245]
   requirements:
     -
       category: flagship
-      level: [100, 999]
+      level:
+        gte: 100
     -
       category: fleet
       amount: 6

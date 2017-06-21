@@ -9,19 +9,23 @@ data:
   reward: [40, 40, 0, 40]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 3
       amount: 1
   prerequisite: [102]
   requirements:
     -
       category: flagship
-      ship_type: 3
+      ship:
+        type: shiptype
+        id: 3
     -
       category: fleet
+      ship:
+        type: shiptype
+        id: 2
       amount:
         gte: 3
-      ship_type: 2
   wiki_id: A3
   chinese_title: 「水雷战队」编成！
   chinese_detail: 编成以轻巡洋舰为旗舰，加上数艘驱逐舰构成的「水雷战队」！

@@ -9,16 +9,17 @@ data:
   reward: [200, 0, 300, 0]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 1
       amount: 3
   prerequisite: [121]
   requirements:
     -
       category: fleet
-      amount:
-        gte: 4
-      ship_id: [63, 64, 100, 101]
+      ship:
+        type: ship
+        id: [63, 64, 100, 101]
+      amount: 4 
   wiki_id: A29
   chinese_title: 「第5舰队」编成！
   chinese_detail: 以「那智」「足柄」「多摩」「木曾」为核心编成第五舰队！

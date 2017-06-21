@@ -9,7 +9,7 @@ data:
   reward: [150, 150, 0, 0]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 50
       amount: 1
   prerequisite: [116]
@@ -17,7 +17,12 @@ data:
     -
       category: fleet
       amount: 4
-      ship_id: [34, 35, 36, 37]
+    -
+      category: fleet
+      ship:
+        type: ship
+        id: [34, 35, 36, 37]
+      amount: 4
   wiki_id: A10
   chinese_title: 「第六驱逐队」编成！
   chinese_detail: 以「晓」「响」「雷」「电」4艘编成第六驱逐队！

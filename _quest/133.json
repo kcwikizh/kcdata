@@ -9,11 +9,11 @@ data:
   reward: [200, 200, 0, 0]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 1
       amount: 2
     -
-      category: useitem
+      type: useitem
       id: 50
       amount: 1
   prerequisite: [131]
@@ -21,7 +21,12 @@ data:
     -
       category: fleet
       amount: 4
-      ship_id: [1, 2, 164, 31]
+    -
+      category: fleet
+      ship:
+        type: ship
+        id: [1, 2, 164, 31]
+      amount: 4
   wiki_id: A33
   chinese_title: 「第三十驱逐队(第一次)」编成！
   chinese_detail: 以「睦月」「如月」「弥生」「望月」4艘编成第三十驱逐队（第一次）！

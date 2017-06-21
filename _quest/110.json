@@ -9,20 +9,21 @@ data:
   reward: [150, 100, 150, 100]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 1
       amount: 1
     -
-      category: useitem
+      type: useitem
       id: 3
       amount: 1
   prerequisite: [109]
   requirements:
     -
       category: fleet
-      amount:
-        gte: 4
-      ship_id: [62, 63, 64, 65]
+      ship:
+        type: ship
+        id: [62, 63, 64, 65]
+      amount: 4
   wiki_id: A15
   chinese_title: 「妙高」型重巡姐妹全部4舰编成！
   chinese_detail: 将妙高型重巡洋舰「妙高」「那智」「足柄」「羽黑」配属在同一舰队！

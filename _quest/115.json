@@ -9,16 +9,16 @@ data:
   reward: [50, 50, 100, 0]
   reward2:
     -
-      category: useitem
+      type: useitem
       id: 2
       amount: 1
   prerequisite: [104]
   requirements:
     -
       category: fleet
+      fleet: 2
       amount:
         gte: 1
-      fleet_id: 2
   wiki_id: A6
   chinese_title: 第二舰队编成！
   chinese_detail: 第二个舰队，即在第2舰队指定旗舰，编成第2舰队！

@@ -9,15 +9,16 @@ data:
   reward: [0, 0, 0, 0]
   reward2:
     -
-      category: other
-      item: 第4艦隊開放
+      type: text
+      content: 第4艦隊開放
   prerequisite: [110]
   requirements:
     -
       category: fleet
-      amount:
-        gte: 4
-      ship_id: [78, 86, 79, 85]
+      ship:
+        type: ship
+        id: [78, 86, 79, 85]
+      amount: 4
   wiki_id: A16
   chinese_title: 使用「金刚」型编成高速战舰部队！
   chinese_detail: 将金刚型战舰「金刚」「比叡」「榛名」「雾岛」全部4艘集中配备！
