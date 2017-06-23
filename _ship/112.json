@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 77
   after_ship_id: 462
-  get_mes: 翔鶴型航空母艦２番艦、妹の瑞鶴です。<br>幸運の空母ですって？そうじゃないの、一生懸命やってるだけ…よ。艦載機がある限り、負けないわ！
+  get_mes: <br>
   voice_f: 3
   filename: ihwgeegenykh
   file_version: ["15", "15", "606"]

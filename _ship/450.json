@@ -11,7 +11,7 @@ data:
   backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: 水上機母艦、秋津洲よ！<br>この大艇ちゃんと一緒に覚えてよね！
+  get_mes: <br>
   voice_f: 3
   filename: wwqmolrsxfvz
   file_version: ["16", "13", "606"]

@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 古鷹と言います。<br>重巡洋艦のいいところ、たくさん知ってもらえると嬉しいです。
+  get_mes: <br>
   voice_f: 1
   filename: vqdgxtrgintc
   file_version: ["16", "16", "1"]

@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: ヴェールヌイだ。<br>その活躍ぶりから不死鳥の通り名もあるよ。
+  get_mes: <br>
   voice_f: 3
   filename: gmqsmiszmftf
   file_version: ["5", "5", "606"]

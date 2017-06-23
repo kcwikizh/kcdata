@@ -11,7 +11,7 @@ data:
   backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: Hi！ MeがIowa級戦艦、Iowaよ。<br>Youがこの艦隊のAdmiralなの？ いいじゃない！<br>私たちのこともよろしく！
+  get_mes: <br>
   voice_f: 3
   filename: nwntjkczdexl
   file_version: ["3", "1", "606"]

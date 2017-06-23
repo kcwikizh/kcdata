@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: 初めまして、弥生、着任…。<br>あ、気を使わないでくれていい…です。
+  get_mes: <br>
   voice_f: 1
   filename: ozjrctjajnpx
   file_version: ["16", "14", "606"]

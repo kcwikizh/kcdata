@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 80
   after_ship_id: 408
-  get_mes: 商船改装空母、隼鷹でーすっ！<br>ひゃっはぁー！
+  get_mes: <br>
   voice_f: 1
   filename: pwokyefpmqwi
   file_version: ["3", "3", "1"]

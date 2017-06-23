@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: Guten Morgen！<br>私は、重巡プリンツ・オイゲン。よろしくね！
+  get_mes: <br>
   voice_f: 3
   filename: cmmiahpwdamx
   file_version: ["15", "15", "1"]

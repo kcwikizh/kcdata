@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: はいはーい！白露型駆逐艦「村雨」だよ。<br>みんな、よろしくね！
+  get_mes: <br>
   voice_f: 1
   filename: wvnchfzhekfo
   file_version: ["31", "27", "606"]

@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: 提督、お疲れさまです。<br>水上機母艦、瑞穂、推参致しました。<br>どうぞよろしくお願い申し上げます。
+  get_mes: <br>
   voice_f: 3
   filename: ycgllqsxwdgy
   file_version: ["31", "10", "606"]

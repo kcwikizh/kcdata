@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 60
   after_ship_id: 159
-  get_mes: あの……軽巡洋艦、神通です。<br>どうか、よろしくお願い致します……
+  get_mes: <br>
   voice_f: 1
   filename: ncijtxixkghu
   file_version: ["8", "8", "606"]

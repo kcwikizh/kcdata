@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 70
   after_ship_id: 147
-  get_mes: 響だよ。<br>その活躍ぶりから不死鳥の通り名もあるよ。
+  get_mes: <br>
   voice_f: 0
   filename: wpaqzeclspdr
   file_version: ["3", "3", "606"]

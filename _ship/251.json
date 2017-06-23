@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 67
   after_ship_id: 490
-  get_mes: あら。自己紹介まだでしたかー。<br>私、荒潮です。
+  get_mes: <br>
   voice_f: 1
   filename: pmjnkqodgjpo
   file_version: ["9", "9", "606"]

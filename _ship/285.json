@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: 航空母艦、鳳翔です。<br>ふつつか者ですが、よろしくお願い致します。
+  get_mes: <br>
   voice_f: 1
   filename: xjotoxrgwfrj
   file_version: ["5", "3", "606"]

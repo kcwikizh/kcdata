@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 70
   after_ship_id: 179
-  get_mes: Guten Morgen.<br>僕の名前はレーベレヒト・マース。<br>レーベでいいよ…うん。
+  get_mes: <br>
   voice_f: 3
   filename: vbuxfozqoemo
   file_version: ["5", "3", "1"]

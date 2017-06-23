@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: あたし…白露型駆逐艦……その八番艦。山風。<br>いいよ……。別に。
+  get_mes: <br>
   voice_f: 3
   filename: qfyztscquxza
   file_version: ["5", "1", "606"]

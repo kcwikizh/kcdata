@@ -11,7 +11,7 @@ data:
   backs: 3
   after_lv: 15
   after_ship_id: 108
-  get_mes: ダイエットして空母になった千歳です！<br>足も速くなったの。本でも出そうかしら！
+  get_mes: <br>
   voice_f: 3
   filename: ttkeodhvrmog
   file_version: ["15", "10", "606"]

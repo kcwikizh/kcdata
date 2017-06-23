@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 貴様が司令官か。<br>私は那智。よろしくお願いする。
+  get_mes: <br>
   voice_f: 1
   filename: bpegnatlfibc
   file_version: ["14", "14", "1"]

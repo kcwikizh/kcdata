@@ -11,7 +11,7 @@ data:
   backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: 航空母艦、飛龍です。<br>空母戦ならお任せ！どんな苦境でも戦えます！
+  get_mes: <br>
   voice_f: 3
   filename: gbxvfsrqbyxg
   file_version: ["16", "17", "1"]

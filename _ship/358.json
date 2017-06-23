@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 88
   after_ship_id: 496
-  get_mes: Buon Giornov！ ザラ級重巡、一番艦ザラです！<br>粘り強さが信条です。提督、よろしくね！
+  get_mes: <br>
   voice_f: 3
   filename: waviopoxryme
   file_version: ["4", "2", "606"]

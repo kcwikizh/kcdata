@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 488
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 288
+  name: 由良改二
+  yomi: ゆら
+  stype: 3
+  ctype: 20
+  cnum: 4
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
+  get_mes: <br>
+  voice_f: 3
   filename: rwectccrwkub
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["1", "1", "606"]
+  book_table_id: [488]
+  book_sinfo: 長良型軽巡４番艦の由良です。<br>私たちの中では、初めて水上偵察機を搭載したの。<br>水雷戦隊や潜水戦隊の旗艦として、活躍したのよ？<br>ドーントレスとかＢ17とかそういうのはちょっと苦手。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [45, 61]
+    souk: [29, 67]
+    houg: [14, 53]
+    raig: [25, 80]
+    tyku: [36, 88]
+    luck: [16, 70]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 49
+    slot_num: 3
+    max_eq: [1, 2, 1, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 25
+    bull_max: 30
+    broken: [2, 2, 10, 0]
+    pow_up: [1, 2, 2, 2]
+    build_time: 75
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [112, 144]
+    boko_d: [200, 156]
+    kaisyu_n: [18, -6]
+    kaisyu_d: [36, 18]
+    kaizo_n: [32, 72]
+    kaizo_d: [132, 80]
+    map_n: [48, 120]
+    map_d: [152, 136]
+    ensyuf_n: [36, 128]
+    ensyuf_d: [144, 136]
+    ensyue_n: [44, 0]
+    battle_n: [64, 140]
+    battle_d: [172, 148]
+    wed_a: [188, -12]
+    wed_b: [84, 116]
+  wiki_id: "288"
+  chinese_name: 由良改二
 ---

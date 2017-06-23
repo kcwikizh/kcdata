@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: ヴィットリオ・ヴェネト級戦艦４番艦、ローマです、よろしく。<br>何？あまりジロジロ見ないでくださいね。
+  get_mes: <br>
   voice_f: 3
   filename: yfpnftpuwkrx
   file_version: ["17", "14", "606"]

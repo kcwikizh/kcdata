@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: 名前は出雲ま…じゃなかった、飛鷹です。<br>航空母艦よ。よろしくね、提督！
+  get_mes: <br>
   voice_f: 1
   filename: yiwwnppitqpf
   file_version: ["8", "8", "1"]

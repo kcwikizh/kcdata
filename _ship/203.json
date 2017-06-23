@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: 初雪……です……よろしく。
+  get_mes: <br>
   voice_f: 1
   filename: sejqtlkfjwkc
   file_version: ["18", "18", "606"]

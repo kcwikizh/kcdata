@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: 長月だ。<br>駆逐艦と侮るなよ。役に立つはずだ。
+  get_mes: <br>
   voice_f: 1
   filename: wrxtfahvtyqi
   file_version: ["10", "10", "1"]

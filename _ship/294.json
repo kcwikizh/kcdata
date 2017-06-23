@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: こんにちは！陽炎型駆逐艦、舞風です。<br>暗い雰囲気は苦手です！
+  get_mes: <br>
   voice_f: 3
   filename: ssvrjquubpim
   file_version: ["14", "14", "606"]

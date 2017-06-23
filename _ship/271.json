@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 75
   after_ship_id: 428
-  get_mes: よ！アタシ、摩耶ってんだ、よろしくな。
+  get_mes: <br>
   voice_f: 1
   filename: ajhdojqfykfu
   file_version: ["17", "19", "606"]

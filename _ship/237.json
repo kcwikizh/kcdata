@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: 電です。<br>どうか、よろしくお願いいたします。
+  get_mes: <br>
   voice_f: 1
   filename: bqvrrfdcuvdr
   file_version: ["7", "5", "606"]

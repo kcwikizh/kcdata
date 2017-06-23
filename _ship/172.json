@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 50
   after_ship_id: 173
-  get_mes: Guten Tag.<br>私はビスマルク型戦艦のネームシップ、ビスマルク。<br>よおく覚えておくのよ。
+  get_mes: <br>
   voice_f: 3
   filename: frkfpymtydmg
   file_version: ["11", "11", "1"]

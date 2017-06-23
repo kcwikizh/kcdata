@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 大型潜水空母、潜特型を補完するために生まれました……<br>伊十三型潜水艦、伊13です。あの…私…ヒトミと………<br>いえ…なんでも…ないの……。
+  get_mes: <br>
   voice_f: 3
   filename: hmjwmfpdcuur
   file_version: ["1", "1", "1"]

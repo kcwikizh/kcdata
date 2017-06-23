@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 88
   after_ship_id: 541
-  get_mes: 私が、戦艦長門だ。よろしく頼むぞ。<br>敵戦艦との殴り合いなら任せておけ。
+  get_mes: <br>
   voice_f: 3
   filename: szgthkexanxl
   file_version: ["16", "17", "606"]

@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 司令官、私、頑張るから！<br>神風型駆逐艦、一番艦、神風。推参です！<br>全力で事に当たりましょう！
+  get_mes: <br>
   voice_f: 3
   filename: osxrcrtldvru
   file_version: ["2", "1", "606"]

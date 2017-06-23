@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: あんたが司令官ね。<br>ま、せいぜい頑張りなさい！
+  get_mes: <br>
   voice_f: 3
   filename: ugxgvgtjsxud
   file_version: ["14", "12", "606"]

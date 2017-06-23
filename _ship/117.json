@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 瑞鳳です。<br>軽空母ですが、練度があがれば、正規空母並の活躍をおみせできます。
+  get_mes: <br>
   voice_f: 3
   filename: xmzltsferzto
   file_version: ["21", "19", "606"]

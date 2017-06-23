@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 75
   after_ship_id: 464
-  get_mes: 霞よ。<br>ガンガンいくわよ。ついてらっしゃい。
+  get_mes: <br>
   voice_f: 1
   filename: ohpnwjgzfesg
   file_version: ["7", "7", "606"]

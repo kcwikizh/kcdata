@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 雲龍型航空母艦、天城です。<br>提督、天城、今なら十分活躍できます！
+  get_mes: <br>
   voice_f: 3
   filename: zgscfjpbxnir
   file_version: ["13", "9", "1"]

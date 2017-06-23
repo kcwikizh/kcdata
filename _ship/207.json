@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 70
   after_ship_id: 195
-  get_mes: ごきげんよう。<br>特型駆逐艦、綾波と申します。
+  get_mes: <br>
   voice_f: 1
   filename: sgpilzypnejy
   file_version: ["13", "13", "606"]

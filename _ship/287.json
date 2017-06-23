@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 80
   after_ship_id: 412
-  get_mes: 扶桑型戦艦姉妹、妹のほう、山城です。<br>あの、扶桑姉さま、見ませんでした？
+  get_mes: <br>
   voice_f: 1
   filename: bnbdxfioqxtt
   file_version: ["22", "16", "606"]

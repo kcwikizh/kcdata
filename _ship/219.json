@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 50
   after_ship_id: 141
-  get_mes: 五十鈴です。水雷戦隊の指揮ならお任せ。<br>全力で提督を勝利に導くわ。よろしくね。
+  get_mes: <br>
   voice_f: 0
   filename: espxbipsjiyt
   file_version: ["3", "1", "1"]

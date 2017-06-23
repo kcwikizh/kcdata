@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: こんにちはーっ！<br>最新鋭軽巡の阿賀野でーすっ。ふふ。
+  get_mes: <br>
   voice_f: 7
   filename: cmpqwemjahur
   file_version: ["9", "9", "606"]

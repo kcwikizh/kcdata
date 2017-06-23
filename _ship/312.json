@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: 駆逐艦、浜風です。<br>これより貴艦隊所属となります。
+  get_mes: <br>
   voice_f: 1
   filename: ojkgkujsenly
   file_version: ["24", "20", "606"]

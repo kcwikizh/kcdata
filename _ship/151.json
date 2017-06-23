@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 高速戦艦、榛名、着任しました。<br>あなたが提督なのね？　よろしくお願い致します。
+  get_mes: <br>
   voice_f: 3
   filename: ilxltdgucgbg
   file_version: ["18", "16", "1"]

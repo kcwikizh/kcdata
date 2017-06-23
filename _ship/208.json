@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: アタシの名は敷波。<br>以後よろしく。
+  get_mes: <br>
   voice_f: 1
   filename: epjlpvhwcjvw
   file_version: ["14", "14", "606"]

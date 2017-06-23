@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: 名取といいます。<br>ご迷惑をおかけしないように、が、頑張ります。
+  get_mes: <br>
   voice_f: 1
   filename: aqgjvutybsbk
   file_version: ["6", "5", "1"]

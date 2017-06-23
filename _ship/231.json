@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: 特型駆逐艦「曙」よ。<br>って、こっち見んな！　この糞提督！
+  get_mes: <br>
   voice_f: 1
   filename: wnocckxgfmnh
   file_version: ["20", "20", "606"]

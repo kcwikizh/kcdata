@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: ちわ！涼風だよ。<br>私が艦隊に加われば百人力さ！
+  get_mes: <br>
   voice_f: 1
   filename: jukighzxmudn
   file_version: ["9", "9", "606"]

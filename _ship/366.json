@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: 睦月型駆逐艦、その六番艦、水無月だよ。<br>遅れてごめん。司令官、よろしくね！……えへへ。
+  get_mes: <br>
   voice_f: 3
   filename: mnqveismubcz
   file_version: ["3", "1", "606"]

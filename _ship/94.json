@@ -15,7 +15,7 @@ data:
   voice_f: 0
   filename: lnarycubyzrr
   file_version: ["23", "19", "606"]
-  book_table_id: [94, 906, 841, 923]
+  book_table_id: [94, 906, 232, 841, 923]
   book_sinfo: 特型駆逐艦の１９番目、綾波型でいうと、９番艦の漣だよ。<br>読みにくいって？貴方が字を知らないだけヨ。<br>南雲機動部隊が真珠湾でボコボコやってる時、ミッドウェー島砲撃を敢行したよ。何気に凄くない？
   stats:
     taik: [15, 29]

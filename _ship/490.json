@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: あら。自己紹介まだでしたかー。<br>私、荒潮です。
+  get_mes: <br>
   voice_f: 1
   filename: hrkuspdmjtmd
   file_version: ["1", "1", "606"]

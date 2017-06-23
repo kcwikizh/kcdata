@@ -6,17 +6,17 @@ data:
   name: 神威改
   yomi: かもい
   stype: 16
-  ctype: 
-  cnum: 
+  ctype: 72
+  cnum: 1
   backs: 5
   after_lv: 60
   after_ship_id: 500
-  get_mes: 給油艦、神威と申します。<br>はい、北海道神威岬由来の名前を頂いています。<br>できる限り、頑張りますね。
+  get_mes: <br>
   voice_f: 3
   filename: tuzyehskgaup
   file_version: ["2", "1", "606"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [499]
+  book_sinfo: 給油艦として建造された「神威」です。<br>米国で生まれ、その後水上機母艦に改装されました。水上機収容用ハイン式マットは思ったより便利ではなかったけれど……。最終的に飛行艇母艦となり、輸送作戦に従事しました。戦いの前は、米艦と共に女性飛行家の捜索も頑張りました。
   stats:
     taik: [37, 48]
     souk: [13, 29]
@@ -26,8 +26,8 @@ data:
     luck: [19, 69]
     soku: 5
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 13
+    tais: 0
     slot_num: 3
     max_eq: [11, 8, 3, 0, 0]
     after_fuel: 240

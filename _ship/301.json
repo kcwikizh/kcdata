@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: 秋雲、着任！<br>提督よろしくねっ！
+  get_mes: <br>
   voice_f: 3
   filename: ijhrnvnbqkmj
   file_version: ["5", "3", "606"]

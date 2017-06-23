@@ -6,8 +6,8 @@ data:
   name: 大鷹
   yomi: たいよう
   stype: 7
-  ctype: 
-  cnum: 
+  ctype: 76
+  cnum: 1
   backs: 5
   after_lv: 60
   after_ship_id: 380
@@ -15,8 +15,8 @@ data:
   voice_f: 3
   filename: gvryjheydxtt
   file_version: ["51", "2", "606"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [526]
+  book_sinfo: 航空母艦、大鷹です。<br>優秀船舶建造助成施設によって建造された客船でしたが、戦いに臨み、空母へと改装されました。航空機の輸送などに務めた後、大鷹と名前を変えて、海上護衛の任に就きました。夜の潜水艦は…怖いですね……。
   stats:
     taik: [37, 59]
     souk: [15, 34]
@@ -26,8 +26,8 @@ data:
     luck: [6, 44]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 24
+    tais: 35
     slot_num: 3
     max_eq: [14, 11, 2, 0, 0]
     after_fuel: 390

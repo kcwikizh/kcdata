@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 65
   after_ship_id: 194
-  get_mes: 羽黒です。妙高型重巡洋艦姉妹の末っ娘です。<br>あ、あの…ごめんなさいっ！
+  get_mes: <br>
   voice_f: 1
   filename: uilfcyypnbwm
   file_version: ["14", "15", "1"]

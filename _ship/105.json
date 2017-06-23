@@ -11,7 +11,7 @@ data:
   backs: 3
   after_lv: 12
   after_ship_id: 107
-  get_mes: 空母になった千代田です。<br>ぜひ、千歳お姉と一緒に機動部隊を編制してね！
+  get_mes: <br>
   voice_f: 1
   filename: tsfbgfyeqxhg
   file_version: ["17", "12", "606"]

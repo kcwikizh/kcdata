@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 軽空母、龍驤や。独特なシルエットでしょ？<br>でも、艦載機を次々繰り出す、ちゃーんとした空母なんや。期待してや！
+  get_mes: <br>
   voice_f: 1
   filename: mslkutojcolj
   file_version: ["19", "15", "1"]

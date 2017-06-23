@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 50
   after_ship_id: 119
-  get_mes: 新しい北上、それがアタシ。<br>酸素魚雷を満載して、ちょっと大人になったでしょ。
+  get_mes: <br>
   voice_f: 3
   filename: jdqefjcpslli
   file_version: ["14", "14", "1"]

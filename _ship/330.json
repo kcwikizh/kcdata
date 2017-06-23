@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 秋月型防空駆逐艦、一番艦、秋月。<br>ここに推参致しました。お任せください！
+  get_mes: <br>
   voice_f: 3
   filename: tubwmcjwtlqx
   file_version: ["13", "11", "1"]

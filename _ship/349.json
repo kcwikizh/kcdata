@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: 夕雲型駆逐艦、三番艦の風雲よ。<br>そっか、貴方が提督なんだ。了解です。<br>ご命令、どうぞ！
+  get_mes: <br>
   voice_f: 3
   filename: gykqxdkfpzih
   file_version: ["13", "9", "606"]

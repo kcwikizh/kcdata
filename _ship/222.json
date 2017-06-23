@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 60
   after_ship_id: 158
-  get_mes: 川内、参上。<br>夜戦なら任せておいて！
+  get_mes: <br>
   voice_f: 1
   filename: zhixojcwijfj
   file_version: ["7", "7", "606"]

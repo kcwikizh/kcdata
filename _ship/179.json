@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: Guten Morgen.<br>僕の名前はレーベレヒト・マース。<br>レーベでいいよ…うん。
+  get_mes: <br>
   voice_f: 3
   filename: qgkjswznylty
   file_version: ["5", "3", "1"]

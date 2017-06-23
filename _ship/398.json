@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: 伊１６８よ。何よ、言いにくいの？<br>じゃ、イムヤでいいわ…よろしくねっ！
+  get_mes: <br>
   voice_f: 3
   filename: dyfnguymthbd
   file_version: ["4", "5", "606"]

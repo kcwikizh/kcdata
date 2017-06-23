@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: よお！　夕雲型駆逐艦、十六番艦の朝霜、いつでも出撃できんぜ。<br>まだまだ、暴れよう…な、司令！
+  get_mes: <br>
   voice_f: 1
   filename: jozbiyweyksl
   file_version: ["14", "12", "606"]

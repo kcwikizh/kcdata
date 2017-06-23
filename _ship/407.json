@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 特型駆逐艦…綾波型の「潮」です。<br>もう下がってよろしいでしょうか…。
+  get_mes: <br>
   voice_f: 1
   filename: fsgwccpesgfh
   file_version: ["25", "19", "606"]

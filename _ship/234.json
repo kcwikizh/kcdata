@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 70
   after_ship_id: 437
-  get_mes: 暁よ。<br>一人前のレディーとして扱ってよね！
+  get_mes: <br>
   voice_f: 3
   filename: slzosqvxjxus
   file_version: ["3", "3", "606"]

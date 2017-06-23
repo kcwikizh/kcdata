@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: 提督、谷風だよ。<br>これからお世話になるね！
+  get_mes: <br>
   voice_f: 1
   filename: jdyqtxzmsyng
   file_version: ["17", "14", "606"]

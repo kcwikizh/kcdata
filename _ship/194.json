@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: 妙高型重巡洋艦、羽黒です。<br>皆さんと共に、全力で戦線を支えます！
+  get_mes: <br>
   voice_f: 1
   filename: ecwgnneuzbcv
   file_version: ["14", "15", "1"]

@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: 軽空母、祥鳳です。<br>はい、ちょっと小柄ですけど、ぜひ提督の機動部隊に加えてくださいね！
+  get_mes: <br>
   voice_f: 1
   filename: numjsnomjspr
   file_version: ["20", "16", "606"]

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 349
+  type: 3
+  no: 73
+  title: 「瑞雲魂」掛け軸
+  description: 隠れた名機といえる高性能<br>水上偵察機「瑞雲」。その<br>魂を込めてある航空戦艦が<br>この時のために丹精込めて<br>作り上げた入魂の掛け軸。
+  rarity: 5
+  price: 6340
+  saleflg: 1
+  season: 0
+  filename: "074"
+  file_version: "1"
+---

@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 70
   after_ship_id: 463
-  get_mes: 駆逐艦、朝潮です。<br>勝負ならいつでも受けて立つ覚悟です。
+  get_mes: <br>
   voice_f: 1
   filename: xbbfxeemifpv
   file_version: ["10", "10", "606"]

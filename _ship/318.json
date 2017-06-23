@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 潜水母艦改装空母の龍鳳です。<br>航空母艦として、私、頑張ります！
+  get_mes: <br>
   voice_f: 3
   filename: rjtnzguullvo
   file_version: ["10", "4", "1"]

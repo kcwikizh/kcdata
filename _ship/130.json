@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 84
   after_ship_id: 504
-  get_mes: ごきげんよう、<br>わたくしが重巡、熊野ですわ！
+  get_mes: <br>
   voice_f: 3
   filename: pcdygwofwfib
   file_version: ["18", "15", "606"]

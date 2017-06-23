@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 60
   after_ship_id: 145
-  get_mes: 僕は白露型駆逐艦、「時雨」。<br>これからよろしくね。
+  get_mes: <br>
   voice_f: 1
   filename: wmskekfmgdio
   file_version: ["23", "24", "606"]

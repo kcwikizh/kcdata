@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 英国で生まれた帰国子女の金剛デース。<br>ヨロシクオネガイシマース！
+  get_mes: <br>
   voice_f: 3
   filename: wugwvdccggcp
   file_version: ["20", "20", "606"]

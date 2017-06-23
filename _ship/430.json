@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 雲龍型航空母艦、三番艦、葛城よ！<br>え？　水上防空砲台ですって？<br>ち、違うわよ！　提督、何いってんの！
+  get_mes: <br>
   voice_f: 3
   filename: bohmlbbvqtfs
   file_version: ["9", "9", "1"]

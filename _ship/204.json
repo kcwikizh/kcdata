@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: 深雪だよ。<br>よろしくな！
+  get_mes: <br>
   voice_f: 1
   filename: zlshfpystoqp
   file_version: ["11", "11", "606"]

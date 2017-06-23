@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: きたきたぁ！　鬼怒、いよいよ到着しましたよ！
+  get_mes: <br>
   voice_f: 3
   filename: glyidgppuqgp
   file_version: ["1", "1", "606"]
@@ -21,8 +21,8 @@ data:
     taik: [45, 61]
     souk: [29, 68]
     houg: [15, 55]
-    raig: [28, 82]
-    tyku: [41, 83]
+    raig: [28, 84]
+    tyku: [41, 86]
     luck: [17, 72]
     soku: 10
     leng: 1

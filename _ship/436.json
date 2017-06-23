@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: UボートU-511改め、呂号第500潜水艦です。<br>ユーちゃん改め、ローちゃんです。<br>テイトク、よろしくお願いしまーす！
+  get_mes: <br>
   voice_f: 3
   filename: wnibjvejengh
   file_version: ["12", "12", "1"]

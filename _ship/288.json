@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 80
   after_ship_id: 461
-  get_mes: 翔鶴型航空母艦１番艦、翔鶴です。<br>一航戦、二航戦の先輩方に、少しでも近づけるように<br>瑞鶴と一緒に頑張ります！
+  get_mes: <br>
   voice_f: 3
   filename: vcftaofxkvgk
   file_version: ["13", "13", "606"]

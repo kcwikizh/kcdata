@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: こんにちは。高雄です。<br>貴方のような素敵な提督で良かったわ。
+  get_mes: <br>
   voice_f: 1
   filename: ghgphbvmzjrx
   file_version: ["9", "9", "606"]

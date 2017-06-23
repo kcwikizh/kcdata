@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 白露型駆逐艦九番艦、<br>改白露型の江風だよ。よろしくな！<br>あ、読み方、間違えンなよ。
+  get_mes: <br>
   voice_f: 3
   filename: rwrhhyeloenn
   file_version: ["6", "1", "606"]

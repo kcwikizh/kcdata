@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: ブォンジョールノ！<br>マエストラーレ級駆逐艦、リベッチオです。<br>リベでいいよ。提督さん、よろしくね！
+  get_mes: <br>
   voice_f: 3
   filename: rgfuelwdntub
   file_version: ["14", "10", "606"]

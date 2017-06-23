@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 古鷹型重巡の2番艦、加古ってんだ、よっろしくぅー！
+  get_mes: <br>
   voice_f: 1
   filename: riiwaegupstv
   file_version: ["8", "8", "1"]

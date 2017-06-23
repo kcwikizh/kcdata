@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 75
   after_ship_id: 150
-  get_mes: 金剛お姉さまの妹分、比叡です。<br>経験を積んで、姉さまに少しでも近づきたいです。
+  get_mes: <br>
   voice_f: 1
   filename: iatmdvvwlngq
   file_version: ["15", "17", "1"]

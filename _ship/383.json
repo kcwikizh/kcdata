@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: 司令、おはようございます！<br>択捉型海防艦一番艦、択捉です。<br>今日も頑張ります！
+  get_mes: <br>
   voice_f: 1
   filename: glvwrolqeexv
   file_version: ["1", "1", "606"]

@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 晴嵐運用のために生まれた伊号潜水艦、伊14よ。<br>いいよ、イヨって呼んで。提督、よろしくどうぞ！
+  get_mes: <br>
   voice_f: 3
   filename: fhcabilueqsn
   file_version: ["1", "1", "1"]

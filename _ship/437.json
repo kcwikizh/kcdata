@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 暁よ。<br>一人前のレディーとして扱ってよね！
+  get_mes: <br>
   voice_f: 3
   filename: gzerqivthcrd
   file_version: ["3", "3", "606"]

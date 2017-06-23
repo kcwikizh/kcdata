@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 55
   after_ship_id: 436
-  get_mes: ドイツ海軍所属、潜水艦U-511です。<br>ユーとお呼びください。<br>少し遠出してきました。よろしくお願い致します……。
+  get_mes: <br>
   voice_f: 1
   filename: dfrmfmjvschh
   file_version: ["5", "5", "1"]

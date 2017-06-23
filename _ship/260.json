@@ -11,7 +11,7 @@ data:
   backs: 4
   after_lv: 
   after_ship_id: 
-  get_mes: あなたが司令官ですね。三日月です。<br>どうぞお手柔らかにお願いします。
+  get_mes: <br>
   voice_f: 1
   filename: sxrrihbkdkjl
   file_version: ["11", "11", "1"]

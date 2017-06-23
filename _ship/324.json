@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 
   after_ship_id: 
-  get_mes: また…来てしまったのね、この海に。<br>夕雲型駆逐艦、早霜…着任しました。
+  get_mes: <br>
   voice_f: 3
   filename: uvfgjekdjlcw
   file_version: ["4", "1", "606"]

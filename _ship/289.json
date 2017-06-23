@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 75
   after_ship_id: 487
-  get_mes: きたきたぁ！　鬼怒、いよいよ到着しましたよ！
+  get_mes: <br>
   voice_f: 3
   filename: ikwmknqjpvkg
   file_version: ["15", "15", "606"]

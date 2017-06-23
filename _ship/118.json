@@ -11,7 +11,7 @@ data:
   backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 重雷装艦として、生まれ変わった大井です。<br>お久しぶりです！
+  get_mes: <br>
   voice_f: 3
   filename: khtgrpfyurcm
   file_version: ["16", "16", "1"]

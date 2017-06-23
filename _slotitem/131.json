@@ -63,19 +63,19 @@ data:
           -
             ship_id: 487
         - false
-        - false
-        - false
         -
           -
             ship_id: 428
         -
           -
             ship_id: 428
+        -
+          -
+            ship_id: 428
+        -
           -
             ship_id: 487
         -
-          -
-            ship_id: 428
           -
             ship_id: 487
   chinese_name: 25mm三连装机铳 集中配备

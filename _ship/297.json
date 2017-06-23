@@ -11,7 +11,7 @@ data:
   backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 空母になった千代田です。<br>ぜひ、千歳お姉と一緒に機動部隊を編制してね！
+  get_mes: <br>
   voice_f: 3
   filename: jhefpwucyxiq
   file_version: ["15", "10", "606"]
