@@ -1,0 +1,36 @@
+---
+layout: json
+order: 206
+data:
+  id: 206
+  sort_no: 206
+  name: F6F-5
+  type: [3, 5, 6, 6, 21]
+  rare: 5
+  broken: [2, 4, 0, 5]
+  info: 大戦初期の太平洋上で零戦としのぎを削った艦上戦闘機F4Fシリーズの後継機、F6Fシリーズの後期改良型量産機です。<br>大出力エンジンと強力な火力を装備、さらに防御面も強化した本機は、強力な量産型艦上戦闘機として、戦場の空で零戦を圧倒していきます。
+  usebull: 0
+  cost: 8
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 10
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: F6F-5
+---

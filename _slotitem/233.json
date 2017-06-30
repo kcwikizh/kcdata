@@ -1,0 +1,36 @@
+---
+layout: json
+order: 233
+data:
+  id: 233
+  sort_no: 233
+  name: F4U-1D
+  type: [3, 5, 7, 7, 21]
+  rare: 5
+  broken: [2, 6, 0, 7]
+  info: 高性能艦上戦闘機として開発が進められたF4U、航空母艦での運用が難しいと思われた初期型は陸上から運用されました。<br>その改良戦闘爆撃機型である本機及び同後期シリーズは、機動部隊で運用され、マルチロールな活躍ぶりを発揮、戦闘爆撃機として長い間現役を務めます。
+  usebull: 0
+  cost: 9
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 7
+    tyku: 7
+    tais: 1
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: F4U-1D
+---
