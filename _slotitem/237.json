@@ -32,5 +32,45 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [190, 190, 0, 490]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [8, 10]
+            -
+              id: 4
+              amount: [6, 7]
+          -
+            -
+              id: 3
+              amount: [10, 16]
+            -
+              id: 4
+              amount: [7, 9]
+        slotitem:
+          -
+            id: 26
+            amount: 2
+          -
+            id: 26
+            amount: 3
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 88
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 88
+        -
+          -
+            ship_id: 88
   chinese_name: 瑞云(六三四空/熟练)
 ---

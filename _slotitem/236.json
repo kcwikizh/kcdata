@@ -32,5 +32,45 @@ data:
     luck: 0
     leng: 3
   improvement: 
+    -
+      consume:
+        resource: [45, 450, 700, 45]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [6, 7]
+          -
+            -
+              id: 3
+              amount: [10, 12]
+            -
+              id: 4
+              amount: [7, 10]
+        slotitem:
+          -
+            id: 8
+            amount: 2
+          -
+            id: 9
+            amount: 2
+      upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 541
+        -
+          -
+            ship_id: 541
+        -
+          -
+            ship_id: 541
+        - false
+        - false
+        - false
   chinese_name: 41cm三连装炮改
 ---

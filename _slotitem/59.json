@@ -59,9 +59,7 @@ data:
             amount: 1
       upgrade:
       day:
-        -
-          -
-            ship_id: 451
+        - false
         -
           -
             ship_id: 451
@@ -78,8 +76,6 @@ data:
           -
             ship_id: 143
         -
-          -
-            ship_id: 451
           -
             ship_id: 143
   chinese_name: 零式水上观测机

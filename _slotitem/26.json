@@ -32,5 +32,72 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [160, 160, 0, 360]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 7]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [6, 5]
+            -
+              id: 4
+              amount: [9, 7]
+        slotitem:
+          -
+            id: 26
+            amount: 1
+          -
+            id: 26
+            amount: 1
+      upgrade:
+        id: 79
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [16, 24]
+            -
+              id: 4
+              amount: [7, 10]
+          slotitem:
+            id: 26
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 82
+          -
+            ship_id: 88
+        -
+          -
+            ship_id: 73
+        -
+          -
+            ship_id: 73
+        -
+          -
+            ship_id: 73
+        -
+          -
+            ship_id: 73
+        -
+          -
+            ship_id: 82
+          -
+            ship_id: 88
+        -
+          -
+            ship_id: 82
+          -
+            ship_id: 88
   chinese_name: 瑞云
 ---
