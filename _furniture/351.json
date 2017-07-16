@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 351
+  type: 1
+  no: 56
+  title: 夏の職人木製壁
+  description: 夏の季節家具にマッチする<br>新作の木製壁です。高級な<br>素材を贅沢につかった職人<br>の技が光るシンプルにして<br>季節感溢れる仕上りです。
+  rarity: 3
+  price: 2200
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

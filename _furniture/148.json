@@ -8,7 +8,7 @@ data:
   description: 家具箱の一斉開封機能実装<br>を記念して用意された家具<br>コイン長者に贈る逸品。精<br>密模型は長門型。必要家具<br>コインの数もビッグ７級！
   rarity: 5
   price: 70000
-  saleflg: 1
+  saleflg: 0
   season: 27
   filename: 
   file_version: 

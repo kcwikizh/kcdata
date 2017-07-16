@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: gixbrtnuabge
-  file_version: ["23", "15", "606"]
+  file_version: ["24", "15", "714"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 0, 2, 2]
     build_time: 80
   graph:
-    boko_n: [-16, 96]
-    boko_d: [-32, 152]
+    boko_n: [24, 132]
+    boko_d: [76, 144]
     kaisyu_n: [32, 4]
     kaisyu_d: [40, 8]
-    kaizo_n: [-16, 40]
-    kaizo_d: [-64, 80]
-    map_n: [-24, 72]
-    map_d: [-48, 128]
-    ensyuf_n: [24, 64]
-    ensyuf_d: [-16, 128]
+    kaizo_n: [-16, 76]
+    kaizo_d: [20, 72]
+    map_n: [0, 112]
+    map_d: [40, 128]
+    ensyuf_n: [-16, 116]
+    ensyuf_d: [36, 132]
     ensyue_n: [-16, 0]
-    battle_n: [24, 64]
-    battle_d: [-24, 128]
-    wed_a: [200, 40]
-    wed_b: [128, 104]
+    battle_n: [24, 124]
+    battle_d: [64, 144]
+    wed_a: [236, 4]
+    wed_b: [80, 108]
   wiki_id: "183a"
   chinese_name: 大淀改
 ---

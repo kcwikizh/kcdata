@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 807
+  sort_no: 0
+  name: 
+  yomi: 
+  stype: 
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: rypuutyqossx
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [132, 12]
+    boko_d: [112, 116]
+    kaisyu_n: [28, -6]
+    kaisyu_d: [60, 2]
+    kaizo_n: [112, -44]
+    kaizo_d: [84, 40]
+    map_n: [116, -12]
+    map_d: [128, 108]
+    ensyuf_n: [120, -8]
+    ensyuf_d: [140, 100]
+    ensyue_n: [120, 0]
+    battle_n: [144, 24]
+    battle_d: [144, 112]
+    wed_a: [100, 128]
+    wed_b: [88, 104]
+  wiki_id:
+  chinese_name:
+---

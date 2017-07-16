@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: kavryopoywwx
-  file_version: ["15", "10", "606"]
+  file_version: ["16", "10", "714"]
   book_table_id: [296]
   book_sinfo: 水上機母艦から空母に改装された千歳です。<br>ダイエットして体も絞って、脚も速くなったのよ。これなら機動部隊の一翼を担えるわ！頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 3]
     build_time: 190
   graph:
-    boko_n: [184, 152]
-    boko_d: [140, 164]
+    boko_n: [30, 70]
+    boko_d: [15, 75]
     kaisyu_n: [6, -7]
     kaisyu_d: [44, -11]
-    kaizo_n: [108, 104]
-    kaizo_d: [64, 92]
-    map_n: [128, 132]
-    map_d: [72, 132]
-    ensyuf_n: [116, 128]
-    ensyuf_d: [72, 132]
-    ensyue_n: [112, 0]
-    battle_n: [136, 144]
-    battle_d: [96, 152]
-    wed_a: [96, -4]
-    wed_b: [76, 108]
+    kaizo_n: [-4, 15]
+    kaizo_d: [-28, -13]
+    map_n: [14, 75]
+    map_d: [-15, 69]
+    ensyuf_n: [32, 59]
+    ensyuf_d: [-42, 7]
+    ensyue_n: [5, 0]
+    battle_n: [-45, 50]
+    battle_d: [-15, 50]
+    wed_a: [248, 67]
+    wed_b: [113, 120]
   wiki_id: "121"
   chinese_name: 千岁航改二
 ---

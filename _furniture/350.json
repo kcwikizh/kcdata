@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 350
+  type: 1
+  no: 55
+  title: 矢羽の壁紙
+  description: 矢羽をデザインモチーフに<br>採用した、爽やかな季節の<br>壁紙です。航空母艦娘にも<br>人気のこの壁紙で、鎮守府<br>の模様替えをどうぞ！
+  rarity: 2
+  price: 800
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

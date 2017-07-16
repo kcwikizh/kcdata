@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: numjsnomjspr
-  file_version: ["20", "16", "606"]
+  file_version: ["21", "16", "714"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 2]
     build_time: 160
   graph:
-    boko_n: [96, 88]
-    boko_d: [128, 160]
+    boko_n: [-8, 140]
+    boko_d: [184, 172]
     kaisyu_n: [4, 16]
     kaisyu_d: [24, 16]
-    kaizo_n: [32, 32]
-    kaizo_d: [96, 80]
-    map_n: [56, 64]
-    map_d: [96, 128]
-    ensyuf_n: [64, 48]
-    ensyuf_d: [128, 128]
-    ensyue_n: [40, 0]
-    battle_n: [64, 48]
-    battle_d: [112, 128]
-    wed_a: [168, 64]
-    wed_b: [128, 112]
+    kaizo_n: [-80, 96]
+    kaizo_d: [128, 56]
+    map_n: [-64, 128]
+    map_d: [160, 156]
+    ensyuf_n: [-48, 128]
+    ensyuf_d: [176, 128]
+    ensyue_n: [-64, 0]
+    battle_n: [-64, 128]
+    battle_d: [144, 128]
+    wed_a: [272, -8]
+    wed_b: [116, 124]
   wiki_id: "094a"
   chinese_name: 祥凤改
 ---

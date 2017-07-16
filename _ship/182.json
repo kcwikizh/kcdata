@@ -14,7 +14,7 @@ data:
   get_mes: 工作艦、明石です。<br>少々の損傷だったら、私が泊地でばっちり直してあげますね。<br>お任せください！
   voice_f: 1
   filename: kynputhclcdl
-  file_version: ["24", "18", "606"]
+  file_version: ["25", "18", "714"]
   book_table_id: [182, 909, 840, 820]
   book_sinfo: 連合艦隊唯一の工作艦、明石です。<br>トラック泊地に進出し、前線で損傷した艦艇の修理を担当したわ。トラック泊地が壊滅するその日まで、前線の艦隊を陰で支えたのよ。<br>よろしくね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 1]
     build_time: 220
   graph:
-    boko_n: [-24, 64]
-    boko_d: [-24, 88]
+    boko_n: [112, 152]
+    boko_d: [-12, 80]
     kaisyu_n: [24, 8]
     kaisyu_d: [8, 32]
-    kaizo_n: [-96, 16]
-    kaizo_d: [-96, 24]
-    map_n: [-48, 64]
-    map_d: [-80, 96]
-    ensyuf_n: [-32, 48]
-    ensyuf_d: [-48, 64]
-    ensyue_n: [-80, 0]
-    battle_n: [-16, 48]
-    battle_d: [-48, 64]
-    wed_a: [224, 72]
-    wed_b: [128, 128]
+    kaizo_n: [68, 92]
+    kaizo_d: [-108, 20]
+    map_n: [76, 124]
+    map_d: [-76, 80]
+    ensyuf_n: [80, 132]
+    ensyuf_d: [-52, 80]
+    ensyue_n: [64, 0]
+    battle_n: [100, 148]
+    battle_d: [-64, 92]
+    wed_a: [156, -12]
+    wed_b: [92, 112]
   wiki_id: "182"
   chinese_name: 明石
 ---

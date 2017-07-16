@@ -38,8 +38,8 @@ data:
     pow_up: 
     build_time: 
   graph:
-    boko_n: [160, 128]
-    boko_d: [64, 188]
+    boko_n: [192, 128]
+    boko_d: [120, 188]
     kaisyu_n: [21, 9]
     kaisyu_d: [28, 7]
     kaizo_n: [144, 64]

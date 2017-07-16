@@ -14,7 +14,7 @@ data:
   get_mes: はーいっ！衣笠さんの登場よ！<br>青葉ともども、よろしくね！
   voice_f: 3
   filename: tyumrhcigliq
-  file_version: ["3", "4", "606"]
+  file_version: ["3", "4", "714"]
   book_table_id: [123]
   book_sinfo: カタパルトをお初装備の衣笠さんよ、よろしくね。ウェーク島攻略や珊瑚海海戦、そして、ソロモン海のアイアンボトムサウンドでも大活躍！でも…飛行機っての？あれはちょっと嫌ね。
   stats:
