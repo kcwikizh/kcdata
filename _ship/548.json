@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 548
+  sort_no: 348
+  name: 文月改二
+  yomi: ふみづき
+  stype: 2
+  ctype: 28
+  cnum: 7
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: ewtmrxzqvupm
+  file_version: ["51", "2", "714"]
+  book_table_id: [548]
+  book_sinfo: 睦月型駆逐艦７番艦の文月だよ。<br>数々の海戦に参加したんだ。<br>船団護衛中に大型船と衝突して大破…したこともあったっけ。<br>あれはやばかったなー。
+  stats:
+    taik: [27, 44]
+    souk: [12, 46]
+    houg: [7, 44]
+    raig: [27, 77]
+    tyku: [37, 82]
+    luck: [17, 77]
+    soku: 10
+    leng: 1
+    kaih: 56
+    tais: 30
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 2, 7, 0]
+    pow_up: [1, 2, 2, 0]
+    build_time: 18
+  graph:
+    boko_n: [84, 160]
+    boko_d: [132, 160]
+    kaisyu_n: [14, -16]
+    kaisyu_d: [44, -6]
+    kaizo_n: [32, 88]
+    kaizo_d: [84, 64]
+    map_n: [56, 136]
+    map_d: [120, 136]
+    ensyuf_n: [40, 136]
+    ensyuf_d: [108, 136]
+    ensyue_n: [40, 0]
+    battle_n: [56, 144]
+    battle_d: [108, 144]
+    wed_a: [180, -12]
+    wed_b: [100, 124]
+  wiki_id: "348"
+  chinese_name: 文月改二
+---

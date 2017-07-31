@@ -9,8 +9,8 @@ data:
   ctype: 
   cnum: 
   backs: 4
-  after_lv: 
-  after_ship_id: 
+  after_lv: 77
+  after_ship_id: 548
   get_mes: <br>
   voice_f: 1
   filename: ysgtnamukxoi
@@ -30,8 +30,8 @@ data:
     tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 320
+    after_bull: 280
     fuel_max: 15
     bull_max: 15
     broken: [1, 1, 4, 0]

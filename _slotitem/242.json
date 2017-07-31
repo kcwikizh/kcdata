@@ -1,0 +1,36 @@
+---
+layout: json
+order: 242
+data:
+  id: 242
+  sort_no: 242
+  name: Swordfish
+  type: [3, 5, 8, 8, 28]
+  rare: 2
+  broken: [1, 1, 0, 1]
+  info: 複葉非全金属製の旧世代機でありながら、高い信頼性と運用性を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。<br>航空母艦「Ark Royal」搭載の本機は、戦艦「Bismarck」と英艦隊との激闘に大きな一撃を放ちます。旧式ながら赫々たる戦果をおさめた傑作機、遂に実装です！
+  usebull: 0
+  cost: 3
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 3
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 4
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

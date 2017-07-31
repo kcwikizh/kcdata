@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: jozbiyweyksl
-  file_version: ["14", "12", "1"]
+  file_version: ["15", "12", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [0, 120]
-    boko_d: [120, 120]
+    boko_n: [116, 128]
+    boko_d: [116, 124]
     kaisyu_n: [8, -16]
     kaisyu_d: [64, 32]
-    kaizo_n: [-48, 64]
-    kaizo_d: [64, 32]
-    map_n: [-32, 112]
-    map_d: [112, 96]
-    ensyuf_n: [-32, 104]
-    ensyuf_d: [112, 80]
-    ensyue_n: [-48, 0]
-    battle_n: [0, 112]
-    battle_d: [128, 104]
-    wed_a: [256, 36]
-    wed_b: [128, 128]
+    kaizo_n: [68, 68]
+    kaizo_d: [60, 40]
+    map_n: [72, 108]
+    map_d: [72, 104]
+    ensyuf_n: [72, 128]
+    ensyuf_d: [72, 124]
+    ensyue_n: [64, 0]
+    battle_n: [96, 136]
+    battle_d: [96, 132]
+    wed_a: [152, 16]
+    wed_b: [96, 112]
   wiki_id: "225a"
   chinese_name: 朝霜改
 ---
