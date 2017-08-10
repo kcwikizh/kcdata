@@ -1,0 +1,36 @@
+---
+layout: json
+order: 577
+data:
+  id: 577
+  sort_no: 0
+  name: 深海15inch四連装砲
+  type: [1, 1, 3, 3, 0]
+  rare: 5
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 2
+    houg: 24
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 4
+    tais: 0
+    atap: 0
+    houm: 8
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  improvement: 
+  chinese_name: 
+---

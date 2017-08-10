@@ -1,0 +1,36 @@
+---
+layout: json
+order: 247
+data:
+  id: 247
+  sort_no: 247
+  name: 15.2cm三連装砲
+  type: [1, 2, 4, 4, 0]
+  rare: 3
+  broken: [0, 2, 5, 0]
+  info: トリコロールの国で開発された副砲です。<br>軽巡クラスに搭載する主砲としても運用されました。ぜひ「Richelieu」級戦艦に搭載して、主砲＋主砲+副砲運用を！
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 6
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 0
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  improvement: 
+  chinese_name: 
+---

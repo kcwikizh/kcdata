@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 475
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
+  sort_no: 275
+  name: 旗風
+  yomi: はたかぜ
+  stype: 2
+  ctype: 66
+  cnum: 5
+  backs: 4
+  after_lv: 50
+  after_ship_id: 387
+  get_mes: 司令、神風型駆逐艦、旗風、参りました。<br>お供させて頂きます。よろしくお願い致します。
+  voice_f: 1
   filename: sbvnvwfihmrd
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [475]
+  book_sinfo: 神風型駆逐艦五番艦、旗風と申します。<br>春風姉さん達と一緒に第五駆逐隊を編成し、お勤めさせていただきました。主力艦の護衛や、船団護衛に努めました。戦いの後半の護送船団航路は……。護衛艦艇も多く喪われていきました。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [12, 23]
+    souk: [5, 17]
+    houg: [5, 29]
+    raig: [12, 36]
+    tyku: [5, 24]
+    luck: [17, 73]
+    soku: 10
+    leng: 1
+    kaih: 37
+    tais: 17
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 80
+    after_bull: 130
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 3, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 18
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [136, 140]
+    boko_d: [72, 172]
+    kaisyu_n: [40, -7]
+    kaisyu_d: [6, -12]
+    kaizo_n: [128, 72]
+    kaizo_d: [24, 84]
+    map_n: [144, 112]
+    map_d: [24, 136]
+    ensyuf_n: [144, 116]
+    ensyuf_d: [0, 128]
+    ensyue_n: [120, 0]
+    battle_n: [148, 124]
+    battle_d: [16, 144]
+    wed_a: [84, 16]
+    wed_b: [84, 120]
+  wiki_id: "275"
+  chinese_name: 旗风
 ---

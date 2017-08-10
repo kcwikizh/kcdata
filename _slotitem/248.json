@@ -1,0 +1,36 @@
+---
+layout: json
+order: 248
+data:
+  id: 248
+  sort_no: 248
+  name: Skua
+  type: [3, 5, 7, 7, 14]
+  rare: 2
+  broken: [1, 2, 0, 1]
+  info: 紅茶の国で生まれた運動性の高い艦上爆撃機です。<br>非力ではありますが、高性能な艦上戦闘機を装備しない初期の同海軍の海上航空戦力として、よく空を支えました。名機「Spitfire」の艦戦型などにその任を引き継いでいきます。
+  usebull: 0
+  cost: 4
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 4
+    tyku: 2
+    tais: 2
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: 
+---

@@ -14,7 +14,7 @@ data:
   get_mes: 
   voice_f: 
   filename: ldsiznnfxhsi
-  file_version: ["1", "1", "1"]
+  file_version: ["2", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -49,8 +49,8 @@ data:
     ensyuf_n: [0, 0]
     ensyuf_d: [0, 0]
     ensyue_n: [0, 0]
-    battle_n: [40, 80]
-    battle_d: [40, 80]
+    battle_n: [-60, -28]
+    battle_d: [-60, -28]
     wed_a: [0, 0]
     wed_b: [0, 0]
   wiki_id: 

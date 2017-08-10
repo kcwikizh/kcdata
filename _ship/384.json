@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 384
+  sort_no: 1464
+  name: 松輪改
+  yomi: まつわ
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: cggjgvkbrdby
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [9, 18]
+    souk: [4, 16]
+    houg: [4, 18]
+    raig: [0, 0]
+    tyku: [7, 27]
+    luck: [37, 78]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 0, 0]
+    build_time: 14
+  graph:
+    boko_n: [166, 72]
+    boko_d: [128, 68]
+    kaisyu_n: [32, -12]
+    kaisyu_d: [26, -12]
+    kaizo_n: [108, -20]
+    kaizo_d: [32, -40]
+    map_n: [128, 36]
+    map_d: [20, 40]
+    ensyuf_n: [124, 40]
+    ensyuf_d: [32, 40]
+    ensyue_n: [120, 0]
+    battle_n: [132, 52]
+    battle_d: [40, 44]
+    wed_a: [96, 100]
+    wed_b: [80, 112]
+  wiki_id: "335a"
+  chinese_name: 松轮改
+---

@@ -1,0 +1,36 @@
+---
+layout: json
+order: 250
+data:
+  id: 250
+  sort_no: 250
+  name: Spitfire Mk.I
+  type: [22, 39, 48, 44, 29]
+  rare: 3
+  broken: [1, 2, 0, 4]
+  info: 紅茶の国を代表する主力戦闘機、「Spitfire」。<br>その初期型です。<br>バトル・オブ・ブリテンでは見事な本土防空戦を戦い、その空を守り抜きました。そして、様々な性能向上型が生まれていきます。
+  usebull: 0
+  cost: 5
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 7
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: 
+---

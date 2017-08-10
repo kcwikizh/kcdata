@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 480
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
+  sort_no: 280
+  name: 狭霧
+  yomi: さぎり
+  stype: 2
+  ctype: 1
+  cnum: 6
+  backs: 4
+  after_lv: 30
+  after_ship_id: 391
+  get_mes: 提督、あの、私……<br>綾波型駆逐艦……狭霧といいます。<br>お手伝いできるよう、頑張ります。
+  voice_f: 0
   filename: tbgbgvlvagls
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [480]
+  book_sinfo: 綾波型駆逐艦、六番艦の狭霧です。そうですね、吹雪型一番艦から数えて十六隻目の特型駆逐艦です。天霧たちと第二十駆逐隊を編成し、三水戦の一翼を担いました。あまり多くの戦いを経験してはいませんが、お味方のために尽くしたいと思います。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [15, 29]
+    souk: [5, 19]
+    houg: [10, 29]
+    raig: [27, 69]
+    tyku: [12, 39]
+    luck: [6, 46]
+    soku: 10
+    leng: 1
+    kaih: 40
+    tais: 20
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 130
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 20
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [148, 76]
+    boko_d: [120, 76]
+    kaisyu_n: [12, -8]
+    kaisyu_d: [36, -14]
+    kaizo_n: [76, 8]
+    kaizo_d: [48, -36]
+    map_n: [88, 48]
+    map_d: [64, 40]
+    ensyuf_n: [80, 52]
+    ensyuf_d: [64, 44]
+    ensyue_n: [88, 0]
+    battle_n: [112, 64]
+    battle_d: [92, 56]
+    wed_a: [136, 80]
+    wed_b: [72, 116]
+  wiki_id: "280"
+  chinese_name: 狭雾
 ---

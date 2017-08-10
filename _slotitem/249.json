@@ -1,0 +1,36 @@
+---
+layout: json
+order: 249
+data:
+  id: 249
+  sort_no: 249
+  name: Fulmar
+  type: [3, 5, 6, 6, 14]
+  rare: 2
+  broken: [1, 1, 0, 1]
+  info: ※
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: 
+---

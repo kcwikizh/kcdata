@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 393
+  sort_no: 1473
+  name: Ark Royal改
+  yomi: アークロイヤル
+  stype: 11
+  ctype: 
+  cnum: 
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: ncarbwthwrrx
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [78, 92]
+    souk: [42, 80]
+    houg: [0, 50]
+    raig: [0, 0]
+    tyku: [44, 80]
+    luck: [7, 47]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [30, 13, 10, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 70
+    bull_max: 80
+    broken: [10, 17, 36, 8]
+    pow_up: [2, 0, 4, 4]
+    build_time: 270
+  graph:
+    boko_n: [96, 120]
+    boko_d: [40, 148]
+    kaisyu_n: [42, 16]
+    kaisyu_d: [42, -6]
+    kaizo_n: [80, 68]
+    kaizo_d: [32, 72]
+    map_n: [108, 112]
+    map_d: [44, 128]
+    ensyuf_n: [96, 120]
+    ensyuf_d: [36, 136]
+    ensyue_n: [84, 0]
+    battle_n: [116, 116]
+    battle_d: [56, 136]
+    wed_a: [128, 0]
+    wed_b: [80, 116]
+  wiki_id: "315a"
+  chinese_name: 皇家方舟改
+---

@@ -1,0 +1,36 @@
+---
+layout: json
+order: 578
+data:
+  id: 578
+  sort_no: 0
+  name: 深海15inch連装砲後期型
+  type: [1, 1, 3, 16, 0]
+  rare: 5
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 19
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 8
+    tais: 0
+    atap: 0
+    houm: 10
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  improvement: 
+  chinese_name: 
+---

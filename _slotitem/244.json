@@ -1,0 +1,36 @@
+---
+layout: json
+order: 244
+data:
+  id: 244
+  sort_no: 244
+  name: Swordfish Mk.III(熟練)
+  type: [3, 5, 8, 8, 28]
+  rare: 4
+  broken: [1, 3, 0, 2]
+  info: 複葉非全金属製の旧世代低速機でありながら、高い信頼性と運用性、優れた運動性を誇る、メカジキの名を持つ紅茶の国の傑作機。<br>戦艦「Bismarck」と英艦隊との激闘で大殊勲となる一撃を放つなど、旧式ながら赫々たる戦果をおさめた名機、その哨戒や対潜性能を高めた後期改良型を駆る精鋭飛行隊です。
+  usebull: 0
+  cost: 4
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 4
+    raig: 8
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 10
+    atap: 0
+    houm: 4
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 5
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: 
+---

@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 530
+  sort_no: 330
+  name: 伊504
+  yomi: ルイージ・トレッリ
+  stype: 13
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: eqlthgcwdqqe
+  file_version: ["51", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [8, 16]
+    souk: [4, 16]
+    houg: [2, 8]
+    raig: [22, 58]
+    tyku: [0, 0]
+    luck: [30, 63]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 20
+    broken: [1, 2, 2, 1]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [0, 0]
+    boko_d: [0, 0]
+    kaisyu_n: [0, 0]
+    kaisyu_d: [0, 0]
+    kaizo_n: [0, 0]
+    kaizo_d: [0, 0]
+    map_n: [0, 0]
+    map_d: [0, 0]
+    ensyuf_n: [0, 0]
+    ensyuf_d: [0, 0]
+    ensyue_n: [0, 0]
+    battle_n: [0, 0]
+    battle_d: [0, 0]
+    wed_a: [0, 0]
+    wed_b: [0, 0]
+  wiki_id: "330"
+  chinese_name: 伊504
+---

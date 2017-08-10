@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 77
+  usetype: 0
+  category: 0
+  name: 新型航空兵装資材
+  description:
+    - "新型航空機材を開発、戦力化するために必要な技術図面です。※任務や装備改修等で使用することで、今後新型機の開発が可能になります。"
+    - ""
+  price: 0
+  chinese_name: 
+  chinese_description: 
+---

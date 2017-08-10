@@ -1,0 +1,36 @@
+---
+layout: json
+order: 246
+data:
+  id: 246
+  sort_no: 246
+  name: 38cm四連装砲改
+  type: [1, 1, 3, 3, 0]
+  rare: 5
+  broken: [0, 21, 24, 4]
+  info: トリコロールの国で開発された戦艦主砲です。<br>大口径38cm砲四門から構成される迫力の四連装砲で、「Richelieu」級戦艦に装備されました。同砲を熟成、改修した改良大口径主砲装備です。同クラスとしては圧倒的な火力を実現します。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 22
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 0
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  improvement: 
+  chinese_name: 
+---
