@@ -6,8 +6,8 @@ data:
   name: 松輪
   yomi: まつわ
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 77
+  cnum: 2
   backs: 4
   after_lv: 37
   after_ship_id: 384
@@ -15,19 +15,19 @@ data:
   voice_f: 1
   filename: hakcdulvmfej
   file_version: ["51", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [525]
+  book_sinfo: 海防艦、松輪です…。占守型海防艦の改良型として建造され、佐世保鎮守府の部隊に配属されました……。船団護衛や、対潜掃蕩部隊として働きます。船団の被害を減らすため……敵潜水艦と戦いました……。<br>でも……。潜水艦は……怖い……。
   stats:
     taik: [9, 18]
     souk: [4, 16]
-    houg: [4, 18]
+    houg: [4, 19]
     raig: [0, 0]
-    tyku: [7, 27]
-    luck: [37, 78]
+    tyku: [7, 28]
+    luck: [7, 49]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 39
+    tais: 35
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 55

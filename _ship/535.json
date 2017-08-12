@@ -6,53 +6,53 @@ data:
   name: Luigi Torelli
   yomi: ルイージ・トレッリ
   stype: 13
-  ctype: 
-  cnum: 
+  ctype: 80
+  cnum: 4
   backs: 4
-  after_lv: 
-  after_ship_id: 
-  get_mes: ※
+  after_lv: 30
+  after_ship_id: 605
+  get_mes: Ciao!<br>あたしは、そう、Luigi Torelli よ。<br>そね。トレッリ……。んー、ルイでいいや。
   voice_f: 1
   filename: umofiwwigpjx
   file_version: ["51", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [535]
+  book_sinfo: Regia Marinaから来たよ。パスタの国で生まれた潜水艦、Luigi Torelli。通商破壊戦で、けっこー頑張った。でも、そんだけじゃない、いろーんな事経験したんだ。潜水艦派遣作戦にも参加してー、さらに色々あってー、所属も何度も変わったよ。んー結構色々あった感じ? あたしの物語も覚えておいてね。
   stats:
-    taik: [8, 16]
-    souk: [4, 16]
-    houg: [2, 8]
-    raig: [22, 58]
-    tyku: [0, 0]
-    luck: [30, 63]
+    taik: [11, 21]
+    souk: [5, 17]
+    houg: [2, 10]
+    raig: [18, 62]
+    tyku: [0, 18]
+    luck: [25, 62]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 17
+    tais: 0
     slot_num: 1
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 190
+    after_bull: 60
     fuel_max: 10
     bull_max: 20
     broken: [1, 2, 2, 1]
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
+    boko_n: [156, 164]
+    boko_d: [64, 214]
+    kaisyu_n: [32, -11]
+    kaisyu_d: [0, 12]
+    kaizo_n: [116, 80]
+    kaizo_d: [16, 92]
+    map_n: [124, 128]
+    map_d: [40, 164]
+    ensyuf_n: [112, 128]
+    ensyuf_d: [-24, 136]
+    ensyue_n: [112, 0]
+    battle_n: [148, 132]
+    battle_d: [32, 180]
+    wed_a: [96, -4]
+    wed_b: [100, 120]
   wiki_id: "325"
-  chinese_name: 
+  chinese_name: 路易吉·托雷利
 ---

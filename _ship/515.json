@@ -9,34 +9,34 @@ data:
   ctype: 
   cnum: 
   backs: 7
-  after_lv: 50
+  after_lv: 45
   after_ship_id: 393
-  get_mes: ※
+  get_mes: 私は、Her Majesty’s Ship Ark Royal。<br>Admiral…貴方が……。……よろしく。
   voice_f: 1
   filename: ohxbfeywubre
   file_version: ["51", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [70, 89]
-    souk: [29, 57]
-    houg: [0, 40]
+    taik: [55, 82]
+    souk: [26, 47]
+    houg: [0, 27]
     raig: [0, 0]
-    tyku: [40, 70]
-    luck: [4, 39]
+    tyku: [30, 72]
+    luck: [8, 58]
     soku: 10
-    leng: 2
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 3
-    max_eq: [20, 13, 10, 0, 0]
-    after_fuel: 1300
-    after_bull: 900
+    slot_num: 4
+    max_eq: [18, 30, 12, 12, 0]
+    after_fuel: 1800
+    after_bull: 1300
     fuel_max: 55
-    bull_max: 65
-    broken: [8, 15, 32, 7]
-    pow_up: [2, 0, 3, 4]
-    build_time: 270
+    bull_max: 50
+    broken: [8, 10, 28, 7]
+    pow_up: [0, 0, 4, 4]
+    build_time: 250
   graph:
     boko_n: [96, 120]
     boko_d: [40, 148]

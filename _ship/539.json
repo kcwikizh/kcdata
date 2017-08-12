@@ -9,50 +9,50 @@ data:
   ctype: 
   cnum: 
   backs: 6
-  after_lv: 35
+  after_lv: 55
   after_ship_id: 530
   get_mes: <br>
-  voice_f: 1
+  voice_f: 3
   filename: jisyljtqgqcj
   file_version: ["51", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [8, 16]
-    souk: [4, 16]
-    houg: [2, 8]
-    raig: [22, 58]
-    tyku: [0, 0]
-    luck: [30, 63]
+    taik: [13, 23]
+    souk: [5, 19]
+    houg: [2, 12]
+    raig: [0, 36]
+    tyku: [0, 25]
+    luck: [35, 77]
     soku: 5
     leng: 1
     kaih: 
     tais: 
-    slot_num: 1
+    slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 170
-    after_bull: 270
+    after_fuel: 180
+    after_bull: 320
     fuel_max: 10
     bull_max: 20
     broken: [1, 2, 2, 1]
-    pow_up: [0, 2, 0, 0]
+    pow_up: [0, 2, 1, 0]
     build_time: 22
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
+    boko_n: [128, 164]
+    boko_d: [64, 214]
+    kaisyu_n: [28, -6]
+    kaisyu_d: [0, 12]
+    kaizo_n: [88, 80]
+    kaizo_d: [16, 92]
+    map_n: [96, 128]
+    map_d: [40, 164]
+    ensyuf_n: [84, 128]
+    ensyuf_d: [-24, 136]
+    ensyue_n: [84, 0]
+    battle_n: [120, 132]
+    battle_d: [32, 180]
+    wed_a: [116, -4]
+    wed_b: [108, 120]
   wiki_id: "329"
-  chinese_name: 
+  chinese_name: UIT-25
 ---

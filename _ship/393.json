@@ -18,25 +18,25 @@ data:
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [78, 92]
-    souk: [42, 80]
+    taik: [71, 90]
+    souk: [28, 70]
     houg: [0, 50]
     raig: [0, 0]
-    tyku: [44, 80]
-    luck: [7, 47]
+    tyku: [36, 82]
+    luck: [13, 68]
     soku: 10
-    leng: 2
+    leng: 1
     kaih: 
     tais: 
     slot_num: 4
-    max_eq: [30, 13, 10, 3, 0]
+    max_eq: [24, 30, 12, 12, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 70
-    bull_max: 80
-    broken: [10, 17, 36, 8]
-    pow_up: [2, 0, 4, 4]
-    build_time: 270
+    fuel_max: 65
+    bull_max: 60
+    broken: [10, 14, 32, 10]
+    pow_up: [0, 0, 4, 4]
+    build_time: 250
   graph:
     boko_n: [96, 120]
     boko_d: [40, 148]

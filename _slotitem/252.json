@@ -4,27 +4,27 @@ order: 252
 data:
   id: 252
   sort_no: 252
-  name: Seafire LF.Mk.III
+  name: Seafire Mk.III改
   type: [3, 5, 6, 6, 29]
   rare: 4
-  broken: [1, 1, 0, 1]
-  info: ※
+  broken: [1, 2, 0, 6]
+  info: 紅茶の国を代表する主力戦闘機、「Spitfire」。<br>バトル・オブ・ブリテンでは見事な本土防空戦を戦い、その空を守り抜いた名機の艦上戦闘機型です。戦いの後半に量産され、英航空母艦に搭載された海のSpitfire「Seafire」。本機はその熟成改良型として実装です。
   usebull: 0
-  cost: 
-  distance: 
+  cost: 6
+  distance: 4
   stats:
     taik: 0
-    souk: 0
-    houg: 0
+    souk: 1
+    houg: 1
     raig: 0
     soku: 0
     baku: 0
-    tyku: 0
+    tyku: 9
     tais: 0
     atap: 0
-    houm: 0
+    houm: 1
     raim: 0
-    houk: 0
+    houk: 2
     raik: 0
     bakk: 0
     saku: 0

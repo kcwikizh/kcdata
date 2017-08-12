@@ -1,41 +1,41 @@
 ---
 layout: json
 data:
-  id: 530
-  sort_no: 330
-  name: 伊504
+  id: 605
+  sort_no: 1505
+  name: Luigi Torelli改
   yomi: ルイージ・トレッリ
   stype: 13
   ctype: 
   cnum: 
-  backs: 7
-  after_lv: 
-  after_ship_id: 
+  backs: 5
+  after_lv: 40
+  after_ship_id: 539
   get_mes: <br>
   voice_f: 3
-  filename: eqlthgcwdqqe
+  filename: drbcfdxjgwgx
   file_version: ["51", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [14, 24]
-    souk: [5, 21]
-    houg: [3, 15]
-    raig: [30, 68]
-    tyku: [0, 28]
-    luck: [40, 85]
+    taik: [13, 23]
+    souk: [5, 18]
+    houg: [0, 8]
+    raig: [0, 32]
+    tyku: [0, 22]
+    luck: [30, 72]
     soku: 5
     leng: 1
     kaih: 
     tais: 
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 160
+    after_bull: 300
     fuel_max: 10
-    bull_max: 20
+    bull_max: 15
     broken: [1, 2, 2, 1]
-    pow_up: [0, 2, 1, 0]
+    pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
     boko_n: [156, 164]
@@ -53,6 +53,6 @@ data:
     battle_d: [32, 180]
     wed_a: [96, -4]
     wed_b: [100, 120]
-  wiki_id: "330"
-  chinese_name: 伊504
+  wiki_id: "325a"
+  chinese_name: 路易吉·托雷利改
 ---
