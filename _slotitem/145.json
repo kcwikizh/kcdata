@@ -32,5 +32,70 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [10, 0, 0, 5]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [0, 0]
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 1]
+        slotitem:
+          -
+            id: 145
+            amount: 1
+          - 
+      upgrade:
+        id: 241
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [1, 3]
+            -
+              id: 4
+              amount: [0, 1]
+          slotitem:
+            id: 145
+            amount: 1
+      day:
+        -
+          -
+            ship_id: 135
+          -
+            ship_id: 137
+        -
+          -
+            ship_id: 135
+        -
+          -
+            ship_id: 135
+        -
+          -
+            ship_id: 135
+        -
+          -
+            ship_id: 135
+        -
+          -
+            ship_id: 135
+          -
+            ship_id: 137
+        -
+          -
+            ship_id: 135
+          -
+            ship_id: 137
   chinese_name: 战斗粮食
 ---
