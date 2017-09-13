@@ -14,7 +14,7 @@ data:
   get_mes: 長良型軽巡四番艦の「由良」です。<br>どうぞ、よろしくお願いいたしますっ！
   voice_f: 0
   filename: shjlydqjdfcl
-  file_version: ["21", "20", "714"]
+  file_version: ["22", "20", "910"]
   book_table_id: [23, 842]
   book_sinfo: 長良型軽巡４番艦の由良です。<br>私たちの中では、初めて水上偵察機を搭載したの。<br>水雷戦隊や潜水戦隊の旗艦として、活躍したのよ？<br>ドーントレスとかＢ17とかそういうのはちょっと苦手。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 60
   graph:
-    boko_n: [123, 90]
-    boko_d: [115, 105]
+    boko_n: [136, 146]
+    boko_d: [136, 146]
     kaisyu_n: [10, 23]
     kaisyu_d: [28, 19]
-    kaizo_n: [68, 35]
-    kaizo_d: [70, 1]
-    map_n: [78, 92]
-    map_d: [19, 95]
-    ensyuf_n: [101, 86]
-    ensyuf_d: [49, 53]
-    ensyue_n: [101, 0]
-    battle_n: [61, 77]
-    battle_d: [61, 77]
-    wed_a: [134, 35]
-    wed_b: [114, 137]
+    kaizo_n: [104, 80]
+    kaizo_d: [104, 80]
+    map_n: [92, 120]
+    map_d: [92, 120]
+    ensyuf_n: [84, 120]
+    ensyuf_d: [84, 120]
+    ensyue_n: [88, 0]
+    battle_n: [108, 132]
+    battle_d: [108, 132]
+    wed_a: [128, 4]
+    wed_b: [88, 112]
   wiki_id: "045"
   chinese_name: 由良
 ---

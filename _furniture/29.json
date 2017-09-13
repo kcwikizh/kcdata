@@ -8,7 +8,7 @@ data:
   description: 最高級の木材を用いて職人<br>が丁寧に組み上げた、秋の<br>季節にぴったりの季節床。<br>家具コイン長者向けですが<br>ダイナミック職人支援可！
   rarity: 4
   price: 117000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

@@ -48,7 +48,7 @@ data:
     map_d: [-8, 96]
     ensyuf_n: [0, 104]
     ensyuf_d: [-8, 104]
-    ensyue_n: [100, 0]
+    ensyue_n: [12, 0]
     battle_n: [16, 116]
     battle_d: [0, 116]
     wed_a: [215, 32]

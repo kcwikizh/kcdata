@@ -9,12 +9,12 @@ data:
   ctype: 69
   cnum: 2
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv: 85
+  after_ship_id: 545
   get_mes: <br>
   voice_f: 3
   filename: wmebertagnxm
-  file_version: ["2", "1", "714"]
+  file_version: ["2", "1", "911"]
   book_table_id: [438]
   book_sinfo: Hello！ アメリカ生まれの大型正規空母Saratogaです。<br>歴史深い由緒ある名前を頂いています。あの大きな戦いでは、最初から最後まで頑張ったんです。戦いの終わったあと、Nagatoさんたちと一緒にある実験に参加しました。<br>これからSaraも皆さんと同じ艦隊で、頑張らせてくださいね！
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 0
     slot_num: 4
     max_eq: [36, 18, 18, 18, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 5500
+    after_bull: 2500
     fuel_max: 85
     bull_max: 90
     broken: [12, 18, 50, 18]

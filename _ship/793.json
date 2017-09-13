@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 793
+  sort_no: 0
+  name: 夏2017三隅
+  yomi: みくま
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: ilrrbwvsmbcb
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [184, 152]
+    boko_d: [184, 152]
+    kaisyu_n: [18, 7]
+    kaisyu_d: [28, 7]
+    kaizo_n: [112, 96]
+    kaizo_d: [100, 72]
+    map_n: [112, 128]
+    map_d: [112, 128]
+    ensyuf_n: [116, 136]
+    ensyuf_d: [116, 136]
+    ensyue_n: [108, 0]
+    battle_n: [152, 146]
+    battle_d: [152, 146]
+    wed_a: [116, -4]
+    wed_b: [80, 92]
+  wiki_id:
+  chinese_name:
+---

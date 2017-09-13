@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 799
+  sort_no: 0
+  name: 瑞雲大淀改
+  yomi: おおよど
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: fxflgeuyuhbu
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [24, 132]
+    boko_d: [76, 144]
+    kaisyu_n: [32, 4]
+    kaisyu_d: [40, 8]
+    kaizo_n: [-16, 76]
+    kaizo_d: [20, 72]
+    map_n: [0, 112]
+    map_d: [40, 128]
+    ensyuf_n: [-16, 116]
+    ensyuf_d: [36, 132]
+    ensyue_n: [-16, 0]
+    battle_n: [24, 124]
+    battle_d: [64, 144]
+    wed_a: [236, 4]
+    wed_b: [80, 108]
+  wiki_id:
+  chinese_name:
+---

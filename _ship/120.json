@@ -14,8 +14,8 @@ data:
   get_mes: ごきげんよう、三隈です。<br>最上さんはどこにいらっしゃるのかしら？
   voice_f: 3
   filename: oqqerytyeisg
-  file_version: ["6", "3", "714"]
-  book_table_id: [120, 882]
+  file_version: ["7", "3", "910"]
+  book_table_id: [120, 882, 793]
   book_sinfo: 最上型１番艦のモガミンとは、とっても仲がいいのだけれど、仲が良すぎて彼女とは衝突することも多いの…ええ、そう…物理的に…私はちゃんと前見てるのよ？
   stats:
     taik: [40, 59]
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 90
   graph:
-    boko_n: [184, 152]
-    boko_d: [184, 152]
+    boko_n: [16, -16]
+    boko_d: [16, -4]
     kaisyu_n: [18, 7]
     kaisyu_d: [28, 7]
-    kaizo_n: [112, 96]
-    kaizo_d: [100, 72]
-    map_n: [112, 128]
-    map_d: [112, 128]
-    ensyuf_n: [116, 136]
-    ensyuf_d: [116, 136]
-    ensyue_n: [108, 0]
-    battle_n: [152, 146]
-    battle_d: [152, 146]
-    wed_a: [116, -4]
-    wed_b: [80, 92]
+    kaizo_n: [16, -68]
+    kaizo_d: [16, -95]
+    map_n: [30, -11]
+    map_d: [0, -16]
+    ensyuf_n: [20, -14]
+    ensyuf_d: [20, -59]
+    ensyue_n: [20, 0]
+    battle_n: [32, -26]
+    battle_d: [32, -26]
+    wed_a: [258, 139]
+    wed_b: [83, 106]
   wiki_id: "116"
   chinese_name: 三隈
 ---

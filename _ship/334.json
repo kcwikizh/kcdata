@@ -13,8 +13,8 @@ data:
   after_ship_id: 436
   get_mes: <br>
   voice_f: 1
-  filename: dfrmfmjvschb
-  file_version: ["6", "5", "1"]
+  filename: dfrmfmjvschh
+  file_version: ["7", "5", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [152, 152]
-    boko_d: [232, 160]
+    boko_n: [100, 100]
+    boko_d: [-32, 208]
     kaisyu_n: [16, -8]
     kaisyu_d: [24, 0]
-    kaizo_n: [104, 88]
-    kaizo_d: [164, 72]
-    map_n: [120, 128]
-    map_d: [184, 136]
-    ensyuf_n: [104, 132]
-    ensyuf_d: [180, 140]
-    ensyue_n: [104, 0]
-    battle_n: [120, 144]
-    battle_d: [200, 152]
-    wed_a: [124, -8]
-    wed_b: [92, 120]
+    kaizo_n: [64, 56]
+    kaizo_d: [-48, 80]
+    map_n: [64, 96]
+    map_d: [-80, 144]
+    ensyuf_n: [80, 80]
+    ensyuf_d: [-48, 144]
+    ensyue_n: [48, 0]
+    battle_n: [80, 96]
+    battle_d: [-40, 160]
+    wed_a: [144, 40]
+    wed_b: [144, 136]
   wiki_id: "231a"
   chinese_name: U-511改
 ---

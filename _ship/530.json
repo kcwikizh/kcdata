@@ -6,17 +6,17 @@ data:
   name: 伊504
   yomi: ルイージ・トレッリ
   stype: 13
-  ctype: 
-  cnum: 
+  ctype: 80
+  cnum: 4
   backs: 7
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: eqlthgcwdqqe
-  file_version: ["51", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "911"]
+  book_table_id: [530]
+  book_sinfo: Regia Marinaから来たよ。パスタの国で生まれた潜水艦、Luigi Torelli……だったんだけど、最終的に今は第五百四潜水艦。最後までけっこー頑張った。いろーんな事経験したんだよー。潜水艦派遣作戦に参加してー、そんでもって所属も何度も変わってねー、ん…頑張ったあたしの物語、覚えておいてね。
   stats:
     taik: [14, 24]
     souk: [5, 21]
@@ -26,8 +26,8 @@ data:
     luck: [40, 85]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 22
+    tais: 0
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 

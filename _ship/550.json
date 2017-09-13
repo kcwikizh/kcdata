@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 550
+  sort_no: 350
+  name: Saratoga Mk.II Mod.2
+  yomi: サラトガ
+  stype: 18
+  ctype: 69
+  cnum: 2
+  backs: 8
+  after_lv: 90
+  after_ship_id: 545
+  get_mes: <br>
+  voice_f: 3
+  filename: ambyahmkpxlz
+  file_version: ["2", "1", "911"]
+  book_table_id: [550]
+  book_sinfo: Hello！ アメリカ生まれの大型正規空母Saratogaです。<br>歴史深い由緒ある名前を頂いています。あの大きな戦いでは、最初から最後まで頑張ったんです。戦いの終わったあと、Nagatoさんたちと一緒にある実験に参加しました。<br>これからSaraも皆さんと同じ艦隊で、頑張らせてくださいね！
+  stats:
+    taik: [89, 99]
+    souk: [50, 88]
+    houg: [0, 58]
+    raig: [0, 0]
+    tyku: [60, 94]
+    luck: [40, 93]
+    soku: 10
+    leng: 2
+    kaih: 26
+    tais: 0
+    slot_num: 4
+    max_eq: [37, 24, 19, 13, 0]
+    after_fuel: 5500
+    after_bull: 2500
+    fuel_max: 100
+    bull_max: 100
+    broken: [14, 19, 53, 20]
+    pow_up: [0, 0, 6, 6]
+    build_time: 330
+  graph:
+    boko_n: [80, 100]
+    boko_d: [156, 140]
+    kaisyu_n: [44, -8]
+    kaisyu_d: [54, 8]
+    kaizo_n: [4, 40]
+    kaizo_d: [84, 72]
+    map_n: [40, 80]
+    map_d: [104, 132]
+    ensyuf_n: [24, 88]
+    ensyuf_d: [104, 128]
+    ensyue_n: [8, 0]
+    battle_n: [44, 104]
+    battle_d: [128, 144]
+    wed_a: [208, 24]
+    wed_b: [92, 124]
+  wiki_id: "350"
+  chinese_name: 萨拉托加 Mk.II Mod.2
+---

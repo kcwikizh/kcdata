@@ -8,7 +8,7 @@ data:
   description: 中秋の名月をデザインした<br>わびさびを感じる秋の逸品<br>です。この敷物を提督室に<br>敷けば、たちまち秋の風を<br>を感じること間違いなし！
   rarity: 3
   price: 1700
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

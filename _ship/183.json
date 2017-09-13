@@ -14,8 +14,8 @@ data:
   get_mes: 提督、軽巡大淀、戦列に加わりました。<br>艦隊指揮、運営はどうぞお任せください。
   voice_f: 1
   filename: uockopeurqdf
-  file_version: ["20", "13", "731"]
-  book_table_id: [183, 321, 911, 912, 948, 960, 961, 994, 883, 884]
+  file_version: ["21", "13", "910"]
+  book_table_id: [183, 321, 911, 912, 948, 960, 961, 994, 883, 884, 799]
   book_sinfo: 艦隊旗艦として特化設計された新鋭軽巡洋艦、大淀です。搭載予定の新型水偵の失敗や戦局の変化もあって、連合艦隊旗艦としてはあまり活躍できなかったの。でも、北号作戦や礼号作戦では活躍したのよ。私も前線で、頑張りますね。
   stats:
     taik: [34, 47]
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 2, 2]
     build_time: 80
   graph:
-    boko_n: [124, 136]
-    boko_d: [68, 152]
+    boko_n: [-40, 108]
+    boko_d: [56, 144]
     kaisyu_n: [12, 16]
     kaisyu_d: [24, 16]
-    kaizo_n: [80, 76]
-    kaizo_d: [16, 84]
-    map_n: [72, 112]
-    map_d: [24, 120]
-    ensyuf_n: [72, 116]
-    ensyuf_d: [16, 124]
-    ensyue_n: [88, 0]
-    battle_n: [96, 124]
-    battle_d: [48, 136]
-    wed_a: [128, 4]
-    wed_b: [100, 116]
+    kaizo_n: [-80, 48]
+    kaizo_d: [-8, 64]
+    map_n: [-48, 104]
+    map_d: [8, 136]
+    ensyuf_n: [-24, 80]
+    ensyuf_d: [64, 128]
+    ensyue_n: [-96, 0]
+    battle_n: [-24, 88]
+    battle_d: [16, 128]
+    wed_a: [288, 40]
+    wed_b: [112, 112]
   wiki_id: "183"
   chinese_name: 大淀
 ---

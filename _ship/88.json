@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 0
   filename: jprpbvbeillv
-  file_version: ["22", "21", "714"]
-  book_table_id: [88]
+  file_version: ["23", "21", "1"]
+  book_table_id: [88, 798]
   book_sinfo: 航空運用能力を付与された航空戦艦、日向だ。<br>レイテでも奮戦したぞ。<br>戦略物資輸送作戦「北号作戦」も思い出深いな。<br>ああ、そうだ、海自のＤＤＨ「ひゅうが」に名は受け継がれている。
   stats:
     taik: [77, 89]
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 3, 4]
     build_time: 270
   graph:
-    boko_n: [48, 108]
-    boko_d: [48, 114]
+    boko_n: [41, 91]
+    boko_d: [33, 92]
     kaisyu_n: [21, 1]
     kaisyu_d: [28, 7]
-    kaizo_n: [-12, 48]
-    kaizo_d: [-24, 32]
-    map_n: [20, 84]
-    map_d: [20, 92]
-    ensyuf_n: [4, 92]
-    ensyuf_d: [8, 100]
-    ensyue_n: [-4, 0]
-    battle_n: [32, 108]
-    battle_d: [32, 116]
-    wed_a: [232, 32]
-    wed_b: [88, 108]
+    kaizo_n: [-29, 26]
+    kaizo_d: [-5, -11]
+    map_n: [-33, 84]
+    map_d: [-48, 82]
+    ensyuf_n: [35, 76]
+    ensyuf_d: [16, 49]
+    ensyue_n: [35, 0]
+    battle_n: [-45, 60]
+    battle_d: [-45, 60]
+    wed_a: [232, 59]
+    wed_b: [96, 107]
   wiki_id: "103"
   chinese_name: 日向改
 ---

@@ -6,17 +6,17 @@ data:
   name: UIT-25
   yomi: ルイージ・トレッリ
   stype: 13
-  ctype: 
-  cnum: 
+  ctype: 80
+  cnum: 4
   backs: 6
   after_lv: 55
   after_ship_id: 530
   get_mes: <br>
   voice_f: 3
   filename: jisyljtqgqcj
-  file_version: ["51", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "911"]
+  book_table_id: [539]
+  book_sinfo: 元々はRegia Marinaの潜水艦、Luigi Torelli……だったんだけど、今は、Uボート、名前はUIT-25。あたし、何気に対空戦経験も凄いんだけど、そんだけじゃない、結構色々経験したんだ。潜水艦派遣作戦にも参加してー、そんでもって所属もさらに変わるという……ん…あたしの物語も覚えておいてね。
   stats:
     taik: [13, 23]
     souk: [5, 19]
@@ -26,8 +26,8 @@ data:
     luck: [35, 77]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 20
+    tais: 0
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 180

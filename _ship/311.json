@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: vksfcnchqurh
-  file_version: ["4", "1", "1"]
+  file_version: ["5", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 24
   graph:
-    boko_n: [124, 156]
-    boko_d: [100, 156]
+    boko_n: [48, 144]
+    boko_d: [64, 128]
     kaisyu_n: [16, 0]
     kaisyu_d: [24, 8]
-    kaizo_n: [92, 88]
-    kaizo_d: [40, 88]
-    map_n: [92, 120]
-    map_d: [52, 132]
-    ensyuf_n: [92, 124]
-    ensyuf_d: [40, 128]
-    ensyue_n: [80, 0]
-    battle_n: [112, 132]
-    battle_d: [64, 144]
-    wed_a: [128, -4]
-    wed_b: [92, 120]
+    kaizo_n: [48, 64]
+    kaizo_d: [72, 32]
+    map_n: [48, 112]
+    map_d: [64, 112]
+    ensyuf_n: [64, 112]
+    ensyuf_d: [64, 48]
+    ensyue_n: [32, 0]
+    battle_n: [48, 112]
+    battle_d: [80, 112]
+    wed_a: [168, 24]
+    wed_b: [112, 112]
   wiki_id: "175a"
   chinese_name: Z3改
 ---

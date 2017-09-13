@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 789
+  sort_no: 0
+  name: 夏Z1
+  yomi: レーベレヒト・マース
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: frbztsjjehkh
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [68, 140]
+    boko_d: [148, 148]
+    kaisyu_n: [16, 0]
+    kaisyu_d: [24, 8]
+    kaizo_n: [8, 92]
+    kaizo_d: [96, 60]
+    map_n: [12, 120]
+    map_d: [100, 120]
+    ensyuf_n: [8, 132]
+    ensyuf_d: [108, 132]
+    ensyue_n: [-4, 0]
+    battle_n: [24, 144]
+    battle_d: [120, 144]
+    wed_a: [240, -12]
+    wed_b: [96, 136]
+  wiki_id:
+  chinese_name:
+---

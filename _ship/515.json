@@ -6,17 +6,17 @@ data:
   name: Ark Royal
   yomi: アークロイヤル
   stype: 11
-  ctype: 
-  cnum: 
+  ctype: 78
+  cnum: 1
   backs: 7
   after_lv: 45
   after_ship_id: 393
   get_mes: 私は、Her Majesty’s Ship Ark Royal。<br>Admiral…貴方が……。……よろしく。
   voice_f: 1
   filename: ohxbfeywubre
-  file_version: ["51", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["52", "1", "911"]
+  book_table_id: [515]
+  book_sinfo: Her Majesty’s Ship Ark Royal。本格的な艦隊型航空母艦として就役し、大西洋や地中海まで数々の作戦に参加した。あの戦艦Bismarck追撃戦では、この必殺のSwordfishを放ったな。U-boatか……あれは危険だ。水面下の敵には気をつける。
   stats:
     taik: [55, 82]
     souk: [26, 47]
@@ -26,8 +26,8 @@ data:
     luck: [8, 58]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 32
+    tais: 0
     slot_num: 4
     max_eq: [18, 30, 12, 12, 0]
     after_fuel: 1800

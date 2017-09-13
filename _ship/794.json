@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 794
+  sort_no: 0
+  name: 夏伊401
+  yomi: い401
+  stype: 14
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: sbdhhrmnnduz
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 5
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 1
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [136, 144]
+    boko_d: [168, 144]
+    kaisyu_n: [24, 8]
+    kaisyu_d: [40, 24]
+    kaizo_n: [96, 80]
+    kaizo_d: [116, 56]
+    map_n: [128, 120]
+    map_d: [158, 120]
+    ensyuf_n: [132, 128]
+    ensyuf_d: [160, 128]
+    ensyue_n: [120, 0]
+    battle_n: [132, 132]
+    battle_d: [160, 132]
+    wed_a: [92, 12]
+    wed_b: [96, 120]
+  wiki_id:
+  chinese_name:
+---

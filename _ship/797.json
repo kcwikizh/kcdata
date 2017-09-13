@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 797
+  sort_no: 0
+  name: 瑞雲伊勢改
+  yomi: いせ
+  stype: 10
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: hdrihrutqthm
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 5
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [20, 124]
+    boko_d: [20, 124]
+    kaisyu_n: [20, 8]
+    kaisyu_d: [28, 7]
+    kaizo_n: [-8, 68]
+    kaizo_d: [-20, 44]
+    map_n: [-4, 100]
+    map_d: [-4, 100]
+    ensyuf_n: [-4, 108]
+    ensyuf_d: [-4, 108]
+    ensyue_n: [-4, 0]
+    battle_n: [16, 116]
+    battle_d: [16, 116]
+    wed_a: [236, 8]
+    wed_b: [80, 112]
+  wiki_id:
+  chinese_name:
+---

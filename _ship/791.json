@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 791
+  sort_no: 0
+  name: 夏Commandant Teste
+  yomi: コマンダン・テスト
+  stype: 16
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: tasrivdhkdvl
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 5
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [20, 124]
+    boko_d: [84, 152]
+    kaisyu_n: [10, -22]
+    kaisyu_d: [40, -12]
+    kaizo_n: [-4, 80]
+    kaizo_d: [60, 68]
+    map_n: [20, 120]
+    map_d: [84, 128]
+    ensyuf_n: [4, 120]
+    ensyuf_d: [80, 108]
+    ensyue_n: [-4, 0]
+    battle_n: [32, 128]
+    battle_d: [88, 136]
+    wed_a: [220, -4]
+    wed_b: [92, 112]
+  wiki_id:
+  chinese_name:
+---

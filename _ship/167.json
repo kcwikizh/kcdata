@@ -14,8 +14,8 @@ data:
   get_mes: 陽炎型駆逐艦十二番艦、磯風。<br>大丈夫、私が護ってあげる。
   voice_f: 1
   filename: bctrxdxrugqp
-  file_version: ["5", "3", "714"]
-  book_table_id: [167, 936, 937]
+  file_version: ["6", "3", "910"]
+  book_table_id: [167, 320, 936, 937]
   book_sinfo: 陽炎型駆逐艦十二番艦、磯風だ。<br>戦歴ならあの雪風にも遅れはとらぬ。数々の海戦、決戦に参加し、戦い抜いたんだ。大和・武蔵・金剛・大鳳…彼女達の最期もこの目に焼き付いている。今度こそ…護り抜くさ。
   stats:
     taik: [16, 34]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [32, 152]
-    boko_d: [-8, 140]
+    boko_n: [144, 164]
+    boko_d: [124, 144]
     kaisyu_n: [8, 12]
     kaisyu_d: [24, 24]
-    kaizo_n: [-8, 80]
-    kaizo_d: [-16, 56]
-    map_n: [0, 136]
-    map_d: [-16, 128]
-    ensyuf_n: [32, 120]
-    ensyuf_d: [16, 112]
-    ensyue_n: [0, 0]
-    battle_n: [32, 136]
-    battle_d: [-8, 128]
-    wed_a: [208, 0]
-    wed_b: [112, 112]
+    kaizo_n: [96, 80]
+    kaizo_d: [64, 64]
+    map_n: [112, 144]
+    map_d: [64, 128]
+    ensyuf_n: [124, 108]
+    ensyuf_d: [76, 132]
+    ensyue_n: [96, 0]
+    battle_n: [128, 144]
+    battle_d: [80, 136]
+    wed_a: [84, 16]
+    wed_b: [112, 120]
   wiki_id: "167"
   chinese_name: 矶风
 ---

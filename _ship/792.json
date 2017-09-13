@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 792
+  sort_no: 0
+  name: 夏最上
+  yomi: もがみ
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: agbscokqnvxc
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 10
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [144, 152]
+    boko_d: [144, 152]
+    kaisyu_n: [18, 7]
+    kaisyu_d: [28, 7]
+    kaizo_n: [96, 104]
+    kaizo_d: [84, 80]
+    map_n: [116, 132]
+    map_d: [116, 132]
+    ensyuf_n: [112, 136]
+    ensyuf_d: [112, 136]
+    ensyue_n: [104, 0]
+    battle_n: [132, 146]
+    battle_d: [132, 146]
+    wed_a: [136, -12]
+    wed_b: [84, 100]
+  wiki_id:
+  chinese_name:
+---
