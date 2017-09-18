@@ -78,6 +78,8 @@ data:
             ship_id: 433
           -
             ship_id: 438
+          -
+            ship_id: 545
         -
           -
             ship_id: 433
@@ -86,7 +88,9 @@ data:
         -
           -
             ship_id: 438
-        - false
+        -
+          -
+            ship_id: 545
         - false
         - false
   chinese_name: 

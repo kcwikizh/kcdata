@@ -32,5 +32,45 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [200, 250, 0, 450]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [8, 9]
+            -
+              id: 4
+              amount: [6, 7]
+          -
+            -
+              id: 3
+              amount: [12, 16]
+            -
+              id: 4
+              amount: [8, 12]
+        slotitem:
+          -
+            id: 55
+            amount: 2
+          -
+            id: 22
+            amount: 1
+      upgrade:
+      day:
+        - false
+        - false
+        -
+          -
+            ship_id: 545
+        -
+          -
+            ship_id: 545
+        -
+          -
+            ship_id: 545
+        - false
+        - false
   chinese_name: F6F-5
 ---

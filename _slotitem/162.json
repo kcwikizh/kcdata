@@ -32,5 +32,47 @@ data:
     luck: 0
     leng: 3
   improvement: 
+    -
+      consume:
+        resource: [10, 180, 190, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 5]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [5, 8]
+            -
+              id: 4
+              amount: [4, 7]
+        slotitem:
+          -
+            id: 6
+            amount: 2
+          -
+            id: 90
+            amount: 1
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 496
+        -
+          -
+            ship_id: 496
+        -
+          -
+            ship_id: 496
+        -
+          -
+            ship_id: 496
+        - false
+        - false
+        - false
   chinese_name: 203mm/53 连装炮
 ---

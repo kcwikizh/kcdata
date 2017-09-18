@@ -66,13 +66,21 @@ data:
         -
           -
             ship_id: 508
+          -
+            ship_id: 509
         -
           -
             ship_id: 508
+          -
+            ship_id: 509
         -
           -
             ship_id: 508
-        - false
+          -
+            ship_id: 509
+        -
+          -
+            ship_id: 509
         - false
   chinese_name: 零式舰战63型(爆战)
 ---

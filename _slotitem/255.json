@@ -1,0 +1,36 @@
+---
+layout: json
+order: 255
+data:
+  id: 255
+  sort_no: 255
+  name: F6F-5N
+  type: [3, 5, 6, 45, 21]
+  rare: 5
+  broken: [2, 4, 0, 6]
+  info: 太平洋上で零戦としのぎを削った艦上戦闘機F4Fシリーズの後継機、大戦後期の空を制圧したF6Fシリーズ。その後期改良型にレーダーを搭載した夜間戦闘機バージョンです。<br>大出力エンジンと優れた火力、防御面も強化し機上レーダーまで装備した本機は、強力な艦上夜間戦闘機として夜の海の空を支配します。
+  usebull: 0
+  cost: 9
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 10
+    tais: 5
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 3
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

@@ -74,13 +74,7 @@ data:
             ship_id: 131
           -
             ship_id: 143
-        -
-          -
-            ship_id: 131
-          -
-            ship_id: 143
-        -
-          -
-            ship_id: 131
+        - false
+        - false
   chinese_name: 21号对空电探改
 ---

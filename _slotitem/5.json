@@ -82,8 +82,12 @@ data:
         -
           -
             ship_id: 70
+          -
+            ship_id: 183
         -
           -
             ship_id: 70
+          -
+            ship_id: 183
   chinese_name: 15.5cm三连装炮
 ---

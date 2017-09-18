@@ -76,13 +76,19 @@ data:
         -
           -
             ship_id: 77
+          -
+            ship_id: 82
         - false
         -
           -
             ship_id: 87
+          -
+            ship_id: 88
         -
           -
             ship_id: 87
+          -
+            ship_id: 88
         -
           -
             ship_id: 77

@@ -74,10 +74,14 @@ data:
           -
             ship_id: 433
         - false
-        - false
+        -
+          -
+            ship_id: 545
         -
           -
             ship_id: 433
+          -
+            ship_id: 545
         -
           -
             ship_id: 433

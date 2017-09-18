@@ -60,12 +60,14 @@ data:
       upgrade:
       day:
         - false
-        - false
+        -
+          -
+            ship_id: 504
         -
           -
             ship_id: 503
           -
-            ship_id: 508
+            ship_id: 504
           -
             ship_id: 139
           -
@@ -74,7 +76,7 @@ data:
           -
             ship_id: 503
           -
-            ship_id: 508
+            ship_id: 504
           -
             ship_id: 139
           -
@@ -82,8 +84,6 @@ data:
         -
           -
             ship_id: 503
-          -
-            ship_id: 508
           -
             ship_id: 139
           -

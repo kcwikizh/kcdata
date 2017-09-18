@@ -1,0 +1,36 @@
+---
+layout: json
+order: 257
+data:
+  id: 257
+  sort_no: 257
+  name: TBM-3D
+  type: [3, 5, 8, 46, 21]
+  rare: 4
+  broken: [3, 7, 0, 12]
+  info: 重い発動機と頑丈なボディを備えた、太平洋の戦い、その後半の大空を駆けた主力雷撃機「TBF」。復讐者の名を持つこの新鋭雷撃機に機上レーダーを搭載し、夜間作戦能力を付与したのが本機「TBM-3D」。夜戦型艦戦を組み合わせた夜戦空母での集中運用もお試しあれ！
+  usebull: 0
+  cost: 11
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 9
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 8
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

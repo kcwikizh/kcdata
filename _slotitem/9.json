@@ -65,9 +65,21 @@ data:
         -
           -
             ship_id: 143
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 131
+          -
+            ship_id: 136
+        -
+          -
+            ship_id: 131
+          -
+            ship_id: 136
+        -
+          -
+            ship_id: 131
+          -
+            ship_id: 136
         -
           -
             ship_id: 131

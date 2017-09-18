@@ -81,30 +81,28 @@ data:
             ship_id: 139
         -
           -
-            ship_id: 137
+            ship_id: 504
           -
             ship_id: 138
           -
             ship_id: 139
         -
           -
+            ship_id: 503
+          -
+            ship_id: 504
+          -
             ship_id: 139
-          -
-            ship_id: 503
-          -
-            ship_id: 508
         -
           -
             ship_id: 503
           -
-            ship_id: 508
+            ship_id: 504
         -
+          -
+            ship_id: 503
           -
             ship_id: 137
-          -
-            ship_id: 503
-          -
-            ship_id: 508
         -
           -
             ship_id: 137
