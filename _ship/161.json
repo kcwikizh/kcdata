@@ -14,7 +14,7 @@ data:
   get_mes: 自分、あきつ丸であります。<br>艦隊にお世話になります。
   voice_f: 3
   filename: nvnwjedsdgcl
-  file_version: ["3", "1", "1"]
+  file_version: ["4", "1", "929"]
   book_table_id: [161, 853]
   book_sinfo: 自分は、陸軍の特種船…その丙型の「あきつ丸」であります。<br>輸送や上陸戦ならお任せ頂きたいのであります。<br>自慢はこの大発であります。ネズミやモグラな輸送とは訳が違うのであります。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 1]
     build_time: 150
   graph:
-    boko_n: [160, 128]
-    boko_d: [160, 128]
+    boko_n: [176, 144]
+    boko_d: [156, 140]
     kaisyu_n: [24, 0]
     kaisyu_d: [32, 16]
-    kaizo_n: [160, 72]
-    kaizo_d: [152, 72]
-    map_n: [176, 112]
-    map_d: [160, 112]
-    ensyuf_n: [200, 120]
-    ensyuf_d: [160, 72]
-    ensyue_n: [158, 0]
-    battle_n: [168, 112]
-    battle_d: [168, 112]
-    wed_a: [22, 0]
-    wed_b: [130, 126]
+    kaizo_n: [148, 92]
+    kaizo_d: [120, 88]
+    map_n: [180, 112]
+    map_d: [160, 120]
+    ensyuf_n: [164, 128]
+    ensyuf_d: [132, 128]
+    ensyue_n: [152, 0]
+    battle_n: [180, 132]
+    battle_d: [160, 136]
+    wed_a: [56, 0]
+    wed_b: [100, 120]
   wiki_id: "161"
   chinese_name: 秋津丸
 ---

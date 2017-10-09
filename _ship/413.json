@@ -15,7 +15,7 @@ data:
   voice_f: 1
   filename: xjtxwkwwfdze
   file_version: ["19", "16", "1"]
-  book_table_id: [413, 831]
+  book_table_id: [413, 327, 831]
   book_sinfo: 朝潮型駆逐艦五番艦、朝雲よ。<br>盟友の山雲と一緒に、様々な戦場を駆け抜けたのよ。そう、第九駆逐隊。有名でしょ？え、知らないって？私、冗談ってあまり好きじゃないの。覚えておいてよ！
   stats:
     taik: [16, 33]

@@ -14,7 +14,7 @@ data:
   distance: 5
   stats:
     taik: 0
-    souk: 0
+    souk: 1
     houg: 0
     raig: 0
     soku: 0

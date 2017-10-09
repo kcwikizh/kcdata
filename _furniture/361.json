@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 361
+  type: 3
+  no: 76
+  title: 一七式大漁旗
+  description: 朝潮型駆逐艦で編成された<br>ある元気な駆逐隊が、艦隊<br>の航海の安全と秋刀魚大漁<br>を祈って作った新大漁旗。<br>アゲアゲで参りましょう。
+  rarity: 4
+  price: 0
+  saleflg: 0
+  season: 0
+  filename: "077"
+  file_version: "1"
+---

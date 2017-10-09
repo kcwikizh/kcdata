@@ -14,8 +14,8 @@ data:
   get_mes: よお！　あたいは、夕雲型駆逐艦、十六番艦の朝霜さ。<br>覚えといてよ。忘れんなよ……なあ！
   voice_f: 1
   filename: cdsgjcufyxlz
-  file_version: ["14", "11", "910"]
-  book_table_id: [425, 849]
+  file_version: ["15", "11", "929"]
+  book_table_id: [425, 344, 849, 787]
   book_sinfo: あたいは夕雲型駆逐艦、その十六番艦、朝霜さ。よーく覚えとおくんだよ。<br>戦況が悪化した頃にデビューしたんだ。でも、その末期の戦線を、文字通り縦横無尽に駆けまわったぜ。やるだけ…やったさ！
   stats:
     taik: [16, 34]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [116, 128]
-    boko_d: [116, 124]
+    boko_n: [128, 124]
+    boko_d: [104, 144]
     kaisyu_n: [8, -16]
     kaisyu_d: [64, 32]
-    kaizo_n: [68, 68]
-    kaizo_d: [60, 40]
-    map_n: [72, 108]
-    map_d: [72, 104]
-    ensyuf_n: [72, 128]
-    ensyuf_d: [72, 124]
-    ensyue_n: [64, 0]
-    battle_n: [96, 136]
-    battle_d: [96, 132]
-    wed_a: [152, 16]
-    wed_b: [96, 112]
+    kaizo_n: [76, 64]
+    kaizo_d: [72, 64]
+    map_n: [100, 104]
+    map_d: [88, 100]
+    ensyuf_n: [80, 96]
+    ensyuf_d: [84, 80]
+    ensyue_n: [60, 0]
+    battle_n: [112, 112]
+    battle_d: [112, 108]
+    wed_a: [124, 48]
+    wed_b: [102, 104]
   wiki_id: "225"
   chinese_name: 朝霜
 ---

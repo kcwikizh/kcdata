@@ -1,0 +1,36 @@
+---
+layout: json
+order: 261
+data:
+  id: 261
+  sort_no: 261
+  name: Type144/147 ASDIC
+  type: [7, 10, 14, 18, 0]
+  rare: 4
+  broken: [0, 0, 1, 5]
+  info: 紅茶の国で開発された対潜探知システム「ASDIC」。その改良発展型です。我が水中探信儀にあたるシステムですが、対潜探知技術の蓄積と144型と147型の複合装備により、精度が大きく向上しています。ヘッジホッグやスキッドなどの進んだ対潜火器と組み合わせることで、より強力なASW(対潜戦)が可能となります。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 13
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

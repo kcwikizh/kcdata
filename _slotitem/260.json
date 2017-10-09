@@ -1,0 +1,36 @@
+---
+layout: json
+order: 260
+data:
+  id: 260
+  sort_no: 260
+  name: Type124 ASDIC
+  type: [7, 10, 14, 18, 0]
+  rare: 3
+  broken: [0, 0, 1, 4]
+  info: 早くから潜水艦との闘いを経験した紅茶の国の研究チーム、Anti-Submarine Detection Investigation Committeeで開発された対潜探知システムです。「ASDIC」と呼ばれた同システム群は進化を重ね、今日のアクティブソナーへと発展していきます。124型は大戦初期から運用されていた駆逐艦に搭載されました。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 11
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

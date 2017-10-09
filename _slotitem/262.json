@@ -1,0 +1,36 @@
+---
+layout: json
+order: 262
+data:
+  id: 262
+  sort_no: 262
+  name: HF/DF + Type144/147 ASDIC
+  type: [7, 10, 14, 18, 0]
+  rare: 5
+  broken: [0, 0, 1, 6]
+  info: 紅茶の国で開発された対潜探知システム「ASDIC」。その改良発展型です。対潜探知技術の蓄積と144型と147型の複合装備により、敵潜探知精度をさらに向上させています。敵潜の発する無線波を捉える「短波方向探知機」と組み合わせて運用することで、総合的な対潜作戦能力は大きく向上しました。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 15
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

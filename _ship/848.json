@@ -40,8 +40,8 @@ data:
   graph:
     boko_n: [144, 82]
     boko_d: [164, 96]
-    kaisyu_n: [10, 10]
-    kaisyu_d: [28, 7]
+    kaisyu_n: [40, 16]
+    kaisyu_d: [56, 24]
     kaizo_n: [108, 10]
     kaizo_d: [108, 38]
     map_n: [120, 58]
