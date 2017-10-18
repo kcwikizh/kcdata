@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: kbnitqplofhm
-  file_version: ["2", "1", "1"]
+  file_version: ["3", "2", "1019"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [80, 120]
-    boko_d: [88, 147]
+    boko_n: [196, 148]
+    boko_d: [210, 150]
     kaisyu_n: [18, -12]
     kaisyu_d: [44, -4]
-    kaizo_n: [56, 64]
-    kaizo_d: [56, 68]
-    map_n: [68, 92]
-    map_d: [76, 120]
-    ensyuf_n: [60, 104]
-    ensyuf_d: [68, 130]
-    ensyue_n: [56, 0]
-    battle_n: [76, 112]
-    battle_d: [86, 138]
-    wed_a: [172, 28]
-    wed_b: [92, 108]
+    kaizo_n: [144, 88]
+    kaizo_d: [152, 66]
+    map_n: [164, 120]
+    map_d: [180, 120]
+    ensyuf_n: [136, 128]
+    ensyuf_d: [152, 128]
+    ensyue_n: [136, 0]
+    battle_n: [172, 148]
+    battle_d: [184, 148]
+    wed_a: [78, -4]
+    wed_b: [78, 112]
   wiki_id: "285a"
   chinese_name: 藤波改
 ---

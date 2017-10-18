@@ -5,7 +5,7 @@ data:
   type: 0
   no: 8
   title: 白い石板タイル
-  description: 足元から明るい気分になれる白いタイル。洗練されたデザインは、モダンなインテリアにもよく合います！
+  description: 足元から明るい気分になれ<br>る白いタイル。洗練された<br>デザインは、モダンなイン<br>テリアにもよく合います！
   rarity: 1
   price: 150
   saleflg: 0

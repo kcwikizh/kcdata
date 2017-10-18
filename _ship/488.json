@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: rwectccrwkub
-  file_version: ["2", "1", "929"]
-  book_table_id: [488]
+  file_version: ["3", "1", "1"]
+  book_table_id: [488, 778]
   book_sinfo: 長良型軽巡４番艦の由良です。<br>私たちの中では、初めて水上偵察機を搭載したの。<br>水雷戦隊や潜水戦隊の旗艦として、活躍したのよ？<br>ドーントレスとかＢ17とかそういうのはちょっと苦手。
   stats:
     taik: [45, 61]
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 2, 2]
     build_time: 75
   graph:
-    boko_n: [156, 140]
-    boko_d: [156, 140]
+    boko_n: [112, 144]
+    boko_d: [200, 156]
     kaisyu_n: [18, -6]
     kaisyu_d: [36, 18]
-    kaizo_n: [104, 80]
-    kaizo_d: [92, 60]
-    map_n: [112, 120]
-    map_d: [112, 120]
-    ensyuf_n: [104, 128]
-    ensyuf_d: [104, 128]
-    ensyue_n: [100, 0]
-    battle_n: [124, 136]
-    battle_d: [124, 136]
-    wed_a: [128, 4]
-    wed_b: [80, 112]
+    kaizo_n: [32, 72]
+    kaizo_d: [132, 80]
+    map_n: [48, 120]
+    map_d: [152, 136]
+    ensyuf_n: [36, 128]
+    ensyuf_d: [144, 136]
+    ensyue_n: [44, 0]
+    battle_n: [64, 140]
+    battle_d: [172, 148]
+    wed_a: [188, -12]
+    wed_b: [84, 116]
   wiki_id: "288"
   chinese_name: 由良改二
 ---

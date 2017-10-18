@@ -5,7 +5,7 @@ data:
   type: 3
   no: 9
   title: 紳士な帽子掛け
-  description: 優れた海の戦士は優しい紳士たれ。シルクハットと懐中時計がとっても紳士的な帽子掛け。
+  description: 優れた海の戦士は、優しい<br>紳士たれ。シルクハットと<br>懐中時計がとっても紳士的<br>な帽子掛け。
   rarity: 2
   price: 200
   saleflg: 0

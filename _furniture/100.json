@@ -5,7 +5,7 @@ data:
   type: 2
   no: 28
   title: 障子
-  description: 究極にして最高の窓、それが障子。和のココロの昇華ともいうべきシンプルにして最高のデザイン。
+  description: 究極にして最高の窓、それ<br>が障子。<br>和のココロの昇華ともいう<br>べきシンプルにして最高の<br>デザイン。
   rarity: 5
   price: 800
   saleflg: 0

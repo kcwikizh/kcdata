@@ -14,7 +14,7 @@ data:
   get_mes: 特型駆逐艦「曙」よ。<br>って、こっち見んな！　この糞提督！
   voice_f: 0
   filename: fwptxiocqkyd
-  file_version: ["32", "22", "930"]
+  file_version: ["33", "22", "1019"]
   book_table_id: [15, 231, 907, 922, 951, 985, 887, 869, 868]
   book_sinfo: 特型駆逐艦１８番艦、綾波型の８番艦、曙よ。<br>お相撲さんではないわ。覚えておいて。<br>初の空母戦、珊瑚海海戦にも参加したわ！<br>けど、何気に潜水艦は苦手かな…。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [72, -184]
-    boko_d: [108, -272]
+    boko_n: [86, -11]
+    boko_d: [93, -6]
     kaisyu_n: [29, -23]
     kaisyu_d: [28, -19]
-    kaizo_n: [24, -232]
-    kaizo_d: [48, -360]
-    map_n: [24, -192]
-    map_d: [64, -288]
-    ensyuf_n: [52, -196]
-    ensyuf_d: [80, -292]
-    ensyue_n: [40, 0]
-    battle_n: [44, -198]
-    battle_d: [72, -288]
-    wed_a: [184, 320]
-    wed_b: [128, 120]
+    kaizo_n: [31, -66]
+    kaizo_d: [26, -87]
+    map_n: [10, -11]
+    map_d: [-3, -16]
+    ensyuf_n: [48, -7]
+    ensyuf_d: [67, -50]
+    ensyue_n: [48, 0]
+    battle_n: [35, -18]
+    battle_d: [19, -16]
+    wed_a: [144, 130]
+    wed_b: [153, 168]
   wiki_id: "068"
   chinese_name: 曙
 ---

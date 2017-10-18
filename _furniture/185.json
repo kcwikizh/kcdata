@@ -5,7 +5,7 @@ data:
   type: 5
   no: 21
   title: 艦娘専用デスク
-  description: 艦娘の待機部屋から持ち出してきたガーリーなデザインの机と椅子。後で怒られますよ？
+  description: 艦娘の待機部屋から持ち出<br>してきたガーリーなデザイ<br>ンの机と椅子。<br>後で怒られますよ？
   rarity: 4
   price: 400
   saleflg: 1

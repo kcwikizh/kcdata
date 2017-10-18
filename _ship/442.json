@@ -14,7 +14,7 @@ data:
   get_mes: ヴィットリオ・ヴェネト級戦艦４番艦、ローマです、よろしく。<br>何？あまりジロジロ見ないでくださいね。
   voice_f: 1
   filename: gyywcqqfnjkc
-  file_version: ["17", "14", "1"]
+  file_version: ["18", "14", "1"]
   book_table_id: [442, 958, 867]
   book_sinfo: イタリア生まれの最新鋭艦よ。ヴィットリオ・ヴェネト級戦艦４番艦、ローマ。<br>そうね、あの時は姉さんと一緒だったわ。あの化け物を落とされた日。忘れないわ、あの痛み。絶対忘れないんだから。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 0, 1, 3]
     build_time: 300
   graph:
-    boko_n: [8, 144]
-    boko_d: [-16, 128]
+    boko_n: [40, 104]
+    boko_d: [40, 104]
     kaisyu_n: [16, -8]
     kaisyu_d: [28, -12]
-    kaizo_n: [-64, 88]
-    kaizo_d: [-80, 64]
-    map_n: [-48, 136]
-    map_d: [-64, 128]
-    ensyuf_n: [-16, 128]
-    ensyuf_d: [-16, 104]
-    ensyue_n: [-48, 0]
-    battle_n: [-40, 136]
-    battle_d: [-48, 112]
-    wed_a: [264, 0]
-    wed_b: [131, 120]
+    kaizo_n: [0, 48]
+    kaizo_d: [0, 48]
+    map_n: [0, 80]
+    map_d: [0, 80]
+    ensyuf_n: [16, 80]
+    ensyuf_d: [16, 80]
+    ensyue_n: [0, 0]
+    battle_n: [16, 80]
+    battle_d: [16, 80]
+    wed_a: [220, 72]
+    wed_b: [92, 88]
   wiki_id: "242"
   chinese_name: 罗马
 ---

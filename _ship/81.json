@@ -14,7 +14,7 @@ data:
   get_mes: 長門型戦艦２番艦の陸奥よ。よろしくね。<br>あまり火遊びはしないでね…お願いよ。
   voice_f: 0
   filename: jkjqeleyhbus
-  file_version: ["12", "9", "930"]
+  file_version: ["13", "9", "1"]
   book_table_id: [81, 845]
   book_sinfo: 長門型戦艦の２番艦として生まれた陸奥よ。<br>もちろん、世界のビッグ７の一艦になるわね。<br>え？主砲火薬庫爆発事故？<br>まあ、隠してもしょうがないわね。今度は大丈夫よ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [5, 0, 1, 4]
     build_time: 300
   graph:
-    boko_n: [160, 128]
-    boko_d: [212, 132]
+    boko_n: [26, 79]
+    boko_d: [25, 81]
     kaisyu_n: [12, 16]
     kaisyu_d: [34, -5]
-    kaizo_n: [152, 68]
-    kaizo_d: [168, 68]
-    map_n: [172, 104]
-    map_d: [180, 116]
-    ensyuf_n: [160, 104]
-    ensyuf_d: [160, 112]
-    ensyue_n: [128, 0]
-    battle_n: [172, 116]
-    battle_d: [200, 124]
-    wed_a: [64, 8]
-    wed_b: [100, 128]
+    kaizo_n: [-30, 31]
+    kaizo_d: [-31, -4]
+    map_n: [-39, 78]
+    map_d: [-65, 67]
+    ensyuf_n: [3, 59]
+    ensyuf_d: [-22, 12]
+    ensyue_n: [3, 0]
+    battle_n: [-32, 46]
+    battle_d: [-37, 104]
+    wed_a: [235, 62]
+    wed_b: [108, 108]
   wiki_id: "002"
   chinese_name: 陆奥
 ---

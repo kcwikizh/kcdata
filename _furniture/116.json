@@ -5,7 +5,7 @@ data:
   type: 3
   no: 14
   title: 古い世界地図
-  description: とても古い世界地図。よく見ると謎の印が！お宝のありかかもしれません…平和な海がきたら探索ですね！
+  description: とても古い世界地図。よく<br>見ると謎の印が！お宝のあ<br>りかかもしれません…平和<br>な海がきたら探索ですね！
   rarity: 1
   price: 50
   saleflg: 0

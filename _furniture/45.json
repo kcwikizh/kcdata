@@ -5,7 +5,7 @@ data:
   type: 1
   no: 7
   title: ポップな壁紙
-  description: カジュアルな若い感性の壁紙。鮮やかな色彩のストライプには提督は渋い顔ですが、気にしません！
+  description: カジュアルな若い感性の壁<br>紙。鮮やかな色彩のストラ<br>イプには古参の提督は渋い<br>顔ですが、気にしません！
   rarity: 1
   price: 100
   saleflg: 0

@@ -5,7 +5,7 @@ data:
   type: 3
   no: 27
   title: 富士山の壁画
-  description: なんとなくコーヒー牛乳が飲みたくなる…そんな風情たっぷりの富士山をあしらった壁画。
+  description: なんとなくコーヒー牛乳が<br>飲みたくなる…そんな風情<br>がたっぷりの富士山をあし<br>らった壁画です。
   rarity: 5
   price: 3000
   saleflg: 0

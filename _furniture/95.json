@@ -5,7 +5,7 @@ data:
   type: 2
   no: 23
   title: すだれ窓
-  description: 現代的な機能を持った簾のついた窓。まぶしい光が差し込んできても、スムーズに執務できちゃいますね！
+  description: 現代的な機能を持った簾の<br>ついた窓。まぶしい光が差<br>し込んできても、これなら<br>スムーズに執務できちゃい<br>ますね！
   rarity: 2
   price: 250
   saleflg: 0

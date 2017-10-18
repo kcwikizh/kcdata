@@ -5,7 +5,7 @@ data:
   type: 3
   no: 18
   title: 小さな観葉植物
-  description: 小さくても緑の観葉植物が、戦いで疲れたココロを癒してくれます。
+  description: 小さくても緑の観葉植物が<br>戦いで疲れたココロを癒し<br>てくれます。
   rarity: 1
   price: 100
   saleflg: 0

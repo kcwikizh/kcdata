@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: waviopoxryme
-  file_version: ["5", "2", "929"]
+  file_version: ["6", "2", "1018"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 1, 2]
     build_time: 70
   graph:
-    boko_n: [112, 136]
-    boko_d: [160, 136]
+    boko_n: [60, 140]
+    boko_d: [56, 178]
     kaisyu_n: [22, -12]
     kaisyu_d: [15, -4]
-    kaizo_n: [88, 80]
-    kaizo_d: [128, 72]
-    map_n: [120, 124]
-    map_d: [148, 136]
-    ensyuf_n: [92, 116]
-    ensyuf_d: [144, 124]
-    ensyue_n: [68, 0]
-    battle_n: [120, 132]
-    battle_d: [180, 136]
-    wed_a: [116, 8]
-    wed_b: [92, 124]
+    kaizo_n: [-4, 80]
+    kaizo_d: [-16, 88]
+    map_n: [-8, 124]
+    map_d: [-32, 128]
+    ensyuf_n: [-4, 132]
+    ensyuf_d: [-16, 128]
+    ensyue_n: [0, 0]
+    battle_n: [20, 136]
+    battle_d: [-4, 136]
+    wed_a: [196, -8]
+    wed_b: [128, 112]
   wiki_id: "248a"
   chinese_name: 扎拉改
 ---

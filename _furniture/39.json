@@ -5,7 +5,7 @@ data:
   type: 1
   no: 1
   title: 低予算な壁紙
-  description: 一番安い壁紙です。いいのです。執務室で戦闘するわけではないですし！
+  description: 一番安い壁紙です。<br>いいのです。<br>執務室で戦闘するわけでは<br>ないですし！たぶん！
   rarity: 1
   price: 50
   saleflg: 0

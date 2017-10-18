@@ -5,7 +5,7 @@ data:
   type: 1
   no: 30
   title: コンクリート壁
-  description: 打ちっぱなしの冷たいコンクリート壁面がクール。知的でセンスのある近代的な艦隊司令部を演出します。
+  description: 打ちっぱなしの冷たいコン<br>クリート壁面がクール。知<br>的でセンスのある近代的な<br>艦隊司令部を演出します。
   rarity: 2
   price: 200
   saleflg: 1

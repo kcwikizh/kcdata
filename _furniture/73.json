@@ -5,7 +5,7 @@ data:
   type: 2
   no: 1
   title: 緑カーテンの窓
-  description: 知的な貴方にぴったりのグリーンのカーテン。落ち着いて戦略を練る提督にぴったりです。
+  description: 知的な貴方にぴったりのグ<br>リーンのカーテン。落ち着<br>いて戦略を練る提督にぴっ<br>たりです。
   rarity: 1
   price: 50
   saleflg: 1

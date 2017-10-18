@@ -1,0 +1,58 @@
+---
+layout: json
+data:
+  id: 780
+  sort_no: 0
+  name: 
+  yomi: 
+  stype: 
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: fzvyepkcmals
+  file_version: ["51", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [152, 144]
+    boko_d: [112, 164]
+    kaisyu_n: [22, -6]
+    kaisyu_d: [60, 2]
+    kaizo_n: [120, 80]
+    kaizo_d: [104, 68]
+    map_n: [128, 128]
+    map_d: [136, 148]
+    ensyuf_n: [120, 132]
+    ensyuf_d: [124, 140]
+    ensyue_n: [124, 0]
+    battle_n: [152, 144]
+    battle_d: [156, 156]
+    wed_a: [102, -8]
+    wed_b: [80, 112]
+  wiki_id:
+  chinese_name:
+---

@@ -5,7 +5,7 @@ data:
   type: 0
   no: 1
   title: ナチュラルな床
-  description: 天然木を使用した明るい木目が特徴の床です。
+  description: 天然木を使用した、明るい<br>木目が特徴の床です。
   rarity: 1
   price: 50
   saleflg: 0

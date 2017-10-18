@@ -14,7 +14,7 @@ data:
   get_mes: マイク音量大丈夫…？チェック、1，2……。<br>よし。はじめまして、私、霧島です。
   voice_f: 0
   filename: icwowutxbvgh
-  file_version: ["14", "16", "929"]
+  file_version: ["14", "16", "1"]
   book_table_id: [85]
   book_sinfo: 霧島です。姉妹艦の榛名には、頭脳は負けないわよ？<br>純国産高速戦艦として、奮戦するんだからっ！<br>現代の海自イージス艦にもその名は受け継がれたの。
   stats:

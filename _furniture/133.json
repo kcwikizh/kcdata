@@ -5,7 +5,7 @@ data:
   type: 4
   no: 0
   title: なし
-  description: 素敵にインテリアを置きたいですね！
+  description: 素敵にインテリアを置きた<br>いですね！
   rarity: 0
   price: 0
   saleflg: 0

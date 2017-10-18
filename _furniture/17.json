@@ -5,7 +5,7 @@ data:
   type: 0
   no: 16
   title: ピンクの床
-  description: ガーリーなピンクに仕上げられた床。どこかのお店のような不思議な雰囲気を醸し出します。
+  description: ガーリーなピンクに仕上げ<br>られた高級床。原材料には<br>大理石を使用。どこかのお<br>店のような不思議な雰囲気<br>を醸し出します。
   rarity: 1
   price: 1200
   saleflg: 0

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: xvelofmpcaga
-  file_version: ["2", "1", "930"]
+  file_version: ["3", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,19 +38,19 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [160, 162]
-    boko_d: [104, 162]
+    boko_n: [160, 156]
+    boko_d: [130, 156]
     kaisyu_n: [12, -8]
     kaisyu_d: [36, -14]
     kaizo_n: [104, 96]
-    kaizo_d: [40, 72]
+    kaizo_d: [64, 72]
     map_n: [112, 136]
-    map_d: [56, 136]
+    map_d: [82, 136]
     ensyuf_n: [104, 136]
-    ensyuf_d: [50, 136]
+    ensyuf_d: [74, 136]
     ensyue_n: [104, 0]
     battle_n: [144, 160]
-    battle_d: [88, 160]
+    battle_d: [114, 160]
     wed_a: [116, -8]
     wed_b: [80, 112]
   wiki_id: "280a"

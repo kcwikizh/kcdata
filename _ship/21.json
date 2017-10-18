@@ -14,7 +14,7 @@ data:
   get_mes: 軽巡、長良です。<br>よろしくお願いします！
   voice_f: 0
   filename: debsnofmttkx
-  file_version: ["6", "3", "1"]
+  file_version: ["7", "3", "1"]
   book_table_id: [21, 218, 944]
   book_sinfo: 5500トン級軽巡洋艦、長良型の１番艦、長良よ。<br>ちょっとモデルは古いけど、高速・魚雷発射主兵装・水雷戦隊指揮能力と、駆逐艦仕切るにはバッチリでしょ？<br>ソロモン海での激闘でも奮戦したんだから！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 2]
     build_time: 60
   graph:
-    boko_n: [112, 104]
-    boko_d: [36, 60]
+    boko_n: [107, 117]
+    boko_d: [111, 136]
     kaisyu_n: [7, 20]
     kaisyu_d: [28, 20]
-    kaizo_n: [80, 64]
-    kaizo_d: [-16, -32]
-    map_n: [64, 72]
-    map_d: [-32, 8]
-    ensyuf_n: [72, 80]
-    ensyuf_d: [-24, 12]
-    ensyue_n: [56, 0]
-    battle_n: [80, 80]
-    battle_d: [0, 32]
-    wed_a: [124, 48]
-    wed_b: [128, 120]
+    kaizo_n: [52, 62]
+    kaizo_d: [59, 16]
+    map_n: [60, 107]
+    map_d: [15, 126]
+    ensyuf_n: [114, 100]
+    ensyuf_d: [49, 54]
+    ensyue_n: [114, 0]
+    battle_n: [75, 94]
+    battle_d: [75, 94]
+    wed_a: [133, 19]
+    wed_b: [132, 132]
   wiki_id: "042"
   chinese_name: 长良
 ---
