@@ -1,6 +1,6 @@
 ---
 ---
-{% assign array = "" | split: "|" %}{% assign slotitems = site.slotitem | sort: "order" %}{% for counter in (1..99) %}{% for slotitem in slotitems | sort: "order" %}{% if slotitem.data.type[3] == counter %}{% if slotitem.data.improvement %}{% capture str %}{
+{% assign array = "" | split: "|" %}{% assign slotitems = site.slotitem | sort: "order" %}{% for counter in (1..99) %}{% for slotitem in slotitems %}{% if slotitem.data.type[3] == counter %}{% if slotitem.data.improvement %}{% capture str %}{
     "id": {{ slotitem.data.id }},
     "type": "{% include helper/equiptype_finder.md id=slotitem.data.type result="name" %}",
     "icon": {{ slotitem.data.type[3] }},
