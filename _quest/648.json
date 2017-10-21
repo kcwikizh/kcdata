@@ -13,23 +13,6 @@ data:
       id: 52
       amount: 1
   prerequisite: [303, 646]
-  requirements:
-    -
-      category: scrap
-      amount: 2
-      slotitem_id: 10
-    -
-      category: useitem
-      amount: 5000
-      useitem_id: 44
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 4
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 11
   wiki_id: F44
   chinese_title: 「特注家具」的调拨
   chinese_detail: 废弃2个「12.7cm连装高角炮」，准备好5000家具币、2门「14cm单装炮」和2门「15.2cm单装炮」！ ※任务完成后，准备好的家具币及必要装备（低改修程度优先）会被消耗掉。

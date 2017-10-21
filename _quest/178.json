@@ -17,12 +17,6 @@ data:
       id: 3
       amount: 2
   prerequisite: [295]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [113, 61, 25, 24]
   wiki_id: A73
   chinese_title: “第十六战队（第三次）”编成！
   chinese_detail: 率领“鬼怒”“青叶”“北上”“大井”编成第十六战队（第三次）

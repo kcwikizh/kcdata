@@ -17,27 +17,6 @@ data:
       id: 116
       amount: 1
   prerequisite: [259]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 35
-      boss: true
-      result: S
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: [8, 9, 12]
-    -
-      category: fleet
-      amount:
-        gte: 1
-      ship_type: 7
-    -
-      category: fleet
-      amount: 0
-      ship_type: [11, 18]
   wiki_id: B32
   chinese_title: 「战舰部队」突入北方海域！
   chinese_detail: 派出以战舰2艘和支援轻空母1艘（无正规空母）为基干的舰队向3-5突入，消灭敌人！

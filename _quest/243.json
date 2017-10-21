@@ -17,13 +17,6 @@ data:
       id: 4
       amount: 2
   prerequisite: [242]
-  requirements:
-    -
-      category: sortie
-      times: 2
-      map: 52
-      boss: true
-      result: S
   wiki_id: Bw9
   chinese_title: 掌握南方海域珊瑚诸岛的制空权！
   chinese_detail: 向南方海域5-2出击，消灭敌方机动部队本体，取得完全胜利！

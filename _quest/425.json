@@ -17,23 +17,6 @@ data:
       id: 3
       amount: 2
   prerequisite: [424, 662]
-  requirements:
-    -
-      category: expedition
-      times: 1
-      expedition_id: 4
-    -
-      category: expedition
-      times: 1
-      expedition_id: 5
-    -
-      category: expedition
-      times: 1
-      expedition_id: 9
-    -
-      category: fleet
-      amount: 0
-      not_ship_type: [1, 2, 3]
   wiki_id: D23
   chinese_title: 海上护卫总队，远征开始！
   chinese_detail: 远征任务：进行远征任务「对潜警戒任务」、「海上护卫任务」和「油轮护卫任务」，用轻巡、驱逐舰、海防舰等编成的护卫舰队取得各远征的成功！

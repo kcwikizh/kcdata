@@ -13,18 +13,6 @@ data:
       id: 52
       amount: 1
   prerequisite: [136]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 15
-      boss: true
-      result: C
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [1, 164, 165, 31]
   wiki_id: B24
   chinese_title: 「第三十驱逐队」反潜巡逻！
   chinese_detail: 只派出「第三十驱逐队(第二次)」出击，在1-5实施反潜巡逻！

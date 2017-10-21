@@ -17,11 +17,6 @@ data:
       id: 4
       amount: 1
   prerequisite: [619]
-  requirements:
-    -
-      category: scrap
-      amount: 6
-      slotitem_type: 21
   wiki_id: F34
   chinese_title: 对空机枪量产！
   chinese_detail: 量产机枪类装备，并在工厂废弃六个，以支持装备改修的强化！

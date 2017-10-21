@@ -17,14 +17,6 @@ data:
       id: 50
       amount: 1
   prerequisite: [835]
-  requirements:
-    -
-      category: flagship
-      ship_id: 487
-    -
-      category: fleet
-      amount: 6
-      ship_id: [487, 119, 118, 215, 264, 368, 208]
   wiki_id: A74
   chinese_title: 精锐“第十六战队”再次编成！
   chinese_detail: 以“鬼怒改二”为旗舰，加上“北上改二”、“大井改二”、“球磨改”、“青叶改”、“浦波改”　“敷波改”中的五支，再编成共计六支的精锐“第十六战队”！

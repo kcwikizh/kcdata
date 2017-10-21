@@ -17,10 +17,6 @@ data:
       id: 3
       amount: 2
   prerequisite: [607]
-  requirements:
-    -
-      category: construction
-      times: 3
   wiki_id: F8
   chinese_title: 舰娘「建造」舰队强化！
   chinese_detail: 为了强化舰队，今天在「工厂」「建造」三艘新舰娘！

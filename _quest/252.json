@@ -13,18 +13,6 @@ data:
       id: 103
       amount: 1
   prerequisite: [248]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 51
-      boss: true
-      result: S
-    -
-      category: fleet
-      amount:
-        gte: 1
-      ship_id: 151
   wiki_id: B27
   chinese_title: 战舰「榛名」出击！
   chinese_detail: 派出以第二次改装完成的「榛名改二」为基干的舰队，向5-1推进，消灭敌方舰队主力！

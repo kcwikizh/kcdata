@@ -21,31 +21,6 @@ data:
       item: "戦果"
       amount: 350
   prerequisite: [220, 846]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 24
-      boss: true
-      result: A
-    -
-      category: sortie
-      times: 1
-      map: 61
-      boss: true
-      result: A
-    -
-      category: sortie
-      times: 1
-      map: 63
-      boss: true
-      result: A
-    -
-      category: sortie
-      times: 1
-      map: 64
-      boss: true
-      result: S
   wiki_id: Bq2
   chinese_title: 战果扩张任务！「Z作战」前段作战
   chinese_detail: 于我军第一舰队集中配置精锐舰队，以此精锐舰队，摧毁南西群岛海域(2-4)、中部海域警戒线(6-1)、古阿诺环礁海域(6-3)、中部北海域孔雀岛近海(6-4)的敌军战力！

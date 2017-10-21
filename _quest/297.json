@@ -17,20 +17,6 @@ data:
       id: 60
       amount: 1
   prerequisite: [170, 265]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 25
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 49
-    -
-      category: fleet
-      amount: 6
-      ship_id: [49, 64, 183, 425, 410]
   wiki_id: B57
   chinese_title: “礼号作战”实施！
   chinese_detail: 精锐“水上反击部队”突入2-5,消灭该海域的敌人战力！

@@ -17,23 +17,6 @@ data:
       id: 4
       amount: 4
   prerequisite: [145]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 51
-      boss: true
-      result: S
-    -
-      category: fleet
-      amount:
-        gte: 3
-      ship_ctype: [37, 19, 2, 26]
-    -
-      category: fleet
-      amount:
-        gte: 1
-      ship_type: 3
   wiki_id: Bm4
   chinese_title: 「水上打击部队」前往南方！
   chinese_detail: 以战舰3艘轻巡1艘为基干的水上打击部队向5-1推进，消灭敌方舰队！

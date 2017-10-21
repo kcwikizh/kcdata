@@ -17,19 +17,6 @@ data:
       id: 168
       amount: 1
   prerequisite: [296]
-  requirements:
-    -
-      category: scrap
-      amount: 2
-      slotitem_id: 75
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 37
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 19
   wiki_id: F37
   chinese_title: “航空基地设营”事前准备
   chinese_detail: “航空基地设营”的事前准备开始。于工厂中废弃桶(运输用)两个，另准备7.7mm机铳、九六式舰战各两个！（任务达成后装备消失）

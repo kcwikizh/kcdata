@@ -16,12 +16,7 @@ data:
       category: useitem
       id: 59
       amount: 1
-  prerequisite: [258, 289]
-  requirements:
-    -
-      category: fleet
-      amount: 2
-      ship_id: [541, 276]
+  prerequisite: [258]
   wiki_id: A75
   chinese_title: 编成新编「第一舰队」！
   chinese_detail: 编成任务：配备由已编成的第一舰队中的长门型战舰一号舰「长门改二」以及二号舰「陆奥改」组成的新编第一战队！

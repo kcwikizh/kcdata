@@ -13,13 +13,6 @@ data:
       id: 1
       amount: 1
   prerequisite: [202]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 11
-      boss: true
-      result: B
   wiki_id: B2
   chinese_title: 保护鎮守府正面海域！
   chinese_detail: 在1-1派出舰队出击，阻止敌舰横行霸道！

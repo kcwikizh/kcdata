@@ -17,29 +17,6 @@ data:
       id: 52
       amount: 1
   prerequisite: [206]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 22
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_type: 3
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: [2, 3]
-    -
-      category: fleet
-      amount: [1, 2]
-      ship_type: 3
-    -
-      category: fleet
-      not_ship_type: [2, 3]
-      amount: 0
   wiki_id: B30
   chinese_title: 「水雷战队」バシー岛沖紧急展开
   chinese_detail: 以轻巡为旗舰的水雷战队（轻巡最大两只其他为驱逐舰）消灭2-2的敌人！

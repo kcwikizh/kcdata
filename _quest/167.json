@@ -17,17 +17,6 @@ data:
       id: 70
       amount: 1
   prerequisite: [632]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [461, 462]
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: 2
   wiki_id: A62
   chinese_title: “新航空战队”编成！
   chinese_detail: 改二改装完成的两艘翔鹤型航空母舰及其护卫舰编成新的航空战队!

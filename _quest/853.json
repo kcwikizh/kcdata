@@ -17,39 +17,6 @@ data:
       id: 52
       amount: 1
   prerequisite: [839]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 12
-      boss: true
-      result: A
-    -
-      category: sortie
-      times: 1
-      map: 13
-      boss: true
-      result: A
-    -
-      category: sortie
-      times: 1
-      map: 14
-      boss: true
-      result: A
-    -
-      category: sortie
-      times: 1
-      map: 15
-      boss: true
-      result: A
-    -
-      category: flagship
-      ship_type: [3, 4, 5, 6, 21]
-    -
-      category: fleet
-      ship_type: 2
-      amount:
-        gte: 2
   wiki_id: B97
   chinese_title: 强化镇守府海域警戒
   chinese_detail: 以巡洋舰级为旗舰，两只以上驱逐舰为僚舰编成警戒舰队。以该警戒舰队执行镇守府海域（南西群岛近海(1-2)、制油所沿岸地带(1-3)、南西群岛防卫线(1-4)、镇守府近海(1-5)）警戒任务！

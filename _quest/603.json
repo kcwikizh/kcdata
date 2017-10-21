@@ -17,10 +17,6 @@ data:
       id: 3
       amount: 1
   prerequisite: [602]
-  requirements:
-    -
-      category: dismantle
-      times: 1
   wiki_id: F3
   chinese_title: 初次的「解体」！
   chinese_detail: 在「工厂」「解体」不要的舰艇！

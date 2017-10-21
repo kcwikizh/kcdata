@@ -13,16 +13,6 @@ data:
       id: 203
       amount: 1
   prerequisite: [846]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 53
-      boss: true
-      result: A
-    -
-      category: flagship
-      ship_id: 496
   wiki_id: B92
   chinese_title: 重装甲巡洋舰，突入铁底海峡！
   chinese_detail: 编成以Zara due为旗舰的第一舰队，突入萨部岛近海海域(5-3)！突破海域中的敌舰队群，击破部署于铁底海峡的敌战力！

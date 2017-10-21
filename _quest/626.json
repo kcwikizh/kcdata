@@ -13,24 +13,6 @@ data:
       id: 96
       amount: 1
   prerequisite: [114, 264]
-  requirements:
-    -
-      category: scrap
-      amount: 2
-      slotitem_id: 20
-    -
-      category: scrap
-      amount: 1
-      slotitem_id: 19
-    -
-      category: flagship
-      ship_id: 89
-      slotitem_id: 20
-      slotitem_skill: 7
-    -
-      category: useitem
-      amount: 1
-      useitem_id: 70
   wiki_id: F22
   chinese_title: 精锐“舰战”队新编成
   chinese_detail: 要熟练搭乘员：以凤翔为秘书舰，搭载熟练度max的“零战21型”时废弃“零战21型”x2“九六舰战”x1!

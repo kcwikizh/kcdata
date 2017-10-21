@@ -13,13 +13,6 @@ data:
       id: 73
       amount: 1
   prerequisite: [828]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 53
-      boss: true
-      result: A
   wiki_id: B81
   chinese_title: 夜间突入！击溃敌军登陆部队！
   chinese_detail: 用精锐部队突入南方サブ岛冲海域！突破敌人的迎击，同时击溃敌军登陆部队!

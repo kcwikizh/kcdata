@@ -17,13 +17,6 @@ data:
       id: 2
       amount: 1
   prerequisite: [218]
-  requirements:
-    -
-      category: sortie
-      times: 5
-      area: 2
-      boss: true
-      result: B
   wiki_id: Bd7
   chinese_title: 掌握南西诸岛海域制海权！
   chinese_detail: 派出舰队在南西诸岛海域海域全力出击，捕捉消灭大量敌舰队「主力」群！

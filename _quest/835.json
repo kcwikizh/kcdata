@@ -17,18 +17,6 @@ data:
       id: 30
       amount: 1
   prerequisite: [178]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 24
-      boss: true
-      result: A
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [113, 61, 25, 24]
   wiki_id: B84
   chinese_title: “第十六战队（第三次）”出击！
   chinese_detail: 以“第十六战队（第三次）”出击2-4，捕捉并击破同海域的敌主力部队！

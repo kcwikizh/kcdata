@@ -17,10 +17,6 @@ data:
       id: 3
       amount: 1
   prerequisite: [201]
-  requirements:
-    -
-      category: sortie
-      times: 1
   wiki_id: Bd2
   chinese_title: 击破敌舰队主力！
   chinese_detail: 舰队出击，捕捉敌方舰队「主力」，消灭他们！

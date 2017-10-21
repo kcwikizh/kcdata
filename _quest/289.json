@@ -17,21 +17,6 @@ data:
       id: 60
       amount: 1
   prerequisite: [163]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 22
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 64
-    -
-      category: fleet
-      amount:
-        gte: 3
-      ship_id: [64, 99, 21]
   wiki_id: B52
   chinese_title: 「第十六战队（第一次）」出击！
   chinese_detail: 以「第十六战队」为基干的舰队向南西群岛海域巴士岛近海海域出击，击溃敌方舰队！

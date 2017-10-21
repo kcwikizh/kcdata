@@ -13,10 +13,6 @@ data:
       id: 2
       amount: 1
   prerequisite: [301]
-  requirements:
-    -
-      category: practice
-      times: 3
   wiki_id: C2
   chinese_title: 「演习」锻炼能力！
   chinese_detail: 今天对其他司令官的舰队发起3次「演习」！

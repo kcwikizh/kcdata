@@ -13,11 +13,6 @@ data:
       id: 50
       amount: 1
   prerequisite: [127]
-  requirements:
-    -
-      category: expedition
-      times: 1
-      expedition_id: 30
   wiki_id: D5
   chinese_title: 第一次潜水舰派遣作战
   chinese_detail: 成功实行初次的潜水舰派遣作战！

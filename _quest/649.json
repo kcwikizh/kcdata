@@ -17,19 +17,6 @@ data:
       id: 151
       amount: 1
   prerequisite: [167, 647]
-  requirements:
-    -
-      category: scrap
-      amount: 2
-      slotitem_id: 25
-    -
-      category: possess
-      amount: 1
-      slotitem_id: 169
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 54
   wiki_id: F45
   chinese_title: 新式侦察机的开发
   chinese_detail: 进行新式侦察机的采购。在「工厂」中废弃2架「零式水上侦察机」，准备好1架「一式陆攻」和2架「彩云」！（任务完成后，准备好的必要装备会被消耗掉。）

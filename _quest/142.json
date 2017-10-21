@@ -13,12 +13,6 @@ data:
       id: 103
       amount: 1
   prerequisite: [246]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [149, 150, 151, 152]
   wiki_id: A40
   chinese_title: 精锐「第三战队」全舰集结！
   chinese_detail: 集结4艘第二次改装完成的金刚型高速战舰！

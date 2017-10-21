@@ -13,11 +13,6 @@ data:
       id: 1
       amount: 3
   prerequisite: [267]
-  requirements:
-    -
-      category: fleet
-      amount: 4
-      ship_id: [38, 39, 40, 41]
   wiki_id: A48
   chinese_title: 「第二一驱逐队」编成！
   chinese_detail: 以「初春」「子日」「若叶」「初霜」4艘编成「第二一驱逐队」！

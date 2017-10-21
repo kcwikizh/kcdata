@@ -16,17 +16,7 @@ data:
       category: slotitem
       id: 145
       amount: 2
-  prerequisite: [221, 230, 260]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 35
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_type: [11, 18]
+  prerequisite: [230, 260]
   wiki_id: B49
   chinese_title: 带领空母机动部队向北方海域进发！
   chinese_detail: 带领以航空母舰为旗舰的舰队，歼灭北方AL海域的敌人！

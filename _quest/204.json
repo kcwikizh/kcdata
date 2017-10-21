@@ -13,11 +13,6 @@ data:
       id: 1
       amount: 1
   prerequisite: [203]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 12
   wiki_id: B4
   chinese_title: 出击南西诸岛沖！
   chinese_detail: 在1-2派出舰队出击，与敌舰队交战！

@@ -13,12 +13,6 @@ data:
       id: 2
       amount: 1
   prerequisite: [101]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_type: 2
   wiki_id: A2
   chinese_title: 「驱逐队」编成！
   chinese_detail: 以驱逐舰四艘编成「驱逐队」！

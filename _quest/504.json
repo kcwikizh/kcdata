@@ -17,10 +17,6 @@ data:
       id: 3
       amount: 1
   prerequisite: [503]
-  requirements:
-    -
-      category: supply
-      times: 15
   wiki_id: E4
   chinese_title: 舰队酒保节！
   chinese_detail: 舰队酒保祭！对各舰实施15次以上的补给！

@@ -17,12 +17,6 @@ data:
       id: 145
       amount: 1
   prerequisite: [216]
-  requirements:
-    -
-      category: practice
-      times: 7
-      result: B
-      daily: true
   wiki_id: C8
   chinese_title: 精锐舰队演习
   chinese_detail: 同一天内拿下七次演习的胜利，以示我们精锐舰队的练度！

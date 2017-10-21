@@ -17,29 +17,6 @@ data:
       id: 59
       amount: 1
   prerequisite: [221]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 14
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_type: 3
-    -
-      category: fleet
-      amount:
-        gte: 1
-      ship_type: [2, 3]
-    -
-      category: fleet
-      amount: [1, 3]
-      ship_type: 3
-    -
-      category: fleet
-      not_ship_type: [2, 3]
-      amount: 0
   wiki_id: Bm3
   chinese_title: 「水雷战队」前往南西！
   chinese_detail: 紧急派遣以轻巡为旗舰的水雷战队（轻巡最大3艘其他为驱逐舰），消灭1-4的敌人！

@@ -17,12 +17,6 @@ data:
       id: 79
       amount: 1
   prerequisite: [293]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_id: [82, 88]
   wiki_id: A60
   chinese_title: “第四航空战队”编成！
   chinese_detail: 以航空战舰伊势改及日向改为基干战力编成"第四航空战队"!

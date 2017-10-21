@@ -13,12 +13,6 @@ data:
       id: 50
       amount: 1
   prerequisite: [129]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 5
-      ship_id: [114, 15, 16, 49, 18]
   wiki_id: A30
   chinese_title: 「第1水雷战队」编成！
   chinese_detail: 以「阿武隈」「曙」「潮」「霞」「不知火」为核心编成第1水雷战队！

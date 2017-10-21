@@ -13,12 +13,6 @@ data:
       id: 1
       amount: 1
   prerequisite: [105]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: 5
   wiki_id: A7
   chinese_title: 「重巡战队」编成！
   chinese_detail: 编成拥有2艘重巡的重巡舰队！

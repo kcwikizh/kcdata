@@ -17,18 +17,6 @@ data:
       id: 47
       amount: 1
   prerequisite: [149]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 15
-      boss: true
-      result: C
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [9, 10, 32, 33]
   wiki_id: B36
   chinese_title: 「第十一驱逐队」反潜巡逻！
   chinese_detail: 派出包含「第十一驱逐队」的舰队向1-5展开，实施反潜巡逻！

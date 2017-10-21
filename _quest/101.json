@@ -13,11 +13,6 @@ data:
       id: 10
       amount: 1
   prerequisite: []
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 2
   wiki_id: A1
   chinese_title: 初次的「编成」！
   chinese_detail: 以两艘以上的阵容编成「舰队」！

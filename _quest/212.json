@@ -13,11 +13,6 @@ data:
       id: 3
       amount: 2
   prerequisite: [201]
-  requirements:
-    -
-      category: sink
-      amount: 5
-      ship_type: 15
   wiki_id: Bd6
   chinese_title: 打击敌方输送船团！
   chinese_detail: 击沉敌方5艘以上运输船，切断敌人的补给线！

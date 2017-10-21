@@ -12,15 +12,7 @@ data:
       category: useitem
       id: 1
       amount: 2
-  prerequisite: [113, 116]
-  requirements:
-    -
-      category: flagship
-      ship_type: 3
-    -
-      category: fleet
-      amount: 4
-      ship_type: 2
+  prerequisite: [104, 293]
   wiki_id: A69
   chinese_title: 新编“水雷战队”再编成！
   chinese_detail: 编成一支以轻巡为旗舰，包含四艘驱逐舰的强力水雷战队

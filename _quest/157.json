@@ -17,14 +17,6 @@ data:
       id: 11
       amount: 1
   prerequisite: [309]
-  requirements:
-    -
-      category: flagship
-      ship_id: 200
-    -
-      category: fleet
-      amount: 6
-      ship_id: [200, 35, 133, 135, 132, 50]
   wiki_id: A55
   chinese_title: 「第一水雷战队」北方再突入准备！
   chinese_detail: 以「阿武隈改二」为旗舰，「响」「夕云」「长波」「秋云」「岛风」再次编成一水战！

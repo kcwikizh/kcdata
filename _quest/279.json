@@ -16,21 +16,7 @@ data:
       category: useitem
       id: 4
       amount: 4
-  prerequisite: [157]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 32
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 200
-    -
-      category: fleet
-      amount: 6
-      ship_id: [200, 35, 133, 135, 132, 50]
+  prerequisite: [157, 309]
   wiki_id: B47
   chinese_title: 「第一水雷战队」北方KE号作战、再突入！
   chinese_detail: 为北方再突入而准备的新编「一水战」毅然再突入3-2！完成该撤退作战！

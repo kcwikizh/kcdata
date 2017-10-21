@@ -17,18 +17,6 @@ data:
       id: 59
       amount: 1
   prerequisite: [303, 851]
-  requirements:
-    -
-      category: flagship
-      ship_id: 504
-    -
-      category: fleet
-      amount: 4
-      ship_id: [504, 503, 73, 121]
-    -
-      category: fleet
-      ship_id: 503
-      no: 2
   wiki_id: A76
   chinese_title: 编成新编「第七战队」！
   chinese_detail: 编成任务：配备第一舰队旗舰为新改装的改铃谷型「熊野改二」、二号舰为「铃谷改二」，僚舰为「最上改」和「三隈改」的新编第七战队！

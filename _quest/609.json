@@ -13,10 +13,6 @@ data:
       id: 1
       amount: 1
   prerequisite: [608]
-  requirements:
-    -
-      category: dismantle
-      times: 2
   wiki_id: F9
   chinese_title: 对应裁军条约！
   chinese_detail: 舰队规模稍稍大过头了！在「工厂」「解体」2艘不要的舰艇！

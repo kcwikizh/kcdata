@@ -13,10 +13,6 @@ data:
       id: 1
       amount: 2
   prerequisite: [502]
-  requirements:
-    -
-      category: repair
-      times: 5
   wiki_id: E3
   chinese_title: 舰队大整备！
   chinese_detail: 从各舰队入渠5艘以上需要整备的舰艇，实施大规模整备！

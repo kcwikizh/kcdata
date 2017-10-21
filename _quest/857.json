@@ -9,7 +9,6 @@ data:
   reward: [700, 0, 0, 0]
   reward2:
   prerequisite: [228, 855]
-  requirements:
   wiki_id: B100
   chinese_title: 加强的海上护卫总队，出发！
   chinese_detail: 出击任务：由1艘轻巡、2艘以上驱逐或海防舰以及航空巡洋舰或轻空母组成的加强版第一护卫舰队为第一舰队，前往南西诸岛海域的各个海域，击破敌方舰队，取得各个作战的成功！

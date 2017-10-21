@@ -17,13 +17,6 @@ data:
       id: 4
       amount: 3
   prerequisite: [240, 249]
-  requirements:
-    -
-      category: sortie
-      times: 10
-      map: 15
-      boss: true
-      result: A
   wiki_id: Bm5
   chinese_title: 海上护卫强化月
   chinese_detail: 强化1-5的反潜巡逻，压制敌潜水舰，确立安全的海上输送体制！

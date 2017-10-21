@@ -13,11 +13,6 @@ data:
       id: 1
       amount: 2
   prerequisite: [132]
-  requirements:
-    -
-      category: fleet
-      amount: 4
-      ship_id: [80, 81, 26, 27]
   wiki_id: A42
   chinese_title: 主力战舰部队「第二战队」编成！
   chinese_detail: 以长门型2艘和扶桑型2艘总计4艘主力战舰编成第二战队！

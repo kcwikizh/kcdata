@@ -17,15 +17,6 @@ data:
       id: 70
       amount: 1
   prerequisite: [264, 624]
-  requirements:
-    -
-      category: flagship
-      ship_id: 112
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [112, 116, 108, 109]
   wiki_id: A59
   chinese_title: “第三航空战队”编成！
   chinese_detail: 以瑞鹤改为旗舰，瑞凤、千岁、千代田四只航母组成编队!

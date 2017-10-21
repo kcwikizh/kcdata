@@ -13,10 +13,6 @@ data:
       id: 1
       amount: 1
   prerequisite: [203]
-  requirements:
-    -
-      category: supply
-      times: 1
   wiki_id: E1
   chinese_title: 初次的「补给」！
   chinese_detail: 补给非常重要!向舰艇「补给」燃料，弹药！

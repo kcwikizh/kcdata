@@ -17,20 +17,6 @@ data:
       id: 4
       amount: 3
   prerequisite: [307]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 51
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 427
-    -
-      category: fleet
-      amount: 5
-      ship_id: [51, 59, 60, 61, 115, 123]
   wiki_id: B41
   chinese_title: 新编「三川舰队」前往所罗门方面！
   chinese_detail: 派出在第一舰队编成的「三川舰队」向5-1推进，消灭此方面的敌人！

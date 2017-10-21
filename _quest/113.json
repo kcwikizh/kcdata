@@ -13,17 +13,6 @@ data:
       id: 2
       amount: 2
   prerequisite: [107]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 1
-      ship_type: [8, 9]
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: 5
   wiki_id: A13
   chinese_title: 使用战舰和重巡编成主力舰队！
   chinese_detail: 以战舰1艘以上，重巡2艘以上作为主力编成水上打击舰队！

@@ -13,10 +13,6 @@ data:
       id: 3
       amount: 1
   prerequisite: []
-  requirements:
-    -
-      category: practice
-      times: 1
   wiki_id: C1
   chinese_title: 初次的「演习」！
   chinese_detail: 与其他提督（玩家）进行「演习」！

@@ -16,22 +16,7 @@ data:
       category: useitem
       id: 52
       amount: 1
-  prerequisite: []
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 13
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_type: 7
-    -
-      category: fleet
-      amount:
-        gte: 3
-      ship_type: 2
+  prerequisite: [209]
   wiki_id: B76
   chinese_title: 制油所地带沿岸的警戒的实施！
   chinese_detail: 编成以轻空母为旗舰和三艘驱逐舰为基干的护卫舰队，在制油所地带沿岸展开，实施对这一海域的哨戒，确保这一海域的安全！

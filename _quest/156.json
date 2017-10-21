@@ -17,14 +17,6 @@ data:
       id: 11
       amount: 1
   prerequisite: [201, 240]
-  requirements:
-    -
-      category: flagship
-      ship_id: 114
-    -
-      category: fleet
-      amount: 6
-      ship_id: [114, 35, 41, 40, 46, 50]
   wiki_id: A54
   chinese_title: 「第一水雷战队」北方突入准备！
   chinese_detail: 以「阿武隈」为旗舰，「响」「初霜」「若叶」「五月雨」「岛风」编成一水战！

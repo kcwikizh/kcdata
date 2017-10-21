@@ -13,10 +13,6 @@ data:
       id: 75
       amount: 1
   prerequisite: [228]
-  requirements:
-    -
-      category: scrap
-      times: 24
   wiki_id: F12
   chinese_title: 资源的再利用
   chinese_detail: 在「工厂」尽可能多地「废弃」多余装备，努力使钢材再利用！

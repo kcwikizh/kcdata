@@ -17,26 +17,6 @@ data:
       id: 59
       amount: 1
   prerequisite: [173]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 41
-      boss: true
-      result: A
-    -
-      category: flagship
-      ship_id: 158
-    -
-      category: fleet
-      amount:
-        gte: 5
-      ship_id: [158, 469, 145]
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_type: 2
   wiki_id: B68
   chinese_title: 强行高速运输部队、出击！
   chinese_detail: 江风改二、时雨改二、川内改二和包含其他两艘驱逐舰的舰队实施爪姆岛攻略作战！

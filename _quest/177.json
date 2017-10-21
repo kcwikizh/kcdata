@@ -17,12 +17,6 @@ data:
       id: 66
       amount: 1
   prerequisite: [201, 240]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [12, 486, 13, 14]
   wiki_id: A72
   chinese_title: “第十九驱逐队”编成！
   chinese_detail: 以四支特型驱逐舰「矶波」「浦波」「绫波」「敷波」编成第十九驱逐队！

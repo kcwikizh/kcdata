@@ -13,18 +13,6 @@ data:
       id: 52
       amount: 1
   prerequisite: [205]
-  requirements:
-    -
-      category: sortie
-      times: 1
-    -
-      category: flagship
-      ship_type: 3
-    -
-      category: fleet
-      amount:
-        gte: 3
-      ship_type: 2
   wiki_id: B6
   chinese_title: 「水雷战队」出击！
   chinese_detail: 派出以轻巡洋舰1艘为旗舰，复数驱逐舰组成的水雷战队出击！

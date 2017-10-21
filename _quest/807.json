@@ -16,21 +16,7 @@ data:
       category: useitem
       id: 62
       amount: 1
-  prerequisite: [171]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 16
-      event: 8
-    -
-      category: flagship
-      ship_id: 141
-    -
-      category: fleet
-      amount:
-        gte: 3
-      ship_id: [141, 418, 309]
+  prerequisite: [171, 201]
   wiki_id: B60
   chinese_title: 第三十一战队出击！
   chinese_detail: 第三十一战队（第一次）1-6出击，确保同航路的安全！

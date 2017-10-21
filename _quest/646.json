@@ -12,24 +12,7 @@ data:
       category: useitem
       id: 52
       amount: 1
-  prerequisite: [296, 302]
-  requirements:
-    -
-      category: scrap
-      amount: 1
-      slotitem_id: 49
-    -
-      category: useitem
-      amount: 5000
-      useitem_id: 44
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 30
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 40
+  prerequisite: [110, 302, 604]
   wiki_id: F42
   chinese_title: “特注家具”的调拨
   chinese_detail: 废弃25mm单装机铳一个，并准备家具币5000、以及25mm连装机铳和25mm三连装机铳各两个！ ※在任务达成后，准备的资源和装备将被消耗（改修值低的装备将优先被消耗）。

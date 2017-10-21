@@ -12,15 +12,7 @@ data:
       category: slotitem
       id: 152
       amount: 1
-  prerequisite: [164, 626]
-  requirements:
-    -
-      category: scrap
-      amount: 2
-      slotitem_id: 21
-    -
-      category: flagship
-      slotitem_id: 96
+  prerequisite: [626]
   wiki_id: F24
   chinese_title: 机种转换
   chinese_detail: 以搭载“零战21型（熟练）“的航母为秘书舰时废弃“零战52型”x2”!

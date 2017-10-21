@@ -17,12 +17,6 @@ data:
       id: 3
       amount: 2
   prerequisite: [111]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_id: [77, 87]
   wiki_id: A18
   chinese_title: 「伊勢」型战舰姐妹全部2舰编成！
   chinese_detail: 将伊势型战舰「伊勢」「日向」配属在同一舰队！

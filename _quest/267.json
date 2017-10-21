@@ -13,18 +13,6 @@ data:
       id: 54
       amount: 1
   prerequisite: [149]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 23
-      boss: true
-      result: B
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [9, 10, 32, 33]
   wiki_id: B35
   chinese_title: 「第十一驱逐队」出击！
   chinese_detail: 派出包含「第十一驱逐队」的舰队出击，消灭2-3的敌人！

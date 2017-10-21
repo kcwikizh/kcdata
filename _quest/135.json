@@ -13,13 +13,6 @@ data:
       id: 50
       amount: 1
   prerequisite: [245]
-  requirements:
-    -
-      category: flagship
-      level: [100, 999]
-    -
-      category: fleet
-      amount: 6
   wiki_id: WA02
   chinese_title: 新的旅程！
   chinese_detail: 在第一舰队旗舰配备结下了强力羁绊(Lv.100以上)的舰娘编成6艘组成的舰队。

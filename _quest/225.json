@@ -17,18 +17,6 @@ data:
       id: 11
       amount: 1
   prerequisite: [123]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 31
-      boss: true
-      result: B
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_id: [110, 111]
   wiki_id: B15
   chinese_title: 「第五航空战队」出击！
   chinese_detail: 派出由「翔鹤」「瑞鹤」组成的第五航空战队，消灭北方海域3-1的敌人！

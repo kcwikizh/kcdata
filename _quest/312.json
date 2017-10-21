@@ -16,13 +16,7 @@ data:
       category: slotitem
       id: 145
       amount: 1
-  prerequisite: [216, 635]
-  requirements:
-    -
-      category: practice
-      times: 4
-      result: B
-      daily: true
+  prerequisite: [216, 613, 635]
   wiki_id: C9
   chinese_title: 登陆部队演习
   chinese_detail: 对于岛屿攻略部队练度的提高、本日中演习达成4次以上胜利！

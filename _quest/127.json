@@ -13,12 +13,6 @@ data:
       id: 54
       amount: 1
   prerequisite: [121]
-  requirements:
-    -
-      category: fleet
-      ship_type: [13, 14]
-      amount:
-        gte: 3
   wiki_id: A27
   chinese_title: 中规模潜水舰队编成！
   chinese_detail: 以3艘以上伊号潜水艇编成潜水舰队！

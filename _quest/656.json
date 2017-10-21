@@ -13,11 +13,6 @@ data:
       id: 208
       amount: 1
   prerequisite: [828, 846]
-  requirements:
-    -
-      category: flagship
-      ship_id: [155, 295, 294]
-      slotitem_id: [62, 207]
   wiki_id: F50
   chinese_title: 编成六三一“晴岚”航空队
   chinese_detail: 将伊401或伊14或伊13配置为秘书舰，在其第一格搭载试制晴岚，第二格搭载瑞云(六三一空)，以编成晴岚(六三一空)！ ※任务完成后瑞云将被消耗。

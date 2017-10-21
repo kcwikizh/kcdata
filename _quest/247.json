@@ -17,18 +17,6 @@ data:
       id: 12
       amount: 1
   prerequisite: [412]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 44
-      boss: true
-      result: B
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: 10
   wiki_id: B23
   chinese_title: 「航空战舰」起锚！
   chinese_detail: 派出以2艘航空战舰为基干的舰队出击，击破西方海域4-4的敌方势力！

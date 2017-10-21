@@ -13,26 +13,6 @@ data:
       id: 54
       amount: 1
   prerequisite: [138]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 52
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 196
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [196, 90]
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: 2
   wiki_id: B25
   chinese_title: 新编「第二航空战队」出击！
   chinese_detail: 派出以新编「二航战」为基干的舰队，在5-2出击，消灭敌方机动部队！

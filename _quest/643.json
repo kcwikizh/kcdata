@@ -17,19 +17,6 @@ data:
       id: 169
       amount: 1
   prerequisite: [410, 642]
-  requirements:
-    -
-      category: scrap
-      amount: 2
-      slotitem_id: 20
-    -
-      category: possess
-      amount: 1
-      slotitem_id: 168
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 16
   wiki_id: F39
   chinese_title: 主力“陆攻”的采购
   chinese_detail: 新采购主力陆上攻击机“一式陆攻”。于工厂废弃零式舰战21型 两个，另准备九六式陆攻一个、九七式舰攻两个！（任务达成后装备消失）

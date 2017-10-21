@@ -17,13 +17,6 @@ data:
       id: 59
       amount: 1
   prerequisite: [255]
-  requirements:
-    -
-      category: sortie
-      times: 3
-      map: 61
-      boss: true
-      result: S
   wiki_id: Bm2
   chinese_title: 「潜水舰队」出击！
   chinese_detail: 派出以潜水舰战力为核心的舰队在6-1反复出击，削弱敌方战力！

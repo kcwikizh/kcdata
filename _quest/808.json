@@ -13,21 +13,6 @@ data:
       id: 277
       amount: 1
   prerequisite: [172]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 23
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 242
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [242, 43, 405, 46]
   wiki_id: B61
   chinese_title: 第二十七驱逐队出击！
   chinese_detail: 第二十七驱逐队出击2-3

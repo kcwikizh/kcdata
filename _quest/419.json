@@ -17,11 +17,6 @@ data:
       id: 63
       amount: 1
   prerequisite: [308]
-  requirements:
-    -
-      category: expedition
-      times: 1
-      expedition_id: 8
   wiki_id: D18
   chinese_title: 毅然举行观舰式！
   chinese_detail: 以高练度的舰队实施真正的观舰式。成功实施「观舰式」！

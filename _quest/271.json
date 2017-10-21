@@ -17,20 +17,6 @@ data:
       id: 12
       amount: 1
   prerequisite: [249, 269]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 22
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 63
-    -
-      category: fleet
-      amount: 6
-      ship_id: [63, 41, 49, 16, 15]
   wiki_id: B38
   chinese_title: 「那智战队」起锚
   chinese_detail: 派出旗舰「那智」和「初霜」「霞」「潮」「曙」和其他1艘舰艇组成的舰队歼灭2-2的敌人！

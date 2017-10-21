@@ -17,11 +17,6 @@ data:
       id: 3
       amount: 4
   prerequisite: [113]
-  requirements:
-    -
-      category: fleet
-      amount: 4
-      ship_id: [83, 84, 91, 90]
   wiki_id: A19
   chinese_title: 「南云机动部队」编成！
   chinese_detail: 将一航战「赤城」「加贺」二航战「飞龙」「苍龙」编成第一机动部队！

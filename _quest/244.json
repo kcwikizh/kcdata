@@ -13,18 +13,6 @@ data:
       id: 54
       amount: 1
   prerequisite: [133]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 32
-      boss: true
-      result: C
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [1, 2, 164, 31]
   wiki_id: B22
   chinese_title: 「第三十驱逐队（第一次）」出击！
   chinese_detail: 派出包含「第三十驱逐队(第一次)」的舰队出击，与3-2的敌人交战！

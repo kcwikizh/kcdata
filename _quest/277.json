@@ -17,18 +17,6 @@ data:
       id: 46
       amount: 1
   prerequisite: [155, 274]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 15
-      boss: true
-      result: B
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [34, 35, 36, 37]
   wiki_id: B45
   chinese_title: 「第六驱逐队」进行彻底的对潜警戒NaNoDeSu！
   chinese_detail: 包含「第六驱逐队」的舰队在1-5实施对潜警戒，痛打敌潜水舰部队！

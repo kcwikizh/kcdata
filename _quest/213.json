@@ -13,11 +13,6 @@ data:
       id: 3
       amount: 3
   prerequisite: [216]
-  requirements:
-    -
-      category: sink
-      amount: 20
-      ship_type: 15
   wiki_id: Bw3
   chinese_title: 海上通商破坏作战
   chinese_detail: 一周内击沉敌方20艘以上输送船！

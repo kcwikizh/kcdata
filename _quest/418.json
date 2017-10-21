@@ -13,11 +13,6 @@ data:
       id: 3
       amount: 3
   prerequisite: [137]
-  requirements:
-    -
-      category: expedition
-      times: 2
-      expedition_id: 7
   wiki_id: D17
   chinese_title: 实施观舰式预演！
   chinese_detail: 在观舰式实施之前。实施多次作为预演的「观舰式予行」，成功两次！

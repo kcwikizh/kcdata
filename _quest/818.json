@@ -17,25 +17,6 @@ data:
       id: 52
       amount: 1
   prerequisite: [817]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 16
-      event: 8
-    -
-      category: flagship
-      ship_type: [3, 21]
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_type: 2
-    -
-      category: sink
-      amount:
-        gte: 3
-      ship_type: 3
   wiki_id: B71
   chinese_title: 镇守府近海航路的安全确保强化！
   chinese_detail: 新编水雷战队出击镇守府近海航路，确保航路安全！

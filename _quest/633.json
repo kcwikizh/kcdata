@@ -13,16 +13,6 @@ data:
       id: 157
       amount: 1
   prerequisite: [167]
-  requirements:
-    -
-      category: scrap
-      amount: 2
-      slotitem_id: 54
-    -
-      category: flagship
-      ship_id: 111
-      slotitem_id: 156
-      slotitem_skill: 7
   wiki_id: F30
   chinese_title: 机种转换＆部队再编
   chinese_detail: 以搭载“零战52型甲(付岩本小队)”熟练度max的瑞鹤为秘书舰时废弃“彩云”x2”!

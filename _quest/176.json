@@ -16,13 +16,7 @@ data:
       category: useitem
       id: 59
       amount: 1
-  prerequisite: [175, 819]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_id: [468, 199]
+  prerequisite: [819]
   wiki_id: A71
   chinese_title: 精锐！八驱第一小队！
   chinese_detail: 编成包含「朝潮改二丁」及「大潮改二」的舰队！

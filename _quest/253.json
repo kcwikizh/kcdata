@@ -17,18 +17,6 @@ data:
       id: 108
       amount: 1
   prerequisite: [143]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 52
-      boss: true
-      result: S
-    -
-      category: fleet
-      amount:
-        gte: 1
-      ship_id: 406
   wiki_id: B28
   chinese_title: 「第六〇一航空队」出击！
   chinese_detail: 派出包含云龙型航空母舰「云龙改」的机动部队，向5-2出击，消灭敌方机动部队！

@@ -17,26 +17,6 @@ data:
       id: 40
       amount: 1
   prerequisite: [416]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 23
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 271
-    -
-      category: fleet
-      amount:
-        gte: 1
-      ship_type: 3
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: 2
   wiki_id: B40
   chinese_title: 「改装防空重巡」出击！
   chinese_detail: 派出包含摩耶改或摩耶改二和轻巡1艘驱逐2艘组成的舰队消灭2-3的敌人！

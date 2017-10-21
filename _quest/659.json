@@ -12,25 +12,7 @@ data:
       category: slotitem
       id: 216
       amount: 1
-  prerequisite: [270, 607, 839]
-  requirements:
-    -
-      category: flagship
-      slotitem_id: 165
-      slotitem_skill: 7
-      slotitem_level: 10
-    -
-      category: useitem
-      amount: 1
-      useitem_id: 70
-    -
-      category: scrap
-      amount: 2
-      slotitem_id: 20
-    -
-      category: scrap
-      amount: 2
-      slotitem_id: 26
+  prerequisite: [607, 839]
   wiki_id: F51
   chinese_title: 精锐“水战”队的新编成
   chinese_detail: 精锐飞行队的新编成：在秘书舰第一格装备练度max且改修max的二式水战改，并废弃零式舰战21型x2与瑞云x2！　※新飞行队编成中需要熟练搭乘员。

@@ -13,16 +13,6 @@ data:
       id: 156
       amount: 1
   prerequisite: [625, 630]
-  requirements:
-    -
-      category: scrap
-      amount: 2
-      slotitem_id: 21
-    -
-      category: flagship
-      ship_id: 111
-      slotitem_id: 155
-      slotitem_skill: 7
   wiki_id: F29
   chinese_title: 机种转换
   chinese_detail: 以搭载“零战21型(付岩本小队)”的瑞鹤为秘书舰时废弃“零战52型””!

@@ -17,16 +17,6 @@ data:
       id: 66
       amount: 1
   prerequisite: [806, 812]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 35
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 199
   wiki_id: B66
   chinese_title: 旗舰“大潮”出击！
   chinese_detail: 派遣大潮改二作为旗舰的强大舰队与北方AL海域展开作战、在北方海域实施战斗巡逻！

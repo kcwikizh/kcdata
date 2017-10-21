@@ -17,14 +17,6 @@ data:
       id: 50
       amount: 1
   prerequisite: [165, 266]
-  requirements:
-    -
-      category: flagship
-      ship_id: 112
-    -
-      category: fleet
-      amount: 6
-      ship_id: [112, 117, 108, 109, 82, 88]
   wiki_id: A61
   chinese_title: “小沢舰队”编成！
   chinese_detail: 以瑞鹤改为旗舰、航母瑞凤改、千岁、千代田以及伊势改、日向改编成舰队!

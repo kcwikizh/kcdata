@@ -12,15 +12,7 @@ data:
       category: useitem
       id: 1
       amount: 3
-  prerequisite: [296]
-  requirements:
-    -
-      category: flagship
-      ship_id: 49
-    -
-      category: fleet
-      amount: 6
-      ship_id: [49, 64, 183, 425, 410]
+  prerequisite: [148, 296]
   wiki_id: A65
   chinese_title: 精锐“水上反击部队”再编成！
   chinese_detail: 以霞为旗舰，足柄、大淀、朝霜、清霜和其他舰只再次编成水上反击部队!

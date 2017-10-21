@@ -17,22 +17,6 @@ data:
       id: 3
       amount: 2
   prerequisite: [123]
-  requirements:
-    -
-      category: flagship
-      ship_id: 49
-    -
-      category: fleet
-      amount: 6
-      ship_id: [49, 64]
-    -
-      category: fleet
-      amount: 1
-      ship_type: 3
-    -
-      category: fleet
-      amount: 4
-      ship_type: 2
   wiki_id: A46
   chinese_title: 轻快的「水上反击部队」编成！
   chinese_detail: 以驱逐舰「霞」为旗舰加上重巡「足柄」和轻巡1艘，驱逐3艘（共计4艘驱逐）编成水上挺身部队！

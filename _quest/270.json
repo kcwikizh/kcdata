@@ -17,23 +17,6 @@ data:
       id: 59
       amount: 1
   prerequisite: [151]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 14
-      boss: true
-      result: S
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [28, 29, 6]
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_type: 2
   wiki_id: B39
   chinese_title: 「第二二驱逐队」出击！
   chinese_detail: 派出包含「第二二驱逐队」的舰队向着1-4出击，消灭敌方之力舰队！

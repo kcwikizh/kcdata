@@ -17,18 +17,6 @@ data:
       id: 11
       amount: 1
   prerequisite: [131]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 23
-      boss: true
-      result: B
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [95, 97, 96, 98]
   wiki_id: B20
   chinese_title: 「第八驱逐队」出击！
   chinese_detail: 派出包含「第八驱逐队」的舰队出击，消灭2-3的敌人！

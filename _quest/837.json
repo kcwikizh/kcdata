@@ -17,26 +17,6 @@ data:
       id: 67
       amount: 1
   prerequisite: [827, 836]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 22
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 487
-    -
-      category: fleet
-      amount:
-        gte: 5
-      ship_id: [487, 368]
-    -
-      category: fleet
-      amount:
-        lt: 5
-      ship_type: 2
   wiki_id: B86
   chinese_title: 顺利执行输送作战，并返航！
   chinese_detail: 以“鬼怒改二”为旗舰，“浦波改”为僚舰，加上其他驱逐舰三支，组成合计五支的舰队。出击2-2实施柳输送作战，确保输送作战的完全成功，并返航！

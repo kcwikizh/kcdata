@@ -17,10 +17,6 @@ data:
       id: 3
       amount: 1
   prerequisite: [605]
-  requirements:
-    -
-      category: construction
-      times: 1
   wiki_id: F6
   chinese_title: 新造舰「建造」指令
   chinese_detail: 今天在「工厂」「建造」新舰娘！

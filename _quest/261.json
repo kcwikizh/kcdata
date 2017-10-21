@@ -13,13 +13,6 @@ data:
       id: 4
       amount: 3
   prerequisite: [146, 221]
-  requirements:
-    -
-      category: sortie
-      times: 3
-      map: 15
-      boss: true
-      result: A
   wiki_id: Bw10
   chinese_title: 努力确保海上输送的安全！
   chinese_detail: 反复在1-5实施反潜巡逻，确保安全的海上输送线！

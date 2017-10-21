@@ -13,23 +13,6 @@ data:
       id: 71
       amount: 1
   prerequisite: [423, 649]
-  requirements:
-    -
-      category: scrap
-      amount: 3
-      slotitem_id: 21
-    -
-      category: useitem
-      amount: 8000
-      useitem_id: 33
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 18
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 22
   wiki_id: F47
   chinese_title: 增产ne式引擎
   chinese_detail: 为生产喷气飞机，我们需要增产ne式引擎。在工厂废弃三个「零式舰战52型」，并且准备流星烈风各两架和8000钢。（任务达成后 会消费掉必要的装备）

@@ -13,14 +13,6 @@ data:
       id: 1
       amount: 2
   prerequisite: [136, 227]
-  requirements:
-    -
-      category: flagship
-      ship_id: 427
-    -
-      category: fleet
-      amount: 6
-      ship_id: [427, 51, 59, 60, 61, 115, 123]
   wiki_id: A50
   chinese_title: 「三川舰队」新编成，突入准备！
   chinese_detail: 在第一舰队，以「鸟海改二」为旗舰编成三川舰队！

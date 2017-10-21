@@ -17,20 +17,6 @@ data:
       id: 3
       amount: 2
   prerequisite: [250]
-  requirements:
-    -
-      category: flagship
-      ship_id: 197
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [197, 196]
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: 2
   wiki_id: A39
   chinese_title: 再编成 强化「第二航空战队」！
   chinese_detail: 以「苍龙改二」(※旗舰)和「飞龙改二」为基干编成二航战（需要驱逐舰2艘）！

@@ -13,16 +13,6 @@ data:
       id: 153
       amount: 1
   prerequisite: [293, 624, 627]
-  requirements:
-    -
-      category: scrap
-      amount: 1
-      slotitem_id: 109
-    -
-      category: flagship
-      ship_id: 111
-      slotitem_id: 152
-      slotitem_skill: 7
   wiki_id: F26
   chinese_title: “舰战”队再编成
   chinese_detail: 以搭载“零战52型（熟练）”熟练度max的瑞鹤为秘书舰时废弃“零战52型丙(六〇一空)”!

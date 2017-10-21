@@ -13,14 +13,6 @@ data:
       id: 1
       amount: 1
   prerequisite: [120, 213]
-  requirements:
-    -
-      category: sortie
-      times: 1
-    -
-      category: fleet
-      amount: 4
-      ship_id: [34, 35, 36, 37]
   wiki_id: B12
   chinese_title: 「第六驱逐队」出击！
   chinese_detail: 派出由「晓」「响」「雷」「电」组成的第六驱逐队出击！

@@ -17,18 +17,6 @@ data:
       id: 57
       amount: 1
   prerequisite: [147]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 51
-      boss: true
-      result: S
-    -
-      category: fleet
-      amount:
-        gte: 5
-      ship_id: [26, 27, 70, 43, 97]
   wiki_id: B33
   chinese_title: 「西村舰队」推进至南方海域！
   chinese_detail: 派出以「西村舰队」向5-1推进，向着敌方主力舰队突入，并消灭！

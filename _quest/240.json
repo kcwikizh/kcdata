@@ -17,18 +17,6 @@ data:
       id: 12
       amount: 1
   prerequisite: [132]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 31
-      boss: true
-      result: B
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [49, 48, 17, 18]
   wiki_id: B21
   chinese_title: 「第十八驱逐队」出击！
   chinese_detail: 派出包含「第十八驱逐队」的舰队出击，消灭3-1的敌人！

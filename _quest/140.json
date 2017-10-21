@@ -13,10 +13,6 @@ data:
       id: 88
       amount: 1
   prerequisite: [137]
-  requirements:
-    -
-      category: flagship
-      ship_id: 319
   wiki_id: A38
   chinese_title: 配备新型雷达
   chinese_detail: 为了新型电探的运用试验，在第一舰队旗舰配置「妙高改二」！

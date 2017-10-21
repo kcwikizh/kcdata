@@ -17,24 +17,7 @@ data:
       id: 71
       amount: 1
   prerequisite: [422, 839]
-  requirements:
-    -
-      category: expedition
-      times: 1
-      expedition_id: 30
-    -
-      category: expedition
-      times: 1
-      expedition_id: 31
-    -
-      category: useitem
-      amount: 5000
-      useitem_id: 33
-    -
-      category: useitem
-      amount: 1500
-      useitem_id: 34
   wiki_id: D21
   chinese_title: 通过潜水艇派遣作战获得喷气式技术
-  chinese_detail: 准备5000钢材及1500铝土，通过「潜水艇派遣作战」努力引入喷气式引擎技术！※任务完成后，准备好的资材会被消耗掉。
+  chinese_detail: 准备5000钢材及1500铝土，通过「潜水艇派遣作战」努力引入喷气式引擎技术！ ※任务完成后，准备好的资材会被消耗掉。
 ---

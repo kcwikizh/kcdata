@@ -17,20 +17,6 @@ data:
       id: 47
       amount: 1
   prerequisite: [171, 228]
-  requirements:
-    -
-      category: sortie
-      times: 2
-      map: 16
-      event: 8
-    -
-      category: flagship
-      ship_id: 141
-    -
-      category: fleet
-      amount:
-        gte: 3
-      ship_id: [141, 418, 309]
   wiki_id: B72
   chinese_title: 「第三十一战队」对敌潜艇压制！
   chinese_detail: 第三十一战队(第一次)镇守府近海航路反复出击，压制敌潜艇！

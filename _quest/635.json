@@ -13,10 +13,6 @@ data:
       id: 11
       amount: 1
   prerequisite: [113, 220]
-  requirements:
-    -
-      category: scrap
-      amount: 5
   wiki_id: F32
   chinese_title: 新装备的准备
   chinese_detail: 工厂中废弃5件装备、为新装备的配备做准备。

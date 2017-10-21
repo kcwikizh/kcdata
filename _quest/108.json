@@ -13,12 +13,6 @@ data:
       id: 2
       amount: 2
   prerequisite: [105]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_id: [51, 52]
   wiki_id: A8
   chinese_title: 「天龙」型轻巡姐妹全部2舰编成！
   chinese_detail: 将天龙型轻巡洋舰「天龙」「龙田」配备在同一舰队！

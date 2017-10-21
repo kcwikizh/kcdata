@@ -17,11 +17,6 @@ data:
       id: 4
       amount: 1
   prerequisite: [410]
-  requirements:
-    -
-      category: expedition
-      times: 6
-      expedition_id: [37, 38]
   wiki_id: D11
   chinese_title: 继续实施往南方的鼠輸送!
   chinese_detail: 本周继续实行「东京急行」系远征，成功实行7次此作战！

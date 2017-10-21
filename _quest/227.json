@@ -13,17 +13,6 @@ data:
       id: 50
       amount: 1
   prerequisite: [124]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 23
-      boss: true
-      result: B
-    -
-      category: fleet
-      amount: 6
-      ship_id: [69, 61, 123, 60, 59, 51]
   wiki_id: B16
   chinese_title: 新「三川舰队」出击！
   chinese_detail: 派出完全编成的「三川舰队」，消灭2-3的敌人！

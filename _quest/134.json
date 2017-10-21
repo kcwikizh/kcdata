@@ -13,10 +13,6 @@ data:
       id: 12
       amount: 1
   prerequisite: [306]
-  requirements:
-    -
-      category: flagship
-      level: [90, 99]
   wiki_id: WA01
   chinese_title: 仪式的准备！(三)
   chinese_detail: 在第一舰队旗舰配备高练度(Lv.90～99)的舰娘调整心情！

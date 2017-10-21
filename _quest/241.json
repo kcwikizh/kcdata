@@ -17,13 +17,6 @@ data:
       id: 4
       amount: 3
   prerequisite: [228]
-  requirements:
-    -
-      category: sortie
-      times: 5
-      map: [33, 34, 35]
-      boss: true
-      result: B
   wiki_id: Bw7
   chinese_title: 消灭敌北方舰队主力！
   chinese_detail: 向北方海域深处出击，捕捉敌人北方舰队的主力，消灭他们！

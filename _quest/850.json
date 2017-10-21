@@ -17,28 +17,6 @@ data:
       id: 70
       amount: 1
   prerequisite: [846, 849]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 35
-      boss: true
-      result: S
-    -
-      category: sortie
-      times: 1
-      map: 44
-      boss: true
-      result: S
-    -
-      category: sortie
-      times: 1
-      map: 62
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_type: [7, 11, 16, 18]
   wiki_id: B94
   chinese_title: 扩充洋上航空战力！
   chinese_detail: 编成以航空母舰或水上机母舰为旗舰的强力舰队，出击3-5、4-4，6-2，摧毁各海域的敌舰队！

@@ -17,26 +17,6 @@ data:
       id: 66
       amount: 1
   prerequisite: [216]
-  requirements:
-    -
-      category: sortie
-      times: 3
-      map: 13
-      boss: true
-      result: S
-    -
-      category: fleet
-      amount: 1
-      ship_type: 3
-    -
-      category: fleet
-      amount:
-        gte: 0
-      ship_type: 2
-    -
-      category: fleet
-      amount: 0
-      not_ship_type: [2, 3]
   wiki_id: B63
   chinese_title: 制油所地带防卫作战！
   chinese_detail: 水雷战队于制油所沿岸地带展开！歼灭同海域出没的敌舰队三次以上！

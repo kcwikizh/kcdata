@@ -13,10 +13,6 @@ data:
       id: 3
       amount: 1
   prerequisite: [118]
-  requirements:
-    -
-      category: scrap
-      times: 2
   wiki_id: WF01
   chinese_title: 仪式的准备！(一)
   chinese_detail: 仪式的准备！在「工厂」「废弃」2次装备整理身边！

@@ -17,17 +17,6 @@ data:
       id: 70
       amount: 1
   prerequisite: [638]
-  requirements:
-    -
-      category: flagship
-      ship_id: 89
-      slotitem_id: 20
-      slotitem_skill: 7
-      slotitem_level: 10
-    -
-      category: useitem
-      amount: 2
-      useitem_id: 57
   wiki_id: F35
   chinese_title: 「熟练搭乘员」养成
   chinese_detail: 消费勋章x2：以「凤翔」为秘书舰搭载一架练度max及改修max的「九六式舰战」，养成熟练搭乘员！（任务完成后，部队将会被消去）

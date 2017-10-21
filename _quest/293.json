@@ -17,21 +17,6 @@ data:
       id: 59
       amount: 1
   prerequisite: [164]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 14
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 112
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [112, 116, 108, 109]
   wiki_id: B53
   chinese_title: “第三航空战队”西南诸岛防卫战线出击！
   chinese_detail: “第三航空战队”出击1-4，迎击敌方入侵部队!

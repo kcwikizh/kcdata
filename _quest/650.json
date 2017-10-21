@@ -16,20 +16,7 @@ data:
       category: slotitem
       id: 200
       amount: 1
-  prerequisite: [304, 649]
-  requirements:
-    -
-      category: scrap
-      amount: 3
-      slotitem_id: 55
-    -
-      category: useitem
-      amount: 2
-      useitem_id: 74
-    -
-      category: useitem
-      amount: 1
-      useitem_id: 71
+  prerequisite: [304, 423]
   wiki_id: F46
   chinese_title: 喷气式歼击轰炸机的开发
   chinese_detail: 进行装备有NE式引擎的新型歼击轰炸机的开发。在「工厂」中废弃3架「紫电改二」，准备好2张「新型航空机设计图」和1个「NE式引擎」！（任务完成后，准备好的必要道具会被消耗掉。）

@@ -13,13 +13,6 @@ data:
       id: 1
       amount: 3
   prerequisite: [113]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 5
-      ship_id: [69, 61, 60, 59, 51]
-      speed: 10
   wiki_id: A20
   chinese_title: 「三川舰队」编成！
   chinese_detail: 编成包含「鸟海」「青叶」「加古」「古鹰」「天龙」在内的高速舰队

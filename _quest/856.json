@@ -17,26 +17,6 @@ data:
       id: 204
       amount: 1
   prerequisite: [180, 855]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 45
-      boss: true
-      result: S
-    -
-      category: sortie
-      times: 1
-      map: 55
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 541
-    -
-      category: fleet
-      ship_id: 276
-      no: 2
   wiki_id: B99
   chinese_title: 新编「第一战队」，拔锚出击！
   chinese_detail: 新编「第一战队」出击任务：配备以战舰「长门改二」为旗舰、以「陆奥改」为二号舰的第一舰队来进行出击！前往咖喱洋里兰卡岛海域(4-5)和沙门海域北方(5-5)，捕捉本海域的敌方舰队主力，并歼灭她们！

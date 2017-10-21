@@ -13,10 +13,6 @@ data:
       id: 3
       amount: 1
   prerequisite: [601]
-  requirements:
-    -
-      category: development
-      times: 1
   wiki_id: F2
   chinese_title: 初次的「开发」！
   chinese_detail: 在「工厂」使用航空铝等资源「开发」新装备

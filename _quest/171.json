@@ -17,15 +17,6 @@ data:
       id: 59
       amount: 1
   prerequisite: [216, 295]
-  requirements:
-    -
-      category: flagship
-      ship_id: 141
-    -
-      category: fleet
-      amount:
-        gte: 3
-      ship_id: [141, 418, 309]
   wiki_id: A66
   chinese_title: 第三十一战队（第一次）编成！
   chinese_detail: 以五十铃改二为旗舰，包含皋月改二、卯月改的对潜机动水上部队编成！

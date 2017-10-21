@@ -13,14 +13,6 @@ data:
       id: 100
       amount: 1
   prerequisite: [250]
-  requirements:
-    -
-      category: scrap
-      amount: 2
-      slotitem_id: 24
-    -
-      category: flagship
-      slotitem_id: 99
   wiki_id: F14
   chinese_title: 机种转换
   chinese_detail: 以搭载了「九九式舰爆(江草队)」的空母作为秘书舰的状态废弃两架「彗星」！

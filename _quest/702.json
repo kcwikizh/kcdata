@@ -13,10 +13,6 @@ data:
       id: 1
       amount: 1
   prerequisite: [701]
-  requirements:
-    -
-      category: modernize
-      times: 2
   wiki_id: G2
   chinese_title: 实施舰船的「近代化改修」！
   chinese_detail: 成功实施2次以上近代化改修！

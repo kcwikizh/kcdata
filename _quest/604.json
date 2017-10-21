@@ -17,10 +17,6 @@ data:
       id: 3
       amount: 1
   prerequisite: [603]
-  requirements:
-    -
-      category: scrap
-      times: 1
   wiki_id: F4
   chinese_title: 初次的「废弃」！
   chinese_detail: 在「工厂」「废弃」不要的装备！

@@ -12,10 +12,6 @@ data:
       category: other
       item: 第2艦隊開放
   prerequisite: [103]
-  requirements:
-    -
-      category: fleet
-      amount: 6
   wiki_id: A4
   chinese_title: 编成6艘规模的舰队！
   chinese_detail: 编成全部6艘规模的主力舰队

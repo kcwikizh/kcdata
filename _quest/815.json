@@ -17,21 +17,6 @@ data:
       id: 70
       amount: 1
   prerequisite: [636, 814]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 45
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 83
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_id: [83, 84]
   wiki_id: B69
   chinese_title: “第一航空战队”向西前行！
   chinese_detail: 赤城为旗舰、同僚舰加贺为核心的舰队、贯彻深海东方舰队的削弱作战！

@@ -13,15 +13,6 @@ data:
       id: 3
       amount: 3
   prerequisite: [127]
-  requirements:
-    -
-      category: flagship
-      ship_type: 20
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_type: [13, 14]
   wiki_id: A37
   chinese_title: 潜水舰队「第六舰队」编成！
   chinese_detail: 以「潜水母舰」和复数潜水艇(4艘以上)编成潜水舰队「第六舰队」！

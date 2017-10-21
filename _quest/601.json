@@ -13,10 +13,6 @@ data:
       id: 3
       amount: 1
   prerequisite: []
-  requirements:
-    -
-      category: construction
-      times: 1
   wiki_id: F1
   chinese_title: 初次的「建造」！
   chinese_detail: 在「工厂」使用钢材等资源「建造」新舰艇！

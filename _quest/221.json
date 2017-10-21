@@ -13,11 +13,6 @@ data:
       id: 1
       amount: 3
   prerequisite: [214]
-  requirements:
-    -
-      category: sink
-      amount: 50
-      ship_type: 15
   wiki_id: Bw4
   chinese_title: ろ号作战
   chinese_detail: 一周内全力出击，捕捉，消灭敌方输送船团，切断敌人的补给线！

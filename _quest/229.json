@@ -13,13 +13,6 @@ data:
       id: 3
       amount: 2
   prerequisite: [228]
-  requirements:
-    -
-      category: sortie
-      times: 12
-      area: 4
-      boss: true
-      result: B
   wiki_id: Bw6
   chinese_title: 消灭敌东方舰队！
   chinese_detail: 向西方海域出击，捕捉敌方东方舰队主力，消灭他们！

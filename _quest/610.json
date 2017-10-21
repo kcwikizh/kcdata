@@ -12,10 +12,6 @@ data:
       category: other
       item: 大型艦建造開放
   prerequisite: [704]
-  requirements:
-    -
-      category: scrap
-      times: 4
   wiki_id: F10
   chinese_title: 「大型舰建造」的准备！(二)
   chinese_detail: 准备大型舰建造！请在「工厂」尝试「废弃」4次装备！

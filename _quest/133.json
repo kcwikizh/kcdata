@@ -17,11 +17,6 @@ data:
       id: 50
       amount: 1
   prerequisite: [131]
-  requirements:
-    -
-      category: fleet
-      amount: 4
-      ship_id: [1, 2, 164, 31]
   wiki_id: A33
   chinese_title: 「第三十驱逐队(第一次)」编成！
   chinese_detail: 以「睦月」「如月」「弥生」「望月」4艘编成第三十驱逐队（第一次）！

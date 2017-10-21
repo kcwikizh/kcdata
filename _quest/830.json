@@ -16,14 +16,7 @@ data:
       category: slotitem
       id: 74
       amount: 1
-  prerequisite: [216]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 21
-      boss: true
-      result: S
+  prerequisite: [206]
   wiki_id: B82
   chinese_title: 获取照亮夜晚的大海的「灯火」吧！
   chinese_detail: 向カムラン半岛投入有力舰队，同时捕捉出没的敌军舰队，歼灭他们！然后入手照亮夜晚的“灯”！有的季节在夜战以外也能派上用场的样子！

@@ -13,12 +13,6 @@ data:
       id: 3
       amount: 2
   prerequisite: [274]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [51, 52]
   wiki_id: A51
   chinese_title: 「第十八战队」新编成！
   chinese_detail: 以轻巡洋舰「天龙」「龙田」为基干战力新编成4艘以上的「第十八战队」！

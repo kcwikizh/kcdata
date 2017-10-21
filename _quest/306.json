@@ -13,12 +13,6 @@ data:
       id: 3
       amount: 1
   prerequisite: [611]
-  requirements:
-    -
-      category: practice
-      times: 2
-      result: B
-      daily: true
   wiki_id: WC01
   chinese_title: 仪式的准备！(二)
   chinese_detail: 今天在「演习」中胜利2次以上，调整对于仪式的心情！

@@ -13,10 +13,6 @@ data:
       id: 3
       amount: 2
   prerequisite: [123]
-  requirements:
-    -
-      category: flagship
-      ship_id: 404
   wiki_id: A41
   chinese_title: 「新型正规空母」配备！
   chinese_detail: 在第一舰队旗舰配备云龙型航空母舰一号舰「云龙」！

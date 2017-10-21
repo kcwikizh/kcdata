@@ -12,14 +12,7 @@ data:
       category: useitem
       id: 52
       amount: 1
-  prerequisite: [201]
-  requirements:
-    -
-      category: sortie
-      times: 4
-      map: 15
-      boss: true
-      result: A
+  prerequisite: [201, 205, 216]
   wiki_id: B48
   chinese_title: 强化镇守府正面的对潜！
   chinese_detail: 强化镇守府正面的对潜警戒，确保海上资源输送道路的安全！

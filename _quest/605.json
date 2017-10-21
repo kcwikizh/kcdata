@@ -17,10 +17,6 @@ data:
       id: 3
       amount: 1
   prerequisite: [602]
-  requirements:
-    -
-      category: development
-      times: 1
   wiki_id: F5
   chinese_title: 新装备「开发」指令
   chinese_detail: 在「工厂」「开发」新装备（失败也OK）！

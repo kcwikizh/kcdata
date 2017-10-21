@@ -17,22 +17,6 @@ data:
       id: 220
       amount: 1
   prerequisite: [851]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 62
-      boss: true
-      result: S
-    -
-      category: sortie
-      times: 1
-      map: 65
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 508
   wiki_id: B96
   chinese_title: 改装攻击型轻空母，前线展开！
   chinese_detail: 以改装航空母舰铃谷航改二为旗舰编成强力机动部队，进出于中部海域。该舰队于马绍尔群岛近海(6-2)、KW环礁沿海海域(6-5)展开，捕捉该海域敌方机动部队，并将其歼灭！

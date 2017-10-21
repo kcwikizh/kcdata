@@ -17,18 +17,6 @@ data:
       id: 3
       amount: 1
   prerequisite: [208]
-  requirements:
-    -
-      category: sortie
-      times: 1
-    -
-      category: fleet
-      amount:
-        gte: 4
-    -
-      category: fleet
-      amount: 1
-      ship_type: [7, 11, 18]
   wiki_id: B9
   chinese_title: 「空母机动部队」出击！
   chinese_detail: 派出以空母1艘与护卫舰艇编成的空母机动部队出击！

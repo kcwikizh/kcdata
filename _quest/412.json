@@ -13,11 +13,6 @@ data:
       id: 79
       amount: 1
   prerequisite: [239]
-  requirements:
-    -
-      category: expedition
-      times: 1
-      expedition_id: 23
   wiki_id: D10
   chinese_title: 强化航空火力舰的运用！
   chinese_detail: 实施「航空战舰运用演习」，努力强化航空火力舰的运用！

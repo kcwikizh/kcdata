@@ -13,11 +13,6 @@ data:
       id: 3
       amount: 3
   prerequisite: [125]
-  requirements:
-    -
-      category: fleet
-      amount: 4
-      ship_id: [95, 97, 96, 98]
   wiki_id: A31
   chinese_title: 「第八驱逐队」编成！
   chinese_detail: 以「朝潮」「满潮」「大潮」「荒潮」4艘编成第八驱逐队！

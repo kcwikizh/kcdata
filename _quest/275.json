@@ -17,18 +17,6 @@ data:
       id: 52
       amount: 1
   prerequisite: [153]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 23
-      boss: true
-      result: S
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_id: [51, 52]
   wiki_id: B43
   chinese_title: 起锚！「第十八战队」
   chinese_detail: 派出以「天龙」「龙田」为基干战力的「第十八战队」出击，消灭2-3的敌方主力！

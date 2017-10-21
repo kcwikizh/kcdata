@@ -13,26 +13,6 @@ data:
       id: 52
       amount: 1
   prerequisite: [141]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 43
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 197
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [197, 196]
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: 2
   wiki_id: B26
   chinese_title: 精锐「第二航空战队」起锚
   chinese_detail: 以完成了炼成的新编「二航战」为基干的舰队，出击敌方4-3，碾碎他们！

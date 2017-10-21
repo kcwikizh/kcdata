@@ -17,13 +17,6 @@ data:
       id: 66
       amount: 1
   prerequisite: [634, 810]
-  requirements:
-    -
-      category: sortie
-      times: 5
-      map: 14
-      boss: true
-      result: S
   wiki_id: B64
   chinese_title: 南西诸岛防线强化！
   chinese_detail: 于南西诸岛部署强大的舰队、歼灭同一方面的来犯之敌五次以上！

@@ -13,22 +13,6 @@ data:
       id: 52
       amount: 1
   prerequisite: [125]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 23
-      boss: true
-      result: B
-    -
-      category: fleet
-      amount:
-        gte: 2
-    -
-      category: fleet
-      ship_type: [13, 14]
-      amount:
-        gte: 2
   wiki_id: B17
   chinese_title: 「潜水舰队」出击！
   chinese_detail: 派出由伊号潜水艇2艘组成的潜水舰队消灭2-3的敌人！

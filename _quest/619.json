@@ -13,10 +13,6 @@ data:
       id: 4
       amount: 1
   prerequisite: [608, 618]
-  requirements:
-    -
-      category: improve
-      times: 1
   wiki_id: F18
   chinese_title: 装备的改修强化
   chinese_detail: 努力在「改修工厂」改修强化「装备」！

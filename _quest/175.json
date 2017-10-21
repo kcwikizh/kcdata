@@ -12,16 +12,7 @@ data:
       category: useitem
       id: 3
       amount: 3
-  prerequisite: [132]
-  requirements:
-    -
-      category: flagship
-      ship_id: 463
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [463, 96, 97, 98]
+  prerequisite: [239]
   wiki_id: A70
   chinese_title: 新编「第八驱逐队」的再编成！
   chinese_detail: 朝潮改二作为旗舰，大潮，满潮，荒潮，组成的「第八驱逐队」的再编成！

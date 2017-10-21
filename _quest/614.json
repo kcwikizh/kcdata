@@ -13,14 +13,6 @@ data:
       id: 94
       amount: 1
   prerequisite: [250]
-  requirements:
-    -
-      category: scrap
-      amount: 2
-      slotitem_id: 17
-    -
-      category: flagship
-      slotitem_id: 93
   wiki_id: F13
   chinese_title: 机种转换
   chinese_detail: 以搭载了「九七式舰攻(友永队)」的空母作为秘书舰的状态废弃两架「天山」！

@@ -17,12 +17,6 @@ data:
       id: 54
       amount: 1
   prerequisite: [303]
-  requirements:
-    -
-      category: practice
-      times: 8
-      result: B
-      daily: true
   wiki_id: C11
   chinese_title: 冬季大演习
   chinese_detail: 在冬季的一天之内取得8次以上「演习」的胜利，进一步提高舰队的水平！

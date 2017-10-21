@@ -13,15 +13,6 @@ data:
       id: 168
       amount: 1
   prerequisite: [641, 825]
-  requirements:
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 37
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 23
   wiki_id: F38
   chinese_title: “陆攻”队的增强
   chinese_detail: 为建设“基地航空队”，追加采购“陆攻”。准备7.7mm机铳、九九式舰爆 各两个！（任务达成后装备消失）

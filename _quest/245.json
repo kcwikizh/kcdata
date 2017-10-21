@@ -13,16 +13,6 @@ data:
       id: 55
       amount: 1
   prerequisite: [134]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 23
-      boss: true
-      result: S
-    -
-      category: flagship
-      level: [90, 99]
   wiki_id: WB01
   chinese_title: 仪式的准备！(最终)
   chinese_detail: 在第一舰队旗舰配备高练度(Lv.90～99)的舰娘出击，在2-3的拂晓刻下胜利！

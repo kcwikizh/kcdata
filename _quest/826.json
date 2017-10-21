@@ -17,18 +17,6 @@ data:
       id: 59
       amount: 1
   prerequisite: [177]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 15
-      boss: true
-      result: A
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [12, 486, 13, 14]
   wiki_id: B78
   chinese_title: “第十九驱逐队”出击！
   chinese_detail: 以四支特型驱逐舰组成的“第十九驱逐队”出击镇守府近海，实施1-5，压制猖獗的敌潜水部队！

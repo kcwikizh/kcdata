@@ -17,21 +17,6 @@ data:
       id: 54
       amount: 1
   prerequisite: [168]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 23
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 53
-    -
-      category: fleet
-      amount:
-        gte: 3
-      ship_id: [53, 22, 113]
   wiki_id: B55
   chinese_title: 第十六战队（第二次）出击！
   chinese_detail: 第十六战队（第二次）2-3出击，捕捉消灭地方主力舰队！

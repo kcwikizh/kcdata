@@ -13,12 +13,6 @@ data:
       id: 3
       amount: 1
   prerequisite: [104]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 1
-      ship_type: 16
   wiki_id: A9
   chinese_title: 配备「水上机母舰」！
   chinese_detail: 在舰队中配备能使用大量水上侦察机的「水上飞机母舰」！

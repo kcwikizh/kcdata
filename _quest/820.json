@@ -17,20 +17,6 @@ data:
       id: 68
       amount: 1
   prerequisite: [175]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 16
-      event: 8
-    -
-      category: flagship
-      ship_id: 463
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [463, 96, 97, 98]
   wiki_id: B73
   chinese_title: 新编「第八驱逐队」出击！
   chinese_detail: 包含新编「第八驱逐队」的舰队出击镇守府近海航路，确保航路安全！

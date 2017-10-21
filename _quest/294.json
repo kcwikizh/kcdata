@@ -17,20 +17,6 @@ data:
       id: 109
       amount: 1
   prerequisite: [166]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 24
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 112
-    -
-      category: fleet
-      amount: 6
-      ship_id: [112, 117, 108, 109, 82, 88]
   wiki_id: B54
   chinese_title: “小沢舰队”出击！
   chinese_detail: “小沢舰队”出击2-4，捕捉敌方机动部队予以歼灭!

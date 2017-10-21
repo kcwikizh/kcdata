@@ -17,18 +17,6 @@ data:
       id: [33, 34]
       amount: 1
   prerequisite: [233]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 24
-      boss: true
-      result: S
-    -
-      category: fleet
-      ship_type: [9, 10]
-      amount:
-        gte: 2
   wiki_id: B89
   chinese_title: 主力战舰战队，拔锚！
   chinese_detail: 以两艘以上的战舰及航空战舰为核心组成的强力战舰战队向冲之岛海域展开，捕捉并歼灭入侵的敌方舰队！

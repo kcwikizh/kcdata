@@ -13,11 +13,6 @@ data:
       id: 54
       amount: 1
   prerequisite: [121]
-  requirements:
-    -
-      category: fleet
-      amount: 6
-      ship_id: [69, 61, 123, 60, 59, 51]
   wiki_id: A24
   chinese_title: 新「三川舰队」编成！
   chinese_detail: 以「鸟海」「青叶」「衣笠」「加古」「古鹰」「天龙」编成三川舰队！

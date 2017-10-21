@@ -17,18 +17,6 @@ data:
       id: 67
       amount: 1
   prerequisite: [826]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 25
-      boss: true
-      result: A
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [12, 486, 13, 14]
   wiki_id: B79
   chinese_title: “第十九驱逐队”突入敌方主力！
   chinese_detail: 编成并出击包含“第十九驱逐队”的有力舰队，捕获并击破位于冲之岛近海(2-5)的敌主力舰队。

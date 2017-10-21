@@ -17,16 +17,6 @@ data:
       id: 59
       amount: 1
   prerequisite: [239, 811]
-  requirements:
-    -
-      category: sortie
-      times: 6
-      map: 23
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_id: 96
   wiki_id: B65
   chinese_title: 东部奥廖尔海制海权确保！
   chinese_detail: 大潮作为旗舰带领舰队反复出击东部奥廖尔海、并完全歼灭同方面的敌舰队！

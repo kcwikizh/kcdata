@@ -16,25 +16,7 @@ data:
       category: furniture
       id: 11
       amount: 1
-  prerequisite: [120]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 23
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_type: [5, 6]
-    -
-      category: fleet
-      amount:
-        gte: 4
-    -
-      category: fleet
-      amount: 4
-      ship_type: [5, 6]
+  prerequisite: [116]
   wiki_id: B87
   chinese_title: 重巡战队，拔锚！
   chinese_detail: 派出以4只重巡为基干战力并以重巡为旗舰的舰队，前往西南诸岛海域东部奥廖尔海，消灭本海域的敌方舰队，确保制海权！

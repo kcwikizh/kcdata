@@ -13,15 +13,6 @@ data:
       id: 180
       amount: 1
   prerequisite: [313, 643]
-  requirements:
-    -
-      category: possess
-      amount: 1
-      slotitem_id: 169
-    -
-      category: possess
-      amount: 2
-      slotitem_id: 17
   wiki_id: F40
   chinese_title: “一式陆攻”性能加强型号的采购
   chinese_detail: 配备“一式陆攻”性能加强型号。准备一式陆攻一个、天山两个！（任务达成后装备消失/一式陆攻熟练度会被继承）

@@ -17,23 +17,6 @@ data:
       id: 3
       amount: 2
   prerequisite: [216]
-  requirements:
-    -
-      category: sortie
-      times: 36
-    -
-      category: sortie
-      times: 24
-      boss: true
-    -
-      category: sortie
-      times: 12
-      boss: true
-      result: B
-    -
-      category: sortie
-      times: 6
-      result: S
   wiki_id: Bw1
   chinese_title: あ号作战
   chinese_detail: 一周内全力出击，尽可能多地捕捉敌舰队，迎击他们！

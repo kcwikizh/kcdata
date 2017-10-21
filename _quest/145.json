@@ -13,16 +13,6 @@ data:
       id: 3
       amount: 3
   prerequisite: [258]
-  requirements:
-    -
-      category: fleet
-      amount: 3
-      ship_ctype: [37, 19, 2, 26]
-    -
-      category: fleet
-      amount:
-        gte: 1
-      ship_type: 3
   wiki_id: A43
   chinese_title: 战舰为主力的水上打击部队编成！
   chinese_detail: 从大和型，长门型，伊势型，扶桑型中选择3艘和1艘轻巡等配备水上打击部队！

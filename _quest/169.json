@@ -17,19 +17,6 @@ data:
       id: 4
       amount: 2
   prerequisite: [287, 295]
-  requirements:
-    -
-      category: fleet
-      amount: 2
-      ship_type: 11
-    -
-      category: fleet
-      amount: 2
-      ship_type: [6, 10]
-    -
-      category: fleet
-      amount: 2
-      ship_type: 2
   wiki_id: A64
   chinese_title: “新编航空战队”编成！
   chinese_detail: 航空母舰两艘+（航空战舰or航空巡洋舰）两艘+驱逐舰两艘组成新编航空战队！

@@ -17,23 +17,6 @@ data:
       id: 12
       amount: 2
   prerequisite: [221, 239]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 42
-      boss: true
-      result: S
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: [7, 11, 18]
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: 2
   wiki_id: Bm6
   chinese_title: 「空母机动部队」前往西方！
   chinese_detail: 派出以航空母舰2艘（伴随驱逐舰2艘）为基干的空母机动部队，消灭4-2的敌舰队！

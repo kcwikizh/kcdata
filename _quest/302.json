@@ -17,11 +17,6 @@ data:
       id: 4
       amount: 1
   prerequisite: [303]
-  requirements:
-    -
-      category: practice
-      times: 20
-      result: B
   wiki_id: C4
   chinese_title: 大规模演习
   chinese_detail: 本周对其他提督的舰队发起发起「演习」胜利20次！

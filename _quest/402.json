@@ -13,10 +13,6 @@ data:
       id: 3
       amount: 1
   prerequisite: [401]
-  requirements:
-    -
-      category: expedition
-      times: 3
   wiki_id: D2
   chinese_title: 「远征」3次成功！
   chinese_detail: 今天「远征」成功3次！

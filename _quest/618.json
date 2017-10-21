@@ -13,10 +13,6 @@ data:
       id: 4
       amount: 7
   prerequisite: [146]
-  requirements:
-    -
-      category: improve
-      times: 1
   wiki_id: F17
   chinese_title: 初次的「装备改修」！
   chinese_detail: 尝试在「改修工厂」改修「装备」，拜托了，明石小姐！

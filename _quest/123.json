@@ -13,17 +13,6 @@ data:
       id: 50
       amount: 1
   prerequisite: [122]
-  requirements:
-    -
-      category: fleet
-      amount:
-        gte: 4
-      ship_id: [110, 111]
-    -
-      category: fleet
-      amount:
-        gte: 2
-      ship_type: 2
   wiki_id: A23
   chinese_title: 「第五航空战队」编成！
   chinese_detail: 以「翔鹤」「瑞鹤」为基干，加上两只驱逐舰编成第五航空战队！

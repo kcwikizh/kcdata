@@ -17,10 +17,6 @@ data:
       id: 12
       amount: 1
   prerequisite: [401]
-  requirements:
-    -
-      category: expedition
-      times: 30
   wiki_id: D4
   chinese_title: 大规模远征作战、宣布！
   chinese_detail: 本周「远征」成功30次！

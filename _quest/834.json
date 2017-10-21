@@ -17,16 +17,6 @@ data:
       id: 52
       amount: 1
   prerequisite: []
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 14
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_type: [6, 16]
   wiki_id: B83
   chinese_title: 增强南西群岛防卫线！
   chinese_detail: 以水上机母舰或航空巡洋舰为旗舰组成强力舰队投入南西群岛防卫线，以水上机的战力强化防卫线，歼灭同海域的敌方舰队！

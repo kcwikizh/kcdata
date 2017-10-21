@@ -17,24 +17,6 @@ data:
       id: [165, 178]
       amount: 1
   prerequisite: [838]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 33
-      boss: true
-      result: S
-    -
-      category: flagship
-      ship_type: [8, 9, 10]
-    -
-      category: fleet
-      amount:
-        gte: 2
-    -
-      category: fleet
-      amount: 2
-      ship_type: [8, 9, 10]
   wiki_id: B88
   chinese_title: 战舰战队，出击！
   chinese_detail: 派出以2只战舰为核心力量并以战舰为旗舰的部队，向北方海域阿尔锋西诺方向推进，消灭本海域的敌方战舰，努力确保北方海域的制海权！

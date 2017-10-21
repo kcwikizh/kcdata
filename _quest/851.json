@@ -17,22 +17,6 @@ data:
       id: [217, 203]
       amount: 1
   prerequisite: [287, 838]
-  requirements:
-    -
-      category: sortie
-      times: 1
-      map: 51
-      boss: true
-      result: A
-    -
-      category: sortie
-      times: 1
-      map: 53
-      boss: true
-      result: A
-    -
-      category: flagship
-      ship_id: 503
   wiki_id: B95
   chinese_title: 改装航空巡洋舰，出击！
   chinese_detail: 以改装航空巡洋舰铃谷改二为旗舰编成强力舰队，向南方海域展开，捕捉游弋于南方海域前方(5-1)和萨部岛近海海域(5-3)的敌方舰队群，并将其击破！

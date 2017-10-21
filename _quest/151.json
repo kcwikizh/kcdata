@@ -17,15 +17,6 @@ data:
       id: 3
       amount: 2
   prerequisite: [271]
-  requirements:
-    -
-      category: fleet
-      amount: 4
-      ship_id: [28, 29, 6]
-    -
-      category: fleet
-      amount: 4
-      ship_type: 2
   wiki_id: A49
   chinese_title: 「第二二驱逐队」编成！
   chinese_detail: 以「皐月」「文月」「长月」和其他一艘驱逐舰总计4艘编成第二二驱逐队！

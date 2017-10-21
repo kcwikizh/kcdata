@@ -12,19 +12,7 @@ data:
       category: useitem
       id: 1
       amount: 2
-  prerequisite: [165, 201]
-  requirements:
-    -
-      category: flagship
-      ship_id: 158
-    -
-      category: fleet
-      amount: 5
-      ship_id: [158, 469, 145]
-    -
-      category: fleet
-      amount: 4
-      ship_type: 2
+  prerequisite: [293]
   wiki_id: A68
   chinese_title: 强行高速运输部队编成！
   chinese_detail: 川内改二为旗舰、江风改二、时雨改二以及其他2艘驱逐舰共同编成水雷战队！
