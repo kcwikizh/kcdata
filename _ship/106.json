@@ -55,4 +55,6 @@ data:
     wed_b: [128, 112]
   wiki_id: "099"
   chinese_name: 千岁甲
+  can_drop: false
+  can_construct: false
 ---

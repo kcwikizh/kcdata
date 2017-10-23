@@ -55,4 +55,6 @@ data:
     wed_b: [104, 118]
   wiki_id: "060a"
   chinese_name: 爱宕改
+  can_drop: false
+  can_construct: false
 ---

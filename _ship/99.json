@@ -55,4 +55,6 @@ data:
     wed_b: [121, 129]
   wiki_id: "039"
   chinese_name: 球磨
+  can_drop: true
+  can_construct: true
 ---

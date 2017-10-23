@@ -55,4 +55,6 @@ data:
     wed_b: [144, 128]
   wiki_id: "187"
   chinese_name: 明石改
+  can_drop: false
+  can_construct: false
 ---

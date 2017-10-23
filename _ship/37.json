@@ -55,4 +55,6 @@ data:
     wed_b: [171, 153]
   wiki_id: "074"
   chinese_name: 电
+  can_drop: true
+  can_construct: true
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [104, 118]
   wiki_id: "060"
   chinese_name: 爱宕
+  can_drop: true
+  can_construct: true
 ---

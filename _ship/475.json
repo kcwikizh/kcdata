@@ -55,4 +55,6 @@ data:
     wed_b: [84, 120]
   wiki_id: "275"
   chinese_name: 旗风
+  can_drop: false
+  can_construct: false
 ---

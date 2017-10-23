@@ -55,4 +55,6 @@ data:
     wed_b: [136, 112]
   wiki_id: "174"
   chinese_name: Z1
+  can_drop: true
+  can_construct: true
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [94, 98]
   wiki_id: "009a"
   chinese_name: 飞龙改
+  can_drop: false
+  can_construct: false
 ---

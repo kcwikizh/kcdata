@@ -55,4 +55,6 @@ data:
     wed_b: [100, 112]
   wiki_id: "283a"
   chinese_name: 伊26改
+  can_drop: false
+  can_construct: false
 ---

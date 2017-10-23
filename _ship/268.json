@@ -55,4 +55,6 @@ data:
     wed_b: [106, 114]
   wiki_id: "058a"
   chinese_name: 羽黑改
+  can_drop: false
+  can_construct: false
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [100, 117]
   wiki_id: "059a"
   chinese_name: 高雄改
+  can_drop: false
+  can_construct: false
 ---

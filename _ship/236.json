@@ -55,4 +55,6 @@ data:
     wed_b: [131, 145]
   wiki_id: "073a"
   chinese_name: 雷改
+  can_drop: false
+  can_construct: false
 ---

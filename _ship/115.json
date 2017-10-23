@@ -55,4 +55,6 @@ data:
     wed_b: [106, 131]
   wiki_id: "111"
   chinese_name: 夕张
+  can_drop: true
+  can_construct: true
 ---

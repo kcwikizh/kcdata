@@ -55,4 +55,6 @@ data:
     wed_b: [110, 135]
   wiki_id: "082"
   chinese_name: 夕立
+  can_drop: true
+  can_construct: true
 ---

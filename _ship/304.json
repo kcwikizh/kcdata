@@ -55,4 +55,6 @@ data:
     wed_b: [117, 137]
   wiki_id: "135a"
   chinese_name: 长波改
+  can_drop: false
+  can_construct: false
 ---

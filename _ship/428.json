@@ -55,4 +55,6 @@ data:
     wed_b: [160, 152]
   wiki_id: "228"
   chinese_name: 摩耶改二
+  can_drop: false
+  can_construct: false
 ---

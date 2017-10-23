@@ -55,4 +55,6 @@ data:
     wed_b: [100, 120]
   wiki_id: "158"
   chinese_name: 川内改二
+  can_drop: false
+  can_construct: false
 ---

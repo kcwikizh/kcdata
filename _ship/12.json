@@ -55,4 +55,6 @@ data:
     wed_b: [88, 116]
   wiki_id: "016"
   chinese_name: 矶波
+  can_drop: true
+  can_construct: true
 ---

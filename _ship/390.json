@@ -55,4 +55,6 @@ data:
     wed_b: [84, 124]
   wiki_id: "279a"
   chinese_name: 天雾改
+  can_drop: false
+  can_construct: false
 ---

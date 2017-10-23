@@ -55,4 +55,6 @@ data:
     wed_b: [103, 119]
   wiki_id: "047"
   chinese_name: 神通
+  can_drop: true
+  can_construct: true
 ---

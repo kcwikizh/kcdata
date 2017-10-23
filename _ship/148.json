@@ -55,4 +55,6 @@ data:
     wed_b: [87, 96]
   wiki_id: "148"
   chinese_name: 武藏改
+  can_drop: false
+  can_construct: false
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [128, 96]
   wiki_id: "217"
   chinese_name: 加古改二
+  can_drop: false
+  can_construct: false
 ---

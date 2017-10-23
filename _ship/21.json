@@ -55,4 +55,6 @@ data:
     wed_b: [132, 132]
   wiki_id: "042"
   chinese_name: 长良
+  can_drop: true
+  can_construct: true
 ---

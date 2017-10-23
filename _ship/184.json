@@ -55,4 +55,6 @@ data:
     wed_b: [144, 144]
   wiki_id: "184"
   chinese_name: 大鲸
+  can_drop: true
+  can_construct: false
 ---

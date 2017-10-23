@@ -55,4 +55,6 @@ data:
     wed_b: [129, 131]
   wiki_id: "134a"
   chinese_name: 卷云改
+  can_drop: false
+  can_construct: false
 ---

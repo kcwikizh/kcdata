@@ -55,4 +55,6 @@ data:
     wed_b: [100, 92]
   wiki_id: "200"
   chinese_name: 阿武隈改二
+  can_drop: false
+  can_construct: false
 ---

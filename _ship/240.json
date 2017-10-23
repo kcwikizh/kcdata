@@ -55,4 +55,6 @@ data:
     wed_b: [124, 151]
   wiki_id: "077a"
   chinese_name: 若叶改
+  can_drop: false
+  can_construct: false
 ---

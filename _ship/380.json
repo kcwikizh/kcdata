@@ -55,4 +55,6 @@ data:
     wed_b: [80, 104]
   wiki_id: "326a"
   chinese_name: 大鹰改
+  can_drop: false
+  can_construct: false
 ---

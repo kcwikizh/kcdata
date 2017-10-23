@@ -55,4 +55,6 @@ data:
     wed_b: [92, 112]
   wiki_id: "291"
   chinese_name: 塔斯特司令官
+  can_drop: false
+  can_construct: false
 ---

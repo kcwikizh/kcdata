@@ -55,4 +55,6 @@ data:
     wed_b: [118, 141]
   wiki_id: "084"
   chinese_name: 凉风
+  can_drop: true
+  can_construct: true
 ---

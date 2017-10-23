@@ -55,4 +55,6 @@ data:
     wed_b: [78, 112]
   wiki_id: "285a"
   chinese_name: 藤波改
+  can_drop: false
+  can_construct: false
 ---

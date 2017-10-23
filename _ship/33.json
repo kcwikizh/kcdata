@@ -55,4 +55,6 @@ data:
     wed_b: [122, 117]
   wiki_id: "015"
   chinese_name: 丛云
+  can_drop: true
+  can_construct: true
 ---

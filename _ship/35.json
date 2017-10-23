@@ -55,4 +55,6 @@ data:
     wed_b: [146, 145]
   wiki_id: "072"
   chinese_name: 响
+  can_drop: true
+  can_construct: true
 ---

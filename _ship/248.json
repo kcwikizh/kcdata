@@ -55,4 +55,6 @@ data:
     wed_b: [143, 174]
   wiki_id: "085a"
   chinese_name: 朝潮改
+  can_drop: false
+  can_construct: false
 ---

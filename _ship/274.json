@@ -55,4 +55,6 @@ data:
     wed_b: [86, 94]
   wiki_id: "064a"
   chinese_name: 筑摩改
+  can_drop: false
+  can_construct: false
 ---

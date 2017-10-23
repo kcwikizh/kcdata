@@ -55,4 +55,6 @@ data:
     wed_b: [139, 114]
   wiki_id: "032"
   chinese_name: 如月
+  can_drop: true
+  can_construct: true
 ---

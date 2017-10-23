@@ -55,4 +55,6 @@ data:
     wed_b: [120, 112]
   wiki_id: "210a"
   chinese_name: 清霜改
+  can_drop: false
+  can_construct: false
 ---

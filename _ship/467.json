@@ -55,4 +55,6 @@ data:
     wed_b: [116, 112]
   wiki_id: "267"
   chinese_name: 瑞鹤改二甲
+  can_drop: false
+  can_construct: false
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [122, 147]
   wiki_id: "083"
   chinese_name: 五月雨
+  can_drop: true
+  can_construct: true
 ---

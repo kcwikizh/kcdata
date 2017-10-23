@@ -55,4 +55,6 @@ data:
     wed_b: [133, 125]
   wiki_id: "011"
   chinese_name: 吹雪
+  can_drop: true
+  can_construct: true
 ---

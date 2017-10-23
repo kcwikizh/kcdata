@@ -55,4 +55,6 @@ data:
     wed_b: [94, 109]
   wiki_id: "004"
   chinese_name: 日向
+  can_drop: true
+  can_construct: true
 ---

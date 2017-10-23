@@ -55,4 +55,6 @@ data:
     wed_b: [80, 124]
   wiki_id: "079a"
   chinese_name: 白露改
+  can_drop: false
+  can_construct: false
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [92, 120]
   wiki_id: "223"
   chinese_name: 初月
+  can_drop: false
+  can_construct: false
 ---

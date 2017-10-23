@@ -55,4 +55,6 @@ data:
     wed_b: [145, 147]
   wiki_id: "091"
   chinese_name: 阳炎
+  can_drop: true
+  can_construct: true
 ---

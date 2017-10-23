@@ -55,4 +55,6 @@ data:
     wed_b: [134, 136]
   wiki_id: "018"
   chinese_name: 敷波
+  can_drop: true
+  can_construct: true
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [140, 136]
   wiki_id: "053"
   chinese_name: 加古
+  can_drop: true
+  can_construct: true
 ---

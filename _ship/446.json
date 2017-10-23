@@ -55,4 +55,6 @@ data:
     wed_b: [118, 121]
   wiki_id: "246"
   chinese_name: 意大利
+  can_drop: false
+  can_construct: false
 ---

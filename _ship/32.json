@@ -55,4 +55,6 @@ data:
     wed_b: [122, 124]
   wiki_id: "013"
   chinese_name: 初雪
+  can_drop: true
+  can_construct: true
 ---

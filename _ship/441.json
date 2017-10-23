@@ -55,4 +55,6 @@ data:
     wed_b: [116, 121]
   wiki_id: "241"
   chinese_name: 利托里奥
+  can_drop: false
+  can_construct: false
 ---

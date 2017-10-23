@@ -55,4 +55,6 @@ data:
     wed_b: [141, 121]
   wiki_id: "250"
   chinese_name: 秋津洲改
+  can_drop: false
+  can_construct: false
 ---

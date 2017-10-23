@@ -55,4 +55,6 @@ data:
     wed_b: [142, 149]
   wiki_id: "037a"
   chinese_name: 三日月改
+  can_drop: false
+  can_construct: false
 ---

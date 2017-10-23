@@ -55,4 +55,6 @@ data:
     wed_b: [132, 140]
   wiki_id: "044a"
   chinese_name: 名取改
+  can_drop: false
+  can_construct: false
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [144, 144]
   wiki_id: "181"
   chinese_name: 天津风
+  can_drop: true
+  can_construct: false
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [153, 168]
   wiki_id: "068"
   chinese_name: 曙
+  can_drop: true
+  can_construct: true
 ---

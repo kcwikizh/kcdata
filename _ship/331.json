@@ -55,4 +55,6 @@ data:
     wed_b: [112, 112]
   wiki_id: "202"
   chinese_name: 天城
+  can_drop: false
+  can_construct: false
 ---

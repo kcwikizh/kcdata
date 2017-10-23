@@ -55,4 +55,6 @@ data:
     wed_b: [134, 141]
   wiki_id: "028"
   chinese_name: 天龙
+  can_drop: true
+  can_construct: true
 ---

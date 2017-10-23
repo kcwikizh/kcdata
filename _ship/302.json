@@ -55,4 +55,6 @@ data:
     wed_b: [125, 145]
   wiki_id: "133a"
   chinese_name: 夕云改
+  can_drop: false
+  can_construct: false
 ---

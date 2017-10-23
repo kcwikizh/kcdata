@@ -55,4 +55,6 @@ data:
     wed_b: [113, 118]
   wiki_id: "118a"
   chinese_name: 初风改
+  can_drop: false
+  can_construct: false
 ---

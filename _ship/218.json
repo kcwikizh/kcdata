@@ -55,4 +55,6 @@ data:
     wed_b: [134, 130]
   wiki_id: "042a"
   chinese_name: 长良改
+  can_drop: false
+  can_construct: false
 ---

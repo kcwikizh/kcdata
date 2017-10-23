@@ -55,4 +55,6 @@ data:
     wed_b: [109, 137]
   wiki_id: "088"
   chinese_name: 荒潮
+  can_drop: true
+  can_construct: true
 ---

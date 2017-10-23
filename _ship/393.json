@@ -55,4 +55,6 @@ data:
     wed_b: [80, 116]
   wiki_id: "315a"
   chinese_name: 皇家方舟改
+  can_drop: false
+  can_construct: false
 ---

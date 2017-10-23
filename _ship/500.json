@@ -55,4 +55,6 @@ data:
     wed_b: [92, 108]
   wiki_id: "300"
   chinese_name: 神威改母
+  can_drop: false
+  can_construct: false
 ---

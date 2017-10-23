@@ -55,4 +55,6 @@ data:
     wed_b: [144, 136]
   wiki_id: "231a"
   chinese_name: U-511改
+  can_drop: false
+  can_construct: false
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [120, 104]
   wiki_id: "243"
   chinese_name: 利伯齐奥
+  can_drop: true
+  can_construct: false
 ---

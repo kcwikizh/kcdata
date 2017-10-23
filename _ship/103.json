@@ -55,4 +55,6 @@ data:
     wed_b: [128, 112]
   wiki_id: "050"
   chinese_name: 千代田
+  can_drop: true
+  can_construct: true
 ---

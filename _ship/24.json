@@ -55,4 +55,6 @@ data:
     wed_b: [92, 108]
   wiki_id: "019"
   chinese_name: 大井
+  can_drop: true
+  can_construct: true
 ---

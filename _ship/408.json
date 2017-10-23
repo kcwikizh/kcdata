@@ -55,4 +55,6 @@ data:
     wed_b: [128, 104]
   wiki_id: "208"
   chinese_name: 隼鹰改二
+  can_drop: false
+  can_construct: false
 ---

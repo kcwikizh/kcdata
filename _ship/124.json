@@ -55,4 +55,6 @@ data:
     wed_b: [128, 129]
   wiki_id: "124"
   chinese_name: 铃谷
+  can_drop: true
+  can_construct: true
 ---

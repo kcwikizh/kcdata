@@ -55,4 +55,6 @@ data:
     wed_b: [153, 162]
   wiki_id: "054"
   chinese_name: 青叶
+  can_drop: true
+  can_construct: true
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [118, 131]
   wiki_id: "040"
   chinese_name: 多摩
+  can_drop: true
+  can_construct: true
 ---

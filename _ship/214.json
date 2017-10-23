@@ -55,4 +55,6 @@ data:
     wed_b: [121, 125]
   wiki_id: "029a"
   chinese_name: 龙田改
+  can_drop: false
+  can_construct: false
 ---

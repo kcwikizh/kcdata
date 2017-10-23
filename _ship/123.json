@@ -55,4 +55,6 @@ data:
     wed_b: [115, 124]
   wiki_id: "120"
   chinese_name: 衣笠
+  can_drop: true
+  can_construct: true
 ---

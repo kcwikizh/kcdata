@@ -55,4 +55,6 @@ data:
     wed_b: [144, 164]
   wiki_id: "181a"
   chinese_name: 天津风改
+  can_drop: false
+  can_construct: false
 ---

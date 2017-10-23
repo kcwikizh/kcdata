@@ -55,4 +55,6 @@ data:
     wed_b: [127, 148]
   wiki_id: "024a"
   chinese_name: 雾岛改
+  can_drop: false
+  can_construct: false
 ---

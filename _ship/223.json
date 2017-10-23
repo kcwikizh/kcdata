@@ -55,4 +55,6 @@ data:
     wed_b: [103, 119]
   wiki_id: "047a"
   chinese_name: 神通改
+  can_drop: false
+  can_construct: false
 ---

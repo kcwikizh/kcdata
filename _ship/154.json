@@ -55,4 +55,6 @@ data:
     wed_b: [144, 104]
   wiki_id: "154"
   chinese_name: 香取
+  can_drop: true
+  can_construct: true
 ---

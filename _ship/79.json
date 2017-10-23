@@ -55,4 +55,6 @@ data:
     wed_b: [136, 140]
   wiki_id: "023"
   chinese_name: 榛名
+  can_drop: true
+  can_construct: true
 ---

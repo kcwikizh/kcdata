@@ -55,4 +55,6 @@ data:
     wed_b: [104, 128]
   wiki_id: "070"
   chinese_name: 潮
+  can_drop: true
+  can_construct: true
 ---

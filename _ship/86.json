@@ -55,4 +55,6 @@ data:
     wed_b: [104, 122]
   wiki_id: "022"
   chinese_name: 比睿
+  can_drop: true
+  can_construct: true
 ---

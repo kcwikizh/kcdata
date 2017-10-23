@@ -55,4 +55,6 @@ data:
     wed_b: [145, 141]
   wiki_id: "089a"
   chinese_name: 霰改
+  can_drop: false
+  can_construct: false
 ---

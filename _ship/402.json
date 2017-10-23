@@ -55,4 +55,6 @@ data:
     wed_b: [148, 139]
   wiki_id: "163a"
   chinese_name: 丸输改
+  can_drop: false
+  can_construct: false
 ---

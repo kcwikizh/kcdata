@@ -55,4 +55,6 @@ data:
     wed_b: [94, 93]
   wiki_id: "055"
   chinese_name: 妙高
+  can_drop: true
+  can_construct: true
 ---

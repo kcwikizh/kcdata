@@ -55,4 +55,6 @@ data:
     wed_b: [112, 112]
   wiki_id: "170"
   chinese_name: 浜风
+  can_drop: true
+  can_construct: false
 ---

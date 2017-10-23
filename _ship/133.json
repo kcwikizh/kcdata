@@ -55,4 +55,6 @@ data:
     wed_b: [125, 145]
   wiki_id: "133"
   chinese_name: 夕云
+  can_drop: true
+  can_construct: false
 ---

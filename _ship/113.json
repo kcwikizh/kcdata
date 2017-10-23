@@ -55,4 +55,6 @@ data:
     wed_b: [143, 148]
   wiki_id: "109"
   chinese_name: 鬼怒
+  can_drop: true
+  can_construct: true
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [163, 156]
   wiki_id: "005a"
   chinese_name: 雪风改
+  can_drop: false
+  can_construct: false
 ---

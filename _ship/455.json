@@ -55,4 +55,6 @@ data:
     wed_b: [96, 104]
   wiki_id: "255"
   chinese_name: 萩风‎
+  can_drop: false
+  can_construct: false
 ---

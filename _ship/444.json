@@ -55,4 +55,6 @@ data:
     wed_b: [108, 128]
   wiki_id: "244"
   chinese_name: 鹫座
+  can_drop: false
+  can_construct: false
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [93, 103]
   wiki_id: "057a"
   chinese_name: 足柄改
+  can_drop: false
+  can_construct: false
 ---

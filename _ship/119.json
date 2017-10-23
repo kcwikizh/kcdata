@@ -55,4 +55,6 @@ data:
     wed_b: [98, 107]
   wiki_id: "115"
   chinese_name: 北上改二
+  can_drop: false
+  can_construct: false
 ---

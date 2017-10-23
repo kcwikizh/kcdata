@@ -55,4 +55,6 @@ data:
     wed_b: [112, 112]
   wiki_id: "140"
   chinese_name: 酒匂
+  can_drop: true
+  can_construct: false
 ---

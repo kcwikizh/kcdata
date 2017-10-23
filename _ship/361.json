@@ -55,4 +55,6 @@ data:
     wed_b: [96, 124]
   wiki_id: "249a"
   chinese_name: 波拉改
+  can_drop: false
+  can_construct: false
 ---

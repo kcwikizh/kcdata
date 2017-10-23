@@ -55,4 +55,6 @@ data:
     wed_b: [76, 112]
   wiki_id: "276"
   chinese_name: 神风改
+  can_drop: false
+  can_construct: false
 ---

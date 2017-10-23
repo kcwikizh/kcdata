@@ -55,4 +55,6 @@ data:
     wed_b: [93, 107]
   wiki_id: "007a"
   chinese_name: 加贺改
+  can_drop: false
+  can_construct: false
 ---

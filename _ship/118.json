@@ -55,4 +55,6 @@ data:
     wed_b: [94, 114]
   wiki_id: "114"
   chinese_name: 大井改二
+  can_drop: false
+  can_construct: false
 ---

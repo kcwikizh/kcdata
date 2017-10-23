@@ -55,4 +55,6 @@ data:
     wed_b: [128, 128]
   wiki_id: "196"
   chinese_name: 飞龙改二
+  can_drop: false
+  can_construct: false
 ---

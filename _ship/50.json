@@ -55,4 +55,6 @@ data:
     wed_b: [119, 117]
   wiki_id: "010"
   chinese_name: 岛风
+  can_drop: true
+  can_construct: true
 ---

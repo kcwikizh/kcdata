@@ -55,4 +55,6 @@ data:
     wed_b: [88, 132]
   wiki_id: "272"
   chinese_name: 朝风
+  can_drop: false
+  can_construct: false
 ---

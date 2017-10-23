@@ -55,4 +55,6 @@ data:
     wed_b: [128, 112]
   wiki_id: "188"
   chinese_name: 利根改二
+  can_drop: false
+  can_construct: false
 ---

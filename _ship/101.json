@@ -55,4 +55,6 @@ data:
     wed_b: [103, 121]
   wiki_id: "041"
   chinese_name: 木曾
+  can_drop: true
+  can_construct: true
 ---

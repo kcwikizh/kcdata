@@ -55,4 +55,6 @@ data:
     wed_b: [92, 109]
   wiki_id: "048"
   chinese_name: 那珂
+  can_drop: true
+  can_construct: true
 ---

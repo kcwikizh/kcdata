@@ -55,4 +55,6 @@ data:
     wed_b: [110, 108]
   wiki_id: "056a"
   chinese_name: 那智改
+  can_drop: false
+  can_construct: false
 ---

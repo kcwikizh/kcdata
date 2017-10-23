@@ -55,4 +55,6 @@ data:
     wed_b: [128, 112]
   wiki_id: "178"
   chinese_name: 俾斯麦 drei
+  can_drop: false
+  can_construct: false
 ---

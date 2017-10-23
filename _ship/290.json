@@ -55,4 +55,6 @@ data:
     wed_b: [130, 142]
   wiki_id: "110a"
   chinese_name: 阿武隈改
+  can_drop: false
+  can_construct: false
 ---

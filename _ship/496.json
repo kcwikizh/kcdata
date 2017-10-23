@@ -55,4 +55,6 @@ data:
     wed_b: [92, 104]
   wiki_id: "296"
   chinese_name: 扎拉 due
+  can_drop: false
+  can_construct: false
 ---

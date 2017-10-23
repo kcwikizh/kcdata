@@ -55,4 +55,6 @@ data:
     wed_b: [100, 88]
   wiki_id: "232a"
   chinese_name: 齐柏林改
+  can_drop: false
+  can_construct: false
 ---

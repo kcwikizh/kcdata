@@ -55,4 +55,6 @@ data:
     wed_b: [136, 128]
   wiki_id: "260"
   chinese_name: 速吸
+  can_drop: true
+  can_construct: false
 ---

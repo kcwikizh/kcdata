@@ -55,4 +55,6 @@ data:
     wed_b: [147, 162]
   wiki_id: "147"
   chinese_name: Верный
+  can_drop: false
+  can_construct: false
 ---

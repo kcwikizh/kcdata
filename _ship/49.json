@@ -55,4 +55,6 @@ data:
     wed_b: [154, 165]
   wiki_id: "090"
   chinese_name: 霞
+  can_drop: true
+  can_construct: true
 ---

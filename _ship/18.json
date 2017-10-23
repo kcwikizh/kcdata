@@ -55,4 +55,6 @@ data:
     wed_b: [84, 120]
   wiki_id: "092"
   chinese_name: 不知火
+  can_drop: true
+  can_construct: true
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [128, 112]
   wiki_id: "105a"
   chinese_name: 千代田航改
+  can_drop: false
+  can_construct: false
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [80, 124]
   wiki_id: "079"
   chinese_name: 白露
+  can_drop: true
+  can_construct: true
 ---

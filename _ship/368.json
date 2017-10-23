@@ -55,4 +55,6 @@ data:
     wed_b: [104, 112]
   wiki_id: "286a"
   chinese_name: 浦波改
+  can_drop: false
+  can_construct: false
 ---

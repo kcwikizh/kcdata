@@ -55,4 +55,6 @@ data:
     wed_b: [148, 151]
   wiki_id: "078a"
   chinese_name: 初霜改
+  can_drop: false
+  can_construct: false
 ---

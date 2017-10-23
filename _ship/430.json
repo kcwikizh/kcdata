@@ -55,4 +55,6 @@ data:
     wed_b: [137, 123]
   wiki_id: "230"
   chinese_name: 葛城改
+  can_drop: false
+  can_construct: false
 ---

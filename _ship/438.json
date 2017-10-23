@@ -55,4 +55,6 @@ data:
     wed_b: [88, 96]
   wiki_id: "238"
   chinese_name: 萨拉托加改
+  can_drop: false
+  can_construct: false
 ---

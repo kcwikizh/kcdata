@@ -55,4 +55,6 @@ data:
     wed_b: [112, 112]
   wiki_id: "172"
   chinese_name: 俾斯麦改
+  can_drop: false
+  can_construct: false
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [144, 128]
   wiki_id: "195"
   chinese_name: 绫波改二
+  can_drop: false
+  can_construct: false
 ---

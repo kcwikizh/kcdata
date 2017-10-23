@@ -55,4 +55,6 @@ data:
     wed_b: [96, 107]
   wiki_id: "103"
   chinese_name: 日向改
+  can_drop: false
+  can_construct: false
 ---

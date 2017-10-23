@@ -55,4 +55,6 @@ data:
     wed_b: [117, 128]
   wiki_id: "142"
   chinese_name: 衣笠改二
+  can_drop: false
+  can_construct: false
 ---

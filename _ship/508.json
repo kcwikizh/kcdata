@@ -55,4 +55,6 @@ data:
     wed_b: [92, 100]
   wiki_id: "308"
   chinese_name: 铃谷航改二
+  can_drop: false
+  can_construct: false
 ---

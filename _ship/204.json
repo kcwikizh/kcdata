@@ -55,4 +55,6 @@ data:
     wed_b: [136, 136]
   wiki_id: "014a"
   chinese_name: 深雪改
+  can_drop: false
+  can_construct: false
 ---

@@ -55,4 +55,6 @@ data:
     wed_b: [113, 125]
   wiki_id: "027a"
   chinese_name: 山城改
+  can_drop: false
+  can_construct: false
 ---

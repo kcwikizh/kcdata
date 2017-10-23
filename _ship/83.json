@@ -55,4 +55,6 @@ data:
     wed_b: [95, 100]
   wiki_id: "006"
   chinese_name: 赤城
+  can_drop: true
+  can_construct: true
 ---

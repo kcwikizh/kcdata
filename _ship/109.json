@@ -55,4 +55,6 @@ data:
     wed_b: [128, 112]
   wiki_id: "105"
   chinese_name: 千代田航
+  can_drop: false
+  can_construct: false
 ---

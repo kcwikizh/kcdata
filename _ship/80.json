@@ -55,4 +55,6 @@ data:
     wed_b: [90, 96]
   wiki_id: "001"
   chinese_name: 长门
+  can_drop: true
+  can_construct: true
 ---

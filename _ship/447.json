@@ -55,4 +55,6 @@ data:
     wed_b: [92, 88]
   wiki_id: "247"
   chinese_name: 罗马改
+  can_drop: false
+  can_construct: false
 ---

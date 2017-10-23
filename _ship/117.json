@@ -55,4 +55,6 @@ data:
     wed_b: [123, 151]
   wiki_id: "113"
   chinese_name: 瑞凤改
+  can_drop: false
+  can_construct: false
 ---
