@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 489
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 289
+  name: 満潮改二
+  yomi: みちしお
+  stype: 2
+  ctype: 18
+  cnum: 3
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
+  get_mes: <br>
+  voice_f: 1
   filename: nhulrhmihxop
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["1", "1", "1019"]
+  book_table_id: [489]
+  book_sinfo: 駆逐艦、満潮よ。<br>姉妹艦の朝潮、大潮、荒潮とは第８駆逐隊で腐れ縁の仲。でも、最後は離れ離れ。<br>私は西村艦隊の一員として、レイテに突入を図ったわ。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [31, 54]
+    souk: [15, 54]
+    houg: [19, 68]
+    raig: [32, 89]
+    tyku: [20, 64]
+    luck: [18, 77]
+    soku: 10
+    leng: 1
+    kaih: 51
+    tais: 26
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 22
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [144, 156]
+    boko_d: [144, 156]
+    kaisyu_n: [18, -12]
+    kaisyu_d: [36, 8]
+    kaizo_n: [100, 88]
+    kaizo_d: [64, 76]
+    map_n: [112, 136]
+    map_d: [84, 136]
+    ensyuf_n: [104, 136]
+    ensyuf_d: [92, 136]
+    ensyue_n: [104, 0]
+    battle_n: [136, 148]
+    battle_d: [120, 152]
+    wed_a: [124, -12]
+    wed_b: [72, 124]
+  wiki_id: "289"
+  chinese_name: 满潮改二
   can_drop: false
   can_construct: false
 ---
