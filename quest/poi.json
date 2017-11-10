@@ -2257,7 +2257,7 @@
       }
     ],
     "prerequisite": [
-      216
+      119
     ],
     "requirements": {
       "category": "fleet",
@@ -2554,6 +2554,7 @@
       }
     ],
     "prerequisite": [
+      148,
       296
     ],
     "requirements": {
@@ -2641,7 +2642,7 @@
       }
     ],
     "prerequisite": [
-      120,
+      131,
       216
     ],
     "requirements": {
@@ -2682,8 +2683,7 @@
       }
     ],
     "prerequisite": [
-      165,
-      201
+      293
     ],
     "requirements": {
       "category": "fleet",
@@ -2724,8 +2724,8 @@
       }
     ],
     "prerequisite": [
-      113,
-      116
+      104,
+      293
     ],
     "requirements": {
       "category": "fleet",
@@ -2759,7 +2759,7 @@
       }
     ],
     "prerequisite": [
-      132
+      239
     ],
     "requirements": {
       "category": "fleet",
@@ -2802,7 +2802,6 @@
       }
     ],
     "prerequisite": [
-      175,
       819
     ],
     "requirements": {
@@ -2969,8 +2968,7 @@
       }
     ],
     "prerequisite": [
-      258,
-      289
+      258
     ],
     "requirements": {
       "category": "fleet",
@@ -5861,7 +5859,8 @@
       }
     ],
     "prerequisite": [
-      157
+      157,
+      309
     ],
     "requirements": {
       "category": "sortie",
@@ -5915,7 +5914,6 @@
       }
     ],
     "prerequisite": [
-      221,
       230,
       260
     ],
@@ -5951,7 +5949,9 @@
       }
     ],
     "prerequisite": [
-      201
+      201,
+      205,
+      216
     ],
     "requirements": {
       "category": "sortie",
@@ -6636,6 +6636,7 @@
     ],
     "prerequisite": [
       216,
+      613,
       635
     ],
     "requirements": {
@@ -7343,7 +7344,6 @@
       }
     ],
     "prerequisite": [
-      402,
       406
     ],
     "requirements": {
@@ -8075,7 +8075,6 @@
       }
     ],
     "prerequisite": [
-      215,
       608
     ],
     "requirements": {
@@ -8319,7 +8318,6 @@
       }
     ],
     "prerequisite": [
-      164,
       626
     ],
     "requirements": {
@@ -8975,8 +8973,9 @@
       }
     ],
     "prerequisite": [
-      296,
-      302
+      110,
+      302,
+      604
     ],
     "requirements": {
       "category": "equipexchange",
@@ -9163,7 +9162,7 @@
     ],
     "prerequisite": [
       304,
-      649
+      423
     ],
     "requirements": {
       "category": "equipexchange",
@@ -9234,7 +9233,7 @@
   },
   {
     "game_id": 652,
-    "wiki_id": "F48",
+    "wiki_id": "F49",
     "category": 6,
     "type": 1,
     "name": "「特注家具」の調達",
@@ -9250,9 +9249,7 @@
       }
     ],
     "prerequisite": [
-      303,
-      604,
-      842
+      604
     ],
     "requirements": {
       "category": "equipexchange",
@@ -9368,7 +9365,7 @@
   },
   {
     "game_id": 658,
-    "wiki_id": "F49",
+    "wiki_id": "F48",
     "category": 6,
     "type": 1,
     "name": "潜水艦武装の強化",
@@ -9433,7 +9430,6 @@
       }
     ],
     "prerequisite": [
-      270,
       607,
       839
     ],
@@ -9525,8 +9521,8 @@
       }
     ],
     "prerequisite": [
-      150,
-      607
+      607,
+      612
     ],
     "requirements": {
       "category": "equipexchange",
@@ -9566,6 +9562,7 @@
       }
     ],
     "prerequisite": [
+      618,
       661
     ],
     "requirements": {
@@ -9889,7 +9886,8 @@
       }
     ],
     "prerequisite": [
-      171
+      171,
+      201
     ],
     "requirements": {
       "category": "sortie",
@@ -10272,8 +10270,7 @@
       }
     ],
     "prerequisite": [
-      108,
-      120,
+      105,
       206
     ],
     "requirements": {
@@ -10630,7 +10627,7 @@
       }
     ],
     "prerequisite": [
-
+      209
     ],
     "requirements": {
       "category": "sortie",
@@ -10902,7 +10899,7 @@
       }
     ],
     "prerequisite": [
-      216
+      206
     ],
     "requirements": {
       "category": "sortie",
@@ -11121,7 +11118,7 @@
       }
     ],
     "prerequisite": [
-      120
+      116
     ],
     "requirements": {
       "category": "sortie",
@@ -12160,7 +12157,8 @@
       }
     ],
     "prerequisite": [
-      181
+      181,
+      303
     ],
     "requirements": {
       "category": "and",
