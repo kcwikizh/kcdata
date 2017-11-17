@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 386
+  sort_no: 1466
+  name: 対馬改
+  yomi: つしま
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: soujslbigbak
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [17, 28]
+    souk: [7, 34]
+    houg: [5, 36]
+    raig: [0, 0]
+    tyku: [12, 53]
+    luck: [49, 94]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [212, 80]
+    boko_d: [180, 100]
+    kaisyu_n: [20, -26]
+    kaisyu_d: [60, -12]
+    kaizo_n: [164, 0]
+    kaizo_d: [120, 0]
+    map_n: [184, 52]
+    map_d: [164, 72]
+    ensyuf_n: [176, 52]
+    ensyuf_d: [156, 72]
+    ensyue_n: [160, 0]
+    battle_n: [180, 64]
+    battle_d: [160, 72]
+    wed_a: [40, 84]
+    wed_b: [88, 120]
+  wiki_id: "340a"
+  chinese_name: 对马改
+  can_drop: false
+  can_construct: false
+---

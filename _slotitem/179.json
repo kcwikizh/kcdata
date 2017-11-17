@@ -62,21 +62,33 @@ data:
         -
           -
             ship_id: 50
+          -
+            ship_id: 229
         - false
         - false
         -
           -
             ship_id: 423
+          -
+            ship_id: 357
         -
           -
             ship_id: 423
+          -
+            ship_id: 357
         -
           -
             ship_id: 423
+          -
+            ship_id: 357
         -
           -
             ship_id: 423
+          -
+            ship_id: 357
           -
             ship_id: 50
+          -
+            ship_id: 229
   chinese_name: 试制61cm六连装(酸素)鱼雷
 ---

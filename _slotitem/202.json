@@ -1,0 +1,36 @@
+---
+layout: json
+order: 202
+data:
+  id: 202
+  sort_no: 202
+  name: 紫電二一型 紫電改
+  type: [22, 39, 48, 38, 12]
+  rare: 3
+  broken: [2, 2, 0, 7]
+  info: 水上戦闘機「強風」から発展した局地戦闘機「紫電」。同機主翼を中翼から低翼配置に改め、さらに自動空戦フラップの改良や防御力向上など、各種改良を施しました。大馬力エンジンと空戦フラップ、そして火力と防御力。零戦を大きく凌ぐ優れた空戦能力を持つ、海軍本土防空最後の切り札となる名機「紫電改」、その初期型の誕生です。
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 2
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 9
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

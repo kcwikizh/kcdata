@@ -74,32 +74,64 @@ data:
           -
             ship_id: 68
           -
+            ship_id: 271
+          -
+            ship_id: 428
+          -
             ship_id: 421
           -
+            ship_id: 330
+          -
             ship_id: 422
+          -
+            ship_id: 346
         -
           -
             ship_id: 68
           -
+            ship_id: 271
+          -
+            ship_id: 428
+          -
             ship_id: 421
+          -
+            ship_id: 330
         - false
         - false
         -
           -
             ship_id: 422
+          -
+            ship_id: 346
         -
           -
             ship_id: 68
           -
+            ship_id: 271
+          -
+            ship_id: 428
+          -
             ship_id: 421
           -
+            ship_id: 330
+          -
             ship_id: 422
+          -
+            ship_id: 346
         -
           -
             ship_id: 68
           -
+            ship_id: 271
+          -
+            ship_id: 428
+          -
             ship_id: 421
           -
+            ship_id: 330
+          -
             ship_id: 422
+          -
+            ship_id: 346
   chinese_name: 91式高射装置
 ---

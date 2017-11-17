@@ -46,7 +46,7 @@ data:
           -
             -
               id: 3
-              amount: [4, 6]
+              amount: [5, 6]
             -
               id: 4
               amount: [7, 8]
@@ -75,6 +75,8 @@ data:
         -
           -
             ship_id: 451
+          -
+            ship_id: 348
         - false
         - false
         - false
@@ -82,8 +84,12 @@ data:
         -
           -
             ship_id: 451
+          -
+            ship_id: 348
         -
           -
             ship_id: 451
+          -
+            ship_id: 348
   chinese_name: 二式水战改
 ---

@@ -82,28 +82,40 @@ data:
             ship_id: 88
           -
             ship_id: 133
+          -
+            ship_id: 302
         -
           -
             ship_id: 133
+          -
+            ship_id: 302
+        - false
         -
           -
             ship_id: 50
-        -
           -
-            ship_id: 50
+            ship_id: 229
         -
           -
             ship_id: 87
           -
             ship_id: 133
           -
+            ship_id: 302
+          -
             ship_id: 50
+          -
+            ship_id: 229
         -
           -
             ship_id: 87
           -
             ship_id: 133
           -
+            ship_id: 302
+          -
             ship_id: 50
+          -
+            ship_id: 229
   chinese_name: 22号对水上电探
 ---

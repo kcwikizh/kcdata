@@ -74,30 +74,66 @@ data:
           -
             ship_id: 61
           -
+            ship_id: 264
+          -
             ship_id: 123
+          -
+            ship_id: 295
+          -
+            ship_id: 142
         -
           -
             ship_id: 123
+          -
+            ship_id: 295
+          -
+            ship_id: 142
         -
           -
             ship_id: 123
+          -
+            ship_id: 295
+          -
+            ship_id: 142
         -
           -
             ship_id: 123
+          -
+            ship_id: 295
+          -
+            ship_id: 142
         -
           -
             ship_id: 61
           -
+            ship_id: 264
+          -
             ship_id: 123
+          -
+            ship_id: 295
+          -
+            ship_id: 142
         -
           -
             ship_id: 61
           -
+            ship_id: 264
+          -
             ship_id: 123
+          -
+            ship_id: 295
+          -
+            ship_id: 142
         -
           -
             ship_id: 61
           -
+            ship_id: 264
+          -
             ship_id: 123
+          -
+            ship_id: 295
+          -
+            ship_id: 142
   chinese_name: 20.3cm连装炮
 ---

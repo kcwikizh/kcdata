@@ -77,28 +77,36 @@ data:
             ship_id: 147
         -
           -
-            ship_id: 147
+            ship_id: 496
           -
             ship_id: 140
           -
-            ship_id: 496
-        -
-          -
-            ship_id: 147
-          -
-            ship_id: 140
-          -
-            ship_id: 496
-        -
+            ship_id: 314
           -
             ship_id: 147
+        -
+          -
+            ship_id: 496
           -
             ship_id: 140
           -
+            ship_id: 314
+          -
+            ship_id: 147
+        -
+          -
             ship_id: 496
+          -
+            ship_id: 140
+          -
+            ship_id: 314
+          -
+            ship_id: 147
         -
           -
             ship_id: 140
+          -
+            ship_id: 314
         - false
         - false
   chinese_name: 增设装甲(中型舰)

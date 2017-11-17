@@ -73,25 +73,57 @@ data:
         -
           -
             ship_id: 85
+          -
+            ship_id: 212
+          -
+            ship_id: 152
         -
           -
             ship_id: 85
+          -
+            ship_id: 212
+          -
+            ship_id: 152
         - false
         -
           -
             ship_id: 86
+          -
+            ship_id: 210
+          -
+            ship_id: 150
         -
           -
             ship_id: 86
+          -
+            ship_id: 210
+          -
+            ship_id: 150
         -
           -
             ship_id: 86
+          -
+            ship_id: 210
+          -
+            ship_id: 150
           -
             ship_id: 85
+          -
+            ship_id: 212
+          -
+            ship_id: 152
         -
           -
             ship_id: 86
           -
+            ship_id: 210
+          -
+            ship_id: 150
+          -
             ship_id: 85
+          -
+            ship_id: 212
+          -
+            ship_id: 152
   chinese_name: 九一式撤甲弹
 ---

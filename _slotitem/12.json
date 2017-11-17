@@ -76,22 +76,24 @@ data:
         - false
         - false
         - false
+        - false
         -
+          -
+            ship_id: 131
+          -
+            ship_id: 136
+          -
+            ship_id: 148
           -
             ship_id: 143
         -
           -
             ship_id: 131
           -
-            ship_id: 143
+            ship_id: 136
           -
             ship_id: 148
-        -
-          -
-            ship_id: 131
           -
             ship_id: 143
-          -
-            ship_id: 148
   chinese_name: 15.5cm三连装副炮
 ---

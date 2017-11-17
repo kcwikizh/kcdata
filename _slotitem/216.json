@@ -62,6 +62,8 @@ data:
         -
           -
             ship_id: 451
+          -
+            ship_id: 348
         - false
         - false
         - false
@@ -69,8 +71,12 @@ data:
         -
           -
             ship_id: 451
+          -
+            ship_id: 348
         -
           -
             ship_id: 451
+          -
+            ship_id: 348
   chinese_name: 二式水战改(熟练)
 ---

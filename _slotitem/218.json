@@ -1,0 +1,36 @@
+---
+layout: json
+order: 218
+data:
+  id: 218
+  sort_no: 218
+  name: 四式戦 疾風
+  type: [22, 39, 48, 44, 27]
+  rare: 3
+  broken: [3, 2, 0, 9]
+  info: 陸軍の決戦機として開発・量産された傑作戦闘機キ84、四式戦「疾風」。陸軍戦闘機部隊の主力戦闘機として配備され、捷一号作戦などで戦いました。フィリピン戦線に投入された四式戦を装備した戦隊は、悪化した戦局の中、一時的ではあるもののレイテ上空の制空権確保に尽力しました。
+  usebull: 0
+  cost: 7
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 10
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

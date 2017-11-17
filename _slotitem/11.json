@@ -74,26 +74,56 @@ data:
           -
             ship_id: 137
           -
+            ship_id: 305
+          -
             ship_id: 78
+          -
+            ship_id: 209
+          -
+            ship_id: 149
         -
           -
             ship_id: 137
           -
+            ship_id: 305
+          -
             ship_id: 78
           -
+            ship_id: 209
+          -
+            ship_id: 149
+          -
             ship_id: 27
+          -
+            ship_id: 287
+          -
+            ship_id: 412
         -
           -
             ship_id: 137
           -
+            ship_id: 305
+          -
             ship_id: 27
+          -
+            ship_id: 287
+          -
+            ship_id: 412
         -
           -
             ship_id: 27
+          -
+            ship_id: 287
+          -
+            ship_id: 412
         - false
         - false
         -
           -
             ship_id: 78
+          -
+            ship_id: 209
+          -
+            ship_id: 149
   chinese_name: 15.2cm单装炮
 ---

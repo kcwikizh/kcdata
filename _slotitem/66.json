@@ -58,6 +58,72 @@ data:
             id: 3
             amount: 2
       upgrade:
+      day:
+        -
+          -
+            ship_id: 137
+          -
+            ship_id: 305
+          -
+            ship_id: 138
+          -
+            ship_id: 306
+        -
+          -
+            ship_id: 138
+          -
+            ship_id: 306
+        - false
+        - false
+        -
+          -
+            ship_id: 137
+          -
+            ship_id: 305
+        -
+          -
+            ship_id: 137
+          -
+            ship_id: 305
+          -
+            ship_id: 138
+          -
+            ship_id: 306
+        -
+          -
+            ship_id: 137
+          -
+            ship_id: 305
+          -
+            ship_id: 138
+          -
+            ship_id: 306
+    -
+      consume:
+        resource: [10, 40, 80, 40]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 5]
+            -
+              id: 4
+              amount: [3, 3]
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [4, 5]
+        slotitem:
+          -
+            id: 3
+            amount: 1
+          -
+            id: 3
+            amount: 2
+      upgrade:
         id: 220
         level: 0
         consume:
@@ -74,44 +140,46 @@ data:
       day:
         -
           -
-            ship_id: 137
+            ship_id: 139
           -
-            ship_id: 138
+            ship_id: 307
+        -
           -
             ship_id: 139
-        -
+          -
+            ship_id: 307
           -
             ship_id: 504
           -
-            ship_id: 138
+            ship_id: 509
+        -
           -
             ship_id: 139
+          -
+            ship_id: 307
+          -
+            ship_id: 503
+          -
+            ship_id: 508
+          -
+            ship_id: 504
+          -
+            ship_id: 509
         -
           -
             ship_id: 503
           -
+            ship_id: 508
+          -
             ship_id: 504
           -
-            ship_id: 139
+            ship_id: 509
         -
           -
             ship_id: 503
           -
-            ship_id: 504
-        -
-          -
-            ship_id: 503
-          -
-            ship_id: 137
-        -
-          -
-            ship_id: 137
-          -
-            ship_id: 138
-        -
-          -
-            ship_id: 137
-          -
-            ship_id: 138
+            ship_id: 508
+        - false
+        - false
   chinese_name: 8cm高角炮
 ---

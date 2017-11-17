@@ -75,23 +75,37 @@ data:
         -
           -
             ship_id: 442
+          -
+            ship_id: 447
         -
           -
             ship_id: 442
+          -
+            ship_id: 447
         -
           -
             ship_id: 441
+          -
+            ship_id: 446
         -
           -
             ship_id: 441
+          -
+            ship_id: 446
         -
           -
             ship_id: 441
+          -
+            ship_id: 446
         -
           -
             ship_id: 441
+          -
+            ship_id: 446
         -
           -
             ship_id: 442
+          -
+            ship_id: 447
   chinese_name: 381mm/50 三连装炮
 ---

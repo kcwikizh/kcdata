@@ -61,24 +61,40 @@ data:
           -
             ship_id: 441
           -
+            ship_id: 446
+          -
             ship_id: 442
+          -
+            ship_id: 447
         -
           -
             ship_id: 442
+          -
+            ship_id: 447
         -
           -
             ship_id: 441
+          -
+            ship_id: 446
         -
           -
             ship_id: 441
+          -
+            ship_id: 446
         -
           -
             ship_id: 442
+          -
+            ship_id: 447
         -
           -
             ship_id: 442
+          -
+            ship_id: 447
         -
           -
             ship_id: 441
+          -
+            ship_id: 446
   chinese_name: OTO 152mm三连装速射炮
 ---

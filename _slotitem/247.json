@@ -34,7 +34,7 @@ data:
   improvement: 
     -
       consume:
-        resource: [15, 150, 150, 50]
+        resource: [10, 150, 150, 50]
         useitem:
           -
             -
@@ -63,15 +63,23 @@ data:
         -
           -
             ship_id: 492
+          -
+            ship_id: 392
         -
           -
             ship_id: 492
+          -
+            ship_id: 392
         -
           -
             ship_id: 492
+          -
+            ship_id: 392
         -
           -
             ship_id: 492
+          -
+            ship_id: 392
         - false
         - false
   chinese_name: 

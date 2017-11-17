@@ -1,0 +1,36 @@
+---
+layout: json
+order: 201
+data:
+  id: 201
+  sort_no: 201
+  name: 紫電一一型
+  type: [22, 39, 48, 38, 12]
+  rare: 3
+  broken: [2, 2, 0, 6]
+  info: 水上戦闘機「強風」を陸上戦闘機として改修発展させた局地戦闘機「紫電」。待望の新鋭機ではありましたが、「強風」由来の主翼の中翼配置、それに伴う二段伸縮式主脚、視界不良や翼下のガンポッドなど課題を大きく残す機体となりました。台湾沖航空戦や捷一号作戦などに出撃します。本機は、その後改良され、名機「紫電改」へと発展していきます。
+  usebull: 0
+  cost: 6
+  distance: 3
+  stats:
+    taik: 0
+    souk: 1
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 8
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

@@ -62,17 +62,25 @@ data:
         -
           -
             ship_id: 440
+          -
+            ship_id: 360
         - false
         - false
         - false
         -
           -
             ship_id: 440
+          -
+            ship_id: 360
         -
           -
             ship_id: 440
+          -
+            ship_id: 360
         -
           -
             ship_id: 440
+          -
+            ship_id: 360
   chinese_name: 16英寸三连装炮 Mk.7+GFCS
 ---

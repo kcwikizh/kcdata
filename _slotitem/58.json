@@ -63,9 +63,13 @@ data:
         -
           -
             ship_id: 50
+          -
+            ship_id: 229
         -
           -
             ship_id: 50
+          -
+            ship_id: 229
         - false
         - false
   chinese_name: 61cm五连装(酸素)鱼雷

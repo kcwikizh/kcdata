@@ -76,10 +76,28 @@ data:
           -
             ship_id: 124
           -
+            ship_id: 129
+          -
+            ship_id: 503
+          -
+            ship_id: 508
+          -
             ship_id: 125
+          -
+            ship_id: 130
+          -
+            ship_id: 504
+          -
+            ship_id: 509
         -
           -
             ship_id: 125
+          -
+            ship_id: 130
+          -
+            ship_id: 504
+          -
+            ship_id: 509
         - false
         - false
         - false
@@ -88,12 +106,30 @@ data:
             ship_id: 428
           -
             ship_id: 124
+          -
+            ship_id: 129
+          -
+            ship_id: 503
+          -
+            ship_id: 508
         -
           -
             ship_id: 428
           -
             ship_id: 124
           -
+            ship_id: 129
+          -
+            ship_id: 503
+          -
+            ship_id: 508
+          -
             ship_id: 125
+          -
+            ship_id: 130
+          -
+            ship_id: 504
+          -
+            ship_id: 509
   chinese_name: 12.7cm连装高角炮
 ---

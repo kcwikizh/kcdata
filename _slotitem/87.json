@@ -63,11 +63,15 @@ data:
         -
           -
             ship_id: 50
+          -
+            ship_id: 229
         -
           -
             ship_id: 316
           -
             ship_id: 50
+          -
+            ship_id: 229
         -
           -
             ship_id: 316
@@ -77,6 +81,8 @@ data:
         -
           -
             ship_id: 50
+          -
+            ship_id: 229
         - false
   chinese_name: 新型高温高压缶
 ---

@@ -62,12 +62,30 @@ data:
         -
           -
             ship_id: 171
+          -
+            ship_id: 172
+          -
+            ship_id: 173
+          -
+            ship_id: 178
         -
           -
             ship_id: 171
+          -
+            ship_id: 172
+          -
+            ship_id: 173
+          -
+            ship_id: 178
         -
           -
             ship_id: 171
+          -
+            ship_id: 172
+          -
+            ship_id: 173
+          -
+            ship_id: 178
         - false
         - false
         - false

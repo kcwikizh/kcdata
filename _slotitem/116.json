@@ -62,21 +62,45 @@ data:
         -
           -
             ship_id: 78
+          -
+            ship_id: 209
+          -
+            ship_id: 149
         -
           -
             ship_id: 79
+          -
+            ship_id: 211
+          -
+            ship_id: 151
         -
           -
             ship_id: 79
+          -
+            ship_id: 211
+          -
+            ship_id: 151
         -
           -
             ship_id: 79
+          -
+            ship_id: 211
+          -
+            ship_id: 151
         - false
         -
           -
             ship_id: 78
+          -
+            ship_id: 209
+          -
+            ship_id: 149
         -
           -
             ship_id: 78
+          -
+            ship_id: 209
+          -
+            ship_id: 149
   chinese_name: 一式撤甲弹
 ---

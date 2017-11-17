@@ -72,38 +72,94 @@ data:
       day:
         -
           -
+            ship_id: 25
+          -
+            ship_id: 58
+          -
+            ship_id: 119
+          -
             ship_id: 24
           -
-            ship_id: 25
+            ship_id: 57
+          -
+            ship_id: 118
         -
           -
+            ship_id: 25
+          -
+            ship_id: 58
+          -
+            ship_id: 119
+          -
             ship_id: 24
           -
-            ship_id: 25
+            ship_id: 57
+          -
+            ship_id: 118
         -
           -
+            ship_id: 25
+          -
+            ship_id: 58
+          -
+            ship_id: 119
+          -
             ship_id: 24
           -
-            ship_id: 25
+            ship_id: 57
+          -
+            ship_id: 118
         -
           -
+            ship_id: 25
+          -
+            ship_id: 58
+          -
+            ship_id: 119
+          -
             ship_id: 24
           -
-            ship_id: 25
+            ship_id: 57
+          -
+            ship_id: 118
         -
           -
+            ship_id: 25
+          -
+            ship_id: 58
+          -
+            ship_id: 119
+          -
             ship_id: 24
           -
-            ship_id: 25
+            ship_id: 57
+          -
+            ship_id: 118
         -
           -
+            ship_id: 25
+          -
+            ship_id: 58
+          -
+            ship_id: 119
+          -
             ship_id: 24
           -
-            ship_id: 25
+            ship_id: 57
+          -
+            ship_id: 118
         -
           -
+            ship_id: 25
+          -
+            ship_id: 58
+          -
+            ship_id: 119
+          -
             ship_id: 24
           -
-            ship_id: 25
+            ship_id: 57
+          -
+            ship_id: 118
   chinese_name: 61cm四连装(酸素)鱼雷
 ---

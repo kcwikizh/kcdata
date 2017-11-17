@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 493
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 293
+  name: 伊400
+  yomi: い400
+  stype: 14
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
+  backs: 6
+  after_lv: 37
+  after_ship_id: 606
+  get_mes: 提督、ごきげんよう。潜特型の長女、<br>一番艦、伊400です。ん…。し…お……ん？<br>そう…しおん…とお呼びください。
+  voice_f: 3
   filename: lksmyghdkbsg
   file_version: ["1", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [20, 24]
+    souk: [5, 24]
+    houg: [2, 10]
+    raig: [36, 73]
+    tyku: [0, 0]
+    luck: [19, 58]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 1
+    max_eq: [3, 0, 0, 0, 0]
+    after_fuel: 300
+    after_bull: 100
+    fuel_max: 20
+    bull_max: 15
+    broken: [1, 2, 3, 2]
+    pow_up: [0, 1, 1, 1]
+    build_time: 200
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [144, 152]
+    boko_d: [68, 168]
+    kaisyu_n: [38, -20]
+    kaisyu_d: [12, -32]
+    kaizo_n: [100, 88]
+    kaizo_d: [-4, 80]
+    map_n: [136, 128]
+    map_d: [32, 136]
+    ensyuf_n: [108, 132]
+    ensyuf_d: [4, 140]
+    ensyue_n: [108, 0]
+    battle_n: [128, 148]
+    battle_d: [40, 156]
+    wed_a: [128, -8]
+    wed_b: [80, 116]
+  wiki_id: "293"
+  chinese_name: 伊400
   can_drop: false
   can_construct: false
 ---

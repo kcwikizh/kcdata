@@ -64,10 +64,22 @@ data:
         -
           -
             ship_id: 111
+          -
+            ship_id: 112
+          -
+            ship_id: 462
+          -
+            ship_id: 467
         - false
         -
           -
             ship_id: 111
+          -
+            ship_id: 112
+          -
+            ship_id: 462
+          -
+            ship_id: 467
         - false
         - false
   chinese_name: 零战52型丙(付岩井小队)

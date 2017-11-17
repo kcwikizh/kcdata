@@ -75,9 +75,13 @@ data:
         -
           -
             ship_id: 161
+          -
+            ship_id: 166
         -
           -
             ship_id: 161
+          -
+            ship_id: 166
         -
           -
             ship_id: 200
@@ -93,10 +97,14 @@ data:
           -
             ship_id: 161
           -
+            ship_id: 166
+          -
             ship_id: 418
         -
           -
             ship_id: 161
+          -
+            ship_id: 166
           -
             ship_id: 418
   chinese_name: 大发动艇(八九式中战车&陆战队)

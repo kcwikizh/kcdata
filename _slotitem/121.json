@@ -74,51 +74,85 @@ data:
           -
             ship_id: 421
           -
+            ship_id: 330
+          -
             ship_id: 422
           -
-            ship_id: 426
+            ship_id: 346
           -
             ship_id: 423
-        -
           -
-            ship_id: 421
-          -
-            ship_id: 422
-        -
-          -
-            ship_id: 421
-          -
-            ship_id: 422
-        -
-          -
-            ship_id: 421
-          -
-            ship_id: 422
-        -
-          -
-            ship_id: 421
-          -
-            ship_id: 422
+            ship_id: 357
           -
             ship_id: 426
         -
           -
             ship_id: 421
           -
+            ship_id: 330
+          -
             ship_id: 422
           -
+            ship_id: 346
+        -
+          -
+            ship_id: 421
+          -
+            ship_id: 330
+          -
+            ship_id: 422
+          -
+            ship_id: 346
+        -
+          -
+            ship_id: 421
+          -
+            ship_id: 330
+          -
+            ship_id: 422
+          -
+            ship_id: 346
+        -
+          -
+            ship_id: 421
+          -
+            ship_id: 330
+          -
+            ship_id: 422
+          -
+            ship_id: 346
+          -
             ship_id: 426
+        -
+          -
+            ship_id: 421
+          -
+            ship_id: 330
+          -
+            ship_id: 422
+          -
+            ship_id: 346
           -
             ship_id: 423
+          -
+            ship_id: 357
+          -
+            ship_id: 426
         -
           -
             ship_id: 421
           -
+            ship_id: 330
+          -
             ship_id: 422
           -
-            ship_id: 426
+            ship_id: 346
           -
             ship_id: 423
+          -
+            ship_id: 357
+          -
+            ship_id: 426
     -
       consume:
         resource: [0, 0, 80, 70]

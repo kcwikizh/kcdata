@@ -67,8 +67,20 @@ data:
         -
           -
             ship_id: 111
+          -
+            ship_id: 112
+          -
+            ship_id: 462
+          -
+            ship_id: 467
         -
           -
             ship_id: 111
+          -
+            ship_id: 112
+          -
+            ship_id: 462
+          -
+            ship_id: 467
   chinese_name: 零式舰战53型(岩本队)
 ---

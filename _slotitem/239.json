@@ -1,0 +1,36 @@
+---
+layout: json
+order: 239
+data:
+  id: 239
+  sort_no: 239
+  name: 零式水上偵察機11型乙(熟練)
+  type: [5, 7, 10, 10, 2]
+  rare: 4
+  broken: [1, 2, 0, 3]
+  info: 艦隊の航空偵察の主役として、戦いの前半期では幅広い局面で活躍した「零式水上偵察機」。各水上艦艇に搭載され、三座を活かして艦隊の「目」としての索敵任務に務めました。本機は、熟練搭乗員ペアの駆る、哨戒性能等を強化した改良後期型です。
+  usebull: 0
+  cost: 5
+  distance: 7
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 8
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 8
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

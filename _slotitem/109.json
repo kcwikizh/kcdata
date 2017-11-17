@@ -62,31 +62,53 @@ data:
         -
           -
             ship_id: 153
+          -
+            ship_id: 156
         -
           -
             ship_id: 153
+          -
+            ship_id: 156
         -
           -
             ship_id: 153
+          -
+            ship_id: 156
         -
           -
             ship_id: 153
+          -
+            ship_id: 156
           -
             ship_id: 404
+          -
+            ship_id: 406
         -
           -
             ship_id: 153
           -
+            ship_id: 156
+          -
             ship_id: 404
+          -
+            ship_id: 406
         -
           -
             ship_id: 153
           -
+            ship_id: 156
+          -
             ship_id: 404
+          -
+            ship_id: 406
         -
           -
             ship_id: 153
           -
+            ship_id: 156
+          -
             ship_id: 404
+          -
+            ship_id: 406
   chinese_name: 零战52型丙(六〇一空)
 ---

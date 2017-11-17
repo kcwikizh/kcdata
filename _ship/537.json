@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 537
+  sort_no: 337
+  name: 涼月改
+  yomi: すずつき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 0
+  filename: yjgylyotzuwn
+  file_version: ["51", "2", "2"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [0, 0]
+    souk: [0, 0]
+    houg: [0, 0]
+    raig: [0, 0]
+    tyku: [0, 0]
+    luck: [0, 0]
+    soku: 0
+    leng: 0
+    kaih: 
+    tais: 
+    slot_num: 0
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 0
+    bull_max: 0
+    broken: [0, 0, 0, 0]
+    pow_up: [0, 0, 0, 0]
+    build_time: 0
+  graph:
+    boko_n: [40, 128]
+    boko_d: [96, 136]
+    kaisyu_n: [20, 16]
+    kaisyu_d: [32, -8]
+    kaizo_n: [16, 72]
+    kaizo_d: [80, 48]
+    map_n: [48, 112]
+    map_d: [80, 120]
+    ensyuf_n: [32, 104]
+    ensyuf_d: [96, 112]
+    ensyue_n: [16, 0]
+    battle_n: [48, 112]
+    battle_d: [80, 128]
+    wed_a: [184, 24]
+    wed_b: [112, 112]
+  wiki_id: "337"
+  chinese_name: 凉月改
+  can_drop: false
+  can_construct: false
+---

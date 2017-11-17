@@ -14,8 +14,8 @@ data:
   get_mes: あ、あの…磯波と申します。<br>よろしくお願いいたします。
   voice_f: 0
   filename: ljesxnctkmmf
-  file_version: ["13", "11", "1"]
-  book_table_id: [12]
+  file_version: ["14", "11", "1"]
+  book_table_id: [12, 998]
   book_sinfo: 特型駆逐艦９番艦の磯波です。<br>数々の作戦に参加したんですけど、中破してからは、後方で海上護衛や哨戒活動に従事していました。<br>頑張ります。
   stats:
     taik: [15, 29]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [220, 152]
-    boko_d: [220, 152]
+    boko_n: [27, 77]
+    boko_d: [17, 95]
     kaisyu_n: [5, 10]
     kaisyu_d: [28, 7]
-    kaizo_n: [160, 96]
-    kaizo_d: [152, 72]
-    map_n: [184, 136]
-    map_d: [184, 136]
-    ensyuf_n: [160, 136]
-    ensyuf_d: [160, 136]
-    ensyue_n: [160, 0]
-    battle_n: [196, 144]
-    battle_d: [196, 144]
-    wed_a: [60, -8]
-    wed_b: [88, 116]
+    kaizo_n: [-28, 22]
+    kaizo_d: [-29, 3]
+    map_n: [10, 71]
+    map_d: [-79, 67]
+    ensyuf_n: [-9, 69]
+    ensyuf_d: [-64, 41]
+    ensyue_n: [-9, 0]
+    battle_n: [-19, 63]
+    battle_d: [-20, 63]
+    wed_a: [219, 58]
+    wed_b: [133, 126]
   wiki_id: "016"
   chinese_name: 矶波
   can_drop: true

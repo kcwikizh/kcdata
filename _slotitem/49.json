@@ -73,25 +73,45 @@ data:
         -
           -
             ship_id: 28
+          -
+            ship_id: 256
+          -
+            ship_id: 418
         - false
         - false
         -
           -
             ship_id: 29
+          -
+            ship_id: 257
         -
           -
-            ship_id: 113
-          -
             ship_id: 29
+          -
+            ship_id: 257
+          -
+            ship_id: 487
         -
           -
             ship_id: 28
           -
+            ship_id: 256
+          -
+            ship_id: 418
+          -
             ship_id: 29
+          -
+            ship_id: 257
         -
           -
             ship_id: 28
           -
+            ship_id: 256
+          -
+            ship_id: 418
+          -
             ship_id: 29
+          -
+            ship_id: 257
   chinese_name: 25mm单装机铳
 ---

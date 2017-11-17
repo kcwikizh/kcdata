@@ -58,6 +58,74 @@ data:
             id: 24
             amount: 2
       upgrade:
+      day:
+        -
+          -
+            ship_id: 92
+          -
+            ship_id: 284
+          -
+            ship_id: 408
+          -
+            ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
+        -
+          -
+            ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 92
+          -
+            ship_id: 284
+          -
+            ship_id: 408
+        -
+          -
+            ship_id: 92
+          -
+            ship_id: 284
+          -
+            ship_id: 408
+    -
+      consume:
+        resource: [120, 120, 0, 280]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 6]
+            -
+              id: 4
+              amount: [3, 5]
+          -
+            -
+              id: 3
+              amount: [5, 9]
+            -
+              id: 4
+              amount: [4, 6]
+        slotitem:
+          -
+            id: 21
+            amount: 2
+          -
+            id: 24
+            amount: 2
+      upgrade:
         id: 219
         level: 0
         consume:
@@ -74,24 +142,14 @@ data:
       day:
         -
           -
-            ship_id: 92
-          -
-            ship_id: 110
-          -
             ship_id: 508
         -
-          -
-            ship_id: 110
           -
             ship_id: 508
         - false
         - false
         - false
-        -
-          -
-            ship_id: 92
-        -
-          -
-            ship_id: 92
+        - false
+        - false
   chinese_name: 零式舰战62型(爆战)
 ---

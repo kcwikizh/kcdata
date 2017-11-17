@@ -62,21 +62,57 @@ data:
         -
           -
             ship_id: 111
+          -
+            ship_id: 112
+          -
+            ship_id: 462
+          -
+            ship_id: 467
         -
           -
             ship_id: 111
+          -
+            ship_id: 112
+          -
+            ship_id: 462
+          -
+            ship_id: 467
         - false
         -
           -
             ship_id: 111
+          -
+            ship_id: 112
+          -
+            ship_id: 462
+          -
+            ship_id: 467
         -
           -
             ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
         -
           -
             ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
         -
           -
             ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
   chinese_name: 零式舰战52型
 ---

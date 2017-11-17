@@ -32,5 +32,62 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [10, 90, 10, 60]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [1, 1]
+          -
+            -
+              id: 3
+              amount: [4, 5]
+            -
+              id: 4
+              amount: [2, 3]
+        slotitem:
+          - 
+          -
+            id: 226
+            amount: 1
+      upgrade:
+        id: 227
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [5, 9]
+            -
+              id: 4
+              amount: [3, 6]
+          slotitem:
+            id: 226
+            amount: 2
+      day:
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 517
+          -
+            ship_id: 524
+        -
+          -
+            ship_id: 517
+          -
+            ship_id: 524
+        -
+          -
+            ship_id: 524
+        -
+          -
+            ship_id: 524
   chinese_name: 九五式爆雷
 ---

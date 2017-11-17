@@ -15,7 +15,7 @@ data:
   stats:
     taik: 0
     souk: 0
-    houg: 4
+    houg: 5
     raig: 0
     soku: 0
     baku: 0
@@ -73,31 +73,53 @@ data:
         -
           -
             ship_id: 138
+          -
+            ship_id: 306
         -
           -
             ship_id: 138
           -
+            ship_id: 306
+          -
             ship_id: 139
+          -
+            ship_id: 307
         -
           -
             ship_id: 139
+          -
+            ship_id: 307
         -
           -
             ship_id: 139
+          -
+            ship_id: 307
         -
           -
             ship_id: 137
           -
+            ship_id: 305
+          -
             ship_id: 139
+          -
+            ship_id: 307
         -
           -
             ship_id: 137
+          -
+            ship_id: 305
           -
             ship_id: 138
+          -
+            ship_id: 306
         -
           -
             ship_id: 137
           -
+            ship_id: 305
+          -
             ship_id: 138
+          -
+            ship_id: 306
   chinese_name: 15.2cm连装炮
 ---

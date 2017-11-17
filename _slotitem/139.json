@@ -15,7 +15,7 @@ data:
   stats:
     taik: 0
     souk: 0
-    houg: 5
+    houg: 6
     raig: 0
     soku: 0
     baku: 0
@@ -62,25 +62,41 @@ data:
         -
           -
             ship_id: 140
+          -
+            ship_id: 314
         -
           -
             ship_id: 140
+          -
+            ship_id: 314
         -
           -
             ship_id: 140
+          -
+            ship_id: 314
         -
           -
             ship_id: 139
+          -
+            ship_id: 307
         -
           -
             ship_id: 139
+          -
+            ship_id: 307
         -
           -
             ship_id: 139
+          -
+            ship_id: 307
         -
           -
             ship_id: 139
+          -
+            ship_id: 307
           -
             ship_id: 140
+          -
+            ship_id: 314
   chinese_name: 15.2cm连装炮改
 ---

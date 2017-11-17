@@ -15,7 +15,7 @@ data:
   stats:
     taik: 0
     souk: 0
-    houg: 3
+    houg: 4
     raig: 0
     soku: 0
     baku: 0
@@ -61,11 +61,15 @@ data:
         -
           -
             ship_id: 115
+          -
+            ship_id: 293
         - false
         - false
         -
           -
             ship_id: 115
+          -
+            ship_id: 293
         - false
         - false
   chinese_name: 14cm连装炮

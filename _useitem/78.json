@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 78
+  usetype: 0
+  category: 0
+  name: 戦闘詳報
+  description:
+    - "本資料の活用により、貴重な戦訓を今後の戦術や装備改修などにフィードバック可能です。　※艦隊司令部の更新には、複数　の戦闘詳報が必要です。"
+    - ""
+  price: 0
+  chinese_name:
+  chinese_description:
+---

@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 385
+  sort_no: 1465
+  name: 佐渡改
+  yomi: さど
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: xtesmpinnnxy
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [17, 28]
+    souk: [7, 33]
+    houg: [5, 39]
+    raig: [0, 0]
+    tyku: [12, 54]
+    luck: [9, 59]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [112, 64]
+    boko_d: [64, 140]
+    kaisyu_n: [12, -20]
+    kaisyu_d: [32, -56]
+    kaizo_n: [56, -12]
+    kaizo_d: [16, 32]
+    map_n: [80, 40]
+    map_d: [32, 72]
+    ensyuf_n: [68, 56]
+    ensyuf_d: [4, 72]
+    ensyue_n: [68, 0]
+    battle_n: [68, 56]
+    battle_d: [40, 88]
+    wed_a: [160, 92]
+    wed_b: [80, 120]
+  wiki_id: "339a"
+  chinese_name: 佐渡改
+  can_drop: false
+  can_construct: false
+---

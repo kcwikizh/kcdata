@@ -77,12 +77,24 @@ data:
         -
           -
             ship_id: 438
+          -
+            ship_id: 545
+          -
+            ship_id: 550
         -
           -
             ship_id: 438
+          -
+            ship_id: 545
+          -
+            ship_id: 550
         -
           -
             ship_id: 438
+          -
+            ship_id: 545
+          -
+            ship_id: 550
         - false
         - false
   chinese_name: F6F-3

@@ -73,6 +73,10 @@ data:
         -
           -
             ship_id: 26
+          -
+            ship_id: 286
+          -
+            ship_id: 411
         - false
         - false
         - false
@@ -80,8 +84,16 @@ data:
         -
           -
             ship_id: 26
+          -
+            ship_id: 286
+          -
+            ship_id: 411
         -
           -
             ship_id: 26
+          -
+            ship_id: 286
+          -
+            ship_id: 411
   chinese_name: 35.6cm连装炮
 ---

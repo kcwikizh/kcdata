@@ -63,31 +63,55 @@ data:
         -
           -
             ship_id: 504
+          -
+            ship_id: 509
         -
           -
             ship_id: 503
+          -
+            ship_id: 508
+          -
+            ship_id: 139
+          -
+            ship_id: 307
+          -
+            ship_id: 140
+          -
+            ship_id: 314
           -
             ship_id: 504
           -
-            ship_id: 139
-          -
-            ship_id: 140
+            ship_id: 509
         -
           -
             ship_id: 503
+          -
+            ship_id: 508
+          -
+            ship_id: 139
+          -
+            ship_id: 307
+          -
+            ship_id: 140
+          -
+            ship_id: 314
           -
             ship_id: 504
           -
-            ship_id: 139
-          -
-            ship_id: 140
+            ship_id: 509
         -
           -
             ship_id: 503
           -
+            ship_id: 508
+          -
             ship_id: 139
           -
+            ship_id: 307
+          -
             ship_id: 140
+          -
+            ship_id: 314
         - false
         - false
   chinese_name: 8cm高脚炮改+增设机铳

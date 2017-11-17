@@ -1,0 +1,86 @@
+---
+layout: json
+order: 266
+data:
+  id: 266
+  sort_no: 266
+  name: 12.7cm連装砲C型改二
+  type: [1, 1, 1, 1, 0]
+  rare: 2
+  broken: [0, 1, 2, 0]
+  info: 中期以降の艦隊型駆逐艦に搭載された主砲のif改修型です。<br>防盾の全周遮蔽による弾片荒天対策、動力操法採用はそのまま、数々の戦訓を取り入れた改修を実施した、小型艦艇用の<br>熟成された小口径主砲です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 3
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+    -
+      consume:
+        resource: [10, 50, 80, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [3, 4]
+        slotitem:
+          -
+            id: 2
+            amount: 1
+          -
+            id: 63
+            amount: 1
+      upgrade:
+      day:
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 489
+          -
+            ship_id: 490
+        -
+          -
+            ship_id: 489
+          -
+            ship_id: 490
+        -
+          -
+            ship_id: 489
+          -
+            ship_id: 490
+        -
+          -
+            ship_id: 489
+          -
+            ship_id: 490
+  chinese_name:
+---

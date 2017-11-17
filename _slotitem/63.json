@@ -56,6 +56,19 @@ data:
             id: 63
             amount: 1
       upgrade:
+        id: 266
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [4, 8]
+            -
+              id: 4
+              amount: [4, 7]
+          slotitem:
+            id: 2
+            amount: 3
       day:
         - false
         -
@@ -73,7 +86,11 @@ data:
             ship_id: 144
           -
             ship_id: 195
-        - false
+          -
+            ship_id: 469
+        -
+          -
+            ship_id: 469
         - false
         - false
   chinese_name: 12.7cm连装炮B型改二

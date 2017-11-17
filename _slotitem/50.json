@@ -22,7 +22,7 @@ data:
     tyku: 4
     tais: 0
     atap: 0
-    houm: 0
+    houm: 1
     raim: 0
     houk: 0
     raik: 0
@@ -62,9 +62,13 @@ data:
         -
           -
             ship_id: 120
+          -
+            ship_id: 121
         -
           -
             ship_id: 120
+          -
+            ship_id: 121
         - false
         - false
         - false

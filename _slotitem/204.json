@@ -34,7 +34,7 @@ data:
   improvement: 
     -
       consume:
-        resource: [180, 0, 980, 80]
+        resource: [180, 0, 980, 0]
         useitem:
           -
             -
@@ -63,16 +63,24 @@ data:
           -
             ship_id: 131
           -
+            ship_id: 136
+          -
             ship_id: 143
+          -
+            ship_id: 148
         - false
         -
           -
             ship_id: 143
+          -
+            ship_id: 148
         - false
         - false
         - false
         -
           -
             ship_id: 131
+          -
+            ship_id: 136
   chinese_name: 舰本新设计 增设装甲板(大型舰)
 ---

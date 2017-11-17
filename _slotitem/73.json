@@ -79,29 +79,59 @@ data:
           -
             ship_id: 81
           -
+            ship_id: 276
+          -
             ship_id: 131
+          -
+            ship_id: 136
         -
           -
             ship_id: 80
+          -
+            ship_id: 275
+          -
+            ship_id: 541
+          -
+            ship_id: 143
+          -
+            ship_id: 148
           -
             ship_id: 81
           -
+            ship_id: 276
+          -
             ship_id: 131
           -
-            ship_id: 143
+            ship_id: 136
         -
           -
             ship_id: 80
+          -
+            ship_id: 275
+          -
+            ship_id: 541
+          -
+            ship_id: 143
+          -
+            ship_id: 148
           -
             ship_id: 81
           -
+            ship_id: 276
+          -
             ship_id: 131
           -
-            ship_id: 143
+            ship_id: 136
         -
           -
             ship_id: 80
           -
+            ship_id: 275
+          -
+            ship_id: 541
+          -
             ship_id: 143
+          -
+            ship_id: 148
   chinese_name: 增设装甲(大型舰)
 ---

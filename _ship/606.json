@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 606
+  sort_no: 1506
+  name: 伊400改
+  yomi: い400
+  stype: 14
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: dpcmmtepdfbn
+  file_version: ["51", "2", "2"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [24, 39]
+    souk: [7, 24]
+    houg: [6, 20]
+    raig: [40, 82]
+    tyku: [0, 0]
+    luck: [19, 58]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [3, 3, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 25
+    bull_max: 30
+    broken: [1, 2, 4, 3]
+    pow_up: [0, 2, 1, 1]
+    build_time: 200
+  graph:
+    boko_n: [144, 152]
+    boko_d: [68, 168]
+    kaisyu_n: [38, -20]
+    kaisyu_d: [12, -32]
+    kaizo_n: [100, 88]
+    kaizo_d: [-4, 80]
+    map_n: [136, 128]
+    map_d: [32, 136]
+    ensyuf_n: [108, 132]
+    ensyuf_d: [4, 140]
+    ensyue_n: [108, 0]
+    battle_n: [128, 148]
+    battle_d: [40, 156]
+    wed_a: [128, -8]
+    wed_b: [80, 116]
+  wiki_id: "293a"
+  chinese_name: 伊400改
+  can_drop: false
+  can_construct: false
+---

@@ -72,30 +72,50 @@ data:
       day:
         -
           -
+            ship_id: 137
+          -
+            ship_id: 305
+          -
             ship_id: 135
+          -
+            ship_id: 304
+        -
+          -
+            ship_id: 135
+          -
+            ship_id: 304
+        -
+          -
+            ship_id: 135
+          -
+            ship_id: 304
+        -
+          -
+            ship_id: 135
+          -
+            ship_id: 304
+        -
+          -
+            ship_id: 135
+          -
+            ship_id: 304
+        -
           -
             ship_id: 137
-        -
+          -
+            ship_id: 305
           -
             ship_id: 135
-        -
           -
-            ship_id: 135
+            ship_id: 304
         -
-          -
-            ship_id: 135
-        -
-          -
-            ship_id: 135
-        -
-          -
-            ship_id: 135
           -
             ship_id: 137
-        -
+          -
+            ship_id: 305
           -
             ship_id: 135
           -
-            ship_id: 137
+            ship_id: 304
   chinese_name: 战斗粮食
 ---

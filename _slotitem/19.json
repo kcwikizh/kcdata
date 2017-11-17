@@ -75,23 +75,37 @@ data:
         -
           -
             ship_id: 89
+          -
+            ship_id: 285
         -
           -
             ship_id: 89
+          -
+            ship_id: 285
         -
           -
             ship_id: 89
+          -
+            ship_id: 285
         -
           -
             ship_id: 89
+          -
+            ship_id: 285
         -
           -
             ship_id: 89
+          -
+            ship_id: 285
         -
           -
             ship_id: 89
+          -
+            ship_id: 285
         -
           -
             ship_id: 89
+          -
+            ship_id: 285
   chinese_name: 九六式舰战
 ---
