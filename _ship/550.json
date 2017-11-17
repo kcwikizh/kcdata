@@ -54,7 +54,7 @@ data:
     wed_a: [208, 24]
     wed_b: [92, 124]
   wiki_id: "350"
-  chinese_name: 萨拉托加 Mk.II Mod.2
+  chinese_name: 萨拉托加Mk.II Mod.2
   can_drop: false
   can_construct: false
 ---

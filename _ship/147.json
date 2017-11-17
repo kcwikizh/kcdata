@@ -54,7 +54,7 @@ data:
     wed_a: [155, 11]
     wed_b: [147, 162]
   wiki_id: "147"
-  chinese_name: Верный
+  chinese_name: 信赖
   can_drop: false
   can_construct: false
 ---

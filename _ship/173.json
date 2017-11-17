@@ -54,7 +54,7 @@ data:
     wed_a: [344, 112]
     wed_b: [112, 112]
   wiki_id: "173"
-  chinese_name: 俾斯麦 zwei
+  chinese_name: 俾斯麦zwei
   can_drop: false
   can_construct: false
 ---
