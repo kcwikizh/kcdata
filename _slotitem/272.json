@@ -8,7 +8,7 @@ data:
   type: [12, 22, 34, 28, 0]
   rare: 5
   broken: [2, 1, 1, 1]
-  info: ※
+  info: 洋上において遊撃部隊を指揮する艦隊司令部です。<br>司令部施設を開設できるある一定以上の大きさ艦に設営可能です。同司令部を旗艦に設営した艦隊は、「遊撃部隊」として出撃している際に、損害の大きい艦を単艦で戦場から離脱させる「単艦退避」を実施可能です。
   usebull: 0
   cost: 
   distance: 
@@ -32,5 +32,5 @@ data:
     luck: 0
     leng: 0
   improvement: 
-  chinese_name:
+  chinese_name: 
 ---

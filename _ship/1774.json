@@ -3,7 +3,7 @@ layout: json
 data:
   id: 1774
   sort_no: 0
-  name: 防空埋姫
+  name: 防空埋護姫
   yomi: 
   stype: 10
   ctype: 
@@ -28,7 +28,7 @@ data:
     leng: 
     kaih: 
     tais: 
-    slot_num: 4
+    slot_num: 3
     max_eq: 
     after_fuel: 
     after_bull: 
@@ -53,8 +53,8 @@ data:
     battle_d: [-188, 32]
     wed_a: [0, 0]
     wed_b: [0, 0]
-  wiki_id:
-  chinese_name:
+  wiki_id: 
+  chinese_name: 
   can_drop: false
   can_construct: false
 ---

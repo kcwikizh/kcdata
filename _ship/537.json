@@ -12,47 +12,47 @@ data:
   after_lv: 
   after_ship_id: 
   get_mes: <br>
-  voice_f: 0
+  voice_f: 3
   filename: yjgylyotzuwn
   file_version: ["51", "2", "2"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [0, 0]
-    souk: [0, 0]
-    houg: [0, 0]
-    raig: [0, 0]
-    tyku: [0, 0]
-    luck: [0, 0]
-    soku: 0
-    leng: 0
+    taik: [38, 58]
+    souk: [16, 55]
+    houg: [22, 56]
+    raig: [22, 52]
+    tyku: [82, 116]
+    luck: [37, 90]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 0
+    slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 0
-    bull_max: 0
-    broken: [0, 0, 0, 0]
-    pow_up: [0, 0, 0, 0]
-    build_time: 0
+    fuel_max: 20
+    bull_max: 25
+    broken: [1, 2, 13, 1]
+    pow_up: [1, 1, 3, 1]
+    build_time: 30
   graph:
-    boko_n: [40, 128]
-    boko_d: [96, 136]
-    kaisyu_n: [20, 16]
-    kaisyu_d: [32, -8]
-    kaizo_n: [16, 72]
-    kaizo_d: [80, 48]
-    map_n: [48, 112]
-    map_d: [80, 120]
-    ensyuf_n: [32, 104]
-    ensyuf_d: [96, 112]
-    ensyue_n: [16, 0]
-    battle_n: [48, 112]
-    battle_d: [80, 128]
-    wed_a: [184, 24]
-    wed_b: [112, 112]
+    boko_n: [72, 144]
+    boko_d: [134, 160]
+    kaisyu_n: [28, -10]
+    kaisyu_d: [44, 4]
+    kaizo_n: [26, 68]
+    kaizo_d: [90, 76]
+    map_n: [52, 120]
+    map_d: [98, 140]
+    ensyuf_n: [32, 124]
+    ensyuf_d: [86, 136]
+    ensyue_n: [24, 0]
+    battle_n: [56, 128]
+    battle_d: [102, 156]
+    wed_a: [200, 0]
+    wed_b: [88, 104]
   wiki_id: "337"
   chinese_name: 凉月改
   can_drop: false

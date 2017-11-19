@@ -8,7 +8,7 @@ data:
   type: [3, 5, 6, 6, 12]
   rare: 4
   broken: [2, 4, 0, 8]
-  info: ※
+  info: 本土防空の切り札、局地戦闘機「紫電改」の艦載機型、その改良型です。大馬力エンジンと空戦フラップの採用などによる優れた空戦能力で、実戦化の遅れた次期主力艦上戦闘機「烈風」の穴を埋めるべく開発された「紫電改」の発動機を中心に改良を施した性能向上型です。
   usebull: 0
   cost: 7
   distance: 4
@@ -32,5 +32,5 @@ data:
     luck: 0
     leng: 0
   improvement: 
-  chinese_name:
+  chinese_name: 
 ---

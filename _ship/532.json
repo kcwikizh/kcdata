@@ -9,50 +9,50 @@ data:
   ctype: 
   cnum: 
   backs: 6
-  after_lv: 
+  after_lv: 55
   after_ship_id: 537
-  get_mes: ※
-  voice_f: 0
+  get_mes: 秋月型防空駆逐艦「涼月」です。皆さんを……<br>皆さんをいつまでもお護りできるよう、<br>私……頑張ります。よろしくお願い致します！
+  voice_f: 1
   filename: scgnesxelopp
   file_version: ["51", "2", "2"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [0, 0]
-    souk: [0, 0]
-    houg: [0, 0]
-    raig: [0, 0]
-    tyku: [0, 0]
-    luck: [0, 0]
-    soku: 0
-    leng: 0
+    taik: [21, 41]
+    souk: [10, 29]
+    houg: [16, 47]
+    raig: [16, 46]
+    tyku: [70, 102]
+    luck: [27, 67]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 0
+    slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
-    fuel_max: 0
-    bull_max: 0
-    broken: [0, 0, 0, 0]
-    pow_up: [0, 0, 0, 0]
-    build_time: 0
+    after_fuel: 270
+    after_bull: 430
+    fuel_max: 20
+    bull_max: 25
+    broken: [1, 2, 13, 1]
+    pow_up: [0, 1, 3, 1]
+    build_time: 30
   graph:
-    boko_n: [40, 128]
-    boko_d: [96, 136]
-    kaisyu_n: [20, 16]
-    kaisyu_d: [32, -8]
-    kaizo_n: [16, 72]
-    kaizo_d: [80, 48]
-    map_n: [48, 112]
-    map_d: [80, 120]
-    ensyuf_n: [32, 104]
-    ensyuf_d: [96, 112]
-    ensyue_n: [16, 0]
-    battle_n: [48, 112]
-    battle_d: [80, 128]
-    wed_a: [184, 24]
-    wed_b: [112, 112]
+    boko_n: [108, 144]
+    boko_d: [136, 160]
+    kaisyu_n: [28, -10]
+    kaisyu_d: [44, 4]
+    kaizo_n: [62, 68]
+    kaizo_d: [92, 76]
+    map_n: [88, 120]
+    map_d: [100, 140]
+    ensyuf_n: [68, 124]
+    ensyuf_d: [88, 136]
+    ensyue_n: [60, 0]
+    battle_n: [92, 128]
+    battle_d: [104, 156]
+    wed_a: [164, 0]
+    wed_b: [88, 104]
   wiki_id: "332"
   chinese_name: 凉月
   can_drop: false
