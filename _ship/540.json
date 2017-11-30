@@ -6,8 +6,8 @@ data:
   name: 対馬
   yomi: つしま
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 77
+  cnum: 7
   backs: 4
   after_lv: 47
   after_ship_id: 386
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: mgofelnbpslm
   file_version: ["51", "2", "2"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [540]
+  book_sinfo: 択捉型海防艦、その七番艦となります。対馬です。<br>南方航路の防衛のために生まれました。本土とシンガポールの間の船団護衛に努めました。同航路が危なくなってからは、台湾や日本海側の航路を護ります。戦いの後は…皆さんの復員にも努めました。
   stats:
     taik: [9, 18]
     souk: [4, 16]
@@ -26,8 +26,8 @@ data:
     luck: [47, 88]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 41
+    tais: 35
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 75
@@ -55,6 +55,6 @@ data:
     wed_b: [88, 120]
   wiki_id: "340"
   chinese_name: 对马
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

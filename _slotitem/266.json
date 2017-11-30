@@ -59,9 +59,15 @@ data:
             amount: 1
       upgrade:
       day:
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 489
+        -
+          -
+            ship_id: 489
+        -
+          -
+            ship_id: 489
         -
           -
             ship_id: 489
@@ -82,5 +88,5 @@ data:
             ship_id: 489
           -
             ship_id: 490
-  chinese_name:
+  chinese_name: 
 ---

@@ -6,8 +6,8 @@ data:
   name: 伊400
   yomi: い400
   stype: 14
-  ctype: 
-  cnum: 
+  ctype: 44
+  cnum: 1
   backs: 6
   after_lv: 37
   after_ship_id: 606
@@ -15,8 +15,8 @@ data:
   voice_f: 3
   filename: lksmyghdkbsg
   file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [493]
+  book_sinfo: 潜特型、伊400型潜水艦、その一番艦、伊400です。対艦船用戦術潜水艦ではなく、戦略運用のために建造された、新コンセプトの潜水空母なんです。もちろん艦載機は「晴嵐」さん。戦う前に矛を収めた私たち姉妹、きっと覚えていてくださいね。
   stats:
     taik: [20, 24]
     souk: [5, 24]
@@ -26,8 +26,8 @@ data:
     luck: [19, 58]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 13
+    tais: 0
     slot_num: 1
     max_eq: [3, 0, 0, 0, 0]
     after_fuel: 300
@@ -55,6 +55,6 @@ data:
     wed_b: [80, 116]
   wiki_id: "293"
   chinese_name: 伊400
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

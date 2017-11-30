@@ -62,12 +62,18 @@ data:
         -
           -
             ship_id: 68
+          -
+            ship_id: 271
         -
           -
             ship_id: 68
+          -
+            ship_id: 271
         -
           -
             ship_id: 68
+          -
+            ship_id: 271
         - false
         - false
     -
@@ -94,18 +100,49 @@ data:
             id: 40
             amount: 1
       upgrade:
+        id: 131
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [5, 9]
+            -
+              id: 4
+              amount: [3, 7]
+          slotitem:
+            id: 40
+            amount: 5
       day:
-        - false
-        - false
         -
           -
-            ship_id: 68
+            ship_id: 428
         -
           -
-            ship_id: 68
+            ship_id: 141
+          -
+            ship_id: 428
+          -
+            ship_id: 487
         -
           -
-            ship_id: 271
+            ship_id: 141
+          -
+            ship_id: 428
+          -
+            ship_id: 487
+        -
+          -
+            ship_id: 141
+          -
+            ship_id: 428
+          -
+            ship_id: 418
+        -
+          -
+            ship_id: 428
+          -
+            ship_id: 418
         - false
         - false
   chinese_name: 25mm三连装机铳

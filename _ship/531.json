@@ -6,8 +6,8 @@ data:
   name: 佐渡
   yomi: さど
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 77
+  cnum: 3
   backs: 4
   after_lv: 37
   after_ship_id: 385
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: sujriouphyti
   file_version: ["51", "2", "2"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [531]
+  book_sinfo: 択捉型海防艦の三番艦、佐渡だぜ。潜水艦が跳梁する海を、第一海上護衛隊の一員として、結構頑張った。松輪や日振、そして、あの大鷹さんと組んだりもしたんだぜ。でも…ヒ船団の護衛は本当に大変だったさ。今度はしっかり護り通すんだ！　よろしくな！
   stats:
     taik: [9, 18]
     souk: [4, 16]
@@ -26,8 +26,8 @@ data:
     luck: [7, 49]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 39
+    tais: 36
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 55

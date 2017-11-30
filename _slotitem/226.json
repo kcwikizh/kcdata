@@ -70,24 +70,60 @@ data:
             id: 226
             amount: 2
       day:
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 471
+          -
+            ship_id: 476
         -
           -
             ship_id: 517
           -
-            ship_id: 524
+            ship_id: 376
         -
           -
             ship_id: 517
           -
+            ship_id: 376
+        -
+          -
+            ship_id: 517
+          -
+            ship_id: 376
+          -
             ship_id: 524
+          -
+            ship_id: 383
+        -
+          -
+            ship_id: 517
+          -
+            ship_id: 376
+          -
+            ship_id: 524
+          -
+            ship_id: 383
+          -
+            ship_id: 471
+          -
+            ship_id: 476
         -
           -
             ship_id: 524
+          -
+            ship_id: 383
+          -
+            ship_id: 471
+          -
+            ship_id: 476
         -
           -
             ship_id: 524
+          -
+            ship_id: 383
+          -
+            ship_id: 471
+          -
+            ship_id: 476
   chinese_name: 九五式爆雷
 ---

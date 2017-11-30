@@ -55,6 +55,6 @@ data:
     wed_b: [125, 127]
   wiki_id: "203"
   chinese_name: 葛城
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

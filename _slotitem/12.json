@@ -66,6 +66,9 @@ data:
             -
               id: 4
               amount: [4, 8]
+            -
+              id: 75
+              amount: 1
           slotitem:
             id: 12
             amount: 2

@@ -55,6 +55,6 @@ data:
     wed_b: [92, 108]
   wiki_id: "162"
   chinese_name: 神威
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---
