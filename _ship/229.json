@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: cjhtlviffiwb
-  file_version: ["10", "10", "1"]
+  file_version: ["10", "10", "1212"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -49,7 +49,7 @@ data:
     ensyuf_n: [106, -14]
     ensyuf_d: [-18, 4]
     ensyue_n: [106, 0]
-    battle_n: [27, -33]
+    battle_n: [48, -24]
     battle_d: [0, 25]
     wed_a: [129, 159]
     wed_b: [119, 117]

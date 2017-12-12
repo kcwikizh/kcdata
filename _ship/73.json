@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: ethdbrvnuzau
-  file_version: ["13", "7", "1110"]
+  filename: ethdbrvnuznc
+  file_version: ["14", "7", "1211"]
   book_table_id: [73]
   book_sinfo: 最上型重巡洋艦１番艦。<br>最上の後部主砲を全て取り払って、代わりに水上機を運用する航空甲板を設置した、航空巡洋艦だよ。<br>水上機母艦並の航空力と火力、どうよ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 3, 2]
     build_time: 100
   graph:
-    boko_n: [76, 58]
-    boko_d: [76, 58]
+    boko_n: [37, -20]
+    boko_d: [17, -2]
     kaisyu_n: [25, -2]
     kaisyu_d: [28, 7]
-    kaizo_n: [24, 12]
-    kaizo_d: [14, -11]
-    map_n: [48, 44]
-    map_d: [48, 44]
-    ensyuf_n: [24, 52]
-    ensyuf_d: [24, 52]
-    ensyue_n: [24, 0]
-    battle_n: [56, 72]
-    battle_d: [56, 72]
-    wed_a: [192, 76]
-    wed_b: [84, 104]
+    kaizo_n: [12, -54]
+    kaizo_d: [0, -113]
+    map_n: [27, -18]
+    map_d: [-47, -13]
+    ensyuf_n: [21, -24]
+    ensyuf_d: [9, -71]
+    ensyue_n: [21, 0]
+    battle_n: [-7, -26]
+    battle_d: [-7, -26]
+    wed_a: [198, 158]
+    wed_b: [109, 97]
   wiki_id: "101"
   chinese_name: 最上改
   can_drop: false

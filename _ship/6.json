@@ -14,7 +14,7 @@ data:
   get_mes: 長月だ。<br>駆逐艦と侮るなよ。役に立つはずだ。
   voice_f: 0
   filename: kksiqffpclxh
-  file_version: ["10", "10", "1"]
+  file_version: ["11", "10", "1211"]
   book_table_id: [6]
   book_sinfo: 睦月型８番艦だ。<br>東南アジア方面の攻略作戦後は、船団護衛を任されていた。<br>コロンバンガラ島への揚陸作戦では敵艦の襲撃を受けながら奮戦したよ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [86, 45]
-    boko_d: [59, -47]
+    boko_n: [132, 136]
+    boko_d: [132, 112]
     kaisyu_n: [-10, -1]
     kaisyu_d: [28, -21]
-    kaizo_n: [56, -12]
-    kaizo_d: [15, -133]
-    map_n: [15, 43]
-    map_d: [8, -57]
-    ensyuf_n: [79, 39]
-    ensyuf_d: [10, -108]
-    ensyue_n: [79, 0]
-    battle_n: [41, 46]
-    battle_d: [29, -52]
-    wed_a: [134, 91]
-    wed_b: [134, 153]
+    kaizo_n: [64, 64]
+    kaizo_d: [52, 16]
+    map_n: [132, 96]
+    map_d: [132, 72]
+    ensyuf_n: [116, 88]
+    ensyuf_d: [116, 64]
+    ensyue_n: [108, 0]
+    battle_n: [132, 104]
+    battle_d: [132, 80]
+    wed_a: [104, 40]
+    wed_b: [92, 128]
   wiki_id: "035"
   chinese_name: 长月
   can_drop: true

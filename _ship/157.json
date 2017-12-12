@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: mslkutojcolj
-  file_version: ["19", "15", "1"]
+  file_version: ["20", "15", "1211"]
   book_table_id: [157, 905, 996]
   book_sinfo: 軽空母だけど、結構歴戦の空母なんよ、うち。<br>ああ、あの岩手沖での第四艦隊事件のこと？あれはきつかったー。<br>波浪で艦橋圧壊…いや、ホントありえへん。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 3]
     build_time: 170
   graph:
-    boko_n: [24, 136]
-    boko_d: [112, 160]
+    boko_n: [104, 100]
+    boko_d: [56, 112]
     kaisyu_n: [32, 16]
     kaisyu_d: [48, -16]
-    kaizo_n: [8, 64]
-    kaizo_d: [64, 80]
-    map_n: [16, 112]
-    map_d: [64, 128]
-    ensyuf_n: [32, 104]
-    ensyuf_d: [112, 112]
-    ensyue_n: [8, 0]
-    battle_n: [16, 112]
-    battle_d: [112, 112]
-    wed_a: [160, 8]
-    wed_b: [144, 96]
+    kaizo_n: [104, 40]
+    kaizo_d: [24, -8]
+    map_n: [64, 80]
+    map_d: [48, 96]
+    ensyuf_n: [112, 80]
+    ensyuf_d: [80, 64]
+    ensyue_n: [56, 0]
+    battle_n: [64, 80]
+    battle_d: [80, 80]
+    wed_a: [96, 40]
+    wed_b: [152, 168]
   wiki_id: "157"
   chinese_name: 龙骧改二
   can_drop: false

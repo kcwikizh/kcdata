@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: pcdygwofwfib
-  file_version: ["18", "15", "1018"]
+  file_version: ["19", "15", "1211"]
   book_table_id: [130]
   book_sinfo: 神戸生まれのお洒落な重巡といえば、わたくし、熊野ですね。マレー、ミッドウェー、ソロモン、マリアナと主要な名所、いえ激戦地に参上いたしましたのよ。最期は日本に帰りたかったけれど……。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 3, 2]
     build_time: 100
   graph:
-    boko_n: [26, 42]
-    boko_d: [-16, -88]
+    boko_n: [160, 132]
+    boko_d: [188, 164]
     kaisyu_n: [20, 0]
     kaisyu_d: [28, 7]
-    kaizo_n: [32, 4]
-    kaizo_d: [-11, -184]
-    map_n: [56, 32]
-    map_d: [4, -92]
-    ensyuf_n: [72, 42]
-    ensyuf_d: [52, -160]
-    ensyue_n: [-3, 0]
-    battle_n: [56, 38]
-    battle_d: [0, -120]
-    wed_a: [163, 105]
-    wed_b: [116, 125]
+    kaizo_n: [100, 72]
+    kaizo_d: [152, 84]
+    map_n: [104, 120]
+    map_d: [152, 144]
+    ensyuf_n: [104, 124]
+    ensyuf_d: [148, 140]
+    ensyue_n: [104, 0]
+    battle_n: [120, 132]
+    battle_d: [172, 160]
+    wed_a: [112, 4]
+    wed_b: [92, 104]
   wiki_id: "130"
   chinese_name: 熊野改
   can_drop: false

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 367
+  type: 2
+  no: 53
+  title: 多摩の迷彩ブラインド窓
+  description: もちろん猫じゃない軽巡の<br>趣味全開で製作された特注<br>の北方迷彩ブラインド窓。<br>幌筵や単冠湾泊地の提督方<br>御用達の窓…にゃ？にゃ！
+  rarity: 4
+  price: 5500
+  saleflg: 1
+  season: 0
+  filename: "054"
+  file_version: "1"
+---

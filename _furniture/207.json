@@ -8,8 +8,8 @@ data:
   description: シックで落ち着いた雰囲気<br>を醸し出す大人の書斎机。<br>書斎本棚と組み合わせれば<br>提督の隠れ家的な書斎空間<br>を演出します。
   rarity: 3
   price: 1900
-  saleflg: 1
+  saleflg: 0
   season: 0
-  filename: 
-  file_version: 
+  filename: "040"
+  file_version: 2
 ---

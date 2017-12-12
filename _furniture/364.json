@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 364
+  type: 1
+  no: 60
+  title: 白雪の壁紙
+  description: まるで降り積もる白雪のよ<br>うな、シンプルかつ奥深い<br>ホワイトデザインの壁紙。<br>某特型駆逐艦や北方配備の<br>軽巡勢にも好評です！
+  rarity: 2
+  price: 1000
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

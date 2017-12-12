@@ -14,7 +14,7 @@ data:
   get_mes: こんにちは、白露型駆逐艦「夕立」よ。<br>よろしくね！
   voice_f: 1
   filename: pnpixtolsebg
-  file_version: ["24", "25", "1025"]
+  file_version: ["24", "25", "1211"]
   book_table_id: [45]
   book_sinfo: 白露型駆逐艦の４番艦、夕立です。<br>第三次ソロモン海戦では、けっこう頑張ったっぽい？<br>でも、何気に「アイアンボトム・サウンド」って、ホントに怖い言葉よね？
   stats:
