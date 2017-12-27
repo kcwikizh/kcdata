@@ -14,7 +14,7 @@ data:
   get_mes: はじめまして、利根型２番艦、筑摩と申します。
   voice_f: 0
   filename: gcqjowlpkbde
-  file_version: ["11", "11", "1211"]
+  file_version: ["11", "11", "1227"]
   book_table_id: [72]
   book_sinfo: 筑摩です。<br>連装主砲４基を前甲板に集中させ、充実した索敵水偵を搭載した利根型重巡洋艦２番艦です。<br>生まれは長崎よ。利根姉さんと一緒に、あの南雲機動部隊の、大切な眼の役目を務めたの。
   stats:

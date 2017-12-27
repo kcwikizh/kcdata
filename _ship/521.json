@@ -55,6 +55,6 @@ data:
     wed_b: [80, 104]
   wiki_id: "321"
   chinese_name: 春日丸
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

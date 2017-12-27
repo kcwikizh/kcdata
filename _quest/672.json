@@ -1,0 +1,19 @@
+---
+layout: json
+data:
+  id: 672
+  category: 6
+  type: 4
+  title: 「遊撃部隊」艦隊司令部の創設
+  detail: "遊撃部隊任務：「遊撃部隊 艦隊司令部」を創設する。「艦隊司令部施設」を秘書艦一番スロットに搭載、 <br>電探系装備x3を廃棄、開発資材x10、鋼材x2,000、そして「戦闘詳報」x2を準備せよ！"
+  reward: [0, 300, 0, 0]
+  reward2:
+    -
+      category: slotitem
+      id: 272
+      amount: 1
+  prerequisite: []
+  wiki_id: F64
+  chinese_title: 游击部队，建立舰队司令部。
+  chinese_detail: 游击部队任务：建立"游击部队 舰队司令部"，将"舰队司令部设施"由秘书舰搭载在第一格，电探类型的装备废弃3个，开发资材10个，钢材2000，然后准备好2个"战斗详报"。
+---

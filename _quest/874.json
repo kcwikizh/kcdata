@@ -1,0 +1,34 @@
+---
+layout: json
+data:
+  id: 874
+  category: 8
+  type: 4
+  title: 北方海域戦闘哨戒を実施せよ！
+  detail: 北方海域戦闘哨戒任務：北方AL海域に軽空母と水上機母艦及び軽巡を基幹戦力とした精鋭艦隊を投入。<br>北方戦闘哨戒を反復実施、同方面の敵増援部隊主力を捕捉、これを撃滅し、北方海域戦線を防衛せよ！
+  reward: [0, 1000, 0, 700]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 55
+          amount: 2
+        -
+          category: useitem
+          id: 4
+          amount: 4
+        -
+          category: useitem
+          id: 77
+          amount: 1
+    -
+      category: useitem
+      id: 60
+      amount: 1
+  prerequisite: [873]
+  wiki_id: B110
+  chinese_title: 实施北方海域战斗哨戒吧！
+  chinese_detail: 北方海域战斗哨戒任务：向北方阿留申海域(3-5)投入以轻空母、水上机母舰、轻巡洋舰为基干战力的精锐舰队。反复实施北方战斗哨戒，捕捉该方向的敌增援部队主力并将其击退，以防卫北方海域战线！
+---

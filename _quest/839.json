@@ -13,9 +13,16 @@ data:
       id: 4
       amount: 2
     -
-      category: slotitem
-      id: [165, 178]
-      amount: 1
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 165
+          amount: 1
+        -
+          category: slotitem
+          id: 178
+          amount: 1
   prerequisite: [838]
   wiki_id: B88
   chinese_title: 战舰战队，出击！

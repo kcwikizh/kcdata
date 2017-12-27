@@ -1,0 +1,19 @@
+---
+layout: json
+data:
+  id: 666
+  category: 6
+  type: 4
+  title: 精鋭「瑞雲」隊の編成
+  detail: 秘書艦「日向改」の四番スロットに改修max「瑞雲(六三四空)」を搭載して、ドラム缶(輸送用)x2を廃棄。<br>さらに「九九式艦爆」x2「瑞雲」x2を用意せよ！　※新飛行隊を編成する「熟練搭乗員」が必要です。
+  reward: [0, 0, 0, 100]
+  reward2:
+    -
+      category: slotitem
+      id: 237
+      amount: 1
+  prerequisite: [607, 859]
+  wiki_id: F58
+  chinese_title: 精锐「瑞云」队编成
+  chinese_detail: 以日向改为秘书舰，将改修max的瑞云(六三四空)装备在第四个格子，废弃2个桶(运输用)，准备好2个九九式舰爆和2个瑞云!※新飞行队编成中需要熟练搭乘员。
+---

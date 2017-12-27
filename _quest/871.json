@@ -1,0 +1,34 @@
+---
+layout: json
+data:
+  id: 871
+  category: 8
+  type: 4
+  title: 最精鋭「第八駆逐隊」、全力出撃！
+  detail: 第八駆逐隊任務：最精鋭「第八駆逐隊」を中核戦力とした艦隊を編成、北方海域キス島沖、及び<br>南方海域サーモン海域に突入！同海域の敵艦隊を撃滅、第八駆逐隊による完全勝利を刻め！
+  reward: [800, 0, 0, 0]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 266
+          amount: 1
+        -
+          category: slotitem
+          id: 68
+          amount: 1
+        -
+          category: slotitem
+          id: 28
+          amount: 2
+    -
+      category: useitem
+      id: 4
+      amount: 4
+  prerequisite: [426, 666]
+  wiki_id: B109
+  chinese_title: 最精锐“第八驱逐队”全力出击！
+  chinese_detail: 第八驱逐队任务：以最新锐“第八驱逐队”为核心战力编成舰队，突入北方海域基斯岛近海，以及南方海域萨部岛海域！将这些海域中的第舰队歼灭，刻下第八驱逐队获得的完全胜利！
+---

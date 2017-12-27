@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 182
+  category: 1
+  type: 4
+  title: 精鋭「第四航空戦隊」を再編成せよ！
+  detail: 編成任務：第一艦隊旗艦及び同二番艦に練度50以上の航空戦艦「伊勢」「日向」を配備、<br>随伴艦に軽巡洋艦1隻、駆逐艦2隻他を伴う精鋭「第四航空戦隊」を再編成せよ！
+  reward: [0, 0, 0, 400]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 4
+    -
+      category: useitem
+      id: 70
+      amount: 1
+  prerequisite: [165, 224]
+  wiki_id: A77
+  chinese_title: 精锐“第四航空戦隊”再次编成！
+  chinese_detail: 编成任务：配备第一舰队旗舰和二号舰为Lv50以上并改造为航空战舰的“伊势改”“日向改”，伴随轻巡洋舰1艘、驱逐舰2艘再编成精锐“第四航空戦隊”！
+---

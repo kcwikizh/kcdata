@@ -14,8 +14,8 @@ data:
   get_mes: 給油艦、神威と申します。<br>はい、北海道神威岬由来の名前を頂いています。<br>できる限り、頑張りますね。
   voice_f: 1
   filename: jqvoyyolpqgv
-  file_version: ["6", "1", "1212"]
-  book_table_id: [162, 807, 779]
+  file_version: ["7", "1", "1228"]
+  book_table_id: [162, 807, 779, 748]
   book_sinfo: 給油艦として建造された「神威」です。<br>米国で生まれ、その後水上機母艦に改装されました。水上機収容用ハイン式マットは思ったより便利ではなかったけれど……。最終的に飛行艇母艦となり、輸送作戦に従事しました。戦いの前は、米艦と共に女性飛行家の捜索も頑張りました。
   stats:
     taik: [36, 48]
@@ -38,23 +38,23 @@ data:
     pow_up: [0, 0, 0, 1]
     build_time: 140
   graph:
-    boko_n: [134, 164]
-    boko_d: [84, 164]
+    boko_n: [84, 128]
+    boko_d: [112, 116]
     kaisyu_n: [28, -6]
     kaisyu_d: [60, 2]
-    kaizo_n: [108, 84]
-    kaizo_d: [52, 76]
-    map_n: [176, 136]
-    map_d: [68, 136]
-    ensyuf_n: [140, 136]
-    ensyuf_d: [40, 136]
-    ensyue_n: [144, 0]
-    battle_n: [168, 160]
-    battle_d: [80, 160]
-    wed_a: [64, -8]
-    wed_b: [80, 116]
+    kaizo_n: [60, 56]
+    kaizo_d: [84, 40]
+    map_n: [64, 112]
+    map_d: [128, 108]
+    ensyuf_n: [72, 112]
+    ensyuf_d: [140, 100]
+    ensyue_n: [48, 0]
+    battle_n: [92, 128]
+    battle_d: [144, 112]
+    wed_a: [144, 8]
+    wed_b: [92, 108]
   wiki_id: "162"
   chinese_name: 神威
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---

@@ -14,7 +14,7 @@ data:
   get_mes: 雲龍型航空母艦、三番艦、葛城よ！<br>え？　水上防空砲台ですって？<br>ち、違うわよ！　提督、何いってんの！
   voice_f: 1
   filename: fgyvwqymkekn
-  file_version: ["9", "9", "1211"]
+  file_version: ["9", "9", "1227"]
   book_table_id: [332]
   book_sinfo: 雲龍型航空母艦の三番艦、葛城よ。そう、正規空母。<br>ちょっと生まれるのが遅かったみたい。でも、戦いが終わった後で、私は全力で働いたの。ある意味、私が一番なんだから。ホントよ？ホントなんだから。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [125, 127]
   wiki_id: "203"
   chinese_name: 葛城
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

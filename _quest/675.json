@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 675
+  category: 6
+  type: 5
+  title: 運用装備の統合整備
+  detail: 運用装備統合任務：装備の統合整備を実施する。「艦上戦闘機」系装備x6、「機銃」系装備x4を廃棄、<br>ボーキサイト800を準備(本任務は時局により更新されます)。　※任務達成後、準備資源を消費します。
+  reward: [200, 0, 0, 0]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 221
+          amount: 1
+        -
+          category: slotitem
+          id: 201
+          amount: 1
+    -
+      category: useitem
+      id: 4
+      amount: 4
+  prerequisite: [674]
+  wiki_id: F67
+  chinese_title: 运用装备的综合整备
+  chinese_detail: 运用装备综合任务：实施装备的综合整备。废弃6架“舰载战斗机”、4个“机枪”装备，并准备好800铝土（本任务会根据时局发生变化）。※任务完成后，准备好的资源会被消耗。
+---

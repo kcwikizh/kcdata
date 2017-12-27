@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: rgfuelwdntub
-  file_version: ["18", "10", "1211"]
+  file_version: ["19", "10", "1227"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 23
   graph:
-    boko_n: [128, 148]
-    boko_d: [72, 180]
+    boko_n: [128, 112]
+    boko_d: [40, 128]
     kaisyu_n: [24, -12]
     kaisyu_d: [0, -4]
-    kaizo_n: [88, 88]
-    kaizo_d: [48, 64]
-    map_n: [132, 136]
-    map_d: [56, 140]
-    ensyuf_n: [88, 136]
-    ensyuf_d: [24, 140]
-    ensyue_n: [84, 0]
-    battle_n: [124, 156]
-    battle_d: [54, 156]
-    wed_a: [156, 4]
-    wed_b: [88, 128]
+    kaizo_n: [112, 48]
+    kaizo_d: [0, 48]
+    map_n: [112, 96]
+    map_d: [0, 112]
+    ensyuf_n: [112, 96]
+    ensyuf_d: [0, 96]
+    ensyue_n: [96, 0]
+    battle_n: [112, 96]
+    battle_d: [-8, 104]
+    wed_a: [88, 32]
+    wed_b: [112, 112]
   wiki_id: "243a"
   chinese_name: 利伯齐奥改
   can_drop: false

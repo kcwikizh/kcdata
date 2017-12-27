@@ -4,11 +4,11 @@ data:
   id: 119
   type: 3
   no: 17
-  title: フレーム付地図
-  description: 地図をもっと大切に保管したいコレクター癖のあるあなたはこっち！
-  rarity: 0
-  price: 0
-  saleflg: 0
+  title: 「主力of主力」掛け軸
+  description: 艦隊決戦の主力艦隊と行動<br>を共にする艦隊型駆逐艦、<br>甲型駆逐艦の最終型。主力<br>of主力なある駆逐艦型一番<br>艦の手による掛け軸です。
+  rarity: 4
+  price: 3100
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

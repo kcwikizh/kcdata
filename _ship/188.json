@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: rjggwwmmppth
-  file_version: ["16", "12", "1211"]
+  file_version: ["17", "12", "1227"]
   book_table_id: [188, 835]
   book_sinfo: 日本海軍が完成させた最後の重巡、<br>利根型の長女、利根だ。<br>真珠湾、そして痛恨のミッドウェーでも、艦隊の眼として縦横無尽の活躍なのじゃ。最期は呉鎮守府を守る浮き砲台として刀折れ矢尽きるまで戦ったぞ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 3, 2]
     build_time: 90
   graph:
-    boko_n: [84, 132]
-    boko_d: [140, 158]
+    boko_n: [48, 72]
+    boko_d: [48, 176]
     kaisyu_n: [16, -16]
     kaisyu_d: [8, -16]
-    kaizo_n: [56, 52]
-    kaizo_d: [92, 68]
-    map_n: [68, 88]
-    map_d: [132, 136]
-    ensyuf_n: [72, 96]
-    ensyuf_d: [116, 120]
-    ensyue_n: [48, 0]
-    battle_n: [80, 108]
-    battle_d: [124, 144]
-    wed_a: [156, 12]
-    wed_b: [100, 124]
+    kaizo_n: [16, 48]
+    kaizo_d: [0, 80]
+    map_n: [32, 64]
+    map_d: [16, 104]
+    ensyuf_n: [64, 48]
+    ensyuf_d: [48, 112]
+    ensyue_n: [32, 0]
+    battle_n: [48, 64]
+    battle_d: [32, 96]
+    wed_a: [216, 48]
+    wed_b: [128, 112]
   wiki_id: "188"
   chinese_name: 利根改二
   can_drop: false

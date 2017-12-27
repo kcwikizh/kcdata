@@ -8,6 +8,21 @@ data:
   detail: 出撃任務：軽巡1隻以上、駆逐艦または海防艦2隻以上、さらに航空巡洋艦または軽空母で増強した<br>第一護衛艦隊を第一艦隊に編成、南西諸島海域の各海域に展開、敵艦隊を撃破、各作戦を成功させよ！
   reward: [700, 0, 0, 0]
   reward2:
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 57
+          amount: 1
+        -
+          category: useitem
+          id: 75
+          amount: 1
+    -
+      category: useitem
+      id: 1
+      amount: 3
   prerequisite: [228, 855]
   wiki_id: B100
   chinese_title: 加强的海上护卫总队，出发！

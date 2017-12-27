@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 316
+  category: 3
+  type: 4
+  title: 輸送部隊の練度向上に努めよ！
+  detail: 演習任務：輸送部隊の練度向上を図る！本日中に演習で4回以上「勝利」せよ！
+  reward: [300, 300, 0, 0]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 52
+          amount: 1
+        -
+          category: slotitem
+          id: 68
+          amount: 1
+    -
+      category: useitem
+      id: 4
+      amount: 2
+  prerequisite: [218, 418]
+  wiki_id: C13
+  chinese_title: 提高运输部队的练度！
+  chinese_detail: 演习任务：目标是提高运输部队的练度！在本日中获得四次以上演习胜利！
+---

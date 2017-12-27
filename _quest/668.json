@@ -1,0 +1,19 @@
+---
+layout: json
+data:
+  id: 668
+  category: 6
+  type: 4
+  title: 新型戦闘糧食の試作
+  detail: 料理任務：手軽に食事をとることができて、なおかつ美味しく腹にがっつりたまる新型の戦闘糧食を<br>開発する。「戦闘糧食」x2と燃料800及びボーキサイト150を用意せよ！油入れ送気開始！調理始め！
+  reward: [0, 100, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 76
+      amount: 1
+  prerequisite: []
+  wiki_id: F60
+  chinese_title: 新型战斗粮食的试作
+  chinese_detail: 料理任务：开发既便于食用，又美味同时能填饱肚子的新型战斗粮食。准备好两个「战斗粮食」，燃料800以及铝土150！倒油！开始做饭！
+---

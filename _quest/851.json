@@ -13,9 +13,16 @@ data:
       id: 4
       amount: 4
     -
-      category: slotitem
-      id: [217, 203]
-      amount: 1
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 217
+          amount: 1
+        -
+          category: slotitem
+          id: 203
+          amount: 1
   prerequisite: [287, 838]
   wiki_id: B95
   chinese_title: 改装航空巡洋舰，出击！

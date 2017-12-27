@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 186
+  category: 1
+  type: 4
+  title: 最精鋭「第八駆逐隊」を編成せよ！
+  detail: 精鋭駆逐隊編成任務：「朝潮改二」「大潮改二」「荒潮改二」「満潮改二」の<br>最精鋭朝潮型駆逐艦4隻による新編「第八駆逐隊」の編成を完了せよ！
+  reward: [300, 300, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 66
+      amount: 1
+    -
+      category: useitem
+      id: 59
+      amount: 1
+  prerequisite: [821, 870]
+  wiki_id: A81
+  chinese_title: 编成最精锐“第八驱逐队”！
+  chinese_detail: 精锐驱逐队编成任务：以“朝潮改二”“大潮改二”“荒潮改二”“满潮改二”这四艘最新锐朝潮型驱逐舰编成新编“第八驱逐队”！
+---

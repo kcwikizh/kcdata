@@ -14,7 +14,7 @@ data:
   get_mes: 択捉型海防艦、対馬。ここに……。<br>南方航路防衛用に建造されたこの体……。<br>存分に働くつもりですから。楽しみに…ね。
   voice_f: 1
   filename: mgofelnbpslm
-  file_version: ["51", "2", "1212"]
+  file_version: ["52", "2", "1228"]
   book_table_id: [540]
   book_sinfo: 択捉型海防艦、その七番艦となります。対馬です。<br>南方航路の防衛のために生まれました。本土とシンガポールの間の船団護衛に努めました。同航路が危なくなってからは、台湾や日本海側の航路を護ります。戦いの後は…皆さんの復員にも努めました。
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [1, 0, 0, 0]
     build_time: 14
   graph:
-    boko_n: [212, 80]
-    boko_d: [180, 100]
+    boko_n: [116, 116]
+    boko_d: [76, 88]
     kaisyu_n: [20, -26]
     kaisyu_d: [60, -12]
-    kaizo_n: [164, 0]
-    kaizo_d: [120, 0]
-    map_n: [184, 52]
-    map_d: [164, 72]
-    ensyuf_n: [176, 52]
-    ensyuf_d: [156, 72]
-    ensyue_n: [160, 0]
-    battle_n: [180, 64]
-    battle_d: [160, 72]
-    wed_a: [40, 84]
-    wed_b: [88, 120]
+    kaizo_n: [68, 44]
+    kaizo_d: [24, -12]
+    map_n: [92, 92]
+    map_d: [64, 44]
+    ensyuf_n: [76, 88]
+    ensyuf_d: [40, 44]
+    ensyue_n: [84, 0]
+    battle_n: [100, 100]
+    battle_d: [52, 64]
+    wed_a: [144, 32]
+    wed_b: [84, 128]
   wiki_id: "340"
   chinese_name: 对马
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

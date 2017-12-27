@@ -1,0 +1,37 @@
+---
+layout: json
+data:
+  id: 185
+  category: 1
+  type: 4
+  title: 精強「任務部隊」を編成せよ！
+  detail: 編成任務：第一艦隊旗艦に「Saratoga Mk.II」または同「Mod.2」を配備、随伴艦に<br>軽巡洋艦1隻、駆逐艦2隻以上を配した夜間作戦可能な機動部隊を新編せよ！
+  reward: [0, 300, 0, 300]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 205
+          amount: 1
+        -
+          category: slotitem
+          id: 233
+          amount: 1
+    -
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 256
+          amount: 1
+        -
+          category: useitem
+          id: 77
+          amount: 1
+  prerequisite: [114, 201]
+  wiki_id: A80
+  chinese_title: 编成精强「任务部队」！
+  chinese_detail: 编成任务：在第一舰队旗舰位置配置「Saratoga　Mk.Ⅱ」或者「Mod.2」，伴随舰配置一艘轻巡洋舰，两艘以上驱逐舰，编成能够夜间作战的机动部队！
+---

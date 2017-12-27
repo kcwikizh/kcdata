@@ -1,0 +1,19 @@
+---
+layout: json
+data:
+  id: 670
+  category: 6
+  type: 4
+  title: 夜戦型艦上戦闘機の性能強化
+  detail: "練度&改修maxの「F6F-5」を秘書艦一番スロットに搭載、 「13号対空電探」x2 「22号対水上電探」x2<br>を廃棄、開発資材x40、改修資材x8、ボーキサイト6,000、「新型航空兵装資材」x1を準備せよ！"
+  reward: [0, 100, 0, 0]
+  reward2:
+    -
+      category: slotitem
+      id: 255
+      amount: 1
+  prerequisite: [669, 864]
+  wiki_id: F63
+  chinese_title: 夜战型舰载战斗机性能强化
+  chinese_detail: 在秘书舰一号装备格搭载练度&改修max的F6F-5，废弃「13号对空电探」*2「22号对水上电探」*2，准备好开发资材*40、改修资材*8、铝6000、「新型航空兵装资材」*1！
+---

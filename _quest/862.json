@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 862
+  category: 8
+  type: 5
+  title: 前線の航空偵察を実施せよ！
+  detail: 偵察任務：水上機母艦1隻と軽巡2隻を中核とした偵察艦隊を、中部海域グアノ環礁沖海域に展開、<br>航空偵察作戦「K作戦」を反復実施せよ！さらに同方面の敵艦隊を捕捉、敵戦力の撃破に努めよ！
+  reward: [0, 800, 0, 1000]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 8
+    -
+      category: useitem
+      id: 4
+      amount: 4
+  prerequisite: [846, 861]
+  wiki_id: Bq4
+  chinese_title: 实施前线航空侦察！
+  chinese_detail: 侦察任务：以一艘水上机母舰和两艘轻巡洋舰为核心编成侦察舰队，在中部海域古阿诺环礁海域(6-3)展开，反复实施航空侦察作战“K作战”！进一步捕捉该海域敌军舰队，击破敌军战力！
+---

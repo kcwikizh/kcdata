@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 667
+  category: 6
+  type: 4
+  title: 民生産業への協力を継続せよ！
+  detail: "工廠任務：軍需物資を放出し、民生産業への協力を継続する。「機銃」系装備x10を廃棄、鉄鋼15,000を<br>準備せよ！※任務達成後、準備した資源は消費します。「特注家具職人」と「勲章」の獲得選択が可能。"
+  reward: [0, 0, 0, 300]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 57
+          amount: 1
+        -
+          category: useitem
+          id: 52
+          amount: 1
+    -
+      category: useitem
+      id: 66
+      amount: 2
+  prerequisite: [665]
+  wiki_id: F59
+  chinese_title: 继续与民生产业合作！
+  chinese_detail: 工厂任务：发放军需物资，继续开展与民生产业的合作。废弃十个「机枪」系装备，并准备钢材15000！
+---

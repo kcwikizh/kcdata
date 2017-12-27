@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 183
+  category: 1
+  type: 4
+  title: 新編「第四水雷戦隊」を編成せよ！
+  detail: 編成任務：第一艦隊旗艦に「由良改二」を配備、随伴艦に二駆「村雨」「夕立」「春雨」「五月雨」<br>他1隻の駆逐艦を配備、新編「第四水雷戦隊」を編成せよ！
+  reward: [400, 0, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 4
+    -
+      category: useitem
+      id: 50
+      amount: 1
+  prerequisite: [156, 225]
+  wiki_id: A78
+  chinese_title: 新编“第四水雷戦隊”编成！
+  chinese_detail: 編成任務：配备第一舰队旗舰为“由良改二”，伴随“村雨”“夕立”“春雨”“五月雨”和其他一艘驱逐舰配备，新编成「第四水雷戦隊」！
+---

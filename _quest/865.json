@@ -1,0 +1,45 @@
+---
+layout: json
+data:
+  id: 865
+  category: 8
+  type: 4
+  title: 夜間作戦空母、前線に出撃せよ！
+  detail: 出撃任務：「Saratoga Mk.II」を旗艦とした第一艦隊を KW環礁沖海域に展開、敵機動部隊を迎撃！<br>「空母機動部隊迎撃戦」を見事成功させよ！　夜戦作戦空母、抜錨！　前線に出撃せよ！
+  reward: [0, 0, 0, 1000]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 256
+          amount: 1
+        -
+          category: useitem
+          id: 77
+          amount: 1
+        -
+          category: slotitem
+          id: 259
+          amount: 1
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 64
+          amount: 1
+        -
+          category: useitem
+          id: 77
+          amount: 1
+        -
+          category: useitem
+          id: 70
+          amount: 1
+  prerequisite: [846, 864]
+  wiki_id: B106
+  chinese_title: 夜间作战航母，向前线出击！
+  chinese_detail: 出击任务：以「Saratoga　Mk.Ⅱ」为旗舰的第一舰队向KW环礁沿海海域(6-5)展开，迎击敌军机动部队！成功完成「航母机动部队迎击战」！夜战作战航母，拔锚！向前线出击！
+---

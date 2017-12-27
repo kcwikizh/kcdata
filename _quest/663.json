@@ -9,13 +9,20 @@ data:
   reward: [0, 600, 0, 0]
   reward2:
     -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 57
+          amount: 1
+        -
+          category: useitem
+          id: 75
+          amount: 1
+    -
       category: useitem
       id: 3
       amount: 3
-    -
-      category: useitem
-      id: [57, 75]
-      amount: 1
   prerequisite: [425]
   wiki_id: F55
   chinese_title: 继续研究新型舾装

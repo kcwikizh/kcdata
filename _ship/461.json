@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: hpxsthymxmki
-  file_version: ["14", "8", "1211"]
+  file_version: ["15", "8", "1227"]
   book_table_id: [461]
   book_sinfo: 翔鶴型航空母艦１番艦の翔鶴です。<br>軍縮条約失効後に設計建造された、本格的な大型正規空母として就役しました。妹の瑞鶴と共に第五航空戦隊を編成します。あの惨劇の後は、先輩方の後を継いで戦線を支えました。そして今、マリアナを超えて、提督と共に翔び続けたいと思います。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 5, 5]
     build_time: 360
   graph:
-    boko_n: [84, 132]
-    boko_d: [92, 162]
+    boko_n: [40, 144]
+    boko_d: [-96, 160]
     kaisyu_n: [8, 4]
     kaisyu_d: [32, 4]
-    kaizo_n: [48, 76]
-    kaizo_d: [48, 68]
-    map_n: [72, 112]
-    map_d: [80, 128]
-    ensyuf_n: [44, 132]
-    ensyuf_d: [56, 132]
-    ensyue_n: [32, 0]
-    battle_n: [84, 132]
-    battle_d: [96, 140]
-    wed_a: [184, -8]
-    wed_b: [88, 120]
+    kaizo_n: [-16, 80]
+    kaizo_d: [-160, 64]
+    map_n: [0, 128]
+    map_d: [-144, 136]
+    ensyuf_n: [0, 136]
+    ensyuf_d: [-136, 132]
+    ensyue_n: [16, 0]
+    battle_n: [16, 128]
+    battle_d: [-128, 144]
+    wed_a: [224, -8]
+    wed_b: [104, 104]
   wiki_id: "261"
   chinese_name: 翔鹤改二
   can_drop: false

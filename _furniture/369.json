@@ -8,8 +8,8 @@ data:
   description: スリガオ海峡に挑んだ第一<br>遊撃部隊第三部隊。祈りと<br>鎮魂の気持ちが込められた<br>掛け軸です。いつまでも、<br>忘れることはありません。
   rarity: 5
   price: 0
-  saleflg: 1
+  saleflg: 0
   season: 29
   filename: "078"
-  file_version: "1"
+  file_version: 1
 ---

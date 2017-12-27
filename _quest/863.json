@@ -1,0 +1,34 @@
+---
+layout: json
+data:
+  id: 863
+  category: 8
+  type: 4
+  title: 精鋭「第二二駆逐隊」出撃せよ！
+  detail: 出撃任務：再編した精鋭「第二二駆逐隊」を含む精強な水雷戦隊で北方海域キス島沖に出撃、<br>キス島撤退作戦を完全成功させよ！
+  reward: [0, 700, 0, 100]
+  reward2:
+    -
+      category: useitem
+      id: 59
+      amount: 2
+    -
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 68
+          amount: 1
+        -
+          category: useitem
+          id: 75
+          amount: 1
+        -
+          category: useitem
+          id: 64
+          amount: 1
+  prerequisite: [184, 303]
+  wiki_id: B104
+  chinese_title: 精锐“第二二驱逐队”出击！
+  chinese_detail: 出击任务：包含再次编成的精锐“第二二驱逐队”在内的精强水雷战队，出击北方海域基斯岛近海(3-2)，使得基斯岛撤退作战完全成功！
+---

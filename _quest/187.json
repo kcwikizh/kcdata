@@ -1,0 +1,34 @@
+---
+layout: json
+data:
+  id: 187
+  category: 1
+  type: 4
+  title: 「西村艦隊」第二戦隊随伴部隊、集結せよ！
+  detail: 捷一号作戦準備任務：第一遊撃部隊第三部隊の中核となる第二戦隊の随伴艦を編成する。<br>各艦隊から艦艇を抽出、第三艦隊に「最上」「時雨」「満潮」「朝雲」「山雲」を配備せよ！
+  reward: [0, 300, 300, 0]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 59
+          amount: 2
+        -
+          category: useitem
+          id: 52
+          amount: 1
+        -
+          category: useitem
+          id: 75
+          amount: 1
+    -
+      category: useitem
+      id: 1
+      amount: 3
+  prerequisite: [402, 429]
+  wiki_id: A82
+  chinese_title: “西村舰队”第二战队伴随部队，集结！
+  chinese_detail: 捷一号作战准备任务：编成作为第一游击部队第三部队核心的第二战队的伴随舰。从各舰队抽出舰艇，在第三舰队配备“最上”“时雨”“满潮”“朝云”“山云”！
+---

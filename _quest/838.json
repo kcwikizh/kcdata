@@ -16,7 +16,7 @@ data:
       category: furniture
       id: 11
       amount: 1
-  prerequisite: [116]
+  prerequisite: [116, 233]
   wiki_id: B87
   chinese_title: 重巡战队，拔锚！
   chinese_detail: 派出以4只重巡为基干战力并以重巡为旗舰的舰队，前往西南诸岛海域东部奥廖尔海(2-3)，消灭本海域的敌方舰队，确保制海权！

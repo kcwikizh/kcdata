@@ -4,12 +4,12 @@ data:
   id: 36
   type: 0
   no: 35
-  title: 鮮やかな畳
-  description: い草の爽やかな香りが漂う畳。<br>鮮やかな緑が若々しく健やかな印象。
-  rarity: 0
-  price: 0
-  saleflg: 0
-  season: 0
+  title: 市松模様の長者畳
+  description: 新春は畳の上で迎えたい…<br>そんなわびさびの心を持つ<br>提督と艦娘に贈る高級畳。<br>コイン長者向けの市松模様<br>仕立て、特別仕様畳です。
+  rarity: 5
+  price: 22000
+  saleflg: 1
+  season: 11
   filename: 
   file_version: 
 ---

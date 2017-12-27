@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 859
+  category: 8
+  type: 4
+  title: 精鋭「第四航空戦隊」、抜錨せよ！
+  detail: 精鋭「第四航空戦隊」出撃任務：精鋭航空戦艦を主戦力に再編された「第四航空戦隊」、抜錨せよ！<br>沖ノ島沖戦闘哨戒及び北方AL海域戦闘哨戒を実施、同方面の敵艦隊主力を捕捉、これを撃破せよ！
+  reward: [500, 0, 500, 0]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 57
+          amount: 1
+        -
+          category: useitem
+          id: 70
+          amount: 1
+    -
+      category: useitem
+      id: 4
+      amount: 4
+  prerequisite: [185]
+  wiki_id: B102
+  chinese_title: 精锐“第四航空战队”，拔锚！
+  chinese_detail: 精锐“第四航空战队”出击任务：以精锐航空战舰为主力再编成的“第四航空战队”，拔锚！前往冲之岛海战斗警戒(2-5)北方阿留申海域(3-5)实施战斗巡逻，捕捉本海域的敌方舰队主力，并歼灭她们！
+---

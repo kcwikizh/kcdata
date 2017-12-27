@@ -1,0 +1,41 @@
+---
+layout: json
+data:
+  id: 864
+  category: 8
+  type: 4
+  title: 精強大型航空母艦、抜錨！
+  detail: 出撃任務：「Saratoga Mk.II」または同「Mod.2」を旗艦とした「任務部隊」で、南方海域サーモン海域<br>北方及び中部海域MS諸島沖に展開、同海域敵戦力を捕捉撃滅、「MS諸島防衛戦」を成功させよ！
+  reward: [0, 0, 700, 700]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 205
+          amount: 1
+        -
+          category: useitem
+          id: 70
+          amount: 1
+        -
+          category: useitem
+          id: 77
+          amount: 1
+    -
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 256
+          amount: 1
+        -
+          category: slotitem
+          id: 258
+          amount: 1
+  prerequisite: [216, 863]
+  wiki_id: B105
+  chinese_title: 精强大型航空母舰，拔锚！
+  chinese_detail: 以「Saratoga　Mk.Ⅱ」或者「Mod.2」为旗舰的「任务部队」,于南方海域沙门海域北方(5-5)以及中部海域马绍尔群岛近海(6-2)展开，捕捉歼灭该海域中的敌军战力，成功完成「马绍尔群岛防卫战」！
+---

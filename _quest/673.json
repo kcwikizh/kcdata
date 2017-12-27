@@ -1,0 +1,19 @@
+---
+layout: json
+data:
+  id: 673
+  category: 6
+  type: 1
+  title: 装備開発力の整備
+  detail: 工廠整備任務：装備開発力を整備する。「小口径主砲」系装備x4を廃棄せよ！
+  reward: [0, 0, 100, 0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 1
+  prerequisite: [607]
+  wiki_id: F65
+  chinese_title: 装备开发力的整备
+  chinese_detail: 工厂整备任务：整备装备开发能力。废弃四个「小口径主炮」吧！
+---

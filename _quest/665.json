@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 665
+  category: 6
+  type: 4
+  title: 民生産業への協力
+  detail: "工廠任務：軍需物資を放出し、民生産業に協力する。「小口径主砲」系装備x16を廃棄、燃料12,000を<br>準備せよ！※任務達成後、準備した資源は消費します。「勲章」と「兵装資材」の獲得選択が可能です。"
+  reward: [0, 0, 600, 0]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 57
+          amount: 1
+        -
+          category: useitem
+          id: 75
+          amount: 1
+    -
+      category: useitem
+      id: 52
+      amount: 1
+  prerequisite: [664]
+  wiki_id: F57
+  chinese_title: 在民生产业合作
+  chinese_detail: 工厂任务：发放军需物资，与民生产业合作。废弃16个「小口径主炮」系的装备，准备12000燃料！※任务完成后，准备好的资源会消耗掉。能够选择性获得「勋章」或「新型火炮兵装资材」。
+---

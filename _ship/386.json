@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: soujslbigbak
-  file_version: ["1", "1", "1212"]
+  file_version: ["2", "1", "1228"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [212, 80]
-    boko_d: [180, 100]
+    boko_n: [116, 116]
+    boko_d: [76, 88]
     kaisyu_n: [20, -26]
     kaisyu_d: [60, -12]
-    kaizo_n: [164, 0]
-    kaizo_d: [120, 0]
-    map_n: [184, 52]
-    map_d: [164, 72]
-    ensyuf_n: [176, 52]
-    ensyuf_d: [156, 72]
-    ensyue_n: [160, 0]
-    battle_n: [180, 64]
-    battle_d: [160, 72]
-    wed_a: [40, 84]
-    wed_b: [88, 120]
+    kaizo_n: [68, 44]
+    kaizo_d: [24, -12]
+    map_n: [92, 92]
+    map_d: [64, 44]
+    ensyuf_n: [76, 88]
+    ensyuf_d: [40, 44]
+    ensyue_n: [84, 0]
+    battle_n: [100, 100]
+    battle_d: [52, 64]
+    wed_a: [144, 32]
+    wed_b: [84, 128]
   wiki_id: "340a"
   chinese_name: 对马改
   can_drop: false

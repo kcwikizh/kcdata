@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 860
+  category: 8
+  type: 4
+  title: 旗艦「由良」、抜錨！
+  detail: 出撃任務：旗艦に「由良改二」、随伴艦に二駆「村雨」「夕立」「春雨」「五月雨」及び「秋月」から<br>二隻以上を配備した第一艦隊を展開、東部オリョール海及び南方海域前面の敵戦力を撃滅せよ！
+  reward: [400, 400, 0, 400]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 68
+          amount: 1
+        -
+          category: useitem
+          id: 64
+          amount: 1
+    -
+      category: useitem
+      id: 70
+      amount: 1
+  prerequisite: [184]
+  wiki_id: B103
+  chinese_title: 旗舰「由良」，拔锚！
+  chinese_detail: 出击任务：以“由良改二”为旗舰，配备伴随舰“村雨”“夕立”“春雨”“五月雨”以及“秋月”中的2艘配备的第一舰队，歼灭东部奥廖尔海(2-3)南方海域前方(5-1)的敌人!
+---

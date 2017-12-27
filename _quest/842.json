@@ -13,9 +13,16 @@ data:
       id: 59
       amount: 1
     -
-      category: slotitem
-      id: [33, 34]
-      amount: 1
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 33
+          amount: 1
+        -
+          category: slotitem
+          id: 34
+          amount: 1
   prerequisite: [233]
   wiki_id: B89
   chinese_title: 主力战舰战队，拔锚！

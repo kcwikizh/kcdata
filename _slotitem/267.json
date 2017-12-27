@@ -1,0 +1,36 @@
+---
+layout: json
+order: 267
+data:
+  id: 267
+  sort_no: 267
+  name: 12.7cm連装砲D型改二
+  type: [1, 1, 1, 1, 0]
+  rare: 3
+  broken: [0, 2, 2, 1]
+  info: 夕雲型駆逐艦などに搭載された駆逐艦主砲のif改修型です。<br>最大仰角を大きく設定しましたが、装填システムの基本構造は従来通りのため対空能力は限定的です。ただし、数々の実戦の戦訓を取り入れた改修により、甲型及び丙型駆逐艦での運用において、優れた砲戦能力を発揮します。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 3
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 3
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name:
+---

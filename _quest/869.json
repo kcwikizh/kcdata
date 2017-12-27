@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 869
+  category: 8
+  type: 4
+  title: 補給線の安全を確保せよ！
+  detail: 軽巡クラスの艦隊旗艦と2隻以上の駆逐艦または海防艦を中核とした警戒艦隊を編成、同艦隊で<br>鎮守府海域(製油所地帯沿岸/南西諸島防衛線/鎮守府近海)の警戒と補給線安全確保にあたれ！
+  reward: [300, 300, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 67
+      amount: 1
+    -
+      category: useitem
+      id: 59
+      amount: 1
+  prerequisite: []
+  wiki_id: B107
+  chinese_title: 确保输送线路的安全
+  chinese_detail: 轻巡级作为舰队旗舰，与2艘以上的驱逐舰或海防舰作为舰队核心，编成警戒舰队，并以此舰队在镇守府海域（制油所地带沿岸/西南诸岛防卫线/镇守府近海）进行警戒，并确保输送线路的安全！
+---

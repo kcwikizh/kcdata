@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 427
+  category: 4
+  type: 4
+  title: 遠征「補給」支援体制を強化せよ！
+  detail: 遠征補給支援体制の強化：鋼材800を用意し、遠征任務「兵站強化任務」を実施。<br>同遠征任務を成功させ、艦隊遠征時における「補給」支援体制の拡充に努めよ！
+  reward: [1000, 0, 300, 0]
+  reward2:
+  prerequisite: [303]
+  wiki_id: C10
+  chinese_title: 秋季大演习
+  chinese_detail: 同日中演习取得八次胜利以上，进一步加强舰队练度！
+---

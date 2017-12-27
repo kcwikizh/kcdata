@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 861
+  category: 8
+  type: 5
+  title: 強行輸送艦隊、抜錨！
+  detail: 航路護衛任務：航空戦艦(または補給艦でも可)2隻を中核とした艦隊で、鎮守府近海航路における<br>輸送船団護衛作戦を実施。同輸送護衛作戦を2回成功させよ！
+  reward: [1000, 400, 400, 0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 4
+    -
+      category: useitem
+      id: 67
+      amount: 1
+  prerequisite: [217]
+  wiki_id: Bq3
+  chinese_title: 强行运输舰队，拔锚！
+  chinese_detail: 航路护卫任务：以两艘航空战舰（或者补给舰）为核心编成舰队，在镇守府近海航路(1-6)实施运输船队护卫作战。完成该运输作战两次！
+---

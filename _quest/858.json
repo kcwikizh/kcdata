@@ -8,6 +8,25 @@ data:
   detail: 出撃任務：新編「第七戦隊」を出撃！　カレー洋リランカ島沖「深海東洋艦隊漸減作戦」、<br>MS諸島沖「MS諸島防衛戦」において、敵艦隊主力を捕捉、これを撃滅せよ！
   reward: [0, 0, 1000, 500]
   reward2:
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 57
+          amount: 1
+        -
+          category: useitem
+          id: 75
+          amount: 1
+        -
+          category: slotitem
+          id: 219
+          amount: 1
+    -
+      category: useitem
+      id: 4
+      amount: 4
   prerequisite: [181, 303]
   wiki_id: B101
   chinese_title: 新编「第七战队」，出击！

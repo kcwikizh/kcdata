@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 184
+  category: 1
+  type: 4
+  title: 精鋭「第二二駆逐隊」を再編成せよ！
+  detail: 編成任務：「文月改二」「皐月改二」「水無月改」「長月改」の精強駆逐艦4隻の編成による<br>精鋭第二二駆逐隊を再編成せよ！
+  reward: [220, 0, 220, 0]
+  reward2:
+    -
+      category: useitem
+      id: 1
+      amount: 2
+    -
+      category: useitem
+      id: 66
+      amount: 1
+  prerequisite: [270]
+  wiki_id: A79
+  chinese_title: 精锐「第二二驱逐队」再编成！
+  chinese_detail: 编成任务：将「文月改二」「皐月改二」「长月改」「水无月改」4只精强驱逐舰编入，再次组成精锐「第二二驱逐队」！
+---

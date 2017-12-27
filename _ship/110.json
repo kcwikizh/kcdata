@@ -14,8 +14,8 @@ data:
   get_mes: 翔鶴型航空母艦１番艦、翔鶴です。<br>一航戦、二航戦の先輩方に、少しでも近づけるように<br>瑞鶴と一緒に頑張ります！
   voice_f: 3
   filename: pdricqoovxfe
-  file_version: ["14", "13", "1211"]
-  book_table_id: [110]
+  file_version: ["15", "13", "1227"]
+  book_table_id: [110, 750]
   book_sinfo: 翔鶴型航空母艦１番艦の翔鶴です。<br>海軍軍縮条約失効後に設計建造された、本格的な大型正規空母として就役しました。妹の瑞鶴と共に第五航空戦隊を編成します。あの惨劇の後は、先輩方の後を継いで戦線を支えました。
   stats:
     taik: [62, 79]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 3]
     build_time: 360
   graph:
-    boko_n: [84, 132]
-    boko_d: [92, 162]
+    boko_n: [64, 72]
+    boko_d: [59, 73]
     kaisyu_n: [11, 23]
     kaisyu_d: [15, 25]
-    kaizo_n: [48, 76]
-    kaizo_d: [48, 68]
-    map_n: [72, 112]
-    map_d: [80, 128]
-    ensyuf_n: [44, 132]
-    ensyuf_d: [56, 132]
-    ensyue_n: [32, 0]
-    battle_n: [84, 132]
-    battle_d: [96, 140]
-    wed_a: [184, -8]
-    wed_b: [88, 120]
+    kaizo_n: [12, -2]
+    kaizo_d: [-5, -37]
+    map_n: [-29, 53]
+    map_d: [-47, 10]
+    ensyuf_n: [32, 60]
+    ensyuf_d: [16, 60]
+    ensyue_n: [16, 0]
+    battle_n: [16, 52]
+    battle_d: [28, 52]
+    wed_a: [195, 66]
+    wed_b: [106, 123]
   wiki_id: "106"
   chinese_name: 翔鹤
   can_drop: true

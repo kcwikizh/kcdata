@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 664
+  category: 6
+  type: 4
+  title: 電探技術の射撃装置への活用
+  detail: "工廠任務：電探技術の射撃装置への活用を研究する。「電探」系装備x10を廃棄、弾薬及び鉄鋼を各8,000<br>準備せよ！※任務達成後、準備した資源は消費します。「勲章」と「兵装資材」の獲得選択が可能です。"
+  reward: [0, 0, 0, 300]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 57
+          amount: 1
+        -
+          category: useitem
+          id: 75
+          amount: 1
+    -
+      category: useitem
+      id: 3
+      amount: 4
+  prerequisite: [661]
+  wiki_id: F56
+  chinese_title: 活用电探技术的射击装置
+  chinese_detail: 工厂任务：研究并活用电探技术的射击装置。废弃10个「电探」系的装备，准备8000弹药及钢铁！※任务完成后，准备好的资源会消耗掉。能够选择性获得「勋章」或「新型火炮兵装资材」。
+---

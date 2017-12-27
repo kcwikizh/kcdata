@@ -1,0 +1,35 @@
+---
+layout: json
+data:
+  id: 873
+  category: 8
+  type: 5
+  title: 北方海域警備を実施せよ！
+  detail: 北方海域警備任務：北方海域の警備を実施する。軽巡を1隻以上含む艦隊で、北方海域モーレイ海、<br>キス島沖、アルフォンシーノ方面に艦隊を展開、北方海域方面の警備と制海権確保に努めよ！
+  reward: [500, 500, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 52
+      amount: 1
+    -
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 266
+          amount: 1
+          level: 3
+        -
+          category: useitem
+          id: 57
+          amount: 1
+    -
+      category: useitem
+      id: 66
+      amount: 1
+  prerequisite: []
+  wiki_id: Bq5
+  chinese_title: 实施北方海域警备吧！
+  chinese_detail: 北方海域警备任务：实施北方海域警备强化。以包含一艘以上轻巡的舰队，于莫雷海(3-1)、基斯岛近海(3-2)、阿尔锋西诺方向(3-3)展开，实施北方海域方向的警备，并确保制海权！
+---

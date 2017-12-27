@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 870
+  category: 8
+  type: 4
+  title: 「第八駆逐隊」、南西へ！
+  detail: 第八駆逐隊任務：「第八駆逐隊」を含む艦隊で、鎮守府海域南西諸島沖、及び南西諸島海域バシー島沖に<br>展開！同海域に跳梁する敵艦隊戦力を捕捉、これを撃滅せよ！
+  reward: [0, 250, 250, 250]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 3
+    -
+      category: useitem
+      id: 54
+      amount: 1
+  prerequisite: [839]
+  wiki_id: B108
+  chinese_title: “第八驱逐队”，前往南西！
+  chinese_detail: 第八驱逐队任务：以含有“第八驱逐队”的舰队在镇守府西南群岛近海，以及西南诸岛巴士岛近海展开！捕捉并歼灭这些海域中四处嚣张的敌舰队战力！
+---
