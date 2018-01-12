@@ -10864,6 +10864,76 @@
     }
   },
   {
+    "game_id": 802,
+    "wiki_id": "SB27",
+    "category": 8,
+    "type": 1,
+    "name": "新春「伊良湖」のお手伝い！",
+    "detail": "新春特別任務：謹賀新年…提督、おめでとうございます！新春からお手伝い、ありがとうございます！<br>水上機母艦または巡洋艦級旗艦で、バシー島及び東部オリョール海に反復出撃、お願いします！",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 2018,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 3
+      },
+      {
+        "name": "戦闘糧食(特別なおにぎり) / 新型砲熕兵装資材 / 高速修復材",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      801
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "map": "2-2",
+          "boss": true,
+          "result": "A",
+          "times": 2,
+          "groups": [
+            {
+              "ship": [
+                "水母",
+                "巡洋艦"
+              ],
+              "flagship": true
+            },
+            {
+              "ship": "艦",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "map": "2-3",
+          "boss": true,
+          "result": "A",
+          "times": 2,
+          "groups": [
+            {
+              "ship": [
+                "水母",
+                "軽巡"
+              ],
+              "flagship": true
+            },
+            {
+              "ship": "艦",
+              "amount": 5
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "game_id": 805,
     "wiki_id": "B58",
     "category": 2,
