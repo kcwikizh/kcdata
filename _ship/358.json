@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: waviopoxryme
-  file_version: ["6", "2", "1"]
+  file_version: ["6", "2", "101"]
   book_table_id: 
   book_sinfo: 
   stats:

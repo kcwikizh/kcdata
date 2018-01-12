@@ -13,8 +13,8 @@ data:
   after_ship_id: 360
   get_mes: Hi！ MeがIowa級戦艦、Iowaよ。<br>Youがこの艦隊のAdmiralなの？ いいじゃない！<br>私たちのこともよろしく！
   voice_f: 1
-  filename: tgknyzwyexxt
-  file_version: ["3", "1", "1"]
+  filename: tgknyzwyexys
+  file_version: ["4", "1", "101"]
   book_table_id: [440, 825]
   book_sinfo: Hi！　Iowa級戦艦Name Ship、Iowaよ。高速戦艦で、この重兵装。Battle shipの最終形ともいえる完成度。USAが生んだ最後の戦艦級として、この艦隊でも頑張るわ。よろしくね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [6, 0, 3, 5]
     build_time: 500
   graph:
-    boko_n: [-48, 76]
-    boko_d: [0, 136]
+    boko_n: [112, 132]
+    boko_d: [204, 132]
     kaisyu_n: [14, -12]
     kaisyu_d: [-4, -4]
-    kaizo_n: [-96, 20]
-    kaizo_d: [-40, 92]
-    map_n: [-88, 44]
-    map_d: [-40, 128]
-    ensyuf_n: [-72, 60]
-    ensyuf_d: [-44, 128]
-    ensyue_n: [-72, 0]
-    battle_n: [-60, 72]
-    battle_d: [-20, 152]
-    wed_a: [304, 80]
-    wed_b: [80, 96]
+    kaizo_n: [88, 80]
+    kaizo_d: [152, 64]
+    map_n: [76, 112]
+    map_d: [152, 128]
+    ensyuf_n: [72, 120]
+    ensyuf_d: [144, 128]
+    ensyue_n: [76, 0]
+    battle_n: [108, 128]
+    battle_d: [164, 132]
+    wed_a: [132, -4]
+    wed_b: [88, 112]
   wiki_id: "240"
   chinese_name: 衣阿华
   can_drop: false

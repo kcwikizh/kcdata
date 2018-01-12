@@ -14,7 +14,7 @@ data:
   get_mes: ボクが最上さ。<br>大丈夫、今度は衝突しないって。ホントだよ。
   voice_f: 1
   filename: lcmobkdeizph
-  file_version: ["14", "7", "1227"]
+  file_version: ["14", "7", "101"]
   book_table_id: [70, 892, 792, 759]
   book_sinfo: 重巡洋艦、最上型のネームシップ、最上だよ。<br>三連主砲がいい感じでしょ？<br>そうそう、ボク、ちょっと他の艦とよくブツかっちゃう癖があるんだけど、なんでだろ？
   stats:

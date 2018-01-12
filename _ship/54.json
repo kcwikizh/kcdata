@@ -14,7 +14,7 @@ data:
   get_mes: 川内、参上。<br>夜戦なら任せておいて！
   voice_f: 0
   filename: nehcyhpiviue
-  file_version: ["10", "7", "1228"]
+  file_version: ["10", "7", "101"]
   book_table_id: [54, 765]
   book_sinfo: 5500トン級の軽巡洋艦の最終タイプ、それが私、川内型よ。<br>熟成された軽巡の魅力、たっぷり教えてあげるから。<br>もちろん、夜戦でね！
   stats:
