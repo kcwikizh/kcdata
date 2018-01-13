@@ -9,12 +9,12 @@ data:
   reward: [500, 500, 0, 0]
   reward2:
     -
-      category: useitem
-      id: 52
-      amount: 1
-    -
       select: 1
       list:
+        -
+          category: useitem
+          id: 52
+          amount: 1
         -
           category: slotitem
           id: 266
