@@ -6,10 +6,18 @@ data:
   type: 5
   title: 近海に侵入する敵潜を制圧せよ！
   detail: 敵潜制圧任務：遠征任務「対潜警戒任務」「海峡警備行動」「長時間対潜警戒」を<br>それぞれ複数回実施し、近海に潜り込む敵潜部隊を制圧、我が領海から叩き出せ！
-  reward: [0, 0, 1000, 300]
+  reward: [0, 1000, 0, 300]
   reward2:
-  prerequisite: [303]
-  wiki_id: C12
-  chinese_title: 秋季大演习
-  chinese_detail: 在春季的一天之内取得8次以上「演习」的胜利，进一步提高舰队的水平！
+    -
+      category: useitem
+      id: 4
+      amount: 3
+    -
+      category: slotitem
+      id: 226
+      amount: 1
+  prerequisite: [426, 427]
+  wiki_id: D26
+  chinese_title: 压制侵入近海的敌方潜艇！
+  chinese_detail: 敌方潜艇压制任务：多次实施远征任务“兵站强化任务”“海峡警戒任务”“长时间对潜警戒”，压制侵入近海的敌方潜艇，从我方领海中驱逐出去！
 ---

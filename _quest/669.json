@@ -12,7 +12,7 @@ data:
       category: slotitem
       id: 254
       amount: 1
-  prerequisite: [608, 863]
+  prerequisite: [185, 608]
   wiki_id: F61
   chinese_title: 开发夜战型舰载战斗机
   chinese_detail: 在秘书舰一号装备格搭载练度&改修max的F6F-3，废弃「13号对空电探」*2「22号对水上电探」*2，准备好开发资材*30、改修资材*6、铝5000、「新型航空兵装资材」*1！

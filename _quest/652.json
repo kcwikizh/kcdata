@@ -12,8 +12,8 @@ data:
       category: useitem
       id: 52
       amount: 1
-  prerequisite: [604]
-  wiki_id: F49
+  prerequisite: [604, 648]
+  wiki_id: F48
   chinese_title: “特注家具”的调拨
   chinese_detail: 废弃12.7cm连装炮两个，并准备家具币5000、以及7.7mm机铳和九六式舰战各两个！ ※在任务达成后，准备的家具币和装备将被消耗（改修值低的装备将优先被消耗）。
 ---

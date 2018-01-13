@@ -1,0 +1,34 @@
+---
+layout: json
+data:
+  id: 804
+  category: 8
+  type: 4
+  title: 迎春！「空母機動部隊」全力出撃！
+  detail: 新春特別任務：旗艦に航空母艦、護衛駆逐艦2隻以上を擁する機動部隊でサーモン海域北方に展開！<br>反復出撃によって、同艦域の敵戦力を撃破せよ！精鋭「空母機動部隊」、新春の海に抜錨せよ！
+  reward: [0, 0, 0, 2018]
+  reward2:
+    -
+      category: furniture
+      id: 371
+      amount: 1
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 70
+          amount: 1
+        -
+          category: useitem
+          id: 77
+          amount: 2
+        -
+          category: slotitem
+          id: 55
+          amount: 3
+  prerequisite: [803]
+  wiki_id: SB29
+  chinese_title: 迎春！“航母机动部队”全力出击！
+  chinese_detail: 新春特别任务：以航空母舰作为旗舰，编成拥有两艘以上护卫驱逐舰的机动部队，于沙门海域北方展开！通过反复出击，击破该海域的敌方战力！精锐“航母机动部队”，在新春的海上拔锚！
+---

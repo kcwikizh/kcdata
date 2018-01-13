@@ -23,7 +23,7 @@ data:
       category: useitem
       id: 4
       amount: 4
-  prerequisite: [185]
+  prerequisite: [182]
   wiki_id: B102
   chinese_title: 精锐“第四航空战队”，拔锚！
   chinese_detail: 精锐“第四航空战队”出击任务：以精锐航空战舰为主力再编成的“第四航空战队”，拔锚！前往冲之岛海战斗警戒(2-5)北方阿留申海域(3-5)实施战斗巡逻，捕捉本海域的敌方舰队主力，并歼灭她们！

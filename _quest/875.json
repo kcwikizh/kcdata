@@ -1,0 +1,41 @@
+---
+layout: json
+data:
+  id: 875
+  category: 8
+  type: 5
+  title: 精鋭「三一駆」、鉄底海域に突入せよ！
+  detail: 強行東京急行任務：精鋭「三一駆」第一小隊を護衛戦力とした突入艦隊を編成、南方サーモン海域に投入。<br>鉄底海峡に突入し、同海域に展開する敵艦艇を実力で排除、強行鼠輸送作戦を反復完遂せよ！
+  reward: [310, 310, 0, 310]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: slotitem
+          id: 27
+          amount: 2
+        -
+          category: slotitem
+          id: 28
+          amount: 2
+        -
+          category: useitem
+          id: 78
+          amount: 1
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 75
+          amount: 1
+        -
+          category: useitem
+          id: 60
+          amount: 1
+  prerequisite: [188, 873]
+  wiki_id: Bq6
+  chinese_title: 精锐「三一驱」，突入铁底海域！
+  chinese_detail: 强行东京急行任务：以精锐“三一驱”第一小队作为护卫战力编成突入舰队，投入至南方沙门海域，突入铁底海峡，并以实力排除展开于该海域的敌方舰艇，反复完成强行鼠输送作战！
+---

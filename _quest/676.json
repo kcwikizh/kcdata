@@ -1,0 +1,23 @@
+---
+layout: json
+data:
+  id: 676
+  category: 6
+  type: 2
+  title: 装備開発力の集中整備
+  detail: 工廠環境の集中整備を実施する！「中口径主砲」系装備x3、「副砲」系装備x3、「ドラム缶(輸送用)」x1<br>を廃棄、鋼材2,400を準備せよ！　※任務達成後、準備した資源は消費します。
+  reward: [0, 200, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 3
+      amount: 7
+    -
+      category: useitem
+      id: 1
+      amount: 1
+  prerequisite: [674]
+  wiki_id: F68
+  chinese_title: 装备开发力的集中整备
+  chinese_detail: 集中配备工厂环境！废弃“中口径主炮”系装备*3，“副炮”系装备*3，“桶(运输用)”*1，准备钢材2,400！ ※任务达成后会消费掉准备的资源。
+---

@@ -1,0 +1,34 @@
+---
+layout: json
+data:
+  id: 802
+  category: 8
+  type: 4
+  title: 新春「伊良湖」のお手伝い！
+  detail: 新春特別任務：謹賀新年…提督、おめでとうございます！新春からお手伝い、ありがとうございます！<br>水上機母艦または巡洋艦級旗艦で、バシー島沖及び東部オリョール海に反復出撃、お願いします！
+  reward: [0, 0, 2018, 0]
+  reward2:
+    -
+      category: useitem
+      id: 59
+      amount: 3
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 76
+          amount: 1
+        -
+          category: useitem
+          id: 1
+          amount: 5
+        -
+          category: useitem
+          id: 75
+          amount: 1
+  prerequisite: [801]
+  wiki_id: SB27
+  chinese_title: 在新春给“伊良湖”帮忙！
+  chinese_detail: 新春特别任务：谨贺新年…提督，新年快乐！谢谢您新春开始帮的忙！麻烦您以水上机母舰或巡洋舰级作为旗舰，在巴士岛近海以及东部奥廖尔海反复出击！
+---

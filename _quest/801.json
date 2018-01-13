@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 801
+  category: 8
+  type: 4
+  title: 謹賀新年！「水雷戦隊」出撃始め！
+  detail: 新春特別任務：軽巡を旗艦とした水雷戦隊を鎮守府海域南西諸島沖及び南西諸島防衛線に展開！<br>両作戦海域において敵艦隊を邀撃、新年の暁に勝利を刻みなさい！二〇一八、水雷戦隊…抜錨ッ！
+  reward: [0, 2018, 0, 0]
+  reward2:
+    -
+      category: useitem
+      id: 51
+      amount: 1
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 66
+          amount: 2
+        -
+          category: useitem
+          id: 3
+          amount: 5
+  prerequisite: [206]
+  wiki_id: SB26
+  chinese_title: 谨贺新年！“水雷舰队”出击开始！
+  chinese_detail: 新春特别任务：在镇守府海域南西群岛近海以及南西群岛防卫线展开以轻巡作为旗舰的水雷舰队！在两作战海域反复迎击敌方舰队，于新年的曙光镌刻下胜利！二〇一八，水雷舰队……拔锚！
+---

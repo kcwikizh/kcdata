@@ -1,0 +1,37 @@
+---
+layout: json
+data:
+  id: 317
+  category: 3
+  type: 4
+  title: 甲型駆逐艦の戦力整備計画
+  detail: 甲型駆逐艦整備任務：甲型駆逐艦【夕雲型/陽炎型】を2隻以上配備した第一艦隊で演習で3回「勝利」、<br>その後、同艦隊を南西諸島海域に投入。各出撃で得られた戦訓を艦隊型駆逐艦戦力整備に活用せよ！
+  reward: [0, 350, 0, 350]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 52
+          amount: 1
+        -
+          category: useitem
+          id: 78
+          amount: 1
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 1
+          amount: 5
+        -
+          category: useitem
+          id: 66
+          amount: 2
+  prerequisite: [673]
+  wiki_id: C15
+  chinese_title: 甲型驱逐舰的战力整备计划
+  chinese_detail: 甲型驱逐舰整备任务：以配备了两艘以上甲型驱逐舰【夕云级/阳炎级】的第一舰队演习胜利3次，并在之后将该舰队投入西南诸岛海域。将各次出击得到的战斗经验活用于舰队型驱逐舰的战力整备！
+---

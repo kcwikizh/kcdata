@@ -27,7 +27,7 @@ data:
       category: useitem
       id: 4
       amount: 4
-  prerequisite: [426, 666]
+  prerequisite: [186, 429]
   wiki_id: B109
   chinese_title: 最精锐“第八驱逐队”全力出击！
   chinese_detail: 第八驱逐队任务：以最新锐“第八驱逐队”为核心战力编成舰队，突入北方海域基斯岛近海，以及南方海域萨部岛海域！将这些海域中的第舰队歼灭，刻下第八驱逐队获得的完全胜利！

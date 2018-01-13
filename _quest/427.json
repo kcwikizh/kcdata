@@ -6,10 +6,17 @@ data:
   type: 4
   title: 遠征「補給」支援体制を強化せよ！
   detail: 遠征補給支援体制の強化：鋼材800を用意し、遠征任務「兵站強化任務」を実施。<br>同遠征任務を成功させ、艦隊遠征時における「補給」支援体制の拡充に努めよ！
-  reward: [1000, 0, 300, 0]
+  reward: [200, 200, 0, 0]
   reward2:
-  prerequisite: [303]
-  wiki_id: C10
-  chinese_title: 秋季大演习
-  chinese_detail: 同日中演习取得八次胜利以上，进一步加强舰队练度！
+    -
+      category: other
+      item: 遠征「臨時補給」開放
+    -
+      category: useitem
+      id: 66
+      amount: 2
+  prerequisite: [869]
+  wiki_id: D25
+  chinese_title: 强化远征“补给”支援体制！
+  chinese_detail: 强化远征补给支援体制：准备钢材800，并实施远征任务“兵站强化任务”。成功进行此远征，为舰队远征时接受的“补给”支援体制努力吧！
 ---

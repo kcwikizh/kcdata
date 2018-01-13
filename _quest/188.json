@@ -1,0 +1,30 @@
+---
+layout: json
+data:
+  id: 188
+  category: 1
+  type: 4
+  title: 精鋭「三一駆」第一小隊、抜錨準備！
+  detail: 編成任務：「長波改二」旗艦、僚艦に「高波改」または「沖波改」「朝霜改」を配した、第三一駆逐隊第一小隊(2隻艦隊)を編成せよ！
+  reward: [200, 200, 0, 0]
+  reward2:
+    -
+      select: 1
+      list:
+        -
+          category: useitem
+          id: 76
+          amount: 2
+        -
+          category: useitem
+          id: 52
+          amount: 1
+    -
+      category: useitem
+      id: 1
+      amount: 2
+  prerequisite: [239, 673]
+  wiki_id: A83
+  chinese_title: 精锐「三一驱」第一小队，准备拔锚！
+  chinese_detail: 编成任务：长波改二旗舰，并配以高波改，冲波改或朝霜改作为僚舰，编成第三一驱逐队第一小队（二船舰队）！
+---

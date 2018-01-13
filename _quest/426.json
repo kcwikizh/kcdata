@@ -6,10 +6,18 @@ data:
   type: 5
   title: 海上通商航路の警戒を厳とせよ！
   detail: 遠征任務：遠征任務「警備任務」「対潜警戒任務」「海上護衛任務」「強行偵察任務」<br>を実施し、敵の通商破壊部隊を制圧、海上通商航路の安全を確保せよ！
-  reward: [300, 300, 0, 0]
+  reward: [800, 0, 0, 0]
   reward2:
-  prerequisite: [821, 870]
-  wiki_id: A81
-  chinese_title: 编成最精锐“第八驱逐队”！
-  chinese_detail: 精锐驱逐队编成任务：以“朝潮改二”“大潮改二”“荒潮改二”“满潮改二”这四艘最新锐朝潮型驱逐舰编成新编“第八驱逐队”！
+    -
+      category: useitem
+      id: 3
+      amount: 4
+    -
+      category: useitem
+      id: 66
+      amount: 2
+  prerequisite: [810]
+  wiki_id: D24
+  chinese_title: 强化海上通商航路警戒！
+  chinese_detail: 远征任务：完成远征任务「警备任务」(远征3)「对潜警戒任务」(远征4)「海上护卫任务」(远征5)「强行侦察任务」(远征10)，压制敌军通商破坏舰队，确保海上通商航路的安全！
 ---
