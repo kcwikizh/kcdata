@@ -1923,8 +1923,9 @@
             "衣笠"
           ],
           "select": 5
-        }
-      ]
+        },
+      ],
+      "fleetid" : 1
     }
   },
   {
@@ -2979,7 +2980,8 @@
         {
           "ship": "陸奥改"
         }
-      ]
+      ],
+        "fleetid" : 1
     }
   },
   {
@@ -3026,7 +3028,8 @@
         {
           "ship": "鈴谷改二"
         }
-      ]
+      ],
+      "fleetid" : 1
     }
   },
   {
@@ -3068,7 +3071,8 @@
           "ship": "駆逐",
           "amount": 2
         }
-      ]
+      ],
+      "fleetid" : 1
     }
   },
   {
@@ -3119,7 +3123,8 @@
           "ship": "駆逐",
           "amount": 1
         }
-      ]
+      ],
+      "fleetid" : 1
     }
   },
   {
@@ -3177,12 +3182,28 @@
     "reward_bauxite": 300,
     "reward_other": [
       {
-        "name": "F6F-3 / F4U-1D",
-        "amount": 1
+        "choices":[
+          {
+            "name":"F6F-3",
+            "amount": 1
+          },
+          {
+            "name":"F4U-1D",
+            "amount": 1
+          }
+        ]
       },
       {
-        "name": "TBF / 新型航空兵装資材",
-        "amount": 1
+        "choices":[
+          {
+            "name":"TBF",
+            "amount": 1
+          },
+          {
+            "name":"新型航空兵装資材",
+            "amount": 1
+          }
+        ]
       }
     ],
     "prerequisite": [
@@ -3204,7 +3225,8 @@
           "ship": "駆逐艦",
           "amount": 2
         }
-      ]
+      ],
+      "fleetid" : 1
     }
   },
   {
@@ -3263,8 +3285,20 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "給糧艦「伊良湖」(x2) / 特注家具職人 / 新型砲熕兵装資材",
-        "amount": 1
+        "choices":[
+          {
+            "name":"給糧艦「伊良湖」",
+            "amount": 2
+          },
+          {
+            "name":"特注家具職人",
+            "amount": 1
+          },
+          {
+            "name":"新型砲熕兵装資材",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "高速修復材",
@@ -6988,8 +7022,16 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "特注家具職人 / 大発動艇",
-        "amount": 1
+        "choices":[
+          {
+            "name":"特注家具職人",
+            "amount": 1
+          },
+          {
+            "name":"大発動艇",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "改修資材",
@@ -7319,7 +7361,7 @@
       "category": "expedition",
       "objects": [
         {
-          "times": 6,
+          "times": 7,
           "id": [
             37,
             38
@@ -9774,12 +9816,16 @@
     "requirements": {
       "category": "modelconversion",
       "slots": [
-        1,
-        2
-      ],
-      "equipment": [
-        "試製晴嵐",
-        "瑞雲(六三一空)"
+        {
+          "slot":1,
+          "equipment":"試製晴嵐",
+          "convert":true
+        },
+        {
+          "slot":2,
+          "equipment":"瑞雲(六三一空)",
+          "convert":true
+        }
       ],
       "secretary": "伊401 / 伊14 / 伊13"
     }
@@ -10025,8 +10071,16 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "勲章 / 新型砲熕兵装資材",
-        "amount": 1
+        "choices":[
+          {
+            "name":"勲章",
+            "amount": 1
+          },
+          {
+            "name":"新型砲熕兵装資材",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "開発資材",
@@ -10066,8 +10120,16 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "勲章 / 新型砲熕兵装資材",
-        "amount": 1
+        "choices":[
+          {
+            "name":"勲章",
+            "amount": 1
+          },
+          {
+            "name":"新型砲熕兵装資材",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "開発資材",
@@ -10106,8 +10168,16 @@
     "reward_bauxite": 300,
     "reward_other": [
       {
-        "name": "勲章 / 新型砲熕兵装資材",
-        "amount": 1
+        "choices":[
+          {
+            "name":"勲章",
+            "amount": 1
+          },
+          {
+            "name":"新型砲熕兵装資材",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "開発資材",
@@ -10146,8 +10216,16 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "勲章 / 新型砲熕兵装資材",
-        "amount": 1
+        "choices":[
+          {
+            "name":"勲章",
+            "amount": 1
+          },
+          {
+            "name":"新型砲熕兵装資材",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "特注家具職人",
@@ -10235,8 +10313,16 @@
     "reward_bauxite": 300,
     "reward_other": [
       {
-        "name": "勲章 / 特注家具職人",
-        "amount": 1
+        "choices":[
+          {
+            "name":"勲章",
+            "amount": 1
+          },
+          {
+            "name":"特注家具職人",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "戦闘糧食",
@@ -10624,8 +10710,16 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "一式戦 隼II型 / 紫電一一型",
-        "amount": 1
+        "choices":[
+          {
+            "name":"一式戦 隼II型",
+            "amount": 1
+          },
+          {
+            "name":"紫電一一型",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "改修資材",
@@ -10819,8 +10913,16 @@
         "amount": 1
       },
       {
-        "name": "戦闘糧食(x2) / 開発資材(x5)",
-        "amount": 1
+        "choices":[
+          {
+            "name":"戦闘糧食",
+            "amount": 2
+          },
+          {
+            "name":"開発資材",
+            "amount": 5
+          }
+        ]
       }
     ],
     "prerequisite": [
@@ -10883,8 +10985,20 @@
         "amount": 3
       },
       {
-        "name": "戦闘糧食(特別なおにぎり) / 高速修復材(x5) / 新型砲熕兵装資材",
-        "amount": 1
+        "choices":[
+          {
+            "name":"戦闘糧食(特別なおにぎり)",
+            "amount": 1
+          },
+          {
+            "name":"高速修復材",
+            "amount": 5
+          },
+          {
+            "name":"新型砲熕兵装資材",
+            "amount": 1
+          }
+        ]
       }
     ],
     "prerequisite": [
@@ -10953,8 +11067,20 @@
         "amount": 3
       },
       {
-        "name": "二式爆雷(x2) / 戦闘詳報 / 雷電",
-        "amount": 1
+        "choices":[
+          {
+            "name":"二式爆雷",
+            "amount": 2
+          },
+          {
+            "name":"戦闘詳報",
+            "amount": 1
+          },
+          {
+            "name":"雷電",
+            "amount": 1
+          }
+        ]
       }
     ],
     "prerequisite": [
@@ -10990,7 +11116,8 @@
                 99
               ]
             }
-          ]
+          ],
+          "disallowed": "他の艦"
         },
         {
           "category": "sortie",
@@ -11018,6 +11145,7 @@
               ]
             }
           ],
+          "disallowed": "他の艦",
           "result": "クリア"
         }
       ]
@@ -11040,8 +11168,20 @@
         "category": "家具"
       },
       {
-        "name": "熟練搭乗員 / 新型航空兵装資材(x2) / 紫電改二(x3)",
-        "amount": 1
+        "choices":[
+          {
+            "name":"熟練搭乗員",
+            "amount": 1
+          },
+          {
+            "name":"新型航空兵装資材",
+            "amount": 2
+          },
+          {
+            "name":"紫電改二",
+            "amount": 3
+          }
+        ]
       }
     ],
     "prerequisite": [
@@ -12470,8 +12610,16 @@
         "amount": 2
       },
       {
-        "name": "二式水戦改 / PBY-5A Catalina",
-        "amount": 1
+        "choices":[
+          {
+            "name":"二式水戦改",
+            "amount": 1
+          },
+          {
+            "name":"PBY-5A Catalina",
+            "amount": 1
+          }
+        ]
       }
     ],
     "prerequisite": [
@@ -12526,8 +12674,16 @@
         "amount": 1
       },
       {
-        "name": "改良型艦本式タービン / 強化型艦本式缶",
-        "amount": 1
+        "choices":[
+          {
+            "name":"改良型艦本式タービン",
+            "amount": 1
+          },
+          {
+            "name":"強化型艦本式缶",
+            "amount": 1
+          }
+        ]
       }
     ],
     "prerequisite": [
@@ -12882,8 +13038,16 @@
         "amount": 4
       },
       {
-        "name": "強風改 / 艦本新設計 増設バルジ(中型艦)",
-        "amount": 1
+        "choices":[
+          {
+            "name":"強風改",
+            "amount": 1
+          },
+          {
+            "name":"艦本新設計 増設バルジ(中型艦)",
+            "amount": 1
+          }
+        ]
       }
     ],
     "prerequisite": [
@@ -13311,8 +13475,16 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "勲章 / 新型砲熕兵装資材",
-        "amount": 1
+        "choices":[
+          {
+            "name":"勲章",
+            "amount": 1
+          },
+          {
+            "name":"新型砲熕兵装資材",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "高速修復材",
@@ -13450,8 +13622,20 @@
     "reward_bauxite": 500,
     "reward_other": [
       {
-        "name": "勲章 / 新型砲熕兵装資材 / 零式艦戦63型(爆戦)",
-        "amount": 1
+        "choices":[
+          {
+            "name":"勲章",
+            "amount": 1
+          },
+          {
+            "name":"新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name":"零式艦戦63型(爆戦)",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "改修資材",
@@ -13521,8 +13705,16 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "勲章 / 熟練搭乗員",
-        "amount": 1
+        "choices":[
+          {
+            "name":"勲章",
+            "amount": 1
+          },
+          {
+            "name":"熟練搭乗員",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "改修資材",
@@ -13591,8 +13783,16 @@
     "reward_bauxite": 400,
     "reward_other": [
       {
-        "name": "大発動艇 / 補強増設",
-        "amount": 1
+        "choices":[
+          {
+            "name":"大発動艇",
+            "amount": 1
+          },
+          {
+            "name":"補強増設",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "熟練搭乗員",
@@ -13647,7 +13847,7 @@
                 "五月雨",
                 "秋月"
               ],
-              "amount": 3
+              "amount": 2
             }
           ]
         }
@@ -13759,8 +13959,20 @@
         "amount": 2
       },
       {
-        "name": "大発動艇 / 新型砲熕兵装資材 / 補強増設",
-        "amount": 1
+        "choices":[
+          {
+            "name":"大発動艇",
+            "amount": 1
+          },
+          {
+            "name":"新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name":"補強増設",
+            "amount": 1
+          }
+        ]
       }
     ],
     "prerequisite": [
@@ -13807,12 +14019,32 @@
     "reward_bauxite": 700,
     "reward_other": [
       {
-        "name": "F6F-3 / 熟練搭乗員 / 新型航空兵装資材",
-        "amount": 1
+        "choices":[
+          {
+            "name":"F6F-3",
+            "amount": 1
+          },
+          {
+            "name":"熟練搭乗員",
+            "amount": 1
+          },
+          {
+            "name":"新型航空兵装資材",
+            "amount": 1
+          }
+        ]
       },
       {
-        "name": "TBF / 夜間作戦航空要員",
-        "amount": 1
+        "choices":[
+          {
+            "name":"TBF",
+            "amount": 1
+          },
+          {
+            "name":"夜間作戦航空要員",
+            "amount": 1
+          }
+        ]
       }
     ],
     "prerequisite": [
@@ -13880,12 +14112,36 @@
     "reward_bauxite": 1000,
     "reward_other": [
       {
-        "name": "TBF / 新型航空兵装資材 / 夜間作戦航空要員+熟練甲板員",
-        "amount": 1
+        "choices":[
+          {
+            "name":"TBF",
+            "amount": 1
+          },
+          {
+            "name":"新型航空兵装資材",
+            "amount": 1
+          },
+          {
+            "name":"夜間作戦航空要員+熟練甲板員",
+            "amount": 1
+          }
+        ]
       },
       {
-        "name": "補強増設 / 新型航空兵装資材 / 熟練搭乗員",
-        "amount": 1
+        "choices":[
+          {
+            "name":"補強増設",
+            "amount": 1
+          },
+          {
+            "name":"新型航空兵装資材",
+            "amount": 1
+          },
+          {
+            "name":"熟練搭乗員",
+            "amount": 1
+          }
+        ]
       }
     ],
     "prerequisite": [
@@ -14077,8 +14333,20 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "12.7cm連装砲C型改二 / 大発動艇 / 22号対水上電探(x2)",
-        "amount": 1
+        "choices":[
+          {
+            "name":"12.7cm連装砲C型改二",
+            "amount": 1
+          },
+          {
+            "name":"大発動艇",
+            "amount": 1
+          },
+          {
+            "name":"22号対水上電探",
+            "amount": 2
+          }
+        ]
       },
       {
         "name": "改修資材",
@@ -14150,8 +14418,20 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "特注家具職人 / 12.7cm連装砲C型改二★+3 / 勲章",
-        "amount": 1
+        "choices":[
+          {
+            "name":"特注家具職人",
+            "amount": 1
+          },
+          {
+            "name":"12.7cm連装砲C型改二★+3",
+            "amount": 1
+          },
+          {
+            "name":"勲章",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "戦闘糧食",
@@ -14176,7 +14456,7 @@
               "amount": 1
             },
             {
-              "ship": "駆逐艦",
+              "ship": "自由艦",
               "amount": 5
             }
           ]
@@ -14210,7 +14490,7 @@
               "amount": 1
             },
             {
-              "ship": "駆逐艦",
+              "ship": "自由艦",
               "amount": 5
             }
           ]
@@ -14231,8 +14511,20 @@
     "reward_bauxite": 700,
     "reward_other": [
       {
-        "name": "紫電改二(x2) / 改修資材(x4) / 新型航空兵装資材",
-        "amount": 1
+        "choices":[
+          {
+            "name":"紫電改二",
+            "amount": 2
+          },
+          {
+            "name":"改修資材",
+            "amount": 4
+          },
+          {
+            "name":"新型航空兵装資材",
+            "amount": 1
+          }
+        ]
       },
       {
         "name": "プレゼント箱",
