@@ -7151,7 +7151,7 @@
           "daily": true,
           "groups": [
             {
-              "ship": "夕雲型/陽炎型",
+              "shipclass": ["夕雲","陽炎"],
               "amount": 2
             }
           ]
