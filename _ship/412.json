@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
-  filename: xjsgvmgfleys
-  file_version: ["26", "19", "101"]
+  filename: xjsgvmgfleuu
+  file_version: ["27", "19", "117"]
   book_table_id: [412]
   book_sinfo: 扶桑型戦艦２番艦、山城です。<br>「欠陥戦艦」とか「艦隊にいる方が珍しい」とか、いいたい放題ね…。<br>でも、いいの。最後の時も、扶桑姉さまと一緒に戦えれば……
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [5, 0, 3, 4]
     build_time: 260
   graph:
-    boko_n: [96, 154]
-    boko_d: [136, 148]
+    boko_n: [-80, 88]
+    boko_d: [-64, 152]
     kaisyu_n: [0, -12]
     kaisyu_d: [0, -20]
-    kaizo_n: [56, 96]
-    kaizo_d: [96, 56]
-    map_n: [36, 124]
-    map_d: [92, 104]
-    ensyuf_n: [64, 140]
-    ensyuf_d: [96, 120]
-    ensyue_n: [48, 0]
-    battle_n: [92, 144]
-    battle_d: [116, 116]
-    wed_a: [112, -8]
-    wed_b: [108, 128]
+    kaizo_n: [-120, 24]
+    kaizo_d: [-96, 48]
+    map_n: [-96, 64]
+    map_d: [-104, 128]
+    ensyuf_n: [-64, 64]
+    ensyuf_d: [-64, 120]
+    ensyue_n: [-96, 0]
+    battle_n: [-64, 64]
+    battle_d: [-72, 128]
+    wed_a: [320, 64]
+    wed_b: [128, 112]
   wiki_id: "212"
   chinese_name: 山城改二
   can_drop: false

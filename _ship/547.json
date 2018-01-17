@@ -14,7 +14,7 @@ data:
   get_mes: 軽巡、多摩です。<br>猫じゃないにゃ。
   voice_f: 1
   filename: pcmipikyqfxe
-  file_version: ["51", "2", "101"]
+  file_version: ["51", "2", "1"]
   book_table_id: [547]
   book_sinfo: 球磨型軽巡洋艦の２番艦、多摩だにゃ。<br>水雷戦隊の旗艦として、ご奉公するにゃ！<br>にゃ？多摩って名前だけど、猫じゃないもん！
   stats:

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 373
+  type: 5
+  no: 74
+  title: こどもの節分セット
+  description: そうです！節分は大人だけ<br>のものじゃない！むしろ、<br>こどもこそ…全力で節分を<br>楽しみたい…そんな気持ち<br>の艦娘が暴れた家具です！
+  rarity: 5
+  price: 3300
+  saleflg: 1
+  season: 12
+  filename: "075"
+  file_version: "1"
+---

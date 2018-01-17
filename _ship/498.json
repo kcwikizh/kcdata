@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 498
+  sort_no: 298
+  name: 村雨改二
+  yomi: むらさめ
+  stype: 2
+  ctype: 23
+  cnum: 3
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: cppixsrylduw
+  file_version: ["1", "1", "117"]
+  book_table_id: [498]
+  book_sinfo: 白露型駆逐艦３番艦、村雨よ。<br>雨の名前の駆逐艦群なんてお洒落よね？<br>姉妹艦の夕立たちと一緒に第２駆逐隊を編成したの。鼠輸送ですって？　失礼しちゃう、ガダルカナル島輸送作戦でも活躍したわ！
+  stats:
+    taik: [31, 49]
+    souk: [14, 51]
+    houg: [16, 68]
+    raig: [28, 88]
+    tyku: [18, 70]
+    luck: [17, 77]
+    soku: 10
+    leng: 1
+    kaih: 48
+    tais: 29
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [70, 122]
+    boko_d: [122, 164]
+    kaisyu_n: [24, 2]
+    kaisyu_d: [44, 24]
+    kaizo_n: [40, 74]
+    kaizo_d: [92, 60]
+    map_n: [72, 112]
+    map_d: [120, 132]
+    ensyuf_n: [50, 102]
+    ensyuf_d: [92, 124]
+    ensyue_n: [44, 0]
+    battle_n: [76, 120]
+    battle_d: [128, 132]
+    wed_a: [186, -4]
+    wed_b: [76, 136]
+  wiki_id: "298"
+  chinese_name: 村雨改二
+  can_drop: false
+  can_construct: false
+---

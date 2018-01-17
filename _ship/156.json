@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: vsnkqdgtcjbs
-  file_version: ["2", "2", "101"]
+  file_version: ["2", "2", "1"]
   book_table_id: [156]
   book_sinfo: 航空母艦「大鳳」です。<br>飛行甲板まで十分な防御を施された最新鋭の正規空母です。密閉型の格納庫やハリケーン・バウもいい感じでしょ？　装甲甲板もお化粧直ししてみたわ。どう？似合う？
   stats:
