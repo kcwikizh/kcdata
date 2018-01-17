@@ -3369,10 +3369,8 @@
           "flagship": true
         },
         {
-          "ship": "高波改"
-        },
-        {
           "ship": [
+            "高波改",
             "沖波改",
             "朝霜改"
           ],
@@ -10439,7 +10437,7 @@
     ],
     "requirements": {
       "category": "modelconversion",
-      "secretary": "艦",
+      "secretary": "日向改",
       "slots": [
         {
           "slot": 4,
@@ -10449,7 +10447,7 @@
           "use_skilled_crew": true
         }
       ],
-      "equipments": [
+      "consumptions": [
         {
           "name": "九九式艦爆",
           "amount": 2
@@ -14836,13 +14834,12 @@
               "flagship": true
             },
             {
-              "ship": "高波改"
-            },
-            {
-              "ship": "沖波改 "
-            },
-            {
-              "ship": "朝霜改"
+              "ship": [
+                "高波改",
+                "沖波改",
+                "朝霜改"
+              ],
+              "select": 1
             }
           ]
         }
