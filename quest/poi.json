@@ -10819,7 +10819,7 @@
       607
     ],
     "requirements": {
-      "category": "equipexchange",
+      "category": "scrapequipment",
       "scraps": [
         {
           "name": "小口径主砲",
