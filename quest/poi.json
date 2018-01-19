@@ -7254,6 +7254,64 @@
     }
   },
   {
+    "game_id": 318,
+    "wiki_id": "C16",
+    "category": 3,
+    "type": 6,
+    "name": "給糧艦「伊良湖」の支援",
+    "detail": "伊良湖支援任務：軽巡を2隻以上配備した第一艦隊で本日中に演習で3回「勝利」、その後、<br>第一艦隊旗艦に戦闘糧食を二つ装備せよ！　※任務達成後、同戦闘糧食は消費します",
+    "reward_fuel": 100,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 2
+          },
+          {
+            "name": "高速修复材",
+            "amount": 2
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      676
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "excercise",
+          "times": 3,
+          "victory": true,
+          "daily": true,
+          "groups": [
+            {
+              "ship": "軽巡",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "modelconversion",
+          "secretary": "艦",
+          "equipment": [
+            "戦闘糧食*2"
+          ],
+          "consumptions": []
+        }
+      ]
+    }
+  },
+  {
     "game_id": 401,
     "wiki_id": "D01",
     "category": 4,
