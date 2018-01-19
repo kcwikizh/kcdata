@@ -11019,6 +11019,50 @@
     }
   },
   {
+    "game_id": 677,
+    "wiki_id": "F69",
+    "category": 6,
+    "type": 3,
+    "name": "継戦支援能力の整備",
+    "detail": "艦娘の継戦支援体制の整備強化を実施する！「大口径主砲」系装備x4、「水上偵察機」系装備x2、<br>「魚雷」系装備x3を廃棄、鋼材3,600を準備せよ！　※任務達成後、準備した資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 500,
+    "reward_steel": 0,
+    "reward_bauxite": 150,
+    "reward_other": [
+      {
+        "name": "高速修复材",
+        "amount": 5
+      }
+    ],
+    "prerequisite": [
+      674
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "大口径主砲",
+          "amount": 4
+        },
+        {
+          "name": "水上偵察機",
+          "amount": 2
+        },
+        {
+          "name": "魚雷",
+          "amount": 3
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        3600,
+        0
+      ]
+    }
+  },
+  {
     "game_id": 701,
     "wiki_id": "G01",
     "category": 7,
