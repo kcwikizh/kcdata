@@ -14994,5 +14994,140 @@
         }
       ]
     }
+  },
+  {
+    "game_id": 877,
+    "wiki_id": "B112",
+    "category": 2,
+    "type": 1,
+    "name": "精鋭「四水戦」、南方海域に展開せよ！",
+    "detail": "「村雨改二」旗艦含む精鋭四水戦(4Sd)より4隻(他主力艦2隻)計6隻の精鋭艦隊を南方海域に展開。<br>南方海域前面、サブ島沖海域、サーモン海域に突入、同南方海域方面の敵艦隊を撃破せよ！",
+    "reward_fuel": 400,
+    "reward_ammo": 400,
+    "reward_steel": 0,
+    "reward_bauxite": 400,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "12.7cm連装砲C型改二",
+            "amount": 1
+          },
+          {
+            "name": "22号対水上電探",
+            "amount": 2
+          },
+          {
+            "name": "12.7cm連装砲B型改二",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "洋上補給",
+            "amount": 2
+          },
+          {
+            "name": "ドラム缶(輸送用)",
+            "amount": 3
+          },
+          {
+            "name": "改修資材",
+            "amount": 4
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      189
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "map": "5-1",
+          "times": 1,
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "村雨改二",
+              "flagship": true
+            },
+            {
+              "ship": [
+                "由良改二",
+                "夕立改二",
+                "春雨改",
+                "五月雨改",
+                "秋月改"
+              ],
+              "amount": 3
+            },
+            {
+              "ship": "艦",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "map": "5-3",
+          "times": 1,
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "村雨改二",
+              "flagship": true
+            },
+            {
+              "ship": [
+                "由良改二",
+                "夕立改二",
+                "春雨改",
+                "五月雨改",
+                "秋月改"
+              ],
+              "amount": 3
+            },
+            {
+              "ship": "艦",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "map": "5-4",
+          "times": 1,
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "村雨改二",
+              "flagship": true
+            },
+            {
+              "ship": [
+                "由良改二",
+                "夕立改二",
+                "春雨改",
+                "五月雨改",
+                "秋月改"
+              ],
+              "amount": 3
+            },
+            {
+              "ship": "艦",
+              "amount": 2
+            }
+          ]
+        }
+      ]
+    }
   }
 ]
