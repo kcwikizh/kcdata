@@ -10924,7 +10924,7 @@
     ],
     "requirements": {
       "category": "scrapequipment",
-      "scraps": [
+      "list": [
         {
           "name": "小口径主砲",
           "amount": 4
