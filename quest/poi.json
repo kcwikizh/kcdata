@@ -10214,14 +10214,14 @@
     "requirements": {
       "category": "modelconversion",
       "secretary": "艦",
+      "use_skilled_crew": true,
       "slots": [
         {
           "slot": 1,
           "equipment": "二式水戦改",
           "convert": true,
           "fullyskilled": true,
-          "maxmodified": true,
-          "use_skilled_crew": true
+          "maxmodified": true
         }
       ],
       "scraps": [
@@ -10261,14 +10261,14 @@
     "requirements": {
       "category": "modelconversion",
       "secretary": "艦",
+      "use_skilled_crew": true,
       "slots": [
         {
           "slot": 1,
           "equipment": "二式水戦改",
           "convert": true,
           "fullyskilled": true,
-          "maxmodified": true,
-          "use_skilled_crew": true
+          "maxmodified": true
         }
       ],
       "scraps": [
@@ -10542,13 +10542,13 @@
     "requirements": {
       "category": "modelconversion",
       "secretary": "日向改",
+      "use_skilled_crew": true,
       "slots": [
         {
           "slot": 4,
           "equipment": "瑞雲(六三四空)",
           "convert": true,
-          "maxmodified": true,
-          "use_skilled_crew": true
+          "maxmodified": true
         }
       ],
       "consumptions": [
@@ -10809,12 +10809,12 @@
     "requirements": {
       "category": "modelconversion",
       "secretary": "艦",
+      "use_skilled_crew": true,
       "slots": [
         {
           "slot": 1,
           "equipment": "TBF",
-          "convert": true,
-          "use_skilled_crew": true
+          "convert": true
         }
       ],
       "scraps": [
