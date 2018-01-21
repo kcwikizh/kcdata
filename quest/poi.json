@@ -7304,7 +7304,8 @@
           "category": "modelconversion",
           "secretary": "艦",
           "equipment": [
-            "戦闘糧食*2"
+            "戦闘糧食",
+            "戦闘糧食"
           ]
         }
       ]
