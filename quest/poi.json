@@ -11284,6 +11284,57 @@
     }
   },
   {
+    "game_id": 679,
+    "wiki_id": "F71",
+    "category": 6,
+    "type": 1,
+    "name": "対空兵装の拡充",
+    "detail": "対空兵装の整備拡充を実施する！「中口径主砲」系装備x6、「副砲」系装備x3を廃棄、<br>ボーキサイト900を準備せよ！　※任務達成後、準備した資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "25mm三連装機銃",
+            "amount": 2
+          },
+          {
+            "name": "12cm30連装噴進砲",
+            "amount": 2
+          },
+          {
+            "name": "補強増設",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "中口径主砲",
+          "amount": 6
+        },
+        {
+          "name": "副砲",
+          "amount": 3
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        0,
+        900
+      ]
+    }
+  },
+  {
     "game_id": 701,
     "wiki_id": "G01",
     "category": 7,
