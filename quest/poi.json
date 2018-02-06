@@ -11212,6 +11212,78 @@
     }
   },
   {
+    "game_id": 678,
+    "wiki_id": "F70",
+    "category": 6,
+    "type": 7,
+    "name": "主力艦上戦闘機の更新",
+    "detail": "艦上戦闘機「九六式艦戦」x3、「零式艦戦21型」x5を廃棄。秘書艦の一番及び二番装備スロットに<br>「零式艦戦52型」を装備。ボーキサイト4,000を準備せよ。※任務達成後、準備資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "紫電改二",
+        "amount": 2
+      },
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 8
+          },
+          {
+            "name": "新型航空兵装資材",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "modelconversion",
+          "secretary": "艦",
+          "slots": [
+            {
+              "slot": 1,
+              "equipment": "零式艦戦52型",
+              "convert": true
+            },
+            {
+              "slot": 2,
+              "equipment": "零式艦戦52型",
+              "convert": true
+            }
+          ],
+          "scraps": [
+            {
+              "name": "九六式艦戦",
+              "amount": 3
+            },
+            {
+              "name": "零式艦戦21型",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "category": "equipexchange",
+          "resources": [
+            0,
+            0,
+            0,
+            4000
+          ]
+        }
+      ]
+    }
+  },
+  {
     "game_id": 701,
     "wiki_id": "G01",
     "category": 7,
