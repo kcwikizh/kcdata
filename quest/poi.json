@@ -3446,7 +3446,9 @@
         "amount": 1
       }
     ],
-    "prerequisite": [],
+    "prerequisite": [
+      269
+    ],
     "requirements": {
       "category": "fleet",
       "groups": [
@@ -11241,6 +11243,9 @@
       }
     ],
     "prerequisite": [
+      216,
+      676,
+      702
     ],
     "requirements": {
       "category": "and",
@@ -11313,6 +11318,7 @@
       }
     ],
     "prerequisite": [
+      605
     ],
     "requirements": {
       "category": "equipexchange",
@@ -15433,7 +15439,9 @@
         ]
       }
     ],
-    "prerequisite": [],
+    "prerequisite": [
+      876
+    ],
     "requirements": {
       "category": "and",
       "list": [
@@ -15508,7 +15516,9 @@
         ]
       }
     ],
-    "prerequisite": [],
+    "prerequisite": [
+      247
+    ],
     "requirements": {
       "category": "and",
       "list": [
