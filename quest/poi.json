@@ -3426,6 +3426,49 @@
     }
   },
   {
+    "game_id": 190,
+    "wiki_id": "A85",
+    "category": 1,
+    "type": 1,
+    "name": "精鋭「第二一駆逐隊」、抜錨準備！",
+    "detail": "精鋭駆逐隊編成任務：捷一号作戦を支援する。同決戦正面の基地航空への資材輸送任務のため、<br>「若葉改」「初春改二」「初霜改二」を含む3～4隻の精鋭「第二一駆逐隊」の編成を完了せよ！",
+    "reward_fuel": 100,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 300,
+    "reward_other": [
+      {
+        "name": "高速修復材",
+        "amount": 3
+      },
+      {
+        "name": "戦闘糧食",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      269
+    ],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "若葉改"
+        },
+        {
+          "ship": "初春改二"
+        },
+        {
+          "ship": "初霜改二"
+        },
+        {
+          "ship": "駆逐",
+          "amount": [0, 1]
+        }
+      ]
+    }
+  },
+  {
     "game_id": 201,
     "wiki_id": "Bd01",
     "category": 2,
@@ -7144,7 +7187,7 @@
     "game_id": 317,
     "wiki_id": "C15",
     "category": 3,
-    "type": 4,
+    "type": 1,
     "name": "甲型駆逐艦の戦力整備計画",
     "detail": "甲型駆逐艦整備任務：甲型駆逐艦【夕雲型/陽炎型】を2隻以上配備した第一艦隊で演習で3回「勝利」、<br>その後、同艦隊を南西諸島海域に投入。各出撃で得られた戦訓を艦隊型駆逐艦戦力整備に活用せよ！",
     "reward_fuel": 0,
@@ -7307,6 +7350,56 @@
             "戦闘糧食",
             "戦闘糧食"
           ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 319,
+    "wiki_id": "C17",
+    "category": 3,
+    "type": 1,
+    "name": "精鋭「第二一駆」、猛特訓！",
+    "detail": "駆逐隊演習任務：精鋭「第二一駆逐隊」3隻を含む艦隊を編成。作戦に先立ち、猛特訓を開始する！<br>同艦隊で、本日中に演習で4回勝利せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "給糧艦「間宮」",
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 6
+          },
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      190
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 4,
+      "victory": true,
+      "daily": true,
+      "groups": [
+        {
+          "ship": "若葉改"
+        },
+        {
+          "ship": "初春改二"
+        },
+        {
+          "ship": "初霜改二"
         }
       ]
     }
@@ -11117,6 +11210,133 @@
         0,
         3600,
         0
+      ]
+    }
+  },
+  {
+    "game_id": 678,
+    "wiki_id": "F70",
+    "category": 6,
+    "type": 7,
+    "name": "主力艦上戦闘機の更新",
+    "detail": "艦上戦闘機「九六式艦戦」x3、「零式艦戦21型」x5を廃棄。秘書艦の一番及び二番装備スロットに<br>「零式艦戦52型」を装備。ボーキサイト4,000を準備せよ。※任務達成後、準備資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "紫電改二",
+        "amount": 2
+      },
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 8
+          },
+          {
+            "name": "新型航空兵装資材",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      216,
+      676,
+      702
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "modelconversion",
+          "secretary": "艦",
+          "slots": [
+            {
+              "slot": 1,
+              "equipment": "零式艦戦52型",
+              "convert": true
+            },
+            {
+              "slot": 2,
+              "equipment": "零式艦戦52型",
+              "convert": true
+            }
+          ],
+          "scraps": [
+            {
+              "name": "九六式艦戦",
+              "amount": 3
+            },
+            {
+              "name": "零式艦戦21型",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "category": "equipexchange",
+          "resources": [
+            0,
+            0,
+            0,
+            4000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 679,
+    "wiki_id": "F71",
+    "category": 6,
+    "type": 1,
+    "name": "対空兵装の拡充",
+    "detail": "対空兵装の整備拡充を実施する！「中口径主砲」系装備x6、「副砲」系装備x3を廃棄、<br>ボーキサイト900を準備せよ！　※任務達成後、準備した資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "25mm三連装機銃",
+            "amount": 2
+          },
+          {
+            "name": "12cm30連装噴進砲",
+            "amount": 2
+          },
+          {
+            "name": "補強増設",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      605
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "中口径主砲",
+          "amount": 6
+        },
+        {
+          "name": "副砲",
+          "amount": 3
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        0,
+        900
       ]
     }
   },
@@ -14953,7 +15173,7 @@
       {
         "choices": [
           {
-            "name": "新型火炮兵装资材",
+            "name": "新型砲熕兵装資材",
             "amount": 1
           },
           {
@@ -15173,6 +15393,176 @@
             {
               "ship": "艦",
               "amount": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 878,
+    "wiki_id": "B113",
+    "category": 2,
+    "type": 1,
+    "name": "松輸送作戦、継続実施せよ！",
+    "detail": "「艦隊旗艦に軽巡級または駆逐艦、さらに3隻以上の駆逐艦または海防艦を含む輸送護衛艦隊を編成、<br>防衛ラインの強化のため、南西諸島防衛線及び鎮守府近海航路における作戦を継続的に成功させよ！",
+    "reward_fuel": 300,
+    "reward_ammo": 300,
+    "reward_steel": 0,
+    "reward_bauxite": 300,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "大発動艇",
+            "amount": 1
+          },
+          {
+            "name": "改修資材",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "12cm30連装噴進砲",
+            "amount": 2
+          },
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      876
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "map": "1-4",
+          "times": 3,
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": ["軽巡", "駆逐"],
+              "flagship": true
+            },
+            {
+              "ship": [
+                "駆逐",
+                "海防"
+              ],
+              "amount": [3,99]
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "map": "1-6",
+          "times": 3,
+          "groups": [
+            {
+              "ship": ["軽巡", "駆逐"],
+              "flagship": true
+            },
+            {
+              "ship": [
+                "駆逐",
+                "海防"
+              ],
+              "amount": [3,99]
+            }
+          ],
+          "result": "クリア"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 879,
+    "wiki_id": "B114",
+    "category": 2,
+    "type": 1,
+    "name": "新編「四航戦」、全力出撃！",
+    "detail": "「航空戦艦「伊勢改」「日向改」及び軽巡「大淀改」と1隻以上の駆逐艦を含む新編第四航空戦隊を編成、<br>鎮守府近海航路、沖ノ島沖及び北方AL海域戦闘哨戒、カレー洋リランカ島沖の作戦に投入せよ！",
+    "reward_fuel": 400,
+    "reward_ammo": 400,
+    "reward_steel": 400,
+    "reward_bauxite": 400,
+    "reward_other": [
+      {
+        "name": "12cm30連装噴進砲改二",
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      247
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "map": "1-6",
+          "times": 1,
+          "groups": [
+            {
+              "ship": "伊勢改"
+            },
+            {
+              "ship": "日向改"
+            },
+            {
+              "ship": "大淀改"
+            },
+            {
+              "ship": "駆逐",
+              "amount": [1,99]
+            }
+          ],
+          "result": "クリア"
+        },
+        {
+          "category": "sortie",
+          "map": ["2-5", "3-5", "4-5"],
+          "times": 1,
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "伊勢改"
+            },
+            {
+              "ship": "日向改"
+            },
+            {
+              "ship": "大淀改"
+            },
+            {
+              "ship": "駆逐",
+              "amount": [1,99]
             }
           ]
         }
