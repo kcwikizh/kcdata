@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: cjhtlviffiwb
-  file_version: ["10", "10", "1"]
+  file_version: ["11", "10", "216"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 1, 2]
     build_time: 30
   graph:
-    boko_n: [110, -19]
+    boko_n: [90, -46]
     boko_d: [19, 42]
     kaisyu_n: [32, -21]
     kaisyu_d: [28, 7]
-    kaizo_n: [67, -87]
+    kaizo_n: [56, -108]
     kaizo_d: [-30, -11]
-    map_n: [49, -2]
+    map_n: [78, -68]
     map_d: [-75, 53]
-    ensyuf_n: [106, -14]
+    ensyuf_n: [68, -60]
     ensyuf_d: [-18, 4]
-    ensyue_n: [106, 0]
-    battle_n: [48, -24]
+    ensyue_n: [60, 0]
+    battle_n: [80, -48]
     battle_d: [0, 25]
-    wed_a: [129, 159]
-    wed_b: [119, 117]
+    wed_a: [160, 172]
+    wed_b: [100, 128]
   wiki_id: "010a"
   chinese_name: 岛风改
   can_drop: false

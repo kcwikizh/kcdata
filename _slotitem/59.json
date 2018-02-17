@@ -83,12 +83,8 @@ data:
         -
           -
             ship_id: 143
-          -
-            ship_id: 148
         -
           -
             ship_id: 143
-          -
-            ship_id: 148
   chinese_name: 零式水上观测机
 ---

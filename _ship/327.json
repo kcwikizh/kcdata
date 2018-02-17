@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: vdieczinfgce
-  file_version: ["23", "15", "1"]
+  file_version: ["24", "15", "216"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,19 +38,19 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [-10, 122]
-    boko_d: [54, 122]
+    boko_n: [-8, 112]
+    boko_d: [80, 128]
     kaisyu_n: [12, 4]
     kaisyu_d: [32, 8]
-    kaizo_n: [-56, 72]
-    kaizo_d: [-16, 48]
-    map_n: [-36, 112]
-    map_d: [24, 112]
-    ensyuf_n: [-56, 112]
-    ensyuf_d: [12, 112]
-    ensyue_n: [-56, 0]
-    battle_n: [-28, 120]
-    battle_d: [24, 120]
+    kaizo_n: [-56, 64]
+    kaizo_d: [16, 56]
+    map_n: [-20, 100]
+    map_d: [48, 112]
+    ensyuf_n: [-48, 100]
+    ensyuf_d: [36, 112]
+    ensyue_n: [-64, 0]
+    battle_n: [-28, 108]
+    battle_d: [40, 124]
     wed_a: [256, 20]
     wed_b: [120, 112]
   wiki_id: "213a"

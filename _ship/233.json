@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: dpqjexkcixhw
-  file_version: ["31", "21", "117"]
+  file_version: ["33", "21", "216"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -40,8 +40,8 @@ data:
   graph:
     boko_n: [137, 11]
     boko_d: [47, 30]
-    kaisyu_n: [21, 9]
-    kaisyu_d: [28, 7]
+    kaisyu_n: [26, -1]
+    kaisyu_d: [42, 11]
     kaizo_n: [82, -44]
     kaizo_d: [11, -53]
     map_n: [41, 11]

@@ -14,7 +14,7 @@ data:
   get_mes: 僕は白露型駆逐艦、「時雨」。<br>これからよろしくね。
   voice_f: 1
   filename: kclrmkyzpnpc
-  file_version: ["23", "34", "117"]
+  file_version: ["23", "35", "216"]
   book_table_id: [43]
   book_sinfo: 僕は白露型駆逐艦２番艦の時雨だよ。<br>あのレイテ沖海戦では、西村艦隊に所属して、運命のスリガオ海峡に突入したんだ。<br>扶桑も山城も凄かったよ……。<br>皆が忘れても、僕だけはずっと覚えているから……。
   stats:

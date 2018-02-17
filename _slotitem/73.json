@@ -133,5 +133,7 @@ data:
             ship_id: 143
           -
             ship_id: 148
+          -
+            ship_id: 546
   chinese_name: 增设装甲(大型舰)
 ---

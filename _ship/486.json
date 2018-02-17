@@ -14,7 +14,7 @@ data:
   get_mes: 特Ｉ型駆逐艦、吹雪型の末娘、浦波です。<br>司令官、どうぞよろしくお願い致します。
   voice_f: 1
   filename: qhphdxqmvzbq
-  file_version: ["6", "1", "117"]
+  file_version: ["8", "1", "216"]
   book_table_id: [486, 823, 999]
   book_sinfo: 吹雪型駆逐艦十番艦、特改Ｉ型、浦波です。<br>佐世保生まれです。磯波姉さんや、綾波、敷波と共に、第十九駆逐隊を編成しました。緒戦からミッドウェー、南方へも出動しました。<br>第十九駆逐隊……覚えていてくださいね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [96, 96]
-    boko_d: [172, 88]
+    boko_n: [120, 104]
+    boko_d: [128, 120]
     kaisyu_n: [8, -12]
     kaisyu_d: [20, 2]
-    kaizo_n: [112, 44]
-    kaizo_d: [112, 16]
-    map_n: [112, 72]
-    map_d: [128, 68]
-    ensyuf_n: [120, 72]
-    ensyuf_d: [116, 64]
-    ensyue_n: [80, 0]
-    battle_n: [140, 96]
-    battle_d: [140, 88]
-    wed_a: [104, 48]
-    wed_b: [88, 112]
+    kaizo_n: [56, 40]
+    kaizo_d: [64, 48]
+    map_n: [84, 88]
+    map_d: [92, 100]
+    ensyuf_n: [64, 84]
+    ensyuf_d: [64, 92]
+    ensyue_n: [68, 0]
+    battle_n: [80, 104]
+    battle_d: [100, 108]
+    wed_a: [144, 32]
+    wed_b: [112, 112]
   wiki_id: "286"
   chinese_name: 浦波
   can_drop: true

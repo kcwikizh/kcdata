@@ -14,8 +14,8 @@ data:
   get_mes: クマー。<br>よろしくだクマ。
   voice_f: 0
   filename: zrmviexnupjy
-  file_version: ["21", "11", "117"]
-  book_table_id: [99, 946, 837]
+  file_version: ["23", "11", "216"]
+  book_table_id: [99, 946, 837, 730]
   book_sinfo: 球磨型軽巡洋艦の１番艦、球磨だクマ。<br>佐世保生まれだクマ。ちょっと古いところもあるけど、頑張るクマー。
   stats:
     taik: [25, 39]
@@ -40,8 +40,8 @@ data:
   graph:
     boko_n: [66, 29]
     boko_d: [71, 40]
-    kaisyu_n: [2, -12]
-    kaisyu_d: [28, 7]
+    kaisyu_n: [12, -6]
+    kaisyu_d: [28, 4]
     kaizo_n: [24, -9]
     kaizo_d: [-14, -20]
     map_n: [21, 26]

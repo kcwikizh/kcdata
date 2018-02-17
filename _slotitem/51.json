@@ -32,5 +32,65 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [90, 270, 50, 180]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 6]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [5, 9]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          -
+            id: 51
+            amount: 1
+          -
+            id: 51
+            amount: 2
+      upgrade:
+        id: 274
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [10, 30]
+            -
+              id: 4
+              amount: [7, 10]
+            -
+              id: 78
+              amount: 1
+          slotitem:
+            id: 40
+            amount: 3
+      day:
+        -
+          -
+            ship_id: 82
+        -
+          -
+            ship_id: 88
+        -
+          -
+            ship_id: 88
+        - false
+        - false
+        -
+          -
+            ship_id: 82
+        -
+          -
+            ship_id: 82
   chinese_name: 12cm30连装喷进炮
 ---

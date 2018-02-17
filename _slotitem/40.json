@@ -138,12 +138,20 @@ data:
             ship_id: 428
           -
             ship_id: 418
+          -
+            ship_id: 498
         -
           -
             ship_id: 428
           -
             ship_id: 418
-        - false
-        - false
+          -
+            ship_id: 498
+        -
+          -
+            ship_id: 498
+        -
+          -
+            ship_id: 498
   chinese_name: 25mm三连装机铳
 ---

@@ -1,0 +1,36 @@
+---
+layout: json
+order: 263
+data:
+  id: 263
+  sort_no: 263
+  name: 紫電改(三四三空) 戦闘301
+  type: [22, 39, 48, 38, 12]
+  rare: 4
+  broken: [2, 4, 0, 8]
+  info: 本土防空の切り札、局地戦闘機「紫電改」。同機が集中配備された三四三空。四国松山に展開した同戦闘飛行隊の一つ、精強な紫電改戦闘機隊、戦闘301。優れた空中指揮官である菅野隊長の率いる同隊は、苦しい戦局の中、日本の空を守るために戦いました。
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 2
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 11
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

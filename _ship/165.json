@@ -14,7 +14,7 @@ data:
   get_mes: やったぁ！ でたっぴょん！ 卯月でっす！ <br>うーちゃんって呼ばれてまっす！
   voice_f: 1
   filename: gjtvekieqatn
-  file_version: ["18", "14", "1"]
+  file_version: ["21", "14", "216"]
   book_table_id: [165, 309, 989, 786]
   book_sinfo: 睦月型駆逐艦四番艦の「卯月」だぴょん。船団護衛から攻略作戦まで、頑張って働いたんでっす！　最後のほうは砲をいくつか下して機銃を一杯積んだよ。<br>うーちゃん、爆撃じゃ沈まないから！
   stats:
@@ -40,8 +40,8 @@ data:
   graph:
     boko_n: [0, 52]
     boko_d: [0, 48]
-    kaisyu_n: [8, 0]
-    kaisyu_d: [20, 12]
+    kaisyu_n: [11, 3]
+    kaisyu_d: [27, 13]
     kaizo_n: [16, 16]
     kaizo_d: [0, 0]
     map_n: [48, 48]

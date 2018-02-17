@@ -98,5 +98,7 @@ data:
             ship_id: 148
           -
             ship_id: 143
+          -
+            ship_id: 546
   chinese_name: 15.5cm三连装副炮
 ---

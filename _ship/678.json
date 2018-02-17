@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 678
+  sort_no: 1478
+  name: 日振改
+  yomi: ひぶり
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: mnlyjfsjqitd
+  file_version: ["51", "1", "216"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [18, 29]
+    souk: [7, 34]
+    houg: [5, 38]
+    raig: [0, 0]
+    tyku: [18, 62]
+    luck: [9, 59]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 1, 0]
+    build_time: 9
+  graph:
+    boko_n: [164, 68]
+    boko_d: [164, 68]
+    kaisyu_n: [22, -34]
+    kaisyu_d: [38, -24]
+    kaizo_n: [128, 2]
+    kaizo_d: [126, -18]
+    map_n: [156, 40]
+    map_d: [156, 40]
+    ensyuf_n: [142, 36]
+    ensyuf_d: [142, 36]
+    ensyue_n: [136, 0]
+    battle_n: [160, 60]
+    battle_d: [160, 60]
+    wed_a: [92, 88]
+    wed_b: [68, 112]
+  wiki_id: "351a"
+  chinese_name: 日振改
+  can_drop: false
+  can_construct: false
+---

@@ -59,17 +59,33 @@ data:
             amount: 1
       upgrade:
       day:
-        - false
         -
           -
             ship_id: 543
-        - false
+          -
+            ship_id: 133
+          -
+            ship_id: 302
         -
           -
             ship_id: 543
         -
           -
             ship_id: 543
+        -
+          -
+            ship_id: 543
+          -
+            ship_id: 133
+          -
+            ship_id: 302
+        -
+          -
+            ship_id: 543
+          -
+            ship_id: 133
+          -
+            ship_id: 302
         -
           -
             ship_id: 543
