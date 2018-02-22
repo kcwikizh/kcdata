@@ -6,8 +6,8 @@ data:
   name: Jervis
   yomi: ジャーヴィス
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 82
+  cnum: 1
   backs: 6
   after_lv: 45
   after_ship_id: 394
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: ljtlhcbmaqcg
   file_version: ["51", "1", "216"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [519]
+  book_sinfo: J級駆逐艦、Jervisよ！　そう、Lucky Jervisって呼んでもらってもいいかな！<br>本国艦隊から地中海艦隊まで、護衛、輸送、艦隊戦や陸戦支援まで本当に頑張っちゃった！<br>Lucky Jervis、覚えておいてね！
   stats:
     taik: [15, 33]
     souk: [7, 18]
@@ -26,8 +26,8 @@ data:
     luck: [50, 100]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 46
+    tais: 40
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 150
@@ -55,6 +55,6 @@ data:
     wed_b: [84, 112]
   wiki_id: "319"
   chinese_name: 贾维斯
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

@@ -9,8 +9,8 @@ data:
   ctype: 11
   cnum: 2
   backs: 6
-  after_lv: 
-  after_ship_id: 
+  after_lv: 80
+  after_ship_id: 555
   get_mes: <br>
   voice_f: 3
   filename: xmzltsferzto
@@ -30,8 +30,8 @@ data:
     tais: 0
     slot_num: 4
     max_eq: [18, 12, 12, 6, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 1700
+    after_bull: 700
     fuel_max: 40
     bull_max: 40
     broken: [4, 6, 20, 6]

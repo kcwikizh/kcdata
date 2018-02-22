@@ -9,52 +9,52 @@ data:
   ctype: 
   cnum: 
   backs: 7
-  after_lv: 30
+  after_lv: 50
   after_ship_id: 397
-  get_mes: ※
+  get_mes: Hi！ Essex class航空母艦、５番艦。Intrepidよ！<br>貴方がAdmiralなのね？　素敵ね。さァ、一緒にいきましょう？<br>いいかナ？
   voice_f: 1
   filename: pwipskreiclu
   file_version: ["51", "1", "216"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [69, 79]
-    souk: [28, 54]
-    houg: [0, 39]
+    taik: [65, 90]
+    souk: [43, 80]
+    houg: [0, 55]
     raig: [0, 0]
-    tyku: [32, 69]
-    luck: [12, 49]
+    tyku: [50, 90]
+    luck: [45, 90]
     soku: 10
-    leng: 1
+    leng: 2
     kaih: 
     tais: 
     slot_num: 4
-    max_eq: [18, 18, 27, 10, 0]
-    after_fuel: 700
-    after_bull: 300
-    fuel_max: 60
-    bull_max: 55
-    broken: [8, 12, 30, 7]
-    pow_up: [0, 0, 5, 3]
-    build_time: 270
+    max_eq: [37, 36, 19, 4, 0]
+    after_fuel: 4000
+    after_bull: 3200
+    fuel_max: 75
+    bull_max: 80
+    broken: [9, 16, 43, 10]
+    pow_up: [2, 0, 4, 5]
+    build_time: 330
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id:
-  chinese_name:
+    boko_n: [0, 20]
+    boko_d: [28, 114]
+    kaisyu_n: [4, -30]
+    kaisyu_d: [40, 4]
+    kaizo_n: [-8, -48]
+    kaizo_d: [12, 36]
+    map_n: [28, 16]
+    map_d: [68, 94]
+    ensyuf_n: [-12, 18]
+    ensyuf_d: [48, 100]
+    ensyue_n: [-18, 0]
+    battle_n: [24, 32]
+    battle_d: [80, 112]
+    wed_a: [226, 104]
+    wed_b: [84, 108]
+  wiki_id: "349"
+  chinese_name: 无畏
   can_drop: false
   can_construct: false
 ---

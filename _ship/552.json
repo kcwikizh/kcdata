@@ -6,8 +6,8 @@ data:
   name: 大東
   yomi: だいとう
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 85
+  cnum: 2
   backs: 4
   after_lv: 37
   after_ship_id: 679
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: jzjtuwefxhut
   file_version: ["51", "1", "216"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [552]
+  book_sinfo: 日振型海防艦、その二番艦大東さ。そーよ。もう大変なんだよ色々なコト。海上護衛、掃海任務、頑張ったけどね。んー、なんだよ、そんな顔すんなって。<br>提督、安全な海っていいよな。あたいも大好きさ。<br>そういうのってさ…ま、いっか。あたいのことも覚えておきなよ？
   stats:
     taik: [9, 18]
     souk: [4, 17]
@@ -26,8 +26,8 @@ data:
     luck: [33, 77]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 40
+    tais: 40
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 45
@@ -55,6 +55,6 @@ data:
     wed_b: [92, 116]
   wiki_id: "352"
   chinese_name: 大东
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

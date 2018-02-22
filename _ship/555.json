@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 555
+  sort_no: 355
+  name: 瑞鳳改二
+  yomi: ずいほう
+  stype: 7
+  ctype: 11
+  cnum: 2
+  backs: 7
+  after_lv: 80
+  after_ship_id: 560
+  get_mes: <br>
+  voice_f: 3
+  filename: nhjogdwxmuyo
+  file_version: ["51", "1", "216"]
+  book_table_id: [555]
+  book_sinfo: 祥鳳型軽空母、瑞鳳です。<br>元々は高速給油艦として計画され、次に潜水母艦、最終的に軽空母として完成しました。小柄なボディだけれど、機動部隊最後の日まで敢闘しました！
+  stats:
+    taik: [59, 77]
+    souk: [37, 71]
+    houg: [0, 46]
+    raig: [0, 0]
+    tyku: [27, 70]
+    luck: [42, 93]
+    soku: 10
+    leng: 2
+    kaih: 37
+    tais: 0
+    slot_num: 4
+    max_eq: [21, 18, 12, 6, 0]
+    after_fuel: 80
+    after_bull: 180
+    fuel_max: 40
+    bull_max: 45
+    broken: [5, 8, 22, 7]
+    pow_up: [0, 0, 3, 3]
+    build_time: 160
+  graph:
+    boko_n: [42, 128]
+    boko_d: [60, 152]
+    kaisyu_n: [48, -18]
+    kaisyu_d: [20, -10]
+    kaizo_n: [26, 52]
+    kaizo_d: [32, 64]
+    map_n: [64, 104]
+    map_d: [80, 136]
+    ensyuf_n: [32, 112]
+    ensyuf_d: [36, 136]
+    ensyue_n: [36, 0]
+    battle_n: [64, 128]
+    battle_d: [64, 140]
+    wed_a: [192, 0]
+    wed_b: [84, 136]
+  wiki_id: "355"
+  chinese_name: 瑞凤改二
+  can_drop: false
+  can_construct: false
+---

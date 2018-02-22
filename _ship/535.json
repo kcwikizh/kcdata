@@ -55,6 +55,6 @@ data:
     wed_b: [100, 120]
   wiki_id: "325"
   chinese_name: 路易吉·托雷利
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---
