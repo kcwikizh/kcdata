@@ -6,17 +6,17 @@ data:
   name: Intrepid
   yomi: イントレピッド
   stype: 11
-  ctype: 
-  cnum: 
+  ctype: 84
+  cnum: 5
   backs: 7
   after_lv: 50
   after_ship_id: 397
   get_mes: Hi！ Essex class航空母艦、５番艦。Intrepidよ！<br>貴方がAdmiralなのね？　素敵ね。さァ、一緒にいきましょう？<br>いいかナ？
   voice_f: 1
   filename: pwipskreiclu
-  file_version: ["51", "1", "216"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "314"]
+  book_table_id: [549, 397]
+  book_sinfo: Essex級航空母艦、５番艦、Intrepidよ！　そう、艦隊型正規空母として量産されたあの戦い最強の空母姉妹の一隻です。あの大戦が終わった後も、近代化改装され、アングルド・デッキを備えた現代空母の先駆けとしても運用されました。そして、退役後はハドソン川で海上航空宇宙博物館として、現存しているの。
   stats:
     taik: [65, 90]
     souk: [43, 80]
@@ -26,8 +26,8 @@ data:
     luck: [45, 90]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 40
+    tais: 0
     slot_num: 4
     max_eq: [37, 36, 19, 4, 0]
     after_fuel: 4000

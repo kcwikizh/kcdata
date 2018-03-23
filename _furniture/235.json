@@ -8,7 +8,7 @@ data:
   description: 大和型戦艦二番艦「武蔵」<br>その帰投を祝す掛け軸を、<br>提督方にお贈りします。<br>おかえりなさい。<br>※特殊BGM家具です。
   rarity: 5
   price: 0
-  saleflg: 0
+  saleflg: 1
   season: 13
   filename: "042"
   file_version: 2

@@ -14,8 +14,8 @@ data:
   get_mes: 軽巡、多摩です。<br>猫じゃないにゃ。
   voice_f: 0
   filename: jiftwdxqwtin
-  file_version: ["18", "11", "216"]
-  book_table_id: [100, 947, 852]
+  file_version: ["19", "11", "314"]
+  book_table_id: [100, 947, 852, 1028]
   book_sinfo: 球磨型軽巡洋艦の２番艦、多摩だにゃ。<br>水雷戦隊の旗艦として、ご奉公するにゃ！<br>にゃ？多摩って名前だけど、猫じゃないもん！
   stats:
     taik: [25, 39]

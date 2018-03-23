@@ -14,7 +14,7 @@ data:
   get_mes: 択捉型海防艦、対馬。ここに……。<br>南方航路防衛用に建造されたこの体……。<br>存分に働くつもりですから。楽しみに…ね。
   voice_f: 1
   filename: mgofelnbpslm
-  file_version: ["54", "2", "216"]
+  file_version: ["54", "2", "314"]
   book_table_id: [540, 742, 736]
   book_sinfo: 択捉型海防艦、その七番艦となります。対馬です。<br>南方航路の防衛のために生まれました。本土とシンガポールの間の船団護衛に努めました。同航路が危なくなってからは、台湾や日本海側の航路を護ります。戦いの後は…皆さんの復員にも努めました。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [88, 120]
   wiki_id: "340"
   chinese_name: 对马
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

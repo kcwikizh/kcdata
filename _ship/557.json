@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 557
+  sort_no: 357
+  name: 磯風乙改
+  yomi: いそかぜ
+  stype: 2
+  ctype: 30
+  cnum: 12
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: olingctmvbpw
+  file_version: ["51", "4", "314"]
+  book_table_id: [557]
+  book_sinfo: 陽炎型駆逐艦十二番艦、磯風だ。<br>戦歴ならあの雪風にも遅れはとらぬ。数々の海戦、決戦に参加し、戦い抜いたんだ。大和・武蔵・金剛・大鳳…彼女達の最期もこの目に焼き付いている。今度こそ…護り抜くさ。
+  stats:
+    taik: [34, 55]
+    souk: [14, 53]
+    houg: [10, 60]
+    raig: [24, 80]
+    tyku: [30, 90]
+    luck: [24, 90]
+    soku: 10
+    leng: 1
+    kaih: 52
+    tais: 31
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 25
+    broken: [1, 2, 11, 1]
+    pow_up: [1, 1, 2, 1]
+    build_time: 24
+  graph:
+    boko_n: [-50, 102]
+    boko_d: [-70, 152]
+    kaisyu_n: [10, -14]
+    kaisyu_d: [24, -16]
+    kaizo_n: [-68, 48]
+    kaizo_d: [-100, 48]
+    map_n: [-48, 92]
+    map_d: [-88, 112]
+    ensyuf_n: [-70, 90]
+    ensyuf_d: [-104, 112]
+    ensyue_n: [-64, 0]
+    battle_n: [-36, 100]
+    battle_d: [-84, 128]
+    wed_a: [304, 24]
+    wed_b: [74, 124]
+  wiki_id: "357"
+  chinese_name: 矶风乙改
+  can_drop: false
+  can_construct: false
+---

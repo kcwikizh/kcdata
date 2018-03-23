@@ -6,17 +6,17 @@ data:
   name: Ташкент
   yomi: タシュケント
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 81
+  cnum: 1
   backs: 6
   after_lv: 50
   after_ship_id: 395
   get_mes: Здравствуйте！<br>嚮導駆逐艦、タシュケント、はるばる来てみたよ！<br>同志提督！　よろしくお願いするね！
   voice_f: 1
   filename: etknsijfnuea
-  file_version: ["51", "1", "216"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "314"]
+  book_table_id: [516]
+  book_sinfo: 北の国で生まれた空色の巡洋艦、タシュケントだよ。うん、そう。本当の艦種は駆逐艦なんだ。嚮導駆逐艦。まあ、駆逐艦としては大きいかな。確かに。海の戦いも陸上の戦いの掩護も頑張ったよ。結構頼りになるだろ？　空色の巡洋艦、どう？　うん、よかった！覚えておいてね。Ｃпасибо！
   stats:
     taik: [22, 42]
     souk: [12, 31]
@@ -26,8 +26,8 @@ data:
     luck: [40, 90]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 48
+    tais: 33
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 360
@@ -55,6 +55,6 @@ data:
     wed_b: [102, 116]
   wiki_id: "313"
   chinese_name: 塔什干
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

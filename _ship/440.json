@@ -14,7 +14,7 @@ data:
   get_mes: Hi！ MeがIowa級戦艦、Iowaよ。<br>Youがこの艦隊のAdmiralなの？ いいじゃない！<br>私たちのこともよろしく！
   voice_f: 1
   filename: tgknyzwyexxt
-  file_version: ["5", "1", "216"]
+  file_version: ["5", "1", "314"]
   book_table_id: [440, 825]
   book_sinfo: Hi！　Iowa級戦艦Name Ship、Iowaよ。高速戦艦で、この重兵装。Battle shipの最終形ともいえる完成度。USAが生んだ最後の戦艦級として、この艦隊でも頑張るわ。よろしくね！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [80, 96]
   wiki_id: "240"
   chinese_name: 衣阿华
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

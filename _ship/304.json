@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: lovstgcfspwr
-  file_version: ["15", "5", "216"]
+  file_version: ["16", "5", "314"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [42, 114]
-    boko_d: [32, 120]
+    boko_n: [36, 112]
+    boko_d: [40, 112]
     kaisyu_n: [20, -6]
     kaisyu_d: [40, -8]
-    kaizo_n: [50, 58]
-    kaizo_d: [36, 24]
-    map_n: [40, 70]
-    map_d: [40, 100]
-    ensyuf_n: [102, 98]
-    ensyuf_d: [48, 60]
+    kaizo_n: [44, 56]
+    kaizo_d: [44, 16]
+    map_n: [34, 68]
+    map_d: [48, 92]
+    ensyuf_n: [96, 96]
+    ensyuf_d: [56, 52]
     ensyue_n: [56, 0]
-    battle_n: [42, 98]
-    battle_d: [52, 112]
-    wed_a: [152, 20]
-    wed_b: [112, 136]
+    battle_n: [36, 96]
+    battle_d: [60, 104]
+    wed_a: [169, 33]
+    wed_b: [117, 137]
   wiki_id: "135a"
   chinese_name: 长波改
   can_drop: false

@@ -4,11 +4,11 @@ data:
   id: 66
   type: 1
   no: 28
-  title: 穏やかな壁紙
-  description: 落ち着いた色合いが和室にぴったり！
-  rarity: 0
-  price: 0
-  saleflg: 0
+  title: 沈丁花の壁紙
+  description: 春の訪れを感じさせる季節<br>にぴったりの壁紙です。<br>「栄光」そして「不滅」…<br>そんな花言葉を持つ沈丁花<br>がデザインされています。
+  rarity: 4
+  price: 1900
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

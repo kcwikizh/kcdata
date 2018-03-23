@@ -2,7 +2,7 @@
 layout: json
 data:
   id: 394
-  sort_no: 1471
+  sort_no: 1474
   name: Jervis改
   yomi: ジャーヴィス
   stype: 2
@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ejdfsurhnkbu
-  file_version: ["1", "1", "216"]
+  file_version: ["1", "1", "314"]
   book_table_id: 
   book_sinfo: 
   stats:

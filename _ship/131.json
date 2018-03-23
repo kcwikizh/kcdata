@@ -14,8 +14,8 @@ data:
   get_mes: 大和型戦艦、一番艦、大和。<br>推して参ります！
   voice_f: 3
   filename: liqjxscjkogx
-  file_version: ["12", "7", "216"]
-  book_table_id: [131, 878, 735]
+  file_version: ["13", "8", "314"]
+  book_table_id: [131, 878, 735, 1029]
   book_sinfo: 大和型戦艦一番艦、大和です。<br>艦隊決戦の切り札として、呉海軍工廠で極秘建造されました。当時の最高技術の粋を結集されたこの体、二番艦の武蔵と共に、連合艦隊の中枢戦力として頑張ります！
   stats:
     taik: [93, 98]
