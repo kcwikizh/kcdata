@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 546
+  sort_no: 346
+  name: 武蔵改二
+  yomi: むさし
+  stype: 9
+  ctype: 37
+  cnum: 2
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 7
+  filename: gkjmztrtsbmk
+  file_version: ["51", "12", "314"]
+  book_table_id: [546]
+  book_sinfo: 大和型戦艦二番艦、武蔵だ。<br>長崎生まれだ。よろしく頼むぞ。<br>姉妹艦の大和や信濃と同じく、極秘裏に建造されたのさ。ああ、この主砲を存分に撃ち合いたかったな。今度は頼めるか…ありがたい！
+  stats:
+    taik: [99, 110]
+    souk: [95, 125]
+    houg: [100, 145]
+    raig: [0, 0]
+    tyku: [65, 105]
+    luck: [10, 88]
+    soku: 5
+    leng: 4
+    kaih: 28
+    tais: 0
+    slot_num: 5
+    max_eq: [5, 5, 5, 8, 5]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 275
+    bull_max: 350
+    broken: [38, 55, 115, 24]
+    pow_up: [7, 0, 4, 7]
+    build_time: 480
+  graph:
+    boko_n: [-162, 62]
+    boko_d: [-96, 184]
+    kaisyu_n: [28, -58]
+    kaisyu_d: [24, -16]
+    kaizo_n: [-182, 44]
+    kaizo_d: [-80, 88]
+    map_n: [-144, 56]
+    map_d: [-60, 152]
+    ensyuf_n: [-160, 60]
+    ensyuf_d: [-116, 148]
+    ensyue_n: [-148, 0]
+    battle_n: [-128, 68]
+    battle_d: [-88, 172]
+    wed_a: [384, 88]
+    wed_b: [80, 116]
+  wiki_id: "346"
+  chinese_name: 武藏改二
+  can_drop: false
+  can_construct: false
+---

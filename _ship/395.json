@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 395
+  sort_no: 1475
+  name: Ташкент改
+  yomi: タシュケント
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: jdnsunmrleho
+  file_version: ["1", "1", "314"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [39, 59]
+    souk: [28, 56]
+    houg: [28, 66]
+    raig: [18, 68]
+    tyku: [30, 69]
+    luck: [43, 100]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 35
+    broken: [2, 4, 15, 1]
+    pow_up: [2, 1, 1, 1]
+    build_time: 82
+  graph:
+    boko_n: [26, 140]
+    boko_d: [30, 150]
+    kaisyu_n: [16, -14]
+    kaisyu_d: [30, -10]
+    kaizo_n: [0, 60]
+    kaizo_d: [4, 56]
+    map_n: [40, 112]
+    map_d: [68, 112]
+    ensyuf_n: [12, 128]
+    ensyuf_d: [44, 128]
+    ensyue_n: [12, 0]
+    battle_n: [32, 128]
+    battle_d: [60, 128]
+    wed_a: [206, -4]
+    wed_b: [102, 116]
+  wiki_id: "313a"
+  chinese_name: 塔什干改
+  can_drop: false
+  can_construct: false
+---

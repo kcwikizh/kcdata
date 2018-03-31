@@ -14,8 +14,8 @@ data:
   get_mes: 朝潮型駆逐艦、朝雲、着任したわ！<br>貴方が司令…かあ。ふうーん。ま、いいわ。私がやったげる！
   voice_f: 1
   filename: xjtxwkwwfdze
-  file_version: ["23", "16", "101"]
-  book_table_id: [413, 327, 831, 761]
+  file_version: ["25", "16", "314"]
+  book_table_id: [413, 327, 831, 761, 755]
   book_sinfo: 朝潮型駆逐艦五番艦、朝雲よ。<br>盟友の山雲と一緒に、様々な戦場を駆け抜けたのよ。そう、第九駆逐隊。有名でしょ？え、知らないって？私、冗談ってあまり好きじゃないの。覚えておいてよ！
   stats:
     taik: [16, 33]
@@ -38,20 +38,20 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 22
   graph:
-    boko_n: [-10, 122]
-    boko_d: [54, 122]
+    boko_n: [-16, 120]
+    boko_d: [32, 128]
     kaisyu_n: [12, 4]
     kaisyu_d: [32, 8]
-    kaizo_n: [-56, 72]
-    kaizo_d: [-16, 48]
-    map_n: [-36, 112]
-    map_d: [24, 112]
-    ensyuf_n: [-56, 112]
-    ensyuf_d: [12, 112]
-    ensyue_n: [-56, 0]
-    battle_n: [-28, 120]
-    battle_d: [24, 120]
-    wed_a: [256, 20]
+    kaizo_n: [-56, 64]
+    kaizo_d: [-16, 64]
+    map_n: [0, 112]
+    map_d: [-16, 112]
+    ensyuf_n: [-32, 96]
+    ensyuf_d: [32, 96]
+    ensyue_n: [-64, 0]
+    battle_n: [-32, 104]
+    battle_d: [-32, 112]
+    wed_a: [256, 16]
     wed_b: [120, 112]
   wiki_id: "213"
   chinese_name: 朝云

@@ -1,0 +1,78 @@
+---
+layout: json
+order: 274
+data:
+  id: 274
+  sort_no: 274
+  name: 12cm30連装噴進砲改二
+  type: [4, 29, 21, 15, 0]
+  rare: 4
+  broken: [0, 5, 2, 3]
+  info: 艦載用対空ロケットランチャー「12cm30連装噴進砲」をさらに戦訓によって改良した強化改修型です。後方ブラスト対策や再装填、さらに射撃装置にも改良を加え、噴進式対空焼霰弾連続発射の弾幕により、肉薄する敵機から味方艦を護る能力はさらに向上しました。「伊勢改」及び「日向改」では、さらに高い防空効果を発揮します。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 8
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+    -
+      consume:
+        resource: [90, 300, 90, 150]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 7]
+            -
+              id: 4
+              amount: [4, 5]
+          -
+            -
+              id: 3
+              amount: [7, 15]
+            -
+              id: 4
+              amount: [5, 7]
+        slotitem:
+          -
+            id: 40
+            amount: 2
+          -
+            id: 51
+            amount: 2
+      upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 82
+        -
+          -
+            ship_id: 82
+        -
+          -
+            ship_id: 88
+        -
+          -
+            ship_id: 88
+        - false
+        - false
+  chinese_name: 
+---

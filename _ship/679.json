@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 679
+  sort_no: 1479
+  name: 大東改
+  yomi: だいとう
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: syoduvrmxdbf
+  file_version: ["51", "1", "314"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [18, 29]
+    souk: [7, 35]
+    houg: [5, 36]
+    raig: [0, 0]
+    tyku: [18, 61]
+    luck: [37, 87]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 1, 0]
+    build_time: 9
+  graph:
+    boko_n: [148, 80]
+    boko_d: [148, 80]
+    kaisyu_n: [5, -20]
+    kaisyu_d: [21, -10]
+    kaizo_n: [124, 14]
+    kaizo_d: [92, -7]
+    map_n: [112, 50]
+    map_d: [112, 50]
+    ensyuf_n: [124, 48]
+    ensyuf_d: [124, 48]
+    ensyue_n: [112, 0]
+    battle_n: [116, 68]
+    battle_d: [116, 68]
+    wed_a: [120, 72]
+    wed_b: [92, 116]
+  wiki_id: "352a"
+  chinese_name: 大东改
+  can_drop: false
+  can_construct: false
+---

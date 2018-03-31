@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 397
+  sort_no: 1477
+  name: Intrepid改
+  yomi: イントレピッド
+  stype: 11
+  ctype: 
+  cnum: 
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: oieohletkdmg
+  file_version: ["2", "1", "314"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [69, 90]
+    souk: [52, 90]
+    houg: [0, 58]
+    raig: [0, 0]
+    tyku: [55, 95]
+    luck: [50, 100]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [40, 36, 21, 15, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 90
+    bull_max: 105
+    broken: [12, 20, 48, 22]
+    pow_up: [2, 0, 5, 5]
+    build_time: 330
+  graph:
+    boko_n: [0, 20]
+    boko_d: [28, 114]
+    kaisyu_n: [4, -30]
+    kaisyu_d: [40, 4]
+    kaizo_n: [-8, -48]
+    kaizo_d: [12, 36]
+    map_n: [28, 16]
+    map_d: [68, 94]
+    ensyuf_n: [-12, 18]
+    ensyuf_d: [48, 100]
+    ensyue_n: [-18, 0]
+    battle_n: [24, 32]
+    battle_d: [80, 112]
+    wed_a: [226, 104]
+    wed_b: [84, 108]
+  wiki_id: "349a"
+  chinese_name: 无畏改
+  can_drop: false
+  can_construct: false
+---

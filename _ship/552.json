@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 552
+  sort_no: 352
+  name: 大東
+  yomi: だいとう
+  stype: 1
+  ctype: 85
+  cnum: 2
+  backs: 4
+  after_lv: 37
+  after_ship_id: 679
+  get_mes: 日振型海防艦、その二番艦、大東さ！<br>ちゃっくにーん！　あんたが提督かー。へへ、いいね！<br>あたいもよろしくなー！　さ、いってみよー！
+  voice_f: 1
+  filename: jzjtuwefxhut
+  file_version: ["51", "1", "314"]
+  book_table_id: [552]
+  book_sinfo: 日振型海防艦、その二番艦大東さ。そーよ。もう大変なんだよ色々なコト。海上護衛、掃海任務、頑張ったけどね。んー、なんだよ、そんな顔すんなって。<br>提督、安全な海っていいよな。あたいも大好きさ。<br>そういうのってさ…ま、いっか。あたいのことも覚えておきなよ？
+  stats:
+    taik: [9, 18]
+    souk: [4, 17]
+    houg: [4, 18]
+    raig: [0, 0]
+    tyku: [10, 36]
+    luck: [33, 77]
+    soku: 5
+    leng: 1
+    kaih: 40
+    tais: 40
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 45
+    after_bull: 95
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 0, 0]
+    build_time: 9
+  graph:
+    boko_n: [148, 80]
+    boko_d: [148, 80]
+    kaisyu_n: [5, -20]
+    kaisyu_d: [21, -10]
+    kaizo_n: [124, 14]
+    kaizo_d: [92, -7]
+    map_n: [112, 50]
+    map_d: [112, 50]
+    ensyuf_n: [124, 48]
+    ensyuf_d: [124, 48]
+    ensyue_n: [112, 0]
+    battle_n: [116, 68]
+    battle_d: [116, 68]
+    wed_a: [120, 72]
+    wed_b: [92, 116]
+  wiki_id: "352"
+  chinese_name: 大东
+  can_drop: true
+  can_construct: false
+---

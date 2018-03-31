@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 394
+  sort_no: 1474
+  name: Jervis改
+  yomi: ジャーヴィス
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: ejdfsurhnkbu
+  file_version: ["1", "1", "314"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [31, 47]
+    souk: [15, 50]
+    houg: [14, 52]
+    raig: [40, 90]
+    tyku: [30, 70]
+    luck: [55, 110]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 25
+    broken: [1, 2, 10, 1]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [134, 144]
+    boko_d: [128, 162]
+    kaisyu_n: [22, -10]
+    kaisyu_d: [70, -12]
+    kaizo_n: [90, 72]
+    kaizo_d: [96, 76]
+    map_n: [132, 128]
+    map_d: [128, 144]
+    ensyuf_n: [104, 124]
+    ensyuf_d: [116, 140]
+    ensyue_n: [100, 0]
+    battle_n: [140, 146]
+    battle_d: [132, 156]
+    wed_a: [116, -8]
+    wed_b: [84, 112]
+  wiki_id: "319a"
+  chinese_name: 贾维斯改
+  can_drop: false
+  can_construct: false
+---

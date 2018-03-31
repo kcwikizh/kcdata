@@ -1,0 +1,36 @@
+---
+layout: json
+order: 277
+data:
+  id: 277
+  sort_no: 277
+  name: FM-2
+  type: [3, 5, 7, 7, 21]
+  rare: 4
+  broken: [1, 3, 0, 3]
+  info: 大戦初期の太平洋上で零戦としのぎを削った艦上戦闘機、ワイルドキャット「F4F」シリーズ。本機「FM-2」は、F4Fの改良後期量産型で、その高空性能を削り低空での運動性と取り回しやすさを向上させた傑作汎用支援艦戦です。週間単位で量産された護衛空母などで運用されました。今回は、対艦・対地の汎用支援戦闘機として登場です。
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 2
+    tyku: 6
+    tais: 1
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: 
+---

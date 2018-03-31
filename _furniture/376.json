@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 376
+  type: 4
+  no: 52
+  title: 鎮守府Café
+  description: 鎮守府の中で本格的な珈琲<br>を淹れる装備群一式です。<br>サイフォンで丁寧に淹れた<br>一杯は珈琲派の艦娘と提督<br>御用達。香り高い一杯を！
+  rarity: 5
+  price: 121400
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: 
+---

@@ -14,7 +14,7 @@ data:
   get_mes: 特設航空母艦、春日丸と申します。<br>不束者ですが、務めを果したいと思います。
   voice_f: 1
   filename: ycfrigxehfwt
-  file_version: ["51", "1", "101"]
+  file_version: ["51", "1", "314"]
   book_table_id: [521]
   book_sinfo: 特設航空母艦、春日丸です。<br>優秀船舶建造助成施設によって建造された客船でしたが、戦いに臨み、空母へと改装されました。航空機の輸送などに務めた後、大鷹と名前を変えて、海上護衛の任に就きました。夜の潜水艦は…怖いですね……。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [80, 104]
   wiki_id: "321"
   chinese_name: 春日丸
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

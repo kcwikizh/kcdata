@@ -9,13 +9,13 @@ data:
   ctype: 37
   cnum: 2
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv: 89
+  after_ship_id: 546
   get_mes: <br>
   voice_f: 7
   filename: eqgvmdsvjerq
-  file_version: ["9", "9", "101"]
-  book_table_id: [148]
+  file_version: ["11", "12", "314"]
+  book_table_id: [148, 1023]
   book_sinfo: 大和型戦艦二番艦、武蔵だ。<br>長崎生まれだ。よろしく頼むぞ。<br>姉妹艦の大和や信濃と同じく、極秘裏に建造されたのさ。ああ、この主砲を存分に撃ち合いたかったな。今度は頼めるか…ありがたい！
   stats:
     taik: [97, 108]
@@ -30,8 +30,8 @@ data:
     tais: 0
     slot_num: 4
     max_eq: [7, 7, 7, 7, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 9600
+    after_bull: 9900
     fuel_max: 250
     bull_max: 325
     broken: [35, 50, 110, 20]

@@ -14,8 +14,8 @@ data:
   get_mes: 航空母艦、蒼龍です。<br>空母機動部隊を編制するなら、私もぜひ入れてね！
   voice_f: 1
   filename: nppdykjbwmkx
-  file_version: ["17", "17", "101"]
-  book_table_id: [90]
+  file_version: ["18", "17", "314"]
+  book_table_id: [90, 764]
   book_sinfo: 航空母艦、蒼龍です。<br>真珠湾攻撃から始まって、緒戦の重要な戦いに、主力空母の一隻として参加しました。<br>え？なに、ミッドウェー？なにそれ、美味しいの？
   stats:
     taik: [50, 79]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 3]
     build_time: 250
   graph:
-    boko_n: [156, 140]
-    boko_d: [232, 140]
+    boko_n: [56, 64]
+    boko_d: [65, 70]
     kaisyu_n: [12, -9]
     kaisyu_d: [28, -17]
-    kaizo_n: [116, 96]
-    kaizo_d: [180, 76]
-    map_n: [124, 140]
-    map_d: [200, 140]
-    ensyuf_n: [120, 136]
-    ensyuf_d: [196, 136]
-    ensyue_n: [108, 0]
-    battle_n: [144, 144]
-    battle_d: [220, 144]
-    wed_a: [112, -12]
-    wed_b: [80, 104]
+    kaizo_n: [1, 9]
+    kaizo_d: [21, -28]
+    map_n: [3, 59]
+    map_d: [-11, 61]
+    ensyuf_n: [77, 67]
+    ensyuf_d: [56, 30]
+    ensyue_n: [77, 0]
+    battle_n: [-10, 43]
+    battle_d: [-10, 43]
+    wed_a: [231, 75]
+    wed_b: [94, 105]
   wiki_id: "008"
   chinese_name: 苍龙
   can_drop: true

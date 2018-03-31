@@ -14,7 +14,7 @@ data:
   get_mes: 提督、あの、私……<br>綾波型駆逐艦……狭霧といいます。<br>お手伝いできるよう、頑張ります。
   voice_f: 0
   filename: tbgbgvlvagls
-  file_version: ["6", "1", "101"]
+  file_version: ["6", "1", "314"]
   book_table_id: [480, 773, 772, 762, 752]
   book_sinfo: 綾波型駆逐艦、六番艦の狭霧です。そうですね、吹雪型一番艦から数えて十六隻目の特型駆逐艦です。天霧たちと第二十駆逐隊を編成し、三水戦の一翼を担いました。あまり多くの戦いを経験してはいませんが、お味方のために尽くしたいと思います。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [72, 116]
   wiki_id: "280"
   chinese_name: 狭雾
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

@@ -17,9 +17,7 @@
         "amount": 1
       }
     ],
-    "prerequisite": [
-
-    ],
+    "prerequisite": [],
     "requirements": {
       "category": "fleet",
       "groups": [
@@ -1925,7 +1923,7 @@
           "select": 5
         }
       ],
-      "fleetid" : 1
+      "fleetid": 1
     }
   },
   {
@@ -2981,7 +2979,7 @@
           "ship": "陸奥改"
         }
       ],
-        "fleetid" : 1
+      "fleetid": 1
     }
   },
   {
@@ -3029,7 +3027,7 @@
           "ship": "鈴谷改二"
         }
       ],
-      "fleetid" : 1
+      "fleetid": 1
     }
   },
   {
@@ -3072,7 +3070,7 @@
           "amount": 2
         }
       ],
-      "fleetid" : 1
+      "fleetid": 1
     }
   },
   {
@@ -3124,7 +3122,7 @@
           "amount": 1
         }
       ],
-      "fleetid" : 1
+      "fleetid": 1
     }
   },
   {
@@ -3145,7 +3143,7 @@
       },
       {
         "name": "戦闘糧食",
-        "amount": 1
+        "amount": 2
       }
     ],
     "prerequisite": [
@@ -3182,25 +3180,25 @@
     "reward_bauxite": 300,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"F6F-3",
+            "name": "F6F-3",
             "amount": 1
           },
           {
-            "name":"F4U-1D",
+            "name": "F4U-1D",
             "amount": 1
           }
         ]
       },
       {
-        "choices":[
+        "choices": [
           {
-            "name":"TBF",
+            "name": "TBF",
             "amount": 1
           },
           {
-            "name":"新型航空兵装資材",
+            "name": "新型航空兵装資材",
             "amount": 1
           }
         ]
@@ -3226,7 +3224,7 @@
           "amount": 2
         }
       ],
-      "fleetid" : 1
+      "fleetid": 1
     }
   },
   {
@@ -3285,17 +3283,17 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"給糧艦「伊良湖」",
+            "name": "給糧艦「伊良湖」",
             "amount": 2
           },
           {
-            "name":"特注家具職人",
+            "name": "特注家具職人",
             "amount": 1
           },
           {
-            "name":"新型砲熕兵装資材",
+            "name": "新型砲熕兵装資材",
             "amount": 1
           }
         ]
@@ -3326,6 +3324,146 @@
         },
         {
           "ship": "山雲"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 188,
+    "wiki_id": "A83",
+    "category": 1,
+    "type": 1,
+    "name": "精鋭「三一駆」第一小隊、抜錨準備！",
+    "detail": "編成任務：「長波改二」旗艦、僚艦に「高波改」または「沖波改」「朝霜改」を配した、第三一駆逐隊第一小隊(2隻艦隊)を編成せよ！",
+    "reward_fuel": 200,
+    "reward_ammo": 200,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "特制家具职人",
+            "amount": 1
+          },
+          {
+            "name": "戦闘糧食(特別なおにぎり)",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "name": "高速修復材",
+        "amount": 2
+      }
+    ],
+    "prerequisite": [
+      239,
+      673
+    ],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "長波改二",
+          "flagship": true
+        },
+        {
+          "ship": [
+            "高波改",
+            "沖波改",
+            "朝霜改"
+          ],
+          "select": 1
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 189,
+    "wiki_id": "A84",
+    "category": 1,
+    "type": 1,
+    "name": "精鋭「四水戦」抜錨準備！",
+    "detail": "四水戦(4Sd)特別編成：「村雨改二」旗艦と精鋭四水戦「由良改二」「夕立改二」「春雨改」「五月雨改」<br>「秋月改」より3隻、さらに主力艦2隻を配備した、有力な特務艦隊を編成、南方海域出撃に備えよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 400,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "高速修復材",
+        "amount": 3
+      },
+      {
+        "name": "応急修理女神",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "村雨改二",
+          "flagship": true
+        },
+        {
+          "ship": [
+            "由良改二",
+            "夕立改二",
+            "春雨改",
+            "五月雨改",
+            "秋月改"
+          ],
+          "select": 3
+        },
+        {
+          "ship": "艦",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 190,
+    "wiki_id": "A85",
+    "category": 1,
+    "type": 1,
+    "name": "精鋭「第二一駆逐隊」、抜錨準備！",
+    "detail": "精鋭駆逐隊編成任務：捷一号作戦を支援する。同決戦正面の基地航空への資材輸送任務のため、<br>「若葉改」「初春改二」「初霜改二」を含む3～4隻の精鋭「第二一駆逐隊」の編成を完了せよ！",
+    "reward_fuel": 100,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 300,
+    "reward_other": [
+      {
+        "name": "高速修復材",
+        "amount": 3
+      },
+      {
+        "name": "戦闘糧食",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      269
+    ],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "若葉改"
+        },
+        {
+          "ship": "初春改二"
+        },
+        {
+          "ship": "初霜改二"
+        },
+        {
+          "ship": "駆逐",
+          "amount": [0, 1]
         }
       ]
     }
@@ -3373,9 +3511,7 @@
         "amount": 1
       }
     ],
-    "prerequisite": [
-
-    ],
+    "prerequisite": [],
     "requirements": {
       "category": "sortie",
       "times": 1
@@ -6676,9 +6812,7 @@
         "amount": 1
       }
     ],
-    "prerequisite": [
-
-    ],
+    "prerequisite": [],
     "requirements": {
       "category": "excercise",
       "times": 1
@@ -7022,13 +7156,13 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"特注家具職人",
+            "name": "特注家具職人",
             "amount": 1
           },
           {
-            "name":"大発動艇",
+            "name": "大発動艇",
             "amount": 1
           }
         ]
@@ -7047,6 +7181,227 @@
       "times": 4,
       "victory": true,
       "daily": true
+    }
+  },
+  {
+    "game_id": 317,
+    "wiki_id": "C15",
+    "category": 3,
+    "type": 1,
+    "name": "甲型駆逐艦の戦力整備計画",
+    "detail": "甲型駆逐艦整備任務：甲型駆逐艦【夕雲型/陽炎型】を2隻以上配備した第一艦隊で演習で3回「勝利」、<br>その後、同艦隊を南西諸島海域に投入。各出撃で得られた戦訓を艦隊型駆逐艦戦力整備に活用せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 350,
+    "reward_steel": 0,
+    "reward_bauxite": 350,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "战斗详报",
+            "amount": 1
+          },
+          {
+            "name": "特制家具职人",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "高速修复材",
+            "amount": 5
+          },
+          {
+            "name": "战斗粮食",
+            "amount": 2
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      673
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "excercise",
+          "times": 3,
+          "victory": true,
+          "daily": true,
+          "groups": [
+            {
+              "shipclass": [
+                "夕雲",
+                "陽炎"
+              ],
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-2",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "夕雲型/陽炎型",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-3",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "夕雲型/陽炎型",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-4",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "夕雲型/陽炎型",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": "2-5",
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "夕雲型/陽炎型",
+              "amount": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 318,
+    "wiki_id": "C16",
+    "category": 3,
+    "type": 6,
+    "name": "給糧艦「伊良湖」の支援",
+    "detail": "伊良湖支援任務：軽巡を2隻以上配備した第一艦隊で本日中に演習で3回「勝利」、その後、<br>第一艦隊旗艦に戦闘糧食を二つ装備せよ！　※任務達成後、同戦闘糧食は消費します",
+    "reward_fuel": 100,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 2
+          },
+          {
+            "name": "高速修复材",
+            "amount": 2
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      676
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "excercise",
+          "times": 3,
+          "victory": true,
+          "daily": true,
+          "groups": [
+            {
+              "ship": "軽巡",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "modelconversion",
+          "secretary": "艦",
+          "equipment": [
+            "戦闘糧食",
+            "戦闘糧食"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 319,
+    "wiki_id": "C17",
+    "category": 3,
+    "type": 1,
+    "name": "精鋭「第二一駆」、猛特訓！",
+    "detail": "駆逐隊演習任務：精鋭「第二一駆逐隊」3隻を含む艦隊を編成。作戦に先立ち、猛特訓を開始する！<br>同艦隊で、本日中に演習で4回勝利せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "給糧艦「間宮」",
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 6
+          },
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      190
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 4,
+      "victory": true,
+      "daily": true,
+      "groups": [
+        {
+          "ship": "若葉改"
+        },
+        {
+          "ship": "初春改二"
+        },
+        {
+          "ship": "初霜改二"
+        }
+      ]
     }
   },
   {
@@ -8127,9 +8482,7 @@
         "amount": 1
       }
     ],
-    "prerequisite": [
-
-    ],
+    "prerequisite": [],
     "requirements": {
       "category": "simple",
       "subcategory": "ship",
@@ -9675,7 +10028,7 @@
     ],
     "prerequisite": [
       304,
-      423
+      649
     ],
     "requirements": {
       "category": "equipexchange",
@@ -9817,14 +10170,14 @@
       "category": "modelconversion",
       "slots": [
         {
-          "slot":1,
-          "equipment":"試製晴嵐",
-          "convert":true
+          "slot": 1,
+          "equipment": "試製晴嵐",
+          "convert": true
         },
         {
-          "slot":2,
-          "equipment":"瑞雲(六三一空)",
-          "convert":true
+          "slot": 2,
+          "equipment": "瑞雲(六三一空)",
+          "convert": true
         }
       ],
       "secretary": "伊401 / 伊14 / 伊13"
@@ -9954,10 +10307,16 @@
     "requirements": {
       "category": "modelconversion",
       "secretary": "艦",
+      "use_skilled_crew": true,
       "slots": [
-        1
+        {
+          "slot": 1,
+          "equipment": "二式水戦改",
+          "convert": true,
+          "fullyskilled": true,
+          "maxmodified": true
+        }
       ],
-      "equipment": "二式水戦改",
       "scraps": [
         {
           "name": "零式艦戦21型",
@@ -9967,10 +10326,7 @@
           "name": "瑞雲",
           "amount": 2
         }
-      ],
-      "fullyskilled": true,
-      "maxmodified": true,
-      "use_skilled_crew": true
+      ]
     }
   },
   {
@@ -9998,10 +10354,16 @@
     "requirements": {
       "category": "modelconversion",
       "secretary": "艦",
+      "use_skilled_crew": true,
       "slots": [
-        1
+        {
+          "slot": 1,
+          "equipment": "二式水戦改",
+          "convert": true,
+          "fullyskilled": true,
+          "maxmodified": true
+        }
       ],
-      "equipment": "二式水戦改",
       "scraps": [
         {
           "name": "零式艦戦21型",
@@ -10011,10 +10373,7 @@
           "name": "瑞雲",
           "amount": 2
         }
-      ],
-      "fullyskilled": true,
-      "maxmodified": true,
-      "use_skilled_crew": true
+      ]
     }
   },
   {
@@ -10071,13 +10430,13 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"勲章",
+            "name": "勲章",
             "amount": 1
           },
           {
-            "name":"新型砲熕兵装資材",
+            "name": "新型砲熕兵装資材",
             "amount": 1
           }
         ]
@@ -10120,13 +10479,13 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"勲章",
+            "name": "勲章",
             "amount": 1
           },
           {
-            "name":"新型砲熕兵装資材",
+            "name": "新型砲熕兵装資材",
             "amount": 1
           }
         ]
@@ -10168,13 +10527,13 @@
     "reward_bauxite": 300,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"勲章",
+            "name": "勲章",
             "amount": 1
           },
           {
-            "name":"新型砲熕兵装資材",
+            "name": "新型砲熕兵装資材",
             "amount": 1
           }
         ]
@@ -10216,13 +10575,13 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"勲章",
+            "name": "勲章",
             "amount": 1
           },
           {
-            "name":"新型砲熕兵装資材",
+            "name": "新型砲熕兵装資材",
             "amount": 1
           }
         ]
@@ -10275,12 +10634,17 @@
     ],
     "requirements": {
       "category": "modelconversion",
-      "secretary": "艦",
+      "secretary": "日向改",
+      "use_skilled_crew": true,
       "slots": [
-        4
+        {
+          "slot": 4,
+          "equipment": "瑞雲(六三四空)",
+          "convert": true,
+          "maxmodified": true
+        }
       ],
-      "equipment": "瑞雲(六三四空)",
-      "equipments": [
+      "consumptions": [
         {
           "name": "九九式艦爆",
           "amount": 2
@@ -10295,9 +10659,7 @@
           "name": "ドラム缶(輸送用)",
           "amount": 2
         }
-      ],
-      "maxmodified": true,
-      "use_skilled_crew": true
+      ]
     }
   },
   {
@@ -10313,13 +10675,13 @@
     "reward_bauxite": 300,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"勲章",
+            "name": "勲章",
             "amount": 1
           },
           {
-            "name":"特注家具職人",
+            "name": "特注家具職人",
             "amount": 1
           }
         ]
@@ -10365,9 +10727,7 @@
         "amount": 1
       }
     ],
-    "prerequisite": [
-
-    ],
+    "prerequisite": [],
     "requirements": {
       "category": "equipexchange",
       "equipments": [
@@ -10376,9 +10736,7 @@
           "amount": 2
         }
       ],
-      "scraps": [
-
-      ],
+      "scraps": [],
       "resources": [
         800,
         0,
@@ -10412,9 +10770,14 @@
     "requirements": {
       "category": "modelconversion",
       "secretary": "艦",
-      "equipment": "F6F-3",
       "slots": [
-        1
+        {
+          "slot": 1,
+          "equipment": "F6F-3",
+          "convert": true,
+          "fullyskilled": true,
+          "maxmodified": true
+        }
       ],
       "scraps": [
         {
@@ -10445,9 +10808,7 @@
         0,
         0,
         5000
-      ],
-      "fullyskilled": true,
-      "maxmodified": true
+      ]
     }
   },
   {
@@ -10475,9 +10836,14 @@
     "requirements": {
       "category": "modelconversion",
       "secretary": "艦",
-      "equipment": "F6F-5",
       "slots": [
-        1
+        {
+          "slot": 1,
+          "equipment": "F6F-5",
+          "convert": true,
+          "fullyskilled": true,
+          "maxmodified": true
+        }
       ],
       "scraps": [
         {
@@ -10508,9 +10874,7 @@
         0,
         0,
         6000
-      ],
-      "fullyskilled": true,
-      "maxmodified": true
+      ]
     }
   },
   {
@@ -10538,9 +10902,13 @@
     "requirements": {
       "category": "modelconversion",
       "secretary": "艦",
-      "equipment": "TBF",
+      "use_skilled_crew": true,
       "slots": [
-        1
+        {
+          "slot": 1,
+          "equipment": "TBF",
+          "convert": true
+        }
       ],
       "scraps": [
         {
@@ -10571,8 +10939,7 @@
         5000,
         0,
         8000
-      ],
-      "use_skilled_crew": true
+      ]
     }
   },
   {
@@ -10593,15 +10960,16 @@
         "amount": 1
       }
     ],
-    "prerequisite": [
-
-    ],
+    "prerequisite": [],
     "requirements": {
       "category": "modelconversion",
       "secretary": "艦",
-      "equipment": "艦隊司令部施設",
       "slots": [
-        1
+        {
+          "slot": 1,
+          "equipment": "艦隊司令部施設",
+          "convert": true
+        }
       ],
       "scraps": [
         {
@@ -10648,8 +11016,8 @@
       607
     ],
     "requirements": {
-      "category": "equipexchange",
-      "scraps": [
+      "category": "scrapequipment",
+      "list": [
         {
           "name": "小口径主砲",
           "amount": 4
@@ -10707,22 +11075,26 @@
     "reward_fuel": 200,
     "reward_ammo": 0,
     "reward_steel": 0,
-    "reward_bauxite": 0,
+    "reward_bauxite": 200,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"一式戦 隼II型",
+            "name": "一式戦 隼II型",
             "amount": 1
           },
           {
-            "name":"紫電一一型",
+            "name": "紫電一一型",
             "amount": 1
+          },
+          {
+            "name": "改修資材",
+            "amount": 4
           }
         ]
       },
       {
-        "name": "改修資材",
+        "name": "开发資材",
         "amount": 4
       }
     ],
@@ -10750,6 +11122,225 @@
     }
   },
   {
+    "game_id": 676,
+    "wiki_id": "F68",
+    "category": 6,
+    "type": 3,
+    "name": "装備開発力の集中整備",
+    "detail": "工廠環境の集中整備を実施する！「中口径主砲」系装備x3、「副砲」系装備x3、「ドラム缶(輸送用)」x1<br>を廃棄、鋼材2,400を準備せよ！　※任務達成後、準備した資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 200,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "开发資材",
+        "amount": 7
+      },
+      {
+        "name": "高速修复材",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      674
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "中口径主砲",
+          "amount": 3
+        },
+        {
+          "name": "副砲",
+          "amount": 3
+        },
+        {
+          "name": "ドラム缶(輸送用)",
+          "amount": 1
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        2400,
+        0
+      ]
+    }
+  },
+  {
+    "game_id": 677,
+    "wiki_id": "F69",
+    "category": 6,
+    "type": 3,
+    "name": "継戦支援能力の整備",
+    "detail": "艦娘の継戦支援体制の整備強化を実施する！「大口径主砲」系装備x4、「水上偵察機」系装備x2、<br>「魚雷」系装備x3を廃棄、鋼材3,600を準備せよ！　※任務達成後、準備した資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 500,
+    "reward_steel": 0,
+    "reward_bauxite": 150,
+    "reward_other": [
+      {
+        "name": "高速修复材",
+        "amount": 5
+      }
+    ],
+    "prerequisite": [
+      674
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "大口径主砲",
+          "amount": 4
+        },
+        {
+          "name": "水上偵察機",
+          "amount": 2
+        },
+        {
+          "name": "魚雷",
+          "amount": 3
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        3600,
+        0
+      ]
+    }
+  },
+  {
+    "game_id": 678,
+    "wiki_id": "F70",
+    "category": 6,
+    "type": 7,
+    "name": "主力艦上戦闘機の更新",
+    "detail": "艦上戦闘機「九六式艦戦」x3、「零式艦戦21型」x5を廃棄。秘書艦の一番及び二番装備スロットに<br>「零式艦戦52型」を装備。ボーキサイト4,000を準備せよ。※任務達成後、準備資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "紫電改二",
+        "amount": 2
+      },
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 8
+          },
+          {
+            "name": "新型航空兵装資材",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      216,
+      676,
+      702
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "modelconversion",
+          "secretary": "艦",
+          "slots": [
+            {
+              "slot": 1,
+              "equipment": "零式艦戦52型",
+              "convert": true
+            },
+            {
+              "slot": 2,
+              "equipment": "零式艦戦52型",
+              "convert": true
+            }
+          ],
+          "scraps": [
+            {
+              "name": "九六式艦戦",
+              "amount": 3
+            },
+            {
+              "name": "零式艦戦21型",
+              "amount": 5
+            }
+          ]
+        },
+        {
+          "category": "equipexchange",
+          "resources": [
+            0,
+            0,
+            0,
+            4000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 679,
+    "wiki_id": "F71",
+    "category": 6,
+    "type": 1,
+    "name": "対空兵装の拡充",
+    "detail": "対空兵装の整備拡充を実施する！「中口径主砲」系装備x6、「副砲」系装備x3を廃棄、<br>ボーキサイト900を準備せよ！　※任務達成後、準備した資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "25mm三連装機銃",
+            "amount": 2
+          },
+          {
+            "name": "12cm30連装噴進砲",
+            "amount": 2
+          },
+          {
+            "name": "補強増設",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      605
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "中口径主砲",
+          "amount": 6
+        },
+        {
+          "name": "副砲",
+          "amount": 3
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        0,
+        900
+      ]
+    }
+  },
+  {
     "game_id": 701,
     "wiki_id": "G01",
     "category": 7,
@@ -10766,9 +11357,7 @@
         "amount": 1
       }
     ],
-    "prerequisite": [
-
-    ],
+    "prerequisite": [],
     "requirements": {
       "category": "simple",
       "subcategory": "modernization",
@@ -10913,13 +11502,13 @@
         "amount": 1
       },
       {
-        "choices":[
+        "choices": [
           {
-            "name":"戦闘糧食",
+            "name": "戦闘糧食",
             "amount": 2
           },
           {
-            "name":"開発資材",
+            "name": "開発資材",
             "amount": 5
           }
         ]
@@ -10985,17 +11574,17 @@
         "amount": 3
       },
       {
-        "choices":[
+        "choices": [
           {
-            "name":"戦闘糧食(特別なおにぎり)",
+            "name": "戦闘糧食(特別なおにぎり)",
             "amount": 1
           },
           {
-            "name":"高速修復材",
+            "name": "高速修復材",
             "amount": 5
           },
           {
-            "name":"新型砲熕兵装資材",
+            "name": "新型砲熕兵装資材",
             "amount": 1
           }
         ]
@@ -11067,17 +11656,17 @@
         "amount": 3
       },
       {
-        "choices":[
+        "choices": [
           {
-            "name":"二式爆雷",
+            "name": "二式爆雷",
             "amount": 2
           },
           {
-            "name":"戦闘詳報",
+            "name": "戦闘詳報",
             "amount": 1
           },
           {
-            "name":"雷電",
+            "name": "雷電",
             "amount": 1
           }
         ]
@@ -11168,17 +11757,17 @@
         "category": "家具"
       },
       {
-        "choices":[
+        "choices": [
           {
-            "name":"熟練搭乗員",
+            "name": "熟練搭乗員",
             "amount": 1
           },
           {
-            "name":"新型航空兵装資材",
+            "name": "新型航空兵装資材",
             "amount": 2
           },
           {
-            "name":"紫電改二",
+            "name": "紫電改二",
             "amount": 3
           }
         ]
@@ -12374,9 +12963,7 @@
         "amount": 1
       }
     ],
-    "prerequisite": [
-
-    ],
+    "prerequisite": [],
     "requirements": {
       "category": "sortie",
       "map": "1-4",
@@ -12563,7 +13150,7 @@
     ],
     "prerequisite": [
       116,
-      233
+      145
     ],
     "requirements": {
       "category": "sortie",
@@ -12610,13 +13197,13 @@
         "amount": 2
       },
       {
-        "choices":[
+        "choices": [
           {
-            "name":"二式水戦改",
+            "name": "二式水戦改",
             "amount": 1
           },
           {
-            "name":"PBY-5A Catalina",
+            "name": "PBY-5A Catalina",
             "amount": 1
           }
         ]
@@ -12674,13 +13261,13 @@
         "amount": 1
       },
       {
-        "choices":[
+        "choices": [
           {
-            "name":"改良型艦本式タービン",
+            "name": "改良型艦本式タービン",
             "amount": 1
           },
           {
-            "name":"強化型艦本式缶",
+            "name": "強化型艦本式缶",
             "amount": 1
           }
         ]
@@ -12894,9 +13481,7 @@
         "amount": 1
       }
     ],
-    "prerequisite": [
-
-    ],
+    "prerequisite": [],
     "requirements": {
       "category": "and",
       "list": [
@@ -13038,13 +13623,13 @@
         "amount": 4
       },
       {
-        "choices":[
+        "choices": [
           {
-            "name":"強風改",
+            "name": "強風改",
             "amount": 1
           },
           {
-            "name":"艦本新設計 増設バルジ(中型艦)",
+            "name": "艦本新設計 増設バルジ(中型艦)",
             "amount": 1
           }
         ]
@@ -13475,13 +14060,13 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"勲章",
+            "name": "勲章",
             "amount": 1
           },
           {
-            "name":"新型砲熕兵装資材",
+            "name": "新型砲熕兵装資材",
             "amount": 1
           }
         ]
@@ -13622,17 +14207,17 @@
     "reward_bauxite": 500,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"勲章",
+            "name": "勲章",
             "amount": 1
           },
           {
-            "name":"新型砲熕兵装資材",
+            "name": "新型砲熕兵装資材",
             "amount": 1
           },
           {
-            "name":"零式艦戦63型(爆戦)",
+            "name": "零式艦戦63型(爆戦)",
             "amount": 1
           }
         ]
@@ -13705,13 +14290,13 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"勲章",
+            "name": "勲章",
             "amount": 1
           },
           {
-            "name":"熟練搭乗員",
+            "name": "熟練搭乗員",
             "amount": 1
           }
         ]
@@ -13783,13 +14368,13 @@
     "reward_bauxite": 400,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"大発動艇",
+            "name": "大発動艇",
             "amount": 1
           },
           {
-            "name":"補強増設",
+            "name": "補強増設",
             "amount": 1
           }
         ]
@@ -13824,7 +14409,7 @@
                 "五月雨",
                 "秋月"
               ],
-              "amount": 2
+              "select": 2
             }
           ]
         },
@@ -13847,7 +14432,7 @@
                 "五月雨",
                 "秋月"
               ],
-              "amount": 2
+              "select": 2
             }
           ]
         }
@@ -13959,17 +14544,17 @@
         "amount": 2
       },
       {
-        "choices":[
+        "choices": [
           {
-            "name":"大発動艇",
+            "name": "大発動艇",
             "amount": 1
           },
           {
-            "name":"新型砲熕兵装資材",
+            "name": "新型砲熕兵装資材",
             "amount": 1
           },
           {
-            "name":"補強増設",
+            "name": "補強増設",
             "amount": 1
           }
         ]
@@ -14019,29 +14604,29 @@
     "reward_bauxite": 700,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"F6F-3",
+            "name": "F6F-3",
             "amount": 1
           },
           {
-            "name":"熟練搭乗員",
+            "name": "熟練搭乗員",
             "amount": 1
           },
           {
-            "name":"新型航空兵装資材",
+            "name": "新型航空兵装資材",
             "amount": 1
           }
         ]
       },
       {
-        "choices":[
+        "choices": [
           {
-            "name":"TBF",
+            "name": "TBF",
             "amount": 1
           },
           {
-            "name":"夜間作戦航空要員",
+            "name": "夜間作戦航空要員",
             "amount": 1
           }
         ]
@@ -14112,33 +14697,33 @@
     "reward_bauxite": 1000,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"TBF",
+            "name": "TBF",
             "amount": 1
           },
           {
-            "name":"新型航空兵装資材",
+            "name": "新型航空兵装資材",
             "amount": 1
           },
           {
-            "name":"夜間作戦航空要員+熟練甲板員",
+            "name": "夜間作戦航空要員+熟練甲板員",
             "amount": 1
           }
         ]
       },
       {
-        "choices":[
+        "choices": [
           {
-            "name":"補強増設",
+            "name": "補強増設",
             "amount": 1
           },
           {
-            "name":"新型航空兵装資材",
+            "name": "新型航空兵装資材",
             "amount": 1
           },
           {
-            "name":"熟練搭乗員",
+            "name": "熟練搭乗員",
             "amount": 1
           }
         ]
@@ -14188,9 +14773,7 @@
         "amount": 1
       }
     ],
-    "prerequisite": [
-
-    ],
+    "prerequisite": [],
     "requirements": {
       "category": "and",
       "list": [
@@ -14333,17 +14916,17 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"12.7cm連装砲C型改二",
+            "name": "12.7cm連装砲C型改二",
             "amount": 1
           },
           {
-            "name":"大発動艇",
+            "name": "大発動艇",
             "amount": 1
           },
           {
-            "name":"22号対水上電探",
+            "name": "22号対水上電探",
             "amount": 2
           }
         ]
@@ -14418,17 +15001,17 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"特注家具職人",
+            "name": "特注家具職人",
             "amount": 1
           },
           {
-            "name":"12.7cm連装砲C型改二★+3",
+            "name": "12.7cm連装砲C型改二★+3",
             "amount": 1
           },
           {
-            "name":"勲章",
+            "name": "勲章",
             "amount": 1
           }
         ]
@@ -14438,9 +15021,7 @@
         "amount": 1
       }
     ],
-    "prerequisite": [
-
-    ],
+    "prerequisite": [],
     "requirements": {
       "category": "and",
       "list": [
@@ -14511,17 +15092,17 @@
     "reward_bauxite": 700,
     "reward_other": [
       {
-        "choices":[
+        "choices": [
           {
-            "name":"紫電改二",
+            "name": "紫電改二",
             "amount": 2
           },
           {
-            "name":"改修資材",
+            "name": "改修資材",
             "amount": 4
           },
           {
-            "name":"新型航空兵装資材",
+            "name": "新型航空兵装資材",
             "amount": 1
           }
         ]
@@ -14555,6 +15136,433 @@
             {
               "ship": "軽巡",
               "amount": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 875,
+    "wiki_id": "Bq06",
+    "category": 2,
+    "type": 7,
+    "name": "精鋭「三一駆」、鉄底海域に突入せよ！",
+    "detail": "強行東京急行任務：精鋭「三一駆」第一小隊を護衛戦力とした突入艦隊を編成、南方サーモン海域に投入。<br>鉄底海峡に突入し、同海域に展開する敵艦艇を実力で排除、強行鼠輸送作戦を反復完遂せよ！",
+    "reward_fuel": 310,
+    "reward_ammo": 310,
+    "reward_steel": 0,
+    "reward_bauxite": 310,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "13号对空电探",
+            "amount": 2
+          },
+          {
+            "name": "22号对水上电探",
+            "amount": 2
+          },
+          {
+            "name": "战斗详报",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "プレゼント箱",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      188,
+      873
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 2,
+          "map": "5-4",
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": "長波改二",
+              "flagship": true
+            },
+            {
+              "ship": [
+                "高波改",
+                "沖波改",
+                "朝霜改"
+              ],
+              "select": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 876,
+    "wiki_id": "B111",
+    "category": 2,
+    "type": 1,
+    "name": "松輸送作戦、開始せよ！",
+    "detail": "防衛ラインの強化のため、艦隊旗艦「龍田改二」または「龍田改」、3隻以上の駆逐艦または海防艦を<br>含む輸送護衛艦隊を編成、南西諸島防衛線及び鎮守府近海航路における作戦を複数回成功させよ！",
+    "reward_fuel": 200,
+    "reward_ammo": 200,
+    "reward_steel": 200,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "新型航空兵装資材",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          },
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          },
+          {
+            "name": "大発動艇",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      255,
+      673
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "map": "1-4",
+          "times": 2,
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": [
+                "龍田改",
+                "龍田改二"
+              ],
+              "flagship": true
+            },
+            {
+              "ship": [
+                "駆逐艦",
+                "海防艦"
+              ],
+              "amount": 3
+            },
+            {
+              "ship": "艦",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "map": "1-6",
+          "times": 2,
+          "groups": [
+            {
+              "ship": [
+                "龍田改",
+                "龍田改二"
+              ],
+              "flagship": true
+            },
+            {
+              "ship": [
+                "駆逐艦",
+                "海防艦"
+              ],
+              "amount": 3
+            },
+            {
+              "ship": "艦",
+              "amount": 2
+            }
+          ],
+          "result": "クリア"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 877,
+    "wiki_id": "B112",
+    "category": 2,
+    "type": 1,
+    "name": "精鋭「四水戦」、南方海域に展開せよ！",
+    "detail": "「村雨改二」旗艦含む精鋭四水戦(4Sd)より4隻(他主力艦2隻)計6隻の精鋭艦隊を南方海域に展開。<br>南方海域前面、サブ島沖海域、サーモン海域に突入、同南方海域方面の敵艦隊を撃破せよ！",
+    "reward_fuel": 400,
+    "reward_ammo": 400,
+    "reward_steel": 0,
+    "reward_bauxite": 400,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "12.7cm連装砲C型改二",
+            "amount": 1
+          },
+          {
+            "name": "22号対水上電探",
+            "amount": 2
+          },
+          {
+            "name": "12.7cm連装砲B型改二",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "洋上補給",
+            "amount": 2
+          },
+          {
+            "name": "ドラム缶(輸送用)",
+            "amount": 3
+          },
+          {
+            "name": "改修資材",
+            "amount": 4
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      189
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "map": ["5-1", "5-3", "5-4"],
+          "times": 1,
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "村雨改二",
+              "flagship": true
+            },
+            {
+              "ship": [
+                "由良改二",
+                "夕立改二",
+                "春雨改",
+                "五月雨改",
+                "秋月改"
+              ],
+              "select": 3
+            },
+            {
+              "ship": "艦",
+              "amount": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 878,
+    "wiki_id": "B113",
+    "category": 2,
+    "type": 1,
+    "name": "松輸送作戦、継続実施せよ！",
+    "detail": "「艦隊旗艦に軽巡級または駆逐艦、さらに3隻以上の駆逐艦または海防艦を含む輸送護衛艦隊を編成、<br>防衛ラインの強化のため、南西諸島防衛線及び鎮守府近海航路における作戦を継続的に成功させよ！",
+    "reward_fuel": 300,
+    "reward_ammo": 300,
+    "reward_steel": 0,
+    "reward_bauxite": 300,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "大発動艇",
+            "amount": 1
+          },
+          {
+            "name": "改修資材",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "12cm30連装噴進砲",
+            "amount": 2
+          },
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      876
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "map": "1-4",
+          "times": 3,
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": ["軽巡", "駆逐"],
+              "flagship": true
+            },
+            {
+              "ship": [
+                "駆逐",
+                "海防"
+              ],
+              "amount": [3,99]
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "map": "1-6",
+          "times": 3,
+          "groups": [
+            {
+              "ship": ["軽巡", "駆逐"],
+              "flagship": true
+            },
+            {
+              "ship": [
+                "駆逐",
+                "海防"
+              ],
+              "amount": [3,99]
+            }
+          ],
+          "result": "クリア"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 879,
+    "wiki_id": "B114",
+    "category": 2,
+    "type": 1,
+    "name": "新編「四航戦」、全力出撃！",
+    "detail": "「航空戦艦「伊勢改」「日向改」及び軽巡「大淀改」と1隻以上の駆逐艦を含む新編第四航空戦隊を編成、<br>鎮守府近海航路、沖ノ島沖及び北方AL海域戦闘哨戒、カレー洋リランカ島沖の作戦に投入せよ！",
+    "reward_fuel": 400,
+    "reward_ammo": 400,
+    "reward_steel": 400,
+    "reward_bauxite": 400,
+    "reward_other": [
+      {
+        "name": "12cm30連装噴進砲改二",
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      247
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "map": "1-6",
+          "times": 1,
+          "groups": [
+            {
+              "ship": "伊勢改"
+            },
+            {
+              "ship": "日向改"
+            },
+            {
+              "ship": "大淀改"
+            },
+            {
+              "ship": "駆逐",
+              "amount": [1,99]
+            }
+          ],
+          "result": "クリア"
+        },
+        {
+          "category": "sortie",
+          "map": ["2-5", "3-5", "4-5"],
+          "times": 1,
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "伊勢改"
+            },
+            {
+              "ship": "日向改"
+            },
+            {
+              "ship": "大淀改"
+            },
+            {
+              "ship": "駆逐",
+              "amount": [1,99]
             }
           ]
         }

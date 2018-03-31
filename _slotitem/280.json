@@ -1,0 +1,36 @@
+---
+layout: json
+order: 280
+data:
+  id: 280
+  sort_no: 280
+  name: QF 4.7inch砲 Mk.XII改
+  type: [1, 1, 1, 1, 0]
+  rare: 3
+  broken: [0, 2, 2, 1]
+  info: 紅茶の国の駆逐艦に搭載された主砲兵装、その改良版です。<br>可愛い駆逐艦用主砲、実戦で鍛え上げられた、優れた対潜戦闘力を誇る紅茶の国の駆逐艦達に、ASDICと共にぜひ搭載したいですね！
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 3
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 3
+    tais: 1
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name: 
+---

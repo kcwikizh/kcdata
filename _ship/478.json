@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 478
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 278
+  name: 龍田改二
+  yomi: たつた
+  stype: 3
+  ctype: 21
+  cnum: 2
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
+  get_mes: <br>
+  voice_f: 1
   filename: usewjvwytald
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["1", "1", "314"]
+  book_table_id: [478]
+  book_sinfo: 軽巡洋艦、天龍型２番艦の龍田よ。<br>生まれは佐世保なの。<br>天龍ちゃんがみんなに迷惑かけてない？心配よね～。<br>え？私？私は潜水艦が、ちょっと鬼門だわ～。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [42, 56]
+    souk: [29, 63]
+    houg: [13, 50]
+    raig: [20, 80]
+    tyku: [32, 80]
+    luck: [18, 79]
+    soku: 10
+    leng: 1
+    kaih: 42
+    tais: 50
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 25
+    bull_max: 25
+    broken: [1, 2, 9, 0]
+    pow_up: [1, 1, 2, 2]
+    build_time: 60
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [24, 114]
+    boko_d: [18, 84]
+    kaisyu_n: [-8, 16]
+    kaisyu_d: [26, 12]
+    kaizo_n: [6, 56]
+    kaizo_d: [-36, 0]
+    map_n: [8, 100]
+    map_d: [-12, 64]
+    ensyuf_n: [-20, 104]
+    ensyuf_d: [-16, 64]
+    ensyue_n: [-24, 0]
+    battle_n: [16, 120]
+    battle_d: [4, 76]
+    wed_a: [236, 16]
+    wed_b: [80, 112]
+  wiki_id: "278"
+  chinese_name: 龙田改二
   can_drop: false
   can_construct: false
 ---

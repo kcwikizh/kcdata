@@ -32,5 +32,63 @@ data:
     luck: 0
     leng: 1
   improvement: 
+    -
+      consume:
+        resource: [40, 60, 40, 20]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 1]
+          -
+            -
+              id: 3
+              amount: [2, 4]
+            -
+              id: 4
+              amount: [2, 3]
+        slotitem:
+          -
+            id: 13
+            amount: 1
+          -
+            id: 15
+            amount: 1
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 478
+          -
+            ship_id: 476
+        -
+          -
+            ship_id: 478
+        -
+          -
+            ship_id: 478
+        -
+          -
+            ship_id: 478
+          -
+            ship_id: 476
+        -
+          -
+            ship_id: 478
+          -
+            ship_id: 476
+        -
+          -
+            ship_id: 478
+          -
+            ship_id: 476
+        -
+          -
+            ship_id: 478
+          -
+            ship_id: 476
   chinese_name: 53cm连装鱼雷
 ---

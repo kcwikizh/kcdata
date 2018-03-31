@@ -14,7 +14,7 @@ data:
   get_mes: 秋月型防空駆逐艦、一番艦、秋月。<br>ここに推参致しました。お任せください！
   voice_f: 1
   filename: wkvdcpaogfii
-  file_version: ["15", "11", "101"]
+  file_version: ["15", "11", "314"]
   book_table_id: [421, 844]
   book_sinfo: 艦隊防空のために建造された乙型一等駆逐艦、秋月型駆逐艦一番艦、秋月です。<br>４基８門の長10cm砲と高射装置を備えた防空艦として、僚艦の初月らと共に第61駆逐隊を編成しました。頑張ります！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [112, 112]
   wiki_id: "221"
   chinese_name: 秋月
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

@@ -14,8 +14,8 @@ data:
   get_mes: 駆逐艦島風です。スピードなら誰にも負けません。<br>速きこと、島風の如し、です！
   voice_f: 0
   filename: uffgxggsrtti
-  file_version: ["9", "9", "101"]
-  book_table_id: [50]
+  file_version: ["12", "9", "314"]
+  book_table_id: [50, 1002]
   book_sinfo: 艦隊型駆逐艦の最高峰を目指して開発された、高速で重雷装の駆逐艦、島風型よ。<br>40ノット以上の快速なんだから。<br>でも、量産には向かなくって、私一隻しか建造されなかったの。
   stats:
     taik: [19, 39]

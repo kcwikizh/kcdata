@@ -9,12 +9,12 @@ data:
   ctype: 11
   cnum: 2
   backs: 6
-  after_lv: 
-  after_ship_id: 
+  after_lv: 80
+  after_ship_id: 555
   get_mes: <br>
   voice_f: 3
-  filename: xmzltsferzys
-  file_version: ["22", "19", "101"]
+  filename: xmzltsferzto
+  file_version: ["23", "21", "314"]
   book_table_id: [117, 980]
   book_sinfo: 祥鳳型軽空母、瑞鳳です。<br>元々は高速給油艦として計画され、次に潜水母艦、最終的に軽空母として完成しました。小柄なボディだけれど、機動部隊最後の日まで敢闘しました！
   stats:
@@ -30,29 +30,29 @@ data:
     tais: 0
     slot_num: 4
     max_eq: [18, 12, 12, 6, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 1700
+    after_bull: 700
     fuel_max: 40
     bull_max: 40
     broken: [4, 6, 20, 6]
     pow_up: [0, 0, 3, 2]
     build_time: 160
   graph:
-    boko_n: [204, 156]
-    boko_d: [204, 156]
+    boko_n: [64, 88]
+    boko_d: [64, 88]
     kaisyu_n: [18, 16]
     kaisyu_d: [28, 24]
-    kaizo_n: [112, 72]
-    kaizo_d: [112, 72]
-    map_n: [128, 132]
-    map_d: [128, 132]
-    ensyuf_n: [128, 132]
-    ensyuf_d: [128, 132]
-    ensyue_n: [136, 0]
-    battle_n: [144, 136]
-    battle_d: [144, 136]
-    wed_a: [88, -8]
-    wed_b: [112, 124]
+    kaizo_n: [20, 12]
+    kaizo_d: [20, 12]
+    map_n: [24, 72]
+    map_d: [8, 72]
+    ensyuf_n: [48, 72]
+    ensyuf_d: [44, 72]
+    ensyue_n: [32, 0]
+    battle_n: [44, 68]
+    battle_d: [44, 68]
+    wed_a: [173, 43]
+    wed_b: [123, 151]
   wiki_id: "113"
   chinese_name: 瑞凤改
   can_drop: false

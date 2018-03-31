@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 519
+  sort_no: 319
+  name: Jervis
+  yomi: ジャーヴィス
+  stype: 2
+  ctype: 82
+  cnum: 1
+  backs: 6
+  after_lv: 45
+  after_ship_id: 394
+  get_mes: Nice to meet you.  Lucky Jervis、来たわ！<br>そう、もうゼッタイよ！　任せておいて！
+  voice_f: 1
+  filename: ljtlhcbmaqcg
+  file_version: ["51", "1", "314"]
+  book_table_id: [519, 394]
+  book_sinfo: J級駆逐艦、Jervisよ！　そう、Lucky Jervisって呼んでもらってもいいかな！<br>本国艦隊から地中海艦隊まで、護衛、輸送、艦隊戦や陸戦支援まで本当に頑張っちゃった！<br>Lucky Jervis、覚えておいてね！
+  stats:
+    taik: [15, 33]
+    souk: [7, 18]
+    houg: [12, 32]
+    raig: [30, 82]
+    tyku: [22, 44]
+    luck: [50, 100]
+    soku: 10
+    leng: 1
+    kaih: 46
+    tais: 40
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 150
+    after_bull: 170
+    fuel_max: 15
+    bull_max: 25
+    broken: [1, 1, 6, 1]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [134, 144]
+    boko_d: [128, 162]
+    kaisyu_n: [22, -10]
+    kaisyu_d: [70, -12]
+    kaizo_n: [90, 72]
+    kaizo_d: [96, 76]
+    map_n: [132, 128]
+    map_d: [128, 144]
+    ensyuf_n: [104, 124]
+    ensyuf_d: [116, 140]
+    ensyue_n: [100, 0]
+    battle_n: [140, 146]
+    battle_d: [132, 156]
+    wed_a: [116, -8]
+    wed_b: [84, 112]
+  wiki_id: "319"
+  chinese_name: 贾维斯
+  can_drop: true
+  can_construct: false
+---

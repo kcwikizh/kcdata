@@ -79,26 +79,36 @@ data:
             ship_id: 135
           -
             ship_id: 304
+          -
+            ship_id: 543
         -
           -
             ship_id: 135
           -
             ship_id: 304
+          -
+            ship_id: 543
         -
           -
             ship_id: 135
           -
             ship_id: 304
+          -
+            ship_id: 543
         -
           -
             ship_id: 135
           -
             ship_id: 304
+          -
+            ship_id: 543
         -
           -
             ship_id: 135
           -
             ship_id: 304
+          -
+            ship_id: 543
         -
           -
             ship_id: 137
@@ -108,6 +118,8 @@ data:
             ship_id: 135
           -
             ship_id: 304
+          -
+            ship_id: 543
         -
           -
             ship_id: 137
@@ -117,5 +129,7 @@ data:
             ship_id: 135
           -
             ship_id: 304
+          -
+            ship_id: 543
   chinese_name: 战斗粮食
 ---

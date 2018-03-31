@@ -13,9 +13,9 @@ data:
   after_ship_id: 301
   get_mes: 秋雲、着任！<br>提督よろしくねっ！
   voice_f: 3
-  filename: khxsxmiuccys
-  file_version: ["9", "3", "101"]
-  book_table_id: [132, 858, 766, 753, 741]
+  filename: khxsxmiuccsf
+  file_version: ["10", "3", "314"]
+  book_table_id: [132, 858, 766, 753, 741, 739]
   book_sinfo: 横須賀生まれ横須賀育ちの秋雲さんだよ！陽炎型の中でも航続距離は南雲さんの目にも留まって、一航戦に入ったんだ。ていうか、自分では夕雲型だと思ってたんだけどな...ブツブツ...ま、いいや。その後、五航戦の護衛を務めたよ。翔鶴瑞鶴も描き残したかったな。
   stats:
     taik: [16, 34]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [172, 156]
-    boko_d: [120, 156]
+    boko_n: [6, 12]
+    boko_d: [-4, 62]
     kaisyu_n: [24, -8]
     kaisyu_d: [26, 0]
-    kaizo_n: [136, 100]
-    kaizo_d: [74, 78]
-    map_n: [160, 140]
-    map_d: [108, 140]
-    ensyuf_n: [148, 136]
-    ensyuf_d: [96, 136]
-    ensyue_n: [144, 0]
-    battle_n: [168, 148]
-    battle_d: [116, 148]
-    wed_a: [78, -16]
-    wed_b: [80, 116]
+    kaizo_n: [6, -44]
+    kaizo_d: [6, -24]
+    map_n: [-10, -8]
+    map_d: [-40, 32]
+    ensyuf_n: [40, 0]
+    ensyuf_d: [-20, -10]
+    ensyue_n: [0, 0]
+    battle_n: [0, 16]
+    battle_d: [0, 44]
+    wed_a: [174, 138]
+    wed_b: [144, 143]
   wiki_id: "132"
   chinese_name: 秋云
   can_drop: true

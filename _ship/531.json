@@ -14,8 +14,8 @@ data:
   get_mes: 択捉型海防艦！　三番艦の佐渡様だぜ。<br>シ・レ・い！　よろしくな！　ヒヒ。
   voice_f: 1
   filename: sujriouphyti
-  file_version: ["53", "2", "101"]
-  book_table_id: [531, 747]
+  file_version: ["55", "2", "314"]
+  book_table_id: [531, 747, 733]
   book_sinfo: 択捉型海防艦の三番艦、佐渡だぜ。潜水艦が跳梁する海を、第一海上護衛隊の一員として、結構頑張った。松輪や日振、そして、あの大鷹さんと組んだりもしたんだぜ。でも…ヒ船団の護衛は本当に大変だったさ。今度はしっかり護り通すんだ！　よろしくな！
   stats:
     taik: [9, 18]
@@ -55,6 +55,6 @@ data:
     wed_b: [80, 120]
   wiki_id: "339"
   chinese_name: 佐渡
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

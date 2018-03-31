@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 396
+  sort_no: 1476
+  name: Gambier Bay改
+  yomi: ガンビア・ベイ
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: hhffnryhkveu
+  file_version: ["2", "1", "314"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [38, 48]
+    souk: [10, 39]
+    houg: [0, 32]
+    raig: [0, 0]
+    tyku: [24, 48]
+    luck: [15, 70]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [16, 12, 6, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 25
+    bull_max: 35
+    broken: [2, 3, 13, 5]
+    pow_up: [1, 0, 2, 1]
+    build_time: 30
+  graph:
+    boko_n: [52, 138]
+    boko_d: [104, 164]
+    kaisyu_n: [-8, 0]
+    kaisyu_d: [28, -40]
+    kaizo_n: [24, 46]
+    kaizo_d: [68, 68]
+    map_n: [36, 114]
+    map_d: [92, 136]
+    ensyuf_n: [12, 120]
+    ensyuf_d: [80, 128]
+    ensyue_n: [20, 0]
+    battle_n: [32, 124]
+    battle_d: [92, 140]
+    wed_a: [208, -4]
+    wed_b: [88, 112]
+  wiki_id: "344a"
+  chinese_name: 甘比尔湾改
+  can_drop: false
+  can_construct: false
+---

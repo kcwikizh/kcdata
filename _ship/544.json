@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 544
+  sort_no: 344
+  name: Gambier Bay
+  yomi: ガンビア・ベイ
+  stype: 7
+  ctype: 83
+  cnum: 19
+  backs: 5
+  after_lv: 45
+  after_ship_id: 396
+  get_mes: It’s　a pleasure to meet you.<br>My name is Gambier Bay…ふわぁ！　う、撃たないで！<br>ふぅ…よ、よかった！
+  voice_f: 1
+  filename: nrqxieqrvqsh
+  file_version: ["51", "1", "314"]
+  book_table_id: [544]
+  book_sinfo: It’s　a pleasure to meet you. 　　私、護衛空母Gambier Bayです。ジープ空母とも呼ばれた量産型護衛空母姉妹の一隻です。レイテ沖海戦では日本海軍主力の栗田艦隊と遭遇、有視界水上戦での戦いとなりました。でも私、できるだけの事、頑張ったんです！ Gambier Bayの名前、きっと覚えてくださいね。
+  stats:
+    taik: [28, 36]
+    souk: [9, 19]
+    houg: [0, 15]
+    raig: [0, 0]
+    tyku: [20, 38]
+    luck: [12, 60]
+    soku: 5
+    leng: 1
+    kaih: 18
+    tais: 20
+    slot_num: 2
+    max_eq: [16, 12, 0, 0, 0]
+    after_fuel: 300
+    after_bull: 900
+    fuel_max: 25
+    bull_max: 30
+    broken: [2, 3, 12, 4]
+    pow_up: [0, 0, 2, 1]
+    build_time: 30
+  graph:
+    boko_n: [52, 138]
+    boko_d: [104, 164]
+    kaisyu_n: [-8, 0]
+    kaisyu_d: [28, -40]
+    kaizo_n: [24, 46]
+    kaizo_d: [68, 68]
+    map_n: [36, 114]
+    map_d: [92, 136]
+    ensyuf_n: [12, 120]
+    ensyuf_d: [80, 128]
+    ensyue_n: [20, 0]
+    battle_n: [32, 124]
+    battle_d: [92, 140]
+    wed_a: [208, -4]
+    wed_b: [88, 112]
+  wiki_id: "344"
+  chinese_name: 甘比尔湾
+  can_drop: false
+  can_construct: false
+---

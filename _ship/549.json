@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 549
+  sort_no: 349
+  name: Intrepid
+  yomi: イントレピッド
+  stype: 11
+  ctype: 84
+  cnum: 5
+  backs: 7
+  after_lv: 50
+  after_ship_id: 397
+  get_mes: Hi！ Essex class航空母艦、５番艦。Intrepidよ！<br>貴方がAdmiralなのね？　素敵ね。さァ、一緒にいきましょう？<br>いいかナ？
+  voice_f: 1
+  filename: pwipskreiclu
+  file_version: ["51", "1", "314"]
+  book_table_id: [549, 397]
+  book_sinfo: Essex級航空母艦、５番艦、Intrepidよ！　そう、艦隊型正規空母として量産されたあの戦い最強の空母姉妹の一隻です。あの大戦が終わった後も、近代化改装され、アングルド・デッキを備えた現代空母の先駆けとしても運用されました。そして、退役後はハドソン川で海上航空宇宙博物館として、現存しているの。
+  stats:
+    taik: [65, 90]
+    souk: [43, 80]
+    houg: [0, 55]
+    raig: [0, 0]
+    tyku: [50, 90]
+    luck: [45, 90]
+    soku: 10
+    leng: 2
+    kaih: 40
+    tais: 0
+    slot_num: 4
+    max_eq: [37, 36, 19, 4, 0]
+    after_fuel: 4000
+    after_bull: 3200
+    fuel_max: 75
+    bull_max: 80
+    broken: [9, 16, 43, 10]
+    pow_up: [2, 0, 4, 5]
+    build_time: 330
+  graph:
+    boko_n: [0, 20]
+    boko_d: [28, 114]
+    kaisyu_n: [4, -30]
+    kaisyu_d: [40, 4]
+    kaizo_n: [-8, -48]
+    kaizo_d: [12, 36]
+    map_n: [28, 16]
+    map_d: [68, 94]
+    ensyuf_n: [-12, 18]
+    ensyuf_d: [48, 100]
+    ensyue_n: [-18, 0]
+    battle_n: [24, 32]
+    battle_d: [80, 112]
+    wed_a: [226, 104]
+    wed_b: [84, 108]
+  wiki_id: "349"
+  chinese_name: 无畏
+  can_drop: false
+  can_construct: false
+---

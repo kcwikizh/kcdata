@@ -1,0 +1,36 @@
+---
+layout: json
+order: 273
+data:
+  id: 273
+  sort_no: 273
+  name: 彩雲(偵四)
+  type: [5, 7, 9, 9, 1]
+  rare: 4
+  broken: [2, 0, 0, 11]
+  info: 「我ニ追イツク敵機無シ」。敵戦闘機の追随を許さない高速性を誇る俊足の高性能艦上偵察機「彩雲」。<br>「彩雲」は悪化した戦況の中、敵情偵察に海上へと飛び立ちました。同機を装備した偵察第四飛行隊は、捷一号作戦正面のレイテ方面偵察、またその後は紫電改集中装備部隊「三四三空」の眼として活躍しました。
+  usebull: 0
+  cost: 9
+  distance: 7
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 10
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: 
+---

@@ -1,0 +1,36 @@
+---
+layout: json
+order: 278
+data:
+  id: 278
+  sort_no: 278
+  name: SK レーダー
+  type: [5, 8, 13, 11, 0]
+  rare: 3
+  broken: [0, 0, 21, 25]
+  info: 米国で開発・運営された対空早期監視レーダーです。探知距離も大きく優れた能力を持っています。本レーダーと迎撃戦闘機隊の連携、そしてエセックス級などの新型かつ強力な航空母艦の投入は、圧倒的な艦隊防空網を発揮します。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 8
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 10
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: 
+---

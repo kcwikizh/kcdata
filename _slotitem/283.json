@@ -1,0 +1,36 @@
+---
+layout: json
+order: 283
+data:
+  id: 283
+  sort_no: 283
+  name: 533mm 三連装魚雷
+  type: [2, 3, 5, 5, 0]
+  rare: 2
+  broken: [1, 1, 1, 0]
+  info: 北の国の艦艇用魚雷装備です。<br>北の国から来た艦艇にはもちろん、信頼できるあのコにも装備させてあげたいですね。<br>хорошо!
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 5
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name: 
+---

@@ -14,7 +14,7 @@ data:
   get_mes: 司令、おはようございます！<br>択捉型海防艦一番艦、択捉です。<br>今日も頑張ります！
   voice_f: 1
   filename: lupcrslexuxo
-  file_version: ["53", "1", "101"]
+  file_version: ["53", "1", "314"]
   book_table_id: [524, 383, 782]
   book_sinfo: 択捉型海防艦の一番艦、択捉です。先輩の占守型の改良型です。生産性と爆雷装備数などが向上しているの。とても多くの姉妹が建造され、船団護衛の任などに就きました。最後まで戦えた艦は多くはなかったけれど、後方の海を最後まで護って戦いました。戦いが終わった後も、少し頑張らせて頂きました。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [100, 112]
   wiki_id: "334"
   chinese_name: 择捉
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---
