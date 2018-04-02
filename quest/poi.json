@@ -3469,6 +3469,48 @@
     }
   },
   {
+    "game_id": 191,
+    "wiki_id": "A86",
+    "category": 1,
+    "type": 1,
+    "name": "改装「第十七駆逐隊」、再編始め！",
+    "detail": "改装駆逐隊編成任務：改装した陽炎型駆逐艦「浦風改」「谷風改」、そして対空戦闘の激化に備え、<br>対空兵装を軸に大幅強化改装した「磯風乙改」「浜風乙改」による「第十七駆逐隊」を再編せよ！",
+    "reward_fuel": 170,
+    "reward_ammo": 170,
+    "reward_steel": 170,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 1
+      },
+      {
+        "name": "補強増設",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      680
+    ],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "浦風改",
+          "amount": 1
+        },
+        {
+          "ship": "谷風改",
+          "amount": 1
+        },
+        {
+          "ship": "浜風乙改",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  {
     "game_id": 201,
     "wiki_id": "Bd01",
     "category": 2,
