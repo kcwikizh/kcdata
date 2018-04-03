@@ -15610,5 +15610,89 @@
         }
       ]
     }
+  },
+  {
+    "game_id": 880,
+    "wiki_id": "B115",
+    "category": 2,
+    "type": 1,
+    "name": "精鋭駆逐隊、獅子奮迅！",
+    "detail": "十分な装備と練度を誇る駆逐艦4隻からなる精鋭駆逐隊を含む艦隊を編成。鎮守府近海航路、東部オリョール海、北方キス島沖、西方カレー洋に投入、各戦線の作戦展開を成功させよ！",
+    "reward_fuel": 480,
+    "reward_ammo": 480,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          },
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          },
+          {
+            "name": "勲章",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      320,
+      680
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "map": "1-6",
+          "times": 1,
+          "groups": [
+            {
+              "ship": "駆逐",
+              "amount": 4
+            },
+            {
+              "ship": "艦",
+              "amount": 2
+            }
+          ],
+          "result": "クリア"
+        },
+        {
+          "category": "sortie",
+          "map": [
+            "2-3",
+            "3-2",
+            "4-2"
+          ],
+          "times": 1,
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "駆逐",
+              "amount": 4
+            },
+            {
+              "ship": "艦",
+              "amount": 2
+            }
+          ]
+        }
+      ]
+    }
   }
 ]
