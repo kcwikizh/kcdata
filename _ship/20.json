@@ -14,7 +14,7 @@ data:
   get_mes: 陽炎型駆逐艦８番艦、雪風です。<br>どうぞ、よろしくお願いしますっ！
   voice_f: 0
   filename: pueufyccujmd
-  file_version: ["14", "12", "314"]
+  file_version: ["14", "12", "406"]
   book_table_id: [20, 1026]
   book_sinfo: 陽炎型駆逐艦８番艦の雪風です。<br>私たち主力艦隊型駆逐艦の中で、十数回以上の主要海戦に参加しながらも、唯一ほとんど無傷で終戦まで生き残りました。<br>奇跡の駆逐艦って？ううん、奇跡じゃないですっ！
   stats:

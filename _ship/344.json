@@ -14,16 +14,16 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: jozbiyweyksl
-  file_version: ["19", "12", "314"]
+  file_version: ["19", "12", "406"]
   book_table_id: 
   book_sinfo: 
   stats:
     taik: [33, 49]
-    souk: [14, 49]
-    houg: [12, 47]
+    souk: [14, 51]
+    houg: [12, 50]
     raig: [28, 78]
     tyku: [22, 62]
-    luck: [18, 68]
+    luck: [18, 74]
     soku: 10
     leng: 1
     kaih: 
