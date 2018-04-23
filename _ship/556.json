@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 556
+  sort_no: 356
+  name: 浦風丁改
+  yomi: うらかぜ
+  stype: 2
+  ctype: 30
+  cnum: 11
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: gncspjbuqlja
+  file_version: ["51", "1", "1"]
+  book_table_id: [556]
+  book_sinfo: 生まれは大阪、所属は呉。真珠湾からガダルカナルまで駆けまわったんじゃ。<br>最期は金剛姉さんを護衛して台湾海峡…<br>まぁ、もうどうにもならんなぁ……。
+  stats:
+    taik: [33, 54]
+    souk: [14, 53]
+    houg: [12, 62]
+    raig: [20, 76]
+    tyku: [26, 76]
+    luck: [18, 84]
+    soku: 10
+    leng: 1
+    kaih: 49
+    tais: 45
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 25
+    broken: [1, 2, 11, 1]
+    pow_up: [1, 1, 2, 1]
+    build_time: 24
+  graph:
+    boko_n: [28, 108]
+    boko_d: [64, 146]
+    kaisyu_n: [36, -2]
+    kaisyu_d: [26, 6]
+    kaizo_n: [8, 48]
+    kaizo_d: [40, 56]
+    map_n: [42, 110]
+    map_d: [80, 138]
+    ensyuf_n: [16, 100]
+    ensyuf_d: [52, 130]
+    ensyue_n: [16, 0]
+    battle_n: [44, 108]
+    battle_d: [80, 140]
+    wed_a: [208, 20]
+    wed_b: [88, 124]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

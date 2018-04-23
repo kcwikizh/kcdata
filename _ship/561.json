@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 561
+  sort_no: 361
+  name: Samuel B.Roberts
+  yomi: サミュエル・B・ロバーツ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 50
+  after_ship_id: 681
+  get_mes: 私ね、ジョン・C・バトラー級護衛駆逐艦、<br>サミュエル・B・ロバーツっ。ね、覚えて！<br>あ、長い？　じゃあ、サムでもいいよ？<br>Nice to meet you！
+  voice_f: 1
+  filename: jfyepyfarffz
+  file_version: ["51", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [14, 27]
+    souk: [5, 17]
+    houg: [8, 24]
+    raig: [12, 38]
+    tyku: [20, 40]
+    luck: [30, 60]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 130
+    after_bull: 160
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 4, 1]
+    pow_up: [1, 1, 1, 0]
+    build_time: 9
+  graph:
+    boko_n: [16, 136]
+    boko_d: [58, 186]
+    kaisyu_n: [6, 0]
+    kaisyu_d: [40, -12]
+    kaizo_n: [18, 60]
+    kaizo_d: [56, 62]
+    map_n: [48, 120]
+    map_d: [92, 144]
+    ensyuf_n: [24, 128]
+    ensyuf_d: [72, 144]
+    ensyue_n: [20, 0]
+    battle_n: [64, 136]
+    battle_d: [100, 152]
+    wed_a: [196, 4]
+    wed_b: [76, 124]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---
