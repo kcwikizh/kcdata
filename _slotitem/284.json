@@ -46,15 +46,17 @@ data:
           -
             -
               id: 3
-              amount: [-1, -1]
+              amount: [12, 18]
             -
               id: 4
-              amount: [-1, -1]
+              amount: [8, 10]
         slotitem:
           -
             id: 3
             amount: 2
-          - 
+          -
+            id: 91
+            amount: 2
       upgrade:
       day:
         - false
@@ -68,9 +70,25 @@ data:
             ship_id: 561
           -
             ship_id: 681
-        - false
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 561
+          -
+            ship_id: 681
+        -
+          -
+            ship_id: 561
+          -
+            ship_id: 681
+        -
+          -
+            ship_id: 561
+          -
+            ship_id: 681
+        -
+          -
+            ship_id: 561
+          -
+            ship_id: 681
   chinese_name: 
 ---

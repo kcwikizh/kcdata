@@ -1,0 +1,36 @@
+---
+layout: json
+order: 285
+data:
+  id: 285
+  sort_no: 285
+  name: 61cm三連装(酸素)魚雷後期型
+  type: [2, 3, 5, 5, 0]
+  rare: 3
+  broken: [2, 2, 2, 1]
+  info: 陳腐化した53cm魚雷の後継として開発された大型の61cm魚雷。<br>その三連装発射管は、駆逐艦の主力兵装として特型駆逐艦「吹雪」型などに搭載されました。その改良型である本兵装は、装填魚雷を「九三式酸素魚雷」に換装、戦訓を取り入れ、改良と調整を重ねた後期型酸素魚雷装備です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 0
+    raig: 9
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name:
+---

@@ -6,8 +6,8 @@ data:
   name: Samuel B.Roberts
   yomi: サミュエル・B・ロバーツ
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 87
+  cnum: 413
   backs: 5
   after_lv: 50
   after_ship_id: 681
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: jfyepyfarffz
   file_version: ["51", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [561, 681]
+  book_sinfo: 護衛駆逐艦、ジョン・C・バトラー級、サミュエル・B・ロバーツです。姉妹はもの凄く多いんだ。船団護衛や対潜哨戒、結構万能なんだよ！で、私はね、TaffyⅢって任務部隊で、護衛空母を守って戦ったんだ。自分より大きくて強い艦たちと。私のことも覚えておいてね。Thanks！
   stats:
     taik: [14, 27]
     souk: [5, 17]
@@ -26,8 +26,8 @@ data:
     luck: [30, 60]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 38
+    tais: 48
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 130
