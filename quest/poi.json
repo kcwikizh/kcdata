@@ -13985,75 +13985,27 @@
       839
     ],
     "requirements": {
-      "category": "and",
-      "list": [
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "1-2",
+        "1-3",
+        "1-4",
+        "1-5"
+      ],
+      "boss": true,
+      "result": "A",
+      "groups": [
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "1-2",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "巡洋艦",
-              "flagship": true
-            },
-            {
-              "ship": "駆逐",
-              "amount": 2
-            }
-          ]
+          "ship": "巡洋艦",
+          "flagship": true
         },
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "1-3",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "巡洋艦",
-              "flagship": true
-            },
-            {
-              "ship": "駆逐",
-              "amount": 2
-            }
-          ]
+          "ship": "駆逐",
+          "amount": 2
         },
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "1-4",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "巡洋艦",
-              "flagship": true
-            },
-            {
-              "ship": "駆逐",
-              "amount": 2
-            }
-          ]
-        },
-        {
-          "category": "sortie",
-          "times": 1,
-          "map": "1-5",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "巡洋艦",
-              "flagship": true
-            },
-            {
-              "ship": "駆逐",
-              "amount": 2
-            }
-          ]
+          "ship": "艦"
         }
       ]
     }
