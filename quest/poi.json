@@ -3469,6 +3469,102 @@
     }
   },
   {
+    "game_id": 191,
+    "wiki_id": "A86",
+    "category": 1,
+    "type": 1,
+    "name": "改装「第十七駆逐隊」、再編始め！",
+    "detail": "改装駆逐隊編成任務：改装した陽炎型駆逐艦「浦風改」「谷風改」、そして対空戦闘の激化に備え、<br>対空兵装を軸に大幅強化改装した「磯風乙改」「浜風乙改」による「第十七駆逐隊」を再編せよ！",
+    "reward_fuel": 170,
+    "reward_ammo": 170,
+    "reward_steel": 170,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 1
+      },
+      {
+        "name": "補強増設",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      680
+    ],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "浦風改",
+          "amount": 1
+        },
+        {
+          "ship": "谷風改",
+          "amount": 1
+        },
+        {
+          "ship": "磯風乙改",
+          "amount": 1
+        },
+        {
+          "ship": "浜風乙改",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 192,
+    "wiki_id": "A87",
+    "category": 1,
+    "type": 1,
+    "name": "精鋭「第十八駆逐隊」を編成せよ！",
+    "detail": "精鋭駆逐隊編成任務：「霰改二」「霞改二/改二乙」「陽炎改」「不知火改」4隻による精鋭「第十八駆逐隊」を編成せよ！",
+    "reward_fuel": 180,
+    "reward_ammo": 0,
+    "reward_steel": 180,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "補強増設",
+            "amount": 1
+          },
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      805
+    ],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "霰改二",
+          "amount": 1
+        },
+        {
+          "ship": "霞改二/改二乙",
+          "amount": 1
+        },
+        {
+          "ship": "陽炎改",
+          "amount": 1
+        },
+        {
+          "ship": "不知火改",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  {
     "game_id": 201,
     "wiki_id": "Bd01",
     "category": 2,
@@ -7144,6 +7240,35 @@
     }
   },
   {
+    "game_id": 315,
+    "wiki_id": "C19",
+    "category": 3,
+    "type": 1,
+    "name": "春季大演習",
+    "detail": "春季大演習：春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 1000,
+    "reward_bauxite": 300,
+    "reward_other": [
+      {
+        "name": "給糧艦「間宮」",
+        "amount": 1
+      },
+      {
+        "name": "プレゼント箱",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [],
+    "requirements": {
+      "category": "excercise",
+      "times": 8,
+      "victory": true,
+      "daily": true
+    }
+  },
+  {
     "game_id": 316,
     "wiki_id": "C13",
     "category": 3,
@@ -7400,6 +7525,53 @@
         },
         {
           "ship": "初霜改二"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 320,
+    "wiki_id": "C18",
+    "category": 3,
+    "type": 1,
+    "name": "駆逐隊、特訓始め！",
+    "detail": "駆逐隊演習任務：駆逐艦4隻で編成される駆逐隊。この駆逐隊を含む艦隊を編成。特訓を開始する！同艦隊で本日中に演習にて4回以上勝利せよ！",
+    "reward_fuel": 100,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "高速建造材",
+        "amount": 3
+      },
+      {
+        "choices": [
+          {
+            "name": "改修資材",
+            "amount": 2
+          },
+          {
+            "name": "開発資材",
+            "amount": 4
+          }
+        ]
+      }
+    ],
+    "prerequisite": [],
+    "requirements": {
+      "category": "excercise",
+      "times": 4,
+      "victory": true,
+      "daily": true,
+      "groups": [
+        {
+          "ship": "駆逐",
+          "amount": 4
+        },
+        {
+          "ship": "艦",
+          "amount": 2
         }
       ]
     }
@@ -11341,6 +11513,67 @@
     }
   },
   {
+    "game_id": 680,
+    "wiki_id": "F72",
+    "category": 6,
+    "type": 7,
+    "name": "対空兵装の整備拡充",
+    "detail": "対空兵装の整備拡充を継続実施する!「機銃」系装備x4、「電探」系装備x4を廃棄、ボーキサイト1,500を準備せよ!※任務達成後、準備した資源は消費します。",
+    "reward_fuel": 0,
+    "reward_ammo": 200,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "10cm連装高角砲",
+            "amount": 2
+          },
+          {
+            "name": "12cm30連装噴進砲",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "8cm高角砲",
+            "amount": 2
+          },
+          {
+            "name": "開発資材",
+            "amount": 6
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      605,
+      679
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "機銃",
+          "amount": 4
+        },
+        {
+          "name": "電探",
+          "amount": 4
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        0,
+        1500
+      ]
+    }
+  },
+  {
     "game_id": 701,
     "wiki_id": "G01",
     "category": 7,
@@ -13754,75 +13987,27 @@
       839
     ],
     "requirements": {
-      "category": "and",
-      "list": [
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "1-2",
+        "1-3",
+        "1-4",
+        "1-5"
+      ],
+      "boss": true,
+      "result": "A",
+      "groups": [
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "1-2",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "巡洋艦",
-              "flagship": true
-            },
-            {
-              "ship": "駆逐",
-              "amount": 2
-            }
-          ]
+          "ship": "巡洋艦",
+          "flagship": true
         },
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "1-3",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "巡洋艦",
-              "flagship": true
-            },
-            {
-              "ship": "駆逐",
-              "amount": 2
-            }
-          ]
+          "ship": "駆逐",
+          "amount": 2
         },
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "1-4",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "巡洋艦",
-              "flagship": true
-            },
-            {
-              "ship": "駆逐",
-              "amount": 2
-            }
-          ]
-        },
-        {
-          "category": "sortie",
-          "times": 1,
-          "map": "1-5",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "巡洋艦",
-              "flagship": true
-            },
-            {
-              "ship": "駆逐",
-              "amount": 2
-            }
-          ]
+          "ship": "艦"
         }
       ]
     }
@@ -15198,8 +15383,7 @@
           "result": "S",
           "groups": [
             {
-              "ship": "長波改二",
-              "flagship": true
+              "ship": "長波改二"
             },
             {
               "ship": [
@@ -15565,6 +15749,153 @@
               "amount": [1,99]
             }
           ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 880,
+    "wiki_id": "B115",
+    "category": 2,
+    "type": 1,
+    "name": "精鋭駆逐隊、獅子奮迅！",
+    "detail": "十分な装備と練度を誇る駆逐艦4隻からなる精鋭駆逐隊を含む艦隊を編成。鎮守府近海航路、東部オリョール海、北方キス島沖、西方カレー洋に投入、各戦線の作戦展開を成功させよ！",
+    "reward_fuel": 480,
+    "reward_ammo": 480,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          },
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          },
+          {
+            "name": "勲章",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      320,
+      680
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "map": "1-6",
+          "times": 1,
+          "groups": [
+            {
+              "ship": "駆逐",
+              "amount": 4
+            },
+            {
+              "ship": "艦",
+              "amount": 2
+            }
+          ],
+          "result": "クリア"
+        },
+        {
+          "category": "sortie",
+          "map": [
+            "2-3",
+            "3-2",
+            "4-2"
+          ],
+          "times": 1,
+          "boss": true,
+          "result": "A",
+          "groups": [
+            {
+              "ship": "駆逐",
+              "amount": 4
+            },
+            {
+              "ship": "艦",
+              "amount": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 881,
+    "wiki_id": "B116",
+    "category": 2,
+    "type": 1,
+    "name": "「十八駆」、北方海域キス島へ！",
+    "detail": "精鋭「第十八駆逐隊」を投入し、北方海域キス島撤退作戦を実施する！同作戦に反復出動し、キス島撤退作戦を完全成功させよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 480,
+    "reward_bauxite": 480,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "大発動艇",
+            "category": "装備",
+            "amount": 1
+          },
+          {
+            "name": "10cm連装高角砲改＋増設機銃",
+            "category": "装備",
+            "amount": 1
+          },
+          {
+            "name": "改修資材",
+            "amount": 5
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      192,
+      230
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 2,
+      "map": [
+        "3-2"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": "霰改二",
+          "amount": 1
+        },
+        {
+          "ship": "霞改二/改二乙",
+          "amount": 1
+        },
+        {
+          "ship": "陽炎改",
+          "amount": 1
+        },
+        {
+          "ship": "不知火改",
+          "amount": 1
         }
       ]
     }

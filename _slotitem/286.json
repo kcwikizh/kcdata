@@ -1,0 +1,36 @@
+---
+layout: json
+order: 286
+data:
+  id: 286
+  sort_no: 286
+  name: 61cm四連装(酸素)魚雷後期型
+  type: [2, 3, 5, 5, 0]
+  rare: 3
+  broken: [2, 3, 2, 1]
+  info: 大威力長射程を誇る、秘密兵器「九三式酸素魚雷」。<br>その必殺の酸素魚雷を四連装した水雷兵装の決定版が、この四連装【酸素魚雷】発射管です。<br>本兵装は戦訓を取り入れ、実戦的な改良と調整を重ねた後期型酸素魚雷装備です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 0
+    raig: 11
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name:
+---

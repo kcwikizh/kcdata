@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: bnbdxfioqxtt
-  file_version: ["27", "21", "314"]
+  file_version: ["28", "21", "423"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 4]
     build_time: 260
   graph:
-    boko_n: [-80, 80]
-    boko_d: [-45, 92]
+    boko_n: [192, 124]
+    boko_d: [192, 124]
     kaisyu_n: [11, -7]
     kaisyu_d: [32, 28]
-    kaizo_n: [-104, 18]
-    kaizo_d: [-83, 4]
-    map_n: [-107, 39]
-    map_d: [-67, 59]
-    ensyuf_n: [-71, 32]
-    ensyuf_d: [8, 28]
-    ensyue_n: [-79, 0]
-    battle_n: [-89, 80]
-    battle_d: [-86, 80]
-    wed_a: [293, 49]
-    wed_b: [113, 125]
+    kaizo_n: [136, 60]
+    kaizo_d: [128, 40]
+    map_n: [148, 108]
+    map_d: [148, 108]
+    ensyuf_n: [152, 116]
+    ensyuf_d: [152, 116]
+    ensyue_n: [140, 0]
+    battle_n: [172, 128]
+    battle_d: [172, 128]
+    wed_a: [80, 8]
+    wed_b: [84, 128]
   wiki_id: "027a"
   chinese_name: 山城改
   can_drop: false

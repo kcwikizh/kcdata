@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 198
+  sort_no: 198
+  name: 霰改二
+  yomi: あられ
+  stype: 2
+  ctype: 18
+  cnum: 9
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: wewrcinqshhk
+  file_version: ["2", "1", "423"]
+  book_table_id: [198]
+  book_sinfo: 霰は、マル２計画で建造された最後の駆逐艦…。<br>朝潮型シリーズの…最終艦でも…あるの…。<br>この後は…陽炎型だから…
+  stats:
+    taik: [31, 53]
+    souk: [14, 53]
+    houg: [16, 66]
+    raig: [32, 87]
+    tyku: [20, 63]
+    luck: [15, 68]
+    soku: 10
+    leng: 1
+    kaih: 46
+    tais: 33
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [118, 140]
+    boko_d: [126, 90]
+    kaisyu_n: [20, 12]
+    kaisyu_d: [40, 4]
+    kaizo_n: [82, 76]
+    kaizo_d: [90, 8]
+    map_n: [112, 124]
+    map_d: [120, 80]
+    ensyuf_n: [92, 128]
+    ensyuf_d: [108, 72]
+    ensyue_n: [92, 0]
+    battle_n: [136, 140]
+    battle_d: [132, 90]
+    wed_a: [124, -8]
+    wed_b: [84, 124]
+  wiki_id: "198"
+  chinese_name: 霰改二
+  can_drop: false
+  can_construct: false
+---

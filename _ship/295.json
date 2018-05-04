@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: qgkmjgfbanxl
-  file_version: ["9", "4", "314"]
+  file_version: ["9", "4", "423"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [115, 124]
   wiki_id: "120a"
   chinese_name: 衣笠改
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

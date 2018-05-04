@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 380
+  type: 3
+  no: 79
+  title: 「五周年記念」掛け軸
+  description: 遂に艦隊は五周年を迎える<br>こととなりました！提督、<br>ありがとうございました！<br>5th Anniversary!<br>Thank you so,so much!
+  rarity: 5
+  price: 50000
+  saleflg: 0
+  season: 0
+  filename: "080"
+  file_version: 1
+---

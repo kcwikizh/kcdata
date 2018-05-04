@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 681
+  sort_no: 1481
+  name: Samuel B.Roberts改
+  yomi: サミュエル・B・ロバーツ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: xuwacqygfvpt
+  file_version: ["51", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [27, 42]
+    souk: [12, 43]
+    houg: [10, 50]
+    raig: [24, 70]
+    tyku: [28, 60]
+    luck: [40, 80]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 7, 1]
+    pow_up: [1, 2, 1, 0]
+    build_time: 9
+  graph:
+    boko_n: [16, 136]
+    boko_d: [34, 186]
+    kaisyu_n: [6, 0]
+    kaisyu_d: [40, -12]
+    kaizo_n: [18, 60]
+    kaizo_d: [32, 62]
+    map_n: [48, 120]
+    map_d: [68, 144]
+    ensyuf_n: [24, 128]
+    ensyuf_d: [48, 144]
+    ensyue_n: [20, 0]
+    battle_n: [64, 136]
+    battle_d: [76, 152]
+    wed_a: [196, 4]
+    wed_b: [76, 124]
+  wiki_id: "361a"
+  chinese_name: 塞缪尔·B·罗伯茨改
+  can_drop: false
+  can_construct: false
+---
