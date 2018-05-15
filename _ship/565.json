@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 565
+  sort_no: 365
+  name: 福江
+  yomi: ふかえ
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 48
+  after_ship_id: 685
+  get_mes: 択捉型海防艦、福江。着任！<br>司令、あたしは負けないから……。負けるもんかッ！
+  voice_f: 1
+  filename: gefbfrjlqonb
+  file_version: ["51", "2", "2"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [9, 18]
+    souk: [4, 16]
+    houg: [4, 16]
+    raig: [0, 0]
+    tyku: [7, 28]
+    luck: [36, 78]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 75
+    after_bull: 105
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 0, 0]
+    build_time: 14
+  graph:
+    boko_n: [50, 73]
+    boko_d: [47, 78]
+    kaisyu_n: [-18, -32]
+    kaisyu_d: [44, -60]
+    kaizo_n: [8, -12]
+    kaizo_d: [32, -16]
+    map_n: [36, 42]
+    map_d: [104, 16]
+    ensyuf_n: [16, 42]
+    ensyuf_d: [78, 14]
+    ensyue_n: [10, 0]
+    battle_n: [32, 44]
+    battle_d: [100, 32]
+    wed_a: [216, 82]
+    wed_b: [82, 136]
+  wiki_id: "365"
+  chinese_name: 福江
+  can_drop: false
+  can_construct: false
+---

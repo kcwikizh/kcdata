@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 381
+  type: 3
+  no: 80
+  title: 「完食」掛け軸
+  description: 素晴らしい食材による美味<br>しい料理を力一杯食べて、<br>満足した何者かの手による<br>大型の特別な掛け軸。高い<br>満足感が伝わる逸品です。
+  rarity: 5
+  price: 10000
+  saleflg: 0
+  season: 0
+  filename: 
+  file_version: ""
+---

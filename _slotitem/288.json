@@ -1,0 +1,36 @@
+---
+layout: json
+order: 288
+data:
+  id: 288
+  sort_no: 288
+  name: 試製15cm9連装対潜噴進砲
+  type: [7, 32, 15, 17, 0]
+  rare: 4
+  broken: [0, 9, 3, 2]
+  info: 爆雷投下軌条は艦の後方、従来型の三式爆雷投射機は艦の舷側方向に爆雷を投射可能でしたが、艦首方向にも爆雷を投射可能な新対潜装備が本噴進爆雷砲です。<br>まだ、試作段階で欧米の同種兵装に比べて発展途上ではありますが、和製ヘッジホッグに発展する可能性もあった兵装です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 15
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

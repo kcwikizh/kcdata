@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 567
+  sort_no: 367
+  name: 不知火改二
+  yomi: しらぬい
+  stype: 2
+  ctype: 30
+  cnum: 2
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: ikijoyxyysig
+  file_version: ["51", "1", "423"]
+  book_table_id: [567]
+  book_sinfo: 陽炎型駆逐艦２番艦、不知火です。<br>陽炎らと共にハワイ作戦部隊の護衛も務めました。<br>運命のレイテ沖海戦では志摩艦隊に所属、スリガオ海峡に突入しました。
+  stats:
+    taik: [33, 55]
+    souk: [14, 54]
+    houg: [18, 67]
+    raig: [30, 91]
+    tyku: [20, 64]
+    luck: [24, 88]
+    soku: 10
+    leng: 1
+    kaih: 49
+    tais: 30
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [80, 150]
+    boko_d: [140, 166]
+    kaisyu_n: [2, 0]
+    kaisyu_d: [46, -16]
+    kaizo_n: [52, 72]
+    kaizo_d: [128, 72]
+    map_n: [64, 140]
+    map_d: [164, 140]
+    ensyuf_n: [56, 132]
+    ensyuf_d: [132, 132]
+    ensyue_n: [56, 0]
+    battle_n: [80, 152]
+    battle_d: [166, 152]
+    wed_a: [176, -12]
+    wed_b: [76, 116]
+  wiki_id: "367"
+  chinese_name: 不知火改二
+  can_drop: false
+  can_construct: false
+---

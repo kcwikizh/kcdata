@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 685
+  sort_no: 1485
+  name: 福江改
+  yomi: ふかえ
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: cvglhkjvdhbi
+  file_version: ["51", "2", "2"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [17, 28]
+    souk: [7, 34]
+    houg: [5, 35]
+    raig: [0, 0]
+    tyku: [12, 55]
+    luck: [40, 84]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [50, 73]
+    boko_d: [47, 78]
+    kaisyu_n: [-18, -32]
+    kaisyu_d: [44, -60]
+    kaizo_n: [8, 12]
+    kaizo_d: [32, -16]
+    map_n: [36, 42]
+    map_d: [104, 16]
+    ensyuf_n: [16, 42]
+    ensyuf_d: [78, 14]
+    ensyue_n: [10, 0]
+    battle_n: [32, 44]
+    battle_d: [100, 32]
+    wed_a: [216, 82]
+    wed_b: [82, 136]
+  wiki_id: "365a"
+  chinese_name: 福江改
+  can_drop: false
+  can_construct: false
+---
