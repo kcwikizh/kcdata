@@ -14419,7 +14419,7 @@
         {
           "category": "sortie",
           "times": 1,
-          "map": "4-5",
+          "map": ["4-5", "6-2"],
           "boss": true,
           "result": "S",
           "groups": [
@@ -14428,31 +14428,17 @@
               "flagship": true
             },
             {
-              "ship": [
-                "鈴谷改二(二番艦)",
-                "最上改",
-                "三隈改"
-              ]
-            }
-          ]
-        },
-        {
-          "category": "sortie",
-          "times": 1,
-          "map": "6-2",
-          "boss": true,
-          "result": "S",
-          "groups": [
-            {
-              "ship": "熊野改二",
-              "flagship": true
+              "ship": "鈴谷改二(二番艦)"
             },
             {
-              "ship": [
-                "鈴谷改二(二番艦)",
-                "最上改",
-                "三隈改"
-              ]
+              "ship": "最上改"
+            },
+            {
+              "ship": "三隈改"
+            },
+            {
+              "ship": "艦",
+              "amount": 2
             }
           ]
         }
