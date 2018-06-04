@@ -1,0 +1,36 @@
+---
+layout: json
+order: 289
+data:
+  id: 289
+  sort_no: 289
+  name: 35.6cm三連装砲改(ダズル迷彩仕様)
+  type: [1, 1, 3, 3, 0]
+  rare: 4
+  broken: [0, 16, 20, 2]
+  info: 「金剛」型高速戦艦の代替新造艦装備のために計画されていた三連装35.6cm主砲、その改二以降用if改良強化型兵装です。<br>射撃精度が向上、効果のほどは不明ですが、最期まで呉軍港で防戦に努めた「榛名」前部主砲最終仕様と同様のゼブラ模様のダズル迷彩も施しています。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 19
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 5
+    tais: 0
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  improvement: 
+  chinese_name:
+---

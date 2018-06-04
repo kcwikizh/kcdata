@@ -55,6 +55,6 @@ data:
     wed_b: [100, 112]
   wiki_id: "334"
   chinese_name: 择捉
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

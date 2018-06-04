@@ -1,0 +1,36 @@
+---
+layout: json
+order: 290
+data:
+  id: 290
+  sort_no: 290
+  name: 41cm三連装砲改二
+  type: [1, 1, 3, 3, 0]
+  rare: 5
+  broken: [0, 20, 22, 6]
+  info: 呉海軍工廠砲熕部で開発された純国産戦艦用三連装主砲、その改修改良型です。if兵装ではありますが、軽量化及び射撃装置を熟成改良した同改良砲を、航空戦艦への装備、特に伊勢型航空戦艦に最適化改修した戦艦主砲兵装です。特に大規模改装後の伊勢型改二では、その潜在能力を遺憾なく発揮します。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 23
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 6
+    tais: 0
+    atap: 0
+    houm: 5
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  improvement: 
+  chinese_name:
+---
