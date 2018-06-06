@@ -3547,7 +3547,7 @@
           "amount": 1
         },
         {
-          "ship": "霞改二/改二乙",
+          "ship": ["霞改二", "霞改二乙"],
           "amount": 1
         },
         {
@@ -7366,51 +7366,12 @@
         {
           "category": "sortie",
           "times": 1,
-          "map": "2-2",
+          "map": ["2-2", "2-3", "2-4", "2-5"],
           "boss": true,
           "result": "A",
           "groups": [
             {
-              "ship": "夕雲型/陽炎型",
-              "amount": 2
-            }
-          ]
-        },
-        {
-          "category": "sortie",
-          "times": 1,
-          "map": "2-3",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "夕雲型/陽炎型",
-              "amount": 2
-            }
-          ]
-        },
-        {
-          "category": "sortie",
-          "times": 1,
-          "map": "2-4",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "夕雲型/陽炎型",
-              "amount": 2
-            }
-          ]
-        },
-        {
-          "category": "sortie",
-          "times": 1,
-          "map": "2-5",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "夕雲型/陽炎型",
+              "shipclass": ["夕雲", "陽炎"],
               "amount": 2
             }
           ]
@@ -10349,7 +10310,7 @@
           "convert": true
         }
       ],
-      "secretary": "伊401 / 伊14 / 伊13"
+      "secretary": ["伊401", "伊14", "伊13"]
     }
   },
   {
@@ -11703,7 +11664,7 @@
       "ship": "空母",
       "consumptions": [
         {
-          "ship": "轻母/空母",
+          "ship": ["軽母", "空母"],
           "amount": 5
         }
       ],
@@ -14948,50 +14909,16 @@
         {
           "category": "sortie",
           "times": 1,
-          "map": "1-3",
+          "map": ["1-3", "1-4", "1-5"],
           "boss": true,
           "result": "A",
           "groups": [
             {
-              "ship": "軽巡洋艦",
+              "ship": "軽巡",
               "flagship": true
             },
             {
-              "ship": "駆逐艦/海防艦",
-              "amount": 2
-            }
-          ]
-        },
-        {
-          "category": "sortie",
-          "times": 1,
-          "map": "1-4",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "軽巡洋艦",
-              "flagship": true
-            },
-            {
-              "ship": "駆逐艦/海防艦",
-              "amount": 2
-            }
-          ]
-        },
-        {
-          "category": "sortie",
-          "times": 1,
-          "map": "1-5",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "軽巡洋艦",
-              "flagship": true
-            },
-            {
-              "ship": "駆逐艦/海防艦",
+              "ship": ["駆逐", "海防"],
               "amount": 2
             }
           ]
@@ -15869,7 +15796,7 @@
           "amount": 1
         },
         {
-          "ship": "霞改二/改二乙",
+          "ship": ["霞改二", "霞改二乙"],
           "amount": 1
         },
         {
