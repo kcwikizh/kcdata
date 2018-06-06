@@ -3015,7 +3015,8 @@
           "flagship": true
         },
         {
-          "ship": "鈴谷改二"
+          "ship": "鈴谷改二",
+          "place": 2
         },
         {
           "ship": "最上改"
@@ -3056,7 +3057,14 @@
       "category": "fleet",
       "groups": [
         {
-          "ship": "伊勢改、日向改(旗艦及二番艦、練度50以上)"
+          "ship": ["伊勢改", "日向改"],
+          "flagship": true,
+          "lv": [50, 999]
+        },
+        {
+          "ship": ["伊勢改", "日向改"],
+          "place": 2,
+          "lv": [50, 999]
         },
         {
           "ship": "軽巡",
@@ -14153,39 +14161,19 @@
       855
     ],
     "requirements": {
-      "category": "and",
-      "list": [
+      "category": "sortie",
+      "times": 1,
+      "map": ["4-5", "5-5"],
+      "boss": true,
+      "result": "S",
+      "groups": [
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "4-5",
-          "boss": true,
-          "result": "S",
-          "groups": [
-            {
-              "ship": "長門改二",
-              "flagship": true
-            },
-            {
-              "ship": "陸奥改(二番艦)"
-            }
-          ]
+          "ship": "長門改二",
+          "flagship": true
         },
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "5-5",
-          "boss": true,
-          "result": "S",
-          "groups": [
-            {
-              "ship": "長門改二",
-              "flagship": true
-            },
-            {
-              "ship": "陸奥改(二番艦)"
-            }
-          ]
+          "ship": "陸奥改",
+          "place": 2
         }
       ]
     }
@@ -14389,7 +14377,8 @@
               "flagship": true
             },
             {
-              "ship": "鈴谷改二(二番艦)"
+              "ship": "鈴谷改二",
+              "place": 2
             },
             {
               "ship": "最上改"
@@ -14439,47 +14428,29 @@
       182
     ],
     "requirements": {
-      "category": "and",
-      "list": [
+      "category": "sortie",
+      "times": 1,
+      "map": ["2-5", "3-5"],
+      "boss": true,
+      "result": "A",
+      "groups": [
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "2-5",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "伊勢改、日向改(旗艦及二番艦、練度50以上)"
-            },
-            {
-              "ship": "軽巡",
-              "amount": 1
-            },
-            {
-              "ship": "駆逐",
-              "amount": 2
-            }
-          ]
+          "ship": ["伊勢改", "日向改"],
+          "flagship": true,
+          "lv": [50, 999]
         },
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "3-5",
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "伊勢改、日向改(旗艦及二番艦、練度50以上)"
-            },
-            {
-              "ship": "軽巡",
-              "amount": 1
-            },
-            {
-              "ship": "駆逐",
-              "amount": 2
-            }
-          ]
+          "ship": ["伊勢改", "日向改"],
+          "place": 2,
+          "lv": [50, 999]
+        },
+        {
+          "ship": "軽巡",
+          "amount": 1
+        },
+        {
+          "ship": "駆逐",
+          "amount": 2
         }
       ]
     }
@@ -14904,24 +14875,19 @@
     ],
     "prerequisite": [],
     "requirements": {
-      "category": "and",
-      "list": [
+      "category": "sortie",
+      "times": 1,
+      "map": ["1-3", "1-4", "1-5"],
+      "boss": true,
+      "result": "A",
+      "groups": [
         {
-          "category": "sortie",
-          "times": 1,
-          "map": ["1-3", "1-4", "1-5"],
-          "boss": true,
-          "result": "A",
-          "groups": [
-            {
-              "ship": "軽巡",
-              "flagship": true
-            },
-            {
-              "ship": ["駆逐", "海防"],
-              "amount": 2
-            }
-          ]
+          "ship": "軽巡",
+          "flagship": true
+        },
+        {
+          "ship": ["駆逐", "海防"],
+          "amount": 2
         }
       ]
     }
