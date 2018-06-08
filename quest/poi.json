@@ -1621,11 +1621,11 @@
       "category": "fleet",
       "groups": [
         {
-          "ship": [
-            "大和型",
-            "長門型",
-            "伊勢型",
-            "扶桑型"
+          "shipclass": [
+            "大和",
+            "長門",
+            "伊勢",
+            "扶桑"
           ],
           "amount": 3
         },
@@ -3229,7 +3229,10 @@
       "category": "fleet",
       "groups": [
         {
-          "ship": "Saratoga　Mk.Ⅱ 或 Mod.2",
+          "ship": [
+            "Saratoga Mk.II",
+            "Saratoga Mk.II Mod.2"
+          ],
           "flagship": true
         },
         {
@@ -3328,7 +3331,7 @@
       "category": "fleet",
       "groups": [
         {
-          "ship": "(第三艦隊)最上"
+          "ship": "最上"
         },
         {
           "ship": "時雨"
@@ -3342,7 +3345,8 @@
         {
           "ship": "山雲"
         }
-      ]
+      ],
+      "fleetid": 3
     }
   },
   {
@@ -5503,11 +5507,11 @@
       "times": 1,
       "groups": [
         {
-          "ship": [
-            "大和型",
-            "長門型",
-            "伊勢型",
-            "扶桑型"
+          "shipclass": [
+            "大和",
+            "長門",
+            "伊勢",
+            "扶桑"
           ],
           "amount": 3
         },
@@ -10766,7 +10770,7 @@
       "category": "equipexchange",
       "scraps": [
         {
-          "name": "小口径主炮",
+          "name": "小口径主砲",
           "amount": 16
         }
       ],
@@ -10866,7 +10870,7 @@
       "category": "equipexchange",
       "scraps": [
         {
-          "name": "機銃",
+          "name": "対空機銃",
           "amount": 10
         }
       ],
@@ -11141,7 +11145,7 @@
       ],
       "scraps": [
         {
-          "name": "電探系装備",
+          "name": "電探",
           "amount": 3
         },
         {
@@ -11221,7 +11225,7 @@
       "category": "equipexchange",
       "scraps": [
         {
-          "name": "機銃",
+          "name": "対空機銃",
           "amount": 3
         }
       ],
@@ -11277,7 +11281,7 @@
           "amount": 6
         },
         {
-          "name": "機銃",
+          "name": "対空機銃",
           "amount": 4
         }
       ],
@@ -11553,7 +11557,7 @@
       "category": "equipexchange",
       "scraps": [
         {
-          "name": "機銃",
+          "name": "対空機銃",
           "amount": 4
         },
         {
@@ -14626,7 +14630,11 @@
           "map": "1-6",
           "groups": [
             {
-              "ship": "航空戦艦2隻或補給艦"
+              "ship": [
+                "航空戦艦",
+                "補給艦"
+              ],
+              "amount": 2
             }
           ]
         }
@@ -15073,7 +15081,10 @@
           "result": "S",
           "groups": [
             {
-              "ship": "朝潮改二(丁)"
+              "ship": [
+                "朝潮改二",
+                "朝潮改二丁"
+              ]
             },
             {
               "ship": "満潮改二"
@@ -15094,7 +15105,10 @@
           "result": "S",
           "groups": [
             {
-              "ship": "朝潮改二(丁)"
+              "ship": [
+                "朝潮改二",
+                "朝潮改二丁"
+              ]
             },
             {
               "ship": "満潮改二"
@@ -15159,7 +15173,7 @@
               "amount": 1
             },
             {
-              "ship": "自由艦",
+              "ship": "艦",
               "amount": 5
             }
           ]
@@ -15193,7 +15207,7 @@
               "amount": 1
             },
             {
-              "ship": "自由艦",
+              "ship": "艦",
               "amount": 5
             }
           ]
