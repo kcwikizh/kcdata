@@ -14809,49 +14809,29 @@
       216
     ],
     "requirements": {
-      "category": "and",
-      "list": [
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "5-5",
+        "6-2"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "5-5",
-          "boss": true,
-          "result": "S",
-          "groups": [
-            {
-              "ship": "Saratoga　Mk.Ⅱ 或 Mod.2",
-              "flagship": true
-            },
-            {
-              "ship": "軽巡洋艦",
-              "amount": 1
-            },
-            {
-              "ship": "駆逐艦",
-              "amount": 2
-            }
-          ]
+          "ship": [
+            "Saratoga Mk.II",
+            "Saratoga Mk.II Mod.2"
+          ],
+          "flagship": true
         },
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "6-2",
-          "boss": true,
-          "result": "S",
-          "groups": [
-            {
-              "ship": "Saratoga　Mk.Ⅱ 或 Mod.2",
-              "flagship": true
-            },
-            {
-              "ship": "軽巡洋艦",
-              "amount": 1
-            },
-            {
-              "ship": "駆逐艦",
-              "amount": 2
-            }
-          ]
+          "ship": "軽巡洋艦",
+          "amount": 1
+        },
+        {
+          "ship": "駆逐艦",
+          "amount": 2
         }
       ]
     }
@@ -14906,20 +14886,15 @@
       864
     ],
     "requirements": {
-      "category": "and",
-      "list": [
+      "category": "sortie",
+      "times": 1,
+      "map": "6-5",
+      "boss": true,
+      "result": "S",
+      "groups": [
         {
-          "category": "sortie",
-          "times": 1,
-          "map": "6-5",
-          "boss": true,
-          "result": "S",
-          "groups": [
-            {
-              "ship": "Saratoga　Mk.Ⅱ",
-              "flagship": true
-            }
-          ]
+          "ship": "Saratoga Mk.II",
+          "flagship": true
         }
       ]
     }
