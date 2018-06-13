@@ -59,7 +59,9 @@ data:
             amount: 3
       upgrade:
       day:
-        - 
+        -
+          -
+            ship_id: 566
         -
           -
             ship_id: 145
@@ -75,8 +77,12 @@ data:
         -
           -
             ship_id: 543
+          -
+            ship_id: 566
         -
           -
             ship_id: 543
+          -
+            ship_id: 566
   chinese_name: 
 ---

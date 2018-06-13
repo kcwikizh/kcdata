@@ -1,0 +1,36 @@
+---
+layout: json
+order: 291
+data:
+  id: 291
+  sort_no: 291
+  name: 彗星二二型(六三四空)
+  type: [3, 5, 7, 7, 16]
+  rare: 3
+  broken: [2, 4, 0, 3]
+  info: 「九九艦爆」の後継として開発された高速性能を誇る水冷エンジンの艦上爆撃機「彗星」。<br>本艦爆隊は、航空戦艦搭載用に改修された彗星艦爆二二型で、航空戦艦運用のための練成を重ねた第六三四航空隊です。消耗せずに航空戦艦のために磨き上げた彗星艦爆隊を、ぜひ存分に活用ください！
+  usebull: 0
+  cost: 5
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 11
+    tyku: 1
+    tais: 4
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  improvement: 
+  chinese_name:
+---

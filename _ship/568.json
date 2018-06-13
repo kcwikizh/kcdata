@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 568
+  sort_no: 368
+  name: 黒潮改二
+  yomi: くろしお
+  stype: 2
+  ctype: 30
+  cnum: 3
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: wtecnrsoyugp
+  file_version: ["51", "1", "613"]
+  book_table_id: [568]
+  book_sinfo: 大阪の民間造船所で建造された、陽炎型駆逐艦の３番艦、黒潮や。<br>こう見えても、スラバヤ沖海戦、南太平洋海戦、第三次ソロモン海戦などの激戦に参加したんやで。
+  stats:
+    taik: [33, 55]
+    souk: [14, 53]
+    houg: [18, 69]
+    raig: [30, 88]
+    tyku: [20, 65]
+    luck: [22, 81]
+    soku: 10
+    leng: 1
+    kaih: 48
+    tais: 31
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [79, 151]
+    boko_d: [12, 144]
+    kaisyu_n: [18, 0]
+    kaisyu_d: [3, -7]
+    kaizo_n: [50, 74]
+    kaizo_d: [-6, 43]
+    map_n: [43, 132]
+    map_d: [-59, 122]
+    ensyuf_n: [53, 133]
+    ensyuf_d: [-30, 120]
+    ensyue_n: [72, 0]
+    battle_n: [72, 128]
+    battle_d: [-21, 112]
+    wed_a: [185, -7]
+    wed_b: [65, 95]
+  wiki_id: "368"
+  chinese_name: 黑潮改二
+  can_drop: false
+  can_construct: false
+---

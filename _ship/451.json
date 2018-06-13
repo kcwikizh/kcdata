@@ -14,7 +14,7 @@ data:
   get_mes: 提督、お疲れさまです。<br>水上機母艦、瑞穂、推参致しました。<br>どうぞよろしくお願い申し上げます。
   voice_f: 1
   filename: zqwwomufsbpq
-  file_version: ["41", "10", "423"]
+  file_version: ["42", "10", "613"]
   book_table_id: [451, 950, 975, 984, 987, 997, 900, 890, 877, 859, 833, 813, 763]
   book_sinfo: 水上機母艦、瑞穂です。千歳、千代田に続いて建造された、甲標的も運用可能な特殊水上機母艦です。新機軸の機関部があまり上手くいかなくって……でも、開戦初頭の南方作戦などに参加致しました。お役に立てるよう頑張りますね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 2]
     build_time: 140
   graph:
-    boko_n: [0, 88]
+    boko_n: [8, 60]
     boko_d: [0, 104]
     kaisyu_n: [12, -8]
     kaisyu_d: [24, -4]
-    kaizo_n: [-48, 24]
+    kaizo_n: [-32, 8]
     kaizo_d: [-48, 40]
-    map_n: [-32, 72]
+    map_n: [-48, 40]
     map_d: [-32, 88]
-    ensyuf_n: [-48, 64]
+    ensyuf_n: [-56, 40]
     ensyuf_d: [-48, 80]
-    ensyue_n: [-48, 0]
-    battle_n: [-24, 80]
+    ensyue_n: [-64, 0]
+    battle_n: [-32, 56]
     battle_d: [-24, 96]
-    wed_a: [256, 40]
-    wed_b: [120, 120]
+    wed_a: [256, 92]
+    wed_b: [112, 112]
   wiki_id: "251"
   chinese_name: 瑞穗
   can_drop: true

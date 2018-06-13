@@ -8,7 +8,7 @@ data:
   description: 椅子だけで執務はできませ<br>ん！色々な資料を広げられ<br>る立派な机と椅子のセット<br>をどうぞ。これなら艦隊指<br>揮もぱっちりとれそうです！
   rarity: 2
   price: 200
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "003"
   file_version: 2

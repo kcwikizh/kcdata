@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 553
+  sort_no: 353
+  name: 伊勢改二
+  yomi: いせ
+  stype: 10
+  ctype: 2
+  cnum: 1
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 0
+  filename: efpfrkdoamqz
+  file_version: ["51", "1", "613"]
+  book_table_id: [553]
+  book_sinfo: 洋上航空戦力強化のために、主砲を一部外して、かわりに飛行甲板を設置、軽空母並の航空戦力を運用可能な航空戦艦、伊勢です。<br>海自の新鋭ＤＤＨにもその名は受け継がれているわ。
+  stats:
+    taik: [78, 96]
+    souk: [75, 94]
+    houg: [60, 88]
+    raig: [0, 0]
+    tyku: [48, 85]
+    luck: [40, 92]
+    soku: 5
+    leng: 2
+    kaih: 50
+    tais: 0
+    slot_num: 5
+    max_eq: [2, 2, 22, 22, 9]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 110
+    bull_max: 145
+    broken: [12, 18, 40, 6]
+    pow_up: [4, 0, 5, 4]
+    build_time: 270
+  graph:
+    boko_n: [-101, 115]
+    boko_d: [54, 104]
+    kaisyu_n: [14, -6]
+    kaisyu_d: [42, -7]
+    kaizo_n: [-135, 51]
+    kaizo_d: [-25, 24]
+    map_n: [-130, 111]
+    map_d: [10, 94]
+    ensyuf_n: [-148, 118]
+    ensyuf_d: [-11, 106]
+    ensyue_n: [-120, 127]
+    battle_n: [-118, 117]
+    battle_d: [31, 97]
+    wed_a: [373, 2]
+    wed_b: [78, 102]
+  wiki_id: "353"
+  chinese_name: 伊势改二
+  can_drop: false
+  can_construct: false
+---

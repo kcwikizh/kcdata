@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 384
+  type: 0
+  no: 49
+  title: 鉄製の床材
+  description: カタパルトの鋼材を活用、<br>冷たい鉄の肌触りと工廠的<br>な拘りを追及した謎床材。<br>熱伝導率の高さという微妙<br>な長所と短所があります。
+  rarity: 4
+  price: 1900
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---
