@@ -3592,6 +3592,58 @@
     }
   },
   {
+    "game_id": 193,
+    "wiki_id": "A88",
+    "category": 1,
+    "type": 1,
+    "name": "最精鋭甲型駆逐艦、集結せよ！",
+    "detail": "甲型駆逐隊編成任務：「陽炎改二」「不知火改二」「黒潮改二」を集中配備、さらに練度70以上の甲型駆逐艦【陽炎型/夕雲型駆逐艦】を3隻集中配備、精鋭艦隊型駆逐隊を編成せよ！",
+    "reward_fuel": 150,
+    "reward_ammo": 150,
+    "reward_steel": 150,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "12.7cm連装砲C型改二",
+            "amount": 1
+          },
+          {
+            "name": "勲章",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "陽炎改二"
+        },
+        {
+          "ship": "不知火改二"
+        },
+        {
+          "ship": "黒潮改二"
+        },
+        {
+          "shipclass": [
+            "陽炎",
+            "夕雲"
+          ],
+          "amount": 3,
+          "lv": [
+            70,
+            999
+          ]
+        }
+      ]
+    }
+  },
+  {
     "game_id": 201,
     "wiki_id": "Bd01",
     "category": 2,
