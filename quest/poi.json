@@ -11995,6 +11995,65 @@
     }
   },
   {
+    "game_id": 684,
+    "wiki_id": "F75",
+    "category": 6,
+    "type": 1,
+    "name": "精鋭「航空戦艦」彗星隊の編成",
+    "detail": "精鋭彗星隊編成：旗艦「伊勢改二」第三スロに「彗星二二型(六三四空)」搭載、熟練搭載員、開発資材×30、新型航空兵装資材を用意、「九九艦爆」「彗星」各×3廃棄、ボーキサイト一定量確保せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 634,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "彗星二二型(六三四空/熟練)",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      324
+    ],
+    "requirements": {
+      "category": "modelconversion",
+      "secretary": "伊勢改二",
+      "slots": [
+        {
+          "slot": 3,
+          "equipment": "彗星二二型(六三四空)",
+          "convert": true
+        }
+      ],
+      "use_skilled_crew": true,
+      "consumptions": [
+        {
+          "name": "開発資材",
+          "amount": 30
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        }
+      ],
+      "scraps": [
+        {
+          "name": "九九艦爆",
+          "amount": 3
+        },
+        {
+          "name": "彗星",
+          "amount": 3
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        0,
+        3000
+      ]
+    }
+  },
+  {
     "game_id": 701,
     "wiki_id": "G01",
     "category": 7,
