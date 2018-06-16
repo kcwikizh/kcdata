@@ -7625,6 +7625,66 @@
     }
   },
   {
+    "game_id": 323,
+    "wiki_id": "C20",
+    "category": 3,
+    "type": 1,
+    "name": "最精鋭甲型駆逐艦、特訓始め！",
+    "detail": "甲型駆逐隊演習任務：練度70以上の甲型駆逐艦【陽炎型/夕雲型】駆逐艦4隻で編成される駆逐隊。この精鋭駆逐隊を含む艦隊を編成。演習を開始する！同艦隊で本日中に演習にて4回以上勝利せよ！",
+    "reward_fuel": 400,
+    "reward_ammo": 0,
+    "reward_steel": 400,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 4
+          },
+          {
+            "name": "高速修復材",
+            "amount": 4
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          },
+          {
+            "name": "勲章",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+        193
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 4,
+      "victory": true,
+      "daily": true,
+      "groups": [
+        {
+          "shipclass": [
+            "陽炎",
+            "夕雲"
+          ],
+          "amount": 4,
+          "lv": [
+            70,
+            999
+          ]
+        }
+      ]
+    }
+  },
+  {
     "game_id": 401,
     "wiki_id": "D01",
     "category": 4,
