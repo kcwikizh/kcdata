@@ -7625,6 +7625,55 @@
     }
   },
   {
+    "game_id": 322,
+    "wiki_id": "C22",
+    "category": 3,
+    "type": 1,
+    "name": "海防艦、演習始め！",
+    "detail": "海防艦演習任務：海防艦を旗艦に配備し、随伴艦に駆逐艦2隻以上を配した演習艦隊を編成。本演習艦隊で、本日中に演習で2回以上勝利せよ！",
+    "reward_fuel": 300,
+    "reward_ammo": 300,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "「択捉型海防艦」掛け軸",
+        "category": "家具"
+      },
+      {
+        "choices": [
+          {
+            "name": "補強増設",
+            "amount": 1
+          },
+          {
+            "name": "勲章",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+        682
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 2,
+      "victory": true,
+      "daily": true,
+      "groups": [
+        {
+          "ship": "海防艦",
+          "flagship": true
+        },
+        {
+          "ship": "駆逐",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  {
     "game_id": 323,
     "wiki_id": "C20",
     "category": 3,
