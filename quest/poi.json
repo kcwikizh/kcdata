@@ -16344,5 +16344,86 @@
         }
       ]
     }
+  },
+  {
+    "game_id": 884,
+    "wiki_id": "B117",
+    "category": 2,
+    "type": 1,
+    "name": "最精鋭甲型駆逐艦、突入！敵中突破！",
+    "detail": "「黒潮改二」「不知火改二」「陽炎改二」のいずれかを旗艦、他2隻の練度75以上の甲型駆逐艦を配備した計6隻艦隊で西方カレー洋、北方キス島沖、南方サブ島沖海域に複数回突入、各作戦を完全成功させよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 1000,
+    "reward_steel": 0,
+    "reward_bauxite": 500,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          },
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "勲章",
+            "amount": 2
+          },
+          {
+            "name": "試製甲板カタパルト",
+            "amount": 1
+          },
+          {
+            "name": "12.7cm連装砲D型改二",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      323
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 2,
+      "map": [
+        "3-2",
+        "4-2",
+        "5-3"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": [
+            "陽炎改二",
+            "不知火改二",
+            "黒潮改二"
+          ],
+          "flagship": true
+        },
+        {
+          "shipclass": [
+            "陽炎",
+            "夕雲"
+          ],
+          "amount": 2,
+          "lv": [
+            75,
+            999
+          ]
+        }
+      ]
+    }
   }
 ]
