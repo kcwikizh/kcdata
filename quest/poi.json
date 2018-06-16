@@ -3364,7 +3364,7 @@
       {
         "choices": [
           {
-            "name": "特制家具职人",
+            "name": "特注家具職人",
             "amount": 1
           },
           {
@@ -7406,7 +7406,7 @@
             "amount": 1
           },
           {
-            "name": "特制家具职人",
+            "name": "特注家具職人",
             "amount": 1
           }
         ]
@@ -7654,7 +7654,7 @@
       }
     ],
     "prerequisite": [
-        682
+      682
     ],
     "requirements": {
       "category": "excercise",
@@ -7711,7 +7711,7 @@
       }
     ],
     "prerequisite": [
-        193
+      193
     ],
     "requirements": {
       "category": "excercise",
