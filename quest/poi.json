@@ -7778,7 +7778,9 @@
         ]
       }
     ],
-    "prerequisite": [],
+    "prerequisite": [
+      247
+    ],
     "requirements": {
       "category": "excercise",
       "times": 3,
@@ -12012,7 +12014,7 @@
       }
     ],
     "prerequisite": [
-      324
+      886
     ],
     "requirements": {
       "category": "modelconversion",
