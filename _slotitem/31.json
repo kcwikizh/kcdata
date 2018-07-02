@@ -90,20 +90,24 @@ data:
             ship_id: 77
           -
             ship_id: 82
+          -
+            ship_id: 553
         -
           -
             ship_id: 77
           -
             ship_id: 82
+          -
+            ship_id: 553
         -
           -
             ship_id: 77
           -
-            ship_id: 82
+            ship_id: 553
         -
           -
             ship_id: 77
           -
-            ship_id: 82
+            ship_id: 553
   chinese_name: 32号对水上电探
 ---

@@ -1,0 +1,36 @@
+---
+layout: json
+order: 293
+data:
+  id: 293
+  sort_no: 293
+  name: 12cm単装砲改二
+  type: [1, 1, 1, 1, 0]
+  rare: 2
+  broken: [0, 1, 1, 0]
+  info: 旧型駆逐艦に標準的主砲として搭載された小口径主砲の改良型です。装填・操砲も人力ですが、シンプルな構造で経済性も高く、駆逐艦や海防艦等の主砲として、長く使われました本兵装を戦訓を取り入れて改良、実戦時の運用性を大きく向上させています。残念ながら対空射撃には不向きです。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name:
+---

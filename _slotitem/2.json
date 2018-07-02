@@ -56,6 +56,69 @@ data:
             id: 2
             amount: 1
       upgrade:
+        id: 294
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [4, 8]
+            -
+              id: 4
+              amount: [3, 6]
+          slotitem:
+            id: 2
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 206
+          -
+            ship_id: 486
+          -
+            ship_id: 368
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 206
+          -
+            ship_id: 486
+          -
+            ship_id: 368
+        -
+          -
+            ship_id: 206
+          -
+            ship_id: 486
+          -
+            ship_id: 368
+    -
+      consume:
+        resource: [10, 30, 60, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 2]
+        slotitem:
+          - 
+          -
+            id: 2
+            amount: 1
+      upgrade:
         id: 63
         level: 0
         consume:

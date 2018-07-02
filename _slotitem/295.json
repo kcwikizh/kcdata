@@ -1,0 +1,36 @@
+---
+layout: json
+order: 295
+data:
+  id: 295
+  sort_no: 295
+  name: 12.7cm連装砲A型改三(戦時改修)+高射装置
+  type: [1, 1, 1, 16, 0]
+  rare: 3
+  broken: [0, 2, 2, 2]
+  info: 旧式化したA型砲、その余剰装備を元に全面改修を実施、両用砲に換装した戦時改修if駆逐艦主砲です。最大仰角、装填機構の換装、高射装置との連動も含め、従来のA型砲とは全く別の特型駆逐艦用主砲兵装となっています。両用砲として、ある程度対空戦闘も可能です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 8
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name:
+---

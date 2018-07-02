@@ -1,0 +1,36 @@
+---
+layout: json
+order: 296
+data:
+  id: 296
+  sort_no: 296
+  name: 12.7cm連装砲B型改四(戦時改修)+高射装置
+  type: [1, 1, 1, 16, 0]
+  rare: 3
+  broken: [0, 3, 2, 2]
+  info: やや旧式化したB型砲の余剰装備に全面改修を実施、両用砲に換装した戦時改修if駆逐艦主砲です。現実的な対空戦闘に対応するため、最大仰角、装填機構の換装、高射装置との連動等、従来のB型砲とは全く別の駆逐艦用兵装に昇華しています。特II型以降、初春型、白露型などでの装備運用を想定して改修され、両用砲として対空戦闘も可能です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 3
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 9
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name:
+---

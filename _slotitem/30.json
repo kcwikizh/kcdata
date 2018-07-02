@@ -73,11 +73,15 @@ data:
         -
           -
             ship_id: 77
+          -
+            ship_id: 553
         -
           -
             ship_id: 77
           -
             ship_id: 82
+          -
+            ship_id: 553
         - false
         -
           -
@@ -93,10 +97,14 @@ data:
           -
             ship_id: 77
           -
+            ship_id: 553
+          -
             ship_id: 87
         -
           -
             ship_id: 77
+          -
+            ship_id: 553
           -
             ship_id: 87
   chinese_name: 21号对空电探

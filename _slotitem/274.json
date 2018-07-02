@@ -59,13 +59,19 @@ data:
             amount: 2
       upgrade:
       day:
-        - false
+        -
+          -
+            ship_id: 553
         -
           -
             ship_id: 82
+          -
+            ship_id: 553
         -
           -
             ship_id: 82
+          -
+            ship_id: 553
         -
           -
             ship_id: 88

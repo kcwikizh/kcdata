@@ -8,7 +8,7 @@ data:
   description: 提督達の熱い要望により、<br>遂に実装された特注家具。<br>それが「床の間」。各種の<br>掛け軸との親和性もばっち<br>りの提督ご用達家具です！
   rarity: 4
   price: 2000
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
   file_version: 
