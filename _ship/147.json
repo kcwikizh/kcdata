@@ -14,16 +14,16 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: gmqsmiszmftf
-  file_version: ["7", "5", "613"]
+  file_version: ["7", "5", "712"]
   book_table_id: [147, 785]
   book_sinfo: 数ある特型駆逐艦の中で、最後まで生き残ったのが、響。転戦の後、あの大和水上特攻時には修理で同行できなかったんだ。<br>賠償艦としてソ連に引き渡され「信頼できる」という意味の艦名になったんだ。
   stats:
     taik: [37, 49]
     souk: [15, 58]
-    houg: [13, 55]
+    houg: [13, 58]
     raig: [30, 89]
-    tyku: [18, 59]
-    luck: [20, 77]
+    tyku: [18, 65]
+    luck: [20, 80]
     soku: 10
     leng: 1
     kaih: 47

@@ -46,29 +46,39 @@ data:
           -
             -
               id: 3
-              amount: [0, 0]
+              amount: [3, 4]
             -
               id: 4
-              amount: [0, 0]
+              amount: [3, 5]
         slotitem:
           -
             id: 2
             amount: 2
-          - 
+          -
+            id: 3
+            amount: 2
       upgrade:
       day:
         -
           -
             ship_id: 426
-        - false
-        - false
-        - false
-        - false
         -
           -
             ship_id: 426
         -
           -
             ship_id: 426
-  chinese_name:
+        -
+          -
+            ship_id: 426
+        -
+          -
+            ship_id: 426
+        -
+          -
+            ship_id: 426
+        -
+          -
+            ship_id: 426
+  chinese_name: 
 ---

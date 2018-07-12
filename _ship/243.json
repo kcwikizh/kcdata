@@ -12,9 +12,9 @@ data:
   after_lv: 60
   after_ship_id: 145
   get_mes: <br>
-  voice_f: 1
+  voice_f: 3
   filename: wmskekfmgdio
-  file_version: ["23", "36", "613"]
+  file_version: ["23", "37", "712"]
   book_table_id: 
   book_sinfo: 
   stats:

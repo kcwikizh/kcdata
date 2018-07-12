@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 477
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 277
+  name: 天龍改二
+  yomi: てんりゅう
+  stype: 3
+  ctype: 21
+  cnum: 1
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
+  get_mes: <br>
+  voice_f: 1
   filename: aoprntdhsoqa
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["1", "1", "712"]
+  book_table_id: [477]
+  book_sinfo: 天龍型１番艦、天龍だ。<br>駆逐艦を束ねて、殴り込みの水雷戦隊を率いるぜ。<br>相棒は、同型艦の龍田だ。<br>あいつ、ちゃんとやってるかな？ま、いいけどな。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [42, 56]
+    souk: [29, 63]
+    houg: [22, 64]
+    raig: [0, 78]
+    tyku: [40, 89]
+    luck: [17, 77]
+    soku: 10
+    leng: 1
+    kaih: 42
+    tais: 24
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 25
+    bull_max: 25
+    broken: [1, 2, 9, 0]
+    pow_up: [1, 1, 2, 2]
+    build_time: 60
   graph:
-    boko_n: [0, 0]
-    boko_d: [0, 0]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [0, 0]
-    kaizo_n: [0, 0]
-    kaizo_d: [0, 0]
-    map_n: [0, 0]
-    map_d: [0, 0]
-    ensyuf_n: [0, 0]
-    ensyuf_d: [0, 0]
-    ensyue_n: [0, 0]
-    battle_n: [0, 0]
-    battle_d: [0, 0]
-    wed_a: [0, 0]
-    wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [44, 102]
+    boko_d: [-64, 117]
+    kaisyu_n: [51, -8]
+    kaisyu_d: [41, -8]
+    kaizo_n: [5, 39]
+    kaizo_d: [-79, 46]
+    map_n: [65, 69]
+    map_d: [-45, 70]
+    ensyuf_n: [38, 93]
+    ensyuf_d: [-82, 80]
+    ensyue_n: [70, 0]
+    battle_n: [79, 98]
+    battle_d: [-64, 95]
+    wed_a: [188, 36]
+    wed_b: [75, 110]
+  wiki_id: "277"
+  chinese_name: 天龙改二
   can_drop: false
   can_construct: false
 ---

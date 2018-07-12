@@ -8,7 +8,7 @@ data:
   description: ある睦月型駆逐艦の好みを<br>聞いて、家具職人が丹念に<br>仕上げた特注高級窓です。<br>手仕上げの木製ブラインド<br>を標準装備しています。
   rarity: 4
   price: 7700
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "052"
   file_version: 1

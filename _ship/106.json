@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ttkeodhvrmog
-  file_version: ["19", "10", "613"]
+  file_version: ["20", "10", "712"]
   book_table_id: [106]
   book_sinfo: 水上機母艦千歳です。<br>水上機を沢山運用できる優れものですが、給油艦として重油を他の艦に補給もできちゃうの。後期には、航空母艦に改装され、第一線で戦ったのよ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 2]
     build_time: 160
   graph:
-    boko_n: [184, 152]
-    boko_d: [140, 164]
+    boko_n: [42, 103]
+    boko_d: [-20, 113]
     kaisyu_n: [10, 20]
     kaisyu_d: [26, 29]
-    kaizo_n: [108, 104]
-    kaizo_d: [64, 92]
-    map_n: [128, 132]
-    map_d: [72, 132]
-    ensyuf_n: [116, 128]
-    ensyuf_d: [72, 132]
-    ensyue_n: [112, 0]
-    battle_n: [136, 144]
-    battle_d: [96, 152]
-    wed_a: [96, -4]
-    wed_b: [76, 108]
+    kaizo_n: [-13, 48]
+    kaizo_d: [-90, 0]
+    map_n: [-22, 100]
+    map_d: [-116, 103]
+    ensyuf_n: [-9, 93]
+    ensyuf_d: [-81, 49]
+    ensyue_n: [-9, 0]
+    battle_n: [-22, 79]
+    battle_d: [-91, 81]
+    wed_a: [217, 36]
+    wed_b: [110, 118]
   wiki_id: "099"
   chinese_name: 千岁甲
   can_drop: false

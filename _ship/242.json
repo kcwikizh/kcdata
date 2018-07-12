@@ -9,12 +9,12 @@ data:
   ctype: 
   cnum: 
   backs: 4
-  after_lv: 
-  after_ship_id: 
+  after_lv: 77
+  after_ship_id: 497
   get_mes: <br>
   voice_f: 1
   filename: xcbmsjqrostq
-  file_version: ["33", "31", "613"]
+  file_version: ["34", "33", "712"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -30,29 +30,29 @@ data:
     tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 180
+    after_bull: 200
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [212, 128]
-    boko_d: [160, 140]
+    boko_n: [56, 112]
+    boko_d: [56, 32]
     kaisyu_n: [16, 16]
     kaisyu_d: [32, 0]
-    kaizo_n: [140, 68]
-    kaizo_d: [80, 72]
-    map_n: [144, 112]
-    map_d: [84, 120]
-    ensyuf_n: [132, 112]
-    ensyuf_d: [88, 112]
-    ensyue_n: [128, 0]
-    battle_n: [172, 128]
-    battle_d: [124, 132]
-    wed_a: [48, 20]
-    wed_b: [92, 108]
+    kaizo_n: [56, 56]
+    kaizo_d: [56, -32]
+    map_n: [32, 88]
+    map_d: [48, 0]
+    ensyuf_n: [80, 104]
+    ensyuf_d: [48, -32]
+    ensyue_n: [32, 0]
+    battle_n: [48, 104]
+    battle_d: [64, 16]
+    wed_a: [164, 18]
+    wed_b: [129, 138]
   wiki_id: "079a"
   chinese_name: 白露改
   can_drop: false

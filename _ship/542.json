@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 542
+  sort_no: 342
+  name: 夕雲改二
+  yomi: ゆうぐも
+  stype: 2
+  ctype: 38
+  cnum: 1
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: sbxjrrwenuzq
+  file_version: ["51", "1", "712"]
+  book_table_id: [542]
+  book_sinfo: 最終量産型艦隊駆逐艦の一番艦。舞鶴生まれよ。惨敗のミッドウェー海戦が初陣よ。いいじゃない、別に。あの島への鼠輸送やケ号作戦、南太平洋海戦、キスカ撤退作戦などで奮戦したわ。ふう。
+  stats:
+    taik: [33, 56]
+    souk: [15, 53]
+    houg: [18, 67]
+    raig: [30, 87]
+    tyku: [20, 66]
+    luck: [18, 74]
+    soku: 10
+    leng: 1
+    kaih: 48
+    tais: 30
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [135, 91]
+    boko_d: [62, 147]
+    kaisyu_n: [39, -9]
+    kaisyu_d: [39, -9]
+    kaizo_n: [115, 25]
+    kaizo_d: [42, 68]
+    map_n: [145, 85]
+    map_d: [72, 142]
+    ensyuf_n: [129, 85]
+    ensyuf_d: [51, 144]
+    ensyue_n: [129, 0]
+    battle_n: [141, 92]
+    battle_d: [67, 150]
+    wed_a: [94, 29]
+    wed_b: [84, 120]
+  wiki_id: "342"
+  chinese_name: 夕云改二
+  can_drop: false
+  can_construct: false
+---

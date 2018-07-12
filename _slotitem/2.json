@@ -80,7 +80,13 @@ data:
         - false
         - false
         - false
-        - false
+        -
+          -
+            ship_id: 206
+          -
+            ship_id: 486
+          -
+            ship_id: 368
         -
           -
             ship_id: 206
