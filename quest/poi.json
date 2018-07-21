@@ -16875,5 +16875,63 @@
         }
       ]
     }
+  },
+  {
+    "game_id": 888,
+    "wiki_id": "Bq07",
+    "category": 2,
+    "type": 7,
+    "name": "新編成「三川艦隊」、鉄底海峡に突入せよ！",
+    "detail": "鉄底海峡戦果拡張：「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」「夕張」の中から4隻を含む突入艦隊を編成。南方海域前面及びサブ島沖海域、サーモン海域に突入、敵艦隊を撃滅せよ！",
+    "reward_fuel": 800,
+    "reward_ammo": 800,
+    "reward_steel": 800,
+    "reward_bauxite": 800,
+    "reward_other": [
+      {
+        "name": "戦果200"
+      },
+      {
+        "choices": [
+          {
+            "name": "勲章",
+            "amount": 1
+          },
+          {
+            "name": "改修資材",
+            "amount": 5
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      243,
+      273
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "5-1",
+        "5-3",
+        "5-4"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": [
+            "鳥海",
+            "青葉",
+            "衣笠",
+            "加古",
+            "古鷹",
+            "天龍",
+            "夕張"
+          ],
+          "amount": 4
+        }
+      ]
+    }
   }
 ]
