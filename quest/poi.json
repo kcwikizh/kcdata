@@ -3644,6 +3644,42 @@
     }
   },
   {
+    "game_id": 194,
+    "wiki_id": "A89",
+    "category": 1,
+    "type": 1,
+    "name": "精鋭「第十八戦隊」を再編成せよ！",
+    "detail": "旧式小型軽巡部隊の改装再編成：改天龍型軽巡「天龍改二」及び「龍田改二」の2隻で構成される精鋭「第十八戦隊」を再編成せよ！",
+    "reward_fuel": 180,
+    "reward_ammo": 0,
+    "reward_steel": 180,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "開発資材",
+        "amount": 5
+      },
+      {
+        "name": "特注家具職人",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      275
+    ],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "天龍改二"
+        },
+        {
+          "ship": "龍田改二"
+        }
+      ]
+    }
+  },
+  {
     "game_id": 201,
     "wiki_id": "Bd01",
     "category": 2,
