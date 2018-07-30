@@ -5,11 +5,11 @@ data:
   type: 0
   no: 51
   title: 青草の床
-  description: 畳職人が腕によりをかけて<br>作り上げた、七夕の季節に<br>ぴったりの涼やかな高級畳<br>です。七夕の季節の次は、<br>いよいよ夏到来ですね。
+  description: 青々と茂る青草が気持ちの<br>よい新しい床です。鎮守府<br>とは何か、提督室とは何か<br>…青草の上に思考を深める<br>のも楽しいですね。
   rarity: 4
   price: 1700
   saleflg: 1
   season: 0
   filename: 
-  file_version: ""
+  file_version: 
 ---

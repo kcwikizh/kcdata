@@ -12,9 +12,9 @@ data:
   after_lv: 
   after_ship_id: 
   get_mes: <br>
-  voice_f: 1
+  voice_f: 3
   filename: lngqiqvigduj
-  file_version: ["38", "26", "712"]
+  file_version: ["38", "27", "730"]
   book_table_id: [144, 908, 928, 891, 863]
   book_sinfo: 白露型駆逐艦の４番艦、夕立です。<br>第三次ソロモン海戦では、けっこう頑張ったっぽい？<br>でも、何気に「アイアンボトム・サウンド」って、ホントに怖い言葉よね？
   stats:

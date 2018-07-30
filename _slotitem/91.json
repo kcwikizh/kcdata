@@ -32,5 +32,61 @@ data:
     luck: 0
     leng: 1
   improvement: 
+    -
+      consume:
+        resource: [10, 50, 80, 30]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 3]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [-1, -1]
+            -
+              id: 4
+              amount: [3, 4]
+        slotitem:
+          -
+            id: 10
+            amount: 1
+          -
+            id: 91
+            amount: 1
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 477
+          -
+            ship_id: 160
+        -
+          -
+            ship_id: 477
+        -
+          -
+            ship_id: 477
+        -
+          -
+            ship_id: 477
+        -
+          -
+            ship_id: 477
+          -
+            ship_id: 160
+        -
+          -
+            ship_id: 477
+          -
+            ship_id: 160
+        -
+          -
+            ship_id: 477
+          -
+            ship_id: 160
   chinese_name: 12.7cm连装高角炮(后期型)
 ---

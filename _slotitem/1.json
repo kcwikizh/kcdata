@@ -32,5 +32,136 @@ data:
     luck: 0
     leng: 1
   improvement: 
+    -
+      consume:
+        resource: [10, 20, 40, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [1, 2]
+        slotitem:
+          -
+            id: 1
+            amount: 1
+          -
+            id: 1
+            amount: 2
+      upgrade:
+        id: 293
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [2, -1]
+            -
+              id: 4
+              amount: [2, 6]
+          slotitem:
+            id: 28
+            amount: 1
+      day:
+        -
+          -
+            ship_id: 1
+          -
+            ship_id: 254
+          -
+            ship_id: 434
+          -
+            ship_id: 2
+          -
+            ship_id: 255
+          -
+            ship_id: 435
+        -
+          -
+            ship_id: 1
+          -
+            ship_id: 254
+          -
+            ship_id: 434
+          -
+            ship_id: 2
+          -
+            ship_id: 255
+          -
+            ship_id: 435
+        -
+          -
+            ship_id: 1
+          -
+            ship_id: 254
+          -
+            ship_id: 434
+          -
+            ship_id: 2
+          -
+            ship_id: 255
+          -
+            ship_id: 435
+        -
+          -
+            ship_id: 1
+          -
+            ship_id: 254
+          -
+            ship_id: 434
+          -
+            ship_id: 2
+          -
+            ship_id: 255
+          -
+            ship_id: 435
+        -
+          -
+            ship_id: 1
+          -
+            ship_id: 254
+          -
+            ship_id: 434
+          -
+            ship_id: 2
+          -
+            ship_id: 255
+          -
+            ship_id: 435
+        -
+          -
+            ship_id: 1
+          -
+            ship_id: 254
+          -
+            ship_id: 434
+          -
+            ship_id: 2
+          -
+            ship_id: 255
+          -
+            ship_id: 435
+        -
+          -
+            ship_id: 1
+          -
+            ship_id: 254
+          -
+            ship_id: 434
+          -
+            ship_id: 2
+          -
+            ship_id: 255
+          -
+            ship_id: 435
   chinese_name: 12cm单装炮
 ---

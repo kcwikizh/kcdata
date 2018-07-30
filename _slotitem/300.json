@@ -1,0 +1,36 @@
+---
+layout: json
+order: 300
+data:
+  id: 300
+  sort_no: 300
+  name: 16inch Mk.I三連装砲改+FCR type284
+  type: [1, 1, 3, 3, 0]
+  rare: 5
+  broken: [0, 16, 23, 4]
+  info: 紅茶の国で建造されたビックセブン、条約下時代に建造された16inch砲搭載超弩級戦艦ネルソン級。その主兵装として、同艦前半部に集中配備された大口径三連装戦艦主砲の改良型です。さらに同砲と連携する射撃管制レーダー284型を採用、精度の高いレーダー射撃も可能です。ネルソン級や紅茶の国の戦艦で運用することで、高い戦闘力を期待できます。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 23
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 7
+    tais: 0
+    atap: 0
+    houm: 6
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  improvement: 
+  chinese_name:
+---

@@ -77,9 +77,6 @@ data:
             ship_id: 486
           -
             ship_id: 368
-        - false
-        - false
-        - false
         -
           -
             ship_id: 206
@@ -87,6 +84,9 @@ data:
             ship_id: 486
           -
             ship_id: 368
+        - false
+        - false
+        - false
         -
           -
             ship_id: 206
