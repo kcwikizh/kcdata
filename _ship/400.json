@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: fggcskrfkpnr
-  file_version: ["10", "11", "712"]
+  file_version: ["10", "11", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 0]
     build_time: 22
   graph:
-    boko_n: [64, 104]
-    boko_d: [64, 104]
-    kaisyu_n: [16, -8]
-    kaisyu_d: [24, 8]
-    kaizo_n: [56, 32]
-    kaizo_d: [56, 32]
-    map_n: [32, 64]
-    map_d: [32, 64]
-    ensyuf_n: [56, 72]
-    ensyuf_d: [56, 20]
-    ensyue_n: [-48, 0]
-    battle_n: [48, 80]
-    battle_d: [48, 80]
-    wed_a: [161, 79]
-    wed_b: [139, 131]
+    boko_n: [96, 156]
+    boko_d: [96, 156]
+    kaisyu_n: [24, -12]
+    kaisyu_d: [36, 12]
+    kaizo_n: [84, 48]
+    kaizo_d: [84, 48]
+    map_n: [48, 96]
+    map_d: [48, 96]
+    ensyuf_n: [84, 108]
+    ensyuf_d: [84, 30]
+    ensyue_n: [-72, 0]
+    battle_n: [72, 120]
+    battle_d: [72, 120]
+    wed_a: [241, 118]
+    wed_b: [208, 196]
   wiki_id: "128a"
   chinese_name: 伊8改
   can_drop: false

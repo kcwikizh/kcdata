@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: stvkbeqhwmmj
-  file_version: ["8", "8", "712"]
+  file_version: ["8", "8", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [80, 132]
-    boko_d: [128, 128]
-    kaisyu_n: [8, -8]
-    kaisyu_d: [20, 0]
-    kaizo_n: [32, 80]
-    kaizo_d: [64, 64]
-    map_n: [40, 104]
-    map_d: [64, 112]
-    ensyuf_n: [82, 112]
-    ensyuf_d: [82, 112]
-    ensyue_n: [64, 0]
-    battle_n: [40, 112]
-    battle_d: [80, 128]
-    wed_a: [170, 16]
-    wed_b: [112, 104]
+    boko_n: [120, 198]
+    boko_d: [192, 192]
+    kaisyu_n: [12, -12]
+    kaisyu_d: [30, 0]
+    kaizo_n: [48, 120]
+    kaizo_d: [96, 96]
+    map_n: [60, 156]
+    map_d: [96, 168]
+    ensyuf_n: [123, 168]
+    ensyuf_d: [123, 168]
+    ensyue_n: [96, 0]
+    battle_n: [60, 168]
+    battle_d: [120, 192]
+    wed_a: [255, 24]
+    wed_b: [168, 156]
   wiki_id: "254a"
   chinese_name: 岚‎‎改
   can_drop: false

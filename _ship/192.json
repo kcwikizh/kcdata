@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: bpegnatlfibc
-  file_version: ["14", "14", "712"]
+  file_version: ["14", "14", "801"]
   book_table_id: [192]
   book_sinfo: 生れは呉海軍工廠。妙高型重巡２番艦の私は、上海事変にも警備出動したぞ。<br>太平洋戦線では第五艦隊の旗艦として、暴れまわったさ。<br>敵艦載機？　ああ、あれは少し苦手だな。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 2, 2]
     build_time: 80
   graph:
-    boko_n: [-96, 120]
-    boko_d: [24, 144]
-    kaisyu_n: [16, 8]
-    kaisyu_d: [32, 8]
-    kaizo_n: [-136, 64]
-    kaizo_d: [-32, 48]
-    map_n: [-128, 120]
-    map_d: [0, 128]
-    ensyuf_n: [-96, 112]
-    ensyuf_d: [16, 128]
-    ensyue_n: [-144, 0]
-    battle_n: [-112, 112]
-    battle_d: [16, 128]
-    wed_a: [320, 8]
-    wed_b: [128, 120]
+    boko_n: [-144, 180]
+    boko_d: [36, 216]
+    kaisyu_n: [24, 12]
+    kaisyu_d: [48, 12]
+    kaizo_n: [-204, 96]
+    kaizo_d: [-48, 72]
+    map_n: [-192, 180]
+    map_d: [0, 192]
+    ensyuf_n: [-144, 168]
+    ensyuf_d: [24, 192]
+    ensyue_n: [-216, 0]
+    battle_n: [-168, 168]
+    battle_d: [24, 192]
+    wed_a: [480, 12]
+    wed_b: [192, 180]
   wiki_id: "192"
   chinese_name: 那智改二
   can_drop: false

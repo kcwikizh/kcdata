@@ -14,7 +14,7 @@ data:
   get_mes: 霰です…<br>んちゃ…とかはいいません…よろしく…
   voice_f: 0
   filename: oiknslickotp
-  file_version: ["11", "9", "712"]
+  file_version: ["11", "10", "801"]
   book_table_id: [48, 744]
   book_sinfo: 霰は、マル２計画で建造された最後の駆逐艦…。<br>朝潮型シリーズの…最終艦でも…あるの…。<br>この後は…陽炎型だから…
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 22
   graph:
-    boko_n: [46, 47]
-    boko_d: [43, 55]
-    kaisyu_n: [0, 16]
-    kaisyu_d: [8, 20]
-    kaizo_n: [-9, -8]
-    kaizo_d: [-15, -21]
-    map_n: [-50, 47]
-    map_d: [-53, 45]
-    ensyuf_n: [23, 26]
-    ensyuf_d: [3, -29]
-    ensyue_n: [23, 0]
-    battle_n: [-37, 18]
-    battle_d: [-37, 18]
-    wed_a: [198, 100]
-    wed_b: [145, 141]
+    boko_n: [69, 70]
+    boko_d: [64, 82]
+    kaisyu_n: [0, 24]
+    kaisyu_d: [12, 30]
+    kaizo_n: [-13, -12]
+    kaizo_d: [-22, -31]
+    map_n: [-75, 70]
+    map_d: [-79, 67]
+    ensyuf_n: [34, 39]
+    ensyuf_d: [4, -43]
+    ensyue_n: [34, 0]
+    battle_n: [-55, 27]
+    battle_d: [-55, 27]
+    wed_a: [297, 150]
+    wed_b: [217, 211]
   wiki_id: "089"
   chinese_name: 霰
   can_drop: true

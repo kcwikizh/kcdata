@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: jdnsunmrleho
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 1]
     build_time: 82
   graph:
-    boko_n: [26, 140]
-    boko_d: [30, 150]
-    kaisyu_n: [16, -14]
-    kaisyu_d: [30, -10]
-    kaizo_n: [0, 60]
-    kaizo_d: [4, 56]
-    map_n: [40, 112]
-    map_d: [68, 112]
-    ensyuf_n: [12, 128]
-    ensyuf_d: [44, 128]
-    ensyue_n: [12, 0]
-    battle_n: [32, 128]
-    battle_d: [60, 128]
-    wed_a: [206, -4]
-    wed_b: [102, 116]
+    boko_n: [39, 210]
+    boko_d: [45, 225]
+    kaisyu_n: [24, -21]
+    kaisyu_d: [45, -15]
+    kaizo_n: [0, 90]
+    kaizo_d: [6, 84]
+    map_n: [60, 168]
+    map_d: [102, 168]
+    ensyuf_n: [18, 192]
+    ensyuf_d: [66, 192]
+    ensyue_n: [18, 0]
+    battle_n: [48, 192]
+    battle_d: [90, 192]
+    wed_a: [309, -6]
+    wed_b: [153, 174]
   wiki_id: "313a"
   chinese_name: 塔什干改
   can_drop: false

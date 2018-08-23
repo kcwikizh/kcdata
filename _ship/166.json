@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: vxryfhvytcig
-  file_version: ["7", "3", "712"]
+  file_version: ["7", "3", "801"]
   book_table_id: [166]
   book_sinfo: 自分は、陸軍の特種船丙型の「あきつ丸」であります。<br>強襲揚陸艦の先駆けのような自分でありますが、新兵器のオートジャイロなども運用して、対潜戦でも奮闘したいのであります。何卒お願いするのであります。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 1]
     build_time: 150
   graph:
-    boko_n: [32, 32]
-    boko_d: [144, 128]
-    kaisyu_n: [24, 0]
-    kaisyu_d: [32, 8]
-    kaizo_n: [0, -16]
-    kaizo_d: [128, 72]
-    map_n: [64, 16]
-    map_d: [128, 112]
-    ensyuf_n: [112, 24]
-    ensyuf_d: [136, 72]
-    ensyue_n: [56, 0]
-    battle_n: [80, 24]
-    battle_d: [168, 112]
-    wed_a: [126, 93]
-    wed_b: [145, 136]
+    boko_n: [48, 48]
+    boko_d: [216, 192]
+    kaisyu_n: [36, 0]
+    kaisyu_d: [48, 12]
+    kaizo_n: [0, -24]
+    kaizo_d: [192, 108]
+    map_n: [96, 24]
+    map_d: [192, 168]
+    ensyuf_n: [168, 36]
+    ensyuf_d: [204, 108]
+    ensyue_n: [84, 0]
+    battle_n: [120, 36]
+    battle_d: [252, 168]
+    wed_a: [189, 139]
+    wed_b: [217, 204]
   wiki_id: "166"
   chinese_name: 秋津丸改
   can_drop: false

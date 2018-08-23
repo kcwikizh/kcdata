@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 0
   filename: olkahitypycq
-  file_version: ["14", "11", "712"]
+  file_version: ["14", "11", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [27, 77]
-    boko_d: [17, 95]
-    kaisyu_n: [5, 10]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-28, 22]
-    kaizo_d: [-29, 3]
-    map_n: [10, 71]
-    map_d: [-79, 67]
-    ensyuf_n: [-9, 69]
-    ensyuf_d: [-64, 41]
-    ensyue_n: [-9, 0]
-    battle_n: [-19, 63]
-    battle_d: [-20, 63]
-    wed_a: [219, 58]
-    wed_b: [133, 126]
+    boko_n: [40, 115]
+    boko_d: [25, 142]
+    kaisyu_n: [7, 15]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-42, 33]
+    kaizo_d: [-43, 4]
+    map_n: [15, 106]
+    map_d: [-118, 100]
+    ensyuf_n: [-13, 103]
+    ensyuf_d: [-96, 61]
+    ensyue_n: [-13, 0]
+    battle_n: [-28, 94]
+    battle_d: [-30, 94]
+    wed_a: [328, 87]
+    wed_b: [199, 189]
   wiki_id: "016a"
   chinese_name: 矶波改
   can_drop: false

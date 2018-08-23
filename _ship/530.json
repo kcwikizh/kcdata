@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: eqlthgcwdqqe
-  file_version: ["51", "1", "712"]
+  file_version: ["51", "1", "801"]
   book_table_id: [530]
   book_sinfo: Regia Marinaから来たよ。パスタの国で生まれた潜水艦、Luigi Torelli……だったんだけど、最終的に今は第五百四潜水艦。最後までけっこー頑張った。いろーんな事経験したんだよー。潜水艦派遣作戦に参加してー、そんでもって所属も何度も変わってねー、ん…頑張ったあたしの物語、覚えておいてね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 0]
     build_time: 22
   graph:
-    boko_n: [156, 164]
-    boko_d: [64, 214]
-    kaisyu_n: [32, -11]
-    kaisyu_d: [0, 12]
-    kaizo_n: [116, 80]
-    kaizo_d: [16, 92]
-    map_n: [124, 128]
-    map_d: [40, 164]
-    ensyuf_n: [112, 128]
-    ensyuf_d: [-24, 136]
-    ensyue_n: [112, 0]
-    battle_n: [148, 132]
-    battle_d: [32, 180]
-    wed_a: [96, -4]
-    wed_b: [100, 120]
+    boko_n: [234, 246]
+    boko_d: [96, 321]
+    kaisyu_n: [48, -16]
+    kaisyu_d: [0, 18]
+    kaizo_n: [174, 120]
+    kaizo_d: [24, 138]
+    map_n: [186, 192]
+    map_d: [60, 246]
+    ensyuf_n: [168, 192]
+    ensyuf_d: [-36, 204]
+    ensyue_n: [168, 0]
+    battle_n: [222, 198]
+    battle_d: [48, 270]
+    wed_a: [144, -6]
+    wed_b: [150, 180]
   wiki_id: "330"
   chinese_name: 伊504
   can_drop: false

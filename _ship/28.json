@@ -14,7 +14,7 @@ data:
   get_mes: 皐月だよっ。<br>よろしくな！
   voice_f: 0
   filename: qvmfwjitflgw
-  file_version: ["12", "12", "712"]
+  file_version: ["12", "12", "801"]
   book_table_id: [28]
   book_sinfo: ボクは任務途中に何度も何度も怪我をしたけど、最後まで奮戦した睦月型駆逐艦５番艦さ。<br>緒戦の後も、船団護衛などで各海域で頑張ったんだ。ホントだよ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [-71, 96]
-    boko_d: [107, -89]
-    kaisyu_n: [23, -9]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-126, 41]
-    kaizo_d: [42, -177]
-    map_n: [-91, 95]
-    map_d: [11, -99]
-    ensyuf_n: [-80, 90]
-    ensyuf_d: [22, -151]
-    ensyue_n: [-80, 0]
-    battle_n: [-120, 98]
-    battle_d: [25, -102]
-    wed_a: [311, 31]
-    wed_b: [142, 155]
+    boko_n: [-106, 144]
+    boko_d: [160, -133]
+    kaisyu_n: [34, -13]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-189, 61]
+    kaizo_d: [63, -265]
+    map_n: [-136, 142]
+    map_d: [16, -148]
+    ensyuf_n: [-120, 135]
+    ensyuf_d: [33, -226]
+    ensyue_n: [-120, 0]
+    battle_n: [-180, 147]
+    battle_d: [37, -153]
+    wed_a: [466, 46]
+    wed_b: [213, 232]
   wiki_id: "033"
   chinese_name: 皋月
   can_drop: true

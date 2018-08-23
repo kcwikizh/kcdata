@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: mbgjkzlvemui
-  file_version: ["23", "11", "712"]
+  file_version: ["23", "11", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [66, 29]
-    boko_d: [71, 40]
-    kaisyu_n: [12, -6]
-    kaisyu_d: [28, 4]
-    kaizo_n: [24, -9]
-    kaizo_d: [-14, -20]
-    map_n: [21, 26]
-    map_d: [-26, 40]
-    ensyuf_n: [30, 14]
-    ensyuf_d: [-2, -26]
-    ensyue_n: [30, 0]
-    battle_n: [-19, 9]
-    battle_d: [-19, 9]
-    wed_a: [175, 108]
-    wed_b: [121, 129]
+    boko_n: [99, 43]
+    boko_d: [106, 60]
+    kaisyu_n: [18, -9]
+    kaisyu_d: [42, 6]
+    kaizo_n: [36, -13]
+    kaizo_d: [-21, -30]
+    map_n: [31, 39]
+    map_d: [-39, 60]
+    ensyuf_n: [45, 21]
+    ensyuf_d: [-3, -39]
+    ensyue_n: [45, 0]
+    battle_n: [-28, 13]
+    battle_d: [-28, 13]
+    wed_a: [262, 162]
+    wed_b: [181, 193]
   wiki_id: "039a"
   chinese_name: 球磨改
   can_drop: false

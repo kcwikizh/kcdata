@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: jcrdsdpsjcgj
-  file_version: ["14", "23", "712"]
+  file_version: ["14", "23", "801"]
   book_table_id: [427]
   book_sinfo: 高雄型の４番艦、鳥海です。<br>マレー、ソロモン、マリアナ、レイテと数々の作戦に参加しました。<br>鳥海の名は、現在、海自のイージス護衛艦、その4番艦に受け継がれています。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 1, 2, 2]
     build_time: 85
   graph:
-    boko_n: [-56, 144]
-    boko_d: [24, 148]
-    kaisyu_n: [-16, -4]
-    kaisyu_d: [-12, -8]
-    kaizo_n: [-112, 80]
-    kaizo_d: [-16, 48]
-    map_n: [-64, 144]
-    map_d: [-16, 144]
-    ensyuf_n: [-64, 136]
-    ensyuf_d: [0, 128]
-    ensyue_n: [-96, 0]
-    battle_n: [-48, 128]
-    battle_d: [0, 128]
-    wed_a: [288, -4]
-    wed_b: [144, 120]
+    boko_n: [-84, 216]
+    boko_d: [36, 222]
+    kaisyu_n: [-24, -6]
+    kaisyu_d: [-18, -12]
+    kaizo_n: [-168, 120]
+    kaizo_d: [-24, 72]
+    map_n: [-96, 216]
+    map_d: [-24, 216]
+    ensyuf_n: [-96, 204]
+    ensyuf_d: [0, 192]
+    ensyue_n: [-144, 0]
+    battle_n: [-72, 192]
+    battle_d: [0, 192]
+    wed_a: [432, -6]
+    wed_b: [216, 180]
   wiki_id: "227"
   chinese_name: 鸟海改二
   can_drop: false

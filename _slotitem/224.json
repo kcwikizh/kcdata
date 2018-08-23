@@ -4,7 +4,7 @@ order: 224
 data:
   id: 224
   sort_no: 224
-  name: 爆装一式戦 隼III型改(55戦隊)
+  name: 爆装一式戦 隼III型改(65戦隊)
   type: [22, 39, 47, 44, 27]
   rare: 4
   broken: [1, 3, 0, 5]

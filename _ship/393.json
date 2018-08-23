@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ncarbwthwrrx
-  file_version: ["2", "1", "712"]
+  file_version: ["2", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 4]
     build_time: 250
   graph:
-    boko_n: [96, 120]
-    boko_d: [40, 148]
-    kaisyu_n: [42, 16]
-    kaisyu_d: [42, -6]
-    kaizo_n: [80, 68]
-    kaizo_d: [32, 72]
-    map_n: [108, 112]
-    map_d: [44, 128]
-    ensyuf_n: [96, 120]
-    ensyuf_d: [36, 136]
-    ensyue_n: [84, 0]
-    battle_n: [116, 116]
-    battle_d: [56, 136]
-    wed_a: [128, 0]
-    wed_b: [80, 116]
+    boko_n: [144, 180]
+    boko_d: [60, 222]
+    kaisyu_n: [63, 24]
+    kaisyu_d: [63, -9]
+    kaizo_n: [120, 102]
+    kaizo_d: [48, 108]
+    map_n: [162, 168]
+    map_d: [66, 192]
+    ensyuf_n: [144, 180]
+    ensyuf_d: [54, 204]
+    ensyue_n: [126, 0]
+    battle_n: [174, 174]
+    battle_d: [84, 204]
+    wed_a: [192, 0]
+    wed_b: [120, 174]
   wiki_id: "315a"
   chinese_name: 皇家方舟改
   can_drop: false

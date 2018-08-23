@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: yyyfqcpumpxj
-  file_version: ["4", "4", "712"]
+  file_version: ["4", "4", "801"]
   book_table_id: [408]
   book_sinfo: 戦時改造を前提に建造した豪華客船、橿原丸。<br>その改装した姿が空母、隼鷹さ。<br>ちゃーんと戦い抜いて、最後まで生き残ったんだぜ。意外とやるでしょ？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 3]
     build_time: 180
   graph:
-    boko_n: [40, 72]
-    boko_d: [56, 112]
-    kaisyu_n: [24, 24]
-    kaisyu_d: [36, 24]
-    kaizo_n: [-8, 56]
-    kaizo_d: [16, 48]
-    map_n: [-24, 72]
-    map_d: [0, 112]
-    ensyuf_n: [24, 56]
-    ensyuf_d: [40, 104]
-    ensyue_n: [-8, 0]
-    battle_n: [24, 64]
-    battle_d: [32, 104]
-    wed_a: [176, 64]
-    wed_b: [128, 104]
+    boko_n: [60, 108]
+    boko_d: [84, 168]
+    kaisyu_n: [36, 36]
+    kaisyu_d: [54, 36]
+    kaizo_n: [-12, 84]
+    kaizo_d: [24, 72]
+    map_n: [-36, 108]
+    map_d: [0, 168]
+    ensyuf_n: [36, 84]
+    ensyuf_d: [60, 156]
+    ensyue_n: [-12, 0]
+    battle_n: [36, 96]
+    battle_d: [48, 156]
+    wed_a: [264, 96]
+    wed_b: [192, 156]
   wiki_id: "208"
   chinese_name: 隼鹰改二
   can_drop: false

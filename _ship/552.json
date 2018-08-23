@@ -14,7 +14,7 @@ data:
   get_mes: 日振型海防艦、その二番艦、大東さ！<br>ちゃっくにーん！　あんたが提督かー。へへ、いいね！<br>あたいもよろしくなー！　さ、いってみよー！
   voice_f: 1
   filename: jzjtuwefxhut
-  file_version: ["51", "1", "712"]
+  file_version: ["51", "1", "801"]
   book_table_id: [552]
   book_sinfo: 日振型海防艦、その二番艦大東さ。そーよ。もう大変なんだよ色々なコト。海上護衛、掃海任務、頑張ったけどね。んー、なんだよ、そんな顔すんなって。<br>提督、安全な海っていいよな。あたいも大好きさ。<br>そういうのってさ…ま、いっか。あたいのことも覚えておきなよ？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 0, 0]
     build_time: 9
   graph:
-    boko_n: [148, 80]
-    boko_d: [148, 80]
-    kaisyu_n: [5, -20]
-    kaisyu_d: [21, -10]
-    kaizo_n: [124, 14]
-    kaizo_d: [92, -7]
-    map_n: [112, 50]
-    map_d: [112, 50]
-    ensyuf_n: [124, 48]
-    ensyuf_d: [124, 48]
-    ensyue_n: [112, 0]
-    battle_n: [116, 68]
-    battle_d: [116, 68]
-    wed_a: [120, 72]
-    wed_b: [92, 116]
+    boko_n: [222, 120]
+    boko_d: [222, 120]
+    kaisyu_n: [7, -30]
+    kaisyu_d: [31, -15]
+    kaizo_n: [186, 21]
+    kaizo_d: [138, -10]
+    map_n: [168, 75]
+    map_d: [168, 75]
+    ensyuf_n: [186, 72]
+    ensyuf_d: [186, 72]
+    ensyue_n: [168, 0]
+    battle_n: [174, 102]
+    battle_d: [174, 102]
+    wed_a: [180, 108]
+    wed_b: [138, 174]
   wiki_id: "352"
   chinese_name: 大东
   can_drop: false

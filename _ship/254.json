@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: pvomxydmldoi
-  file_version: ["23", "19", "712"]
+  file_version: ["23", "19", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [125, 24]
-    boko_d: [83, 25]
-    kaisyu_n: [28, 7]
-    kaisyu_d: [28, 7]
-    kaizo_n: [70, -31]
-    kaizo_d: [29, -32]
-    map_n: [29, 24]
-    map_d: [-13, 15]
-    ensyuf_n: [129, 18]
-    ensyuf_d: [-3, -32]
-    ensyue_n: [129, 0]
-    battle_n: [73, 27]
-    battle_d: [29, 21]
-    wed_a: [112, 108]
-    wed_b: [145, 153]
+    boko_n: [187, 36]
+    boko_d: [124, 37]
+    kaisyu_n: [42, 10]
+    kaisyu_d: [42, 10]
+    kaizo_n: [105, -46]
+    kaizo_d: [43, -48]
+    map_n: [43, 36]
+    map_d: [-19, 22]
+    ensyuf_n: [193, 27]
+    ensyuf_d: [-4, -48]
+    ensyue_n: [193, 0]
+    battle_n: [109, 40]
+    battle_d: [43, 31]
+    wed_a: [168, 162]
+    wed_b: [217, 229]
   wiki_id: "031a"
   chinese_name: 睦月改
   can_drop: false

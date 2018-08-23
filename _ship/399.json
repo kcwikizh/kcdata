@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: hosmgvuzyjlw
-  file_version: ["3", "4", "712"]
+  file_version: ["3", "4", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 0]
     build_time: 22
   graph:
-    boko_n: [-32, 32]
-    boko_d: [-32, 32]
-    kaisyu_n: [10, -32]
-    kaisyu_d: [28, -16]
-    kaizo_n: [-49, -4]
-    kaizo_d: [-11, -34]
-    map_n: [-22, 48]
-    map_d: [-49, 50]
-    ensyuf_n: [-3, 42]
-    ensyuf_d: [-40, 1]
-    ensyue_n: [-40, 0]
-    battle_n: [-14, 38]
-    battle_d: [-14, 38]
-    wed_a: [265, 94]
-    wed_b: [125, 143]
+    boko_n: [-48, 48]
+    boko_d: [-48, 48]
+    kaisyu_n: [15, -48]
+    kaisyu_d: [42, -24]
+    kaizo_n: [-73, -6]
+    kaizo_d: [-16, -51]
+    map_n: [-33, 72]
+    map_d: [-73, 75]
+    ensyuf_n: [-4, 63]
+    ensyuf_d: [-60, 1]
+    ensyue_n: [-60, 0]
+    battle_n: [-21, 57]
+    battle_d: [-21, 57]
+    wed_a: [397, 141]
+    wed_b: [187, 214]
   wiki_id: "127a"
   chinese_name: 伊58改
   can_drop: false

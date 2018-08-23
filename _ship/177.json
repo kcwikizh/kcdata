@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: cmmiahpwdamx
-  file_version: ["15", "15", "712"]
+  file_version: ["15", "15", "801"]
   book_table_id: [177]
   book_sinfo: わ！びっくりした！私、ドイツ生まれの重巡、プリンツ・オイゲン。アドミラル・ヒッパー級3番艦です。<br>ビスマルク姉さまとライン演習作戦に参加しました。幸運艦…そう？　この海でも戦い抜きます！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 2, 1, 3]
     build_time: 200
   graph:
-    boko_n: [-48, 132]
-    boko_d: [32, 136]
-    kaisyu_n: [16, -8]
-    kaisyu_d: [24, 16]
-    kaizo_n: [-80, 68]
-    kaizo_d: [-8, 40]
-    map_n: [-96, 112]
-    map_d: [-8, 112]
-    ensyuf_n: [-64, 112]
-    ensyuf_d: [32, 96]
-    ensyue_n: [-96, 0]
-    battle_n: [-32, 112]
-    battle_d: [32, 112]
-    wed_a: [296, 24]
-    wed_b: [128, 112]
+    boko_n: [-72, 198]
+    boko_d: [48, 204]
+    kaisyu_n: [24, -12]
+    kaisyu_d: [36, 24]
+    kaizo_n: [-120, 102]
+    kaizo_d: [-12, 60]
+    map_n: [-144, 168]
+    map_d: [-12, 168]
+    ensyuf_n: [-96, 168]
+    ensyuf_d: [48, 144]
+    ensyue_n: [-144, 0]
+    battle_n: [-48, 168]
+    battle_d: [48, 168]
+    wed_a: [444, 36]
+    wed_b: [192, 168]
   wiki_id: "177"
   chinese_name: 欧根亲王改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: oieohletkdmg
-  file_version: ["2", "1", "712"]
+  file_version: ["2", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 0, 5, 5]
     build_time: 330
   graph:
-    boko_n: [0, 20]
-    boko_d: [28, 114]
-    kaisyu_n: [4, -30]
-    kaisyu_d: [40, 4]
-    kaizo_n: [-8, -48]
-    kaizo_d: [12, 36]
-    map_n: [28, 16]
-    map_d: [68, 94]
-    ensyuf_n: [-12, 18]
-    ensyuf_d: [48, 100]
-    ensyue_n: [-18, 0]
-    battle_n: [24, 32]
-    battle_d: [80, 112]
-    wed_a: [226, 104]
-    wed_b: [84, 108]
+    boko_n: [0, 30]
+    boko_d: [42, 171]
+    kaisyu_n: [6, -45]
+    kaisyu_d: [60, 6]
+    kaizo_n: [-12, -72]
+    kaizo_d: [18, 54]
+    map_n: [42, 24]
+    map_d: [102, 141]
+    ensyuf_n: [-18, 27]
+    ensyuf_d: [72, 150]
+    ensyue_n: [-27, 0]
+    battle_n: [36, 48]
+    battle_d: [120, 168]
+    wed_a: [339, 156]
+    wed_b: [126, 162]
   wiki_id: "349a"
   chinese_name: 无畏改
   can_drop: false

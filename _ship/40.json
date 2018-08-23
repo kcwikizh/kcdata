@@ -14,7 +14,7 @@ data:
   get_mes: 駆逐艦、若葉だ。
   voice_f: 0
   filename: ihuijkvksqky
-  file_version: ["10", "14", "712"]
+  file_version: ["10", "14", "801"]
   book_table_id: [40]
   book_sinfo: 初春型駆逐艦３番艦、若葉だ。<br>アッツ島沖海戦やキスカ島撤退作戦などに参加した。<br>そうだ、北方海域だ。<br>ああ、濃霧には注意が必要だ。ぶつかりやすい。<br>特に「初霜」、お前は要注意だ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [92, -3]
-    boko_d: [108, 47]
-    kaisyu_n: [11, -17]
-    kaisyu_d: [37, -10]
-    kaizo_n: [45, -57]
-    kaizo_d: [55, -40]
-    map_n: [39, 2]
-    map_d: [12, 37]
-    ensyuf_n: [86, -4]
-    ensyuf_d: [72, -4]
-    ensyue_n: [86, 0]
-    battle_n: [50, 13]
-    battle_d: [60, 53]
-    wed_a: [153, 136]
-    wed_b: [124, 151]
+    boko_n: [138, -4]
+    boko_d: [162, 70]
+    kaisyu_n: [16, -25]
+    kaisyu_d: [55, -15]
+    kaizo_n: [67, -85]
+    kaizo_d: [82, -60]
+    map_n: [58, 3]
+    map_d: [18, 55]
+    ensyuf_n: [129, -6]
+    ensyuf_d: [108, -6]
+    ensyue_n: [129, 0]
+    battle_n: [75, 19]
+    battle_d: [90, 79]
+    wed_a: [229, 204]
+    wed_b: [186, 226]
   wiki_id: "077"
   chinese_name: 若叶
   can_drop: true

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: nsgytjsjbfdp
-  file_version: ["18", "23", "712"]
+  file_version: ["18", "23", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 1, 2]
     build_time: 85
   graph:
-    boko_n: [-16, 41]
-    boko_d: [-23, 27]
-    kaisyu_n: [-19, -9]
-    kaisyu_d: [15, 7]
-    kaizo_n: [-31, -8]
-    kaizo_d: [4, -45]
-    map_n: [-21, 32]
-    map_d: [-60, 18]
-    ensyuf_n: [-11, 27]
-    ensyuf_d: [1, -20]
-    ensyue_n: [-11, 0]
-    battle_n: [-31, 6]
-    battle_d: [-31, 6]
-    wed_a: [266, 111]
-    wed_b: [126, 128]
+    boko_n: [-24, 61]
+    boko_d: [-34, 40]
+    kaisyu_n: [-28, -13]
+    kaisyu_d: [22, 10]
+    kaizo_n: [-46, -12]
+    kaizo_d: [6, -67]
+    map_n: [-31, 48]
+    map_d: [-90, 27]
+    ensyuf_n: [-16, 40]
+    ensyuf_d: [1, -30]
+    ensyue_n: [-16, 0]
+    battle_n: [-46, 9]
+    battle_d: [-46, 9]
+    wed_a: [399, 166]
+    wed_b: [189, 192]
   wiki_id: "062a"
   chinese_name: 鸟海改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: hrkuspdmjtmd
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "2", "801"]
   book_table_id: [490]
   book_sinfo: 神戸娘の駆逐艦よ？そう、名前は荒潮。<br>姉妹達とけっこう色々頑張ったのよ。<br>でも、私の煙突に爆弾落とすのだけは、ちょっとやめてほしいわ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [100, 148]
-    boko_d: [100, 168]
-    kaisyu_n: [12, -16]
-    kaisyu_d: [24, 2]
-    kaizo_n: [32, 84]
-    kaizo_d: [32, 84]
-    map_n: [36, 124]
-    map_d: [36, 140]
-    ensyuf_n: [40, 132]
-    ensyuf_d: [44, 136]
-    ensyue_n: [40, 0]
-    battle_n: [64, 144]
-    battle_d: [64, 160]
-    wed_a: [188, -12]
-    wed_b: [84, 120]
+    boko_n: [150, 222]
+    boko_d: [150, 252]
+    kaisyu_n: [18, -24]
+    kaisyu_d: [36, 3]
+    kaizo_n: [48, 126]
+    kaizo_d: [48, 126]
+    map_n: [54, 186]
+    map_d: [54, 210]
+    ensyuf_n: [60, 198]
+    ensyuf_d: [66, 204]
+    ensyue_n: [60, 0]
+    battle_n: [96, 216]
+    battle_d: [96, 240]
+    wed_a: [282, -18]
+    wed_b: [126, 180]
   wiki_id: "290"
   chinese_name: 荒潮改二
   can_drop: false

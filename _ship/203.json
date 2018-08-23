@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: sejqtlkfjwkc
-  file_version: ["18", "18", "712"]
+  file_version: ["18", "18", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [101, 53]
-    boko_d: [109, 68]
-    kaisyu_n: [25, 16]
-    kaisyu_d: [28, 7]
-    kaizo_n: [46, -2]
-    kaizo_d: [41, -37]
-    map_n: [40, 48]
-    map_d: [13, 58]
-    ensyuf_n: [94, 47]
-    ensyuf_d: [56, 2]
-    ensyue_n: [94, 0]
-    battle_n: [52, 33]
-    battle_d: [52, 33]
-    wed_a: [144, 83]
-    wed_b: [122, 124]
+    boko_n: [151, 79]
+    boko_d: [163, 102]
+    kaisyu_n: [37, 24]
+    kaisyu_d: [42, 10]
+    kaizo_n: [69, -3]
+    kaizo_d: [61, -55]
+    map_n: [60, 72]
+    map_d: [19, 87]
+    ensyuf_n: [141, 70]
+    ensyuf_d: [84, 3]
+    ensyue_n: [141, 0]
+    battle_n: [78, 49]
+    battle_d: [78, 49]
+    wed_a: [216, 124]
+    wed_b: [183, 186]
   wiki_id: "013a"
   chinese_name: 初雪改
   can_drop: false

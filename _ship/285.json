@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: xjotoxrgwfrj
-  file_version: ["7", "3", "712"]
+  file_version: ["7", "3", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 2, 2]
     build_time: 120
   graph:
-    boko_n: [-13, -17]
-    boko_d: [-20, -3]
-    kaisyu_n: [2, -21]
-    kaisyu_d: [28, -19]
-    kaizo_n: [-68, -72]
-    kaizo_d: [-84, -114]
-    map_n: [-72, -22]
-    map_d: [-91, -16]
-    ensyuf_n: [-15, -26]
-    ensyuf_d: [-26, -74]
-    ensyue_n: [-15, 0]
-    battle_n: [-103, -48]
-    battle_d: [-103, -48]
-    wed_a: [294, 167]
-    wed_b: [90, 100]
+    boko_n: [-19, -25]
+    boko_d: [-30, -4]
+    kaisyu_n: [3, -31]
+    kaisyu_d: [42, -28]
+    kaizo_n: [-102, -108]
+    kaizo_d: [-126, -171]
+    map_n: [-108, -33]
+    map_d: [-136, -24]
+    ensyuf_n: [-22, -39]
+    ensyuf_d: [-39, -111]
+    ensyue_n: [-22, 0]
+    battle_n: [-154, -72]
+    battle_d: [-154, -72]
+    wed_a: [441, 250]
+    wed_b: [135, 150]
   wiki_id: "025a"
   chinese_name: 凤翔改
   can_drop: false

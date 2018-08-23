@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: mwlzgwdjlpxx
-  file_version: ["18", "17", "712"]
+  file_version: ["18", "17", "801"]
   book_table_id: [197]
   book_sinfo: 航空母艦、蒼龍です。<br>真珠湾攻撃から始まって、緒戦の重要な戦いに、主力空母の一隻として参加しました。<br>え？なに、ミッドウェー？なにそれ、美味しいの？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 5]
     build_time: 250
   graph:
-    boko_n: [-48, -112]
-    boko_d: [-48, -112]
-    kaisyu_n: [-16, -8]
-    kaisyu_d: [8, 4]
-    kaizo_n: [-112, -152]
-    kaizo_d: [-112, -168]
-    map_n: [-96, -112]
-    map_d: [-104, -112]
-    ensyuf_n: [-64, -112]
-    ensyuf_d: [-64, -112]
-    ensyue_n: [-96, 0]
-    battle_n: [-112, -104]
-    battle_d: [-112, -104]
-    wed_a: [336, 240]
-    wed_b: [104, 96]
+    boko_n: [-72, -168]
+    boko_d: [-72, -168]
+    kaisyu_n: [-24, -12]
+    kaisyu_d: [12, 6]
+    kaizo_n: [-168, -228]
+    kaizo_d: [-168, -252]
+    map_n: [-144, -168]
+    map_d: [-156, -168]
+    ensyuf_n: [-96, -168]
+    ensyuf_d: [-96, -168]
+    ensyue_n: [-144, 0]
+    battle_n: [-168, -156]
+    battle_d: [-168, -156]
+    wed_a: [504, 360]
+    wed_b: [156, 144]
   wiki_id: "197"
   chinese_name: 苍龙改二
   can_drop: false

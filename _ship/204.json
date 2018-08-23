@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: zlshfpystoqp
-  file_version: ["11", "11", "712"]
+  file_version: ["11", "11", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [128, 84]
-    boko_d: [132, 75]
-    kaisyu_n: [1, 11]
-    kaisyu_d: [28, 7]
-    kaizo_n: [73, 29]
-    kaizo_d: [70, -6]
-    map_n: [50, 71]
-    map_d: [36, 65]
-    ensyuf_n: [115, 73]
-    ensyuf_d: [43, 24]
-    ensyue_n: [115, 0]
-    battle_n: [87, 54]
-    battle_d: [86, 54]
-    wed_a: [120, 60]
-    wed_b: [136, 136]
+    boko_n: [192, 126]
+    boko_d: [198, 112]
+    kaisyu_n: [1, 16]
+    kaisyu_d: [42, 10]
+    kaizo_n: [109, 43]
+    kaizo_d: [105, -9]
+    map_n: [75, 106]
+    map_d: [54, 97]
+    ensyuf_n: [172, 109]
+    ensyuf_d: [64, 36]
+    ensyue_n: [172, 0]
+    battle_n: [130, 81]
+    battle_d: [129, 81]
+    wed_a: [180, 90]
+    wed_b: [204, 204]
   wiki_id: "014a"
   chinese_name: 深雪改
   can_drop: false

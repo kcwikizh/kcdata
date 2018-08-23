@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: bohmlbbvqtfs
-  file_version: ["9", "9", "712"]
+  file_version: ["9", "9", "801"]
   book_table_id: [430]
   book_sinfo: 雲龍型航空母艦の三番艦、葛城よ。そう、正規空母。<br>ちょっと生まれるのが遅かったみたい。でも、戦いが終わった後で、私は全力で働いたの。ある意味、私が一番なんだから。ホントよ？ホントなんだから。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 3]
     build_time: 210
   graph:
-    boko_n: [-24, 104]
-    boko_d: [-72, 152]
-    kaisyu_n: [8, -8]
-    kaisyu_d: [8, -8]
-    kaizo_n: [-48, 48]
-    kaizo_d: [-96, 80]
-    map_n: [-48, 80]
-    map_d: [-96, 144]
-    ensyuf_n: [0, 56]
-    ensyuf_d: [-24, 120]
-    ensyue_n: [-16, 0]
-    battle_n: [0, 72]
-    battle_d: [-64, 144]
-    wed_a: [211, 69]
-    wed_b: [137, 123]
+    boko_n: [-36, 156]
+    boko_d: [-108, 228]
+    kaisyu_n: [12, -12]
+    kaisyu_d: [12, -12]
+    kaizo_n: [-72, 72]
+    kaizo_d: [-144, 120]
+    map_n: [-72, 120]
+    map_d: [-144, 216]
+    ensyuf_n: [0, 84]
+    ensyuf_d: [-36, 180]
+    ensyue_n: [-24, 0]
+    battle_n: [0, 108]
+    battle_d: [-96, 216]
+    wed_a: [316, 103]
+    wed_b: [205, 184]
   wiki_id: "230"
   chinese_name: 葛城改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ukwcjqlolezy
-  file_version: ["20", "15", "712"]
+  file_version: ["20", "15", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [16, 62]
-    boko_d: [16, 62]
-    kaisyu_n: [28, 22]
-    kaisyu_d: [34, 30]
-    kaizo_n: [16, -31]
-    kaizo_d: [-4, -4]
-    map_n: [29, 24]
-    map_d: [29, 24]
-    ensyuf_n: [65, 50]
-    ensyuf_d: [10, 0]
-    ensyue_n: [40, 0]
-    battle_n: [-10, 27]
-    battle_d: [29, 21]
-    wed_a: [205, 80]
-    wed_b: [113, 118]
+    boko_n: [24, 93]
+    boko_d: [24, 93]
+    kaisyu_n: [42, 33]
+    kaisyu_d: [51, 45]
+    kaizo_n: [24, -46]
+    kaizo_d: [-6, -6]
+    map_n: [43, 36]
+    map_d: [43, 36]
+    ensyuf_n: [97, 75]
+    ensyuf_d: [15, 0]
+    ensyue_n: [60, 0]
+    battle_n: [-15, 40]
+    battle_d: [43, 31]
+    wed_a: [307, 120]
+    wed_b: [169, 177]
   wiki_id: "118a"
   chinese_name: 初风改
   can_drop: false

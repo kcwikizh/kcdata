@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 0
   filename: espxbipsjiyt
-  file_version: ["5", "1", "712"]
+  file_version: ["6", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 4, 2]
     build_time: 60
   graph:
-    boko_n: [11, 109]
-    boko_d: [0, 120]
-    kaisyu_n: [14, 13]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-44, 54]
-    kaizo_d: [-12, 8]
-    map_n: [-7, 107]
-    map_d: [-96, 110]
-    ensyuf_n: [10, 106]
-    ensyuf_d: [-29, 57]
-    ensyue_n: [10, 0]
-    battle_n: [-13, 88]
-    battle_d: [-14, 88]
-    wed_a: [230, 25]
-    wed_b: [144, 145]
+    boko_n: [282, 228]
+    boko_d: [84, 228]
+    kaisyu_n: [21, 19]
+    kaisyu_d: [42, 10]
+    kaizo_n: [192, 132]
+    kaizo_d: [24, 132]
+    map_n: [222, 204]
+    map_d: [18, 204]
+    ensyuf_n: [192, 198]
+    ensyuf_d: [-12, 204]
+    ensyue_n: [180, 0]
+    battle_n: [216, 198]
+    battle_d: [36, 198]
+    wed_a: [138, 0]
+    wed_b: [126, 168]
   wiki_id: "043a"
   chinese_name: 五十铃改
   can_drop: false

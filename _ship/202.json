@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: kkpwecgmftci
-  file_version: ["17", "17", "712"]
+  file_version: ["17", "17", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [25, 88]
-    boko_d: [12, 97]
-    kaisyu_n: [-6, 13]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-30, 33]
-    kaizo_d: [-30, -4]
-    map_n: [-3, 79]
-    map_d: [-13, 83]
-    ensyuf_n: [24, 74]
-    ensyuf_d: [-62, 36]
-    ensyue_n: [24, 0]
-    battle_n: [-19, 63]
-    battle_d: [-19, 63]
-    wed_a: [221, 49]
-    wed_b: [125, 134]
+    boko_n: [37, 132]
+    boko_d: [18, 145]
+    kaisyu_n: [-9, 19]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-45, 49]
+    kaizo_d: [-45, -6]
+    map_n: [-4, 118]
+    map_d: [-19, 124]
+    ensyuf_n: [36, 111]
+    ensyuf_d: [-93, 54]
+    ensyue_n: [36, 0]
+    battle_n: [-28, 94]
+    battle_d: [-28, 94]
+    wed_a: [331, 73]
+    wed_b: [187, 201]
   wiki_id: "012a"
   chinese_name: 白雪改
   can_drop: false

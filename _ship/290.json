@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: uuxoixtoemiv
-  file_version: ["15", "16", "712"]
+  file_version: ["15", "16", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 2]
     build_time: 75
   graph:
-    boko_n: [-31, 86]
-    boko_d: [-1, 91]
-    kaisyu_n: [11, 23]
-    kaisyu_d: [16, -2]
-    kaizo_n: [-45, 24]
-    kaizo_d: [-69, -40]
-    map_n: [-29, 80]
-    map_d: [-111, 7]
-    ensyuf_n: [-21, 76]
-    ensyuf_d: [-52, 32]
-    ensyue_n: [-20, 0]
-    battle_n: [-73, 67]
-    battle_d: [-73, 67]
-    wed_a: [255, 55]
-    wed_b: [130, 142]
+    boko_n: [-46, 129]
+    boko_d: [-1, 136]
+    kaisyu_n: [16, 34]
+    kaisyu_d: [24, -3]
+    kaizo_n: [-67, 36]
+    kaizo_d: [-103, -60]
+    map_n: [-43, 120]
+    map_d: [-166, 10]
+    ensyuf_n: [-31, 114]
+    ensyuf_d: [-78, 48]
+    ensyue_n: [-30, 0]
+    battle_n: [-109, 100]
+    battle_d: [-109, 100]
+    wed_a: [382, 82]
+    wed_b: [195, 213]
   wiki_id: "110a"
   chinese_name: 阿武隈改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: 私、妙高型重巡洋艦、妙高と申します。<br>共に頑張りましょう。
   voice_f: 0
   filename: grppcbegkphv
-  file_version: ["15", "15", "712"]
+  file_version: ["15", "15", "801"]
   book_table_id: [62]
   book_sinfo: ワシントン海軍軍縮条約下で建造された重巡洋艦です。<br>平賀譲氏設計による日本海軍の第一級の戦闘艦です。<br>現代の海上自衛隊のイージス艦にも、その名は受け継がれています。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 80
   graph:
-    boko_n: [99, 120]
-    boko_d: [21, 67]
-    kaisyu_n: [11, 26]
-    kaisyu_d: [28, 7]
-    kaizo_n: [44, 65]
-    kaizo_d: [-10, -27]
-    map_n: [32, 108]
-    map_d: [-75, 57]
-    ensyuf_n: [85, 106]
-    ensyuf_d: [-13, 14]
-    ensyue_n: [85, 0]
-    battle_n: [30, 83]
-    battle_d: [-7, 34]
-    wed_a: [164, 24]
-    wed_b: [94, 93]
+    boko_n: [148, 180]
+    boko_d: [31, 100]
+    kaisyu_n: [16, 39]
+    kaisyu_d: [42, 10]
+    kaizo_n: [66, 97]
+    kaizo_d: [-15, -40]
+    map_n: [48, 162]
+    map_d: [-112, 85]
+    ensyuf_n: [127, 159]
+    ensyuf_d: [-19, 21]
+    ensyue_n: [127, 0]
+    battle_n: [45, 124]
+    battle_d: [-10, 51]
+    wed_a: [246, 36]
+    wed_b: [141, 139]
   wiki_id: "055"
   chinese_name: 妙高
   can_drop: true

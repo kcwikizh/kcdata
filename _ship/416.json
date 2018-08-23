@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: vqdgxtrgintc
-  file_version: ["18", "16", "712"]
+  file_version: ["19", "16", "801"]
   book_table_id: [416]
   book_sinfo: 重巡洋艦、古鷹です。<br>三川提督率いる第８艦隊の一員として、第一次ソロモン海戦では敵艦多数を撃破したんですよ！<br>これが、重巡なんです！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [32, 144]
-    boko_d: [64, 152]
-    kaisyu_n: [8, 8]
-    kaisyu_d: [32, 0]
-    kaizo_n: [8, 80]
-    kaizo_d: [36, 64]
-    map_n: [-8, 128]
-    map_d: [40, 152]
-    ensyuf_n: [24, 128]
-    ensyuf_d: [64, 144]
-    ensyue_n: [0, 0]
-    battle_n: [16, 128]
-    battle_d: [48, 136]
-    wed_a: [208, -8]
-    wed_b: [96, 104]
+    boko_n: [240, 216]
+    boko_d: [228, 234]
+    kaisyu_n: [12, 12]
+    kaisyu_d: [48, 0]
+    kaizo_n: [228, 126]
+    kaizo_d: [216, 114]
+    map_n: [246, 192]
+    map_d: [246, 204]
+    ensyuf_n: [234, 192]
+    ensyuf_d: [228, 204]
+    ensyue_n: [228, 0]
+    battle_n: [264, 210]
+    battle_d: [258, 240]
+    wed_a: [96, -6]
+    wed_b: [150, 168]
   wiki_id: "216"
   chinese_name: 古鹰改二
   can_drop: false

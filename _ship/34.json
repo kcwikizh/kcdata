@@ -14,7 +14,7 @@ data:
   get_mes: 暁よ。<br>一人前のレディーとして扱ってよね！
   voice_f: 0
   filename: mtvkfikepcfr
-  file_version: ["3", "3", "712"]
+  file_version: ["3", "3", "801"]
   book_table_id: [34]
   book_sinfo: 特Ⅲ型駆逐艦１番艦の暁よ。<br>吹雪型をベースに航行性能や航続距離を向上させたの。特型駆逐艦の最終完成形なんだから！<br>ちゃんとレディーとして活躍したのよ！<br>ほ、ほんとなんだからっ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [17, 67]
-    boko_d: [58, 61]
-    kaisyu_n: [2, 6]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-65, 11]
-    kaizo_d: [-16, -28]
-    map_n: [-47, 60]
-    map_d: [-3, 51]
-    ensyuf_n: [-23, 64]
-    ensyuf_d: [-1, 5]
-    ensyue_n: [-23, 0]
-    battle_n: [-43, 76]
-    battle_d: [17, 67]
-    wed_a: [246, 69]
-    wed_b: [142, 144]
+    boko_n: [25, 100]
+    boko_d: [87, 91]
+    kaisyu_n: [3, 9]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-97, 16]
+    kaizo_d: [-24, -42]
+    map_n: [-70, 90]
+    map_d: [-4, 76]
+    ensyuf_n: [-34, 96]
+    ensyuf_d: [-1, 7]
+    ensyue_n: [-34, 0]
+    battle_n: [-64, 114]
+    battle_d: [25, 100]
+    wed_a: [369, 103]
+    wed_b: [213, 216]
   wiki_id: "071"
   chinese_name: 晓
   can_drop: true

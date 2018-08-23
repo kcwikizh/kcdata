@@ -14,7 +14,7 @@ data:
   get_mes: 我が名は、Queen Elizabeth class Battleship<br>Warspite !   Admiral……よろしく、頼むわね。
   voice_f: 1
   filename: lnltescodihe
-  file_version: ["3", "1", "712"]
+  file_version: ["3", "1", "801"]
   book_table_id: [439, 738]
   book_sinfo: Queen Elizabeth class　Battleship　二番艦、Warspiteです。<br>Admiral、よろしくお願いしますね。生粋の英国生まれ、英国育ちの戦艦です。本国艦隊、地中海、そしてインド洋にも展開しました。私の名前、Admiral、ぜひその胸に刻んでください。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 4]
     build_time: 280
   graph:
-    boko_n: [-36, 120]
-    boko_d: [76, 112]
-    kaisyu_n: [8, -12]
-    kaisyu_d: [44, 6]
-    kaizo_n: [-56, 56]
-    kaizo_d: [32, 48]
-    map_n: [-48, 92]
-    map_d: [56, 92]
-    ensyuf_n: [-92, 92]
-    ensyuf_d: [32, 88]
-    ensyue_n: [-88, 0]
-    battle_n: [-40, 100]
-    battle_d: [52, 104]
-    wed_a: [304, 12]
-    wed_b: [96, 112]
+    boko_n: [-54, 180]
+    boko_d: [114, 168]
+    kaisyu_n: [12, -18]
+    kaisyu_d: [66, 9]
+    kaizo_n: [-84, 84]
+    kaizo_d: [48, 72]
+    map_n: [-72, 138]
+    map_d: [84, 138]
+    ensyuf_n: [-138, 138]
+    ensyuf_d: [48, 132]
+    ensyue_n: [-132, 0]
+    battle_n: [-60, 150]
+    battle_d: [78, 156]
+    wed_a: [456, 18]
+    wed_b: [144, 168]
   wiki_id: "239"
   chinese_name: 厌战
   can_drop: false

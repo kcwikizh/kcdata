@@ -38,21 +38,21 @@ data:
     pow_up: 
     build_time: 
   graph:
-    boko_n: [44, 12]
-    boko_d: [112, 110]
-    kaisyu_n: [22, -6]
-    kaisyu_d: [60, 2]
-    kaizo_n: [20, -44]
-    kaizo_d: [84, 34]
-    map_n: [24, -12]
-    map_d: [128, 102]
-    ensyuf_n: [32, -8]
-    ensyuf_d: [140, 94]
-    ensyue_n: [8, 0]
-    battle_n: [52, 24]
-    battle_d: [144, 106]
-    wed_a: [192, 128]
-    wed_b: [88, 104]
+    boko_n: [66, 18]
+    boko_d: [168, 165]
+    kaisyu_n: [33, -9]
+    kaisyu_d: [90, 3]
+    kaizo_n: [30, -66]
+    kaizo_d: [126, 51]
+    map_n: [36, -18]
+    map_d: [192, 153]
+    ensyuf_n: [48, -12]
+    ensyuf_d: [210, 141]
+    ensyue_n: [12, 0]
+    battle_n: [78, 36]
+    battle_d: [216, 159]
+    wed_a: [288, 192]
+    wed_b: [132, 156]
   wiki_id: 
   chinese_name: 
   can_drop: false

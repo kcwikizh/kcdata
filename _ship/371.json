@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: bzigjflbyxbe
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [84, 136]
-    boko_d: [148, 148]
-    kaisyu_n: [22, -8]
-    kaisyu_d: [68, 2]
-    kaizo_n: [40, 60]
-    kaizo_d: [116, 56]
-    map_n: [48, 112]
-    map_d: [140, 128]
-    ensyuf_n: [48, 120]
-    ensyuf_d: [124, 124]
-    ensyue_n: [40, 0]
-    battle_n: [64, 132]
-    battle_d: [144, 144]
-    wed_a: [172, -4]
-    wed_b: [92, 112]
+    boko_n: [126, 204]
+    boko_d: [222, 222]
+    kaisyu_n: [33, -12]
+    kaisyu_d: [102, 3]
+    kaizo_n: [60, 90]
+    kaizo_d: [174, 84]
+    map_n: [72, 168]
+    map_d: [210, 192]
+    ensyuf_n: [72, 180]
+    ensyuf_d: [186, 186]
+    ensyue_n: [60, 0]
+    battle_n: [96, 198]
+    battle_d: [216, 216]
+    wed_a: [258, -6]
+    wed_b: [138, 168]
   wiki_id: "274a"
   chinese_name: 松风改
   can_drop: false

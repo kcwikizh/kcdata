@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: paqnehcojygu
-  file_version: ["11", "11", "712"]
+  file_version: ["11", "11", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 2, 2]
     build_time: 90
   graph:
-    boko_n: [94, 77]
-    boko_d: [116, 92]
-    kaisyu_n: [4, 32]
-    kaisyu_d: [28, 7]
-    kaizo_n: [66, 13]
-    kaizo_d: [53, -23]
-    map_n: [52, 70]
-    map_d: [23, 68]
-    ensyuf_n: [100, 70]
-    ensyuf_d: [68, 16]
-    ensyue_n: [100, 0]
-    battle_n: [36, 49]
-    battle_d: [66, 48]
-    wed_a: [155, 62]
-    wed_b: [86, 94]
+    boko_n: [141, 115]
+    boko_d: [174, 138]
+    kaisyu_n: [6, 48]
+    kaisyu_d: [42, 10]
+    kaizo_n: [99, 19]
+    kaizo_d: [79, -34]
+    map_n: [78, 105]
+    map_d: [34, 102]
+    ensyuf_n: [150, 105]
+    ensyuf_d: [102, 24]
+    ensyue_n: [150, 0]
+    battle_n: [54, 73]
+    battle_d: [99, 72]
+    wed_a: [232, 93]
+    wed_b: [129, 141]
   wiki_id: "064a"
   chinese_name: 筑摩改
   can_drop: false

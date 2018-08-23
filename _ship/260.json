@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: sxrrihbkdkjl
-  file_version: ["11", "11", "712"]
+  file_version: ["11", "11", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [86, 90]
-    boko_d: [59, -3]
-    kaisyu_n: [37, 11]
-    kaisyu_d: [28, 7]
-    kaizo_n: [31, 35]
-    kaizo_d: [6, -65]
-    map_n: [-10, 90]
-    map_d: [-37, -13]
-    ensyuf_n: [79, 84]
-    ensyuf_d: [-27, -39]
-    ensyue_n: [79, 0]
-    battle_n: [42, 98]
-    battle_d: [-13, 6]
-    wed_a: [151, 41]
-    wed_b: [142, 149]
+    boko_n: [129, 135]
+    boko_d: [88, -4]
+    kaisyu_n: [55, 16]
+    kaisyu_d: [42, 10]
+    kaizo_n: [46, 52]
+    kaizo_d: [9, -97]
+    map_n: [-15, 135]
+    map_d: [-55, -19]
+    ensyuf_n: [118, 126]
+    ensyuf_d: [-40, -58]
+    ensyue_n: [118, 0]
+    battle_n: [63, 147]
+    battle_d: [-19, 9]
+    wed_a: [226, 61]
+    wed_b: [213, 223]
   wiki_id: "037a"
   chinese_name: 三日月改
   can_drop: false

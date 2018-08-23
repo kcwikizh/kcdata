@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: usewjvwytald
-  file_version: ["1", "1", "712"]
+  file_version: ["2", "1", "801"]
   book_table_id: [478]
   book_sinfo: 軽巡洋艦、天龍型２番艦の龍田よ。<br>生まれは佐世保なの。<br>天龍ちゃんがみんなに迷惑かけてない？心配よね～。<br>え？私？私は潜水艦が、ちょっと鬼門だわ～。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 2, 2]
     build_time: 60
   graph:
-    boko_n: [24, 114]
-    boko_d: [18, 84]
-    kaisyu_n: [-8, 16]
-    kaisyu_d: [26, 12]
-    kaizo_n: [6, 56]
-    kaizo_d: [-36, 0]
-    map_n: [8, 100]
-    map_d: [-12, 64]
-    ensyuf_n: [-20, 104]
-    ensyuf_d: [-16, 64]
-    ensyue_n: [-24, 0]
-    battle_n: [16, 120]
-    battle_d: [4, 76]
-    wed_a: [236, 16]
-    wed_b: [80, 112]
+    boko_n: [138, 192]
+    boko_d: [168, 216]
+    kaisyu_n: [-12, 24]
+    kaisyu_d: [39, 18]
+    kaizo_n: [60, 96]
+    kaizo_d: [60, 72]
+    map_n: [72, 156]
+    map_d: [96, 168]
+    ensyuf_n: [108, 144]
+    ensyuf_d: [96, 156]
+    ensyue_n: [60, 0]
+    battle_n: [96, 168]
+    battle_d: [96, 192]
+    wed_a: [240, 36]
+    wed_b: [180, 156]
   wiki_id: "278"
   chinese_name: 龙田改二
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: cpcycglgelxd
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [96, 116]
-    boko_d: [64, 98]
-    kaisyu_n: [8, 8]
-    kaisyu_d: [24, 0]
-    kaizo_n: [72, 44]
-    kaizo_d: [32, 18]
-    map_n: [64, 76]
-    map_d: [48, 82]
-    ensyuf_n: [72, 92]
-    ensyuf_d: [48, 66]
-    ensyue_n: [48, 0]
-    battle_n: [64, 84]
-    battle_d: [64, 66]
-    wed_a: [144, 28]
-    wed_b: [144, 164]
+    boko_n: [144, 174]
+    boko_d: [96, 147]
+    kaisyu_n: [12, 12]
+    kaisyu_d: [36, 0]
+    kaizo_n: [108, 66]
+    kaizo_d: [48, 27]
+    map_n: [96, 114]
+    map_d: [72, 123]
+    ensyuf_n: [108, 138]
+    ensyuf_d: [72, 99]
+    ensyue_n: [72, 0]
+    battle_n: [96, 126]
+    battle_d: [96, 99]
+    wed_a: [216, 42]
+    wed_b: [216, 246]
   wiki_id: "181a"
   chinese_name: 天津风改
   can_drop: false

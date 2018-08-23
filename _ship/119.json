@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: cqtlanpwihpj
-  file_version: ["14", "19", "712"]
+  file_version: ["14", "19", "801"]
   book_table_id: [119]
   book_sinfo: 九三式酸素魚雷を満載、片舷20門、全40門の魚雷発射管を誇る、重雷装艦へと改装されたスーパー北上さまだよ。<br>その威力は圧倒的と言われていたけれど、活躍する機会が微妙になかったんだよね。ちぇっ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 5, 0, 1]
     build_time: 75
   graph:
-    boko_n: [12, -149]
-    boko_d: [12, -149]
-    kaisyu_n: [7, -41]
-    kaisyu_d: [11, -16]
-    kaizo_n: [3, -188]
-    kaizo_d: [-26, -188]
-    map_n: [-24, -159]
-    map_d: [32, -156]
-    ensyuf_n: [1, -173]
-    ensyuf_d: [-37, -173]
+    boko_n: [18, -223]
+    boko_d: [18, -223]
+    kaisyu_n: [10, -61]
+    kaisyu_d: [16, -24]
+    kaizo_n: [4, -282]
+    kaizo_d: [-39, -282]
+    map_n: [-36, -238]
+    map_d: [48, -234]
+    ensyuf_n: [1, -259]
+    ensyuf_d: [-55, -259]
     ensyue_n: [1, 0]
-    battle_n: [-33, -140]
-    battle_d: [-33, -140]
-    wed_a: [199, 318]
-    wed_b: [98, 107]
+    battle_n: [-49, -210]
+    battle_d: [-49, -210]
+    wed_a: [298, 477]
+    wed_b: [147, 160]
   wiki_id: "115"
   chinese_name: 北上改二
   can_drop: false

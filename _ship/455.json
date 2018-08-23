@@ -14,7 +14,7 @@ data:
   get_mes: 陽炎型駆逐艦、十七番艦、萩風。参りました。<br>司令、ご指示をお願いします。
   voice_f: 1
   filename: xxbsgzxwjqxh
-  file_version: ["8", "8", "712"]
+  file_version: ["8", "8", "801"]
   book_table_id: [455]
   book_sinfo: 陽炎型駆逐艦十七番艦、萩風です。浦賀生まれです。嵐と一緒に第四駆逐隊で頑張りました。南雲機動部隊の直衛、ソロモンの死闘を経験しました。最期の夜も…嵐と一緒です。私たち、四駆のこと、覚えていてくださいね。
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [128, 128]
-    boko_d: [152, 152]
-    kaisyu_n: [24, 0]
-    kaisyu_d: [32, 4]
-    kaizo_n: [80, 56]
-    kaizo_d: [80, 72]
-    map_n: [88, 104]
-    map_d: [96, 128]
-    ensyuf_n: [112, 100]
-    ensyuf_d: [112, 124]
-    ensyue_n: [80, 0]
-    battle_n: [96, 112]
-    battle_d: [112, 144]
-    wed_a: [112, 24]
-    wed_b: [96, 104]
+    boko_n: [192, 192]
+    boko_d: [228, 228]
+    kaisyu_n: [36, 0]
+    kaisyu_d: [48, 6]
+    kaizo_n: [120, 84]
+    kaizo_d: [120, 108]
+    map_n: [132, 156]
+    map_d: [144, 192]
+    ensyuf_n: [168, 150]
+    ensyuf_d: [168, 186]
+    ensyue_n: [120, 0]
+    battle_n: [144, 168]
+    battle_d: [168, 216]
+    wed_a: [168, 36]
+    wed_b: [144, 156]
   wiki_id: "255"
   chinese_name: 萩风‎
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

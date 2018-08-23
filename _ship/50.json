@@ -14,7 +14,7 @@ data:
   get_mes: 駆逐艦島風です。スピードなら誰にも負けません。<br>速きこと、島風の如し、です！
   voice_f: 0
   filename: uffgxggsrtti
-  file_version: ["12", "9", "712"]
+  file_version: ["12", "9", "801"]
   book_table_id: [50, 1002]
   book_sinfo: 艦隊型駆逐艦の最高峰を目指して開発された、高速で重雷装の駆逐艦、島風型よ。<br>40ノット以上の快速なんだから。<br>でも、量産には向かなくって、私一隻しか建造されなかったの。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 1]
     build_time: 30
   graph:
-    boko_n: [110, -19]
-    boko_d: [19, 42]
-    kaisyu_n: [32, -21]
-    kaisyu_d: [28, 7]
-    kaizo_n: [67, -87]
-    kaizo_d: [-30, -11]
-    map_n: [49, -2]
-    map_d: [-75, 53]
-    ensyuf_n: [106, -14]
-    ensyuf_d: [-18, 4]
-    ensyue_n: [106, 0]
-    battle_n: [48, -24]
-    battle_d: [0, 25]
-    wed_a: [129, 159]
-    wed_b: [119, 117]
+    boko_n: [165, -28]
+    boko_d: [28, 63]
+    kaisyu_n: [48, -31]
+    kaisyu_d: [42, 10]
+    kaizo_n: [100, -130]
+    kaizo_d: [-45, -16]
+    map_n: [73, -3]
+    map_d: [-112, 79]
+    ensyuf_n: [159, -21]
+    ensyuf_d: [-27, 6]
+    ensyue_n: [159, 0]
+    battle_n: [72, -36]
+    battle_d: [0, 37]
+    wed_a: [193, 238]
+    wed_b: [178, 175]
   wiki_id: "010"
   chinese_name: 岛风
   can_drop: true

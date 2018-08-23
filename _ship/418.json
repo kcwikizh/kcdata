@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: uhbkffblgplp
-  file_version: ["2", "2", "712"]
+  file_version: ["2", "2", "801"]
   book_table_id: [418]
   book_sinfo: ボクは任務途中に何度も何度も怪我をしたけど、最後まで奮戦した睦月型駆逐艦５番艦さ。<br>緒戦の後も、船団護衛などで各海域で頑張ったんだ。ホントだよ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 2, 0]
     build_time: 18
   graph:
-    boko_n: [16, 156]
-    boko_d: [104, 120]
-    kaisyu_n: [18, -16]
-    kaisyu_d: [52, 0]
-    kaizo_n: [-40, 88]
-    kaizo_d: [48, 48]
-    map_n: [-48, 136]
-    map_d: [24, 96]
-    ensyuf_n: [-36, 132]
-    ensyuf_d: [56, 80]
-    ensyue_n: [-56, 0]
-    battle_n: [-20, 144]
-    battle_d: [64, 92]
-    wed_a: [256, -8]
-    wed_b: [108, 112]
+    boko_n: [24, 234]
+    boko_d: [156, 180]
+    kaisyu_n: [27, -24]
+    kaisyu_d: [78, 0]
+    kaizo_n: [-60, 132]
+    kaizo_d: [72, 72]
+    map_n: [-72, 204]
+    map_d: [36, 144]
+    ensyuf_n: [-54, 198]
+    ensyuf_d: [84, 120]
+    ensyue_n: [-84, 0]
+    battle_n: [-30, 216]
+    battle_d: [96, 138]
+    wed_a: [384, -12]
+    wed_b: [162, 168]
   wiki_id: "218"
   chinese_name: 皋月改二
   can_drop: false

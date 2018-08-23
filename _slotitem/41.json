@@ -4,7 +4,7 @@ order: 41
 data:
   id: 41
   sort_no: 41
-  name: 甲標的
+  name: 甲標的 甲型
   type: [2, 4, 22, 5, 0]
   rare: 1
   broken: [0, 7, 7, 0]

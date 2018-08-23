@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 0
   filename: udkkmzgsimgq
-  file_version: ["4", "4", "712"]
+  file_version: ["4", "4", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [-19, 69]
-    boko_d: [-10, 77]
-    kaisyu_n: [8, 11]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-54, 16]
-    kaizo_d: [-35, -27]
-    map_n: [-30, 60]
-    map_d: [-106, 67]
-    ensyuf_n: [-4, 68]
-    ensyuf_d: [-12, 25]
-    ensyue_n: [-4, 0]
-    battle_n: [-26, 41]
-    battle_d: [-26, 41]
-    wed_a: [219, 53]
-    wed_b: [153, 162]
+    boko_n: [-28, 103]
+    boko_d: [-15, 115]
+    kaisyu_n: [12, 16]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-81, 24]
+    kaizo_d: [-52, -40]
+    map_n: [-45, 90]
+    map_d: [-159, 100]
+    ensyuf_n: [-6, 102]
+    ensyuf_d: [-18, 37]
+    ensyue_n: [-6, 0]
+    battle_n: [-39, 61]
+    battle_d: [-39, 61]
+    wed_a: [328, 79]
+    wed_b: [229, 243]
   wiki_id: "054a"
   chinese_name: 青叶改
   can_drop: false

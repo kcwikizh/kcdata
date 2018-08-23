@@ -12,9 +12,9 @@ data:
   after_lv: 85
   after_ship_id: 468
   get_mes: <br>
-  voice_f: 1
+  voice_f: 3
   filename: grmdtyheocuc
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "12", "801"]
   book_table_id: [463]
   book_sinfo: 朝潮型駆逐艦のネームシップ、朝潮よ。<br>バランスのとれた量産型駆逐艦として建造され、戦線を支えたの。<br>私の進化改良型が陽炎型になるわね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [136, 156]
-    boko_d: [132, 164]
-    kaisyu_n: [4, -4]
-    kaisyu_d: [18, 8]
-    kaizo_n: [64, 100]
-    kaizo_d: [72, 112]
-    map_n: [76, 140]
-    map_d: [72, 144]
-    ensyuf_n: [76, 140]
-    ensyuf_d: [72, 136]
-    ensyue_n: [80, 0]
-    battle_n: [96, 148]
-    battle_d: [92, 152]
-    wed_a: [140, -4]
-    wed_b: [92, 112]
+    boko_n: [204, 234]
+    boko_d: [198, 246]
+    kaisyu_n: [6, -6]
+    kaisyu_d: [27, 12]
+    kaizo_n: [96, 150]
+    kaizo_d: [108, 168]
+    map_n: [114, 210]
+    map_d: [108, 216]
+    ensyuf_n: [114, 210]
+    ensyuf_d: [108, 204]
+    ensyue_n: [120, 0]
+    battle_n: [144, 222]
+    battle_d: [138, 228]
+    wed_a: [210, -6]
+    wed_b: [138, 168]
   wiki_id: "263"
   chinese_name: 朝潮改二
   can_drop: false

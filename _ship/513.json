@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: rnuehhgtsiay
-  file_version: ["51", "1", "712"]
+  file_version: ["51", "1", "801"]
   book_table_id: [513]
   book_sinfo: 三連装主砲を持つロシアの弩級戦艦Гангут級、その一番艦だ。革命後は名前を変えたが、近代化改装後、再びГангутの名に戻ったさ。冬戦争、そしてあの大きな戦いにも参加した。地上戦支援で勝利に大きく貢献した私は勲章ももらったな。この戦い、私も貢献しよう。私に任せておけ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 1, 4]
     build_time: 240
   graph:
-    boko_n: [20, 112]
-    boko_d: [-20, 136]
-    kaisyu_n: [16, -16]
-    kaisyu_d: [36, -2]
-    kaizo_n: [-40, 72]
-    kaizo_d: [-84, 68]
-    map_n: [-16, 112]
-    map_d: [-52, 116]
-    ensyuf_n: [-16, 100]
-    ensyuf_d: [-56, 112]
-    ensyue_n: [-32, 0]
-    battle_n: [-16, 136]
-    battle_d: [-36, 136]
-    wed_a: [260, 4]
-    wed_b: [76, 116]
+    boko_n: [30, 168]
+    boko_d: [-30, 204]
+    kaisyu_n: [24, -24]
+    kaisyu_d: [54, -3]
+    kaizo_n: [-60, 108]
+    kaizo_d: [-126, 102]
+    map_n: [-24, 168]
+    map_d: [-78, 174]
+    ensyuf_n: [-24, 150]
+    ensyuf_d: [-84, 168]
+    ensyue_n: [-48, 0]
+    battle_n: [-24, 204]
+    battle_d: [-54, 204]
+    wed_a: [390, 6]
+    wed_b: [114, 174]
   wiki_id: "316"
   chinese_name: 甘古特改
   can_drop: false

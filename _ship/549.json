@@ -14,7 +14,7 @@ data:
   get_mes: Hi！ Essex class航空母艦、５番艦。Intrepidよ！<br>貴方がAdmiralなのね？　素敵ね。さァ、一緒にいきましょう？<br>いいかナ？
   voice_f: 1
   filename: pwipskreiclu
-  file_version: ["51", "1", "712"]
+  file_version: ["51", "1", "801"]
   book_table_id: [549, 397]
   book_sinfo: Essex級航空母艦、５番艦、Intrepidよ！　そう、艦隊型正規空母として量産されたあの戦い最強の空母姉妹の一隻です。あの大戦が終わった後も、近代化改装され、アングルド・デッキを備えた現代空母の先駆けとしても運用されました。そして、退役後はハドソン川で海上航空宇宙博物館として、現存しているの。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 0, 4, 5]
     build_time: 330
   graph:
-    boko_n: [0, 20]
-    boko_d: [28, 114]
-    kaisyu_n: [4, -30]
-    kaisyu_d: [40, 4]
-    kaizo_n: [-8, -48]
-    kaizo_d: [12, 36]
-    map_n: [28, 16]
-    map_d: [68, 94]
-    ensyuf_n: [-12, 18]
-    ensyuf_d: [48, 100]
-    ensyue_n: [-18, 0]
-    battle_n: [24, 32]
-    battle_d: [80, 112]
-    wed_a: [226, 104]
-    wed_b: [84, 108]
+    boko_n: [0, 30]
+    boko_d: [42, 171]
+    kaisyu_n: [6, -45]
+    kaisyu_d: [60, 6]
+    kaizo_n: [-12, -72]
+    kaizo_d: [18, 54]
+    map_n: [42, 24]
+    map_d: [102, 141]
+    ensyuf_n: [-18, 27]
+    ensyuf_d: [72, 150]
+    ensyue_n: [-27, 0]
+    battle_n: [36, 48]
+    battle_d: [120, 168]
+    wed_a: [339, 156]
+    wed_b: [126, 162]
   wiki_id: "349"
   chinese_name: 无畏
   can_drop: false

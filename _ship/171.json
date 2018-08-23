@@ -14,7 +14,7 @@ data:
   get_mes: Guten Tag.<br>私はビスマルク型戦艦のネームシップ、ビスマルク。<br>よおく覚えておくのよ。
   voice_f: 1
   filename: ntmjjittqkcj
-  file_version: ["9", "9", "712"]
+  file_version: ["9", "9", "801"]
   book_table_id: [171]
   book_sinfo: ドイツの誇るビスマルク級超弩級戦艦のネームシップ、それが私よ。<br>ドイツらしい重厚かつ美しいデザインでしょう？いいのよ、もっと褒めても。<br>この海でも縦横無尽に活躍するわ。期待しなさい！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 0, 1, 3]
     build_time: 300
   graph:
-    boko_n: [-48, 32]
-    boko_d: [0, 136]
-    kaisyu_n: [8, -16]
-    kaisyu_d: [24, 8]
-    kaizo_n: [-104, 16]
-    kaizo_d: [-48, 40]
-    map_n: [-80, 32]
-    map_d: [-40, 120]
-    ensyuf_n: [-48, 16]
-    ensyuf_d: [0, 64]
-    ensyue_n: [-80, 0]
-    battle_n: [-48, 40]
-    battle_d: [16, 128]
-    wed_a: [344, 112]
-    wed_b: [112, 112]
+    boko_n: [-72, 48]
+    boko_d: [0, 204]
+    kaisyu_n: [12, -24]
+    kaisyu_d: [36, 12]
+    kaizo_n: [-156, 24]
+    kaizo_d: [-72, 60]
+    map_n: [-120, 48]
+    map_d: [-60, 180]
+    ensyuf_n: [-72, 24]
+    ensyuf_d: [0, 96]
+    ensyue_n: [-120, 0]
+    battle_n: [-72, 60]
+    battle_d: [24, 192]
+    wed_a: [516, 168]
+    wed_b: [168, 168]
   wiki_id: "171"
   chinese_name: 俾斯麦
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: vbqucvbohcex
-  file_version: ["8", "8", "712"]
+  file_version: ["8", "8", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [128, 128]
-    boko_d: [152, 152]
-    kaisyu_n: [24, 0]
-    kaisyu_d: [32, 4]
-    kaizo_n: [80, 56]
-    kaizo_d: [80, 72]
-    map_n: [88, 104]
-    map_d: [96, 128]
-    ensyuf_n: [112, 100]
-    ensyuf_d: [112, 124]
-    ensyue_n: [80, 0]
-    battle_n: [96, 112]
-    battle_d: [112, 144]
-    wed_a: [112, 24]
-    wed_b: [96, 104]
+    boko_n: [192, 192]
+    boko_d: [228, 228]
+    kaisyu_n: [36, 0]
+    kaisyu_d: [48, 6]
+    kaizo_n: [120, 84]
+    kaizo_d: [120, 108]
+    map_n: [132, 156]
+    map_d: [144, 192]
+    ensyuf_n: [168, 150]
+    ensyuf_d: [168, 186]
+    ensyue_n: [120, 0]
+    battle_n: [144, 168]
+    battle_d: [168, 216]
+    wed_a: [168, 36]
+    wed_b: [144, 156]
   wiki_id: "255a"
   chinese_name: 萩风‎改
   can_drop: false

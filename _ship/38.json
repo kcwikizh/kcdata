@@ -14,7 +14,7 @@ data:
   get_mes: わらわが初春じゃ。<br>よろしく頼みますぞ。
   voice_f: 0
   filename: nlobofyxzvku
-  file_version: ["14", "18", "712"]
+  file_version: ["14", "18", "801"]
   book_table_id: [38]
   book_sinfo: 初春型駆逐艦、１番艦の初春じゃ。<br>わらわは、北方部隊に所属。戦雲渦巻くアッツやキスカなどの北方海域で活躍したぞ。<br>北海道周辺も好きな海域じゃな。マニラ湾やオルモック…？ああ、熱いところは苦手じゃ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [28, 26]
-    boko_d: [11, 35]
-    kaisyu_n: [29, -42]
-    kaisyu_d: [28, -30]
-    kaizo_n: [-27, -29]
-    kaizo_d: [-44, -50]
-    map_n: [-23, 40]
-    map_d: [-85, 25]
-    ensyuf_n: [9, 27]
-    ensyuf_d: [-32, -16]
-    ensyue_n: [9, 0]
-    battle_n: [-33, 27]
-    battle_d: [-35, 28]
-    wed_a: [218, 123]
-    wed_b: [131, 133]
+    boko_n: [42, 39]
+    boko_d: [16, 52]
+    kaisyu_n: [43, -63]
+    kaisyu_d: [42, -45]
+    kaizo_n: [-40, -43]
+    kaizo_d: [-66, -75]
+    map_n: [-34, 60]
+    map_d: [-127, 37]
+    ensyuf_n: [13, 40]
+    ensyuf_d: [-48, -24]
+    ensyue_n: [13, 0]
+    battle_n: [-49, 40]
+    battle_d: [-52, 42]
+    wed_a: [327, 184]
+    wed_b: [196, 199]
   wiki_id: "075"
   chinese_name: 初春
   can_drop: true

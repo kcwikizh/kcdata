@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: gvryjheydxtt
-  file_version: ["51", "2", "712"]
+  file_version: ["51", "2", "801"]
   book_table_id: [526, 380]
   book_sinfo: 航空母艦、大鷹です。<br>優秀船舶建造助成施設によって建造された客船でしたが、戦いに臨み、空母へと改装されました。航空機の輸送などに務めた後、大鷹と名前を変えて、海上護衛の任に就きました。夜の潜水艦は…怖いですね……。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 2]
     build_time: 160
   graph:
-    boko_n: [152, 140]
-    boko_d: [136, 140]
-    kaisyu_n: [36, 2]
-    kaisyu_d: [26, 12]
-    kaizo_n: [148, 72]
-    kaizo_d: [64, 64]
-    map_n: [160, 136]
-    map_d: [84, 140]
-    ensyuf_n: [148, 128]
-    ensyuf_d: [72, 132]
-    ensyue_n: [148, 0]
-    battle_n: [172, 136]
-    battle_d: [96, 156]
-    wed_a: [68, -16]
-    wed_b: [80, 104]
+    boko_n: [228, 210]
+    boko_d: [204, 210]
+    kaisyu_n: [54, 3]
+    kaisyu_d: [39, 18]
+    kaizo_n: [222, 108]
+    kaizo_d: [96, 96]
+    map_n: [240, 204]
+    map_d: [126, 210]
+    ensyuf_n: [222, 192]
+    ensyuf_d: [108, 198]
+    ensyue_n: [222, 0]
+    battle_n: [258, 204]
+    battle_d: [144, 234]
+    wed_a: [102, -24]
+    wed_b: [120, 156]
   wiki_id: "326"
   chinese_name: 大鹰
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: 軽空母、龍驤や。独特なシルエットでしょ？<br>でも、艦載機を次々繰り出す、ちゃーんとした空母なんや。期待してや！
   voice_f: 0
   filename: iyondwbusgym
-  file_version: ["21", "13", "712"]
+  file_version: ["21", "13", "801"]
   book_table_id: [76, 281, 904]
   book_sinfo: 軽空母だけど、結構歴戦の空母なんよ、うち。<br>ああ、あの岩手沖での第四艦隊事件のこと？あれはきつかったー。<br>波浪で艦橋圧壊…いや、ホントありえへん。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 2, 2]
     build_time: 170
   graph:
-    boko_n: [4, 75]
-    boko_d: [8, 82]
-    kaisyu_n: [10, 0]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-28, 19]
-    kaizo_d: [28, -10]
-    map_n: [38, 70]
-    map_d: [-16, 72]
-    ensyuf_n: [5, 70]
-    ensyuf_d: [-3, 64]
-    ensyue_n: [5, 0]
-    battle_n: [-37, 53]
-    battle_d: [-38, 53]
-    wed_a: [245, 51]
-    wed_b: [111, 134]
+    boko_n: [6, 112]
+    boko_d: [12, 123]
+    kaisyu_n: [15, 0]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-42, 28]
+    kaizo_d: [42, -15]
+    map_n: [57, 105]
+    map_d: [-24, 108]
+    ensyuf_n: [7, 105]
+    ensyuf_d: [-4, 96]
+    ensyue_n: [7, 0]
+    battle_n: [-55, 79]
+    battle_d: [-57, 79]
+    wed_a: [367, 76]
+    wed_b: [166, 201]
   wiki_id: "030"
   chinese_name: 龙骧
   can_drop: true

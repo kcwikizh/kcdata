@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: gjdwbkyoqrwv
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 2, 2]
     build_time: 160
   graph:
-    boko_n: [152, 140]
-    boko_d: [136, 140]
-    kaisyu_n: [36, 2]
-    kaisyu_d: [26, 12]
-    kaizo_n: [148, 72]
-    kaizo_d: [64, 64]
-    map_n: [160, 136]
-    map_d: [84, 140]
-    ensyuf_n: [148, 128]
-    ensyuf_d: [72, 132]
-    ensyue_n: [148, 0]
-    battle_n: [172, 136]
-    battle_d: [96, 156]
-    wed_a: [68, -16]
-    wed_b: [80, 104]
+    boko_n: [228, 210]
+    boko_d: [204, 210]
+    kaisyu_n: [54, 3]
+    kaisyu_d: [39, 18]
+    kaizo_n: [222, 108]
+    kaizo_d: [96, 96]
+    map_n: [240, 204]
+    map_d: [126, 210]
+    ensyuf_n: [222, 192]
+    ensyuf_d: [108, 198]
+    ensyue_n: [222, 0]
+    battle_n: [258, 204]
+    battle_d: [144, 234]
+    wed_a: [102, -24]
+    wed_b: [120, 156]
   wiki_id: "326a"
   chinese_name: 大鹰改
   can_drop: false

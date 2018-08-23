@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: kftqxfempust
-  file_version: ["15", "16", "712"]
+  file_version: ["15", "16", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 4]
     build_time: 250
   graph:
-    boko_n: [-29, -36]
-    boko_d: [-51, -34]
-    kaisyu_n: [13, -48]
-    kaisyu_d: [28, -27]
-    kaizo_n: [-84, -91]
-    kaizo_d: [-112, -122]
-    map_n: [-60, -35]
-    map_d: [-122, -43]
-    ensyuf_n: [-51, -58]
-    ensyuf_d: [-77, -90]
-    ensyue_n: [-51, 0]
-    battle_n: [-113, -58]
-    battle_d: [-113, -58]
-    wed_a: [292, 182]
-    wed_b: [94, 98]
+    boko_n: [-43, -54]
+    boko_d: [-76, -51]
+    kaisyu_n: [19, -72]
+    kaisyu_d: [42, -40]
+    kaizo_n: [-126, -136]
+    kaizo_d: [-168, -183]
+    map_n: [-90, -52]
+    map_d: [-183, -64]
+    ensyuf_n: [-76, -87]
+    ensyuf_d: [-115, -135]
+    ensyue_n: [-76, 0]
+    battle_n: [-169, -87]
+    battle_d: [-169, -87]
+    wed_a: [438, 273]
+    wed_b: [141, 147]
   wiki_id: "009a"
   chinese_name: 飞龙改
   can_drop: false

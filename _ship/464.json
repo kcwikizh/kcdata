@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: mqlroxfnufpz
-  file_version: ["4", "4", "712"]
+  file_version: ["5", "5", "801"]
   book_table_id: [464]
   book_sinfo: 歴戦の主力駆逐艦として奮戦したわ。<br>最後は戦艦大和と共に坊ノ岬沖海戦で米艦載機の猛攻と戦ったの。<br>負けないわ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [108, 160]
-    boko_d: [144, 160]
-    kaisyu_n: [8, -22]
-    kaisyu_d: [20, -8]
-    kaizo_n: [24, 80]
-    kaizo_d: [64, 64]
-    map_n: [52, 124]
-    map_d: [92, 124]
-    ensyuf_n: [52, 128]
-    ensyuf_d: [72, 128]
-    ensyue_n: [40, 0]
-    battle_n: [40, 132]
-    battle_d: [92, 144]
-    wed_a: [200, -8]
-    wed_b: [100, 112]
+    boko_n: [90, 217]
+    boko_d: [186, 222]
+    kaisyu_n: [12, -33]
+    kaisyu_d: [30, -12]
+    kaizo_n: [66, 111]
+    kaizo_d: [144, 96]
+    map_n: [49, 210]
+    map_d: [142, 223]
+    ensyuf_n: [64, 198]
+    ensyuf_d: [163, 205]
+    ensyue_n: [93, 0]
+    battle_n: [84, 223]
+    battle_d: [186, 237]
+    wed_a: [282, -9]
+    wed_b: [114, 151]
   wiki_id: "264"
   chinese_name: 霞改二
   can_drop: false

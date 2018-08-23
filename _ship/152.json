@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: kspwuqsyhipy
-  file_version: ["14", "17", "712"]
+  file_version: ["14", "17", "801"]
   book_table_id: [152]
   book_sinfo: 霧島です。姉妹艦の榛名には、頭脳は負けないわよ？<br>純国産高速戦艦として、奮戦するんだからっ！<br>現代の海自イージス艦にもその名は受け継がれたの。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 4]
     build_time: 240
   graph:
-    boko_n: [0, 108]
-    boko_d: [32, 108]
-    kaisyu_n: [0, 28]
-    kaisyu_d: [60, 28]
-    kaizo_n: [-48, 48]
-    kaizo_d: [32, 16]
-    map_n: [0, 128]
-    map_d: [48, 96]
-    ensyuf_n: [16, 112]
-    ensyuf_d: [32, 48]
-    ensyue_n: [-32, 0]
-    battle_n: [24, 96]
-    battle_d: [24, 96]
-    wed_a: [264, 16]
-    wed_b: [112, 104]
+    boko_n: [0, 162]
+    boko_d: [48, 162]
+    kaisyu_n: [0, 42]
+    kaisyu_d: [90, 42]
+    kaizo_n: [-72, 72]
+    kaizo_d: [48, 24]
+    map_n: [0, 192]
+    map_d: [72, 144]
+    ensyuf_n: [24, 168]
+    ensyuf_d: [48, 72]
+    ensyue_n: [-48, 0]
+    battle_n: [36, 144]
+    battle_d: [36, 144]
+    wed_a: [396, 24]
+    wed_b: [168, 156]
   wiki_id: "152"
   chinese_name: 雾岛改二
   can_drop: false

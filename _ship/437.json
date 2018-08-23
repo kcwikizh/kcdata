@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: gzerqivthcrd
-  file_version: ["3", "3", "712"]
+  file_version: ["3", "3", "801"]
   book_table_id: [437]
   book_sinfo: 特Ⅲ型駆逐艦１番艦の暁よ。<br>吹雪型をベースに航行性能や航続距離を向上させたの。特型駆逐艦の最終完成形なんだから！<br>ちゃんとレディーとして活躍したのよ！<br>ほ、ほんとなんだからっ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 1, 1]
     build_time: 20
   graph:
-    boko_n: [112, 156]
-    boko_d: [144, 144]
-    kaisyu_n: [16, 16]
-    kaisyu_d: [32, 32]
-    kaizo_n: [56, 92]
-    kaizo_d: [80, 72]
-    map_n: [64, 144]
-    map_d: [104, 128]
-    ensyuf_n: [80, 128]
-    ensyuf_d: [112, 112]
-    ensyue_n: [64, 0]
-    battle_n: [80, 140]
-    battle_d: [112, 128]
-    wed_a: [128, 0]
-    wed_b: [128, 128]
+    boko_n: [168, 234]
+    boko_d: [216, 216]
+    kaisyu_n: [24, 24]
+    kaisyu_d: [48, 48]
+    kaizo_n: [84, 138]
+    kaizo_d: [120, 108]
+    map_n: [96, 216]
+    map_d: [156, 192]
+    ensyuf_n: [120, 192]
+    ensyuf_d: [168, 168]
+    ensyue_n: [96, 0]
+    battle_n: [120, 210]
+    battle_d: [168, 192]
+    wed_a: [192, 0]
+    wed_b: [192, 192]
   wiki_id: "237"
   chinese_name: 晓改二
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: tuvoqtqrddem
-  file_version: ["9", "3", "712"]
+  file_version: ["10", "3", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 1]
     build_time: 200
   graph:
-    boko_n: [-32, 128]
-    boko_d: [-32, 128]
-    kaisyu_n: [24, 8]
-    kaisyu_d: [40, 24]
-    kaizo_n: [16, 64]
-    kaizo_d: [16, 64]
-    map_n: [32, 112]
-    map_d: [32, 112]
-    ensyuf_n: [48, 112]
-    ensyuf_d: [48, 72]
-    ensyue_n: [16, 0]
-    battle_n: [16, 96]
-    battle_d: [32, 96]
-    wed_a: [170, 8]
-    wed_b: [114, 123]
+    boko_n: [204, 216]
+    boko_d: [252, 216]
+    kaisyu_n: [36, 12]
+    kaisyu_d: [60, 36]
+    kaizo_n: [144, 120]
+    kaizo_d: [174, 84]
+    map_n: [192, 180]
+    map_d: [237, 180]
+    ensyuf_n: [198, 192]
+    ensyuf_d: [240, 192]
+    ensyue_n: [180, 0]
+    battle_n: [198, 198]
+    battle_d: [240, 198]
+    wed_a: [138, 18]
+    wed_b: [144, 180]
   wiki_id: "155a"
   chinese_name: 伊401改
   can_drop: false

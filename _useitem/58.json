@@ -6,7 +6,7 @@ data:
   category: 0
   name: 改装設計図
   description:
-    - "艦娘の「特別な改造」に使用する設計図。"
+    - "艦娘の「特別な改造」に使用す<br>る設計図。"
     - ""
   price: 0
   chinese_name: 改装设计图

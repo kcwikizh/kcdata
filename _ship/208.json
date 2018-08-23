@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: epjlpvhwcjvw
-  file_version: ["16", "14", "712"]
+  file_version: ["16", "14", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [96, 88]
-    boko_d: [98, 95]
-    kaisyu_n: [16, 16]
-    kaisyu_d: [28, 7]
-    kaizo_n: [41, 33]
-    kaizo_d: [23, -7]
-    map_n: [37, 87]
-    map_d: [2, 85]
-    ensyuf_n: [89, 87]
-    ensyuf_d: [55, 46]
-    ensyue_n: [89, 0]
-    battle_n: [38, 74]
-    battle_d: [38, 74]
-    wed_a: [152, 46]
-    wed_b: [134, 136]
+    boko_n: [144, 132]
+    boko_d: [147, 142]
+    kaisyu_n: [24, 24]
+    kaisyu_d: [42, 10]
+    kaizo_n: [61, 49]
+    kaizo_d: [34, -10]
+    map_n: [55, 130]
+    map_d: [3, 127]
+    ensyuf_n: [133, 130]
+    ensyuf_d: [82, 69]
+    ensyue_n: [133, 0]
+    battle_n: [57, 111]
+    battle_d: [57, 111]
+    wed_a: [228, 69]
+    wed_b: [201, 204]
   wiki_id: "018a"
   chinese_name: 敷波改
   can_drop: false

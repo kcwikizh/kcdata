@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: nnkmuxqyewyk
-  file_version: ["6", "2", "712"]
+  file_version: ["7", "2", "801"]
   book_table_id: [141]
   book_sinfo: 五十鈴は、大正時代に建造された長良型軽巡の２番艦。<br>韋駄天さはもちろんだけど、私の歴代艦長の中からは、あの山本五十六提督、山口多聞提督など後の海軍を支える人物が多数輩出されたの。凄いでしょ？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 4, 2]
     build_time: 60
   graph:
-    boko_n: [44, 132]
-    boko_d: [86, 126]
-    kaisyu_n: [34, 8]
-    kaisyu_d: [40, 12]
-    kaizo_n: [56, 56]
-    kaizo_d: [76, 48]
-    map_n: [32, 112]
-    map_d: [60, 112]
-    ensyuf_n: [80, 128]
-    ensyuf_d: [80, 76]
-    ensyue_n: [20, 0]
-    battle_n: [40, 120]
-    battle_d: [80, 88]
-    wed_a: [133, 0]
-    wed_b: [134, 133]
+    boko_n: [282, 228]
+    boko_d: [84, 228]
+    kaisyu_n: [51, 12]
+    kaisyu_d: [60, 18]
+    kaizo_n: [192, 132]
+    kaizo_d: [24, 132]
+    map_n: [222, 204]
+    map_d: [18, 204]
+    ensyuf_n: [192, 198]
+    ensyuf_d: [-12, 204]
+    ensyue_n: [180, 0]
+    battle_n: [216, 198]
+    battle_d: [36, 198]
+    wed_a: [138, 0]
+    wed_b: [126, 168]
   wiki_id: "141"
   chinese_name: 五十铃改二
   can_drop: false

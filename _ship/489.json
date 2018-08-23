@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: nhulrhmihxop
-  file_version: ["13", "15", "712"]
+  file_version: ["13", "16", "801"]
   book_table_id: [489, 757]
   book_sinfo: 駆逐艦、満潮よ。<br>姉妹艦の朝潮、大潮、荒潮とは第８駆逐隊で腐れ縁の仲。でも、最後は離れ離れ。<br>私は西村艦隊の一員として、レイテに突入を図ったわ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [144, 156]
-    boko_d: [144, 156]
-    kaisyu_n: [18, -12]
-    kaisyu_d: [36, 8]
-    kaizo_n: [100, 88]
-    kaizo_d: [64, 76]
-    map_n: [112, 136]
-    map_d: [84, 136]
-    ensyuf_n: [104, 136]
-    ensyuf_d: [92, 136]
-    ensyue_n: [104, 0]
-    battle_n: [136, 148]
-    battle_d: [120, 152]
-    wed_a: [124, -12]
-    wed_b: [72, 124]
+    boko_n: [216, 234]
+    boko_d: [216, 234]
+    kaisyu_n: [27, -18]
+    kaisyu_d: [54, 12]
+    kaizo_n: [150, 132]
+    kaizo_d: [96, 114]
+    map_n: [168, 204]
+    map_d: [126, 204]
+    ensyuf_n: [156, 204]
+    ensyuf_d: [138, 204]
+    ensyue_n: [156, 0]
+    battle_n: [204, 222]
+    battle_d: [180, 228]
+    wed_a: [186, -18]
+    wed_b: [108, 186]
   wiki_id: "289"
   chinese_name: 满潮改二
   can_drop: false

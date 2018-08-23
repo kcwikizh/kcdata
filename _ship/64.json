@@ -14,7 +14,7 @@ data:
   get_mes: 足柄よ。砲雷撃戦が得意なの。<br>ふふ、よろしくね。
   voice_f: 0
   filename: opprvckvhrkv
-  file_version: ["14", "14", "712"]
+  file_version: ["14", "14", "801"]
   book_table_id: [64]
   book_sinfo: 私、足柄が英国の観艦式に参加した時のことよ。<br>まるで「飢えた狼のよう」と評価されたの。<br>当然よね！この精悍なボディ！<br>え？それは色気がないって嫌味じゃないかって？<br>そんなことあるわけ…ナイじゃない！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 80
   graph:
-    boko_n: [73, 71]
-    boko_d: [75, 75]
-    kaisyu_n: [8, 19]
-    kaisyu_d: [28, 7]
-    kaizo_n: [18, 16]
-    kaizo_d: [32, -22]
-    map_n: [15, 62]
-    map_d: [-21, 65]
-    ensyuf_n: [49, 64]
-    ensyuf_d: [22, 9]
-    ensyue_n: [49, 0]
-    battle_n: [4, 37]
-    battle_d: [29, 24]
-    wed_a: [200, 63]
-    wed_b: [93, 103]
+    boko_n: [109, 106]
+    boko_d: [112, 112]
+    kaisyu_n: [12, 28]
+    kaisyu_d: [42, 10]
+    kaizo_n: [27, 24]
+    kaizo_d: [48, -33]
+    map_n: [22, 93]
+    map_d: [-31, 97]
+    ensyuf_n: [73, 96]
+    ensyuf_d: [33, 13]
+    ensyue_n: [73, 0]
+    battle_n: [6, 55]
+    battle_d: [43, 36]
+    wed_a: [300, 94]
+    wed_b: [139, 154]
   wiki_id: "057"
   chinese_name: 足柄
   can_drop: true

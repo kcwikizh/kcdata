@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: fkatobgcyygb
-  file_version: ["11", "11", "712"]
+  file_version: ["11", "11", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 2, 2]
     build_time: 90
   graph:
-    boko_n: [92, 41]
-    boko_d: [99, 79]
-    kaisyu_n: [11, 21]
-    kaisyu_d: [28, 7]
-    kaizo_n: [78, -12]
-    kaizo_d: [71, -21]
-    map_n: [64, 50]
-    map_d: [84, 80]
-    ensyuf_n: [83, 33]
-    ensyuf_d: [70, 16]
-    ensyue_n: [83, 0]
-    battle_n: [54, 23]
-    battle_d: [63, 49]
-    wed_a: [137, 95]
-    wed_b: [94, 106]
+    boko_n: [138, 61]
+    boko_d: [148, 118]
+    kaisyu_n: [16, 31]
+    kaisyu_d: [42, 10]
+    kaizo_n: [117, -18]
+    kaizo_d: [106, -31]
+    map_n: [96, 75]
+    map_d: [126, 120]
+    ensyuf_n: [124, 49]
+    ensyuf_d: [105, 24]
+    ensyue_n: [124, 0]
+    battle_n: [81, 34]
+    battle_d: [94, 73]
+    wed_a: [205, 142]
+    wed_b: [141, 159]
   wiki_id: "063a"
   chinese_name: 利根改
   can_drop: false

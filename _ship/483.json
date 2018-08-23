@@ -14,7 +14,7 @@ data:
   get_mes: ねえねえねえ！　貴方が提督なんだ！<br>あたし、伊26潜水艦！　ニムでいいよ！　よろしくね！
   voice_f: 1
   filename: qrubiqfijtfp
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "1", "801"]
   book_table_id: [483]
   book_sinfo: 呉生まれの伊号だよ！<br>ねえねえ、あたしのことも覚えていてね！<br>通商破壊戦はもちろん、巡洋艦や空母だって食っちゃうから！<br>まかせておいて！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [92, 120]
-    boko_d: [176, 160]
-    kaisyu_n: [16, 20]
-    kaisyu_d: [60, 0]
-    kaizo_n: [32, 52]
-    kaizo_d: [112, 88]
-    map_n: [48, 92]
-    map_d: [136, 136]
-    ensyuf_n: [36, 88]
-    ensyuf_d: [124, 136]
-    ensyue_n: [44, 0]
-    battle_n: [56, 108]
-    battle_d: [136, 144]
-    wed_a: [172, 32]
-    wed_b: [100, 112]
+    boko_n: [138, 180]
+    boko_d: [264, 240]
+    kaisyu_n: [24, 30]
+    kaisyu_d: [90, 0]
+    kaizo_n: [48, 78]
+    kaizo_d: [168, 132]
+    map_n: [72, 138]
+    map_d: [204, 204]
+    ensyuf_n: [54, 132]
+    ensyuf_d: [186, 204]
+    ensyue_n: [66, 0]
+    battle_n: [84, 162]
+    battle_d: [204, 216]
+    wed_a: [258, 48]
+    wed_b: [150, 168]
   wiki_id: "283"
   chinese_name: 伊26
   can_drop: false

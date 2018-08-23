@@ -14,7 +14,7 @@ data:
   get_mes: ちわ！涼風だよ。<br>私が艦隊に加われば百人力さ！
   voice_f: 0
   filename: qaryaychpubb
-  file_version: ["9", "9", "712"]
+  file_version: ["9", "9", "801"]
   book_table_id: [47]
   book_sinfo: 涼風だよ。<br>特型駆逐艦として数々の攻略作戦の支援に参加したんだ。<br>その後は戦艦や空母の護衛にも従事したよ。<br>頼りにしてね！最後まで戦うから！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 22
   graph:
-    boko_n: [56, 87]
-    boko_d: [55, 105]
-    kaisyu_n: [10, 6]
-    kaisyu_d: [28, 7]
-    kaizo_n: [1, 32]
+    boko_n: [84, 130]
+    boko_d: [82, 157]
+    kaisyu_n: [15, 9]
+    kaisyu_d: [42, 10]
+    kaizo_n: [1, 48]
     kaizo_d: [1, 0]
-    map_n: [3, 88]
-    map_d: [-41, 95]
-    ensyuf_n: [46, 80]
-    ensyuf_d: [-8, 38]
-    ensyue_n: [46, 0]
-    battle_n: [-10, 76]
-    battle_d: [-14, 77]
-    wed_a: [196, 41]
-    wed_b: [118, 141]
+    map_n: [4, 132]
+    map_d: [-61, 142]
+    ensyuf_n: [69, 120]
+    ensyuf_d: [-12, 57]
+    ensyue_n: [69, 0]
+    battle_n: [-15, 114]
+    battle_d: [-21, 115]
+    wed_a: [294, 61]
+    wed_b: [177, 211]
   wiki_id: "084"
   chinese_name: 凉风
   can_drop: true

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ihdaromldkrr
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [120, 152]
-    boko_d: [116, 136]
-    kaisyu_n: [12, 4]
-    kaisyu_d: [48, 4]
-    kaizo_n: [48, 80]
-    kaizo_d: [96, 64]
-    map_n: [36, 128]
-    map_d: [128, 96]
-    ensyuf_n: [44, 128]
-    ensyuf_d: [112, 96]
-    ensyue_n: [44, 0]
-    battle_n: [68, 144]
-    battle_d: [144, 120]
-    wed_a: [176, -4]
-    wed_b: [96, 104]
+    boko_n: [180, 228]
+    boko_d: [174, 204]
+    kaisyu_n: [18, 6]
+    kaisyu_d: [72, 6]
+    kaizo_n: [72, 120]
+    kaizo_d: [144, 96]
+    map_n: [54, 192]
+    map_d: [192, 144]
+    ensyuf_n: [66, 192]
+    ensyuf_d: [168, 144]
+    ensyue_n: [66, 0]
+    battle_n: [102, 216]
+    battle_d: [216, 180]
+    wed_a: [264, -6]
+    wed_b: [144, 156]
   wiki_id: "273a"
   chinese_name: 春风改
   can_drop: false

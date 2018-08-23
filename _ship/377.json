@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: qvjugtvdmppy
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [156, 164]
-    boko_d: [180, 160]
-    kaisyu_n: [20, -14]
-    kaisyu_d: [36, 2]
-    kaizo_n: [80, 76]
-    kaizo_d: [108, 68]
-    map_n: [104, 140]
-    map_d: [128, 136]
-    ensyuf_n: [100, 132]
-    ensyuf_d: [128, 136]
-    ensyue_n: [96, 0]
-    battle_n: [112, 148]
-    battle_d: [136, 152]
-    wed_a: [120, -16]
-    wed_b: [112, 112]
+    boko_n: [234, 246]
+    boko_d: [270, 240]
+    kaisyu_n: [30, -21]
+    kaisyu_d: [54, 3]
+    kaizo_n: [120, 114]
+    kaizo_d: [162, 102]
+    map_n: [156, 210]
+    map_d: [192, 204]
+    ensyuf_n: [150, 198]
+    ensyuf_d: [192, 204]
+    ensyue_n: [144, 0]
+    battle_n: [168, 222]
+    battle_d: [204, 228]
+    wed_a: [180, -24]
+    wed_b: [168, 168]
   wiki_id: "318a"
   chinese_name: 国后改
   can_drop: false

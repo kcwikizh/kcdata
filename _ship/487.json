@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: glyidgppuqgp
-  file_version: ["3", "1", "712"]
+  file_version: ["3", "1", "801"]
   book_table_id: [487, 1011]
   book_sinfo: 神戸生まれの鬼怒だよ。<br>舞鶴の学校で訓練に励んだんだ。色々と大変になってきた後は、南西方面で頑張ったよ…いやぁ、大変だったなあ。球磨ちゃんには随分と助けてもらったんだ。でも…パナイ島だけはマジパナイ！改装された鬼怒の魅力もマジパナイ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 2, 2]
     build_time: 75
   graph:
-    boko_n: [136, 154]
-    boko_d: [128, 152]
-    kaisyu_n: [48, -16]
-    kaisyu_d: [32, 0]
-    kaizo_n: [112, 84]
-    kaizo_d: [68, 72]
-    map_n: [128, 132]
-    map_d: [84, 132]
-    ensyuf_n: [128, 132]
-    ensyuf_d: [88, 132]
-    ensyue_n: [120, 0]
-    battle_n: [148, 148]
-    battle_d: [100, 148]
-    wed_a: [84, -4]
-    wed_b: [104, 104]
+    boko_n: [204, 231]
+    boko_d: [192, 228]
+    kaisyu_n: [72, -24]
+    kaisyu_d: [48, 0]
+    kaizo_n: [168, 126]
+    kaizo_d: [102, 108]
+    map_n: [192, 198]
+    map_d: [126, 198]
+    ensyuf_n: [192, 198]
+    ensyuf_d: [132, 198]
+    ensyue_n: [180, 0]
+    battle_n: [222, 222]
+    battle_d: [150, 222]
+    wed_a: [126, -6]
+    wed_b: [156, 156]
   wiki_id: "287"
   chinese_name: 鬼怒改二
   can_drop: false

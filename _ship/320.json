@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: dyupugfxshtd
-  file_version: ["7", "5", "712"]
+  file_version: ["7", "5", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [32, 140]
-    boko_d: [-8, 140]
-    kaisyu_n: [8, 12]
-    kaisyu_d: [24, 24]
-    kaizo_n: [-8, 68]
-    kaizo_d: [-16, 56]
-    map_n: [0, 124]
-    map_d: [-16, 128]
-    ensyuf_n: [32, 108]
-    ensyuf_d: [16, 112]
+    boko_n: [48, 210]
+    boko_d: [-12, 210]
+    kaisyu_n: [12, 18]
+    kaisyu_d: [36, 36]
+    kaizo_n: [-12, 102]
+    kaizo_d: [-24, 84]
+    map_n: [0, 186]
+    map_d: [-24, 192]
+    ensyuf_n: [48, 162]
+    ensyuf_d: [24, 168]
     ensyue_n: [0, 0]
-    battle_n: [32, 120]
-    battle_d: [-8, 128]
-    wed_a: [208, 0]
-    wed_b: [112, 112]
+    battle_n: [48, 180]
+    battle_d: [-12, 192]
+    wed_a: [312, 0]
+    wed_b: [168, 168]
   wiki_id: "167a"
   chinese_name: 矶风改
   can_drop: false

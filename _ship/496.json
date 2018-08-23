@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: jprnkicueltw
-  file_version: ["3", "1", "712"]
+  file_version: ["3", "1", "801"]
   book_table_id: [496]
   book_sinfo: ザラ級重巡洋艦、その一番艦、ザラです。巡洋艦同士の昼間水上砲戦なら、誰にも負けない自負はあります。妹のポーラが少し心配だけど、この艦隊なら！提督、頑張りましょう！<br>重巡ザラ、艦隊に参加します！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 3]
     build_time: 70
   graph:
-    boko_n: [-44, 136]
-    boko_d: [20, 132]
-    kaisyu_n: [20, -12]
-    kaisyu_d: [20, -4]
-    kaizo_n: [-72, 68]
-    kaizo_d: [-52, 60]
-    map_n: [-52, 120]
-    map_d: [-20, 128]
-    ensyuf_n: [-64, 128]
-    ensyuf_d: [-28, 132]
-    ensyue_n: [-64, 0]
-    battle_n: [-40, 144]
-    battle_d: [-20, 144]
-    wed_a: [288, 4]
-    wed_b: [92, 104]
+    boko_n: [-66, 204]
+    boko_d: [30, 198]
+    kaisyu_n: [30, -18]
+    kaisyu_d: [30, -6]
+    kaizo_n: [-108, 102]
+    kaizo_d: [-78, 90]
+    map_n: [-78, 180]
+    map_d: [-30, 192]
+    ensyuf_n: [-96, 192]
+    ensyuf_d: [-42, 198]
+    ensyue_n: [-96, 0]
+    battle_n: [-60, 216]
+    battle_d: [-30, 216]
+    wed_a: [432, 6]
+    wed_b: [138, 156]
   wiki_id: "296"
   chinese_name: 扎拉due
   can_drop: false

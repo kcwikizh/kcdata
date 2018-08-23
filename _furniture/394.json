@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 394
+  type: 3
+  no: 85
+  title: 謎の夏作戦地図
+  description: 南西から西方海域を臨む作<br>戦領域が描かれた地図。い<br>くつかのポイントが示され<br>ていますが…これは？ある<br>いは艦娘のメッセージか！
+  rarity: 6
+  price: 2400
+  saleflg: 1
+  season: 2
+  filename: 
+  file_version: ""
+---

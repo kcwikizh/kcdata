@@ -14,7 +14,7 @@ data:
   get_mes: 秋月型防空駆逐艦、二番艦の照月よ。<br>秋月姉さん同様、どうぞよろしくお願いします。
   voice_f: 1
   filename: fvcfdjvmxlko
-  file_version: ["9", "9", "712"]
+  file_version: ["9", "9", "801"]
   book_table_id: [422]
   book_sinfo: 秋月型防空駆逐艦二番艦、照月よ。<br>秋月姉と第61駆逐隊を編成しました。ソロモンの激戦では、比叡さんや霧島さんと共に戦ったのよ！え？ドラム缶による鼠輸送？ああ、あれは…あれはね…。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 3, 1]
     build_time: 30
   graph:
-    boko_n: [64, 148]
-    boko_d: [128, 160]
-    kaisyu_n: [8, 12]
-    kaisyu_d: [56, 12]
-    kaizo_n: [32, 84]
-    kaizo_d: [80, 72]
-    map_n: [48, 128]
-    map_d: [112, 136]
-    ensyuf_n: [48, 128]
-    ensyuf_d: [112, 136]
-    ensyue_n: [16, 0]
-    battle_n: [48, 136]
-    battle_d: [112, 136]
-    wed_a: [160, -8]
-    wed_b: [136, 112]
+    boko_n: [96, 222]
+    boko_d: [192, 240]
+    kaisyu_n: [12, 18]
+    kaisyu_d: [84, 18]
+    kaizo_n: [48, 126]
+    kaizo_d: [120, 108]
+    map_n: [72, 192]
+    map_d: [168, 204]
+    ensyuf_n: [72, 192]
+    ensyuf_d: [168, 204]
+    ensyue_n: [24, 0]
+    battle_n: [72, 204]
+    battle_d: [168, 204]
+    wed_a: [240, -12]
+    wed_b: [204, 168]
   wiki_id: "222"
   chinese_name: 照月
   can_drop: false

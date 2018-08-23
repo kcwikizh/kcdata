@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: dyfnguymthbd
-  file_version: ["4", "5", "712"]
+  file_version: ["4", "5", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [-16, -48]
-    boko_d: [-16, -48]
-    kaisyu_n: [10, -40]
-    kaisyu_d: [28, -32]
-    kaizo_n: [-24, -104]
-    kaizo_d: [-24, -124]
-    map_n: [-20, -88]
-    map_d: [-20, -88]
-    ensyuf_n: [-3, -40]
-    ensyuf_d: [-60, -90]
-    ensyue_n: [-3, 0]
-    battle_n: [16, -48]
-    battle_d: [16, -48]
-    wed_a: [248, 175]
-    wed_b: [142, 162]
+    boko_n: [-24, -72]
+    boko_d: [-24, -72]
+    kaisyu_n: [15, -60]
+    kaisyu_d: [42, -48]
+    kaizo_n: [-36, -156]
+    kaizo_d: [-36, -186]
+    map_n: [-30, -132]
+    map_d: [-30, -132]
+    ensyuf_n: [-4, -60]
+    ensyuf_d: [-90, -135]
+    ensyue_n: [-4, 0]
+    battle_n: [24, -72]
+    battle_d: [24, -72]
+    wed_a: [372, 262]
+    wed_b: [213, 243]
   wiki_id: "126a"
   chinese_name: 伊168改
   can_drop: false

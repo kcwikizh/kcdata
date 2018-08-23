@@ -14,7 +14,7 @@ data:
   get_mes: あの……軽巡洋艦、神通です。<br>どうか、よろしくお願い致します……
   voice_f: 0
   filename: icmlpbiditqy
-  file_version: ["8", "8", "712"]
+  file_version: ["8", "8", "801"]
   book_table_id: [55]
   book_sinfo: 神通です。近代化改装を受け、<br>第２水雷戦隊の旗艦を務めました。<br>コロンバンガラ島沖海戦では先頭に立って奮戦します。<br>でも、みんな私の事狙うんですもの…ひどいわ……。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 60
   graph:
-    boko_n: [57, 63]
-    boko_d: [14, 80]
-    kaisyu_n: [10, 19]
-    kaisyu_d: [28, -16]
-    kaizo_n: [2, 8]
-    kaizo_d: [-7, -17]
-    map_n: [-28, 54]
-    map_d: [-54, 67]
-    ensyuf_n: [51, 45]
-    ensyuf_d: [-20, 17]
-    ensyue_n: [51, 0]
-    battle_n: [-7, 30]
-    battle_d: [-18, 50]
-    wed_a: [208, 74]
-    wed_b: [103, 119]
+    boko_n: [85, 94]
+    boko_d: [21, 120]
+    kaisyu_n: [15, 28]
+    kaisyu_d: [42, -24]
+    kaizo_n: [3, 12]
+    kaizo_d: [-10, -25]
+    map_n: [-42, 81]
+    map_d: [-81, 100]
+    ensyuf_n: [76, 67]
+    ensyuf_d: [-30, 25]
+    ensyue_n: [76, 0]
+    battle_n: [-10, 45]
+    battle_d: [-27, 75]
+    wed_a: [312, 111]
+    wed_b: [154, 178]
   wiki_id: "047"
   chinese_name: 神通
   can_drop: true

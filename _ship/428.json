@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: xljtrrmemnon
-  file_version: ["14", "22", "712"]
+  file_version: ["14", "22", "801"]
   book_table_id: [428]
   book_sinfo: 高雄型重巡洋艦３番艦の摩耶さまだ。<br>生まれは神戸。南方作戦や激戦のソロモン海で暴れまくってやったぜ！<br>ああん？　レイテ？　んだよ、潜水艦って奴は苦手だよ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 5, 2]
     build_time: 85
   graph:
-    boko_n: [48, 112]
-    boko_d: [72, 168]
-    kaisyu_n: [12, -16]
-    kaisyu_d: [36, -8]
-    kaizo_n: [0, 60]
-    kaizo_d: [16, 68]
-    map_n: [0, 88]
-    map_d: [32, 144]
-    ensyuf_n: [32, 88]
-    ensyuf_d: [48, 136]
-    ensyue_n: [-16, 0]
-    battle_n: [32, 88]
-    battle_d: [48, 128]
-    wed_a: [200, 16]
-    wed_b: [160, 152]
+    boko_n: [72, 168]
+    boko_d: [108, 252]
+    kaisyu_n: [18, -24]
+    kaisyu_d: [54, -12]
+    kaizo_n: [0, 90]
+    kaizo_d: [24, 102]
+    map_n: [0, 132]
+    map_d: [48, 216]
+    ensyuf_n: [48, 132]
+    ensyuf_d: [72, 204]
+    ensyue_n: [-24, 0]
+    battle_n: [48, 132]
+    battle_d: [72, 192]
+    wed_a: [300, 24]
+    wed_b: [240, 228]
   wiki_id: "228"
   chinese_name: 摩耶改二
   can_drop: false

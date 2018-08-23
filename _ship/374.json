@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: hmjwmfpdcuur
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 1]
     build_time: 200
   graph:
-    boko_n: [88, 156]
-    boko_d: [148, 164]
-    kaisyu_n: [24, -16]
-    kaisyu_d: [40, -2]
-    kaizo_n: [56, 76]
-    kaizo_d: [100, 72]
-    map_n: [56, 124]
-    map_d: [120, 136]
-    ensyuf_n: [64, 132]
-    ensyuf_d: [120, 136]
-    ensyue_n: [48, 0]
-    battle_n: [76, 140]
-    battle_d: [136, 148]
-    wed_a: [180, -4]
-    wed_b: [80, 132]
+    boko_n: [132, 234]
+    boko_d: [222, 246]
+    kaisyu_n: [36, -24]
+    kaisyu_d: [60, -3]
+    kaizo_n: [84, 114]
+    kaizo_d: [150, 108]
+    map_n: [84, 186]
+    map_d: [180, 204]
+    ensyuf_n: [96, 198]
+    ensyuf_d: [180, 204]
+    ensyue_n: [72, 0]
+    battle_n: [114, 210]
+    battle_d: [204, 222]
+    wed_a: [270, -6]
+    wed_b: [120, 198]
   wiki_id: "294a"
   chinese_name: 伊13改
   can_drop: false

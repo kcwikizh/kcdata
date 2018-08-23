@@ -14,7 +14,7 @@ data:
   get_mes: あなたが提督？ふうん。いいけど。<br>伊勢型戦艦２番艦、日向よ。一応覚えておいて。
   voice_f: 0
   filename: cfqmhviykuup
-  file_version: ["20", "25", "712"]
+  file_version: ["20", "25", "801"]
   book_table_id: [87]
   book_sinfo: 伊勢型戦艦２番艦、日向。<br>ああ、そうだ、あの伊勢と一緒に航空戦艦になったんだ。<br>もともとは、私の砲塔の事故もあるんだけどな。<br>呉で朽ち果てる迄、戦うつもりだ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 1, 4]
     build_time: 270
   graph:
-    boko_n: [43, 43]
-    boko_d: [36, 40]
-    kaisyu_n: [9, 2]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-25, -18]
-    kaizo_d: [-7, -61]
-    map_n: [-14, 33]
-    map_d: [-46, 30]
-    ensyuf_n: [36, 29]
-    ensyuf_d: [14, -1]
-    ensyue_n: [36, 0]
-    battle_n: [-45, 11]
-    battle_d: [-45, 11]
-    wed_a: [234, 106]
-    wed_b: [94, 109]
+    boko_n: [64, 64]
+    boko_d: [54, 60]
+    kaisyu_n: [13, 3]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-37, -27]
+    kaizo_d: [-10, -91]
+    map_n: [-21, 49]
+    map_d: [-69, 45]
+    ensyuf_n: [54, 43]
+    ensyuf_d: [21, -1]
+    ensyue_n: [54, 0]
+    battle_n: [-67, 16]
+    battle_d: [-67, 16]
+    wed_a: [351, 159]
+    wed_b: [141, 163]
   wiki_id: "004"
   chinese_name: 日向
   can_drop: true

@@ -14,7 +14,7 @@ data:
   get_mes: マイク音量大丈夫…？チェック、1，2……。<br>よし。はじめまして、私、霧島です。
   voice_f: 0
   filename: icwowutxbvgh
-  file_version: ["14", "17", "712"]
+  file_version: ["14", "17", "801"]
   book_table_id: [85]
   book_sinfo: 霧島です。姉妹艦の榛名には、頭脳は負けないわよ？<br>純国産高速戦艦として、奮戦するんだからっ！<br>現代の海自イージス艦にもその名は受け継がれたの。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 0, 1, 3]
     build_time: 240
   graph:
-    boko_n: [115, 125]
-    boko_d: [119, 130]
-    kaisyu_n: [12, 3]
-    kaisyu_d: [28, 7]
-    kaizo_n: [60, 70]
-    kaizo_d: [57, 25]
-    map_n: [59, 127]
-    map_d: [22, 128]
-    ensyuf_n: [87, 121]
-    ensyuf_d: [84, 70]
-    ensyue_n: [87, 0]
-    battle_n: [44, 104]
-    battle_d: [44, 104]
-    wed_a: [134, 4]
-    wed_b: [127, 148]
+    boko_n: [172, 187]
+    boko_d: [178, 195]
+    kaisyu_n: [18, 4]
+    kaisyu_d: [42, 10]
+    kaizo_n: [90, 105]
+    kaizo_d: [85, 37]
+    map_n: [88, 190]
+    map_d: [33, 192]
+    ensyuf_n: [130, 181]
+    ensyuf_d: [126, 105]
+    ensyue_n: [130, 0]
+    battle_n: [66, 156]
+    battle_d: [66, 156]
+    wed_a: [201, 6]
+    wed_b: [190, 222]
   wiki_id: "024"
   chinese_name: 雾岛
   can_drop: true

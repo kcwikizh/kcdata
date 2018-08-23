@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: uilfcyypnbwm
-  file_version: ["14", "15", "712"]
+  file_version: ["14", "15", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 1, 2]
     build_time: 80
   graph:
-    boko_n: [81, 93]
-    boko_d: [75, 74]
-    kaisyu_n: [-3, 6]
-    kaisyu_d: [21, 23]
-    kaizo_n: [55, 40]
-    kaizo_d: [27, -10]
-    map_n: [54, 102]
-    map_d: [-21, 64]
-    ensyuf_n: [71, 82]
-    ensyuf_d: [28, 15]
-    ensyue_n: [71, 0]
-    battle_n: [34, 55]
-    battle_d: [30, 26]
-    wed_a: [149, 40]
-    wed_b: [106, 114]
+    boko_n: [121, 139]
+    boko_d: [112, 111]
+    kaisyu_n: [-4, 9]
+    kaisyu_d: [31, 34]
+    kaizo_n: [82, 60]
+    kaizo_d: [40, -15]
+    map_n: [81, 153]
+    map_d: [-31, 96]
+    ensyuf_n: [106, 123]
+    ensyuf_d: [42, 22]
+    ensyue_n: [106, 0]
+    battle_n: [51, 82]
+    battle_d: [45, 39]
+    wed_a: [223, 60]
+    wed_b: [159, 171]
   wiki_id: "058a"
   chinese_name: 羽黑改
   can_drop: false

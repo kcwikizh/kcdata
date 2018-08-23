@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: gpfqngdreebe
-  file_version: ["13", "13", "712"]
+  file_version: ["13", "13", "801"]
   book_table_id: [146]
   book_sinfo: 5500トン型の軽巡洋艦、球磨型の木曾だ。よろしくな。<br>やれ、滑走台だ、カタパルトだ、そんなもんはいらねえな。<br>戦いは敵の懐に飛び込んでやるもんよ。なあ？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 5, 0, 1]
     build_time: 75
   graph:
-    boko_n: [-16, 88]
-    boko_d: [-32, 88]
-    kaisyu_n: [16, 0]
-    kaisyu_d: [32, 8]
-    kaizo_n: [-8, 44]
-    kaizo_d: [-40, 16]
-    map_n: [0, 64]
-    map_d: [-32, 64]
-    ensyuf_n: [32, 80]
-    ensyuf_d: [-32, 32]
-    ensyue_n: [16, 0]
-    battle_n: [32, 64]
-    battle_d: [0, 64]
-    wed_a: [224, 63]
-    wed_b: [104, 110]
+    boko_n: [-24, 132]
+    boko_d: [-48, 132]
+    kaisyu_n: [24, 0]
+    kaisyu_d: [48, 12]
+    kaizo_n: [-12, 66]
+    kaizo_d: [-60, 24]
+    map_n: [0, 96]
+    map_d: [-48, 96]
+    ensyuf_n: [48, 120]
+    ensyuf_d: [-48, 48]
+    ensyue_n: [24, 0]
+    battle_n: [48, 96]
+    battle_d: [0, 96]
+    wed_a: [336, 94]
+    wed_b: [156, 165]
   wiki_id: "146"
   chinese_name: 木曾改二
   can_drop: false

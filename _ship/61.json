@@ -14,7 +14,7 @@ data:
   get_mes: ども、恐縮です、青葉ですぅ！<br>一言お願いします！
   voice_f: 0
   filename: bhyiqjjifflp
-  file_version: ["4", "4", "712"]
+  file_version: ["4", "4", "801"]
   book_table_id: [61]
   book_sinfo: 青葉です。トラック諸島方面へ進出して、<br>中部太平洋作戦を支えました。<br>従軍作家さんも乗り込んで青葉のスタッフの仕事振りを取材したことも。最期の時は、呉の港で。<br>動かす油もなかったけど、青葉、頑張りました！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 60
   graph:
-    boko_n: [-19, 69]
-    boko_d: [-10, 77]
-    kaisyu_n: [8, 11]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-54, 16]
-    kaizo_d: [-35, -27]
-    map_n: [-30, 60]
-    map_d: [-106, 67]
-    ensyuf_n: [-4, 68]
-    ensyuf_d: [-12, 25]
-    ensyue_n: [-4, 0]
-    battle_n: [-26, 41]
-    battle_d: [-26, 41]
-    wed_a: [219, 53]
-    wed_b: [153, 162]
+    boko_n: [-28, 103]
+    boko_d: [-15, 115]
+    kaisyu_n: [12, 16]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-81, 24]
+    kaizo_d: [-52, -40]
+    map_n: [-45, 90]
+    map_d: [-159, 100]
+    ensyuf_n: [-6, 102]
+    ensyuf_d: [-18, 37]
+    ensyue_n: [-6, 0]
+    battle_n: [-39, 61]
+    battle_d: [-39, 61]
+    wed_a: [328, 79]
+    wed_b: [229, 243]
   wiki_id: "054"
   chinese_name: 青叶
   can_drop: true

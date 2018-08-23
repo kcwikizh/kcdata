@@ -52,7 +52,7 @@ data:
               amount: [3, 5]
         slotitem:
           -
-            id: 2
+            id: 297
             amount: 2
           -
             id: 3

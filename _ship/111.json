@@ -14,7 +14,7 @@ data:
   get_mes: 翔鶴型航空母艦２番艦、妹の瑞鶴です。<br>幸運の空母ですって？そうじゃないの、一生懸命やってるだけ…よ。艦載機がある限り、負けないわ！
   voice_f: 3
   filename: suivtkpjnmpt
-  file_version: ["14", "19", "712"]
+  file_version: ["14", "20", "817"]
   book_table_id: [111]
   book_sinfo: 翔鶴型航空母艦２番艦、瑞鶴です。<br>翔鶴姉と共に、ミッドウェーの後の第一機動部隊の中核として、矢尽き刀折れるまで奮戦しました。文字通り、最後の機動部隊が壊滅する、その日まで…。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 3]
     build_time: 360
   graph:
-    boko_n: [66, 71]
-    boko_d: [98, 69]
-    kaisyu_n: [11, 23]
-    kaisyu_d: [23, 8]
-    kaizo_n: [-1, -8]
-    kaizo_d: [45, -39]
-    map_n: [-42, 47]
-    map_d: [3, 8]
-    ensyuf_n: [20, 60]
-    ensyuf_d: [56, 48]
+    boko_n: [99, 106]
+    boko_d: [147, 103]
+    kaisyu_n: [16, 34]
+    kaisyu_d: [34, 12]
+    kaizo_n: [-1, -12]
+    kaizo_d: [67, -58]
+    map_n: [-63, 70]
+    map_d: [4, 12]
+    ensyuf_n: [30, 90]
+    ensyuf_d: [84, 72]
     ensyue_n: [0, 0]
-    battle_n: [16, 56]
-    battle_d: [52, 48]
-    wed_a: [210, 64]
-    wed_b: [103, 126]
+    battle_n: [24, 84]
+    battle_d: [78, 72]
+    wed_a: [315, 96]
+    wed_b: [154, 189]
   wiki_id: "107"
   chinese_name: 瑞鹤
   can_drop: true

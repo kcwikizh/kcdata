@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 0
   filename: guwzhmxxnwol
-  file_version: ["20", "17", "712"]
+  file_version: ["20", "17", "801"]
   book_table_id: [82, 797, 1033]
   book_sinfo: 洋上航空戦力強化のために、主砲を一部外して、かわりに飛行甲板を設置、軽空母並の航空戦力を運用可能な航空戦艦、伊勢です。<br>海自の新鋭ＤＤＨにもその名は受け継がれているわ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 3, 4]
     build_time: 270
   graph:
-    boko_n: [-6, 85]
-    boko_d: [-3, 95]
-    kaisyu_n: [20, 8]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-49, 42]
-    kaizo_d: [-12, 3]
-    map_n: [-51, 75]
-    map_d: [-83, 95]
-    ensyuf_n: [-13, 82]
-    ensyuf_d: [-42, 36]
-    ensyue_n: [-13, 0]
-    battle_n: [-42, 60]
-    battle_d: [-42, 60]
-    wed_a: [253, 59]
-    wed_b: [101, 100]
+    boko_n: [-9, 127]
+    boko_d: [-4, 142]
+    kaisyu_n: [30, 12]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-73, 63]
+    kaizo_d: [-18, 4]
+    map_n: [-76, 112]
+    map_d: [-124, 142]
+    ensyuf_n: [-19, 123]
+    ensyuf_d: [-63, 54]
+    ensyue_n: [-19, 0]
+    battle_n: [-63, 90]
+    battle_d: [-63, 90]
+    wed_a: [379, 88]
+    wed_b: [151, 150]
   wiki_id: "102"
   chinese_name: 伊势改
   can_drop: false

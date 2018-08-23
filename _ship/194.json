@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: ecwgnneuzbcv
-  file_version: ["14", "15", "712"]
+  file_version: ["14", "15", "801"]
   book_table_id: [194]
   book_sinfo: 長崎で生まれたの。<br>スラバヤ沖海戦、珊瑚海海戦、ミッドウェー海戦、第二次ソロモン海戦、マリアナ海戦など数々の海戦に参加しました。<br>あの…頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 2, 2]
     build_time: 80
   graph:
-    boko_n: [-16, 144]
-    boko_d: [144, 192]
-    kaisyu_n: [16, 16]
-    kaisyu_d: [64, -8]
-    kaizo_n: [-64, 64]
-    kaizo_d: [128, 64]
-    map_n: [-48, 128]
-    map_d: [144, 128]
-    ensyuf_n: [0, 112]
-    ensyuf_d: [176, 128]
-    ensyue_n: [-48, 0]
-    battle_n: [-16, 112]
-    battle_d: [144, 128]
-    wed_a: [224, 0]
-    wed_b: [144, 144]
+    boko_n: [-24, 216]
+    boko_d: [216, 288]
+    kaisyu_n: [24, 24]
+    kaisyu_d: [96, -12]
+    kaizo_n: [-96, 96]
+    kaizo_d: [192, 96]
+    map_n: [-72, 192]
+    map_d: [216, 192]
+    ensyuf_n: [0, 168]
+    ensyuf_d: [264, 192]
+    ensyue_n: [-72, 0]
+    battle_n: [-24, 168]
+    battle_d: [216, 192]
+    wed_a: [336, 0]
+    wed_b: [216, 216]
   wiki_id: "194"
   chinese_name: 羽黑改二
   can_drop: false

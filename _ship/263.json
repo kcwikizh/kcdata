@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: qsmurjkprhku
-  file_version: ["14", "14", "712"]
+  file_version: ["14", "14", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [1, 71]
-    boko_d: [0, 72]
-    kaisyu_n: [26, 1]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-17, 14]
-    kaizo_d: [-12, -8]
-    map_n: [-23, 63]
-    map_d: [-65, 61]
-    ensyuf_n: [-5, 55]
-    ensyuf_d: [-3, 14]
-    ensyue_n: [-5, 0]
-    battle_n: [-28, 49]
-    battle_d: [-28, 49]
-    wed_a: [191, 70]
-    wed_b: [140, 136]
+    boko_n: [1, 106]
+    boko_d: [0, 108]
+    kaisyu_n: [39, 1]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-25, 21]
+    kaizo_d: [-18, -12]
+    map_n: [-34, 94]
+    map_d: [-97, 91]
+    ensyuf_n: [-7, 82]
+    ensyuf_d: [-4, 21]
+    ensyue_n: [-7, 0]
+    battle_n: [-42, 73]
+    battle_d: [-42, 73]
+    wed_a: [286, 105]
+    wed_b: [210, 204]
   wiki_id: "053a"
   chinese_name: 加古改
   can_drop: false

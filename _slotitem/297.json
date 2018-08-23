@@ -1,0 +1,121 @@
+---
+layout: json
+order: 297
+data:
+  id: 297
+  sort_no: 297
+  name: 12.7cm連装砲A型
+  type: [1, 1, 1, 1, 0]
+  rare: 1
+  broken: [0, 1, 2, 0]
+  info: 世界に衝撃を与えた特型駆逐艦、その初期型である吹雪型に採用された駆逐艦主砲A型です。防盾で全集を遮蔽して弾片及び荒天対策に対応、比較的軽量で当時としては優れた駆逐艦装備でした。平射砲であるため、対空射撃には不向きです。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+    -
+      consume:
+        resource: [10, 30, 50, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 2]
+        slotitem:
+          - 
+          -
+            id: 297
+            amount: 1
+      upgrade:
+        id: 294
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [4, 8]
+            -
+              id: 4
+              amount: [3, 6]
+          slotitem:
+            id: 2
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 10
+          -
+            ship_id: 202
+          -
+            ship_id: 486
+          -
+            ship_id: 368
+          -
+            ship_id: 206
+        -
+          -
+            ship_id: 10
+          -
+            ship_id: 202
+          -
+            ship_id: 486
+          -
+            ship_id: 368
+          -
+            ship_id: 206
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 10
+          -
+            ship_id: 202
+          -
+            ship_id: 486
+          -
+            ship_id: 368
+          -
+            ship_id: 206
+        -
+          -
+            ship_id: 10
+          -
+            ship_id: 202
+          -
+            ship_id: 486
+          -
+            ship_id: 368
+          -
+            ship_id: 206
+  chinese_name:
+---

@@ -6,7 +6,7 @@ data:
   category: 6
   name: 家具箱（大）
   description:
-    - "開けると、中から大量の家具コインが出現する。"
+    - "開けると、中から大量の家具コ<br>インが出現する。"
     - "700"
   price: 0
   chinese_name: 家具箱（大）

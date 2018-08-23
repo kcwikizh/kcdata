@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: gbxvfsrqbyxg
-  file_version: ["16", "17", "712"]
+  file_version: ["16", "17", "801"]
   book_table_id: [196]
   book_sinfo: 飛龍型航空母艦、飛龍です。<br>…ん？蒼龍型改じゃないかって？いいじゃん、そんなこと。それより、索敵は大切にねッ。<br>空母戦は先手必勝！慢心はダメ、ゼッタイ。<br>慎重に、そして、大胆に戦い抜こうよ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 5]
     build_time: 250
   graph:
-    boko_n: [-96, -128]
-    boko_d: [-96, -128]
-    kaisyu_n: [8, 4]
-    kaisyu_d: [24, 4]
-    kaizo_n: [-128, -192]
-    kaizo_d: [-144, -192]
-    map_n: [-96, -128]
-    map_d: [-96, -128]
-    ensyuf_n: [-48, -144]
-    ensyuf_d: [-64, -144]
-    ensyue_n: [-96, 0]
-    battle_n: [-48, -128]
-    battle_d: [-48, -128]
-    wed_a: [320, 272]
-    wed_b: [128, 128]
+    boko_n: [-144, -192]
+    boko_d: [-144, -192]
+    kaisyu_n: [12, 6]
+    kaisyu_d: [36, 6]
+    kaizo_n: [-192, -288]
+    kaizo_d: [-216, -288]
+    map_n: [-144, -192]
+    map_d: [-144, -192]
+    ensyuf_n: [-72, -216]
+    ensyuf_d: [-96, -216]
+    ensyue_n: [-144, 0]
+    battle_n: [-72, -192]
+    battle_d: [-72, -192]
+    wed_a: [480, 408]
+    wed_b: [192, 192]
   wiki_id: "196"
   chinese_name: 飞龙改二
   can_drop: false

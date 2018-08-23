@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: vsnkqdgtcjbs
-  file_version: ["2", "2", "712"]
+  file_version: ["2", "2", "801"]
   book_table_id: [156]
   book_sinfo: 航空母艦「大鳳」です。<br>飛行甲板まで十分な防御を施された最新鋭の正規空母です。密閉型の格納庫やハリケーン・バウもいい感じでしょ？　装甲甲板もお化粧直ししてみたわ。どう？似合う？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 5, 5]
     build_time: 400
   graph:
-    boko_n: [-32, 128]
-    boko_d: [16, 128]
-    kaisyu_n: [0, 16]
-    kaisyu_d: [24, 16]
-    kaizo_n: [-32, 56]
-    kaizo_d: [-16, 32]
-    map_n: [-40, 96]
-    map_d: [-8, 96]
-    ensyuf_n: [0, 112]
-    ensyuf_d: [32, 64]
-    ensyue_n: [-32, 0]
-    battle_n: [0, 96]
-    battle_d: [32, 96]
-    wed_a: [240, 4]
-    wed_b: [140, 132]
+    boko_n: [-48, 192]
+    boko_d: [24, 192]
+    kaisyu_n: [0, 24]
+    kaisyu_d: [36, 24]
+    kaizo_n: [-48, 84]
+    kaizo_d: [-24, 48]
+    map_n: [-60, 144]
+    map_d: [-12, 144]
+    ensyuf_n: [0, 168]
+    ensyuf_d: [48, 96]
+    ensyue_n: [-48, 0]
+    battle_n: [0, 144]
+    battle_d: [48, 144]
+    wed_a: [360, 6]
+    wed_b: [210, 198]
   wiki_id: "156"
   chinese_name: 大凤改
   can_drop: false

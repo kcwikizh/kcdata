@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 7
   filename: feyfhhruhjse
-  file_version: ["21", "12", "712"]
+  file_version: ["22", "12", "801"]
   book_table_id: [446, 934, 966]
   book_sinfo: パスタの国で生まれました。ヴィットリオ・ヴェネト級戦艦２番艦、リットリオ改め、イタリアです。<br>高速で兵装も充実した新鋭高速戦艦です。妹のローマ共々、どうぞよろしくお願い致します。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [5, 0, 2, 3]
     build_time: 300
   graph:
-    boko_n: [24, 140]
-    boko_d: [12, 152]
-    kaisyu_n: [24, -12]
-    kaisyu_d: [24, -4]
-    kaizo_n: [-24, 64]
-    kaizo_d: [-48, 88]
-    map_n: [-8, 136]
-    map_d: [-8, 144]
-    ensyuf_n: [16, 112]
-    ensyuf_d: [0, 120]
-    ensyue_n: [-8, 0]
-    battle_n: [8, 128]
-    battle_d: [-16, 144]
-    wed_a: [230, 9]
-    wed_b: [118, 121]
+    boko_n: [186, 210]
+    boko_d: [198, 210]
+    kaisyu_n: [36, -18]
+    kaisyu_d: [36, -6]
+    kaizo_n: [144, 120]
+    kaizo_d: [144, 96]
+    map_n: [192, 204]
+    map_d: [204, 192]
+    ensyuf_n: [174, 168]
+    ensyuf_d: [216, 168]
+    ensyue_n: [108, 0]
+    battle_n: [162, 192]
+    battle_d: [204, 192]
+    wed_a: [108, -12]
+    wed_b: [204, 168]
   wiki_id: "246"
   chinese_name: 意大利
   can_drop: false

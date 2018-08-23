@@ -14,7 +14,7 @@ data:
   get_mes: 占守型海防艦、その二番艦、国後。<br>何それ？　違うけど？　そうね、クナって…<br>呼んでもらってもいいけど。
   voice_f: 1
   filename: duclkhpiwzon
-  file_version: ["51", "1", "712"]
+  file_version: ["51", "1", "801"]
   book_table_id: [518]
   book_sinfo: 占守型海防艦二番艦、国後よ。北方の護りは任せてよね。え、地味だろって。何それ！あの出撃の前に単冠湾の哨戒とか、大事な役割も務めたんだから。大湊を起点に、千島列島や宗谷海峡、津軽海峡など大切なところを守ったの。ねえ、聞いてる？最後は大切な大切なこと、頑張ったし。頑張ったよね、あたし！
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [1, 0, 0, 0]
     build_time: 14
   graph:
-    boko_n: [156, 164]
-    boko_d: [180, 160]
-    kaisyu_n: [20, -14]
-    kaisyu_d: [36, 2]
-    kaizo_n: [80, 76]
-    kaizo_d: [108, 68]
-    map_n: [104, 140]
-    map_d: [128, 136]
-    ensyuf_n: [100, 132]
-    ensyuf_d: [128, 136]
-    ensyue_n: [96, 0]
-    battle_n: [112, 148]
-    battle_d: [136, 152]
-    wed_a: [120, -16]
-    wed_b: [112, 112]
+    boko_n: [234, 246]
+    boko_d: [270, 240]
+    kaisyu_n: [30, -21]
+    kaisyu_d: [54, 3]
+    kaizo_n: [120, 114]
+    kaizo_d: [162, 102]
+    map_n: [156, 210]
+    map_d: [192, 204]
+    ensyuf_n: [150, 198]
+    ensyuf_d: [192, 204]
+    ensyue_n: [144, 0]
+    battle_n: [168, 222]
+    battle_d: [204, 228]
+    wed_a: [180, -24]
+    wed_b: [168, 168]
   wiki_id: "318"
   chinese_name: 国后
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

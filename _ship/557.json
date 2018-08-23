@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: olingctmvbpw
-  file_version: ["51", "5", "712"]
+  file_version: ["51", "5", "801"]
   book_table_id: [557]
   book_sinfo: 陽炎型駆逐艦十二番艦、磯風だ。<br>戦歴ならあの雪風にも遅れはとらぬ。数々の海戦、決戦に参加し、戦い抜いたんだ。大和・武蔵・金剛・大鳳…彼女達の最期もこの目に焼き付いている。今度こそ…護り抜くさ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 2, 1]
     build_time: 24
   graph:
-    boko_n: [-50, 102]
-    boko_d: [-70, 152]
-    kaisyu_n: [10, -14]
-    kaisyu_d: [24, -16]
-    kaizo_n: [-68, 48]
-    kaizo_d: [-100, 48]
-    map_n: [-48, 92]
-    map_d: [-88, 112]
-    ensyuf_n: [-70, 90]
-    ensyuf_d: [-104, 112]
-    ensyue_n: [-64, 0]
-    battle_n: [-36, 100]
-    battle_d: [-84, 128]
-    wed_a: [304, 24]
-    wed_b: [74, 124]
+    boko_n: [-75, 153]
+    boko_d: [-105, 228]
+    kaisyu_n: [15, -21]
+    kaisyu_d: [36, -24]
+    kaizo_n: [-102, 72]
+    kaizo_d: [-150, 72]
+    map_n: [-72, 138]
+    map_d: [-132, 168]
+    ensyuf_n: [-105, 135]
+    ensyuf_d: [-156, 168]
+    ensyue_n: [-96, 0]
+    battle_n: [-54, 150]
+    battle_d: [-126, 192]
+    wed_a: [456, 36]
+    wed_b: [111, 186]
   wiki_id: "357"
   chinese_name: 矶风乙改
   can_drop: false

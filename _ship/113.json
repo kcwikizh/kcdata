@@ -14,7 +14,7 @@ data:
   get_mes: きたきたぁ！　鬼怒、いよいよ到着しましたよ！
   voice_f: 3
   filename: rgribyhrzjjl
-  file_version: ["15", "15", "712"]
+  file_version: ["15", "15", "801"]
   book_table_id: [113]
   book_sinfo: 神戸生まれの鬼怒だよ。<br>舞鶴の学校で訓練に励んだんだ。色々と大変になってきた後は、南西方面で頑張ったよ…いやぁ、大変だったなあ。球磨ちゃんには随分と助けてもらったんだ。でも…パナイ島だけはマジパナイ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 75
   graph:
-    boko_n: [47, 59]
-    boko_d: [71, 66]
-    kaisyu_n: [11, 23]
-    kaisyu_d: [33, -8]
-    kaizo_n: [-7, 6]
-    kaizo_d: [-41, -34]
-    map_n: [44, 60]
-    map_d: [44, 60]
-    ensyuf_n: [40, 45]
-    ensyuf_d: [16, 0]
-    ensyue_n: [14, 0]
-    battle_n: [20, 45]
-    battle_d: [20, 45]
-    wed_a: [130, 73]
-    wed_b: [143, 148]
+    boko_n: [70, 88]
+    boko_d: [106, 99]
+    kaisyu_n: [16, 34]
+    kaisyu_d: [49, -12]
+    kaizo_n: [-10, 9]
+    kaizo_d: [-61, -51]
+    map_n: [66, 90]
+    map_d: [66, 90]
+    ensyuf_n: [60, 67]
+    ensyuf_d: [24, 0]
+    ensyue_n: [21, 0]
+    battle_n: [30, 67]
+    battle_d: [30, 67]
+    wed_a: [195, 109]
+    wed_b: [214, 222]
   wiki_id: "109"
   chinese_name: 鬼怒
   can_drop: true

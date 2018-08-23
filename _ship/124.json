@@ -14,7 +14,7 @@ data:
   get_mes: 鈴谷だよ！にぎやかな艦隊だね！<br>よろしくね！
   voice_f: 3
   filename: lvmlqrzbobpe
-  file_version: ["20", "15", "712"]
+  file_version: ["20", "15", "801"]
   book_table_id: [124, 829]
   book_sinfo: 鈴谷は、最上型重巡洋艦の３番艦。横須賀海軍工廠生まれなんだよ～、ふふ～ん。巡洋艦の名前は川由来なんだけど、鈴谷は樺太の鈴谷川がその由来なの。知ってた？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 90
   graph:
-    boko_n: [26, 92]
-    boko_d: [26, 92]
-    kaisyu_n: [6, 0]
-    kaisyu_d: [28, 7]
-    kaizo_n: [11, 24]
-    kaizo_d: [11, 16]
-    map_n: [40, 84]
-    map_d: [40, 84]
-    ensyuf_n: [52, 80]
-    ensyuf_d: [52, 80]
-    ensyue_n: [-3, 0]
-    battle_n: [6, 58]
-    battle_d: [26, 58]
-    wed_a: [168, 40]
-    wed_b: [128, 129]
+    boko_n: [39, 138]
+    boko_d: [39, 138]
+    kaisyu_n: [9, 0]
+    kaisyu_d: [42, 10]
+    kaizo_n: [16, 36]
+    kaizo_d: [16, 24]
+    map_n: [60, 126]
+    map_d: [60, 126]
+    ensyuf_n: [78, 120]
+    ensyuf_d: [78, 120]
+    ensyue_n: [-4, 0]
+    battle_n: [9, 87]
+    battle_d: [39, 87]
+    wed_a: [252, 60]
+    wed_b: [192, 193]
   wiki_id: "124"
   chinese_name: 铃谷
   can_drop: true

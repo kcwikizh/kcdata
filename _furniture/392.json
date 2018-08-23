@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 392
+  type: 3
+  no: 83
+  title: 大型生花アレンジメント
+  description: 四季折々の花々をふんだん<br>に使った、迫力ある豪華な<br>生花アレンジメントです。<br>これで部屋が一気に華やか<br>に！ダイナミック割引可！
+  rarity: 5
+  price: 136000
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: tiqezicxwpry
-  file_version: ["16", "14", "712"]
+  file_version: ["16", "14", "801"]
   book_table_id: [195]
   book_sinfo: 特型駆逐艦、綾波です。<br>改良吹雪型の１番艦なんです。<br>第三次ソロモン海海戦では、駆逐艦一隻としては、特別な大活躍をお見せしました。頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 20
   graph:
-    boko_n: [64, 64]
-    boko_d: [64, 64]
-    kaisyu_n: [24, -8]
-    kaisyu_d: [40, 8]
-    kaizo_n: [24, 8]
-    kaizo_d: [8, -24]
-    map_n: [40, 64]
-    map_d: [40, 64]
-    ensyuf_n: [80, 56]
-    ensyuf_d: [80, 56]
-    ensyue_n: [48, 0]
-    battle_n: [72, 64]
-    battle_d: [56, 64]
-    wed_a: [152, 64]
-    wed_b: [144, 128]
+    boko_n: [96, 96]
+    boko_d: [96, 96]
+    kaisyu_n: [36, -12]
+    kaisyu_d: [60, 12]
+    kaizo_n: [36, 12]
+    kaizo_d: [12, -36]
+    map_n: [60, 96]
+    map_d: [60, 96]
+    ensyuf_n: [120, 84]
+    ensyuf_d: [120, 84]
+    ensyue_n: [72, 0]
+    battle_n: [108, 96]
+    battle_d: [84, 96]
+    wed_a: [228, 96]
+    wed_b: [216, 192]
   wiki_id: "195"
   chinese_name: 绫波改二
   can_drop: false

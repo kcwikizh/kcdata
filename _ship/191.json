@@ -14,7 +14,7 @@ data:
   get_mes: 素敵な提督で嬉しいのね。<br>伊十九なの。そう、イクって呼んでもいいの！
   voice_f: 3
   filename: jdsszkolhitg
-  file_version: ["8", "11", "712"]
+  file_version: ["8", "11", "801"]
   book_table_id: [191]
   book_sinfo: 潜水艦、伊一九よ。うん、イク。正規空母ワスプを自慢の酸素魚雷で仕留めたの。さらにずーっと先を航行していた戦艦や駆逐艦にも命中したの。海のスナイパー、イクさんの活躍、ずーっと覚えていてなの…ね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [56, 128]
-    boko_d: [56, 128]
-    kaisyu_n: [-4, -8]
-    kaisyu_d: [16, 8]
-    kaizo_n: [56, 64]
-    kaizo_d: [56, 64]
-    map_n: [56, 96]
-    map_d: [56, 96]
-    ensyuf_n: [96, 120]
-    ensyuf_d: [80, 68]
-    ensyue_n: [48, 0]
-    battle_n: [64, 112]
-    battle_d: [64, 112]
-    wed_a: [157, 22]
-    wed_b: [119, 134]
+    boko_n: [84, 192]
+    boko_d: [84, 192]
+    kaisyu_n: [-6, -12]
+    kaisyu_d: [24, 12]
+    kaizo_n: [84, 96]
+    kaizo_d: [84, 96]
+    map_n: [84, 144]
+    map_d: [84, 144]
+    ensyuf_n: [144, 180]
+    ensyuf_d: [120, 102]
+    ensyue_n: [72, 0]
+    battle_n: [96, 168]
+    battle_d: [96, 168]
+    wed_a: [235, 33]
+    wed_b: [178, 201]
   wiki_id: "123"
   chinese_name: 伊19
   can_drop: true

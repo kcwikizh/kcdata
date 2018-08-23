@@ -14,7 +14,7 @@ data:
   get_mes: 陽炎型駆逐艦十番艦。<br>時津風……出るよ。
   voice_f: 1
   filename: dljghewzktat
-  file_version: ["14", "14", "712"]
+  file_version: ["14", "14", "801"]
   book_table_id: [186]
   book_sinfo: 陽炎型十番艦の時津風だよ。<br>雪風、初風、天津風とで第十六駆逐隊を編成、仲良く色々と頑張ったんだよ。二水戦にもいたんだよ、ほんとほんと。でも、制海権の無い海は…ちょっと嫌かなーって。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [144, 144]
-    boko_d: [104, 152]
-    kaisyu_n: [8, 8]
-    kaisyu_d: [40, 4]
-    kaizo_n: [144, 72]
-    kaizo_d: [96, 48]
-    map_n: [176, 128]
-    map_d: [128, 144]
-    ensyuf_n: [176, 120]
-    ensyuf_d: [128, 128]
-    ensyue_n: [136, 0]
-    battle_n: [176, 128]
-    battle_d: [128, 144]
+    boko_n: [216, 216]
+    boko_d: [156, 228]
+    kaisyu_n: [12, 12]
+    kaisyu_d: [60, 6]
+    kaizo_n: [216, 108]
+    kaizo_d: [144, 72]
+    map_n: [264, 192]
+    map_d: [192, 216]
+    ensyuf_n: [264, 180]
+    ensyuf_d: [192, 192]
+    ensyue_n: [204, 0]
+    battle_n: [264, 192]
+    battle_d: [192, 216]
     wed_a: [0, 0]
-    wed_b: [128, 120]
+    wed_b: [192, 180]
   wiki_id: "186"
   chinese_name: 时津风
   can_drop: true

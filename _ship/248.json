@@ -12,9 +12,9 @@ data:
   after_lv: 70
   after_ship_id: 463
   get_mes: <br>
-  voice_f: 1
+  voice_f: 3
   filename: xbbfxeemifpv
-  file_version: ["10", "10", "712"]
+  file_version: ["10", "12", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [-48, 64]
-    boko_d: [-50, 64]
-    kaisyu_n: [-34, -38]
-    kaisyu_d: [-27, -24]
-    kaizo_n: [-30, -8]
-    kaizo_d: [-21, 1]
-    map_n: [-34, 55]
-    map_d: [-47, 66]
-    ensyuf_n: [-38, 54]
-    ensyuf_d: [-40, 22]
-    ensyue_n: [-38, 0]
-    battle_n: [-65, 58]
-    battle_d: [-65, 58]
-    wed_a: [320, 71]
-    wed_b: [143, 174]
+    boko_n: [-72, 96]
+    boko_d: [-75, 96]
+    kaisyu_n: [-51, -57]
+    kaisyu_d: [-40, -36]
+    kaizo_n: [-45, -12]
+    kaizo_d: [-31, 1]
+    map_n: [-51, 82]
+    map_d: [-70, 99]
+    ensyuf_n: [-57, 81]
+    ensyuf_d: [-60, 33]
+    ensyue_n: [-57, 0]
+    battle_n: [-97, 87]
+    battle_d: [-97, 87]
+    wed_a: [480, 106]
+    wed_b: [214, 261]
   wiki_id: "085a"
   chinese_name: 朝潮改
   can_drop: false

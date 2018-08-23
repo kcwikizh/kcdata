@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ufgydlyjdaxb
-  file_version: ["8", "13", "712"]
+  file_version: ["8", "13", "801"]
   book_table_id: [419]
   book_sinfo: 初春型駆逐艦の４番艦、初霜です。<br>アリューシャン作戦、アッツ島沖海戦、キスカ島撤退作戦、マリアナ沖海戦、北号作戦、坊ノ岬沖海戦など、様々な激戦に参加しました！<br>ほんと、頑張ったんです！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [72, 56]
-    boko_d: [36, 36]
-    kaisyu_n: [28, -20]
-    kaisyu_d: [40, -32]
-    kaizo_n: [40, 0]
-    kaizo_d: [40, -40]
-    map_n: [64, 40]
-    map_d: [32, 32]
-    ensyuf_n: [64, 32]
-    ensyuf_d: [48, 8]
-    ensyue_n: [48, 0]
-    battle_n: [64, 40]
-    battle_d: [64, 16]
-    wed_a: [128, 96]
-    wed_b: [160, 128]
+    boko_n: [108, 84]
+    boko_d: [54, 54]
+    kaisyu_n: [42, -30]
+    kaisyu_d: [60, -48]
+    kaizo_n: [60, 0]
+    kaizo_d: [60, -60]
+    map_n: [96, 60]
+    map_d: [48, 48]
+    ensyuf_n: [96, 48]
+    ensyuf_d: [72, 12]
+    ensyue_n: [72, 0]
+    battle_n: [96, 60]
+    battle_d: [96, 24]
+    wed_a: [192, 144]
+    wed_b: [240, 192]
   wiki_id: "219"
   chinese_name: 初霜改二
   can_drop: false

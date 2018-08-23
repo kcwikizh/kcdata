@@ -14,7 +14,7 @@ data:
   get_mes: あたし、文月っていうの。<br>よろしくぅ～。
   voice_f: 0
   filename: pjkwpxniwgge
-  file_version: ["12", "12", "712"]
+  file_version: ["12", "12", "801"]
   book_table_id: [29]
   book_sinfo: 睦月型駆逐艦７番艦の文月だよ。<br>数々の海戦に参加したんだ。<br>船団護衛中に大型船と衝突して大破…したこともあったっけ。<br>あれはやばかったなー。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [100, -10]
-    boko_d: [97, 104]
-    kaisyu_n: [26, 6]
-    kaisyu_d: [28, 7]
-    kaizo_n: [45, -65]
-    kaizo_d: [42, 9]
-    map_n: [58, -14]
-    map_d: [1, 94]
-    ensyuf_n: [90, -14]
-    ensyuf_d: [28, 40]
-    ensyue_n: [90, 0]
-    battle_n: [42, -2]
-    battle_d: [32, 109]
-    wed_a: [139, 149]
-    wed_b: [140, 143]
+    boko_n: [150, -15]
+    boko_d: [145, 156]
+    kaisyu_n: [39, 9]
+    kaisyu_d: [42, 10]
+    kaizo_n: [67, -97]
+    kaizo_d: [63, 13]
+    map_n: [87, -21]
+    map_d: [1, 141]
+    ensyuf_n: [135, -21]
+    ensyuf_d: [42, 60]
+    ensyue_n: [135, 0]
+    battle_n: [63, -3]
+    battle_d: [48, 163]
+    wed_a: [208, 223]
+    wed_b: [210, 214]
   wiki_id: "034"
   chinese_name: 文月
   can_drop: true

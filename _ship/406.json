@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: rqsbaiaqlunp
-  file_version: ["2", "2", "712"]
+  file_version: ["2", "2", "801"]
   book_table_id: [406]
   book_sinfo: マル急計画によって戦時建造された雲龍型航空母艦の長女、雲龍よ。<br>傑作中型空母の飛龍を改良した量産型正規空母なの。新生機動部隊の主力としての潜在実力は十分なのだけど…今度は見ててよね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 3]
     build_time: 210
   graph:
-    boko_n: [56, 88]
-    boko_d: [112, 128]
-    kaisyu_n: [32, 0]
-    kaisyu_d: [24, 8]
-    kaizo_n: [0, 48]
-    kaizo_d: [72, 48]
-    map_n: [24, 80]
-    map_d: [112, 128]
-    ensyuf_n: [32, 64]
-    ensyuf_d: [112, 96]
-    ensyue_n: [16, 0]
-    battle_n: [48, 72]
-    battle_d: [96, 104]
-    wed_a: [192, 64]
-    wed_b: [112, 104]
+    boko_n: [84, 132]
+    boko_d: [168, 192]
+    kaisyu_n: [48, 0]
+    kaisyu_d: [36, 12]
+    kaizo_n: [0, 72]
+    kaizo_d: [108, 72]
+    map_n: [36, 120]
+    map_d: [168, 192]
+    ensyuf_n: [48, 96]
+    ensyuf_d: [168, 144]
+    ensyue_n: [24, 0]
+    battle_n: [72, 108]
+    battle_d: [144, 156]
+    wed_a: [288, 96]
+    wed_b: [168, 156]
   wiki_id: "206"
   chinese_name: 云龙改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: vtnbtspwclng
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [172, 168]
-    boko_d: [156, 168]
-    kaisyu_n: [24, -2]
-    kaisyu_d: [32, 10]
-    kaizo_n: [104, 76]
-    kaizo_d: [96, 64]
-    map_n: [136, 140]
-    map_d: [112, 136]
-    ensyuf_n: [128, 136]
-    ensyuf_d: [108, 136]
-    ensyue_n: [128, 0]
-    battle_n: [144, 148]
-    battle_d: [116, 148]
-    wed_a: [92, -12]
-    wed_b: [100, 116]
+    boko_n: [258, 252]
+    boko_d: [234, 252]
+    kaisyu_n: [36, -3]
+    kaisyu_d: [48, 15]
+    kaizo_n: [156, 114]
+    kaizo_d: [144, 96]
+    map_n: [204, 210]
+    map_d: [168, 204]
+    ensyuf_n: [192, 204]
+    ensyuf_d: [162, 204]
+    ensyue_n: [192, 0]
+    battle_n: [216, 222]
+    battle_d: [174, 222]
+    wed_a: [138, -18]
+    wed_b: [150, 174]
   wiki_id: "317a"
   chinese_name: 占守改
   can_drop: false

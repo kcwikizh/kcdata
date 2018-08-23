@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: cvglhkjvdhbi
-  file_version: ["53", "2", "712"]
+  file_version: ["53", "2", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [50, 73]
-    boko_d: [47, 78]
-    kaisyu_n: [-18, -32]
-    kaisyu_d: [44, -60]
-    kaizo_n: [8, 12]
-    kaizo_d: [32, -16]
-    map_n: [36, 42]
-    map_d: [104, 16]
-    ensyuf_n: [16, 42]
-    ensyuf_d: [78, 14]
-    ensyue_n: [10, 0]
-    battle_n: [32, 44]
-    battle_d: [100, 32]
-    wed_a: [216, 82]
-    wed_b: [82, 136]
+    boko_n: [75, 109]
+    boko_d: [70, 117]
+    kaisyu_n: [-27, -48]
+    kaisyu_d: [66, -90]
+    kaizo_n: [12, 18]
+    kaizo_d: [48, -24]
+    map_n: [54, 63]
+    map_d: [156, 24]
+    ensyuf_n: [24, 63]
+    ensyuf_d: [117, 21]
+    ensyue_n: [15, 0]
+    battle_n: [48, 66]
+    battle_d: [150, 48]
+    wed_a: [324, 123]
+    wed_b: [123, 204]
   wiki_id: "365a"
   chinese_name: 福江改
   can_drop: false

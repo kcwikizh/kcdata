@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: babicartxhcm
-  file_version: ["55", "1", "712"]
+  file_version: ["55", "1", "801"]
   book_table_id: [504, 1012]
   book_sinfo: 神戸生まれのお洒落な重巡といえば、わたくし、熊野ですね。マレー、ミッドウェー、ソロモン、マリアナと主要な名所、いえ激戦地に参上いたしましたのよ。最期は日本に帰りたかったけれど……。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 3, 2]
     build_time: 100
   graph:
-    boko_n: [98, 136]
-    boko_d: [138, 160]
-    kaisyu_n: [32, -8]
-    kaisyu_d: [36, 8]
-    kaizo_n: [80, 64]
-    kaizo_d: [116, 80]
-    map_n: [84, 124]
-    map_d: [132, 136]
-    ensyuf_n: [84, 124]
-    ensyuf_d: [132, 136]
-    ensyue_n: [84, 0]
-    battle_n: [120, 132]
-    battle_d: [152, 164]
-    wed_a: [124, -4]
-    wed_b: [104, 116]
+    boko_n: [147, 204]
+    boko_d: [207, 240]
+    kaisyu_n: [48, -12]
+    kaisyu_d: [54, 12]
+    kaizo_n: [120, 96]
+    kaizo_d: [174, 120]
+    map_n: [126, 186]
+    map_d: [198, 204]
+    ensyuf_n: [126, 186]
+    ensyuf_d: [198, 204]
+    ensyue_n: [126, 0]
+    battle_n: [180, 198]
+    battle_d: [228, 246]
+    wed_a: [186, -6]
+    wed_b: [156, 174]
   wiki_id: "304"
   chinese_name: 熊野改二
   can_drop: false

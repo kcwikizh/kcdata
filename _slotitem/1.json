@@ -64,7 +64,7 @@ data:
           useitem:
             -
               id: 3
-              amount: [2, -1]
+              amount: [2, 4]
             -
               id: 4
               amount: [2, 6]

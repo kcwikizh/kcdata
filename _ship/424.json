@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦、六番艦の高波です。<br>あ、あの…頑張ります！ホントかもです！
   voice_f: 1
   filename: hvxoppojkyge
-  file_version: ["23", "12", "712"]
+  file_version: ["24", "12", "801"]
   book_table_id: [424, 345, 920, 818]
   book_sinfo: 夕雲型駆逐艦６番艦、高波です。浦賀生まれです。<br>第三十一駆逐隊に編入され、活躍したかもです。運命のルンガ沖夜戦でも警戒隊の旗艦として敵を発見…、艦隊の勝利に貢献したかも…です。はい！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [160, 112]
-    boko_d: [128, 124]
-    kaisyu_n: [48, 4]
-    kaisyu_d: [48, 8]
-    kaizo_n: [96, 80]
-    kaizo_d: [48, 64]
-    map_n: [96, 104]
-    map_d: [80, 112]
-    ensyuf_n: [128, 96]
-    ensyuf_d: [112, 104]
-    ensyue_n: [104, 0]
-    battle_n: [112, 112]
-    battle_d: [96, 120]
-    wed_a: [80, 32]
-    wed_b: [136, 134]
+    boko_n: [135, 171]
+    boko_d: [103, 202]
+    kaisyu_n: [72, 6]
+    kaisyu_d: [72, 12]
+    kaizo_n: [78, 64]
+    kaizo_d: [31, 61]
+    map_n: [91, 169]
+    map_d: [60, 201]
+    ensyuf_n: [76, 142]
+    ensyuf_d: [45, 174]
+    ensyue_n: [114, 0]
+    battle_n: [117, 184]
+    battle_d: [85, 216]
+    wed_a: [256, 36]
+    wed_b: [126, 160]
   wiki_id: "224"
   chinese_name: 高波
   can_drop: true

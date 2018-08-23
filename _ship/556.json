@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: gncspjbuqlja
-  file_version: ["51", "1", "712"]
+  file_version: ["51", "1", "801"]
   book_table_id: [556]
   book_sinfo: 生まれは大阪、所属は呉。真珠湾からガダルカナルまで駆けまわったんじゃ。<br>最期は金剛姉さんを護衛して台湾海峡…<br>まぁ、もうどうにもならんなぁ……。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 2, 1]
     build_time: 24
   graph:
-    boko_n: [28, 108]
-    boko_d: [64, 146]
-    kaisyu_n: [36, -2]
-    kaisyu_d: [26, 6]
-    kaizo_n: [8, 48]
-    kaizo_d: [40, 56]
-    map_n: [42, 110]
-    map_d: [80, 138]
-    ensyuf_n: [16, 100]
-    ensyuf_d: [52, 130]
-    ensyue_n: [16, 0]
-    battle_n: [44, 108]
-    battle_d: [80, 140]
-    wed_a: [208, 20]
-    wed_b: [88, 124]
+    boko_n: [42, 162]
+    boko_d: [96, 219]
+    kaisyu_n: [54, -3]
+    kaisyu_d: [39, 9]
+    kaizo_n: [12, 72]
+    kaizo_d: [60, 84]
+    map_n: [63, 165]
+    map_d: [120, 207]
+    ensyuf_n: [24, 150]
+    ensyuf_d: [78, 195]
+    ensyue_n: [24, 0]
+    battle_n: [66, 162]
+    battle_d: [120, 210]
+    wed_a: [312, 30]
+    wed_b: [132, 186]
   wiki_id: "356"
   chinese_name: 浦风丁改
   can_drop: false

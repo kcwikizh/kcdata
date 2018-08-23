@@ -14,7 +14,7 @@ data:
   get_mes: 超弩級戦艦、伊勢型の１番艦、伊勢。<br>参ります！
   voice_f: 0
   filename: skgpomqtcedb
-  file_version: ["13", "17", "712"]
+  file_version: ["13", "17", "801"]
   book_table_id: [77]
   book_sinfo: 扶桑型戦艦を再設計した、強力な超弩級戦艦として完成しました。<br>戦艦、伊勢です。<br>主砲を多少とっちゃって、有名な航空戦艦モードに改造可能よ。楽しみね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 1, 4]
     build_time: 270
   graph:
-    boko_n: [-3, 90]
-    boko_d: [-7, 104]
-    kaisyu_n: [22, 5]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-39, 36]
-    kaizo_d: [-18, 9]
-    map_n: [-24, 79]
-    map_d: [-66, 85]
-    ensyuf_n: [-13, 80]
-    ensyuf_d: [-18, 38]
-    ensyue_n: [-13, 0]
-    battle_n: [-42, 60]
-    battle_d: [-42, 60]
-    wed_a: [253, 59]
-    wed_b: [101, 100]
+    boko_n: [-4, 135]
+    boko_d: [-10, 156]
+    kaisyu_n: [33, 7]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-58, 54]
+    kaizo_d: [-27, 13]
+    map_n: [-36, 118]
+    map_d: [-99, 127]
+    ensyuf_n: [-19, 120]
+    ensyuf_d: [-27, 57]
+    ensyue_n: [-19, 0]
+    battle_n: [-63, 90]
+    battle_d: [-63, 90]
+    wed_a: [379, 88]
+    wed_b: [151, 150]
   wiki_id: "003"
   chinese_name: 伊势
   can_drop: true

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: kadfixosusrf
-  file_version: ["15", "15", "712"]
+  file_version: ["15", "15", "801"]
   book_table_id: [319]
   book_sinfo: ワシントン海軍軍縮条約下で建造された重巡洋艦です。<br>平賀譲氏設計による日本海軍の第一級の戦闘艦です。<br>現代の海上自衛隊のイージス艦にも、その名は受け継がれています。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 2, 2]
     build_time: 80
   graph:
-    boko_n: [48, 144]
-    boko_d: [64, 144]
-    kaisyu_n: [8, 16]
-    kaisyu_d: [64, -32]
-    kaizo_n: [-8, 72]
-    kaizo_d: [32, 64]
-    map_n: [0, 128]
-    map_d: [48, 128]
-    ensyuf_n: [32, 128]
-    ensyuf_d: [64, 128]
+    boko_n: [72, 216]
+    boko_d: [96, 216]
+    kaisyu_n: [12, 24]
+    kaisyu_d: [96, -48]
+    kaizo_n: [-12, 108]
+    kaizo_d: [48, 96]
+    map_n: [0, 192]
+    map_d: [72, 192]
+    ensyuf_n: [48, 192]
+    ensyuf_d: [96, 192]
     ensyue_n: [0, 0]
-    battle_n: [32, 128]
-    battle_d: [48, 128]
-    wed_a: [192, 0]
-    wed_b: [128, 112]
+    battle_n: [48, 192]
+    battle_d: [72, 192]
+    wed_a: [288, 0]
+    wed_b: [192, 168]
   wiki_id: "191"
   chinese_name: 妙高改二
   can_drop: false

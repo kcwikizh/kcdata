@@ -14,7 +14,7 @@ data:
   get_mes: 僕は白露型駆逐艦、「時雨」。<br>これからよろしくね。
   voice_f: 1
   filename: kclrmkyzpnpc
-  file_version: ["23", "37", "712"]
+  file_version: ["23", "37", "801"]
   book_table_id: [43]
   book_sinfo: 僕は白露型駆逐艦２番艦の時雨だよ。<br>あのレイテ沖海戦では、西村艦隊に所属して、運命のスリガオ海峡に突入したんだ。<br>扶桑も山城も凄かったよ……。<br>皆が忘れても、僕だけはずっと覚えているから……。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 22
   graph:
-    boko_n: [128, 29]
-    boko_d: [145, 40]
-    kaisyu_n: [22, -4]
-    kaisyu_d: [28, 7]
-    kaizo_n: [73, -26]
-    kaizo_d: [97, -45]
-    map_n: [61, 32]
-    map_d: [49, 30]
-    ensyuf_n: [109, 24]
-    ensyuf_d: [89, -16]
-    ensyue_n: [109, 0]
-    battle_n: [69, 2]
-    battle_d: [69, 2]
-    wed_a: [120, 107]
-    wed_b: [130, 146]
+    boko_n: [192, 43]
+    boko_d: [217, 60]
+    kaisyu_n: [33, -6]
+    kaisyu_d: [42, 10]
+    kaizo_n: [109, -39]
+    kaizo_d: [145, -67]
+    map_n: [91, 48]
+    map_d: [73, 45]
+    ensyuf_n: [163, 36]
+    ensyuf_d: [133, -24]
+    ensyue_n: [163, 0]
+    battle_n: [103, 3]
+    battle_d: [103, 3]
+    wed_a: [180, 160]
+    wed_b: [195, 219]
   wiki_id: "080"
   chinese_name: 时雨
   can_drop: true

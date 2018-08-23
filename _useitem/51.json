@@ -6,7 +6,7 @@ data:
   category: 0
   name: 応急修理女神
   description:
-    - "応急修理要員がパワーアップ！撃沈回避時に出撃能力が全回復。"
+    - "応急修理要員がパワーアップ！<br>撃沈回避時に出撃能力が全回<br>復。"
     - ""
   price: 0
   chinese_name: 应急修理女神

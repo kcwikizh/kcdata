@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: ffyychaekjsj
-  file_version: ["13", "13", "712"]
+  file_version: ["13", "13", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [17, 71]
-    boko_d: [13, 62]
-    kaisyu_n: [20, -16]
-    kaisyu_d: [28, -9]
-    kaizo_n: [-38, 16]
-    kaizo_d: [-41, -13]
-    map_n: [-22, 70]
-    map_d: [-83, 52]
-    ensyuf_n: [17, 71]
-    ensyuf_d: [-23, 21]
-    ensyue_n: [17, 0]
-    battle_n: [-45, 54]
-    battle_d: [-45, 54]
-    wed_a: [221, 65]
-    wed_b: [145, 147]
+    boko_n: [25, 106]
+    boko_d: [19, 93]
+    kaisyu_n: [30, -24]
+    kaisyu_d: [42, -13]
+    kaizo_n: [-57, 24]
+    kaizo_d: [-61, -19]
+    map_n: [-33, 105]
+    map_d: [-124, 78]
+    ensyuf_n: [25, 106]
+    ensyuf_d: [-34, 31]
+    ensyue_n: [25, 0]
+    battle_n: [-67, 81]
+    battle_d: [-67, 81]
+    wed_a: [331, 97]
+    wed_b: [217, 220]
   wiki_id: "091a"
   chinese_name: 阳炎改
   can_drop: false

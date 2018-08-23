@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: ghgphbvmzjrx
-  file_version: ["9", "13", "712"]
+  file_version: ["9", "13", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 1, 2]
     build_time: 85
   graph:
-    boko_n: [79, 104]
-    boko_d: [78, 115]
-    kaisyu_n: [13, 28]
-    kaisyu_d: [28, 18]
-    kaizo_n: [24, 49]
-    kaizo_d: [24, 12]
-    map_n: [28, 103]
-    map_d: [20, 96]
-    ensyuf_n: [64, 96]
-    ensyuf_d: [29, 55]
-    ensyue_n: [64, 0]
-    battle_n: [12, 89]
-    battle_d: [12, 89]
-    wed_a: [178, 36]
-    wed_b: [100, 117]
+    boko_n: [118, 156]
+    boko_d: [117, 172]
+    kaisyu_n: [19, 42]
+    kaisyu_d: [42, 27]
+    kaizo_n: [36, 73]
+    kaizo_d: [36, 18]
+    map_n: [42, 154]
+    map_d: [30, 144]
+    ensyuf_n: [96, 144]
+    ensyuf_d: [43, 82]
+    ensyue_n: [96, 0]
+    battle_n: [18, 133]
+    battle_d: [18, 133]
+    wed_a: [267, 54]
+    wed_b: [150, 175]
   wiki_id: "059a"
   chinese_name: 高雄改
   can_drop: false

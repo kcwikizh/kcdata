@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: rsmzverhwskc
-  file_version: ["22", "11", "712"]
+  file_version: ["22", "12", "817"]
   book_table_id: [109]
   book_sinfo: 水上機母艦から大改装を受けて、航空母艦にジョブチェンジした千代田です。結構ちゃんとした空母でしょ？千歳お姉と一緒に敵機動部隊と戦うわ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 2]
     build_time: 190
   graph:
-    boko_n: [-62, 43]
-    boko_d: [-44, 53]
-    kaisyu_n: [2, -2]
-    kaisyu_d: [18, 8]
-    kaizo_n: [-80, -11]
-    kaizo_d: [-65, -49]
-    map_n: [-45, 42]
-    map_d: [-140, 43]
-    ensyuf_n: [-26, 23]
-    ensyuf_d: [-22, -7]
-    ensyue_n: [-26, 0]
-    battle_n: [-148, 21]
-    battle_d: [-149, 21]
-    wed_a: [335, 95]
-    wed_b: [97, 110]
+    boko_n: [-93, 64]
+    boko_d: [-66, 79]
+    kaisyu_n: [3, -3]
+    kaisyu_d: [27, 12]
+    kaizo_n: [-120, -16]
+    kaizo_d: [-97, -73]
+    map_n: [-67, 63]
+    map_d: [-210, 64]
+    ensyuf_n: [-39, 34]
+    ensyuf_d: [-33, -10]
+    ensyue_n: [-39, 0]
+    battle_n: [-222, 31]
+    battle_d: [-223, 31]
+    wed_a: [502, 142]
+    wed_b: [145, 165]
   wiki_id: "105"
   chinese_name: 千代田航
   can_drop: false

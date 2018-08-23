@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: jdqefjcpslli
-  file_version: ["14", "19", "712"]
+  file_version: ["14", "19", "801"]
   book_table_id: [58]
   book_sinfo: 九三式酸素魚雷を満載、片舷20門、全40門の魚雷発射管を誇る、重雷装艦へと改装されたスーパー北上さまだよ。<br>その威力は圧倒的と言われていたけれど、活躍する機会が微妙になかったんだよね。ちぇっ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 4, 0, 1]
     build_time: 75
   graph:
-    boko_n: [12, 11]
-    boko_d: [9, 25]
-    kaisyu_n: [7, -41]
-    kaisyu_d: [11, -16]
-    kaizo_n: [3, -38]
-    kaizo_d: [-46, -64]
-    map_n: [-24, 11]
-    map_d: [12, 28]
-    ensyuf_n: [1, 31]
-    ensyuf_d: [-37, -23]
+    boko_n: [18, 16]
+    boko_d: [13, 37]
+    kaisyu_n: [10, -61]
+    kaisyu_d: [16, -24]
+    kaizo_n: [4, -57]
+    kaizo_d: [-69, -96]
+    map_n: [-36, 16]
+    map_d: [18, 42]
+    ensyuf_n: [1, 46]
+    ensyuf_d: [-55, -34]
     ensyue_n: [1, 0]
-    battle_n: [-33, 50]
-    battle_d: [-33, 50]
-    wed_a: [196, 124]
-    wed_b: [97, 112]
+    battle_n: [-49, 75]
+    battle_d: [-49, 75]
+    wed_a: [294, 186]
+    wed_b: [145, 168]
   wiki_id: "098"
   chinese_name: 北上改
   can_drop: false

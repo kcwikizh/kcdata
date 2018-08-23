@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: wmebertagnxm
-  file_version: ["2", "1", "712"]
+  file_version: ["2", "1", "801"]
   book_table_id: [438]
   book_sinfo: Hello！ アメリカ生まれの大型正規空母Saratogaです。<br>歴史深い由緒ある名前を頂いています。あの大きな戦いでは、最初から最後まで頑張ったんです。戦いの終わったあと、Nagatoさんたちと一緒にある実験に参加しました。<br>これからSaraも皆さんと同じ艦隊で、頑張らせてくださいね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 5, 6]
     build_time: 330
   graph:
-    boko_n: [40, 40]
-    boko_d: [60, 168]
-    kaisyu_n: [24, -28]
-    kaisyu_d: [12, -6]
-    kaizo_n: [-12, -16]
-    kaizo_d: [4, 80]
-    map_n: [40, 40]
-    map_d: [28, 148]
-    ensyuf_n: [8, 36]
-    ensyuf_d: [32, 128]
-    ensyue_n: [-20, 0]
-    battle_n: [32, 44]
-    battle_d: [16, 148]
-    wed_a: [236, 100]
-    wed_b: [88, 96]
+    boko_n: [60, 60]
+    boko_d: [90, 252]
+    kaisyu_n: [36, -42]
+    kaisyu_d: [18, -9]
+    kaizo_n: [-18, -24]
+    kaizo_d: [6, 120]
+    map_n: [60, 60]
+    map_d: [42, 222]
+    ensyuf_n: [12, 54]
+    ensyuf_d: [48, 192]
+    ensyue_n: [-30, 0]
+    battle_n: [48, 66]
+    battle_d: [24, 222]
+    wed_a: [354, 150]
+    wed_b: [132, 144]
   wiki_id: "238"
   chinese_name: 萨拉托加改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: yvirvqslxmbd
-  file_version: ["51", "1", "712"]
+  file_version: ["51", "1", "801"]
   book_table_id: [566]
   book_sinfo: 第四次軍備充実計画で建造された陽炎型駆逐艦、ネームシップの陽炎よ。<br>新鋭の主力駆逐艦として、ハワイ攻撃機動部隊を始め、様々な作戦に参加したわ！<br>よろしくね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [100, 128]
-    boko_d: [108, 168]
-    kaisyu_n: [28, 4]
-    kaisyu_d: [10, -8]
-    kaizo_n: [72, 52]
-    kaizo_d: [36, 64]
-    map_n: [116, 104]
-    map_d: [72, 128]
-    ensyuf_n: [96, 108]
-    ensyuf_d: [48, 120]
-    ensyue_n: [100, 0]
-    battle_n: [128, 128]
-    battle_d: [80, 148]
-    wed_a: [136, 12]
-    wed_b: [84, 112]
+    boko_n: [150, 192]
+    boko_d: [162, 252]
+    kaisyu_n: [42, 6]
+    kaisyu_d: [15, -12]
+    kaizo_n: [108, 78]
+    kaizo_d: [54, 96]
+    map_n: [174, 156]
+    map_d: [108, 192]
+    ensyuf_n: [144, 162]
+    ensyuf_d: [72, 180]
+    ensyue_n: [150, 0]
+    battle_n: [192, 192]
+    battle_d: [120, 222]
+    wed_a: [204, 18]
+    wed_b: [126, 168]
   wiki_id: "366"
   chinese_name: 阳炎改二
   can_drop: false

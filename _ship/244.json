@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: wvnchfzhekfo
-  file_version: ["39", "34", "712"]
+  file_version: ["40", "35", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [96, 88]
-    boko_d: [16, 48]
-    kaisyu_n: [16, 0]
-    kaisyu_d: [32, -32]
-    kaizo_n: [96, 32]
-    kaizo_d: [-16, -16]
-    map_n: [48, 72]
-    map_d: [16, 32]
-    ensyuf_n: [112, 80]
-    ensyuf_d: [-16, -40]
-    ensyue_n: [96, 0]
-    battle_n: [120, 64]
-    battle_d: [16, 16]
-    wed_a: [91, 40]
-    wed_b: [123, 133]
+    boko_n: [216, 204]
+    boko_d: [96, 120]
+    kaisyu_n: [24, 0]
+    kaisyu_d: [48, -48]
+    kaizo_n: [168, 120]
+    kaizo_d: [48, -24]
+    map_n: [168, 168]
+    map_d: [48, 72]
+    ensyuf_n: [192, 144]
+    ensyuf_d: [60, 48]
+    ensyue_n: [144, 0]
+    battle_n: [192, 180]
+    battle_d: [48, 96]
+    wed_a: [126, 24]
+    wed_b: [204, 168]
   wiki_id: "081a"
   chinese_name: 村雨改
   can_drop: false

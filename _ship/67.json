@@ -14,7 +14,7 @@ data:
   get_mes: 私は愛宕、提督、覚えてくださいね。
   voice_f: 1
   filename: aqpnbsizhjij
-  file_version: ["8", "12", "712"]
+  file_version: ["8", "12", "801"]
   book_table_id: [67]
   book_sinfo: 高雄型の２番艦、愛宕よ、うふふ。<br>呉海軍工廠で生まれたの。<br>バランスがとれた重武装ボディでしょ？<br>レイテ沖の決戦では、第一遊撃部隊の旗艦として出撃したんだけど……ま、そんなこともあるわよね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 85
   graph:
-    boko_n: [87, 99]
-    boko_d: [61, 110]
-    kaisyu_n: [8, 20]
-    kaisyu_d: [28, 16]
-    kaizo_n: [27, 47]
-    kaizo_d: [39, 13]
-    map_n: [29, 103]
-    map_d: [-9, 92]
-    ensyuf_n: [66, 98]
-    ensyuf_d: [40, 51]
-    ensyue_n: [66, 0]
-    battle_n: [14, 83]
-    battle_d: [14, 83]
-    wed_a: [178, 36]
-    wed_b: [104, 118]
+    boko_n: [130, 148]
+    boko_d: [91, 165]
+    kaisyu_n: [12, 30]
+    kaisyu_d: [42, 24]
+    kaizo_n: [40, 70]
+    kaizo_d: [58, 19]
+    map_n: [43, 154]
+    map_d: [-13, 138]
+    ensyuf_n: [99, 147]
+    ensyuf_d: [60, 76]
+    ensyue_n: [99, 0]
+    battle_n: [21, 124]
+    battle_d: [21, 124]
+    wed_a: [267, 54]
+    wed_b: [156, 177]
   wiki_id: "060"
   chinese_name: 爱宕
   can_drop: true

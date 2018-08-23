@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: fhcabilueqsn
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 1]
     build_time: 200
   graph:
-    boko_n: [152, 152]
-    boko_d: [176, 164]
-    kaisyu_n: [28, -12]
-    kaisyu_d: [56, 8]
-    kaizo_n: [140, 72]
-    kaizo_d: [140, 80]
-    map_n: [164, 120]
-    map_d: [188, 144]
-    ensyuf_n: [152, 132]
-    ensyuf_d: [192, 132]
-    ensyue_n: [144, 0]
-    battle_n: [176, 136]
-    battle_d: [204, 152]
-    wed_a: [64, -4]
-    wed_b: [84, 132]
+    boko_n: [228, 228]
+    boko_d: [264, 246]
+    kaisyu_n: [42, -18]
+    kaisyu_d: [84, 12]
+    kaizo_n: [210, 108]
+    kaizo_d: [210, 120]
+    map_n: [246, 180]
+    map_d: [282, 216]
+    ensyuf_n: [228, 198]
+    ensyuf_d: [288, 198]
+    ensyue_n: [216, 0]
+    battle_n: [264, 204]
+    battle_d: [306, 228]
+    wed_a: [96, -6]
+    wed_b: [126, 198]
   wiki_id: "295a"
   chinese_name: 伊14改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ywgeborrihwb
-  file_version: ["1", "1", "712"]
+  file_version: ["1", "1", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 3, 3]
     build_time: 270
   graph:
-    boko_n: [100, 132]
-    boko_d: [144, 132]
-    kaisyu_n: [24, 8]
-    kaisyu_d: [20, 8]
-    kaizo_n: [64, 68]
-    kaizo_d: [108, 84]
-    map_n: [68, 112]
-    map_d: [124, 116]
-    ensyuf_n: [56, 112]
-    ensyuf_d: [104, 108]
-    ensyue_n: [48, 0]
-    battle_n: [88, 120]
-    battle_d: [128, 124]
-    wed_a: [140, 0]
-    wed_b: [108, 128]
+    boko_n: [150, 198]
+    boko_d: [216, 198]
+    kaisyu_n: [36, 12]
+    kaisyu_d: [30, 12]
+    kaizo_n: [96, 102]
+    kaizo_d: [162, 126]
+    map_n: [102, 168]
+    map_d: [186, 174]
+    ensyuf_n: [84, 168]
+    ensyuf_d: [156, 162]
+    ensyue_n: [72, 0]
+    battle_n: [132, 180]
+    battle_d: [192, 186]
+    wed_a: [210, 0]
+    wed_b: [162, 192]
   wiki_id: "244a"
   chinese_name: 鹫座改
   can_drop: false

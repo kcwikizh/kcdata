@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: higuuqsbfkvb
-  file_version: ["8", "2", "712"]
+  file_version: ["9", "2", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [204, 112]
-    boko_d: [72, 112]
-    kaisyu_n: [16, -8]
-    kaisyu_d: [24, 4]
-    kaizo_n: [136, 52]
-    kaizo_d: [16, 48]
-    map_n: [152, 80]
-    map_d: [16, 96]
-    ensyuf_n: [152, 96]
-    ensyuf_d: [16, 96]
-    ensyue_n: [148, 0]
-    battle_n: [172, 104]
-    battle_d: [36, 112]
-    wed_a: [48, 32]
-    wed_b: [112, 128]
+    boko_n: [198, 180]
+    boko_d: [84, 192]
+    kaisyu_n: [24, -12]
+    kaisyu_d: [36, 6]
+    kaizo_n: [120, 96]
+    kaizo_d: [0, 96]
+    map_n: [108, 144]
+    map_d: [6, 156]
+    ensyuf_n: [132, 144]
+    ensyuf_d: [-12, 156]
+    ensyue_n: [138, 0]
+    battle_n: [150, 162]
+    battle_d: [30, 180]
+    wed_a: [192, 48]
+    wed_b: [156, 174]
   wiki_id: "252a"
   chinese_name: 冲波改
   can_drop: false

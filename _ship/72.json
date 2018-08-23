@@ -14,7 +14,7 @@ data:
   get_mes: はじめまして、利根型２番艦、筑摩と申します。
   voice_f: 0
   filename: gcqjowlpkbde
-  file_version: ["11", "11", "712"]
+  file_version: ["11", "11", "801"]
   book_table_id: [72]
   book_sinfo: 筑摩です。<br>連装主砲４基を前甲板に集中させ、充実した索敵水偵を搭載した利根型重巡洋艦２番艦です。<br>生まれは長崎よ。利根姉さんと一緒に、あの南雲機動部隊の、大切な眼の役目を務めたの。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 90
   graph:
-    boko_n: [94, 77]
-    boko_d: [116, 92]
-    kaisyu_n: [4, 32]
-    kaisyu_d: [28, 7]
-    kaizo_n: [66, 13]
-    kaizo_d: [53, -23]
-    map_n: [52, 70]
-    map_d: [23, 68]
-    ensyuf_n: [100, 70]
-    ensyuf_d: [68, 16]
-    ensyue_n: [100, 0]
-    battle_n: [36, 49]
-    battle_d: [66, 48]
-    wed_a: [155, 62]
-    wed_b: [86, 94]
+    boko_n: [141, 115]
+    boko_d: [174, 138]
+    kaisyu_n: [6, 48]
+    kaisyu_d: [42, 10]
+    kaizo_n: [99, 19]
+    kaizo_d: [79, -34]
+    map_n: [78, 105]
+    map_d: [34, 102]
+    ensyuf_n: [150, 105]
+    ensyuf_d: [102, 24]
+    ensyue_n: [150, 0]
+    battle_n: [54, 73]
+    battle_d: [99, 72]
+    wed_a: [232, 93]
+    wed_b: [129, 141]
   wiki_id: "064"
   chinese_name: 筑摩
   can_drop: true

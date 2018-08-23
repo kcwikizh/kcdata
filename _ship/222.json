@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: zhixojcwijfj
-  file_version: ["10", "7", "712"]
+  file_version: ["10", "7", "801"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [29, 65]
-    boko_d: [72, 23]
-    kaisyu_n: [20, 24]
-    kaisyu_d: [28, 7]
-    kaizo_n: [-26, 10]
-    kaizo_d: [12, -34]
-    map_n: [-22, 59]
-    map_d: [23, 53]
-    ensyuf_n: [10, 68]
-    ensyuf_d: [25, -4]
-    ensyue_n: [10, 0]
-    battle_n: [-30, 33]
-    battle_d: [8, 9]
-    wed_a: [236, 68]
-    wed_b: [111, 119]
+    boko_n: [43, 97]
+    boko_d: [108, 34]
+    kaisyu_n: [30, 36]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-39, 15]
+    kaizo_d: [18, -51]
+    map_n: [-33, 88]
+    map_d: [34, 79]
+    ensyuf_n: [15, 102]
+    ensyuf_d: [37, -6]
+    ensyue_n: [15, 0]
+    battle_n: [-45, 49]
+    battle_d: [12, 13]
+    wed_a: [354, 102]
+    wed_b: [166, 178]
   wiki_id: "046a"
   chinese_name: 川内改
   can_drop: false

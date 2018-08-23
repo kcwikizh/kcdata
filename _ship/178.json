@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: twvnkvqgyiru
-  file_version: ["9", "9", "712"]
+  file_version: ["9", "9", "801"]
   book_table_id: [178]
   book_sinfo: ドイツの誇るビスマルク級超弩級戦艦のネームシップ、それが私よ。<br>ドイツらしい重厚かつ美しいデザインでしょう？いいのよ、もっと褒めても。<br>この海でも縦横無尽に活躍するわ。期待しなさい！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 1, 2, 4]
     build_time: 300
   graph:
-    boko_n: [-72, 116]
-    boko_d: [64, 136]
-    kaisyu_n: [4, -4]
-    kaisyu_d: [24, -4]
-    kaizo_n: [-104, 60]
-    kaizo_d: [16, 32]
-    map_n: [-64, 116]
-    map_d: [24, 116]
-    ensyuf_n: [-48, 104]
-    ensyuf_d: [32, 88]
-    ensyue_n: [-96, 0]
-    battle_n: [-24, 88]
-    battle_d: [32, 112]
-    wed_a: [304, 16]
-    wed_b: [128, 112]
+    boko_n: [-108, 174]
+    boko_d: [96, 204]
+    kaisyu_n: [6, -6]
+    kaisyu_d: [36, -6]
+    kaizo_n: [-156, 90]
+    kaizo_d: [24, 48]
+    map_n: [-96, 174]
+    map_d: [36, 174]
+    ensyuf_n: [-72, 156]
+    ensyuf_d: [48, 132]
+    ensyue_n: [-144, 0]
+    battle_n: [-36, 132]
+    battle_d: [48, 168]
+    wed_a: [456, 24]
+    wed_b: [192, 168]
   wiki_id: "178"
   chinese_name: 俾斯麦drei
   can_drop: false
