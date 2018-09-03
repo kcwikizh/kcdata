@@ -1,0 +1,36 @@
+---
+layout: json
+order: 303
+data:
+  id: 303
+  sort_no: 303
+  name: Bofors 15.2cm連装砲 Model 1930
+  type: [1, 1, 2, 2, 0]
+  rare: 3
+  broken: [0, 2, 3, 1]
+  info: 北欧スウェーデンの名門火器メーカーが開発した軽巡用中口径連装主砲兵装です。<br>日本の5,500t級軽巡とほぼ同じ排水量を持つ、スウェーデン海軍の軽巡級に採用されました。限定的ではありますが、対空戦闘にも対応可能です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 5
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 4
+    tais: 0
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  improvement: 
+  chinese_name:
+---

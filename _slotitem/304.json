@@ -1,0 +1,36 @@
+---
+layout: json
+order: 304
+data:
+  id: 304
+  sort_no: 304
+  name: S9 Osprey
+  type: [5, 7, 10, 10, 28]
+  rare: 2
+  broken: [1, 1, 0, 2]
+  info: 紅茶の国で生まれた複葉複座機の傑作機Hawker Hart。<br>やや旧式ではありますが、同ベストセラー機の改良水上機型が本機「Osprey」です。<br>スウェーデン海軍にも採用され、偵察や弾着観測機として運用されました。
+  usebull: 0
+  cost: 3
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 2
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---
