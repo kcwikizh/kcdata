@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 534
+  sort_no: 324
+  name: 神鷹
+  yomi: しんよう
+  stype: 7
+  ctype: 76
+  cnum: 4
+  backs: 4
+  after_lv: 60
+  after_ship_id: 381
+  get_mes: Guten Tag…いえ、こんにちは。<br>私、神鷹って名前…その…航空母艦です。まだ色々と<br>慣れなくてごめんなさい。でも頑張ります。
+  voice_f: 1
+  filename: qjwulcrymrvr
+  file_version: ["51", "1", "801"]
+  book_table_id: [534]
+  book_sinfo: 航空母艦、神鷹です。神戸に避難していたドイツの客<br>船でしたが、帰国は困難でした。後に日本海軍に譲渡<br>され、空母へと改装されました。船団航路を護る海上<br>護衛総隊に所属し、対潜掃蕩任務に就きました。姉た<br>ちの敵に一矢報いたかった…けれど…。夜…夜の海は<br>…嫌…怖いです…。
+  stats:
+    taik: [38, 59]
+    souk: [15, 35]
+    houg: [0, 14]
+    raig: [0, 0]
+    tyku: [14, 30]
+    luck: [9, 49]
+    soku: 5
+    leng: 1
+    kaih: 22
+    tais: 36
+    slot_num: 3
+    max_eq: [9, 18, 6, 0, 0]
+    after_fuel: 420
+    after_bull: 280
+    fuel_max: 30
+    bull_max: 25
+    broken: [2, 2, 16, 3]
+    pow_up: [0, 0, 1, 2]
+    build_time: 160
+  graph:
+    boko_n: [175, 211]
+    boko_d: [253, 331]
+    kaisyu_n: [21, 0]
+    kaisyu_d: [91, 4]
+    kaizo_n: [166, 97]
+    kaizo_d: [232, 181]
+    map_n: [148, 201]
+    map_d: [219, 261]
+    ensyuf_n: [153, 193]
+    ensyuf_d: [222, 205]
+    ensyue_n: [222, 0]
+    battle_n: [190, 201]
+    battle_d: [289, 283]
+    wed_a: [180, -1]
+    wed_b: [106, 135]
+  wiki_id: "324"
+  chinese_name: 神鹰
+  can_drop: false
+  can_construct: false
+---

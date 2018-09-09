@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 381
+  sort_no: 1461
+  name: 神鷹改
+  yomi: しんよう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 85
+  after_ship_id: 536
+  get_mes: <br>
+  voice_f: 3
+  filename: ekhgotryrtbd
+  file_version: ["1", "1", "801"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [48, 73]
+    souk: [22, 53]
+    houg: [0, 24]
+    raig: [0, 0]
+    tyku: [18, 48]
+    luck: [11, 58]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [9, 18, 6, 3, 0]
+    after_fuel: 770
+    after_bull: 1170
+    fuel_max: 30
+    bull_max: 30
+    broken: [2, 2, 16, 3]
+    pow_up: [0, 0, 2, 2]
+    build_time: 160
+  graph:
+    boko_n: [175, 211]
+    boko_d: [253, 331]
+    kaisyu_n: [21, 0]
+    kaisyu_d: [91, 4]
+    kaizo_n: [166, 97]
+    kaizo_d: [232, 181]
+    map_n: [148, 201]
+    map_d: [219, 261]
+    ensyuf_n: [153, 193]
+    ensyuf_d: [222, 205]
+    ensyue_n: [222, 0]
+    battle_n: [190, 201]
+    battle_d: [289, 283]
+    wed_a: [180, -1]
+    wed_b: [106, 135]
+  wiki_id: "324a"
+  chinese_name: 神鹰改
+  can_drop: false
+  can_construct: false
+---

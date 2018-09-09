@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 536
+  sort_no: 336
+  name: 神鷹改二
+  yomi: しんよう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: jqkvvuiubfdq
+  file_version: ["51", "1", "801"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [50, 75]
+    souk: [26, 56]
+    houg: [15, 37]
+    raig: [0, 0]
+    tyku: [27, 58]
+    luck: [15, 70]
+    soku: 5
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [9, 18, 18, 6, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 35
+    bull_max: 35
+    broken: [3, 6, 16, 5]
+    pow_up: [0, 0, 3, 2]
+    build_time: 160
+  graph:
+    boko_n: [193, 211]
+    boko_d: [253, 331]
+    kaisyu_n: [10, 0]
+    kaisyu_d: [91, 4]
+    kaizo_n: [184, 97]
+    kaizo_d: [232, 181]
+    map_n: [166, 201]
+    map_d: [219, 261]
+    ensyuf_n: [171, 193]
+    ensyuf_d: [222, 205]
+    ensyue_n: [240, 0]
+    battle_n: [208, 201]
+    battle_d: [289, 283]
+    wed_a: [159, 0]
+    wed_b: [103, 132]
+  wiki_id: "336"
+  chinese_name: 神鹰改二
+  can_drop: false
+  can_construct: false
+---

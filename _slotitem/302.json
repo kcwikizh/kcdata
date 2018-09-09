@@ -1,0 +1,36 @@
+---
+layout: json
+order: 302
+data:
+  id: 302
+  sort_no: 302
+  name: 九七式艦攻(九三一空/熟練)
+  type: [3, 5, 8, 8, 1]
+  rare: 3
+  broken: [2, 3, 0, 4]
+  info: 初期の機動部隊を支えた主力攻撃機「九七艦攻」。<br>旧式化した同機を対潜哨戒機バージョンとして運用する九三一航空隊所属の「九七艦攻」装備飛行隊、その熟練搭乗員ペアによる艦上対潜哨戒機です。海上護衛部隊の翼として、水面下の脅威から艦隊や船団を護ります。
+  usebull: 0
+  cost: 5
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 8
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 9
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 3
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---
