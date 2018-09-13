@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 579
+  sort_no: 379
+  name: Gotland改
+  yomi: ゴトランド
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: qauiuewvdpnz
+  file_version: ["51", "1", "801"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [43, 62]
+    souk: [18, 63]
+    houg: [17, 62]
+    raig: [17, 70]
+    tyku: [66, 102]
+    luck: [24, 98]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [1, 1, 1, 1, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 30
+    broken: [2, 4, 11, 3]
+    pow_up: [1, 1, 3, 1]
+    build_time: 60
+  graph:
+    boko_n: [-70, 217]
+    boko_d: [-79, 186]
+    kaisyu_n: [16, -6]
+    kaisyu_d: [10, 25]
+    kaizo_n: [-64, 81]
+    kaizo_d: [-124, 30]
+    map_n: [-55, 217]
+    map_d: [-105, 181]
+    ensyuf_n: [-28, 196]
+    ensyuf_d: [-91, 156]
+    ensyue_n: [-67, 0]
+    battle_n: [-4, 255]
+    battle_d: [-63, 205]
+    wed_a: [403, -19]
+    wed_b: [108, 162]
+  wiki_id: "379"
+  chinese_name: 哥特兰改
+  can_drop: false
+  can_construct: false
+---

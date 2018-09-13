@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 571
+  sort_no: 371
+  name: Nelson
+  yomi: ネルソン
+  stype: 9
+  ctype: 88
+  cnum: 1
+  backs: 7
+  after_lv: 50
+  after_ship_id: 576
+  get_mes: <br>
+  voice_f: 1
+  filename: cdhgwlkagknq
+  file_version: ["51", "1", "801"]
+  book_table_id: [571]
+  book_sinfo: 余がNelson級戦艦一番艦、Nelsonだ。そうだ、三連<br>装主砲三基九門を全て艦前方に集中配置したこの独創<br>的なデザイン、ビックセブンの一角として、そして我<br>が本国艦隊の旗艦として存在感を放ったものだ。何?<br>この主砲配置には課題がある…だと?ブリティッシュ<br>ジョークも休み休み言え。今回だけは許してやろう。
+  stats:
+    taik: [82, 92]
+    souk: [74, 92]
+    houg: [72, 102]
+    raig: [0, 0]
+    tyku: [24, 82]
+    luck: [24, 89]
+    soku: 5
+    leng: 3
+    kaih: 22
+    tais: 0
+    slot_num: 4
+    max_eq: [1, 1, 1, 2, 0]
+    after_fuel: 2800
+    after_bull: 1700
+    fuel_max: 95
+    bull_max: 145
+    broken: [10, 22, 42, 3]
+    pow_up: [5, 0, 1, 4]
+    build_time: 300
+  graph:
+    boko_n: [-127, 96]
+    boko_d: [-160, 238]
+    kaisyu_n: [-4, -28]
+    kaisyu_d: [-24, -7]
+    kaizo_n: [-127, -27]
+    kaizo_d: [-214, 75]
+    map_n: [-108, 70]
+    map_d: [-184, 205]
+    ensyuf_n: [-79, 52]
+    ensyuf_d: [-153, 187]
+    ensyue_n: [592, 0]
+    battle_n: [-55, 102]
+    battle_d: [-124, 229]
+    wed_a: [420, 126]
+    wed_b: [103, 156]
+  wiki_id: "371"
+  chinese_name: 纳尔逊
+  can_drop: false
+  can_construct: false
+---

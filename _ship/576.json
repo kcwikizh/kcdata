@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 576
+  sort_no: 376
+  name: Nelson改
+  yomi: ネルソン
+  stype: 9
+  ctype: 
+  cnum: 
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: mjsgsaecwubp
+  file_version: ["51", "1", "801"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [93, 98]
+    souk: [84, 104]
+    houg: [81, 114]
+    raig: [0, 0]
+    tyku: [30, 92]
+    luck: [28, 98]
+    soku: 5
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [1, 1, 2, 2, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 95
+    bull_max: 175
+    broken: [16, 33, 52, 3]
+    pow_up: [5, 0, 2, 4]
+    build_time: 300
+  graph:
+    boko_n: [-127, 96]
+    boko_d: [-160, 238]
+    kaisyu_n: [-4, -28]
+    kaisyu_d: [-24, -7]
+    kaizo_n: [-127, -27]
+    kaizo_d: [-214, 75]
+    map_n: [-108, 70]
+    map_d: [-184, 205]
+    ensyuf_n: [-79, 52]
+    ensyuf_d: [-153, 187]
+    ensyue_n: [592, 0]
+    battle_n: [-55, 102]
+    battle_d: [-124, 229]
+    wed_a: [420, 126]
+    wed_b: [103, 156]
+  wiki_id: "376"
+  chinese_name: 纳尔逊改
+  can_drop: false
+  can_construct: false
+---

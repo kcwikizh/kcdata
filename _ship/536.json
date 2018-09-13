@@ -6,8 +6,8 @@ data:
   name: 神鷹改二
   yomi: しんよう
   stype: 7
-  ctype: 
-  cnum: 
+  ctype: 76
+  cnum: 4
   backs: 7
   after_lv: 
   after_ship_id: 
@@ -15,8 +15,8 @@ data:
   voice_f: 3
   filename: jqkvvuiubfdq
   file_version: ["51", "1", "801"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [536]
+  book_sinfo: 航空母艦、神鷹です。神戸に避難していたドイツの客<br>船でしたが、帰国は困難でした。後に日本海軍に譲渡<br>され、空母へと改装されました。船団航路を護る海上<br>護衛総隊に所属し、対潜掃蕩任務に就きました。姉た<br>ちの敵に一矢報いたかった…けれど…。夜…夜の海は<br>…嫌…怖いです…。
   stats:
     taik: [50, 75]
     souk: [26, 56]
@@ -26,8 +26,8 @@ data:
     luck: [15, 70]
     soku: 5
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 34
+    tais: 73
     slot_num: 4
     max_eq: [9, 18, 18, 6, 0]
     after_fuel: 

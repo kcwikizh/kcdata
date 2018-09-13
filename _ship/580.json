@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 580
+  sort_no: 380
+  name: Maestrale改
+  yomi: マエストラーレ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: osukvwqderjb
+  file_version: ["51", "1", "801"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [29, 46]
+    souk: [15, 50]
+    houg: [13, 54]
+    raig: [27, 72]
+    tyku: [22, 63]
+    luck: [17, 84]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 23
+  graph:
+    boko_n: [9, 88]
+    boko_d: [7, 88]
+    kaisyu_n: [15, 15]
+    kaisyu_d: [42, 10]
+    kaizo_n: [-73, 6]
+    kaizo_d: [-16, -51]
+    map_n: [-33, 72]
+    map_d: [-73, 75]
+    ensyuf_n: [-4, 63]
+    ensyuf_d: [-112, 1]
+    ensyue_n: [-4, 0]
+    battle_n: [-21, 57]
+    battle_d: [-21, 57]
+    wed_a: [351, 120]
+    wed_b: [199, 187]
+  wiki_id: "380"
+  chinese_name: 西北风改
+  can_drop: false
+  can_construct: false
+---
