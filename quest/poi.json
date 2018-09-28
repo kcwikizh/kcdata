@@ -14185,12 +14185,8 @@
           "amount": 1
         },
         {
-          "ship": "空母",
-          "amount": 2
-        },
-        {
           "ship": "艦",
-          "amount": 2
+          "amount": 4
         }
       ]
     }
