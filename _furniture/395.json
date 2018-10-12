@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 395
+  type: 3
+  no: 86
+  title: 一八式大漁旗
+  description: まあまあこんなたくさんの<br>旬の秋刀魚、美味しく頂き<br>ましょう…と笑顔の優しい<br>少し小さな空母が一航戦と<br>共に作った航空大漁旗！
+  rarity: 5
+  price: 0
+  saleflg: 0
+  season: 35
+  filename: "087"
+  file_version: "1"
+---

@@ -8,7 +8,7 @@ data:
   description: 提督の執務室は機密情報が<br>一杯！間諜や暴漢から執務<br>室を守るための堅牢な鉄格<br>子の窓。これで、防犯体制<br>もばっちりです！
   rarity: 5
   price: 2500
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

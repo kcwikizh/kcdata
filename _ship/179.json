@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: qgkjswznylty
-  file_version: ["11", "3", "801"]
+  file_version: ["12", "3", "1010"]
   book_table_id: [179]
   book_sinfo: ドイツ生まれの駆逐艦、その本格的な大型駆逐艦の一番艦だよ。<br>高温高圧缶や機関部のシフト配置など、技術の国ならではの設計になっているんだ。あまり外洋での艦隊戦は得意じゃないけど…頑張るよ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 24
   graph:
-    boko_n: [102, 210]
-    boko_d: [222, 222]
+    boko_n: [180, 210]
+    boko_d: [228, 228]
     kaisyu_n: [24, 0]
     kaisyu_d: [36, 12]
-    kaizo_n: [12, 138]
-    kaizo_d: [144, 90]
-    map_n: [18, 180]
-    map_d: [150, 180]
-    ensyuf_n: [12, 198]
-    ensyuf_d: [162, 198]
-    ensyue_n: [-6, 0]
-    battle_n: [36, 216]
-    battle_d: [180, 216]
-    wed_a: [360, -18]
-    wed_b: [144, 204]
+    kaizo_n: [120, 138]
+    kaizo_d: [156, 144]
+    map_n: [108, 186]
+    map_d: [216, 204]
+    ensyuf_n: [114, 192]
+    ensyuf_d: [228, 204]
+    ensyue_n: [72, 0]
+    battle_n: [108, 204]
+    battle_d: [216, 204]
+    wed_a: [210, -12]
+    wed_b: [204, 168]
   wiki_id: "179"
   chinese_name: Z1 zwei
   can_drop: false

@@ -8,7 +8,7 @@ data:
   description: 夏真っ盛り！夏といえば、<br>ビールです！ジョッキ一杯<br>に注がれたキンキンに冷え<br>たこの一杯……この一杯の<br>ために今日の出撃です！
   rarity: 4
   price: 2000
-  saleflg: 1
+  saleflg: 0
   season: 2
   filename: 
   file_version: 

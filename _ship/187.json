@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: scobmrrdbmsw
-  file_version: ["37", "19", "801"]
+  file_version: ["38", "19", "1010"]
   book_table_id: [187, 910, 932, 993, 839, 821, 801]
   book_sinfo: 連合艦隊唯一の工作艦、明石です。<br>トラック泊地に進出し、前線で損傷した艦艇の修理を担当したわ。トラック泊地が壊滅するその日まで、前線の艦隊を陰で支えたのよ。<br>よろしくね。
   stats:
@@ -42,15 +42,15 @@ data:
     boko_d: [-36, 204]
     kaisyu_n: [60, -12]
     kaisyu_d: [48, -12]
-    kaizo_n: [-120, 132]
-    kaizo_d: [-96, 96]
+    kaizo_n: [-120, 72]
+    kaizo_d: [-96, 60]
     map_n: [-96, 192]
     map_d: [-84, 192]
     ensyuf_n: [-48, 192]
     ensyuf_d: [-36, 192]
     ensyue_n: [-120, 0]
     battle_n: [-36, 192]
-    battle_d: [-48, 192]
+    battle_d: [-48, 156]
     wed_a: [360, 0]
     wed_b: [216, 192]
   wiki_id: "187"

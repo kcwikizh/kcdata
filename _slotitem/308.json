@@ -1,0 +1,36 @@
+---
+layout: json
+order: 308
+data:
+  id: 308
+  sort_no: 308
+  name: 5inch単装砲 Mk.30改+GFCS Mk.37
+  type: [1, 1, 1, 16, 0]
+  rare: 5
+  broken: [0, 2, 22, 28]
+  info: 米国で開発・実戦配備された優れた両用砲。同駆逐艦クラスの搭載主砲として広く運用された単装砲兵装の改良型です。<br>射撃指揮レーダーと連動した射撃管制システムを組み合わせた本兵装は、あのフレッチャー級駆逐艦の主砲としても装備運用され、対空戦闘においても優れた能力を発揮します。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 3
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 11
+    tais: 0
+    atap: 0
+    houm: 6
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 3
+    sakb: 0
+    luck: 0
+    leng: 2
+  improvement: 
+  chinese_name:
+---

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: wgyatqtsrghn
-  file_version: ["19", "1", "817"]
+  file_version: ["20", "2", "1010"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 0, 1, 3]
     build_time: 140
   graph:
-    boko_n: [30, 186]
-    boko_d: [126, 228]
+    boko_n: [232, 210]
+    boko_d: [124, 198]
     kaisyu_n: [15, -33]
     kaisyu_d: [60, -18]
-    kaizo_n: [-6, 120]
-    kaizo_d: [90, 102]
-    map_n: [30, 180]
-    map_d: [126, 192]
-    ensyuf_n: [6, 180]
-    ensyuf_d: [120, 162]
-    ensyue_n: [-6, 0]
-    battle_n: [48, 192]
-    battle_d: [132, 204]
-    wed_a: [330, -6]
-    wed_b: [138, 168]
+    kaizo_n: [214, 82]
+    kaizo_d: [117, 64]
+    map_n: [246, 180]
+    map_d: [157, 159]
+    ensyuf_n: [216, 198]
+    ensyuf_d: [120, 192]
+    ensyue_n: [216, 0]
+    battle_n: [270, 210]
+    battle_d: [186, 204]
+    wed_a: [121, -6]
+    wed_b: [106, 136]
   wiki_id: "291a"
   chinese_name: 塔斯特司令官改
   can_drop: false

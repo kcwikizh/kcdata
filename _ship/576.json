@@ -6,17 +6,17 @@ data:
   name: Nelson改
   yomi: ネルソン
   stype: 9
-  ctype: 
-  cnum: 
+  ctype: 88
+  cnum: 1
   backs: 8
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: mjsgsaecwubp
-  file_version: ["51", "1", "801"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["52", "1", "1010"]
+  book_table_id: [576]
+  book_sinfo: 余がNelson級戦艦一番艦、Nelsonだ。そうだ、三連<br>装主砲三基九門を全て艦前方に集中配置したこの独創<br>的なデザイン、ビックセブンの一角として、そして我<br>が本国艦隊の旗艦として存在感を放ったものだ。何?<br>この主砲配置には課題がある…だと?ブリティッシュ<br>ジョークも休み休み言え。今回だけは許してやろう。
   stats:
     taik: [93, 98]
     souk: [84, 104]
@@ -26,8 +26,8 @@ data:
     luck: [28, 98]
     soku: 5
     leng: 3
-    kaih: 
-    tais: 
+    kaih: 23
+    tais: 0
     slot_num: 4
     max_eq: [1, 1, 2, 2, 0]
     after_fuel: 
@@ -48,7 +48,7 @@ data:
     map_d: [-184, 205]
     ensyuf_n: [-79, 52]
     ensyuf_d: [-153, 187]
-    ensyue_n: [592, 0]
+    ensyue_n: [-78, 0]
     battle_n: [-55, 102]
     battle_d: [-124, 229]
     wed_a: [420, 126]

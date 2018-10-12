@@ -14,9 +14,9 @@ data:
   get_mes: It’s　a pleasure to meet you.<br>My name is Gambier Bay…ふわぁ！　う、撃たないで！<br>ふぅ…よ、よかった！
   voice_f: 1
   filename: nrqxieqrvqsh
-  file_version: ["54", "2", "801"]
-  book_table_id: [544, 1040]
-  book_sinfo: It’s　a pleasure to meet you. 　　私、護衛空母Gambier Bayです。ジープ空母とも呼ばれた量産型護衛空母姉妹の一隻です。レイテ沖海戦では日本海軍主力の栗田艦隊と遭遇、有視界水上戦での戦いとなりました。でも私、できるだけの事、頑張ったんです！ Gambier Bayの名前、きっと覚えてくださいね。
+  file_version: ["55", "4", "1010"]
+  book_table_id: [544, 1040, 1051]
+  book_sinfo: It’s　a pleasure to meet you. 　　私、護衛空母<br>Gambier Bayです。ジープ空母とも呼ばれた量産型<br>護衛空母姉妹の一隻です。レイテ沖海戦では日本海軍<br>主力の栗田艦隊と遭遇、有視界水上戦での戦いとなり<br>ました。でも私、できるだけの事、頑張ったんです！<br>Gambier Bayの名前、きっと覚えてくださいね。
   stats:
     taik: [28, 36]
     souk: [9, 19]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 2, 1]
     build_time: 30
   graph:
-    boko_n: [78, 207]
-    boko_d: [156, 246]
+    boko_n: [187, 252]
+    boko_d: [115, 244]
     kaisyu_n: [-12, 0]
     kaisyu_d: [42, -60]
-    kaizo_n: [36, 69]
-    kaizo_d: [102, 102]
-    map_n: [54, 171]
-    map_d: [138, 204]
-    ensyuf_n: [18, 180]
-    ensyuf_d: [120, 192]
-    ensyue_n: [30, 0]
-    battle_n: [48, 186]
-    battle_d: [138, 210]
-    wed_a: [312, -6]
-    wed_b: [132, 168]
+    kaizo_n: [168, 130]
+    kaizo_d: [100, 102]
+    map_n: [210, 205]
+    map_d: [148, 214]
+    ensyuf_n: [195, 204]
+    ensyuf_d: [136, 199]
+    ensyue_n: [171, 0]
+    battle_n: [235, 223]
+    battle_d: [189, 216]
+    wed_a: [138, -16]
+    wed_b: [106, 138]
   wiki_id: "344"
   chinese_name: 甘比尔湾
   can_drop: false

@@ -8,7 +8,7 @@ data:
   description: 旬の秋刀魚を塩焼にしても<br>お刺身にしても美味しい！<br>蒲焼の缶詰にして、海の上<br>で頂くのもいいですね！<br>秋の味覚、頂きます！
   rarity: 4
   price: 3800
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "056"
   file_version: 1
