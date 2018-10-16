@@ -15339,23 +15339,19 @@
       217
     ],
     "requirements": {
-      "category": "and",
-      "list": [
+      "category": "sortie",
+      "times": 2,
+      "map": "1-6",
+      "groups": [
         {
-          "category": "sortie",
-          "times": 2,
-          "map": "1-6",
-          "groups": [
-            {
-              "ship": [
-                "航空戦艦",
-                "補給艦"
-              ],
-              "amount": 2
-            }
-          ]
+          "ship": [
+            "航空戦艦",
+            "補給艦"
+          ],
+          "amount": 2
         }
-      ]
+      ],
+      "result": "クリア"
     }
   },
   {
