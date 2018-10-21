@@ -1,0 +1,26 @@
+{
+  "game_id": 503,
+  "wiki_id": "E03",
+  "category": 5,
+  "type": 2,
+  "name": "艦隊大整備！",
+  "detail": "各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！",
+  "reward_fuel": 30,
+  "reward_ammo": 30,
+  "reward_steel": 30,
+  "reward_bauxite": 30,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    502
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "repair",
+    "times": 5
+  }
+}

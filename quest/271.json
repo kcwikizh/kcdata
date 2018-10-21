@@ -1,0 +1,55 @@
+{
+  "game_id": 271,
+  "wiki_id": "B38",
+  "category": 2,
+  "type": 1,
+  "name": "「那智戦隊」抜錨せよ！",
+  "detail": "旗艦「那智」及び「初霜」「霞」「潮」「曙」他1隻の艦隊でバシー島沖の敵を撃滅せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 2
+    },
+    {
+      "name": "家具箱（大）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    249,
+    269
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-2",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "那智",
+        "flagship": true
+      },
+      {
+        "ship": "初霜"
+      },
+      {
+        "ship": "霞"
+      },
+      {
+        "ship": "潮"
+      },
+      {
+        "ship": "曙"
+      },
+      {
+        "ship": "艦",
+        "amount": 1
+      }
+    ]
+  }
+}

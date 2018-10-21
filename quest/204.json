@@ -1,0 +1,26 @@
+{
+  "game_id": 204,
+  "wiki_id": "B04",
+  "category": 2,
+  "type": 1,
+  "name": "南西諸島沖に出撃せよ！",
+  "detail": "南西諸島沖に艦隊を出撃させ、敵艦隊と交戦せよ！",
+  "reward_fuel": 40,
+  "reward_ammo": 40,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    203
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-2",
+    "times": 1
+  }
+}

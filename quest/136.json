@@ -1,0 +1,39 @@
+{
+  "game_id": 136,
+  "wiki_id": "A34",
+  "category": 1,
+  "type": 1,
+  "name": "「第三十駆逐隊(第二次)」を編成せよ！",
+  "detail": "「睦月」「弥生」「卯月」「望月」4隻による第三十駆逐隊(第二次)を編成せよ！",
+  "reward_fuel": 220,
+  "reward_ammo": 220,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    133
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "睦月"
+      },
+      {
+        "ship": "弥生"
+      },
+      {
+        "ship": "卯月"
+      },
+      {
+        "ship": "望月"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

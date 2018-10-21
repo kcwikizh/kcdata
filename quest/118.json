@@ -1,0 +1,37 @@
+{
+  "game_id": 118,
+  "wiki_id": "A16",
+  "category": 1,
+  "type": 1,
+  "name": "「金剛」型による高速戦艦部隊を編成せよ！",
+  "detail": "金剛型戦艦「金剛」「比叡」「榛名」「霧島」全４隻の高速戦艦を集中配備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "第4艦隊開放"
+    }
+  ],
+  "prerequisite": [
+    110
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "金剛"
+      },
+      {
+        "ship": "比叡"
+      },
+      {
+        "ship": "榛名"
+      },
+      {
+        "ship": "霧島"
+      }
+    ]
+  }
+}

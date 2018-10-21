@@ -1,0 +1,30 @@
+{
+  "game_id": 106,
+  "wiki_id": "A07",
+  "category": 1,
+  "type": 1,
+  "name": "「重巡戦隊」を編成せよ！",
+  "detail": "重巡洋艦２隻を擁する重巡艦隊を編成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 70,
+  "reward_steel": 0,
+  "reward_bauxite": 30,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    105
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "重巡",
+        "amount": 2
+      }
+    ]
+  }
+}

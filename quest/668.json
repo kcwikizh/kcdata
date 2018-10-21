@@ -1,0 +1,35 @@
+{
+  "game_id": 668,
+  "wiki_id": "F60",
+  "category": 6,
+  "type": 1,
+  "name": "新型戦闘糧食の試作",
+  "detail": "料理任務：手軽に食事をとることができて、なおかつ美味しく腹にがっつりたまる新型の戦闘糧食を<br>開発する。「戦闘糧食」x2と燃料800及びボーキサイト150を用意せよ！油入れ送気開始！調理始め！",
+  "reward_fuel": 0,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "戦闘糧食(特別なおにぎり)",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "equipexchange",
+    "equipments": [
+      {
+        "name": "戦闘糧食",
+        "amount": 2
+      }
+    ],
+    "scraps": [],
+    "resources": [
+      800,
+      0,
+      0,
+      150
+    ]
+  }
+}

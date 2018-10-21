@@ -1,0 +1,50 @@
+{
+  "game_id": 255,
+  "wiki_id": "B30",
+  "category": 2,
+  "type": 1,
+  "name": "「水雷戦隊」バシー島沖緊急展開",
+  "detail": "軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "家具箱（大）",
+      "amount": 1
+    },
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    206
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-2",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "軽巡",
+        "amount": [
+          1,
+          2
+        ],
+        "flagship": true
+      },
+      {
+        "ship": "駆逐",
+        "amount": [
+          1,
+          99
+        ]
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

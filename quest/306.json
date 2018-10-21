@@ -1,0 +1,27 @@
+{
+  "game_id": 306,
+  "wiki_id": "WC01",
+  "category": 3,
+  "type": 1,
+  "name": "式の準備！(その弐)",
+  "detail": "本日中に「演習」で2回以上「勝利」をおさめ、式への気持ちを整理しよう！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 88,
+  "reward_bauxite": 88,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    611
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 2,
+    "victory": true,
+    "daily": true
+  }
+}

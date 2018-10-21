@@ -1,0 +1,34 @@
+{
+  "game_id": 633,
+  "wiki_id": "F30",
+  "category": 6,
+  "type": 1,
+  "name": "機種転換＆部隊再編",
+  "detail": "部隊を再編する！練度max「零戦52型甲(付岩本小隊)」搭載「瑞鶴」秘書艦で、「彩雲」を2つ廃棄！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "零式艦戦53型(岩本隊)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    167
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "equipment": "零戦52型甲(付岩本小隊)",
+    "secretary": "瑞鶴",
+    "scraps": [
+      {
+        "name": "彩雲",
+        "amount": 2
+      }
+    ],
+    "fullyskilled": true
+  }
+}

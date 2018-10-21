@@ -1,0 +1,26 @@
+{
+  "game_id": 210,
+  "wiki_id": "Bd03",
+  "category": 2,
+  "type": 2,
+  "name": "敵艦隊を10回邀撃せよ！",
+  "detail": "艦隊全力出撃！遊弋する敵艦隊を10回邀撃せよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 150,
+  "reward_steel": 200,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    216
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "battle",
+    "times": 10
+  }
+}

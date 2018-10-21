@@ -1,0 +1,36 @@
+{
+  "game_id": 636,
+  "wiki_id": "F33",
+  "category": 6,
+  "type": 1,
+  "name": "上陸戦用新装備の調達",
+  "detail": "「工廠」で「7.7mm機銃」及び「12.7mm単装機銃」を二つずつ廃棄！",
+  "reward_fuel": 50,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "特二式内火艇",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    278,
+    312
+  ],
+  "requirements": {
+    "category": "scrapequipment",
+    "list": [
+      {
+        "name": "7.7mm機銃",
+        "amount": 2
+      },
+      {
+        "name": "12.7mm単装機銃",
+        "amount": 2
+      }
+    ]
+  }
+}

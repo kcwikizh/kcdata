@@ -1,0 +1,40 @@
+{
+  "game_id": 168,
+  "wiki_id": "A63",
+  "category": 1,
+  "type": 1,
+  "name": "「第十六戦隊(第二次)」を編成せよ！",
+  "detail": "「名取」を旗艦として「五十鈴」「鬼怒」を擁する、第十六戦隊(第二次)を編成せよ！",
+  "reward_fuel": 160,
+  "reward_ammo": 160,
+  "reward_steel": 160,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    289
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "名取",
+        "flagship": true
+      },
+      {
+        "ship": "五十鈴"
+      },
+      {
+        "ship": "鬼怒"
+      }
+    ]
+  }
+}

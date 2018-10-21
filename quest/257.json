@@ -1,0 +1,50 @@
+{
+  "game_id": 257,
+  "wiki_id": "Bm03",
+  "category": 2,
+  "type": 6,
+  "name": "「水雷戦隊」南西へ！",
+  "detail": "軽巡旗艦の水雷戦隊(軽巡最大3隻他駆逐艦)を急派、南西諸島防衛線で敵を撃滅せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    221
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-4",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "軽巡",
+        "flagship": true,
+        "amount": [
+          1,
+          3
+        ]
+      },
+      {
+        "ship": "駆逐",
+        "amount": [
+          1,
+          99
+        ]
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "game_id": 183,
+  "wiki_id": "A78",
+  "category": 1,
+  "type": 1,
+  "name": "新編「第四水雷戦隊」を編成せよ！",
+  "detail": "編成任務：第一艦隊旗艦に「由良改二」を配備、随伴艦に二駆「村雨」「夕立」「春雨」「五月雨」<br>他1隻の駆逐艦を配備、新編「第四水雷戦隊」を編成せよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 4
+    },
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    156,
+    225
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "由良改二",
+        "flagship": true
+      },
+      {
+        "ship": "村雨"
+      },
+      {
+        "ship": "夕立"
+      },
+      {
+        "ship": "春雨"
+      },
+      {
+        "ship": "五月雨"
+      },
+      {
+        "ship": "駆逐",
+        "amount": 1
+      }
+    ],
+    "fleetid": 1
+  }
+}

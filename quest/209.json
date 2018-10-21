@@ -1,0 +1,39 @@
+{
+  "game_id": 209,
+  "wiki_id": "B09",
+  "category": 2,
+  "type": 1,
+  "name": "「空母機動部隊」出撃せよ！",
+  "detail": "空母1隻とその護衛艦艇で構成した空母機動部隊を出撃させよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    208
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "空母",
+        "amount": 1
+      },
+      {
+        "ship": "他の艦",
+        "amount": 3
+      }
+    ]
+  }
+}

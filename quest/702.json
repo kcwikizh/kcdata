@@ -1,0 +1,26 @@
+{
+  "game_id": 702,
+  "wiki_id": "G02",
+  "category": 7,
+  "type": 2,
+  "name": "艦の「近代化改修」を実施せよ！",
+  "detail": "近代化改修を実施して、２回以上これを成功させよ！",
+  "reward_fuel": 20,
+  "reward_ammo": 20,
+  "reward_steel": 50,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    701
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "modernization",
+    "times": 2
+  }
+}

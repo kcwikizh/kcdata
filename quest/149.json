@@ -1,0 +1,39 @@
+{
+  "game_id": 149,
+  "wiki_id": "A47",
+  "category": 1,
+  "type": 1,
+  "name": "「第十一駆逐隊」を編成せよ！",
+  "detail": "特I型駆逐艦「吹雪」「白雪」「初雪」「叢雲」4隻による第十一駆逐隊を編成せよ！",
+  "reward_fuel": 110,
+  "reward_ammo": 110,
+  "reward_steel": 110,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    132
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "吹雪"
+      },
+      {
+        "ship": "白雪"
+      },
+      {
+        "ship": "初雪"
+      },
+      {
+        "ship": "叢雲"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

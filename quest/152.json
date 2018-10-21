@@ -1,0 +1,43 @@
+{
+  "game_id": 152,
+  "wiki_id": "A50",
+  "category": 1,
+  "type": 1,
+  "name": "「三川艦隊」を新編、突入準備せよ！",
+  "detail": "第一艦隊において、「鳥海改ニ」を旗艦とする「三川艦隊」を編成せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    136,
+    227
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "鳥海改二",
+        "flagship": true
+      },
+      {
+        "ship": [
+          "天龍",
+          "古鷹",
+          "加古",
+          "青葉",
+          "夕張",
+          "衣笠"
+        ],
+        "select": 5
+      }
+    ],
+    "fleetid": 1
+  }
+}

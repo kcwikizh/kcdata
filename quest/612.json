@@ -1,0 +1,28 @@
+{
+  "game_id": 612,
+  "wiki_id": "F11",
+  "category": 6,
+  "type": 1,
+  "name": "輸送用ドラム缶の準備",
+  "detail": "「工廠」で装備アイテムを3回「廃棄」して、輸送用のドラム缶を準備します。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 30,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "ドラム缶(輸送用)",
+      "category": "装備",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    105
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapequipment",
+    "times": 3,
+    "batch": false
+  }
+}

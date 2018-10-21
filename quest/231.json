@@ -1,0 +1,37 @@
+{
+  "game_id": 231,
+  "wiki_id": "B17",
+  "category": 2,
+  "type": 1,
+  "name": "「潜水艦隊」出撃せよ！",
+  "detail": "伊号潜水艦2隻からなる潜水艦隊でオリョール海の敵を撃滅せよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 0,
+  "reward_steel": 300,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    125
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-3",
+    "boss": true,
+    "result": "B",
+    "times": 1,
+    "groups": [
+      {
+        "ship": [
+          "潜水艦",
+          "潜水空母"
+        ],
+        "amount": 2
+      }
+    ]
+  }
+}

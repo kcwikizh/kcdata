@@ -1,0 +1,72 @@
+{
+  "game_id": 870,
+  "wiki_id": "B108",
+  "category": 2,
+  "type": 1,
+  "name": "「第八駆逐隊」、南西へ！",
+  "detail": "第八駆逐隊任務：「第八駆逐隊」を含む艦隊で、鎮守府海域南西諸島沖、及び南西諸島海域バシー島沖に<br>展開！同海域に跳梁する敵艦隊戦力を捕捉、これを撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 250,
+  "reward_steel": 250,
+  "reward_bauxite": 250,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    },
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    839
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "1-2",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "朝潮"
+          },
+          {
+            "ship": "満潮"
+          },
+          {
+            "ship": "大潮"
+          },
+          {
+            "ship": "荒潮"
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "2-2",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "朝潮"
+          },
+          {
+            "ship": "満潮"
+          },
+          {
+            "ship": "大潮"
+          },
+          {
+            "ship": "荒潮"
+          }
+        ]
+      }
+    ]
+  }
+}

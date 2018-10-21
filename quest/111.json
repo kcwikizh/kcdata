@@ -1,0 +1,36 @@
+{
+  "game_id": 111,
+  "wiki_id": "A17",
+  "category": 1,
+  "type": 1,
+  "name": "「扶桑」型戦艦姉妹の全２隻を編成せよ！",
+  "detail": "扶桑型戦艦「扶桑」「山城」を同一艦隊に配属せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 200,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    108
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "扶桑"
+      },
+      {
+        "ship": "山城"
+      }
+    ]
+  }
+}

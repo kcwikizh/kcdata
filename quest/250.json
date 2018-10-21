@@ -1,0 +1,41 @@
+{
+  "game_id": 250,
+  "wiki_id": "B25",
+  "category": 2,
+  "type": 1,
+  "name": "新編「第二航空戦隊」出撃せよ！",
+  "detail": "新編「二航戦」を基幹とした艦隊で、珊瑚諸島沖に出撃、敵機動部隊を撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 500,
+  "reward_steel": 0,
+  "reward_bauxite": 500,
+  "reward_other": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    138
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "5-2",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "飛龍改二",
+        "flagship": true
+      },
+      {
+        "ship": "蒼龍"
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

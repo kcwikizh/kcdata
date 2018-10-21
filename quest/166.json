@@ -1,0 +1,52 @@
+{
+  "game_id": 166,
+  "wiki_id": "A61",
+  "category": 1,
+  "type": 1,
+  "name": "「小沢艦隊」を編成せよ！",
+  "detail": "「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    165,
+    266
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "瑞鶴改",
+        "flagship": true
+      },
+      {
+        "ship": "瑞鳳改"
+      },
+      {
+        "ship": "千歳航",
+        "note": "軽母"
+      },
+      {
+        "ship": "千代田航",
+        "note": "軽母"
+      },
+      {
+        "ship": "伊勢改"
+      },
+      {
+        "ship": "日向改"
+      }
+    ]
+  }
+}

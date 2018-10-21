@@ -1,0 +1,34 @@
+{
+  "game_id": 419,
+  "wiki_id": "D18",
+  "category": 4,
+  "type": 1,
+  "name": "観艦式を敢行せよ！",
+  "detail": "練度の高い艦隊で観艦式本番を実施する。「観艦式」を実施し、これを成功させよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 300,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 1
+    },
+    {
+      "name": "司令部要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    308
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 8
+      }
+    ]
+  }
+}

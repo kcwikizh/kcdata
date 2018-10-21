@@ -1,0 +1,104 @@
+{
+  "game_id": 876,
+  "wiki_id": "B111",
+  "category": 2,
+  "type": 1,
+  "name": "松輸送作戦、開始せよ！",
+  "detail": "防衛ラインの強化のため、艦隊旗艦「龍田改二」または「龍田改」、3隻以上の駆逐艦または海防艦を<br>含む輸送護衛艦隊を編成、南西諸島防衛線及び鎮守府近海航路における作戦を複数回成功させよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 200,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "戦闘詳報",
+          "amount": 1
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        },
+        {
+          "name": "大発動艇",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    255,
+    673
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "map": "1-4",
+        "times": 2,
+        "boss": true,
+        "result": "A",
+        "groups": [
+          {
+            "ship": [
+              "龍田改",
+              "龍田改二"
+            ],
+            "flagship": true
+          },
+          {
+            "ship": [
+              "駆逐艦",
+              "海防艦"
+            ],
+            "amount": 3
+          },
+          {
+            "ship": "艦",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "map": "1-6",
+        "times": 2,
+        "groups": [
+          {
+            "ship": [
+              "龍田改",
+              "龍田改二"
+            ],
+            "flagship": true
+          },
+          {
+            "ship": [
+              "駆逐艦",
+              "海防艦"
+            ],
+            "amount": 3
+          },
+          {
+            "ship": "艦",
+            "amount": 2
+          }
+        ],
+        "result": "クリア"
+      }
+    ]
+  }
+}

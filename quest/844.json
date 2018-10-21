@@ -1,0 +1,47 @@
+{
+  "game_id": 844,
+  "wiki_id": "B90",
+  "category": 2,
+  "type": 1,
+  "name": "精鋭「第八駆逐隊」突入せよ！",
+  "detail": "「荒潮改二」を旗艦とし、僚艦に「第八駆逐隊」から1隻を配備した精鋭第1艦隊で<br>サーモン海域北方に突入、同方面に接近する有力な敵艦隊を捕捉、同方面の敵戦力の漸減に努めよ！",
+  "reward_fuel": 800,
+  "reward_ammo": 800,
+  "reward_steel": 0,
+  "reward_bauxite": 800,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 4
+    },
+    {
+      "name": "補強増設",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    820,
+    829
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "5-5",
+    "boss": true,
+    "result": "A",
+    "times": 2,
+    "groups": [
+      {
+        "ship": "荒潮改二",
+        "flagship": true
+      },
+      {
+        "ship": [
+          "朝潮",
+          "大潮",
+          "満潮"
+        ],
+        "select": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "game_id": 303,
+  "wiki_id": "C02",
+  "category": 3,
+  "type": 2,
+  "name": "「演習」で練度向上！",
+  "detail": "本日中に他の司令官の艦隊に対して3回「演習」を挑もう！",
+  "reward_fuel": 50,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    301
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 3
+  }
+}

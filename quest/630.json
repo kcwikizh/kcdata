@@ -1,0 +1,35 @@
+{
+  "game_id": 630,
+  "wiki_id": "F28",
+  "category": 6,
+  "type": 1,
+  "name": "「艦戦」隊の再編成",
+  "detail": "練度max「零戦21型(熟練)」搭載「瑞鶴」が秘書の状態で、「零戦21型」を2つ廃棄！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "零戦21型(付岩本小隊)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    166,
+    626
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "equipment": "零式艦戦21型(熟練)",
+    "secretary": "瑞鶴",
+    "scraps": [
+      {
+        "name": "零式艦戦21型",
+        "amount": 2
+      }
+    ],
+    "fullyskilled": true
+  }
+}

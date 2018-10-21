@@ -1,0 +1,26 @@
+{
+  "game_id": 201,
+  "wiki_id": "Bd01",
+  "category": 2,
+  "type": 2,
+  "name": "敵艦隊を撃破せよ！",
+  "detail": "艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！",
+  "reward_fuel": 50,
+  "reward_ammo": 50,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    204
+  ],
+  "requirements": {
+    "category": "sortie",
+    "result": "B",
+    "times": 1
+  }
+}

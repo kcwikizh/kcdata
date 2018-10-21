@@ -1,0 +1,60 @@
+{
+  "game_id": 839,
+  "wiki_id": "B88",
+  "category": 2,
+  "type": 1,
+  "name": "戦艦戦隊、出撃せよ！",
+  "detail": "戦艦2隻を中核戦力とする戦艦旗艦の艦隊を北方海域アルフォンシーノ方面に進出させ、<br>同海域の敵艦隊を撃滅、北方海域の制海権確保に努めよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 800,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 2
+    },
+    {
+      "choices": [
+        {
+          "name": "二式水戦改",
+          "amount": 1
+        },
+        {
+          "name": "PBY-5A Catalina",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    838
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-3",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": [
+          "戦艦",
+          "航戦"
+        ],
+        "flagship": true
+      },
+      {
+        "ship": [
+          "戦艦",
+          "航戦"
+        ],
+        "amount": 1
+      },
+      {
+        "ship": "艦",
+        "amount": 4
+      }
+    ]
+  }
+}

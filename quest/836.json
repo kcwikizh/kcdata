@@ -1,0 +1,46 @@
+{
+  "game_id": 836,
+  "wiki_id": "B85",
+  "category": 2,
+  "type": 1,
+  "name": "精鋭「第十六戦隊」突入せよ！",
+  "detail": "再編成を完了した精鋭「第十六戦隊」を南西諸島海域沖ノ島沖に展開、<br>同方面に遊弋する敵主力を捕捉、これを撃破せよ！",
+  "reward_fuel": 600,
+  "reward_ammo": 600,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "特大発動艇",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    179
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-5",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "鬼怒改二",
+        "flagship": true
+      },
+      {
+        "ship": [
+          "北上改二",
+          "大井改二",
+          "球磨改",
+          "青葉改",
+          "浦波改",
+          "敷波改"
+        ],
+        "select": 5
+      }
+    ]
+  }
+}

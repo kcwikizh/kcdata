@@ -1,0 +1,49 @@
+{
+  "game_id": 819,
+  "wiki_id": "B72",
+  "category": 2,
+  "type": 1,
+  "name": "「第三十一戦隊」敵潜を制圧せよ！",
+  "detail": "第三十一戦隊(第一次)を鎮守府近海航路に再投入！反復出撃し、敵潜を制圧せよ！",
+  "reward_fuel": 310,
+  "reward_ammo": 310,
+  "reward_steel": 0,
+  "reward_bauxite": 310,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 2
+    },
+    {
+      "name": "三式水中探信儀",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    171,
+    228
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-6",
+    "times": 2,
+    "groups": [
+      {
+        "ship": "五十鈴改二",
+        "flagship": true
+      },
+      {
+        "ship": "皐月改二"
+      },
+      {
+        "ship": "卯月改"
+      },
+      {
+        "ship": "艦",
+        "amount": 3
+      }
+    ],
+    "result": "クリア"
+  }
+}

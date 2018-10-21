@@ -1,0 +1,66 @@
+{
+  "game_id": 430,
+  "wiki_id": "D28",
+  "category": 4,
+  "type": 1,
+  "name": "「海防艦」、進発せよ",
+  "detail": "海上護衛任務：遠征任務「兵站強化任務」「海峡警備行動」「海上護衛任務」「タンカー護衛任務」を海防艦、駆逐艦などを主軸とした護衛艦隊で実施せよ！",
+  "reward_fuel": 800,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 600,
+  "reward_other": [
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    },
+    {
+      "choices": [
+        {
+          "name": "洋上補給",
+          "amount": 2
+        },
+        {
+          "name": "高速修復材",
+          "amount": 8
+        },
+        {
+          "name": "改修資材",
+          "amount": 4
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    682
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": "A1"
+      },
+      {
+        "times": 1,
+        "id": "A2"
+      },
+      {
+        "times": 1,
+        "id": 5
+      },
+      {
+        "times": 1,
+        "id": 9
+      }
+    ],
+    "groups": [
+      {
+        "ship": "海防艦"
+      },
+      {
+        "ship": "駆逐艦"
+      }
+    ]
+  }
+}

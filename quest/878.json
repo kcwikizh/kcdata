@@ -1,0 +1,101 @@
+{
+  "game_id": 878,
+  "wiki_id": "B113",
+  "category": 2,
+  "type": 1,
+  "name": "松輸送作戦、継続実施せよ！",
+  "detail": "「艦隊旗艦に軽巡級または駆逐艦、さらに3隻以上の駆逐艦または海防艦を含む輸送護衛艦隊を編成、<br>防衛ラインの強化のため、南西諸島防衛線及び鎮守府近海航路における作戦を継続的に成功させよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "大発動艇",
+          "amount": 1
+        },
+        {
+          "name": "改修資材",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "12cm30連装噴進砲",
+          "amount": 2
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    876
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "map": "1-4",
+        "times": 3,
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": [
+              "軽巡",
+              "駆逐"
+            ],
+            "flagship": true
+          },
+          {
+            "ship": [
+              "駆逐",
+              "海防艦"
+            ],
+            "amount": [
+              3,
+              99
+            ]
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "map": "1-6",
+        "times": 3,
+        "groups": [
+          {
+            "ship": [
+              "軽巡",
+              "駆逐"
+            ],
+            "flagship": true
+          },
+          {
+            "ship": [
+              "駆逐",
+              "海防艦"
+            ],
+            "amount": [
+              3,
+              99
+            ]
+          }
+        ],
+        "result": "クリア"
+      }
+    ]
+  }
+}

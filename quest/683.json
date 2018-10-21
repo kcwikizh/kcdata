@@ -1,0 +1,63 @@
+{
+  "game_id": 683,
+  "wiki_id": "F74",
+  "category": 6,
+  "type": 1,
+  "name": "航空戦艦用強化型新主砲の研究",
+  "detail": "秘書艦「伊勢改二」一番スロに「試製41cm三連装砲」改修max搭載、「41cm連装砲」×3「22号対水上電探」×2を廃棄、開発資材×40、高速建造材×50、鋼材4500、新型砲熕兵装資材×2を準備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "41cm三連装砲改二",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    324
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "secretary": "伊勢改二",
+    "slots": [
+      {
+        "slot": 1,
+        "equipment": "試製41cm三連装砲",
+        "convert": true,
+        "maxmodified": true
+      }
+    ],
+    "consumptions": [
+      {
+        "name": "開発資材",
+        "amount": 40
+      },
+      {
+        "name": "高速建造材",
+        "amount": 50
+      },
+      {
+        "name": "新型砲熕兵装資材",
+        "amount": 2
+      }
+    ],
+    "scraps": [
+      {
+        "name": "41cm連装砲",
+        "amount": 3
+      },
+      {
+        "name": "22号対水上電探",
+        "amount": 2
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      4500,
+      0
+    ]
+  }
+}

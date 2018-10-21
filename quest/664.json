@@ -1,0 +1,48 @@
+{
+  "game_id": 664,
+  "wiki_id": "F56",
+  "category": 6,
+  "type": 1,
+  "name": "電探技術の射撃装置への活用",
+  "detail": "工廠任務：電探技術の射撃装置への活用を研究する。「電探」系装備x10を廃棄、弾薬及び鉄鋼を各8,000<br>準備せよ！※任務達成後、準備した資源は消費します。「勲章」と「兵装資材」の獲得選択が可能です。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "勲章",
+          "amount": 1
+        },
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "開発資材",
+      "amount": 4
+    }
+  ],
+  "prerequisite": [
+    661
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "電探",
+        "amount": 10
+      }
+    ],
+    "resources": [
+      0,
+      8000,
+      8000,
+      0
+    ]
+  }
+}

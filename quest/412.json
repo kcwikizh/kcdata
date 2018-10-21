@@ -1,0 +1,31 @@
+{
+  "game_id": 412,
+  "wiki_id": "D10",
+  "category": 4,
+  "type": 1,
+  "name": "航空火力艦の運用を強化せよ！",
+  "detail": "「航空戦艦運用演習」を実施し、航空火力艦の運用の強化に努めよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "瑞雲(六三四空)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    239
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 23
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "game_id": 153,
+  "wiki_id": "A51",
+  "category": 1,
+  "type": 1,
+  "name": "「第十八戦隊」を新編成せよ！",
+  "detail": "軽巡洋艦「天龍」「龍田」を基幹戦力とした「第十八戦隊」を4隻以上で新編成せよ！",
+  "reward_fuel": 180,
+  "reward_ammo": 180,
+  "reward_steel": 0,
+  "reward_bauxite": 180,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    274
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "天龍"
+      },
+      {
+        "ship": "龍田"
+      },
+      {
+        "ship": "艦",
+        "amount": [
+          2,
+          99
+        ]
+      }
+    ]
+  }
+}

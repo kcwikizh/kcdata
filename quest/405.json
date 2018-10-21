@@ -1,0 +1,30 @@
+{
+  "game_id": 405,
+  "wiki_id": "D05",
+  "category": 4,
+  "type": 1,
+  "name": "第一次潜水艦派遣作戦",
+  "detail": "はじめての潜水艦派遣作戦を成功させよう！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 10,
+  "reward_bauxite": 10,
+  "reward_other": [
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    127
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 30
+      }
+    ]
+  }
+}

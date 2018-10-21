@@ -1,0 +1,46 @@
+{
+  "game_id": 817,
+  "wiki_id": "B70",
+  "category": 2,
+  "type": 1,
+  "name": "新編艦隊、南西諸島防衛線へ急行せよ！",
+  "detail": "水雷戦隊を含む新編艦隊を南西諸島防衛線に展開、同方面に来襲する敵艦隊を撃破せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 300,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    },
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    174
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-4",
+    "boss": true,
+    "result": "A",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "軽巡",
+        "flagship": true
+      },
+      {
+        "ship": "駆逐",
+        "amount": 4
+      },
+      {
+        "ship": "艦",
+        "amount": 1
+      }
+    ]
+  }
+}

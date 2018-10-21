@@ -1,0 +1,48 @@
+{
+  "game_id": 805,
+  "wiki_id": "B58",
+  "category": 2,
+  "type": 1,
+  "name": "旗艦「霞」北方海域を哨戒せよ！",
+  "detail": "旗艦「霞改二」で駆逐艦4隻を含む艦隊を北方海域に投入し、モーレイ海哨戒を実施せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 0,
+  "reward_steel": 300,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "戦闘糧食",
+      "amount": 1
+    },
+    {
+      "name": "13号対空電探改",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    132,
+    303
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-1",
+    "boss": true,
+    "result": "B",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "霞改二",
+        "flagship": true
+      },
+      {
+        "ship": "駆逐",
+        "amount": 3
+      },
+      {
+        "ship": "艦",
+        "amount": 2
+      }
+    ]
+  }
+}

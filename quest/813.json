@@ -1,0 +1,43 @@
+{
+  "game_id": 813,
+  "wiki_id": "B66",
+  "category": 2,
+  "type": 1,
+  "name": "旗艦「大潮」出撃せよ！",
+  "detail": "「大潮改二」旗艦の有力な艦隊を北方AL海域に展開、北方海域戦闘哨戒を実施せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 500,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "name": "戦闘糧食",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    806,
+    812
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-5",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "大潮改二",
+        "flagship": true
+      },
+      {
+        "ship": "艦",
+        "amount": 5
+      }
+    ]
+  }
+}

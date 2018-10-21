@@ -1,0 +1,56 @@
+{
+  "game_id": 675,
+  "wiki_id": "F67",
+  "category": 6,
+  "type": 7,
+  "name": "運用装備の統合整備",
+  "detail": "運用装備統合任務：装備の統合整備を実施する。「艦上戦闘機」系装備x6、「機銃」系装備x4を廃棄、<br>ボーキサイト800を準備(本任務は時局により更新されます)。　※任務達成後、準備資源を消費します。",
+  "reward_fuel": 200,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "一式戦 隼II型",
+          "amount": 1
+        },
+        {
+          "name": "紫電一一型",
+          "amount": 1
+        },
+        {
+          "name": "改修資材",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "開発資材",
+      "amount": 4
+    }
+  ],
+  "prerequisite": [
+    674
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "艦上戦闘機",
+        "amount": 6
+      },
+      {
+        "name": "対空機銃",
+        "amount": 4
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      0,
+      800
+    ]
+  }
+}

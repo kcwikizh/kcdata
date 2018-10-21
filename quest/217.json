@@ -1,0 +1,27 @@
+{
+  "game_id": 217,
+  "wiki_id": "B10",
+  "category": 2,
+  "type": 1,
+  "name": "敵空母を撃沈せよ！",
+  "detail": "敵機動部隊を捕捉し、これを邀撃、敵空母を轟沈せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "赤城",
+      "category": "艦娘",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    117
+  ],
+  "requirements": {
+    "category": "sink",
+    "amount": 1,
+    "ship": "敵空母"
+  }
+}

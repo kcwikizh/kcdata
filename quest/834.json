@@ -1,0 +1,39 @@
+{
+  "game_id": 834,
+  "wiki_id": "B83",
+  "category": 2,
+  "type": 1,
+  "name": "南西諸島防衛線を増強せよ！",
+  "detail": "水上機母艦または航空巡洋艦を旗艦とする有力な艦隊を南西諸島防衛線に投入、<br>水上機戦力によって同防衛線を強化、同方面の敵艦隊を撃滅せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "家具箱（中）",
+      "amount": 1
+    },
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-4",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": [
+          "航巡",
+          "水母"
+        ],
+        "flagship": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "game_id": 169,
+  "wiki_id": "A64",
+  "category": 1,
+  "type": 1,
+  "name": "「新編成航空戦隊」を編成せよ！",
+  "detail": "空母2隻+航空戦艦/航空巡洋艦2隻+駆逐艦2隻の新航空戦隊を編成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "改修資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    287,
+    295
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "空母",
+        "amount": 2
+      },
+      {
+        "ship": [
+          "航巡",
+          "航戦"
+        ],
+        "amount": 2
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

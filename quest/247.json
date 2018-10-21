@@ -1,0 +1,38 @@
+{
+  "game_id": 247,
+  "wiki_id": "B23",
+  "category": 2,
+  "type": 1,
+  "name": "「航空戦艦」抜錨せよ！",
+  "detail": "航空戦艦2隻を基幹とする艦隊で、西方海域カスガダマ島の敵勢力を撃破せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 300,
+  "reward_steel": 300,
+  "reward_bauxite": 900,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    },
+    {
+      "name": "家具箱（大）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    412
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "4-4",
+    "boss": true,
+    "result": "B",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "航戦",
+        "amount": 2
+      }
+    ]
+  }
+}

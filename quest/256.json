@@ -1,0 +1,32 @@
+{
+  "game_id": 256,
+  "wiki_id": "Bm02",
+  "category": 2,
+  "type": 6,
+  "name": "「潜水艦隊」出撃せよ！",
+  "detail": "潜水艦戦力を中核とした艦隊で中部海域哨戒線へ反復出撃、敵戦力を漸減せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 600,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "家具箱（大）",
+      "amount": 2
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    255
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "6-1",
+    "boss": true,
+    "result": "S",
+    "times": 3
+  }
+}

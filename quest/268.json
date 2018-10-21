@@ -1,0 +1,48 @@
+{
+  "game_id": 268,
+  "wiki_id": "B36",
+  "category": 2,
+  "type": 1,
+  "name": "「第十一駆逐隊」対潜哨戒！",
+  "detail": "「第十一駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "三式水中探信儀",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    149
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-5",
+    "boss": true,
+    "result": "C",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "吹雪"
+      },
+      {
+        "ship": "白雪"
+      },
+      {
+        "ship": "初雪"
+      },
+      {
+        "ship": "叢雲"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

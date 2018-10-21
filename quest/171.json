@@ -1,0 +1,41 @@
+{
+  "game_id": 171,
+  "wiki_id": "A66",
+  "category": 1,
+  "type": 1,
+  "name": "「第三十一戦隊(第一次)」を編成せよ！",
+  "detail": "「五十鈴改二」旗艦、「皐月改二」「卯月改」を含む、対潜機動水上部隊を編成せよ！",
+  "reward_fuel": 310,
+  "reward_ammo": 310,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    216,
+    295
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "五十鈴改二",
+        "flagship": true
+      },
+      {
+        "ship": "皐月改二"
+      },
+      {
+        "ship": "卯月改"
+      }
+    ]
+  }
+}

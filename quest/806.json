@@ -1,0 +1,48 @@
+{
+  "game_id": 806,
+  "wiki_id": "B59",
+  "category": 2,
+  "type": 1,
+  "name": "旗艦「霞」出撃！敵艦隊を撃滅せよ！",
+  "detail": "旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 500,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "name": "25mm三連装機銃 集中配備",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    402,
+    805
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-5",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "霞改二",
+        "flagship": true
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      },
+      {
+        "ship": "艦",
+        "amount": 3
+      }
+    ]
+  }
+}

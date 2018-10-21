@@ -1,0 +1,53 @@
+{
+  "game_id": 838,
+  "wiki_id": "B87",
+  "category": 2,
+  "type": 1,
+  "name": "重巡戦隊、抜錨せよ！",
+  "detail": "重巡4隻を基幹戦力とした重巡旗艦の艦隊を南西諸島海域東部オリョール海に展開し、<br>同海域の敵艦隊を撃滅、制海権を確保せよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 400,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    },
+    {
+      "name": "手編みとフローリング",
+      "category": "家具"
+    }
+  ],
+  "prerequisite": [
+    116,
+    145
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-3",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": [
+          "重巡",
+          "航巡"
+        ],
+        "flagship": true
+      },
+      {
+        "ship": [
+          "重巡",
+          "航巡"
+        ],
+        "amount": 3
+      },
+      {
+        "ship": "艦",
+        "amount": 2
+      }
+    ]
+  }
+}

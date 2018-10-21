@@ -1,0 +1,31 @@
+{
+  "game_id": 143,
+  "wiki_id": "A41",
+  "category": 1,
+  "type": 1,
+  "name": "「新型正規空母」を配備せよ！",
+  "detail": "雲龍型航空母艦一番艦「雲龍」を第一艦隊機旗艦に配備せよ！",
+  "reward_fuel": 100,
+  "reward_ammo": 100,
+  "reward_steel": 100,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    123
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "雲龍",
+        "flagship": true
+      }
+    ],
+    "fleetid": 1
+  }
+}

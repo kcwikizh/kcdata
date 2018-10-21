@@ -1,0 +1,47 @@
+{
+  "game_id": 869,
+  "wiki_id": "B107",
+  "category": 2,
+  "type": 1,
+  "name": "補給線の安全を確保せよ！",
+  "detail": "軽巡クラスの艦隊旗艦と2隻以上の駆逐艦または海防艦を中核とした警戒艦隊を編成、同艦隊で<br>鎮守府海域(製油所地帯沿岸/南西諸島防衛線/鎮守府近海)の警戒と補給線安全確保にあたれ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "洋上補給",
+      "amount": 1
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "1-3",
+      "1-4",
+      "1-5"
+    ],
+    "boss": true,
+    "result": "A",
+    "groups": [
+      {
+        "ship": "軽巡",
+        "flagship": true
+      },
+      {
+        "ship": [
+          "駆逐",
+          "海防艦"
+        ],
+        "amount": 2
+      }
+    ]
+  }
+}

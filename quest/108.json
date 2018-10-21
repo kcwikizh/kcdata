@@ -1,0 +1,32 @@
+{
+  "game_id": 108,
+  "wiki_id": "A08",
+  "category": 1,
+  "type": 1,
+  "name": "「天龍」型軽巡姉妹の全２艦を編成せよ！",
+  "detail": "天龍型軽巡洋艦「天龍」「龍田」を同一艦隊に配属せよ！",
+  "reward_fuel": 100,
+  "reward_ammo": 100,
+  "reward_steel": 100,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    105
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "天龍"
+      },
+      {
+        "ship": "龍田"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "game_id": 112,
+  "wiki_id": "A18",
+  "category": 1,
+  "type": 1,
+  "name": "「伊勢」型戦艦姉妹の全２隻を編成せよ！",
+  "detail": "伊勢型戦艦「伊勢」「日向」を同一艦隊に配属せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 200,
+  "reward_steel": 300,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    111
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "伊勢"
+      },
+      {
+        "ship": "日向"
+      }
+    ]
+  }
+}

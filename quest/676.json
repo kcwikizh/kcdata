@@ -1,0 +1,48 @@
+{
+  "game_id": 676,
+  "wiki_id": "F68",
+  "category": 6,
+  "type": 3,
+  "name": "装備開発力の集中整備",
+  "detail": "工廠環境の集中整備を実施する！「中口径主砲」系装備x3、「副砲」系装備x3、「ドラム缶(輸送用)」x1<br>を廃棄、鋼材2,400を準備せよ！　※任務達成後、準備した資源は消費します。",
+  "reward_fuel": 0,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 7
+    },
+    {
+      "name": "高速修復材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    674
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "中口径主砲",
+        "amount": 3
+      },
+      {
+        "name": "副砲",
+        "amount": 3
+      },
+      {
+        "name": "ドラム缶(輸送用)",
+        "amount": 1
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      2400,
+      0
+    ]
+  }
+}

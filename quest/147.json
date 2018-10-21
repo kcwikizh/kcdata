@@ -1,0 +1,46 @@
+{
+  "game_id": 147,
+  "wiki_id": "A44",
+  "category": 1,
+  "type": 1,
+  "name": "「西村艦隊」を再編成せよ！",
+  "detail": "「扶桑」「山城」「最上」「時雨」「満潮」を基幹とした西村艦隊を編成せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "改修資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    137,
+    224
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "扶桑"
+      },
+      {
+        "ship": "山城"
+      },
+      {
+        "ship": "最上"
+      },
+      {
+        "ship": "時雨"
+      },
+      {
+        "ship": "満潮"
+      }
+    ]
+  }
+}

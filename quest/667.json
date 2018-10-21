@@ -1,0 +1,48 @@
+{
+  "game_id": 667,
+  "wiki_id": "F59",
+  "category": 6,
+  "type": 1,
+  "name": "民生産業への協力を継続せよ！",
+  "detail": "工廠任務：軍需物資を放出し、民生産業への協力を継続する。「機銃」系装備x10を廃棄、鉄鋼15,000を<br>準備せよ！※任務達成後、準備した資源は消費します。「特注家具職人」と「勲章」の獲得選択が可能。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "勲章",
+          "amount": 1
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "戦闘糧食",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    665
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "対空機銃",
+        "amount": 10
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      15000,
+      0
+    ]
+  }
+}

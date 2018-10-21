@@ -1,0 +1,39 @@
+{
+  "game_id": 131,
+  "wiki_id": "A31",
+  "category": 1,
+  "type": 1,
+  "name": "「第八駆逐隊」を編成せよ！",
+  "detail": "「朝潮」「満潮」「大潮」「荒潮」4隻による第八駆逐隊を編成せよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 150,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    125
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "朝潮"
+      },
+      {
+        "ship": "満潮"
+      },
+      {
+        "ship": "大潮"
+      },
+      {
+        "ship": "荒潮"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

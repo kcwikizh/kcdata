@@ -1,0 +1,45 @@
+{
+  "game_id": 119,
+  "wiki_id": "A20",
+  "category": 1,
+  "type": 1,
+  "name": "「三川艦隊」を編成せよ！",
+  "detail": "「鳥海」「青葉」「加古」「古鷹」「天龍」を含む高速艦隊を編成せよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 0,
+  "reward_steel": 200,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    113
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "鳥海"
+      },
+      {
+        "ship": "青葉"
+      },
+      {
+        "ship": "加古"
+      },
+      {
+        "ship": "古鷹"
+      },
+      {
+        "ship": "天龍"
+      },
+      {
+        "ship": "高速艦",
+        "amount": 1
+      }
+    ]
+  }
+}

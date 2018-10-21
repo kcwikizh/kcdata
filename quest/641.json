@@ -1,0 +1,45 @@
+{
+  "game_id": 641,
+  "wiki_id": "F37",
+  "category": 6,
+  "type": 1,
+  "name": "「航空基地設営」事前準備",
+  "detail": "「航空基地設営」の事前準備を開始する。「ドラム缶(輸送用)」を二つ「工廠」で廃棄し、「7.7mm機銃」及び「九六式艦戦」を各二つずつ用意せよ！(任務達成後、用意した必要装備は消滅します)",
+  "reward_fuel": 200,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "九六式陸攻",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    296
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "equipments": [
+      {
+        "name": "7.7mm機銃",
+        "amount": 2
+      },
+      {
+        "name": "九六式艦戦",
+        "amount": 2
+      }
+    ],
+    "scraps": [
+      {
+        "name": "ドラム缶(輸送用)",
+        "amount": 2
+      }
+    ]
+  }
+}

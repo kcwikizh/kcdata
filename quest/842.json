@@ -1,0 +1,53 @@
+{
+  "game_id": 842,
+  "wiki_id": "B89",
+  "category": 2,
+  "type": 1,
+  "name": "主力戦艦戦隊、抜錨せよ！",
+  "detail": "戦艦または航空戦艦2隻以上からなる強力な戦艦戦隊を中核とした艦隊を沖ノ島海域前面に展開、<br>侵攻する敵艦隊を捕捉、これを撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 800,
+  "reward_steel": 400,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    },
+    {
+      "choices": [
+        {
+          "name": "改良型艦本式タービン",
+          "amount": 1
+        },
+        {
+          "name": "強化型艦本式缶",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    233
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-4",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": [
+          "低速戦艦",
+          "航戦"
+        ],
+        "amount": 2
+      },
+      {
+        "ship": "艦",
+        "amount": 4
+      }
+    ]
+  }
+}

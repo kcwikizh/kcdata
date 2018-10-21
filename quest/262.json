@@ -1,0 +1,49 @@
+{
+  "game_id": 262,
+  "wiki_id": "B33",
+  "category": 2,
+  "type": 1,
+  "name": "「西村艦隊」南方海域へ進出せよ！",
+  "detail": "「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 500,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 5
+    },
+    {
+      "name": "勲章",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    147
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "5-1",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "扶桑"
+      },
+      {
+        "ship": "山城"
+      },
+      {
+        "ship": "最上"
+      },
+      {
+        "ship": "時雨"
+      },
+      {
+        "ship": "満潮"
+      }
+    ]
+  }
+}

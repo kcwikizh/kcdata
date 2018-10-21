@@ -1,0 +1,73 @@
+{
+  "game_id": 864,
+  "wiki_id": "B105",
+  "category": 2,
+  "type": 1,
+  "name": "精強大型航空母艦、抜錨！",
+  "detail": "出撃任務：「Saratoga Mk.II」または同「Mod.2」を旗艦とした「任務部隊」で、南方海域サーモン海域<br>北方及び中部海域MS諸島沖に展開、同海域敵戦力を捕捉撃滅、「MS諸島防衛戦」を成功させよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 700,
+  "reward_bauxite": 700,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "F6F-3",
+          "amount": 1
+        },
+        {
+          "name": "熟練搭乗員",
+          "amount": 1
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "TBF",
+          "amount": 1
+        },
+        {
+          "name": "夜間作戦航空要員",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    185,
+    216
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "5-5",
+      "6-2"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": [
+          "Saratoga Mk.II",
+          "Saratoga Mk.II Mod.2"
+        ],
+        "flagship": true
+      },
+      {
+        "ship": "軽巡洋艦",
+        "amount": 1
+      },
+      {
+        "ship": "駆逐艦",
+        "amount": 2
+      }
+    ]
+  }
+}

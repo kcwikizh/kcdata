@@ -1,0 +1,26 @@
+{
+  "game_id": 618,
+  "wiki_id": "F17",
+  "category": 6,
+  "type": 1,
+  "name": "はじめての「装備改修」！",
+  "detail": "「改修工廠」で「装備」を改修してみましょう！明石さん、お願いします！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 100,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 7
+    }
+  ],
+  "prerequisite": [
+    146
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "improvement",
+    "times": 1
+  }
+}

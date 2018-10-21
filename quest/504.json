@@ -1,0 +1,30 @@
+{
+  "game_id": 504,
+  "wiki_id": "E04",
+  "category": 5,
+  "type": 2,
+  "name": "艦隊酒保祭り！",
+  "detail": "艦隊酒保祭り！各艦に延べ15回以上の補給を実施しよう！",
+  "reward_fuel": 50,
+  "reward_ammo": 50,
+  "reward_steel": 50,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    503
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "resupply",
+    "times": 15
+  }
+}

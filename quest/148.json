@@ -1,0 +1,45 @@
+{
+  "game_id": 148,
+  "wiki_id": "A46",
+  "category": 1,
+  "type": 1,
+  "name": "軽快な「水上反撃部隊」を編成せよ！",
+  "detail": "駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！",
+  "reward_fuel": 250,
+  "reward_ammo": 250,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    123
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "霞",
+        "flagship": true
+      },
+      {
+        "ship": "足柄"
+      },
+      {
+        "ship": "軽巡",
+        "amount": 1
+      },
+      {
+        "ship": "駆逐",
+        "amount": 3
+      }
+    ]
+  }
+}

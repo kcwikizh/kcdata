@@ -1,0 +1,39 @@
+{
+  "game_id": 161,
+  "wiki_id": "A56",
+  "category": 1,
+  "type": 1,
+  "name": "「第五航空戦隊」を再編成せよ！",
+  "detail": "「翔鶴」「瑞鶴」と随伴駆逐艦「朧」「秋雲」を基幹とした第五航空戦隊を再編成せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    123,
+    264
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "翔鶴"
+      },
+      {
+        "ship": "瑞鶴"
+      },
+      {
+        "ship": "朧"
+      },
+      {
+        "ship": "秋雲"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "game_id": 221,
+  "wiki_id": "Bw04",
+  "category": 2,
+  "type": 3,
+  "name": "ろ号作戦",
+  "detail": "1週間の全力出撃を行い、敵輸送船団を捕捉・撃滅、敵の補給路を寸断せよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 0,
+  "reward_steel": 800,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    214
+  ],
+  "requirements": {
+    "category": "sink",
+    "amount": 50,
+    "ship": "敵補給艦"
+  }
+}

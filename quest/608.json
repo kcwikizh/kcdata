@@ -1,0 +1,30 @@
+{
+  "game_id": 608,
+  "wiki_id": "F08",
+  "category": 6,
+  "type": 2,
+  "name": "艦娘「建造」艦隊強化！",
+  "detail": "艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 300,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    607
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "ship",
+    "times": 3
+  }
+}

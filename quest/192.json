@@ -1,0 +1,53 @@
+{
+  "game_id": 192,
+  "wiki_id": "A87",
+  "category": 1,
+  "type": 1,
+  "name": "精鋭「第十八駆逐隊」を編成せよ！",
+  "detail": "精鋭駆逐隊編成任務：「霰改二」「霞改二/改二乙」「陽炎改」「不知火改」4隻による精鋭「第十八駆逐隊」を編成せよ！",
+  "reward_fuel": 180,
+  "reward_ammo": 0,
+  "reward_steel": 180,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "補強増設",
+          "amount": 1
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    805
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "霰改二",
+        "amount": 1
+      },
+      {
+        "ship": [
+          "霞改二",
+          "霞改二乙"
+        ],
+        "amount": 1
+      },
+      {
+        "ship": "陽炎改",
+        "amount": 1
+      },
+      {
+        "ship": "不知火改",
+        "amount": 1
+      }
+    ]
+  }
+}

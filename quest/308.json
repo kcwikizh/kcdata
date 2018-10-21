@@ -1,0 +1,31 @@
+{
+  "game_id": 308,
+  "wiki_id": "C06",
+  "category": 3,
+  "type": 1,
+  "name": "演習を強化、艦隊の練度向上に努めよ！",
+  "detail": "艦隊のさらなる練度向上を図る！本日中に「演習」で4回以上「勝利」をおさめよう！",
+  "reward_fuel": 0,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "改修資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    418
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 4,
+    "victory": true,
+    "daily": true
+  }
+}

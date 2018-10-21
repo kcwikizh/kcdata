@@ -1,0 +1,30 @@
+{
+  "game_id": 606,
+  "wiki_id": "F06",
+  "category": 6,
+  "type": 2,
+  "name": "新造艦「建造」指令",
+  "detail": "「工廠」で艦娘を本日中に新たに「建造」しよう！",
+  "reward_fuel": 50,
+  "reward_ammo": 50,
+  "reward_steel": 50,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    605
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "ship",
+    "times": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "game_id": 651,
+  "wiki_id": "F47",
+  "category": 6,
+  "type": 1,
+  "name": "ネ式エンジンの増産",
+  "detail": "噴式航空機生産のため、ネ式エンジンの増産を行う。「零式艦戦52型」三つを「工廠」で廃棄し、「流星」「烈風」各二つと鉄鋼8,000を準備せよ！※任務達成後、用意した必要装備と資源は消費します。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "ネ式エンジン",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    423,
+    649
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "equipments": [
+      {
+        "name": "流星",
+        "amount": 2
+      },
+      {
+        "name": "烈風",
+        "amount": 2
+      }
+    ],
+    "scraps": [
+      {
+        "name": "零式艦戦52型",
+        "amount": 3
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      8000,
+      0
+    ]
+  }
+}

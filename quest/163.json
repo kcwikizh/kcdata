@@ -1,0 +1,40 @@
+{
+  "game_id": 163,
+  "wiki_id": "A58",
+  "category": 1,
+  "type": 1,
+  "name": "「第十六戦隊(第一次)」を編成せよ！",
+  "detail": "「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 150,
+  "reward_steel": 150,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    119
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "足柄",
+        "flagship": true
+      },
+      {
+        "ship": "球磨"
+      },
+      {
+        "ship": "長良"
+      }
+    ]
+  }
+}

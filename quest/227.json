@@ -1,0 +1,48 @@
+{
+  "game_id": 227,
+  "wiki_id": "B16",
+  "category": 2,
+  "type": 1,
+  "name": "新「三川艦隊」出撃せよ！",
+  "detail": "完全編成した「三川艦隊」をもって、オリョール海の敵を撃滅せよ！",
+  "reward_fuel": 100,
+  "reward_ammo": 150,
+  "reward_steel": 100,
+  "reward_bauxite": 150,
+  "reward_other": [
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    124
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-3",
+    "boss": true,
+    "result": "B",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "鳥海"
+      },
+      {
+        "ship": "青葉"
+      },
+      {
+        "ship": "衣笠"
+      },
+      {
+        "ship": "加古"
+      },
+      {
+        "ship": "古鷹"
+      },
+      {
+        "ship": "天龍"
+      }
+    ]
+  }
+}

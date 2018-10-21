@@ -1,0 +1,30 @@
+{
+  "game_id": 605,
+  "wiki_id": "F05",
+  "category": 6,
+  "type": 2,
+  "name": "新装備「開発」指令",
+  "detail": "「工廠」で装備アイテムを新たに「開発」しよう(失敗もOK)！",
+  "reward_fuel": 40,
+  "reward_ammo": 40,
+  "reward_steel": 40,
+  "reward_bauxite": 40,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    602
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "equipment",
+    "times": 1
+  }
+}

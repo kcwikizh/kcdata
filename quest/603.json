@@ -1,0 +1,30 @@
+{
+  "game_id": 603,
+  "wiki_id": "F03",
+  "category": 6,
+  "type": 1,
+  "name": "はじめての「解体」！",
+  "detail": "「工廠」で不要な艦を「解体」してみよう！",
+  "reward_fuel": 60,
+  "reward_ammo": 60,
+  "reward_steel": 60,
+  "reward_bauxite": 60,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    602
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapship",
+    "times": 1
+  }
+}

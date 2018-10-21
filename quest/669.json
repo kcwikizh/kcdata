@@ -1,0 +1,66 @@
+{
+  "game_id": 669,
+  "wiki_id": "F61",
+  "category": 6,
+  "type": 1,
+  "name": "夜戦型艦上戦闘機の開発",
+  "detail": "練度&改修maxの「F6F-3」を秘書艦一番スロットに搭載、 「13号対空電探」x2 「22号対水上電探」x2<br>を廃棄、開発資材x30、改修資材x6、ボーキサイト5,000、「新型航空兵装資材」x1を準備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "F6F-3N",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    185,
+    608
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "secretary": "艦",
+    "slots": [
+      {
+        "slot": 1,
+        "equipment": "F6F-3",
+        "convert": true,
+        "fullyskilled": true,
+        "maxmodified": true
+      }
+    ],
+    "scraps": [
+      {
+        "name": "13号対空電探",
+        "amount": 2
+      },
+      {
+        "name": "22号対水上電探",
+        "amount": 2
+      }
+    ],
+    "consumptions": [
+      {
+        "name": "開発資材",
+        "amount": 30
+      },
+      {
+        "name": "改修資材",
+        "amount": 6
+      },
+      {
+        "name": "新型航空兵装資材",
+        "amount": 1
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      0,
+      5000
+    ]
+  }
+}

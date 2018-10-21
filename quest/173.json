@@ -1,0 +1,41 @@
+{
+  "game_id": 173,
+  "wiki_id": "A68",
+  "category": 1,
+  "type": 1,
+  "name": "強行高速輸送部隊を編成せよ！",
+  "detail": "「川内改二」旗艦、「江風改二」「時雨改二」他駆逐2隻による水雷戦隊を編成せよ！",
+  "reward_fuel": 100,
+  "reward_ammo": 100,
+  "reward_steel": 100,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    293
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "川内改二",
+        "flagship": true
+      },
+      {
+        "ship": "江風改二"
+      },
+      {
+        "ship": "時雨改二"
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "game_id": 218,
+  "wiki_id": "Bd05",
+  "category": 2,
+  "type": 2,
+  "name": "敵補給艦を3隻撃沈せよ！",
+  "detail": "艦隊を出撃させ、敵補給艦を捕捉、これを撃滅せよ！",
+  "reward_fuel": 100,
+  "reward_ammo": 50,
+  "reward_steel": 200,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    216
+  ],
+  "requirements": {
+    "category": "sink",
+    "amount": 3,
+    "ship": "敵補給艦"
+  }
+}

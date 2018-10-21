@@ -1,0 +1,24 @@
+{
+  "game_id": 701,
+  "wiki_id": "G01",
+  "category": 7,
+  "type": 1,
+  "name": "はじめての「近代化改修」！",
+  "detail": "任意の艦を近代化改修(合成)して、強化せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 50,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "modernization",
+    "times": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "game_id": 632,
+  "wiki_id": "F29",
+  "category": 6,
+  "type": 1,
+  "name": "機種転換",
+  "detail": "練度max「零戦21型(付岩本小隊)」搭載「瑞鶴」秘書艦で、「零戦52型」を2つ廃棄！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "零戦52型甲(付岩本小隊)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    625,
+    630
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "equipment": "零戦21型(付岩本小隊)",
+    "secretary": "瑞鶴",
+    "scraps": [
+      {
+        "name": "零式艦戦52型",
+        "amount": 2
+      }
+    ],
+    "fullyskilled": true
+  }
+}

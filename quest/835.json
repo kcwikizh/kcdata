@@ -1,0 +1,50 @@
+{
+  "game_id": 835,
+  "wiki_id": "B84",
+  "category": 2,
+  "type": 1,
+  "name": "「第十六戦隊(第三次)」出撃せよ！",
+  "detail": "「第十六戦隊(第三次)」を沖ノ島海域前面に展開、敵主力艦隊を捕捉、これを撃破せよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    },
+    {
+      "name": "艦娘座布団の床",
+      "category": "家具"
+    }
+  ],
+  "prerequisite": [
+    178
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-4",
+    "boss": true,
+    "result": "A",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "鬼怒"
+      },
+      {
+        "ship": "青葉"
+      },
+      {
+        "ship": "北上"
+      },
+      {
+        "ship": "大井"
+      },
+      {
+        "ship": "艦",
+        "amount": 2
+      }
+    ]
+  }
+}

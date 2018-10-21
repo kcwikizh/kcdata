@@ -1,0 +1,64 @@
+{
+  "game_id": 863,
+  "wiki_id": "B104",
+  "category": 2,
+  "type": 1,
+  "name": "精鋭「第二二駆逐隊」出撃せよ！",
+  "detail": "出撃任務：再編した精鋭「第二二駆逐隊」を含む精強な水雷戦隊で北方海域キス島沖に出撃、<br>キス島撤退作戦を完全成功させよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 700,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 2
+    },
+    {
+      "choices": [
+        {
+          "name": "大発動艇",
+          "amount": 1
+        },
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "補強増設",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    184,
+    303
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "3-2",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "文月改二"
+          },
+          {
+            "ship": "皐月改二"
+          },
+          {
+            "ship": "水無月改"
+          },
+          {
+            "ship": "長月改"
+          }
+        ]
+      }
+    ]
+  }
+}

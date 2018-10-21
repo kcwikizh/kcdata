@@ -1,0 +1,27 @@
+{
+  "game_id": 619,
+  "wiki_id": "F18",
+  "category": 6,
+  "type": 2,
+  "name": "装備の改修強化",
+  "detail": "「改修工廠」で「装備」の改修強化に努めます。",
+  "reward_fuel": 0,
+  "reward_ammo": 50,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    608,
+    618
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "improvement",
+    "times": 1
+  }
+}

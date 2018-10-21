@@ -1,0 +1,47 @@
+{
+  "game_id": 659,
+  "wiki_id": "F51",
+  "category": 6,
+  "type": 1,
+  "name": "精鋭「水戦」隊の新編成",
+  "detail": "精鋭飛行隊の新編成：練度max及び改修maxの「二式水戦改」を一番スロットに搭載した秘書艦で、<br>「零式艦戦21型」x2「瑞雲」x2を廃棄！　※新飛行隊を編成する「熟練搭乗員」が必要です。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "二式水戦改(熟練)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    607,
+    839
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "secretary": "艦",
+    "use_skilled_crew": true,
+    "slots": [
+      {
+        "slot": 1,
+        "equipment": "二式水戦改",
+        "convert": true,
+        "fullyskilled": true,
+        "maxmodified": true
+      }
+    ],
+    "scraps": [
+      {
+        "name": "零式艦戦21型",
+        "amount": 2
+      },
+      {
+        "name": "瑞雲",
+        "amount": 2
+      }
+    ]
+  }
+}

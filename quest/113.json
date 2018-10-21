@@ -1,0 +1,35 @@
+{
+  "game_id": 113,
+  "wiki_id": "A13",
+  "category": 1,
+  "type": 1,
+  "name": "戦艦と重巡による主力艦隊を編成せよ！",
+  "detail": "戦艦1隻以上、重巡2隻以上を主力とした水上打撃艦隊を編成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 150,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    107
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "戦艦",
+        "amount": 1
+      },
+      {
+        "ship": "重巡",
+        "amount": 2
+      }
+    ],
+    "disallowed": "航戦"
+  }
+}

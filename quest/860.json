@@ -1,0 +1,84 @@
+{
+  "game_id": 860,
+  "wiki_id": "B103",
+  "category": 2,
+  "type": 1,
+  "name": "旗艦「由良」、抜錨！",
+  "detail": "出撃任務：旗艦に「由良改二」、随伴艦に二駆「村雨」「夕立」「春雨」「五月雨」及び「秋月」から<br>二隻以上を配備した第一艦隊を展開、東部オリョール海及び南方海域前面の敵戦力を撃滅せよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 400,
+  "reward_steel": 0,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "大発動艇",
+          "amount": 1
+        },
+        {
+          "name": "補強増設",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "熟練搭乗員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    183
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "2-3",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "由良改二",
+            "flagship": true
+          },
+          {
+            "ship": [
+              "村雨",
+              "夕立",
+              "春雨",
+              "五月雨",
+              "秋月"
+            ],
+            "select": 2
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "5-1",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "由良改二",
+            "flagship": true
+          },
+          {
+            "ship": [
+              "村雨",
+              "夕立",
+              "春雨",
+              "五月雨",
+              "秋月"
+            ],
+            "select": 2
+          }
+        ]
+      }
+    ]
+  }
+}

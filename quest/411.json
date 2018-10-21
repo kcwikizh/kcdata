@@ -1,0 +1,37 @@
+{
+  "game_id": 411,
+  "wiki_id": "D11",
+  "category": 4,
+  "type": 3,
+  "name": "南方への鼠輸送を継続実施せよ！",
+  "detail": "今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう！",
+  "reward_fuel": 400,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "改修資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    410
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 7,
+        "id": [
+          37,
+          38
+        ]
+      }
+    ]
+  }
+}

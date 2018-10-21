@@ -1,0 +1,34 @@
+{
+  "game_id": 809,
+  "wiki_id": "B62",
+  "category": 2,
+  "type": 1,
+  "name": "強襲上陸作戦用戦力を増強せよ！",
+  "detail": "中部海域における航空偵察「K作戦」を実施しつつ、強襲上陸作戦用戦力の強化を図れ！",
+  "reward_fuel": 0,
+  "reward_ammo": 600,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "name": "大発動艇",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    243,
+    420
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "6-3",
+    "boss": true,
+    "result": "B",
+    "times": 1
+  }
+}

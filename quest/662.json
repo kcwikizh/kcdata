@@ -1,0 +1,49 @@
+{
+  "game_id": 662,
+  "wiki_id": "F54",
+  "category": 6,
+  "type": 1,
+  "name": "新型艤装の開発研究",
+  "detail": "工廠任務：新型艤装の開発研究を実施する。「中口径主砲」系装備x10を廃棄、鉄鋼12,000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲墳兵装資材」の獲得選択が可能です。",
+  "reward_fuel": 0,
+  "reward_ammo": 500,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "勲章",
+          "amount": 1
+        },
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    618,
+    661
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "中口径主砲",
+        "amount": 10
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      12000,
+      0
+    ]
+  }
+}

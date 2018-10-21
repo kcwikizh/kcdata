@@ -1,0 +1,33 @@
+{
+  "game_id": 622,
+  "wiki_id": "F19",
+  "category": 6,
+  "type": 1,
+  "name": "機種転換",
+  "detail": "「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "天山一二型(村田隊)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    287
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "equipment": "九七式艦攻(村田隊)",
+    "secretary": "翔鶴",
+    "scraps": [
+      {
+        "name": "天山",
+        "amount": 2
+      }
+    ]
+  }
+}

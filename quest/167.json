@@ -1,0 +1,40 @@
+{
+  "game_id": 167,
+  "wiki_id": "A62",
+  "category": 1,
+  "type": 1,
+  "name": "新航空戦隊を編成せよ！",
+  "detail": "改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 300,
+  "reward_steel": 300,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    },
+    {
+      "name": "熟練搭乗員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    632
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "翔鶴改二"
+      },
+      {
+        "ship": "瑞鶴改二"
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "game_id": 265,
+  "wiki_id": "Bm05",
+  "category": 2,
+  "type": 6,
+  "name": "海上護衛強化月間",
+  "detail": "鎮守府正面海域の対潜哨戒を強化し、敵潜水艦を制圧、安全な海上輸送体制を確立せよ！",
+  "reward_fuel": 800,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 5
+    },
+    {
+      "name": "改修資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    240,
+    249
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-5",
+    "boss": true,
+    "result": "A",
+    "times": 10
+  }
+}

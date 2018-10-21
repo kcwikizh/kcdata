@@ -1,0 +1,63 @@
+{
+  "game_id": 185,
+  "wiki_id": "A80",
+  "category": 1,
+  "type": 1,
+  "name": "精強「任務部隊」を編成せよ！",
+  "detail": "編成任務：第一艦隊旗艦に「Saratoga Mk.II」または同「Mod.2」を配備、随伴艦に<br>軽巡洋艦1隻、駆逐艦2隻以上を配した夜間作戦可能な機動部隊を新編せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "F6F-3",
+          "amount": 1
+        },
+        {
+          "name": "F4U-1D",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "TBF",
+          "amount": 1
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    114,
+    201
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": [
+          "Saratoga Mk.II",
+          "Saratoga Mk.II Mod.2"
+        ],
+        "flagship": true
+      },
+      {
+        "ship": "軽巡洋艦",
+        "amount": 1
+      },
+      {
+        "ship": "駆逐艦",
+        "amount": 2
+      }
+    ],
+    "fleetid": 1
+  }
+}

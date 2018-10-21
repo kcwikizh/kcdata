@@ -1,0 +1,38 @@
+{
+  "game_id": 232,
+  "wiki_id": "B18",
+  "category": 2,
+  "type": 1,
+  "name": "「航空水上打撃艦隊」出撃せよ！",
+  "detail": "航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊でカレー洋の制海権を握れ！",
+  "reward_fuel": 0,
+  "reward_ammo": 150,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    126
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "4-2",
+    "boss": true,
+    "result": "B",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "航戦",
+        "amount": 2
+      },
+      {
+        "ship": "航巡",
+        "amount": 2
+      }
+    ]
+  }
+}

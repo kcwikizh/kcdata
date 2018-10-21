@@ -1,0 +1,48 @@
+{
+  "game_id": 295,
+  "wiki_id": "B55",
+  "category": 2,
+  "type": 1,
+  "name": "「第十六戦隊(第二次)」出撃せよ！",
+  "detail": "「第十六戦隊(第二次)」をオリョール海に展開、敵主力艦隊を捕捉、これを撃滅せよ！",
+  "reward_fuel": 320,
+  "reward_ammo": 0,
+  "reward_steel": 320,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "家具箱（大）",
+      "amount": 1
+    },
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    168
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-3",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "名取",
+        "flagship": true
+      },
+      {
+        "ship": "五十鈴"
+      },
+      {
+        "ship": "鬼怒"
+      },
+      {
+        "ship": "艦",
+        "amount": 3
+      }
+    ]
+  }
+}

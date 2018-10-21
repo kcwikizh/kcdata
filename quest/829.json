@@ -1,0 +1,28 @@
+{
+  "game_id": 829,
+  "wiki_id": "B81",
+  "category": 2,
+  "type": 1,
+  "name": "夜間突入！敵上陸部隊を叩け！",
+  "detail": "南方サブ島沖海域へ精鋭艦隊を突入！敵艦隊の邀撃を突破し、同方面の敵上陸部隊を叩け！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "設営隊",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    828
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "5-3",
+    "boss": true,
+    "result": "A",
+    "times": 1
+  }
+}

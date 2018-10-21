@@ -1,0 +1,33 @@
+{
+  "game_id": 205,
+  "wiki_id": "B05",
+  "category": 2,
+  "type": 1,
+  "name": "接近する「敵前衛艦隊」を迎撃せよ！",
+  "detail": "南西諸島沖に接近する「敵前衛艦隊」を捕捉、これを撃滅せよ！",
+  "reward_fuel": 50,
+  "reward_ammo": 0,
+  "reward_steel": 50,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    },
+    {
+      "name": "深雪",
+      "category": "艦娘",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    204
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-2",
+    "boss": true,
+    "result": "B",
+    "times": 1
+  }
+}

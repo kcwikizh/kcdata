@@ -1,0 +1,47 @@
+{
+  "game_id": 808,
+  "wiki_id": "B61",
+  "category": 2,
+  "type": 1,
+  "name": "「第二七駆逐隊」出撃せよ！",
+  "detail": "「白露改」旗艦の第二七戦隊を含む艦隊をオリョール海に展開、同海域の敵艦隊を撃滅せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 0,
+  "reward_steel": 500,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "「春の一番」掛け軸",
+      "category": "家具"
+    }
+  ],
+  "prerequisite": [
+    172
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-3",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "白露改",
+        "flagship": true
+      },
+      {
+        "ship": "時雨"
+      },
+      {
+        "ship": "春雨"
+      },
+      {
+        "ship": "五月雨"
+      },
+      {
+        "ship": "艦",
+        "amount": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "game_id": 639,
+  "wiki_id": "F36",
+  "category": 6,
+  "type": 1,
+  "name": "新型魚雷兵装の開発",
+  "detail": "勲章x2消費：「島風」秘書艦に改修max「61cm五連装(酸素)魚雷」と<br>改修max「61cm三連装(酸素)魚雷」を装備！(任務達成後、各装備は消滅します)",
+  "reward_fuel": 0,
+  "reward_ammo": 600,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 6
+    },
+    {
+      "name": "試製61cm六連装(酸素)魚雷",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    638,
+    818
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "equipment": [
+      "61cm五連装(酸素)魚雷",
+      "61cm三連装(酸素)魚雷"
+    ],
+    "secretary": "島風",
+    "maxmodified": true,
+    "consumptions": [
+      {
+        "name": "勲章",
+        "amount": 2
+      }
+    ]
+  }
+}

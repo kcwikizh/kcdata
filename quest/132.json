@@ -1,0 +1,43 @@
+{
+  "game_id": 132,
+  "wiki_id": "A32",
+  "category": 1,
+  "type": 1,
+  "name": "「第十八駆逐隊」を編成せよ！",
+  "detail": "「霞」「霰」「陽炎」「不知火」4隻による第十八駆逐隊を編成せよ！",
+  "reward_fuel": 180,
+  "reward_ammo": 180,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    },
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    239
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "霞"
+      },
+      {
+        "ship": "霰"
+      },
+      {
+        "ship": "陽炎"
+      },
+      {
+        "ship": "不知火"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

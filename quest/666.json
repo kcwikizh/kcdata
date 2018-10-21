@@ -1,0 +1,52 @@
+{
+  "game_id": 666,
+  "wiki_id": "F58",
+  "category": 6,
+  "type": 1,
+  "name": "精鋭「瑞雲」隊の編成",
+  "detail": "秘書艦「日向改」の四番スロットに改修max「瑞雲(六三四空)」を搭載して、ドラム缶(輸送用)x2を廃棄。<br>さらに「九九式艦爆」x2「瑞雲」x2を用意せよ！　※新飛行隊を編成する「熟練搭乗員」が必要です。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "瑞雲(六三四空/熟練)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    607,
+    859
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "secretary": "日向改",
+    "use_skilled_crew": true,
+    "slots": [
+      {
+        "slot": 4,
+        "equipment": "瑞雲(六三四空)",
+        "convert": true,
+        "maxmodified": true
+      }
+    ],
+    "consumptions": [
+      {
+        "name": "九九式艦爆",
+        "amount": 2
+      },
+      {
+        "name": "瑞雲",
+        "amount": 2
+      }
+    ],
+    "scraps": [
+      {
+        "name": "ドラム缶(輸送用)",
+        "amount": 2
+      }
+    ]
+  }
+}

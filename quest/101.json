@@ -1,0 +1,29 @@
+{
+  "game_id": 101,
+  "wiki_id": "A01",
+  "category": 1,
+  "type": 1,
+  "name": "はじめての「編成」！",
+  "detail": "２隻以上の艦で構成される「艦隊」を編成せよ！",
+  "reward_fuel": 20,
+  "reward_ammo": 20,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "白雪",
+      "category": "艦娘",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "艦",
+        "amount": 2
+      }
+    ]
+  }
+}

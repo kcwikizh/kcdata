@@ -1,0 +1,28 @@
+{
+  "game_id": 635,
+  "wiki_id": "F32",
+  "category": 6,
+  "type": 1,
+  "name": "新装備の準備",
+  "detail": "「工廠」で装備アイテムを5つ「廃棄」して、新装備配備の準備をします。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 50,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "家具箱（中）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    113,
+    220
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapequipment",
+    "times": 5,
+    "batch": true
+  }
+}

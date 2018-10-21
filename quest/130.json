@@ -1,0 +1,41 @@
+{
+  "game_id": 130,
+  "wiki_id": "A30",
+  "category": 1,
+  "type": 1,
+  "name": "「第一水雷戦隊」を編成せよ！",
+  "detail": "「阿武隈」「曙」「潮」「霞」「不知火」を中核とした「第一水雷戦隊」を編成せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    129
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "阿武隈"
+      },
+      {
+        "ship": "曙"
+      },
+      {
+        "ship": "潮"
+      },
+      {
+        "ship": "霞"
+      },
+      {
+        "ship": "不知火"
+      }
+    ]
+  }
+}

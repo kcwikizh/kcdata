@@ -1,0 +1,38 @@
+{
+  "game_id": 128,
+  "wiki_id": "A28",
+  "category": 1,
+  "type": 1,
+  "name": "「第六戦隊」を編成せよ！",
+  "detail": "「古鷹」「加古」「青葉」「衣笠」を基幹とした第六戦隊を編成せよ！",
+  "reward_fuel": 250,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    120
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "古鷹"
+      },
+      {
+        "ship": "加古"
+      },
+      {
+        "ship": "青葉"
+      },
+      {
+        "ship": "衣笠"
+      }
+    ]
+  }
+}

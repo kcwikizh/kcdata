@@ -1,0 +1,46 @@
+{
+  "game_id": 233,
+  "wiki_id": "B19",
+  "category": 2,
+  "type": 1,
+  "name": "「第六戦隊」出撃せよ！",
+  "detail": "編成した「第六戦隊」をもって出撃し、オリョール海の敵を撃滅「完全勝利」せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 150,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "家具箱（中）",
+      "amount": 1
+    },
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    128
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-3",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "古鷹"
+      },
+      {
+        "ship": "加古"
+      },
+      {
+        "ship": "青葉"
+      },
+      {
+        "ship": "衣笠"
+      }
+    ]
+  }
+}

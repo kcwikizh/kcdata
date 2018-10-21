@@ -1,0 +1,26 @@
+{
+  "game_id": 501,
+  "wiki_id": "E01",
+  "category": 5,
+  "type": 1,
+  "name": "はじめての「補給」！",
+  "detail": "補給は大事です！燃料・弾薬を艦に「補給」しよう！",
+  "reward_fuel": 0,
+  "reward_ammo": 20,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    203
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "resupply",
+    "times": 1
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "game_id": 682,
+  "wiki_id": "F73",
+  "category": 6,
+  "type": 1,
+  "name": "「海防艦」整備計画",
+  "detail": "大型艦兵装を整理削減、警備及び海上護衛用小艦艇「海防艦」を整備する。「中口径主砲」x4、「大口径主砲」x4を破棄し、燃料500を準備せよ！※任務達成後、準備した資材は消費します。",
+  "reward_fuel": 200,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        },
+        {
+          "name": "開発資材",
+          "amount": 4
+        },
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "択捉",
+          "category": "艦娘",
+          "amount": 1
+        },
+        {
+          "name": "松輪",
+          "category": "艦娘",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "中口径主砲",
+        "amount": 4
+      },
+      {
+        "name": "大口径主砲",
+        "amount": 4
+      }
+    ],
+    "resources": [
+      500,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "game_id": 607,
+  "wiki_id": "F07",
+  "category": 6,
+  "type": 2,
+  "name": "装備「開発」集中強化！",
+  "detail": "「工廠」で装備アイテムを本日中に3回「開発」しよう(失敗もOK)！",
+  "reward_fuel": 100,
+  "reward_ammo": 100,
+  "reward_steel": 100,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    606
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "equipment",
+    "times": 3
+  }
+}

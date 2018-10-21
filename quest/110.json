@@ -1,0 +1,42 @@
+{
+  "game_id": 110,
+  "wiki_id": "A15",
+  "category": 1,
+  "type": 1,
+  "name": "「妙高」型重巡姉妹の全４隻を編成せよ！",
+  "detail": "妙高型重巡洋艦「妙高」「那智」「足柄」「羽黒」を同一艦隊に配属せよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 100,
+  "reward_steel": 150,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    109
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "妙高"
+      },
+      {
+        "ship": "那智"
+      },
+      {
+        "ship": "足柄"
+      },
+      {
+        "ship": "羽黒"
+      }
+    ]
+  }
+}

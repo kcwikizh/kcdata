@@ -1,0 +1,46 @@
+{
+  "game_id": 823,
+  "wiki_id": "B75",
+  "category": 2,
+  "type": 1,
+  "name": "水雷戦隊、南西防衛線に反復出撃せよ！",
+  "detail": "軽巡級旗艦と駆逐艦4隻の水雷戦隊を基幹とした艦隊を編成、<br>南西諸島防衛線に反復出撃し、同海域の制海権確保に努めよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 350,
+  "reward_steel": 0,
+  "reward_bauxite": 350,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 4
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    817
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-4",
+    "boss": true,
+    "result": "A",
+    "times": 2,
+    "groups": [
+      {
+        "ship": "軽巡",
+        "flagship": true
+      },
+      {
+        "ship": "駆逐",
+        "amount": 4
+      },
+      {
+        "ship": "艦",
+        "amount": 1
+      }
+    ]
+  }
+}

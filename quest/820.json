@@ -1,0 +1,52 @@
+{
+  "game_id": 820,
+  "wiki_id": "B73",
+  "category": 2,
+  "type": 1,
+  "name": "新編「第八駆逐隊」出撃せよ！",
+  "detail": "新編「第八駆逐隊」を含む艦隊を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 400,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "探照灯",
+      "category": "装備",
+      "amount": 1
+    },
+    {
+      "name": "大発動艇",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    175
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-6",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "朝潮改二",
+        "flagship": true
+      },
+      {
+        "ship": "大潮"
+      },
+      {
+        "ship": "満潮"
+      },
+      {
+        "ship": "荒潮"
+      },
+      {
+        "ship": "艦",
+        "amount": 2
+      }
+    ],
+    "result": "クリア"
+  }
+}

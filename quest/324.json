@@ -1,0 +1,69 @@
+{
+  "game_id": 324,
+  "wiki_id": "C22",
+  "category": 3,
+  "type": 1,
+  "name": "戦闘航空母艦一番艦、演習始め！",
+  "detail": "改装航空戦艦(戦闘航空母艦)演習任務：旗艦「伊勢改二」、随伴艦に駆逐艦2隻以上を配した航空戦隊を編成。新改装艦の慣熟も兼ねた同航空戦隊の演習で、本日中に3回以上勝利せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 500,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "彗星",
+          "amount": 2
+        },
+        {
+          "name": "瑞雲",
+          "amount": 2
+        },
+        {
+          "name": "二式艦上偵察機",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "22号対水上電探",
+          "amount": 2
+        },
+        {
+          "name": "12cm30連装噴進砲",
+          "amount": 2
+        },
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    247
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 3,
+    "victory": true,
+    "daily": true,
+    "groups": [
+      {
+        "ship": "伊勢改二",
+        "flagship": true
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      },
+      {
+        "ship": "艦",
+        "amount": 3
+      }
+    ]
+  }
+}

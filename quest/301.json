@@ -1,0 +1,23 @@
+{
+  "game_id": 301,
+  "wiki_id": "C01",
+  "category": 3,
+  "type": 1,
+  "name": "はじめての「演習」！",
+  "detail": "他の提督(プレイヤー)の艦隊と「演習」を行おう！",
+  "reward_fuel": 10,
+  "reward_ammo": 10,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "excercise",
+    "times": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "game_id": 289,
+  "wiki_id": "B52",
+  "category": 2,
+  "type": 1,
+  "name": "「第十六戦隊(第一次)」出撃せよ！",
+  "detail": "「第十六戦隊(第一次)」をバシー島沖に展開、敵艦隊を撃滅せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 0,
+  "reward_steel": 200,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "家具箱（中）",
+      "amount": 1
+    },
+    {
+      "name": "プレゼント箱",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    163
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-2",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "足柄",
+        "flagship": true
+      },
+      {
+        "ship": "球磨"
+      },
+      {
+        "ship": "長良"
+      }
+    ]
+  }
+}

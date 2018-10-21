@@ -1,0 +1,49 @@
+{
+  "game_id": 846,
+  "wiki_id": "B91",
+  "category": 2,
+  "type": 1,
+  "name": "潜水艦隊、中部海域の哨戒を実施せよ！",
+  "detail": "潜水艦を旗艦とし、4隻以上の有力な潜水艦を配備した第一艦隊、精鋭潜水艦隊で<br>中部海域哨戒線に進出、回航中の敵空母を捕捉、これを襲撃せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 300,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    218,
+    815
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "6-1",
+    "boss": true,
+    "result": "B",
+    "times": 1,
+    "groups": [
+      {
+        "ship": [
+          "潜水艦",
+          "潜水空母"
+        ],
+        "flagship": true
+      },
+      {
+        "ship": [
+          "潜水艦",
+          "潜水空母"
+        ],
+        "amount": 3
+      }
+    ]
+  }
+}

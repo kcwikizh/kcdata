@@ -1,0 +1,71 @@
+{
+  "game_id": 875,
+  "wiki_id": "Bq06",
+  "category": 2,
+  "type": 7,
+  "name": "精鋭「三一駆」、鉄底海域に突入せよ！",
+  "detail": "強行東京急行任務：精鋭「三一駆」第一小隊を護衛戦力とした突入艦隊を編成、南方サーモン海域に投入。<br>鉄底海峡に突入し、同海域に展開する敵艦艇を実力で排除、強行鼠輸送作戦を反復完遂せよ！",
+  "reward_fuel": 310,
+  "reward_ammo": 310,
+  "reward_steel": 0,
+  "reward_bauxite": 310,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "13号対空電探",
+          "amount": 2
+        },
+        {
+          "name": "22号対水上電探",
+          "amount": 2
+        },
+        {
+          "name": "戦闘詳報",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "プレゼント箱",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    188,
+    873
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 2,
+        "map": "5-4",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "長波改二"
+          },
+          {
+            "ship": [
+              "高波改",
+              "沖波改",
+              "朝霜改"
+            ],
+            "select": 1
+          }
+        ]
+      }
+    ]
+  }
+}

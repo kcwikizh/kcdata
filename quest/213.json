@@ -1,0 +1,26 @@
+{
+  "game_id": 213,
+  "wiki_id": "Bw03",
+  "category": 2,
+  "type": 3,
+  "name": "海上通商破壊作戦",
+  "detail": "1週間で敵輸送船を20隻以上撃沈せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 0,
+  "reward_steel": 400,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    216
+  ],
+  "requirements": {
+    "category": "sink",
+    "amount": 20,
+    "ship": "敵補給艦"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "game_id": 142,
+  "wiki_id": "A40",
+  "category": 1,
+  "type": 1,
+  "name": "精鋭「第三戦隊」全艦集結せよ！",
+  "detail": "第二次改装を完了した改装金剛型高速戦艦4隻を集結させよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "試製35.6cm三連装砲",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    246
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "金剛改二"
+      },
+      {
+        "ship": "比叡改二"
+      },
+      {
+        "ship": "榛名改二"
+      },
+      {
+        "ship": "霧島改二"
+      }
+    ]
+  }
+}

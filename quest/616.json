@@ -1,0 +1,32 @@
+{
+  "game_id": 616,
+  "wiki_id": "F15",
+  "category": 6,
+  "type": 1,
+  "name": "機種転換",
+  "detail": "「零戦52型丙(六〇一空)」搭載空母を秘書艦にした状態で新たに「烈風」を2つ廃棄！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "烈風(六〇一空)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    253
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "equipment": "零戦52型丙(六〇一空)",
+    "scraps": [
+      {
+        "name": "烈風",
+        "amount": 2
+      }
+    ]
+  }
+}

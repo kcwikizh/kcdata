@@ -1,0 +1,29 @@
+{
+  "game_id": 261,
+  "wiki_id": "Bw10",
+  "category": 2,
+  "type": 3,
+  "name": "海上輸送路の安全確保に努めよ！",
+  "detail": "鎮守府正面の対潜哨戒を反復実施し、安全な海上輸送路を確保せよ！",
+  "reward_fuel": 100,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    146,
+    221
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-5",
+    "boss": true,
+    "result": "A",
+    "times": 3
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "game_id": 137,
+  "wiki_id": "A35",
+  "category": 1,
+  "type": 1,
+  "name": "「第五戦隊」を編成せよ！",
+  "detail": "「妙高」「那智」「羽黒」を基幹とした第五戦隊を編成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 300,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 5
+    }
+  ],
+  "prerequisite": [
+    248
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "妙高"
+      },
+      {
+        "ship": "那智"
+      },
+      {
+        "ship": "羽黒"
+      }
+    ]
+  }
+}

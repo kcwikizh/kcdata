@@ -1,0 +1,28 @@
+{
+  "game_id": 229,
+  "wiki_id": "Bw06",
+  "category": 2,
+  "type": 3,
+  "name": "敵東方艦隊を撃滅せよ！",
+  "detail": "西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 700,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    228
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "4-1 ~ 4-5",
+    "boss": true,
+    "result": "B",
+    "times": 12
+  }
+}

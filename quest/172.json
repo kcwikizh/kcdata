@@ -1,0 +1,45 @@
+{
+  "game_id": 172,
+  "wiki_id": "A67",
+  "category": 1,
+  "type": 1,
+  "name": "「第二七駆逐隊」を編成せよ！",
+  "detail": "「白露改」旗艦、「時雨」「春雨」「五月雨」4隻による第二七駆逐隊を編成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 270,
+  "reward_steel": 270,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    131,
+    216
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "白露改",
+        "flagship": true
+      },
+      {
+        "ship": "時雨"
+      },
+      {
+        "ship": "春雨"
+      },
+      {
+        "ship": "五月雨"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

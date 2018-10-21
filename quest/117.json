@@ -1,0 +1,35 @@
+{
+  "game_id": 117,
+  "wiki_id": "A11",
+  "category": 1,
+  "type": 1,
+  "name": "第２艦隊で空母機動部隊を編成せよ！",
+  "detail": "第２艦隊に空母を配備して、空母機動部隊を編成せよ！",
+  "reward_fuel": 100,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    215
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "空母",
+        "amount": 1
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ],
+    "fleetid": 2
+  }
+}

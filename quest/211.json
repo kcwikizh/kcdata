@@ -1,0 +1,26 @@
+{
+  "game_id": 211,
+  "wiki_id": "Bd04",
+  "category": 2,
+  "type": 4,
+  "name": "敵空母を３隻撃沈せよ！",
+  "detail": "艦隊の脅威となる敵空母群。これを捕捉撃滅し、3隻轟沈せよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 150,
+  "reward_steel": 150,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    201
+  ],
+  "requirements": {
+    "category": "sink",
+    "amount": 3,
+    "ship": "敵空母"
+  }
+}

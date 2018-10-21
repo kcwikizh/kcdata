@@ -1,0 +1,61 @@
+{
+  "game_id": 680,
+  "wiki_id": "F72",
+  "category": 6,
+  "type": 7,
+  "name": "対空兵装の整備拡充",
+  "detail": "対空兵装の整備拡充を継続実施する!「機銃」系装備x4、「電探」系装備x4を廃棄、ボーキサイト1,500を準備せよ!※任務達成後、準備した資源は消費します。",
+  "reward_fuel": 0,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "10cm連装高角砲",
+          "amount": 2
+        },
+        {
+          "name": "12cm30連装噴進砲",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "8cm高角砲",
+          "amount": 2
+        },
+        {
+          "name": "開発資材",
+          "amount": 6
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    605,
+    679
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "対空機銃",
+        "amount": 4
+      },
+      {
+        "name": "電探",
+        "amount": 4
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      0,
+      1500
+    ]
+  }
+}

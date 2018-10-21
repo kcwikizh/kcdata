@@ -1,0 +1,26 @@
+{
+  "game_id": 212,
+  "wiki_id": "Bd06",
+  "category": 2,
+  "type": 5,
+  "name": "敵輸送船団を叩け！",
+  "detail": "敵の輸送船5隻以上を撃沈し、敵の補給路を寸断せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    201
+  ],
+  "requirements": {
+    "category": "sink",
+    "amount": 5,
+    "ship": "敵補給艦"
+  }
+}

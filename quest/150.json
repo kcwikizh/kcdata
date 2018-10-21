@@ -1,0 +1,39 @@
+{
+  "game_id": 150,
+  "wiki_id": "A48",
+  "category": 1,
+  "type": 1,
+  "name": "「第二一駆逐隊」を編成せよ！",
+  "detail": "「初春」「子日」「若葉」「初霜」4隻による第二一駆逐隊を編成せよ！",
+  "reward_fuel": 210,
+  "reward_ammo": 210,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    267
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "初春"
+      },
+      {
+        "ship": "子日"
+      },
+      {
+        "ship": "若葉"
+      },
+      {
+        "ship": "初霜"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

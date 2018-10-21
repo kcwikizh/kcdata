@@ -1,0 +1,53 @@
+{
+  "game_id": 425,
+  "wiki_id": "D23",
+  "category": 4,
+  "type": 1,
+  "name": "海上護衛総隊、遠征開始！",
+  "detail": "遠征任務：遠征任務「対潜警戒任務」「海上護衛任務」「タンカー護衛任務」を実施、<br>軽巡、駆逐艦、海防艦などから編成された護衛艦隊で各遠征を成功させよ！",
+  "reward_fuel": 700,
+  "reward_ammo": 700,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    424,
+    662
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 4
+      },
+      {
+        "times": 1,
+        "id": 5
+      },
+      {
+        "times": 1,
+        "id": 9
+      }
+    ],
+    "groups": [
+      {
+        "ship": [
+          "軽巡",
+          "駆逐艦",
+          "海防艦"
+        ]
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

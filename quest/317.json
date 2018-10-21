@@ -1,0 +1,82 @@
+{
+  "game_id": 317,
+  "wiki_id": "C15",
+  "category": 3,
+  "type": 1,
+  "name": "甲型駆逐艦の戦力整備計画",
+  "detail": "甲型駆逐艦整備任務：甲型駆逐艦【夕雲型/陽炎型】を2隻以上配備した第一艦隊で演習で3回「勝利」、<br>その後、同艦隊を南西諸島海域に投入。各出撃で得られた戦訓を艦隊型駆逐艦戦力整備に活用せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 350,
+  "reward_steel": 0,
+  "reward_bauxite": 350,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "戦闘詳報",
+          "amount": 1
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "高速修復材",
+          "amount": 5
+        },
+        {
+          "name": "戦闘糧食",
+          "amount": 2
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    673
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "excercise",
+        "times": 3,
+        "victory": true,
+        "daily": true,
+        "groups": [
+          {
+            "shipclass": [
+              "夕雲",
+              "陽炎"
+            ],
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": [
+          "2-2",
+          "2-3",
+          "2-4",
+          "2-5"
+        ],
+        "boss": true,
+        "result": "A",
+        "groups": [
+          {
+            "shipclass": [
+              "夕雲",
+              "陽炎"
+            ],
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  }
+}

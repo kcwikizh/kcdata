@@ -1,0 +1,47 @@
+{
+  "game_id": 270,
+  "wiki_id": "B39",
+  "category": 2,
+  "type": 1,
+  "name": "「第二二駆逐隊」出撃せよ！",
+  "detail": "「第二二駆逐隊」を含む艦隊で南西諸島防衛線に出撃、敵主力艦隊を撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "name": "家具箱（中）",
+      "amount": 1
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    151
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-4",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "皐月"
+      },
+      {
+        "ship": "文月"
+      },
+      {
+        "ship": "長月"
+      },
+      {
+        "ship": "駆逐",
+        "amount": 1
+      }
+    ]
+  }
+}

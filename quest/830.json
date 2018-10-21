@@ -1,0 +1,33 @@
+{
+  "game_id": 830,
+  "wiki_id": "B82",
+  "category": 2,
+  "type": 1,
+  "name": "夜の海を照らす「灯り」を入手せよ！",
+  "detail": "有力な艦隊をカムラン半島に投入、同方面に出没する敵艦隊を捕捉、これを撃滅せよ！<br>そして、夜を照らす「灯り」を入手せよ！　ある季節は夜戦以外にも使い道があるようだ！",
+  "reward_fuel": 100,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "戦闘糧食",
+      "amount": 1
+    },
+    {
+      "name": "探照灯",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    206
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-1",
+    "boss": true,
+    "result": "S",
+    "times": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "game_id": 848,
+  "wiki_id": "B92",
+  "category": 2,
+  "type": 1,
+  "name": "重装甲巡洋艦、鉄底海峡に突入せよ！",
+  "detail": "第一艦隊旗艦に「Zara due」を配備、同艦隊で南方サブ島沖海域へ突入！同方面の敵艦隊群を突破し、鉄底海峡に展開する敵戦力を撃破せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 700,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "艦本新設計 増設バルジ(中型艦)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    846
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "5-3",
+    "boss": true,
+    "result": "A",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "Zara due",
+        "flagship": true
+      }
+    ]
+  }
+}

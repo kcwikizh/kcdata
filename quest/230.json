@@ -1,0 +1,26 @@
+{
+  "game_id": 230,
+  "wiki_id": "Bd08",
+  "category": 2,
+  "type": 2,
+  "name": "敵潜水艦を制圧せよ！",
+  "detail": "対潜能力の充実した艦隊で出撃、敵潜水艦狩りを実施せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 30,
+  "reward_steel": 300,
+  "reward_bauxite": 30,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    226
+  ],
+  "requirements": {
+    "category": "sink",
+    "amount": 6,
+    "ship": "敵潜水艦"
+  }
+}

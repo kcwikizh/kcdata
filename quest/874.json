@@ -1,0 +1,63 @@
+{
+  "game_id": 874,
+  "wiki_id": "B110",
+  "category": 2,
+  "type": 1,
+  "name": "北方海域戦闘哨戒を実施せよ！",
+  "detail": "北方海域戦闘哨戒任務：北方AL海域に軽空母と水上機母艦及び軽巡を基幹戦力とした精鋭艦隊を投入。<br>北方戦闘哨戒を反復実施、同方面の敵増援部隊主力を捕捉、これを撃滅し、北方海域戦線を防衛せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 1000,
+  "reward_steel": 0,
+  "reward_bauxite": 700,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "紫電改二",
+          "amount": 2
+        },
+        {
+          "name": "改修資材",
+          "amount": 4
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "プレゼント箱",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    873
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 2,
+        "map": "3-5",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "軽空母",
+            "amount": 1
+          },
+          {
+            "ship": "水上機母艦",
+            "amount": 1
+          },
+          {
+            "ship": "軽巡",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

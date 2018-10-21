@@ -1,0 +1,31 @@
+{
+  "game_id": 414,
+  "wiki_id": "D13",
+  "category": 4,
+  "type": 1,
+  "name": "遠洋潜水艦作戦を実施せよ！",
+  "detail": "「遠洋潜水艦作戦」を実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "潜水艦53cm艦首魚雷(8門)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    139
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 39
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "game_id": 803,
+  "wiki_id": "SB28",
+  "category": 2,
+  "type": 1,
+  "name": "護衛始め！「海上護衛隊」なお正月！",
+  "detail": "新春特別任務：駆逐艦及び海防艦で編成された海上護衛隊(軽空母1隻配備可能)を編成、<br>鎮守府近海において近海対潜哨戒及び輸送船団護衛作戦を実施、各3回以上成功させよ！",
+  "reward_fuel": 2018,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "choices": [
+        {
+          "name": "二式爆雷",
+          "amount": 2
+        },
+        {
+          "name": "戦闘詳報",
+          "amount": 1
+        },
+        {
+          "name": "雷電",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    674,
+    802
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "map": "1-5",
+        "boss": true,
+        "result": "A",
+        "times": 3,
+        "groups": [
+          {
+            "ship": [
+              "軽母"
+            ],
+            "amount": [
+              0,
+              1
+            ]
+          },
+          {
+            "ship": [
+              "駆逐",
+              "海防艦"
+            ],
+            "amount": [
+              0,
+              99
+            ]
+          }
+        ],
+        "disallowed": "他の艦"
+      },
+      {
+        "category": "sortie",
+        "map": "1-6",
+        "boss": true,
+        "times": 3,
+        "groups": [
+          {
+            "ship": [
+              "軽母"
+            ],
+            "amount": [
+              0,
+              1
+            ]
+          },
+          {
+            "ship": [
+              "駆逐",
+              "海防艦"
+            ],
+            "amount": [
+              0,
+              99
+            ]
+          }
+        ],
+        "disallowed": "他の艦",
+        "result": "クリア"
+      }
+    ]
+  }
+}

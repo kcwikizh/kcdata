@@ -1,0 +1,41 @@
+{
+  "game_id": 222,
+  "wiki_id": "B12",
+  "category": 2,
+  "type": 1,
+  "name": "「第六駆逐隊」出撃せよ！",
+  "detail": "「暁」「響」「雷」「電」による第六駆逐隊、出撃せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    120,
+    213
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "暁"
+      },
+      {
+        "ship": "響"
+      },
+      {
+        "ship": "雷"
+      },
+      {
+        "ship": "電"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "game_id": 871,
+  "wiki_id": "B109",
+  "category": 2,
+  "type": 1,
+  "name": "最精鋭「第八駆逐隊」、全力出撃！",
+  "detail": "第八駆逐隊任務：最精鋭「第八駆逐隊」を中核戦力とした艦隊を編成、北方海域キス島沖、及び<br>南方海域サーモン海域に突入！同海域の敵艦隊を撃滅、第八駆逐隊による完全勝利を刻め！",
+  "reward_fuel": 800,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "12.7cm連装砲C型改二",
+          "amount": 1
+        },
+        {
+          "name": "大発動艇",
+          "amount": 1
+        },
+        {
+          "name": "22号対水上電探",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "改修資材",
+      "amount": 4
+    }
+  ],
+  "prerequisite": [
+    186,
+    429
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "3-2",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": [
+              "朝潮改二",
+              "朝潮改二丁"
+            ]
+          },
+          {
+            "ship": "満潮改二"
+          },
+          {
+            "ship": "大潮改二"
+          },
+          {
+            "ship": "荒潮改二"
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "5-4",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": [
+              "朝潮改二",
+              "朝潮改二丁"
+            ]
+          },
+          {
+            "ship": "満潮改二"
+          },
+          {
+            "ship": "大潮改二"
+          },
+          {
+            "ship": "荒潮改二"
+          }
+        ]
+      }
+    ]
+  }
+}

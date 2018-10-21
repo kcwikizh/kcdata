@@ -1,0 +1,62 @@
+{
+  "game_id": 854,
+  "wiki_id": "Bq02",
+  "category": 2,
+  "type": 7,
+  "name": "戦果拡張任務！「Z作戦」前段作戦",
+  "detail": "戦果拡張作戦：我が第一艦隊に精鋭艦艇を集中配備、同精鋭艦隊を以て、南西諸島の沖ノ島海域、<br>中部海域哨戒線、グアノ環礁沖の敵艦隊を撃破、中部北海域ピーコック島の敵戦力を破砕殲滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 2000,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 4
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 3
+    },
+    {
+      "name": "戦果350"
+    }
+  ],
+  "prerequisite": [
+    220,
+    846
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "2-4",
+        "boss": true,
+        "result": "A"
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "6-1",
+        "boss": true,
+        "result": "A"
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "6-3",
+        "boss": true,
+        "result": "A"
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "6-4",
+        "boss": true,
+        "result": "S"
+      }
+    ]
+  }
+}

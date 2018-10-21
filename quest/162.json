@@ -1,0 +1,43 @@
+{
+  "game_id": 162,
+  "wiki_id": "A57",
+  "category": 1,
+  "type": 1,
+  "name": "新編「第二一戦隊」出撃準備！",
+  "detail": "「那智改二」「足柄改二」及び「多摩」「木曾」を基幹とした、第二一戦隊を編成せよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 150,
+  "reward_steel": 150,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "改修資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    152,
+    263
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "那智改二"
+      },
+      {
+        "ship": "足柄改二"
+      },
+      {
+        "ship": "多摩"
+      },
+      {
+        "ship": "木曾"
+      }
+    ]
+  }
+}

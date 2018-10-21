@@ -1,0 +1,34 @@
+{
+  "game_id": 107,
+  "wiki_id": "A12",
+  "category": 1,
+  "type": 1,
+  "name": "「空母機動部隊」を編成せよ！",
+  "detail": "空母1隻以上を旗艦とし、その護衛艦艇と共に、空母機動部隊を編成せよ！",
+  "reward_fuel": 50,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    106
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "空母",
+        "flagship": true
+      },
+      {
+        "ship": "駆逐",
+        "amount": 3
+      }
+    ]
+  }
+}

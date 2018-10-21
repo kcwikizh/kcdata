@@ -1,0 +1,40 @@
+{
+  "game_id": 225,
+  "wiki_id": "B15",
+  "category": 2,
+  "type": 1,
+  "name": "「第五航空戦隊」出撃せよ！",
+  "detail": "「翔鶴」「瑞鶴」を基幹とする第五航空戦隊で、北方海域モーレイ海の敵を撃滅せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 700,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "家具箱（中）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    123
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-1",
+    "boss": true,
+    "result": "B",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "翔鶴"
+      },
+      {
+        "ship": "瑞鶴"
+      }
+    ]
+  }
+}

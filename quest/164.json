@@ -1,0 +1,46 @@
+{
+  "game_id": 164,
+  "wiki_id": "A59",
+  "category": 1,
+  "type": 1,
+  "name": "「第三航空戦隊」を編成せよ！",
+  "detail": "「瑞鶴改」を旗艦とし、「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "熟練搭乗員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    264,
+    624
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "瑞鶴改",
+        "flagship": true
+      },
+      {
+        "ship": "瑞鳳"
+      },
+      {
+        "ship": "千歳航",
+        "note": "軽母"
+      },
+      {
+        "ship": "千代田航",
+        "note": "軽母"
+      }
+    ]
+  }
+}

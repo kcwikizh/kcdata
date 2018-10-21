@@ -1,0 +1,91 @@
+{
+  "game_id": 879,
+  "wiki_id": "B114",
+  "category": 2,
+  "type": 1,
+  "name": "新編「四航戦」、全力出撃！",
+  "detail": "「航空戦艦「伊勢改」「日向改」及び軽巡「大淀改」と1隻以上の駆逐艦を含む新編第四航空戦隊を編成、<br>鎮守府近海航路、沖ノ島沖及び北方AL海域戦闘哨戒、カレー洋リランカ島沖の作戦に投入せよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 400,
+  "reward_steel": 400,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "name": "12cm30連装噴進砲改二",
+      "amount": 1
+    },
+    {
+      "choices": [
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "戦闘詳報",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    247
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "map": "1-6",
+        "times": 1,
+        "groups": [
+          {
+            "ship": "伊勢改"
+          },
+          {
+            "ship": "日向改"
+          },
+          {
+            "ship": "大淀改"
+          },
+          {
+            "ship": "駆逐",
+            "amount": [
+              1,
+              99
+            ]
+          }
+        ],
+        "result": "クリア"
+      },
+      {
+        "category": "sortie",
+        "map": [
+          "2-5",
+          "3-5",
+          "4-5"
+        ],
+        "times": 1,
+        "boss": true,
+        "result": "A",
+        "groups": [
+          {
+            "ship": "伊勢改"
+          },
+          {
+            "ship": "日向改"
+          },
+          {
+            "ship": "大淀改"
+          },
+          {
+            "ship": "駆逐",
+            "amount": [
+              1,
+              99
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

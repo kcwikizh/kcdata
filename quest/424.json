@@ -1,0 +1,31 @@
+{
+  "game_id": 424,
+  "wiki_id": "D22",
+  "category": 4,
+  "type": 6,
+  "name": "輸送船団護衛を強化せよ！",
+  "detail": "遠征任務：「海上護衛任務」を反復実施し、輸送船団の護衛に務めよ！",
+  "reward_fuel": 1000,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "家具箱（中）",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    402,
+    419
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 4,
+        "id": 5
+      }
+    ]
+  }
+}

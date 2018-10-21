@@ -1,0 +1,47 @@
+{
+  "game_id": 320,
+  "wiki_id": "C18",
+  "category": 3,
+  "type": 1,
+  "name": "駆逐隊、特訓始め！",
+  "detail": "駆逐隊演習任務：駆逐艦4隻で編成される駆逐隊。この駆逐隊を含む艦隊を編成。特訓を開始する！同艦隊で本日中に演習にて4回以上勝利せよ！",
+  "reward_fuel": 100,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 3
+    },
+    {
+      "choices": [
+        {
+          "name": "改修資材",
+          "amount": 2
+        },
+        {
+          "name": "開発資材",
+          "amount": 4
+        }
+      ]
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "excercise",
+    "times": 4,
+    "victory": true,
+    "daily": true,
+    "groups": [
+      {
+        "ship": "駆逐",
+        "amount": 4
+      },
+      {
+        "ship": "艦",
+        "amount": 2
+      }
+    ]
+  }
+}

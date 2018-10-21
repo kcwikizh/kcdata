@@ -1,0 +1,72 @@
+{
+  "game_id": 825,
+  "wiki_id": "B77",
+  "category": 2,
+  "type": 1,
+  "name": "水雷戦隊、南西諸島海域を哨戒せよ！",
+  "detail": "水雷戦隊を基幹とした有力な艦隊で南西諸島海域バシー島沖及び東部オリョール海を哨戒、<br>同海域に遊弋する敵艦隊を捕捉、これを撃滅せよ！",
+  "reward_fuel": 600,
+  "reward_ammo": 600,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    303
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "2-2",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "軽巡",
+            "flagship": true
+          },
+          {
+            "ship": "駆逐",
+            "amount": 4
+          },
+          {
+            "ship": "艦",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "2-3",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "軽巡",
+            "flagship": true
+          },
+          {
+            "ship": "駆逐",
+            "amount": 4
+          },
+          {
+            "ship": "艦",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "game_id": 849,
+  "wiki_id": "B93",
+  "category": 2,
+  "type": 1,
+  "name": "南西諸島方面の敵艦隊を撃破せよ！",
+  "detail": "軽巡を旗艦とした艦隊を編成し、南西諸島防衛線、バシー島沖及び<br>東部オリョール海に展開、同海域に遊弋する敵艦隊を撃破せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 0,
+  "reward_steel": 300,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "1-4",
+        "boss": true,
+        "result": "A",
+        "groups": [
+          {
+            "ship": "軽巡",
+            "flagship": true
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "2-2",
+        "boss": true,
+        "result": "A",
+        "groups": [
+          {
+            "ship": "軽巡",
+            "flagship": true
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "2-3",
+        "boss": true,
+        "result": "A",
+        "groups": [
+          {
+            "ship": "軽巡",
+            "flagship": true
+          }
+        ]
+      }
+    ]
+  }
+}

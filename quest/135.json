@@ -1,0 +1,38 @@
+{
+  "game_id": 135,
+  "wiki_id": "WA02",
+  "category": 1,
+  "type": 1,
+  "name": "新たなる旅立ち！",
+  "detail": "第一艦隊旗艦に強い絆を結んだLv.100以上の艦娘を配備した6隻の艦隊を編成せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 200,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    245
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "艦",
+        "flagship": true,
+        "lv": [
+          100,
+          999
+        ]
+      },
+      {
+        "ship": "艦",
+        "amount": 5
+      }
+    ]
+  }
+}

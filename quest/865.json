@@ -1,0 +1,63 @@
+{
+  "game_id": 865,
+  "wiki_id": "B106",
+  "category": 2,
+  "type": 1,
+  "name": "夜間作戦空母、前線に出撃せよ！",
+  "detail": "出撃任務：「Saratoga Mk.II」を旗艦とした第一艦隊を KW環礁沖海域に展開、敵機動部隊を迎撃！<br>「空母機動部隊迎撃戦」を見事成功させよ！　夜戦作戦空母、抜錨！　前線に出撃せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 1000,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "TBF",
+          "amount": 1
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "夜間作戦航空要員+熟練甲板員",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "補強増設",
+          "amount": 1
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "熟練搭乗員",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    846,
+    864
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": "6-5",
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": "Saratoga Mk.II",
+        "flagship": true
+      }
+    ]
+  }
+}

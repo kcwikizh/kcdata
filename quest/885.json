@@ -1,0 +1,66 @@
+{
+  "game_id": 885,
+  "wiki_id": "B118",
+  "category": 2,
+  "type": 1,
+  "name": "戦闘航空母艦、 出撃せょ!",
+  "detail": "改装航空戦艦（戦闘航空母艦）一番艦、旗艦「伊勢改二」を中核とした航空火力打撃部隊を編成、北方AL海域戦闘哨戒、カレー洋リランカ島沖及びピーコック島沖の作戦に投入、敵を撃滅せよ！",
+  "reward_fuel": 1000,
+  "reward_ammo": 0,
+  "reward_steel": 634,
+  "reward_bauxite": 634,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "熟練搭乗員",
+          "amount": 1
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "改修資材",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "瑞雲(六三四空)",
+          "amount": 1
+        },
+        {
+          "name": "彗星二二型(六三四空)",
+          "amount": 1
+        },
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 2
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    324
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "3-5",
+      "4-5",
+      "6-4"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": "伊勢改二",
+        "flagship": true
+      }
+    ]
+  }
+}

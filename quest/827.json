@@ -1,0 +1,50 @@
+{
+  "game_id": 827,
+  "wiki_id": "B79",
+  "category": 2,
+  "type": 1,
+  "name": "「第十九駆逐隊」敵主力に突入せよ！",
+  "detail": "「第十九駆逐隊」を含む有力な艦隊を編成し、南西諸島海域沖ノ島沖に展開！<br>同方面に遊弋する敵主力を捕捉、これを撃破せよ！",
+  "reward_fuel": 600,
+  "reward_ammo": 600,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 4
+    },
+    {
+      "name": "洋上補給",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    826
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-5",
+    "boss": true,
+    "result": "A",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "磯波"
+      },
+      {
+        "ship": "浦波"
+      },
+      {
+        "ship": "綾波"
+      },
+      {
+        "ship": "敷波"
+      },
+      {
+        "ship": "艦",
+        "amount": 2
+      }
+    ]
+  }
+}

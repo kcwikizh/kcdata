@@ -1,0 +1,32 @@
+{
+  "game_id": 241,
+  "wiki_id": "Bw07",
+  "category": 2,
+  "type": 3,
+  "name": "敵北方艦隊主力を撃滅せよ！",
+  "detail": "北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 400,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    },
+    {
+      "name": "改修資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    228
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-3 ~ 3-5",
+    "boss": true,
+    "result": "B",
+    "times": 5
+  }
+}

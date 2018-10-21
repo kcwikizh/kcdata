@@ -1,0 +1,49 @@
+{
+  "game_id": 273,
+  "wiki_id": "B41",
+  "category": 2,
+  "type": 1,
+  "name": "新編「三川艦隊」ソロモン方面へ！",
+  "detail": "第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！",
+  "reward_fuel": 480,
+  "reward_ammo": 480,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    },
+    {
+      "name": "改修資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    307
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "5-1",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "鳥海改二",
+        "flagship": true
+      },
+      {
+        "ship": [
+          "天龍",
+          "古鷹",
+          "加古",
+          "青葉",
+          "夕張",
+          "衣笠"
+        ],
+        "select": 5
+      }
+    ]
+  }
+}

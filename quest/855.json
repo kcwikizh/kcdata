@@ -1,0 +1,94 @@
+{
+  "game_id": 855,
+  "wiki_id": "B98",
+  "category": 2,
+  "type": 1,
+  "name": "海上護衛体制の強化に努めよ！",
+  "detail": "海上護衛作戦：駆逐艦または海防艦3隻以上を含む護衛艦隊を編成し、鎮守府海域の製油所地帯沿岸、<br>南西諸島防衛線、鎮守府近海、鎮守府近海航路にそれぞれ展開、各海域における作戦を成功させよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 4
+    },
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    216
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "1-3",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": [
+              "駆逐",
+              "海防艦"
+            ],
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "1-4",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": [
+              "駆逐",
+              "海防艦"
+            ],
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "1-5",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": [
+              "駆逐",
+              "海防艦"
+            ],
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "1-6",
+        "boss": true,
+        "groups": [
+          {
+            "ship": [
+              "駆逐",
+              "海防艦"
+            ],
+            "amount": 3
+          }
+        ],
+        "result": "クリア"
+      }
+    ]
+  }
+}

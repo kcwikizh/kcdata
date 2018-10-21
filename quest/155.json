@@ -1,0 +1,40 @@
+{
+  "game_id": 155,
+  "wiki_id": "A53",
+  "category": 1,
+  "type": 1,
+  "name": "新編「第六駆逐隊」を編成せよ！",
+  "detail": "「暁改二」を旗艦とした「響」「雷」「電」4隻による第六駆逐隊を編成せよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 150,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "探照灯",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    224
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "暁改二",
+        "flagship": true
+      },
+      {
+        "ship": "響"
+      },
+      {
+        "ship": "雷"
+      },
+      {
+        "ship": "電"
+      }
+    ]
+  }
+}

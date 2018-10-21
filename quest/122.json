@@ -1,0 +1,38 @@
+{
+  "game_id": 122,
+  "wiki_id": "A22",
+  "category": 1,
+  "type": 1,
+  "name": "「西村艦隊」を編成せよ！",
+  "detail": "「扶桑」「山城」「最上」「時雨」を基幹とした西村艦隊を編成せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 200,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    121
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "扶桑"
+      },
+      {
+        "ship": "山城"
+      },
+      {
+        "ship": "最上"
+      },
+      {
+        "ship": "時雨"
+      }
+    ]
+  }
+}

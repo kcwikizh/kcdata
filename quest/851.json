@@ -1,0 +1,65 @@
+{
+  "game_id": 851,
+  "wiki_id": "B95",
+  "category": 2,
+  "type": 1,
+  "name": "改装航空巡洋艦、出撃！",
+  "detail": "改装航空巡洋艦「鈴谷改二」を旗艦とした精強な艦隊を編成、同艦隊を南方海域に展開、<br>南方海域前面、及びサブ島沖海域に遊弋する敵艦隊群を捕捉、これを撃破せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 300,
+  "reward_bauxite": 700,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 4
+    },
+    {
+      "choices": [
+        {
+          "name": "強風改",
+          "amount": 1
+        },
+        {
+          "name": "艦本新設計 増設バルジ(中型艦)",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    287,
+    838
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "5-1",
+        "boss": true,
+        "result": "A",
+        "groups": [
+          {
+            "ship": "鈴谷改二",
+            "flagship": true
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "5-3",
+        "boss": true,
+        "result": "A",
+        "groups": [
+          {
+            "ship": "鈴谷改二",
+            "flagship": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "game_id": 263,
+  "wiki_id": "B34",
+  "category": 2,
+  "type": 1,
+  "name": "「第六戦隊」南西海域へ出撃せよ！",
+  "detail": "「古鷹」「加古」「青葉」「衣笠」を基幹とした「第六戦隊」で、沖ノ島沖の敵艦隊を撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 400,
+  "reward_steel": 0,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "name": "家具箱（大）",
+      "amount": 1
+    },
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    233
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-5",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "古鷹"
+      },
+      {
+        "ship": "加古"
+      },
+      {
+        "ship": "青葉"
+      },
+      {
+        "ship": "衣笠"
+      }
+    ]
+  }
+}

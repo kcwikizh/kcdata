@@ -1,0 +1,35 @@
+{
+  "game_id": 408,
+  "wiki_id": "D07",
+  "category": 4,
+  "type": 1,
+  "name": "潜水艦派遣作戦による技術入手の継続！",
+  "detail": "第三次及び第四次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 800,
+  "reward_other": [
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    },
+    {
+      "name": "Ju87C改",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    406
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 2,
+        "id": 30
+      }
+    ]
+  }
+}

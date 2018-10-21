@@ -1,0 +1,33 @@
+{
+  "game_id": 127,
+  "wiki_id": "A27",
+  "category": 1,
+  "type": 1,
+  "name": "中規模潜水艦隊を編成せよ！",
+  "detail": "伊号潜水艦3隻以上からなる潜水艦隊を編成せよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 150,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    121
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": [
+          "潜水艦",
+          "潜水空母"
+        ],
+        "amount": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "game_id": 814,
+  "wiki_id": "B68",
+  "category": 2,
+  "type": 1,
+  "name": "強行高速輸送部隊、出撃せよ！",
+  "detail": "「江風改二」「時雨改二」「川内改二」他駆逐2隻を含む艦隊で、ジャム島攻略作戦を実施せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 0,
+  "reward_steel": 500,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 2
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    173
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "4-1",
+    "boss": true,
+    "result": "A",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "川内改二",
+        "flagship": true
+      },
+      {
+        "ship": "江風改二"
+      },
+      {
+        "ship": "時雨改二"
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      },
+      {
+        "ship": "艦",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "game_id": 115,
+  "wiki_id": "A06",
+  "category": 1,
+  "type": 1,
+  "name": "第２艦隊を編成せよ！",
+  "detail": "二つ目の艦隊、第２艦隊の旗艦を指定して、第２艦隊を編成せよ！",
+  "reward_fuel": 50,
+  "reward_ammo": 50,
+  "reward_steel": 100,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    104
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "艦",
+        "amount": 1
+      }
+    ],
+    "fleetid": 2
+  }
+}

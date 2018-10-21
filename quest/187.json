@@ -1,0 +1,59 @@
+{
+  "game_id": 187,
+  "wiki_id": "A82",
+  "category": 1,
+  "type": 1,
+  "name": "「西村艦隊」第二戦隊随伴部隊、集結せよ！",
+  "detail": "捷一号作戦準備任務：第一遊撃部隊第三部隊の中核となる第二戦隊の随伴艦を編成する。<br>各艦隊から艦艇を抽出、第三艦隊に「最上」「時雨」「満潮」「朝雲」「山雲」を配備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 300,
+  "reward_steel": 300,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "給糧艦「伊良湖」",
+          "amount": 2
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        },
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "高速修復材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    402,
+    429
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "最上"
+      },
+      {
+        "ship": "時雨"
+      },
+      {
+        "ship": "満潮"
+      },
+      {
+        "ship": "朝雲"
+      },
+      {
+        "ship": "山雲"
+      }
+    ],
+    "fleetid": 3
+  }
+}

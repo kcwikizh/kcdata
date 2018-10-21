@@ -1,0 +1,39 @@
+{
+  "game_id": 145,
+  "wiki_id": "A43",
+  "category": 1,
+  "type": 1,
+  "name": "戦艦を主力とした水上打撃部隊を編成せよ！",
+  "detail": "大和型・長門型・伊勢型・扶桑型のいずれか3隻と軽巡1隻他の水上打撃部隊を配備せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    258
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "shipclass": [
+          "大和",
+          "長門",
+          "伊勢",
+          "扶桑"
+        ],
+        "amount": 3
+      },
+      {
+        "ship": "軽巡",
+        "amount": 1
+      }
+    ]
+  }
+}

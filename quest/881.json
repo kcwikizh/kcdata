@@ -1,0 +1,66 @@
+{
+  "game_id": 881,
+  "wiki_id": "B116",
+  "category": 2,
+  "type": 1,
+  "name": "「十八駆」、北方海域キス島へ！",
+  "detail": "精鋭「第十八駆逐隊」を投入し、北方海域キス島撤退作戦を実施する！同作戦に反復出動し、キス島撤退作戦を完全成功させよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 480,
+  "reward_bauxite": 480,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "大発動艇",
+          "category": "装備",
+          "amount": 1
+        },
+        {
+          "name": "10cm連装高角砲改+増設機銃",
+          "category": "装備",
+          "amount": 1
+        },
+        {
+          "name": "改修資材",
+          "amount": 5
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    192,
+    230
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 2,
+    "map": [
+      "3-2"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": "霰改二",
+        "amount": 1
+      },
+      {
+        "ship": [
+          "霞改二",
+          "霞改二乙"
+        ],
+        "amount": 1
+      },
+      {
+        "ship": "陽炎改",
+        "amount": 1
+      },
+      {
+        "ship": "不知火改",
+        "amount": 1
+      }
+    ]
+  }
+}

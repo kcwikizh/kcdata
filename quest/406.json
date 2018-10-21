@@ -1,0 +1,31 @@
+{
+  "game_id": 406,
+  "wiki_id": "D06",
+  "category": 4,
+  "type": 1,
+  "name": "第二次潜水艦派遣作戦",
+  "detail": "第二次潜水艦派遣作戦を成功させよう！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 10,
+  "reward_bauxite": 10,
+  "reward_other": [
+    {
+      "name": "Ju87C改",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    405
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 30
+      }
+    ]
+  }
+}

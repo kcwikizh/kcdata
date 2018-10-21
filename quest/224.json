@@ -1,0 +1,46 @@
+{
+  "game_id": 224,
+  "wiki_id": "B14",
+  "category": 2,
+  "type": 1,
+  "name": "「西村艦隊」出撃せよ！",
+  "detail": "「扶桑」「山城」「最上」「時雨」を基幹とする西村艦隊で、オリョール海の敵を撃滅せよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 0,
+  "reward_steel": 400,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "家具箱（小）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    122
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-3",
+    "boss": true,
+    "result": "B",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "扶桑"
+      },
+      {
+        "ship": "山城"
+      },
+      {
+        "ship": "最上"
+      },
+      {
+        "ship": "時雨"
+      }
+    ]
+  }
+}

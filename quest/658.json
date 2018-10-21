@@ -1,0 +1,48 @@
+{
+  "game_id": 658,
+  "wiki_id": "F50",
+  "category": 6,
+  "type": 1,
+  "name": "潜水艦武装の強化",
+  "detail": "「61cm三連装魚雷」を四つ廃棄、開発資材x120と「61cm四連装(酸素)魚雷」「九三式水中聴音機」各三つを準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。",
+  "reward_fuel": 0,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "後期型艦首魚雷(6門)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    619,
+    846
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "equipments": [
+      {
+        "name": "61cm四連装(酸素)魚雷",
+        "amount": 3
+      },
+      {
+        "name": "九三式水中聴音機",
+        "amount": 3
+      }
+    ],
+    "scraps": [
+      {
+        "name": "61cm三連装魚雷",
+        "amount": 4
+      }
+    ],
+    "consumptions": [
+      {
+        "name": "開発資材",
+        "amount": 120
+      }
+    ]
+  }
+}

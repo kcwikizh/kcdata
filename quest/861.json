@@ -1,0 +1,40 @@
+{
+  "game_id": 861,
+  "wiki_id": "Bq03",
+  "category": 2,
+  "type": 7,
+  "name": "強行輸送艦隊、抜錨！",
+  "detail": "航路護衛任務：航空戦艦(または補給艦でも可)2隻を中核とした艦隊で、鎮守府近海航路における<br>輸送船団護衛作戦を実施。同輸送護衛作戦を2回成功させよ！",
+  "reward_fuel": 1000,
+  "reward_ammo": 400,
+  "reward_steel": 400,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 4
+    },
+    {
+      "name": "洋上補給",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    217
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 2,
+    "map": "1-6",
+    "groups": [
+      {
+        "ship": [
+          "航空戦艦",
+          "補給艦"
+        ],
+        "amount": 2
+      }
+    ],
+    "result": "クリア"
+  }
+}

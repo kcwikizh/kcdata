@@ -1,0 +1,34 @@
+{
+  "game_id": 103,
+  "wiki_id": "A03",
+  "category": 1,
+  "type": 1,
+  "name": "「水雷戦隊」を編成せよ！",
+  "detail": "軽巡洋艦を旗艦とし、数隻の駆逐艦で構成される「水雷戦隊」を編成せよ！",
+  "reward_fuel": 40,
+  "reward_ammo": 40,
+  "reward_steel": 0,
+  "reward_bauxite": 40,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    102
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "軽巡",
+        "flagship": true
+      },
+      {
+        "ship": "駆逐",
+        "amount": 3
+      }
+    ]
+  }
+}

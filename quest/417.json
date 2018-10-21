@@ -1,0 +1,35 @@
+{
+  "game_id": 417,
+  "wiki_id": "D16",
+  "category": 4,
+  "type": 1,
+  "name": "囮機動部隊支援作戦を実施せよ！",
+  "detail": "「囮機動部隊支援作戦」を実施し、これを成功させよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "91式高射装置",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    272
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 15
+      }
+    ]
+  }
+}

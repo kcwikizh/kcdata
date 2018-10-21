@@ -1,0 +1,32 @@
+{
+  "game_id": 242,
+  "wiki_id": "Bw08",
+  "category": 2,
+  "type": 3,
+  "name": "敵東方中枢艦隊を撃破せよ！",
+  "detail": "西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 0,
+  "reward_steel": 500,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    229
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "4-4",
+    "boss": true,
+    "result": "B",
+    "times": 1
+  }
+}

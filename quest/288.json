@@ -1,0 +1,46 @@
+{
+  "game_id": 288,
+  "wiki_id": "B51",
+  "category": 2,
+  "type": 1,
+  "name": "新編「第二一戦隊」北方へ出撃せよ！",
+  "detail": "新編「第二一戦隊」を基幹とする艦隊で北方海域モーレイ海に出撃、敵を撃滅せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "プレゼント箱",
+      "amount": 1
+    },
+    {
+      "name": "戦闘糧食",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    162
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-1",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "那智改二"
+      },
+      {
+        "ship": "足柄改二"
+      },
+      {
+        "ship": "多摩"
+      },
+      {
+        "ship": "木曾"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "game_id": 847,
+  "wiki_id": "SB22",
+  "category": 2,
+  "type": 1,
+  "name": "春の準備任務：桃の節句準備を完遂せよ！",
+  "detail": "春の準備任務：艦隊を東部オリョール海に反復出撃、同方面敵艦隊を覆滅し、<br>同海域周辺の制海権を完全に確保、桃の節句を迎える準備を完遂せよ！",
+  "reward_fuel": 330,
+  "reward_ammo": 330,
+  "reward_steel": 0,
+  "reward_bauxite": 330,
+  "reward_other": [
+    {
+      "name": "菱餅",
+      "amount": 3
+    },
+    {
+      "name": "補強増設",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    657
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-3",
+    "boss": true,
+    "result": "S",
+    "times": 5
+  }
+}

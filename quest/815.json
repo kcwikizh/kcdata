@@ -1,0 +1,46 @@
+{
+  "game_id": 815,
+  "wiki_id": "B69",
+  "category": 2,
+  "type": 1,
+  "name": "「第一航空戦隊」西へ！",
+  "detail": "旗艦「赤城」同僚艦「加賀」を中核とする艦隊で、深海東洋艦隊漸減作戦を貫徹せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 800,
+  "reward_steel": 0,
+  "reward_bauxite": 800,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "name": "熟練搭乗員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    636,
+    814
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "4-5",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "赤城",
+        "flagship": true
+      },
+      {
+        "ship": "加賀"
+      },
+      {
+        "ship": "艦",
+        "amount": 4
+      }
+    ]
+  }
+}

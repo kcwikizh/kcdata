@@ -1,0 +1,46 @@
+{
+  "game_id": 287,
+  "wiki_id": "B50",
+  "category": 2,
+  "type": 1,
+  "name": "「第五航空戦隊」珊瑚諸島沖に出撃せよ！",
+  "detail": "再編成した「第五航空戦隊」を珊瑚諸島沖に展開、敵機動部隊を捕捉撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 500,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    161
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "5-2",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "翔鶴"
+      },
+      {
+        "ship": "瑞鶴"
+      },
+      {
+        "ship": "朧"
+      },
+      {
+        "ship": "秋雲"
+      }
+    ]
+  }
+}

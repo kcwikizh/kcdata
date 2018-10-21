@@ -1,0 +1,46 @@
+{
+  "game_id": 826,
+  "wiki_id": "B78",
+  "category": 2,
+  "type": 1,
+  "name": "「第十九駆逐隊」出撃せよ！",
+  "detail": "特型駆逐艦4隻による「第十九駆逐隊」を鎮守府近海に展開！<br>鎮守府正面対潜哨戒を実施し、跳梁する敵潜部隊の制圧に努めよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 300,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    177
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-5",
+    "boss": true,
+    "result": "A",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "磯波"
+      },
+      {
+        "ship": "浦波"
+      },
+      {
+        "ship": "綾波"
+      },
+      {
+        "ship": "敷波"
+      }
+    ]
+  }
+}

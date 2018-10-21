@@ -1,0 +1,31 @@
+{
+  "game_id": 309,
+  "wiki_id": "C07",
+  "category": 3,
+  "type": 1,
+  "name": "北方再突入に備え、練度向上に努めよ！",
+  "detail": "艦隊再突入に備え、艦隊練度向上を図る！本日中に「演習」で4回以上「勝利」せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "改修資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    278
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 4,
+    "victory": true,
+    "daily": true
+  }
+}

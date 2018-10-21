@@ -1,0 +1,37 @@
+{
+  "game_id": 139,
+  "wiki_id": "A37",
+  "category": 1,
+  "type": 1,
+  "name": "潜水艦隊「第六艦隊」を編成せよ！",
+  "detail": "「潜水母艦」と複数の潜水艦(4隻以上)からなる潜水艦隊「第六艦隊」を編成せよ！",
+  "reward_fuel": 250,
+  "reward_ammo": 250,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    127
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "潜水母艦",
+        "flagship": true
+      },
+      {
+        "ship": [
+          "潜水艦",
+          "潜水空母"
+        ],
+        "amount": 4
+      }
+    ]
+  }
+}

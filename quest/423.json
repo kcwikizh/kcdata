@@ -1,0 +1,45 @@
+{
+  "game_id": 423,
+  "wiki_id": "D21",
+  "category": 4,
+  "type": 1,
+  "name": "潜水艦派遣作戦による噴式技術の入手",
+  "detail": "鉄鋼5,000及びボーキサイト1,500を準備して、潜水艦派遣作戦により<br>噴式エンジン技術の導入に努めよ！※任務達成後、準備した資源は消費します。",
+  "reward_fuel": 100,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "ネ式エンジン",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    422,
+    839
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 30
+      },
+      {
+        "times": 1,
+        "id": 31
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      5000,
+      1500
+    ]
+  }
+}

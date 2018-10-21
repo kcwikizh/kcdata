@@ -1,0 +1,79 @@
+{
+  "game_id": 850,
+  "wiki_id": "B94",
+  "category": 2,
+  "type": 1,
+  "name": "洋上航空戦力を拡充せよ！",
+  "detail": "航空母艦、または水上機母艦を旗艦とした有力な艦隊を編成、北方AL海域、<br>西方海域カスガダマ沖 、中部海域MS諸島沖に展開し、各海域の敵艦隊を撃滅せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 500,
+  "reward_steel": 0,
+  "reward_bauxite": 1000,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 5
+    },
+    {
+      "name": "熟練搭乗員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    846,
+    849
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "3-5",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": [
+              "空母",
+              "水母"
+            ],
+            "flagship": true
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "4-4",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": [
+              "空母",
+              "水母"
+            ],
+            "flagship": true
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "6-2",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": [
+              "空母",
+              "水母"
+            ],
+            "flagship": true
+          }
+        ]
+      }
+    ]
+  }
+}

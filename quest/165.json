@@ -1,0 +1,37 @@
+{
+  "game_id": 165,
+  "wiki_id": "A60",
+  "category": 1,
+  "type": 1,
+  "name": "「第四航空戦隊」を編成せよ！",
+  "detail": "航空戦艦「伊勢改」及び「日向改」を基幹戦力とした第四航空戦隊を編成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 2
+    },
+    {
+      "name": "瑞雲(六三四空)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    293
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "伊勢改"
+      },
+      {
+        "ship": "日向改"
+      }
+    ]
+  }
+}

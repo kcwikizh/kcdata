@@ -1,0 +1,27 @@
+{
+  "game_id": 611,
+  "wiki_id": "WF01",
+  "category": 6,
+  "type": 1,
+  "name": "式の準備！(その壱)",
+  "detail": "式の準備をします！「工廠」で装備アイテムを2回「廃棄」して身の回りの整理を！",
+  "reward_fuel": 88,
+  "reward_ammo": 88,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    118
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapequipment",
+    "times": 2,
+    "batch": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "game_id": 304,
+  "wiki_id": "C03",
+  "category": 3,
+  "type": 2,
+  "name": "「演習」で他提督を圧倒せよ！",
+  "detail": "本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！",
+  "reward_fuel": 0,
+  "reward_ammo": 50,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    303
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 5,
+    "victory": true
+  }
+}

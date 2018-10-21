@@ -1,0 +1,42 @@
+{
+  "game_id": 647,
+  "wiki_id": "F43",
+  "category": 6,
+  "type": 1,
+  "name": "中部海域「基地航空隊」展開！",
+  "detail": "「ドラム缶(輸送用)」二つを廃棄、燃料1200及びボーキサイト3000、さらに「設営隊」一つを準備せよ！<br>※任務達成後、用意した資源及び「設営隊」は消滅します。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "中部海域「基地航空隊」開放"
+    }
+  ],
+  "prerequisite": [
+    642,
+    809
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "ドラム缶(輸送用)",
+        "amount": 2
+      }
+    ],
+    "resources": [
+      1200,
+      0,
+      0,
+      3000
+    ],
+    "consumptions": [
+      {
+        "name": "設営隊",
+        "amount": 1
+      }
+    ]
+  }
+}

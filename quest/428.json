@@ -1,0 +1,44 @@
+{
+  "game_id": 428,
+  "wiki_id": "D26",
+  "category": 4,
+  "type": 7,
+  "name": "近海に侵入する敵潜を制圧せよ！",
+  "detail": "敵潜制圧任務：遠征任務「対潜警戒任務」「海峡警備行動」「長時間対潜警戒」を<br>それぞれ複数回実施し、近海に潜り込む敵潜部隊を制圧、我が領海から叩き出せ！",
+  "reward_fuel": 0,
+  "reward_ammo": 1000,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "name": "九五式爆雷",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    426,
+    427
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 2,
+        "id": 4
+      },
+      {
+        "times": 2,
+        "id": "A2"
+      },
+      {
+        "times": 2,
+        "id": "A3"
+      }
+    ]
+  }
+}

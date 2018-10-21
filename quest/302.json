@@ -1,0 +1,30 @@
+{
+  "game_id": 302,
+  "wiki_id": "C04",
+  "category": 3,
+  "type": 3,
+  "name": "大規模演習",
+  "detail": "今週中に「演習」で他の提督の艦隊に対して20回「勝利」しよう！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 200,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "改修資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    303
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 20,
+    "victory": true
+  }
+}

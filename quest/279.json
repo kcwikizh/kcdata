@@ -1,0 +1,54 @@
+{
+  "game_id": 279,
+  "wiki_id": "B47",
+  "category": 2,
+  "type": 1,
+  "name": "「第一水雷戦隊」北方ケ号作戦、再突入！",
+  "detail": "北方再突入準備の新編「一水戦」で北方キス島に再突入を敢行、同撤収作戦を完遂せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 400,
+  "reward_steel": 0,
+  "reward_bauxite": 500,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 4
+    },
+    {
+      "name": "改修資材",
+      "amount": 4
+    }
+  ],
+  "prerequisite": [
+    157,
+    309
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-2",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "阿武隈改二",
+        "flagship": true
+      },
+      {
+        "ship": "響"
+      },
+      {
+        "ship": "夕雲"
+      },
+      {
+        "ship": "長波"
+      },
+      {
+        "ship": "秋雲"
+      },
+      {
+        "ship": "島風"
+      }
+    ]
+  }
+}

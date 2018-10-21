@@ -1,0 +1,48 @@
+{
+  "game_id": 274,
+  "wiki_id": "B42",
+  "category": 2,
+  "type": 1,
+  "name": "「第六駆逐隊」対潜哨戒なのです！",
+  "detail": "「第六駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 200,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    },
+    {
+      "name": "九三式水中聴音機",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    120
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-5",
+    "boss": true,
+    "result": "C",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "暁"
+      },
+      {
+        "ship": "響"
+      },
+      {
+        "ship": "雷"
+      },
+      {
+        "ship": "電"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

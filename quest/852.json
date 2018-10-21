@@ -1,0 +1,58 @@
+{
+  "game_id": 852,
+  "wiki_id": "B96",
+  "category": 2,
+  "type": 1,
+  "name": "改装攻撃型軽空母、前線展開せよ！",
+  "detail": "改装航空母艦「鈴谷航改二」を旗艦とした精強な機動部隊を編成、同艦隊を中部海域に進出。<br>MS諸島沖、KW環礁沖海域に展開し、同海域の敵機動部隊を捕捉、これを撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 1000,
+  "reward_steel": 0,
+  "reward_bauxite": 1000,
+  "reward_other": [
+    {
+      "name": "零式艦戦63型(爆戦)",
+      "category": "装備",
+      "amount": 1
+    },
+    {
+      "name": "8cm高角砲改+増設機銃",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    851
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "6-2",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "鈴谷航改二",
+            "flagship": true
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "6-5",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "鈴谷航改二",
+            "flagship": true
+          }
+        ]
+      }
+    ]
+  }
+}

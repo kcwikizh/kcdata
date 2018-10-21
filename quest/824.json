@@ -1,0 +1,46 @@
+{
+  "game_id": 824,
+  "wiki_id": "B76",
+  "category": 2,
+  "type": 1,
+  "name": "製油所地帯沿岸の哨戒を実施せよ！",
+  "detail": "軽空母旗艦と駆逐艦3隻を基幹とした護衛艦隊を編成、<br>製油所地帯沿岸に展開し、同海域の哨戒を実施、同海域の安全を確保せよ！",
+  "reward_fuel": 600,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "家具箱（中）",
+      "amount": 1
+    },
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    209
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-3",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "軽母",
+        "flagship": true
+      },
+      {
+        "ship": "駆逐",
+        "amount": 3
+      },
+      {
+        "ship": "艦",
+        "amount": 2
+      }
+    ]
+  }
+}

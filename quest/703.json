@@ -1,0 +1,30 @@
+{
+  "game_id": 703,
+  "wiki_id": "G03",
+  "category": 7,
+  "type": 3,
+  "name": "「近代化改修」を進め、戦備を整えよ！",
+  "detail": "一週間の間に、近代化改修を１5回成功させよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 300,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    702
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "modernization",
+    "times": 15
+  }
+}

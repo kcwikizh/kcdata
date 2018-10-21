@@ -1,0 +1,43 @@
+{
+  "game_id": 812,
+  "wiki_id": "B65",
+  "category": 2,
+  "type": 1,
+  "name": "オリョール海の制海権を確保せよ！",
+  "detail": "大潮を旗艦とする艦隊を東部オリョール海に反復出撃、同方面敵艦隊を完全撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 400,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "勲章",
+      "amount": 1
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    239,
+    811
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-3",
+    "boss": true,
+    "result": "S",
+    "times": 6,
+    "groups": [
+      {
+        "ship": "大潮",
+        "flagship": true
+      },
+      {
+        "ship": "艦",
+        "amount": 5
+      }
+    ]
+  }
+}

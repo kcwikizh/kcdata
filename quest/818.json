@@ -1,0 +1,45 @@
+{
+  "game_id": 818,
+  "wiki_id": "B71",
+  "category": 2,
+  "type": 1,
+  "name": "鎮守府近海航路の安全確保を強化せよ！",
+  "detail": "水雷戦隊を含む新編艦隊を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 900,
+  "reward_steel": 900,
+  "reward_bauxite": 900,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 4
+    },
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    817
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-6",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "軽巡",
+        "flagship": true
+      },
+      {
+        "ship": "駆逐",
+        "amount": 4
+      },
+      {
+        "ship": "艦",
+        "amount": 1
+      }
+    ],
+    "result": "クリア"
+  }
+}

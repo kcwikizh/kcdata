@@ -1,0 +1,32 @@
+{
+  "game_id": 140,
+  "wiki_id": "A38",
+  "category": 1,
+  "type": 1,
+  "name": "新型電探を配備せよ！",
+  "detail": "新型電探運用試験のため、第一艦隊の旗艦に「妙高改二」を配備せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "22号対水上電探改四",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    137
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "妙高改二",
+        "flagship": true
+      }
+    ],
+    "fleetid": 1
+  }
+}

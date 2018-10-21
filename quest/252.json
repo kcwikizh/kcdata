@@ -1,0 +1,34 @@
+{
+  "game_id": 252,
+  "wiki_id": "B27",
+  "category": 2,
+  "type": 1,
+  "name": "戦艦「榛名」出撃せよ！",
+  "detail": "第二次改装実施した「榛名」を基幹とした艦隊で「南方海域」へ進出、敵艦隊主力を撃滅せよ！",
+  "reward_fuel": 100,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "試製35.6cm三連装砲",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    248
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "5-1",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "榛名改二"
+      }
+    ]
+  }
+}

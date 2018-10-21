@@ -1,0 +1,30 @@
+{
+  "game_id": 105,
+  "wiki_id": "A05",
+  "category": 1,
+  "type": 1,
+  "name": "軽巡２隻を擁する隊を編成せよ！",
+  "detail": "軽巡洋艦２隻を擁する高速艦隊を編成せよ！",
+  "reward_fuel": 60,
+  "reward_ammo": 60,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    103
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "軽巡",
+        "amount": 2
+      }
+    ]
+  }
+}

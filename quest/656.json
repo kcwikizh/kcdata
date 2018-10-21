@@ -1,0 +1,43 @@
+{
+  "game_id": 656,
+  "wiki_id": "F49",
+  "category": 6,
+  "type": 1,
+  "name": "六三一空「晴嵐」隊の編成",
+  "detail": "秘書艦に「伊401」または「伊14」または「伊13」を配備。「晴嵐」を一番スロットに搭載。「瑞雲(六三一空)」を二番スロットに搭載。「晴嵐(六三一空)」を新編せよ！　※任務達成後瑞雲は消滅します。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "晴嵐(六三一空)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    828,
+    846
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "slots": [
+      {
+        "slot": 1,
+        "equipment": "試製晴嵐",
+        "convert": true
+      },
+      {
+        "slot": 2,
+        "equipment": "瑞雲(六三一空)",
+        "convert": true
+      }
+    ],
+    "secretary": [
+      "伊401",
+      "伊14",
+      "伊13"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "game_id": 116,
+  "wiki_id": "A09",
+  "category": 1,
+  "type": 1,
+  "name": "「水上機母艦」を配備せよ！",
+  "detail": "多数の水上偵察機を運用する「水上機母艦」を艦隊に配備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    104
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "水母",
+        "amount": 1
+      }
+    ]
+  }
+}

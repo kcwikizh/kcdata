@@ -1,0 +1,41 @@
+{
+  "game_id": 141,
+  "wiki_id": "A39",
+  "category": 1,
+  "type": 1,
+  "name": "再編成「第二航空戦隊」を強化せよ！",
+  "detail": "「蒼龍改二」(※旗艦)及び「飛龍改二」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 450,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    250
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "蒼龍改二",
+        "flagship": true
+      },
+      {
+        "ship": "飛龍改二"
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

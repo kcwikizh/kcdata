@@ -1,0 +1,31 @@
+{
+  "game_id": 207,
+  "wiki_id": "B07",
+  "category": 2,
+  "type": 1,
+  "name": "「重巡洋艦」を出撃させよ！",
+  "detail": "重巡洋艦を旗艦とした艦隊を編成、これを出撃させよ！",
+  "reward_fuel": 70,
+  "reward_ammo": 0,
+  "reward_steel": 70,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    206
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "重巡",
+        "flagship": true
+      }
+    ]
+  }
+}

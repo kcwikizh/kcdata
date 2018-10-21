@@ -1,0 +1,48 @@
+{
+  "game_id": 266,
+  "wiki_id": "Bm07",
+  "category": 2,
+  "type": 6,
+  "name": "「水上反撃部隊」突入せよ！",
+  "detail": "駆逐艦を旗艦とした重巡1隻軽巡1隻駆逐艦4隻からなる水上挺身部隊、沖ノ島沖に突入せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 600,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 4
+    },
+    {
+      "name": "改修資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    148,
+    264
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-5",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "駆逐",
+        "flagship": true,
+        "amount": 4
+      },
+      {
+        "ship": "重巡",
+        "amount": 1
+      },
+      {
+        "ship": "軽巡",
+        "amount": 1
+      }
+    ]
+  }
+}

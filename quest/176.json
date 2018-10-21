@@ -1,0 +1,36 @@
+{
+  "game_id": 176,
+  "wiki_id": "A71",
+  "category": 1,
+  "type": 1,
+  "name": "精鋭！八駆第一小隊！",
+  "detail": "「朝潮改二丁」及び「大潮改二」を含む艦隊を編成せよ！",
+  "reward_fuel": 250,
+  "reward_ammo": 250,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    819
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "朝潮改二丁"
+      },
+      {
+        "ship": "大潮改二"
+      }
+    ]
+  }
+}

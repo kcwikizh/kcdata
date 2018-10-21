@@ -1,0 +1,29 @@
+{
+  "game_id": 315,
+  "wiki_id": "C19",
+  "category": 3,
+  "type": 1,
+  "name": "春季大演習",
+  "detail": "春季大演習：春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 1000,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    },
+    {
+      "name": "プレゼント箱",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "excercise",
+    "times": 8,
+    "victory": true,
+    "daily": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "game_id": 253,
+  "wiki_id": "B28",
+  "category": 2,
+  "type": 1,
+  "name": "「第六〇一航空隊」出撃せよ！",
+  "detail": "雲龍型航空母艦「雲龍改」含む機動部隊で珊瑚島沖に出撃、敵機動部隊を撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "家具箱（大）",
+      "amount": 1
+    },
+    {
+      "name": "熟練艦載機整備員",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    143
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "5-2",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "雲龍改"
+      }
+    ]
+  }
+}

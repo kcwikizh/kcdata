@@ -1,0 +1,41 @@
+{
+  "game_id": 821,
+  "wiki_id": "B74",
+  "category": 2,
+  "type": 1,
+  "name": "精鋭「八駆第一小隊」対潜哨戒！",
+  "detail": "「第八駆逐隊第一小隊」を含む艦隊で鎮守府正面対潜哨戒を反復実施！敵潜を圧倒せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 800,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 4
+    },
+    {
+      "name": "四式水中聴音機",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    176
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-5",
+    "boss": true,
+    "result": "S",
+    "times": 2,
+    "groups": [
+      {
+        "ship": "朝潮改二丁"
+      },
+      {
+        "ship": "大潮改二"
+      }
+    ]
+  }
+}

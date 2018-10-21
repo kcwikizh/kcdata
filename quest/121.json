@@ -1,0 +1,42 @@
+{
+  "game_id": 121,
+  "wiki_id": "A21",
+  "category": 1,
+  "type": 1,
+  "name": "「第四戦隊」を編成せよ！",
+  "detail": "「愛宕」「高雄」「鳥海」「摩耶」を基幹とした第四戦隊を編成せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 150,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    119
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "愛宕"
+      },
+      {
+        "ship": "高雄"
+      },
+      {
+        "ship": "鳥海"
+      },
+      {
+        "ship": "摩耶"
+      }
+    ]
+  }
+}

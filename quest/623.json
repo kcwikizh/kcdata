@@ -1,0 +1,35 @@
+{
+  "game_id": 623,
+  "wiki_id": "F20",
+  "category": 6,
+  "type": 1,
+  "name": "精鋭「九七式艦攻」部隊の編成",
+  "detail": "「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "九七式艦攻(村田隊)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    287
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "secretary": [
+      "赤城",
+      "翔鶴"
+    ],
+    "scraps": [
+      {
+        "name": "九七式艦攻",
+        "amount": 3
+      }
+    ]
+  }
+}

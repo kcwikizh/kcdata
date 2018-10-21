@@ -1,0 +1,40 @@
+{
+  "game_id": 674,
+  "wiki_id": "F66",
+  "category": 6,
+  "type": 2,
+  "name": "工廠環境の整備",
+  "detail": "工廠整備任務：工廠環境の重整備を実施する。「機銃」系装備x3を廃棄、鋼材300を準備せよ！<br>※任務達成後、準備した資源は消費します。",
+  "reward_fuel": 0,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    673
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "対空機銃",
+        "amount": 3
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      300,
+      0
+    ]
+  }
+}

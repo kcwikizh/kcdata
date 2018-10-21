@@ -1,0 +1,36 @@
+{
+  "game_id": 123,
+  "wiki_id": "A23",
+  "category": 1,
+  "type": 1,
+  "name": "「第五航空戦隊」を編成せよ！",
+  "detail": "「翔鶴」「瑞鶴」を基幹とし、駆逐艦2隻を加えた第五航空戦隊を編成せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    122
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "翔鶴"
+      },
+      {
+        "ship": "瑞鶴"
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "game_id": 645,
+  "wiki_id": "F41",
+  "category": 6,
+  "type": 6,
+  "name": "「洋上補給」物資の調達",
+  "detail": "「三式弾」一つを廃棄し、燃料750及び弾薬750と「ドラム缶(輸送用)」二つと「九一式徹甲弾」一つを<br>用意せよ！※任務達成後、用意した資源及び必要装備(徹甲弾は改修値の低いもの優先)は消滅します。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "洋上補給",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    228,
+    294
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "equipments": [
+      {
+        "name": "ドラム缶(輸送用)",
+        "amount": 2
+      },
+      {
+        "name": "九一式徹甲弾",
+        "amount": 1
+      }
+    ],
+    "scraps": [
+      {
+        "name": "三式弾",
+        "amount": 1
+      }
+    ],
+    "resources": [
+      750,
+      750,
+      0,
+      0
+    ]
+  }
+}

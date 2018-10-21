@@ -1,0 +1,29 @@
+{
+  "game_id": 828,
+  "wiki_id": "B80",
+  "category": 2,
+  "type": 1,
+  "name": "飛行場設営の準備を実施せよ！",
+  "detail": "中部海域における航空偵察「K作戦」を再度実施、さらに同方面に遊弋する敵艦隊を撃滅し、<br>中部海域における飛行場設営の準備を実施せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "設営隊",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    273,
+    809
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "6-3",
+    "boss": true,
+    "result": "S",
+    "times": 1
+  }
+}

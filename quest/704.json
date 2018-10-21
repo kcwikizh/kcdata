@@ -1,0 +1,26 @@
+{
+  "game_id": 704,
+  "wiki_id": "G04",
+  "category": 7,
+  "type": 1,
+  "name": "「大型艦建造」の準備！(その壱)",
+  "detail": "大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 400,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    109
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "modernization",
+    "times": 4
+  }
+}

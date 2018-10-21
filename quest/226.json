@@ -1,0 +1,32 @@
+{
+  "game_id": 226,
+  "wiki_id": "Bd07",
+  "category": 2,
+  "type": 2,
+  "name": "南西諸島海域の制海権を握れ！",
+  "detail": "艦隊を南西諸島海域に全力出撃させ、多数の敵艦隊「主力」群を捕捉、撃滅せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    },
+    {
+      "name": "高速建造材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    218
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-1 ~ 2-5",
+    "boss": true,
+    "result": "B",
+    "times": 5
+  }
+}

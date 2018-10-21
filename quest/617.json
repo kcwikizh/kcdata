@@ -1,0 +1,27 @@
+{
+  "game_id": 617,
+  "wiki_id": "F16",
+  "category": 6,
+  "type": 1,
+  "name": "「伊良湖」の準備",
+  "detail": "「工廠」で不要な装備アイテムをいくつか「廃棄」して、新型給糧艦召喚の準備をしましょう！",
+  "reward_fuel": 100,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 4
+    }
+  ],
+  "prerequisite": [
+    608
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapequipment",
+    "times": 10,
+    "batch": false
+  }
+}

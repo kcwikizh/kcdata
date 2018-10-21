@@ -1,0 +1,40 @@
+{
+  "game_id": 626,
+  "wiki_id": "F22",
+  "category": 6,
+  "type": 6,
+  "name": "精鋭「艦戦」隊の新編成",
+  "detail": "要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "零式艦戦21型(熟練)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    114,
+    264
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "equipment": "零式艦戦21型",
+    "secretary": "鳳翔",
+    "scraps": [
+      {
+        "name": "零式艦戦21型",
+        "amount": 2
+      },
+      {
+        "name": "九六式艦戦",
+        "amount": 1
+      }
+    ],
+    "fullyskilled": true,
+    "use_skilled_crew": true
+  }
+}

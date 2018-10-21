@@ -1,0 +1,31 @@
+{
+  "game_id": 409,
+  "wiki_id": "D08",
+  "category": 4,
+  "type": 1,
+  "name": "潜水艦派遣による海外艦との接触作戦",
+  "detail": "有力な潜水艦隊派遣による海外艦との接触作戦を成功させよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "Z1",
+      "category": "艦娘",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    408
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 31
+      }
+    ]
+  }
+}

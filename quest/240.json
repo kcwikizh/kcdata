@@ -1,0 +1,46 @@
+{
+  "game_id": 240,
+  "wiki_id": "B21",
+  "category": 2,
+  "type": 1,
+  "name": "「第十八駆逐隊」出撃せよ！",
+  "detail": "編成した「第十八駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "家具箱（大）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    132
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-1",
+    "boss": true,
+    "result": "B",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "霞"
+      },
+      {
+        "ship": "霰"
+      },
+      {
+        "ship": "陽炎"
+      },
+      {
+        "ship": "不知火"
+      }
+    ]
+  }
+}

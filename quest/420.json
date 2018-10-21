@@ -1,0 +1,39 @@
+{
+  "game_id": 420,
+  "wiki_id": "D19",
+  "category": 4,
+  "type": 1,
+  "name": "機動部隊の運用を強化せよ！",
+  "detail": "機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 400,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 2
+    },
+    {
+      "name": "家具箱（大）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    287,
+    410
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 26
+      },
+      {
+        "times": 1,
+        "id": 35
+      }
+    ]
+  }
+}

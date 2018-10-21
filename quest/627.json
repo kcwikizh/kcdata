@@ -1,0 +1,32 @@
+{
+  "game_id": 627,
+  "wiki_id": "F24",
+  "category": 6,
+  "type": 1,
+  "name": "機種転換",
+  "detail": "「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "零式艦戦52型(熟練)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    626
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "equipment": "零式艦戦21型(熟練)",
+    "scraps": [
+      {
+        "name": "零式艦戦52型",
+        "amount": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "game_id": 859,
+  "wiki_id": "B102",
+  "category": 2,
+  "type": 1,
+  "name": "精鋭「第四航空戦隊」、抜錨せよ！",
+  "detail": "精鋭「第四航空戦隊」出撃任務：精鋭航空戦艦を主戦力に再編された「第四航空戦隊」、抜錨せよ！<br>沖ノ島沖戦闘哨戒及び北方AL海域戦闘哨戒を実施、同方面の敵艦隊主力を捕捉、これを撃破せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 0,
+  "reward_steel": 500,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "勲章",
+          "amount": 1
+        },
+        {
+          "name": "熟練搭乗員",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "改修資材",
+      "amount": 4
+    }
+  ],
+  "prerequisite": [
+    182
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "2-5",
+      "3-5"
+    ],
+    "boss": true,
+    "result": "A",
+    "groups": [
+      {
+        "ship": [
+          "伊勢改",
+          "日向改"
+        ],
+        "flagship": true,
+        "lv": [
+          50,
+          999
+        ]
+      },
+      {
+        "ship": [
+          "伊勢改",
+          "日向改"
+        ],
+        "place": 2,
+        "lv": [
+          50,
+          999
+        ]
+      },
+      {
+        "ship": "軽巡",
+        "amount": 1
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

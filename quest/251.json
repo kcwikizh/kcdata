@@ -1,0 +1,41 @@
+{
+  "game_id": 251,
+  "wiki_id": "B26",
+  "category": 2,
+  "type": 1,
+  "name": "精鋭「第二航空戦隊」抜錨せよ！",
+  "detail": "錬成を終え再編成「二航戦」を基幹とした艦隊で、敵リランカ島を空襲、破砕せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 0,
+  "reward_steel": 500,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    141
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "4-3",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "蒼龍改二",
+        "flagship": true
+      },
+      {
+        "ship": "飛龍改二"
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

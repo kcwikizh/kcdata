@@ -1,0 +1,34 @@
+{
+  "game_id": 422,
+  "wiki_id": "D20",
+  "category": 4,
+  "type": 1,
+  "name": "潜水艦派遣作戦による航空機技術入手",
+  "detail": "潜水艦派遣作戦により、新型航空機技術の導入に努めよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "新型航空機設計図",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    406
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 30
+      },
+      {
+        "times": 1,
+        "id": 31
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "game_id": 297,
+  "wiki_id": "B57",
+  "category": 2,
+  "type": 1,
+  "name": "「礼号作戦」実施せよ！",
+  "detail": "精強な「水上反撃部隊」で、南西諸島沖ノ島沖に突入！同海域の敵戦力を撃滅せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 700,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "name": "プレゼント箱",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    170,
+    265
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-5",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "霞",
+        "flagship": true
+      },
+      {
+        "ship": "足柄"
+      },
+      {
+        "ship": "大淀"
+      },
+      {
+        "ship": "朝霜"
+      },
+      {
+        "ship": "清霜"
+      },
+      {
+        "ship": "艦",
+        "amount": 1
+      }
+    ]
+  }
+}

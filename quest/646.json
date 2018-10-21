@@ -1,0 +1,48 @@
+{
+  "game_id": 646,
+  "wiki_id": "F42",
+  "category": 6,
+  "type": 1,
+  "name": "「特注家具」の調達",
+  "detail": "「25mm単装機銃」一つを廃棄、家具コイン5,000と「25mm連装機銃」及び「25mm三連装機銃」を各<br>二つ準備せよ！　※任務達成後、用意した家具コイン及び必要装備(改修値の低いもの優先)は消滅します。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    110,
+    302,
+    604
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "equipments": [
+      {
+        "name": "25mm連装機銃",
+        "amount": 2
+      },
+      {
+        "name": "25mm三連装機銃",
+        "amount": 2
+      }
+    ],
+    "scraps": [
+      {
+        "name": "25mm単装機銃",
+        "amount": 1
+      }
+    ],
+    "consumptions": [
+      {
+        "name": "家具コイン",
+        "amount": 5000
+      }
+    ]
+  }
+}

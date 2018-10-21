@@ -1,0 +1,49 @@
+{
+  "game_id": 157,
+  "wiki_id": "A55",
+  "category": 1,
+  "type": 1,
+  "name": "「第一水雷戦隊」北方再突入準備！",
+  "detail": "「阿武隈改二」を旗艦として「響」「夕雲」「長波」「秋雲」「島風」の一水戦を再編成せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    },
+    {
+      "name": "家具箱（中）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    309
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "阿武隈改二",
+        "flagship": true
+      },
+      {
+        "ship": "響"
+      },
+      {
+        "ship": "夕雲"
+      },
+      {
+        "ship": "長波"
+      },
+      {
+        "ship": "秋雲"
+      },
+      {
+        "ship": "島風"
+      }
+    ]
+  }
+}

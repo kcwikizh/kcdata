@@ -1,0 +1,39 @@
+{
+  "game_id": 175,
+  "wiki_id": "A70",
+  "category": 1,
+  "type": 1,
+  "name": "新編「第八駆逐隊」を再編成せよ！",
+  "detail": "「朝潮改二」を旗艦とした「満潮」「大潮」「荒潮」4隻による第八駆逐隊を再編成せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    239
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "朝潮改二",
+        "flagship": true
+      },
+      {
+        "ship": "大潮"
+      },
+      {
+        "ship": "満潮"
+      },
+      {
+        "ship": "荒潮"
+      }
+    ]
+  }
+}

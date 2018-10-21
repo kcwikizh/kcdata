@@ -1,0 +1,48 @@
+{
+  "game_id": 862,
+  "wiki_id": "Bq04",
+  "category": 2,
+  "type": 7,
+  "name": "前線の航空偵察を実施せよ！",
+  "detail": "偵察任務：水上機母艦1隻と軽巡2隻を中核とした偵察艦隊を、中部海域グアノ環礁沖海域に展開、<br>航空偵察作戦「K作戦」を反復実施せよ！さらに同方面の敵艦隊を捕捉、敵戦力の撃破に努めよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 800,
+  "reward_steel": 0,
+  "reward_bauxite": 1000,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 8
+    },
+    {
+      "name": "改修資材",
+      "amount": 4
+    }
+  ],
+  "prerequisite": [
+    846,
+    861
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 2,
+        "map": "6-3",
+        "boss": true,
+        "result": "A",
+        "groups": [
+          {
+            "ship": "水上機母艦",
+            "amount": 1
+          },
+          {
+            "ship": "軽巡洋艦",
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  }
+}

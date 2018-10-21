@@ -1,0 +1,30 @@
+{
+  "game_id": 228,
+  "wiki_id": "Bw05",
+  "category": 2,
+  "type": 3,
+  "name": "海上護衛戦",
+  "detail": "有力な対潜能力を持つ海上護衛隊によって、可能な限り多くの敵潜水艦を撃滅せよ！",
+  "reward_fuel": 600,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "改修資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    220
+  ],
+  "requirements": {
+    "category": "sink",
+    "amount": 15,
+    "ship": "敵潜水艦"
+  }
+}

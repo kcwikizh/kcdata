@@ -1,0 +1,43 @@
+{
+  "game_id": 264,
+  "wiki_id": "Bm06",
+  "category": 2,
+  "type": 6,
+  "name": "「空母機動部隊」西へ！",
+  "detail": "航空母艦2隻(随伴駆逐艦2隻)を基幹とする空母機動艦隊で、カレー洋の敵艦隊を撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 600,
+  "reward_bauxite": 800,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 2
+    },
+    {
+      "name": "家具箱（大）",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    221,
+    239
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "4-2",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "空母",
+        "amount": 2
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "game_id": 614,
+  "wiki_id": "F13",
+  "category": 6,
+  "type": 1,
+  "name": "機種転換",
+  "detail": "「九七式艦攻(友永隊)」搭載空母を秘書艦にした状態で新たに「天山」を2つ廃棄！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "天山一二型(友永隊)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    250
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "equipment": "九七式艦攻(友永隊)",
+    "scraps": [
+      {
+        "name": "天山",
+        "amount": 2
+      }
+    ]
+  }
+}

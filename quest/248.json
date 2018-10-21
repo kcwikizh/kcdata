@@ -1,0 +1,43 @@
+{
+  "game_id": 248,
+  "wiki_id": "B24",
+  "category": 2,
+  "type": 1,
+  "name": "「第三十駆逐隊」対潜哨戒！",
+  "detail": "「第三十駆逐隊(第二次)」は直ちに抜錨！鎮守府正面の対潜哨戒を実施せよ！",
+  "reward_fuel": 330,
+  "reward_ammo": 330,
+  "reward_steel": 330,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    136
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-5",
+    "boss": true,
+    "result": "C",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "睦月"
+      },
+      {
+        "ship": "弥生"
+      },
+      {
+        "ship": "卯月"
+      },
+      {
+        "ship": "望月"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

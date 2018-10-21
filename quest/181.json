@@ -1,0 +1,46 @@
+{
+  "game_id": 181,
+  "wiki_id": "A76",
+  "category": 1,
+  "type": 1,
+  "name": "新編「第七戦隊」を編成せよ！",
+  "detail": "編成任務：第一艦隊旗艦に新改装された改鈴谷型「熊野改二」、同二番艦に「鈴谷改二」、<br>僚艦に「最上改」「三隈改」を配した新編第七戦隊を配備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 700,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    303,
+    851
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "熊野改二",
+        "flagship": true
+      },
+      {
+        "ship": "鈴谷改二",
+        "place": 2
+      },
+      {
+        "ship": "最上改"
+      },
+      {
+        "ship": "三隈改"
+      }
+    ],
+    "fleetid": 1
+  }
+}

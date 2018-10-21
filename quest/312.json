@@ -1,0 +1,34 @@
+{
+  "game_id": 312,
+  "wiki_id": "C09",
+  "category": 3,
+  "type": 1,
+  "name": "上陸部隊演習",
+  "detail": "島嶼攻略部隊の練度向上のため、本日中に演習で4回以上「勝利」せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 200,
+  "reward_steel": 200,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "戦闘糧食",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    216,
+    613,
+    635
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 4,
+    "victory": true,
+    "daily": true
+  }
+}

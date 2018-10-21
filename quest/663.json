@@ -1,0 +1,48 @@
+{
+  "game_id": 663,
+  "wiki_id": "F55",
+  "category": 6,
+  "type": 7,
+  "name": "新型艤装の継続研究",
+  "detail": "工廠任務：新型艤装の開発を継続実施する。「大口径主砲」系装備x10を廃棄、鉄鋼18,000を準備せよ！<br>※任務達成後、準備した資源は消費します。「勲章」と「新型砲熕兵装資材」の獲得選択が可能です。",
+  "reward_fuel": 0,
+  "reward_ammo": 600,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "勲章",
+          "amount": 1
+        },
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "開発資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    425
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "大口径主砲",
+        "amount": 10
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      18000,
+      0
+    ]
+  }
+}

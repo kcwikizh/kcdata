@@ -1,0 +1,53 @@
+{
+  "game_id": 278,
+  "wiki_id": "B46",
+  "category": 2,
+  "type": 1,
+  "name": "「第一水雷戦隊」ケ号作戦、突入せよ！",
+  "detail": "北方突入準備を完了した「一水戦」で北方キス島に突入！包囲網を破り、友軍を救出せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    },
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    156
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-2",
+    "boss": true,
+    "result": "B",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "阿武隈",
+        "flagship": true
+      },
+      {
+        "ship": "響"
+      },
+      {
+        "ship": "初霜"
+      },
+      {
+        "ship": "若葉"
+      },
+      {
+        "ship": "五月雨"
+      },
+      {
+        "ship": "島風"
+      }
+    ]
+  }
+}

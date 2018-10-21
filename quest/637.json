@@ -1,0 +1,38 @@
+{
+  "game_id": 637,
+  "wiki_id": "F35",
+  "category": 6,
+  "type": 7,
+  "name": "「熟練搭乗員」養成",
+  "detail": "勲章x2消費：「鳳翔」秘書艦に練度max及び改修max「九六式艦戦」を搭載、熟練搭乗員を養成せよ！<br>(任務達成後、部隊は消滅します)",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 4
+    },
+    {
+      "name": "熟練搭乗員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    638
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "equipment": "九六式艦戦",
+    "secretary": "鳳翔",
+    "fullyskilled": true,
+    "maxmodified": true,
+    "consumptions": [
+      {
+        "name": "勲章",
+        "amount": 2
+      }
+    ]
+  }
+}

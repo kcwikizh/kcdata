@@ -1,0 +1,46 @@
+{
+  "game_id": 649,
+  "wiki_id": "F45",
+  "category": 6,
+  "type": 1,
+  "name": "新機軸偵察機の開発",
+  "detail": "新機軸の偵察機の調達を行う。「零式水上偵察機」を二つ「工廠」で廃棄し、<br>「一式陸攻」一つと「彩雲」二つを準備せよ！(任務達成後、用意した必要装備は消費します)",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "試製景雲(艦偵型)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    167,
+    647
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "equipments": [
+      {
+        "name": "一式陸攻",
+        "amount": 1
+      },
+      {
+        "name": "彩雲",
+        "amount": 2
+      }
+    ],
+    "scraps": [
+      {
+        "name": "零式水上偵察機",
+        "amount": 2
+      }
+    ]
+  }
+}

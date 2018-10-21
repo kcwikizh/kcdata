@@ -1,0 +1,38 @@
+{
+  "game_id": 144,
+  "wiki_id": "A42",
+  "category": 1,
+  "type": 1,
+  "name": "主力戦艦部隊「第二戦隊」を編成せよ！",
+  "detail": "長門型2隻及び扶桑型2隻の計4隻の主力戦艦からなる第二戦隊を編成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 250,
+  "reward_steel": 250,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    132
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "長門"
+      },
+      {
+        "ship": "陸奥"
+      },
+      {
+        "ship": "扶桑"
+      },
+      {
+        "ship": "山城"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "game_id": 410,
+  "wiki_id": "D09",
+  "category": 4,
+  "type": 3,
+  "name": "南方への輸送作戦を成功させよ！",
+  "detail": "激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "家具箱（小）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    130
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": [
+          37,
+          38
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "game_id": 644,
+  "wiki_id": "F40",
+  "category": 6,
+  "type": 1,
+  "name": "「一式陸攻」性能向上型の調達",
+  "detail": "「一式陸攻」性能向上型の配備を行う。「一式陸攻」一つと「天山」二つを準備せよ！<br>(任務達成後、用意した必要装備は消滅します/「一式陸攻」の熟練度は継承されます)",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "一式陸攻 二二型甲",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    313,
+    643
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "equipments": [
+      {
+        "name": "一式陸攻",
+        "amount": 1
+      },
+      {
+        "name": "天山",
+        "amount": 2
+      }
+    ]
+  }
+}

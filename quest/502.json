@@ -1,0 +1,26 @@
+{
+  "game_id": 502,
+  "wiki_id": "E02",
+  "category": 5,
+  "type": 1,
+  "name": "はじめての「入渠」！",
+  "detail": "戦闘で傷ついた艦を「入渠」させて修理して、次の出撃に備えよう！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 30,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    203
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "repair",
+    "times": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "game_id": 275,
+  "wiki_id": "B43",
+  "category": 2,
+  "type": 1,
+  "name": "抜錨！「第十八戦隊」",
+  "detail": "「天龍」「龍田」を基幹戦力とした「第十八戦隊」で出撃し、オリョール海の敵主力を撃滅せよ！",
+  "reward_fuel": 350,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 250,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    },
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    153
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-3",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "天龍"
+      },
+      {
+        "ship": "龍田"
+      }
+    ]
+  }
+}

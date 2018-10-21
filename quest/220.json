@@ -1,0 +1,26 @@
+{
+  "game_id": 220,
+  "wiki_id": "Bw02",
+  "category": 2,
+  "type": 3,
+  "name": "い号作戦",
+  "detail": "有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 500,
+  "reward_steel": 0,
+  "reward_bauxite": 500,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    218
+  ],
+  "requirements": {
+    "category": "sink",
+    "amount": 20,
+    "ship": "敵空母"
+  }
+}

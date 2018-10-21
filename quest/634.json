@@ -1,0 +1,27 @@
+{
+  "game_id": 634,
+  "wiki_id": "F31",
+  "category": 6,
+  "type": 1,
+  "name": "新家具の準備",
+  "detail": "「工廠」で装備アイテムを9つ「廃棄」して、新家具の準備をします。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 90,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    216
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapequipment",
+    "times": 9,
+    "batch": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "game_id": 810,
+  "wiki_id": "B63",
+  "category": 2,
+  "type": 1,
+  "name": "製油所地帯を防衛せよ！",
+  "detail": "水雷戦隊を製油所地帯沿岸に展開！同海域に出没する敵艦隊を三回以上撃滅せよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "勲章",
+      "amount": 1
+    },
+    {
+      "name": "戦闘糧食",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    216
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-3",
+    "boss": true,
+    "result": "S",
+    "times": 3,
+    "groups": [
+      {
+        "ship": "軽巡",
+        "amount": 1
+      },
+      {
+        "ship": "駆逐"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "game_id": 219,
+  "wiki_id": "B11",
+  "category": 2,
+  "type": 1,
+  "name": "「三川艦隊」出撃せよ！",
+  "detail": "新編成した「三川艦隊」で出撃せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    119
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "鳥海"
+      },
+      {
+        "ship": "青葉"
+      },
+      {
+        "ship": "加古"
+      },
+      {
+        "ship": "古鷹"
+      },
+      {
+        "ship": "天龍"
+      },
+      {
+        "ship": "高速艦",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "game_id": 215,
+  "wiki_id": "B03",
+  "category": 2,
+  "type": 1,
+  "name": "第２艦隊、出撃せよ！",
+  "detail": "新たに編成した「第２艦隊」を出撃させよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 200,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    115
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "fleetid": 2
+  }
+}

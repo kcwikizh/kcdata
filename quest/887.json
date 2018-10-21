@@ -1,0 +1,87 @@
+{
+  "game_id": 887,
+  "wiki_id": "B120",
+  "category": 2,
+  "type": 1,
+  "name": "精鋭「第十八戦隊」、展開せよ！",
+  "detail": "精鋭「第十八戦隊」随伴駆逐艦2隻を含む艦隊を、鎮守府海域に展開。同南西諸島沖海域、南西諸島防衛線、鎮守府近海、鎮守府近海航路の各作戦を完全成功させよ！改装軽巡「天龍」「龍田」、出撃！",
+  "reward_fuel": 0,
+  "reward_ammo": 1000,
+  "reward_steel": 0,
+  "reward_bauxite": 800,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "高速修復材",
+          "amount": 5
+        },
+        {
+          "name": "戦闘詳報",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "22号対水上電探",
+          "amount": 2
+        },
+        {
+          "name": "改修資材",
+          "amount": 4
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    194
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": [
+          "1-2",
+          "1-4",
+          "1-5"
+        ],
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "天龍"
+          },
+          {
+            "ship": "龍田"
+          },
+          {
+            "ship": "駆逐艦",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "1-6",
+        "result": "クリア",
+        "groups": [
+          {
+            "ship": "天龍"
+          },
+          {
+            "ship": "龍田"
+          },
+          {
+            "ship": "駆逐艦",
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  }
+}

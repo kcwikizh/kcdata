@@ -1,0 +1,29 @@
+{
+  "game_id": 401,
+  "wiki_id": "D01",
+  "category": 4,
+  "type": 1,
+  "name": "はじめての「遠征」！",
+  "detail": "艦隊を「遠征」に出発させよう！",
+  "reward_fuel": 30,
+  "reward_ammo": 30,
+  "reward_steel": 30,
+  "reward_bauxite": 30,
+  "reward_other": [
+    {
+      "name": "家具箱（小）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    105
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "game_id": 650,
+  "wiki_id": "F46",
+  "category": 6,
+  "type": 1,
+  "name": "噴式戦闘爆撃機の開発",
+  "detail": "ネ式エンジンを搭載した新型戦闘爆撃機の開発を行う。「紫電改二」三つを「工廠」で廃棄し、「新型航空機設計図」二つと「ネ式エンジン」一つを準備せよ！(任務達成後、用意した必要アイテムは消費します)",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "橘花改",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    304,
+    649
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "紫電改二",
+        "amount": 3
+      }
+    ],
+    "consumptions": [
+      {
+        "name": "新型航空機設計図",
+        "amount": 2
+      },
+      {
+        "name": "ネ式エンジン",
+        "amount": 1
+      }
+    ]
+  }
+}

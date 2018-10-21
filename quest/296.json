@@ -1,0 +1,49 @@
+{
+  "game_id": 296,
+  "wiki_id": "B56",
+  "category": 2,
+  "type": 1,
+  "name": "新編成航空戦隊、北方へ進出せよ！",
+  "detail": "「新編成航空戦隊」をアルフォンシーノ方面へ進出、敵泊地の機動部隊を撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 400,
+  "reward_steel": 0,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 2
+    },
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    169
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-3",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "空母",
+        "amount": 2
+      },
+      {
+        "ship": [
+          "航巡",
+          "航戦"
+        ],
+        "amount": 2
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

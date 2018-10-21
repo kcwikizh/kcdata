@@ -1,0 +1,42 @@
+{
+  "game_id": 705,
+  "wiki_id": "G05",
+  "category": 7,
+  "type": 1,
+  "name": "航空艤装の近代化改修",
+  "detail": "鉄鋼5,500及びボーキサイト2,500を準備して、任意の正規空母の近代化改修を<br>[航空母艦]x5隻同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "新型航空機設計図",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    703,
+    838
+  ],
+  "requirements": {
+    "category": "modernization",
+    "times": 2,
+    "ship": "空母",
+    "consumptions": [
+      {
+        "ship": [
+          "軽母",
+          "空母"
+        ],
+        "amount": 5
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      5500,
+      2500
+    ]
+  }
+}

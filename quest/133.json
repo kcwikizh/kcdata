@@ -1,0 +1,43 @@
+{
+  "game_id": 133,
+  "wiki_id": "A33",
+  "category": 1,
+  "type": 1,
+  "name": "「第三十駆逐隊(第一次)」を編成せよ！",
+  "detail": "「睦月」「如月」「弥生」「望月」4隻による第三十駆逐隊(第一次)を編成せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    131
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "睦月"
+      },
+      {
+        "ship": "如月"
+      },
+      {
+        "ship": "弥生"
+      },
+      {
+        "ship": "望月"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

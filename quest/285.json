@@ -1,0 +1,40 @@
+{
+  "game_id": 285,
+  "wiki_id": "B49",
+  "category": 2,
+  "type": 1,
+  "name": "「空母機動部隊」北方海域に進出せよ！",
+  "detail": "航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 0,
+  "reward_steel": 500,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "name": "戦闘糧食",
+      "category": "装備",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    230,
+    260
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-5",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "空母",
+        "flagship": true
+      }
+    ]
+  }
+}

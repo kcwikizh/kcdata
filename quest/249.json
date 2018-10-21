@@ -1,0 +1,43 @@
+{
+  "game_id": 249,
+  "wiki_id": "Bm01",
+  "category": 2,
+  "type": 6,
+  "name": "「第五戦隊」出撃せよ！",
+  "detail": "「第五戦隊」は沖ノ島沖の戦闘哨戒を実施、敵艦隊主力を捕捉、これを撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 550,
+  "reward_steel": 550,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 5
+    },
+    {
+      "name": "家具箱（大）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    137
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-5",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "妙高"
+      },
+      {
+        "ship": "那智"
+      },
+      {
+        "ship": "羽黒"
+      }
+    ]
+  }
+}

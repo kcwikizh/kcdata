@@ -1,0 +1,32 @@
+{
+  "game_id": 311,
+  "wiki_id": "C08",
+  "category": 3,
+  "type": 6,
+  "name": "精鋭艦隊演習",
+  "detail": "同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！",
+  "reward_fuel": 0,
+  "reward_ammo": 400,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "戦闘糧食",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    216
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 7,
+    "victory": true,
+    "daily": true
+  }
+}

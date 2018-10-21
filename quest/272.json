@@ -1,0 +1,51 @@
+{
+  "game_id": 272,
+  "wiki_id": "B40",
+  "category": 2,
+  "type": 1,
+  "name": "「改装防空重巡」出撃せよ！",
+  "detail": "摩耶改または摩耶改二及び軽巡1駆逐2隻を含む艦隊でオリョール海の敵艦隊を撃滅せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 0,
+  "reward_steel": 300,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "三式弾",
+      "category": "装備",
+      "amount": 1
+    },
+    {
+      "name": "25mm三連装機銃",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    416
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-3",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": [
+          "摩耶改",
+          "摩耶改二"
+        ],
+        "flagship": true
+      },
+      {
+        "ship": "軽巡",
+        "amount": 1
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

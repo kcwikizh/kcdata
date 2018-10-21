@@ -1,0 +1,42 @@
+{
+  "game_id": 178,
+  "wiki_id": "A73",
+  "category": 1,
+  "type": 1,
+  "name": "「第十六戦隊(第三次)」を編成せよ！",
+  "detail": "「鬼怒」「青葉」「北上」「大井」を擁する、第十六戦隊(第三次)を編成せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 200,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    295
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "鬼怒"
+      },
+      {
+        "ship": "青葉"
+      },
+      {
+        "ship": "北上"
+      },
+      {
+        "ship": "大井"
+      }
+    ]
+  }
+}

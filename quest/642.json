@@ -1,0 +1,36 @@
+{
+  "game_id": 642,
+  "wiki_id": "F38",
+  "category": 6,
+  "type": 1,
+  "name": "「陸攻」隊の増勢",
+  "detail": "「基地航空隊」開設に向け、「陸攻」の追加調達を行う。「7.7mm機銃」及び<br>「九九式艦爆」を各二つずつ準備せよ！(任務達成後、同装備は消滅します)",
+  "reward_fuel": 0,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "九六式陸攻",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    641,
+    825
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "equipments": [
+      {
+        "name": "7.7mm機銃",
+        "amount": 2
+      },
+      {
+        "name": "九九式艦爆",
+        "amount": 2
+      }
+    ]
+  }
+}

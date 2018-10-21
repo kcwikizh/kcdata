@@ -1,0 +1,66 @@
+{
+  "game_id": 886,
+  "wiki_id": "B119",
+  "category": 2,
+  "type": 1,
+  "name": "「伊勢改二」、敵機動部隊を迎撃せよ！",
+  "detail": "旗艦「伊勢改二」随伴駆逐艦2隻の航空戦隊を基幹とする艦隊をKW環礁沖空母機動部隊迎撃戦に投入！同反復出撃によって、同方面に来襲する敵機動部隊を迎撃、完全撃滅せよ！　「伊勢改二」、抜錨！",
+  "reward_fuel": 634,
+  "reward_ammo": 0,
+  "reward_steel": 1000,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "九六式艦戦",
+          "amount": 3
+        },
+        {
+          "name": "九九式艦爆",
+          "amount": 3
+        },
+        {
+          "name": "零式艦戦21型",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "紫電改二",
+          "amount": 2
+        },
+        {
+          "name": "勲章",
+          "amount": 1
+        },
+        {
+          "name": "戦闘詳報",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    324
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 3,
+    "map": "6-5",
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": "伊勢改二",
+        "flagship": true
+      },
+      {
+        "ship": "駆逐艦",
+        "amount": 2
+      }
+    ]
+  }
+}

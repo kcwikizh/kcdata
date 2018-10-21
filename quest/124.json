@@ -1,0 +1,44 @@
+{
+  "game_id": 124,
+  "wiki_id": "A24",
+  "category": 1,
+  "type": 1,
+  "name": "新「三川艦隊」を編成せよ！",
+  "detail": "「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 0,
+  "reward_steel": 300,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    121
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "鳥海"
+      },
+      {
+        "ship": "青葉"
+      },
+      {
+        "ship": "衣笠"
+      },
+      {
+        "ship": "加古"
+      },
+      {
+        "ship": "古鷹"
+      },
+      {
+        "ship": "天龍"
+      }
+    ]
+  }
+}

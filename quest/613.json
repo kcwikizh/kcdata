@@ -1,0 +1,28 @@
+{
+  "game_id": 613,
+  "wiki_id": "F12",
+  "category": 6,
+  "type": 3,
+  "name": "資源の再利用",
+  "detail": "「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 100,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "ドラム缶(輸送用)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    228
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapequipment",
+    "times": 24,
+    "batch": false
+  }
+}

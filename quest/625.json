@@ -1,0 +1,27 @@
+{
+  "game_id": 625,
+  "wiki_id": "F23",
+  "category": 6,
+  "type": 1,
+  "name": "試製航空艤装の追加試作",
+  "detail": "「工廠」で装備アイテムを9つ「廃棄」して、「試製甲板カタパルト」を追加試作します。",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 100,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "試製甲板カタパルト",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    294
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapequipment",
+    "times": 9,
+    "batch": true
+  }
+}

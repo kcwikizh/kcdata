@@ -1,0 +1,24 @@
+{
+  "game_id": 601,
+  "wiki_id": "F01",
+  "category": 6,
+  "type": 1,
+  "name": "はじめての「建造」！",
+  "detail": "「工廠」で鋼材などの資材を使って新しい艦を「建造」しよう！",
+  "reward_fuel": 50,
+  "reward_ammo": 50,
+  "reward_steel": 50,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "ship",
+    "times": 1
+  }
+}

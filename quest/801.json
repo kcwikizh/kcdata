@@ -1,0 +1,72 @@
+{
+  "game_id": 801,
+  "wiki_id": "SB26",
+  "category": 2,
+  "type": 1,
+  "name": "謹賀新年！「水雷戦隊」出撃始め！",
+  "detail": "新春特別任務：軽巡を旗艦とした水雷戦隊を鎮守府海域南西諸島沖及び南西諸島防衛線に展開！<br>両作戦海域において敵艦隊を邀撃、新年の暁に勝利を刻みなさい！二〇一八、水雷戦隊…抜錨ッ！",
+  "reward_fuel": 0,
+  "reward_ammo": 2018,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "応急修理女神",
+      "amount": 1
+    },
+    {
+      "choices": [
+        {
+          "name": "戦闘糧食",
+          "amount": 2
+        },
+        {
+          "name": "開発資材",
+          "amount": 5
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    206
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "map": "1-2",
+        "boss": true,
+        "result": "A",
+        "times": 2,
+        "groups": [
+          {
+            "ship": "軽巡",
+            "flagship": true
+          },
+          {
+            "ship": "駆逐",
+            "amount": 5
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "map": "1-4",
+        "boss": true,
+        "result": "A",
+        "times": 2,
+        "groups": [
+          {
+            "ship": "軽巡",
+            "flagship": true
+          },
+          {
+            "ship": "駆逐",
+            "amount": 5
+          }
+        ]
+      }
+    ]
+  }
+}

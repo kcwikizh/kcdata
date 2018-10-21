@@ -1,0 +1,50 @@
+{
+  "game_id": 837,
+  "wiki_id": "B86",
+  "category": 2,
+  "type": 1,
+  "name": "輸送作戦を成功させ、帰還せよ！",
+  "detail": "「鬼怒改二」を旗艦、僚艦に「浦波改」他駆逐艦3隻の計5隻の艦隊で<br>バシー島沖における柳輸送作戦を実施、同輸送作戦を完全成功させ、帰還せよ！",
+  "reward_fuel": 1000,
+  "reward_ammo": 0,
+  "reward_steel": 1000,
+  "reward_bauxite": 3000,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 5
+    },
+    {
+      "name": "洋上補給",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    827,
+    836
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-2",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "鬼怒改二",
+        "flagship": true
+      },
+      {
+        "ship": "浦波改"
+      },
+      {
+        "ship": "駆逐",
+        "amount": 3
+      },
+      {
+        "ship": "艦",
+        "amount": 1
+      }
+    ]
+  }
+}

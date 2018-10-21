@@ -1,0 +1,44 @@
+{
+  "game_id": 151,
+  "wiki_id": "A49",
+  "category": 1,
+  "type": 1,
+  "name": "「第二二駆逐隊」を編成せよ！",
+  "detail": "「皐月」「文月」「長月」他1隻計駆逐艦4隻による第二二駆逐隊を編成せよ！",
+  "reward_fuel": 220,
+  "reward_ammo": 220,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    271
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "皐月"
+      },
+      {
+        "ship": "文月"
+      },
+      {
+        "ship": "長月"
+      },
+      {
+        "ship": "駆逐",
+        "amount": 1
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

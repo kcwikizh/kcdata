@@ -1,0 +1,30 @@
+{
+  "game_id": 102,
+  "wiki_id": "A02",
+  "category": 1,
+  "type": 1,
+  "name": "「駆逐隊」を編成せよ！",
+  "detail": "駆逐艦４隻以上で構成される「駆逐隊」を編成せよ！",
+  "reward_fuel": 30,
+  "reward_ammo": 30,
+  "reward_steel": 30,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    101
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "駆逐",
+        "amount": 4
+      }
+    ]
+  }
+}

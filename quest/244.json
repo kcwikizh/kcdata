@@ -1,0 +1,42 @@
+{
+  "game_id": 244,
+  "wiki_id": "B22",
+  "category": 2,
+  "type": 1,
+  "name": "「第三十駆逐隊(第一次)」出撃せよ！",
+  "detail": "「第三十駆逐隊(第一次)」を含む艦隊で出撃し、キス島沖の主力艦隊と交戦せよ！",
+  "reward_fuel": 100,
+  "reward_ammo": 100,
+  "reward_steel": 100,
+  "reward_bauxite": 500,
+  "reward_other": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    133
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-2",
+    "boss": true,
+    "result": "C",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "睦月"
+      },
+      {
+        "ship": "如月"
+      },
+      {
+        "ship": "弥生"
+      },
+      {
+        "ship": "望月"
+      }
+    ]
+  }
+}

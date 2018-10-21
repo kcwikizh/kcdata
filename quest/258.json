@@ -1,0 +1,43 @@
+{
+  "game_id": 258,
+  "wiki_id": "B31",
+  "category": 2,
+  "type": 1,
+  "name": "「第二戦隊」抜錨！",
+  "detail": "「第二戦隊」を基幹とした艦隊でカレー洋に進出、反復出撃により敵海上兵力を撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 400,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "一式徹甲弾",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    144
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "4-2",
+    "boss": true,
+    "result": "S",
+    "times": 2,
+    "groups": [
+      {
+        "ship": "長門"
+      },
+      {
+        "ship": "陸奥"
+      },
+      {
+        "ship": "扶桑"
+      },
+      {
+        "ship": "山城"
+      }
+    ]
+  }
+}

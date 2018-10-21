@@ -1,0 +1,40 @@
+{
+  "game_id": 316,
+  "wiki_id": "C13",
+  "category": 3,
+  "type": 1,
+  "name": "輸送部隊の練度向上に努めよ！",
+  "detail": "演習任務：輸送部隊の練度向上を図る！本日中に演習で4回以上「勝利」せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        },
+        {
+          "name": "大発動艇",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "改修資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    218,
+    418
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 4,
+    "victory": true,
+    "daily": true
+  }
+}

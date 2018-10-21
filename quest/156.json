@@ -1,0 +1,50 @@
+{
+  "game_id": 156,
+  "wiki_id": "A54",
+  "category": 1,
+  "type": 1,
+  "name": "「第一水雷戦隊」北方突入準備！",
+  "detail": "「阿武隈」を旗艦として「響」「初霜」「若葉」「五月雨」「島風」による一水戦を編成せよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 150,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "家具箱（中）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    201,
+    240
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "阿武隈",
+        "flagship": true
+      },
+      {
+        "ship": "響"
+      },
+      {
+        "ship": "初霜"
+      },
+      {
+        "ship": "若葉"
+      },
+      {
+        "ship": "五月雨"
+      },
+      {
+        "ship": "島風"
+      }
+    ]
+  }
+}

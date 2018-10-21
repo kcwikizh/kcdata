@@ -1,0 +1,47 @@
+{
+  "game_id": 856,
+  "wiki_id": "B99",
+  "category": 2,
+  "type": 1,
+  "name": "新編「第一戦隊」、抜錨せよ！",
+  "detail": "新編「第一戦隊」出撃任務：戦艦「長門改二」を旗艦、二番艦に「陸奥改」を配備した第一艦隊で出撃！<br>カレー洋リランカ島沖、サーモン海域北方に展開し、同海域の敵艦隊主力を捕捉、これを撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 880,
+  "reward_steel": 880,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 4
+    },
+    {
+      "name": "艦本新設計 増設バルジ(大型艦)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    180,
+    855
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "4-5",
+      "5-5"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": "長門改二",
+        "flagship": true
+      },
+      {
+        "ship": "陸奥改",
+        "place": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "game_id": 277,
+  "wiki_id": "B45",
+  "category": 2,
+  "type": 1,
+  "name": "「第六駆逐隊」対潜哨戒を徹底なのです！",
+  "detail": "「第六駆逐隊」を含む艦隊で鎮守府正面で対潜哨戒を実施、敵潜水艦部隊を痛打せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 2
+    },
+    {
+      "name": "九三式水中聴音機",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    155,
+    274
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-5",
+    "boss": true,
+    "result": "B",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "暁"
+      },
+      {
+        "ship": "響"
+      },
+      {
+        "ship": "雷"
+      },
+      {
+        "ship": "電"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

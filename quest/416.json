@@ -1,0 +1,35 @@
+{
+  "game_id": 416,
+  "wiki_id": "D15",
+  "category": 4,
+  "type": 1,
+  "name": "防空射撃演習を実施せよ！",
+  "detail": "「防空射撃演習」を複数回実施し、艦隊の防空能力を高めよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "25mm三連装機銃",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    207
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 3,
+        "id": 6
+      }
+    ]
+  }
+}

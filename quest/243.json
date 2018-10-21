@@ -1,0 +1,32 @@
+{
+  "game_id": 243,
+  "wiki_id": "Bw09",
+  "category": 2,
+  "type": 3,
+  "name": "南方海域珊瑚諸島沖の制空権を握れ！",
+  "detail": "南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 800,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "改修資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    242
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "5-2",
+    "boss": true,
+    "result": "S",
+    "times": 2
+  }
+}

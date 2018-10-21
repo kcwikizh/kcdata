@@ -1,0 +1,31 @@
+{
+  "game_id": 604,
+  "wiki_id": "F04",
+  "category": 6,
+  "type": 1,
+  "name": "はじめての「廃棄」！",
+  "detail": "「工廠」で装備アイテムを「廃棄」してみよう！",
+  "reward_fuel": 80,
+  "reward_ammo": 80,
+  "reward_steel": 80,
+  "reward_bauxite": 80,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    603
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapequipment",
+    "times": 1,
+    "batch": false
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "game_id": 206,
+  "wiki_id": "B06",
+  "category": 2,
+  "type": 1,
+  "name": "「水雷戦隊」で出撃せよ！",
+  "detail": "軽巡洋艦1隻を旗艦とし、複数の駆逐艦からなる水雷戦隊で出撃せよ！",
+  "reward_fuel": 60,
+  "reward_ammo": 60,
+  "reward_steel": 0,
+  "reward_bauxite": 60,
+  "reward_other": [
+    {
+      "name": "龍田",
+      "category": "艦娘",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    205
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "軽巡",
+        "flagship": true
+      },
+      {
+        "ship": "駆逐",
+        "amount": 3
+      }
+    ]
+  }
+}

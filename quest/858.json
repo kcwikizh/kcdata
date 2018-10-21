@@ -1,0 +1,73 @@
+{
+  "game_id": 858,
+  "wiki_id": "B101",
+  "category": 2,
+  "type": 1,
+  "name": "新編「第七戦隊」、出撃せよ！",
+  "detail": "出撃任務：新編「第七戦隊」を出撃！　カレー洋リランカ島沖「深海東洋艦隊漸減作戦」、<br>MS諸島沖「MS諸島防衛戦」において、敵艦隊主力を捕捉、これを撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 1000,
+  "reward_bauxite": 500,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "勲章",
+          "amount": 1
+        },
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "零式艦戦63型(爆戦)",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "改修資材",
+      "amount": 4
+    }
+  ],
+  "prerequisite": [
+    181,
+    303
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": [
+          "4-5",
+          "6-2"
+        ],
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "熊野改二",
+            "flagship": true
+          },
+          {
+            "ship": "鈴谷改二",
+            "place": 2
+          },
+          {
+            "ship": "最上改"
+          },
+          {
+            "ship": "三隈改"
+          },
+          {
+            "ship": "艦",
+            "amount": 2
+          }
+        ]
+      }
+    ]
+  }
+}

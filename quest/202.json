@@ -1,0 +1,23 @@
+{
+  "game_id": 202,
+  "wiki_id": "B01",
+  "category": 2,
+  "type": 1,
+  "name": "はじめての「出撃」！",
+  "detail": "艦隊を出撃させ、敵艦隊と交戦せよ！",
+  "reward_fuel": 20,
+  "reward_ammo": 20,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "sortie",
+    "times": 1
+  }
+}

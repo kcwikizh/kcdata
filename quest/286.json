@@ -1,0 +1,30 @@
+{
+  "game_id": 286,
+  "wiki_id": "B48",
+  "category": 2,
+  "type": 1,
+  "name": "鎮守府正面の対潜哨戒を強化せよ！",
+  "detail": "鎮守府正面の対潜哨戒を強化し、海上資源輸送路の安全を確立せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    201,
+    205,
+    216
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-5",
+    "boss": true,
+    "result": "A",
+    "times": 4
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "game_id": 246,
+  "wiki_id": "WB02",
+  "category": 2,
+  "type": 1,
+  "name": "二人でする初めての任務！",
+  "detail": "強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 300,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "煎餅布団",
+      "category": "家具"
+    }
+  ],
+  "prerequisite": [
+    135
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "4-3",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "艦",
+        "flagship": true,
+        "lv": [
+          100,
+          999
+        ]
+      }
+    ],
+    "fleetid": 1
+  }
+}

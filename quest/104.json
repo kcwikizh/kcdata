@@ -1,0 +1,29 @@
+{
+  "game_id": 104,
+  "wiki_id": "A04",
+  "category": 1,
+  "type": 1,
+  "name": "６隻編成の艦隊を編成せよ！",
+  "detail": "全6隻で構成される主力艦隊を編成せよ！",
+  "reward_fuel": 50,
+  "reward_ammo": 0,
+  "reward_steel": 50,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "第2艦隊開放"
+    }
+  ],
+  "prerequisite": [
+    103
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "艦",
+        "amount": 6
+      }
+    ]
+  }
+}

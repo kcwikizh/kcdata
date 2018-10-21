@@ -1,0 +1,48 @@
+{
+  "game_id": 154,
+  "wiki_id": "A52",
+  "category": 1,
+  "type": 1,
+  "name": "海上突入部隊を編成せよ！",
+  "detail": "戦艦「比叡」「霧島」軽巡「長良」駆逐艦「暁」「雷」「電」による海上突入部隊を編成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    227
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "比叡"
+      },
+      {
+        "ship": "霧島"
+      },
+      {
+        "ship": "長良"
+      },
+      {
+        "ship": "暁"
+      },
+      {
+        "ship": "雷"
+      },
+      {
+        "ship": "電"
+      }
+    ]
+  }
+}

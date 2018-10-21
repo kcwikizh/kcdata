@@ -1,0 +1,30 @@
+{
+  "game_id": 418,
+  "wiki_id": "D17",
+  "category": 4,
+  "type": 1,
+  "name": "観艦式予行を実施せよ！",
+  "detail": "観艦式を実施する。予行として「観艦式予行」を複数回実施し、これを2回成功させよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 150,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    }
+  ],
+  "prerequisite": [
+    137
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 2,
+        "id": 7
+      }
+    ]
+  }
+}

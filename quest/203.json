@@ -1,0 +1,28 @@
+{
+  "game_id": 203,
+  "wiki_id": "B02",
+  "category": 2,
+  "type": 1,
+  "name": "鎮守府正面海域を護れ！",
+  "detail": "鎮守府正面海域に艦隊を出撃させ、敵艦の跳梁を阻止せよ！",
+  "reward_fuel": 30,
+  "reward_ammo": 30,
+  "reward_steel": 30,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    202
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-1",
+    "boss": true,
+    "result": "B",
+    "times": 1
+  }
+}

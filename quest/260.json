@@ -1,0 +1,50 @@
+{
+  "game_id": 260,
+  "wiki_id": "B32",
+  "category": 2,
+  "type": 1,
+  "name": "「戦艦部隊」北方海域に突入せよ！",
+  "detail": "戦艦2隻と直援軽空母1隻(正規空母無し)基幹の艦隊で北方AL海域に突入、敵を撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 500,
+  "reward_steel": 0,
+  "reward_bauxite": 250,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "一式徹甲弾",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    259
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "3-5",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "戦艦",
+        "amount": [
+          2,
+          2
+        ]
+      },
+      {
+        "ship": "軽母",
+        "amount": [
+          1,
+          1
+        ]
+      }
+    ],
+    "disallowed": "空母"
+  }
+}

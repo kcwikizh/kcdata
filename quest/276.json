@@ -1,0 +1,53 @@
+{
+  "game_id": 276,
+  "wiki_id": "B44",
+  "category": 2,
+  "type": 1,
+  "name": "海上突入部隊、進発せよ！",
+  "detail": "「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方海域進出作戦を実施、敵を撃滅せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 0,
+  "reward_steel": 500,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 5
+    },
+    {
+      "name": "改修資材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    154,
+    243
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "5-1",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "比叡"
+      },
+      {
+        "ship": "霧島"
+      },
+      {
+        "ship": "長良"
+      },
+      {
+        "ship": "暁"
+      },
+      {
+        "ship": "雷"
+      },
+      {
+        "ship": "電"
+      }
+    ]
+  }
+}

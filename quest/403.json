@@ -1,0 +1,33 @@
+{
+  "game_id": 403,
+  "wiki_id": "D03",
+  "category": 4,
+  "type": 2,
+  "name": "「遠征」を１０回成功させよう！",
+  "detail": "本日中に「遠征」10回成功させよう！",
+  "reward_fuel": 150,
+  "reward_ammo": 300,
+  "reward_steel": 300,
+  "reward_bauxite": 150,
+  "reward_other": [
+    {
+      "name": "家具箱（小）",
+      "amount": 1
+    },
+    {
+      "name": "家具箱（中）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    402
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 10
+      }
+    ]
+  }
+}

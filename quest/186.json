@@ -1,0 +1,43 @@
+{
+  "game_id": 186,
+  "wiki_id": "A81",
+  "category": 1,
+  "type": 1,
+  "name": "最精鋭「第八駆逐隊」を編成せよ！",
+  "detail": "精鋭駆逐隊編成任務：「朝潮改二」「大潮改二」「荒潮改二」「満潮改二」の<br>最精鋭朝潮型駆逐艦4隻による新編「第八駆逐隊」の編成を完了せよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "戦闘糧食",
+      "amount": 1
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    821,
+    870
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "朝潮改二"
+      },
+      {
+        "ship": "大潮改二"
+      },
+      {
+        "ship": "荒潮改二"
+      },
+      {
+        "ship": "満潮改二"
+      }
+    ]
+  }
+}

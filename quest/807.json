@@ -1,0 +1,48 @@
+{
+  "game_id": 807,
+  "wiki_id": "B60",
+  "category": 2,
+  "type": 1,
+  "name": "「第三十一戦隊」出撃せよ！",
+  "detail": "第三十一戦隊(第一次)を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 600,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "name": "菱餅",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    171,
+    201
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "1-6",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "五十鈴改二",
+        "flagship": true
+      },
+      {
+        "ship": "皐月改二"
+      },
+      {
+        "ship": "卯月改"
+      },
+      {
+        "ship": "艦",
+        "amount": 3
+      }
+    ],
+    "result": "クリア"
+  }
+}

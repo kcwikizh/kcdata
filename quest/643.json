@@ -1,0 +1,46 @@
+{
+  "game_id": 643,
+  "wiki_id": "F39",
+  "category": 6,
+  "type": 7,
+  "name": "主力「陸攻」の調達",
+  "detail": "主力陸上攻撃機「一式陸攻」の新規調達を行う。「零式艦戦21型」を二つ「工廠」で廃棄し、<br>「九六式陸攻」一つと「九七式艦攻」二つを準備せよ！(任務達成後、用意した必要装備は消滅します)",
+  "reward_fuel": 250,
+  "reward_ammo": 250,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 2
+    },
+    {
+      "name": "一式陸攻",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    410,
+    642
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "equipments": [
+      {
+        "name": "九六式陸攻",
+        "amount": 1
+      },
+      {
+        "name": "九七式艦攻",
+        "amount": 2
+      }
+    ],
+    "scraps": [
+      {
+        "name": "零式艦戦21型",
+        "amount": 2
+      }
+    ]
+  }
+}

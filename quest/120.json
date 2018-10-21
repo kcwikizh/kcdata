@@ -1,0 +1,39 @@
+{
+  "game_id": 120,
+  "wiki_id": "A10",
+  "category": 1,
+  "type": 1,
+  "name": "「第六駆逐隊」を編成せよ！",
+  "detail": "「暁」「響」「雷」「電」4隻による第六駆逐隊を編成せよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 150,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    116
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "暁"
+      },
+      {
+        "ship": "響"
+      },
+      {
+        "ship": "雷"
+      },
+      {
+        "ship": "電"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

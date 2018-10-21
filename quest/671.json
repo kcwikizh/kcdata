@@ -1,0 +1,65 @@
+{
+  "game_id": 671,
+  "wiki_id": "F62",
+  "category": 6,
+  "type": 1,
+  "name": "夜間作戦型艦上攻撃機の開発",
+  "detail": "「TBF」を秘書艦一番スロットに搭載、「13号対空電探」x2「22号対水上電探」x2廃棄、開発資材x40<br>改修資材x10、弾薬5,000、ボーキサイト8,000、「新型航空兵装資材」x1、「熟練搭乗員」を用意せよ！",
+  "reward_fuel": 100,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "TBM-3D",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    638,
+    669
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "secretary": "艦",
+    "use_skilled_crew": true,
+    "slots": [
+      {
+        "slot": 1,
+        "equipment": "TBF",
+        "convert": true
+      }
+    ],
+    "scraps": [
+      {
+        "name": "13号対空電探",
+        "amount": 2
+      },
+      {
+        "name": "22号対水上電探",
+        "amount": 2
+      }
+    ],
+    "consumptions": [
+      {
+        "name": "開発資材",
+        "amount": 40
+      },
+      {
+        "name": "改修資材",
+        "amount": 10
+      },
+      {
+        "name": "新型航空兵装資材",
+        "amount": 1
+      }
+    ],
+    "resources": [
+      0,
+      5000,
+      0,
+      8000
+    ]
+  }
+}

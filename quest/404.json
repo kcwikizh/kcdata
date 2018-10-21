@@ -1,0 +1,33 @@
+{
+  "game_id": 404,
+  "wiki_id": "D04",
+  "category": 4,
+  "type": 3,
+  "name": "大規模遠征作戦、発令！",
+  "detail": "今週中に「遠征」30回成功させよう！",
+  "reward_fuel": 300,
+  "reward_ammo": 500,
+  "reward_steel": 500,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 3
+    },
+    {
+      "name": "家具箱（大）",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    401
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 30
+      }
+    ]
+  }
+}

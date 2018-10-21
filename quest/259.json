@@ -1,0 +1,47 @@
+{
+  "game_id": 259,
+  "wiki_id": "Bm04",
+  "category": 2,
+  "type": 6,
+  "name": "「水上打撃部隊」南方へ！",
+  "detail": "戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！",
+  "reward_fuel": 350,
+  "reward_ammo": 400,
+  "reward_steel": 350,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    },
+    {
+      "name": "改修資材",
+      "amount": 4
+    }
+  ],
+  "prerequisite": [
+    145
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "5-1",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "shipclass": [
+          "大和",
+          "長門",
+          "伊勢",
+          "扶桑"
+        ],
+        "amount": 3
+      },
+      {
+        "ship": "軽巡",
+        "amount": 1
+      }
+    ]
+  }
+}

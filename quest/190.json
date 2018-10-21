@@ -1,0 +1,46 @@
+{
+  "game_id": 190,
+  "wiki_id": "A85",
+  "category": 1,
+  "type": 1,
+  "name": "精鋭「第二一駆逐隊」、抜錨準備！",
+  "detail": "精鋭駆逐隊編成任務：捷一号作戦を支援する。同決戦正面の基地航空への資材輸送任務のため、<br>「若葉改」「初春改二」「初霜改二」を含む3～4隻の精鋭「第二一駆逐隊」の編成を完了せよ！",
+  "reward_fuel": 100,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    },
+    {
+      "name": "戦闘糧食",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    269
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "若葉改"
+      },
+      {
+        "ship": "初春改二"
+      },
+      {
+        "ship": "初霜改二"
+      },
+      {
+        "ship": "駆逐",
+        "amount": [
+          0,
+          1
+        ]
+      }
+    ]
+  }
+}

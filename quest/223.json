@@ -1,0 +1,42 @@
+{
+  "game_id": 223,
+  "wiki_id": "B13",
+  "category": 2,
+  "type": 1,
+  "name": "「第四戦隊」出撃せよ！",
+  "detail": "「愛宕」「高雄」「鳥海」「摩耶」を基幹とする第四戦隊で、バシー島沖の敵を撃滅せよ！",
+  "reward_fuel": 150,
+  "reward_ammo": 100,
+  "reward_steel": 150,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    121
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-2",
+    "boss": true,
+    "result": "B",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "愛宕"
+      },
+      {
+        "ship": "高雄"
+      },
+      {
+        "ship": "鳥海"
+      },
+      {
+        "ship": "摩耶"
+      }
+    ]
+  }
+}

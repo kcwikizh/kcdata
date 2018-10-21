@@ -1,0 +1,41 @@
+{
+  "game_id": 816,
+  "wiki_id": "B67",
+  "category": 2,
+  "type": 1,
+  "name": "艦隊、三周年！",
+  "detail": "三周年を記念しバシー島沖及び東部オリョール海に出撃、同海域の敵艦隊を撃滅せよ！",
+  "reward_fuel": 1000,
+  "reward_ammo": 1000,
+  "reward_steel": 1000,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "「三周年記念」掛け軸",
+      "category": "家具"
+    }
+  ],
+  "prerequisite": [
+    105,
+    206
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "2-2",
+        "boss": true,
+        "result": "S"
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "2-3",
+        "boss": true,
+        "result": "S"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "game_id": 610,
+  "wiki_id": "F10",
+  "category": 6,
+  "type": 1,
+  "name": "「大型艦建造」の準備！(その弐)",
+  "detail": "大型艦建造の準備をします！「工廠」で装備アイテムを4回「廃棄」してみてください！",
+  "reward_fuel": 800,
+  "reward_ammo": 800,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "大型艦建造開放"
+    }
+  ],
+  "prerequisite": [
+    704
+  ],
+  "requirements": {
+    "category": "simple",
+    "subcategory": "scrapequipment",
+    "times": 4,
+    "batch": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "game_id": 822,
+  "wiki_id": "Bq01",
+  "category": 2,
+  "type": 7,
+  "name": "沖ノ島海域迎撃戦",
+  "detail": "有力な艦隊を沖ノ島海域前面に反復投入、侵攻する敵機動部隊を迎撃、これを撃滅せよ！",
+  "reward_fuel": 800,
+  "reward_ammo": 800,
+  "reward_steel": 800,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 5
+    },
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    233,
+    264
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-4",
+    "boss": true,
+    "result": "S",
+    "times": 2
+  }
+}

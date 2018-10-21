@@ -1,0 +1,47 @@
+{
+  "game_id": 648,
+  "wiki_id": "F44",
+  "category": 6,
+  "type": 1,
+  "name": "「特注家具」の調達",
+  "detail": "「12.7cm連装高角砲」二つを廃棄し、家具コイン5,000と「14cm単装砲」及び「15.2cm単装砲」を各二つずつ準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修を優先)は消費します。",
+  "reward_fuel": 0,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "特注家具職人",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    303,
+    646
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "equipments": [
+      {
+        "name": "14cm単装砲",
+        "amount": 2
+      },
+      {
+        "name": "15.2cm単装砲",
+        "amount": 2
+      }
+    ],
+    "scraps": [
+      {
+        "name": "12.7cm連装高角砲",
+        "amount": 2
+      }
+    ],
+    "consumptions": [
+      {
+        "name": "家具コイン",
+        "amount": 5000
+      }
+    ]
+  }
+}

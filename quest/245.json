@@ -1,0 +1,39 @@
+{
+  "game_id": 245,
+  "wiki_id": "WB01",
+  "category": 2,
+  "type": 1,
+  "name": "式の準備！(最終)",
+  "detail": "練度の高い(Lv.90～99)第一艦隊旗艦で出撃し、オリョール海の暁に勝利を刻め！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "書類一式＆指輪",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    134
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-3",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "艦",
+        "flagship": true,
+        "lv": [
+          90,
+          99
+        ]
+      }
+    ],
+    "fleetid": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "game_id": 254,
+  "wiki_id": "B29",
+  "category": 2,
+  "type": 1,
+  "name": "「軽空母」戦隊、出撃せよ！",
+  "detail": "軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でカムラン半島の敵を撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    },
+    {
+      "name": "応急修理要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    105
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "2-1",
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "軽母",
+        "amount": [
+          1,
+          2
+        ]
+      },
+      {
+        "ship": "軽巡",
+        "amount": 1
+      },
+      {
+        "ship": "駆逐",
+        "amount": [
+          3,
+          4
+        ]
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

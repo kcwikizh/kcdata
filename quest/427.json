@@ -1,0 +1,39 @@
+{
+  "game_id": 427,
+  "wiki_id": "D25",
+  "category": 4,
+  "type": 1,
+  "name": "遠征「補給」支援体制を強化せよ！",
+  "detail": "遠征補給支援体制の強化：鋼材800を用意し、遠征任務「兵站強化任務」を実施。<br>同遠征任務を成功させ、艦隊遠征時における「補給」支援体制の拡充に努めよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "遠征「臨時補給」開放"
+    },
+    {
+      "name": "戦闘糧食",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    869
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": "A1"
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      800,
+      0
+    ]
+  }
+}

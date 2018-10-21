@@ -1,0 +1,29 @@
+{
+  "game_id": 216,
+  "wiki_id": "Bd02",
+  "category": 2,
+  "type": 2,
+  "name": "敵艦隊主力を撃滅せよ！",
+  "detail": "艦隊を出撃させ、敵艦隊「主力」を捕捉！これを撃滅せよ！",
+  "reward_fuel": 50,
+  "reward_ammo": 50,
+  "reward_steel": 50,
+  "reward_bauxite": 50,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 1
+    },
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    201
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1
+  }
+}

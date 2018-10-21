@@ -1,0 +1,43 @@
+{
+  "game_id": 114,
+  "wiki_id": "A19",
+  "category": 1,
+  "type": 1,
+  "name": "「南雲機動部隊」を編成せよ！",
+  "detail": "一航戦「赤城」「加賀」二航戦「飛龍」「蒼龍」からなる第一機動部隊を編成せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 500,
+  "reward_steel": 500,
+  "reward_bauxite": 500,
+  "reward_other": [
+    {
+      "name": "高速建造材",
+      "amount": 2
+    },
+    {
+      "name": "開発資材",
+      "amount": 4
+    }
+  ],
+  "prerequisite": [
+    113
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "赤城"
+      },
+      {
+        "ship": "加賀"
+      },
+      {
+        "ship": "飛龍"
+      },
+      {
+        "ship": "蒼龍"
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+}

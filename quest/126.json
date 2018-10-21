@@ -1,0 +1,34 @@
+{
+  "game_id": 126,
+  "wiki_id": "A26",
+  "category": 1,
+  "type": 1,
+  "name": "航空水上打撃艦隊を編成せよ！",
+  "detail": "航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊を編成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 200,
+  "reward_bauxite": 200,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    }
+  ],
+  "prerequisite": [
+    122
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "航戦",
+        "amount": 2
+      },
+      {
+        "ship": "航巡",
+        "amount": 2
+      }
+    ]
+  }
+}

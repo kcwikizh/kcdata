@@ -1,0 +1,43 @@
+{
+  "game_id": 177,
+  "wiki_id": "A72",
+  "category": 1,
+  "type": 1,
+  "name": "「第十九駆逐隊」を編成せよ！",
+  "detail": "特型駆逐艦「磯波」「浦波」「綾波」「敷波」4隻による第十九駆逐隊を編成せよ！",
+  "reward_fuel": 190,
+  "reward_ammo": 190,
+  "reward_steel": 190,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "戦闘糧食",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    201,
+    240
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "磯波"
+      },
+      {
+        "ship": "浦波"
+      },
+      {
+        "ship": "綾波"
+      },
+      {
+        "ship": "敷波"
+      }
+    ]
+  }
+}

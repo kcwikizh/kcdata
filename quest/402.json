@@ -1,0 +1,29 @@
+{
+  "game_id": 402,
+  "wiki_id": "D02",
+  "category": 4,
+  "type": 2,
+  "name": "「遠征」を３回成功させよう！",
+  "detail": "本日中に「遠征」３回成功させよう！",
+  "reward_fuel": 100,
+  "reward_ammo": 100,
+  "reward_steel": 100,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "開発資材",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    401
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 3
+      }
+    ]
+  }
+}

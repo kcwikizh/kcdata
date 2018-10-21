@@ -1,0 +1,37 @@
+{
+  "game_id": 180,
+  "wiki_id": "A75",
+  "category": 1,
+  "type": 1,
+  "name": "新編「第一戦隊」を編成せよ！",
+  "detail": "編成任務：第一艦隊に新改装された長門型戦艦一番艦「長門改二」及び同二番艦「陸奥改」からなる<br>新編第一戦隊を配備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 880,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 2
+    },
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    258
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "長門改二"
+      },
+      {
+        "ship": "陸奥改"
+      }
+    ],
+    "fleetid": 1
+  }
+}
