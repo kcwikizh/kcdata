@@ -1,8 +1,9 @@
-#!/usr/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import json
 import os
 import sys
+import json
+from collections import OrderedDict
 
 DEBUG = False
 ALL_QUESTS_FILE = os.path.join(os.path.dirname(__file__), '../quest/poi.json')
@@ -35,7 +36,7 @@ def printHelp():
 
 def loadQuests():
     with open(ALL_QUESTS_FILE, mode='r', encoding='utf-8') as f:
-        quests = json.load(f)
+        quests = json.load(f, object_pairs_hook=OrderedDict)
     return quests
 
 
