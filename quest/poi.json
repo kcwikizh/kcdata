@@ -7898,6 +7898,88 @@
     }
   },
   {
+    "game_id": 326,
+    "wiki_id": "C24",
+    "category": 3,
+    "type": 1,
+    "name": "夏季大演習",
+    "detail": "夏季大演習：夏季期間の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！暑さに負けるな！　艦隊、抜錨！",
+    "reward_fuel": 0,
+    "reward_ammo": 300,
+    "reward_steel": 0,
+    "reward_bauxite": 1000,
+    "reward_other": [
+      {
+        "name": "給糧艦「間宮」",
+        "amount": 1
+      },
+      {
+        "name": "プレゼント箱",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      303
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 8,
+      "victory": true,
+      "daily": true
+    }
+  },
+  {
+    "game_id": 327,
+    "wiki_id": "C25",
+    "category": 3,
+    "type": 1,
+    "name": "朝潮型集合！特訓始め！",
+    "detail": "朝潮型演習任務：朝潮型駆逐艦4隻による駆逐隊を含む艦隊を編成。同艦隊で本日中に演習にて4回以上勝利せよ！朝潮型駆逐艦、前へ！",
+    "reward_fuel": 300,
+    "reward_ammo": 0,
+    "reward_steel": 300,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "高速修復材",
+        "amount": 3
+      },
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 4
+          },
+          {
+            "name": "三式爆雷投射機",
+            "amount": 1
+          },
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      210
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 4,
+      "victory": true,
+      "daily": true,
+      "groups": [
+        {
+          "shipclass": [
+            "朝潮"
+          ],
+          "amount": 4
+        }
+      ]
+    }
+  },
+  {
     "game_id": 401,
     "wiki_id": "D01",
     "category": 4,
@@ -12280,6 +12362,68 @@
         0,
         0,
         900,
+        0
+      ]
+    }
+  },
+  {
+    "game_id": 687,
+    "wiki_id": "F78",
+    "category": 6,
+    "type": 1,
+    "name": "駆逐艦主砲兵装の戦時改修【II】",
+    "detail": "旗艦「夕立改二」または「時雨改二」第一スロに「12.7cm連装砲B型改二」改修max装備、「10cm連装高角砲」×5及び「94式高射装置」×1廃棄、開発資材×50、鋼材1200、新型砲熕兵装資材×1を準備せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 220,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "12.7cm連装砲B型改四(戦時改修)+高射装置",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      685
+    ],
+    "requirements": {
+      "category": "modelconversion",
+      "secretary": [
+        "夕立改二",
+        "时雨改二"
+      ],
+      "slots": [
+        {
+          "slot": 1,
+          "equipment": "12.7cm連装砲B型改二",
+          "maxmodified": true,
+          "convert": true
+        }
+      ],
+      "consumptions": [
+        {
+          "name": "開発資材",
+          "amount": 50
+        },
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        }
+      ],
+      "scraps": [
+        {
+          "name": "10cm連装高角砲",
+          "amount": 5
+        },
+        {
+          "name": "94式高射装置",
+          "amount": 1
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        1200,
         0
       ]
     }
@@ -16979,6 +17123,68 @@
         },
         {
           "ship": "時雨改二"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 890,
+    "wiki_id": "B122",
+    "category": 2,
+    "type": 1,
+    "name": "精鋭「四戦隊」第二小隊、抜錨せよ！",
+    "detail": "「摩耶改二」及び「鳥海改二」から成る精鋭「第四戦隊」第二小隊を含む有力な艦隊を編成、南西諸島防衛線、東部オリョール海、アルフォンシーノ方面、カレー洋リランカ島沖に出撃、敵を撃滅せよ！",
+    "reward_fuel": 400,
+    "reward_ammo": 400,
+    "reward_steel": 0,
+    "reward_bauxite": 400,
+    "reward_other": [
+      {
+        "name": "「摩耶の盾」掛け軸",
+        "category": "家具"
+      },
+      {
+        "choices": [
+          {
+            "name": "12.7cm連装高角砲(後期型)",
+            "amount": 2
+          },
+          {
+            "name": "高速修復材",
+            "amount": 8
+          },
+          {
+            "name": "勲章",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      223,
+      303
+    ],
+    "requirements": {
+      "category": "sortie",
+      "map": [
+        "1-4",
+        "2-3",
+        "3-3",
+        "4-5"
+      ],
+      "boss": true,
+      "result": "S",
+      "times": 1,
+      "groups": [
+        {
+          "ship": "鳥海改二"
+        },
+        {
+          "ship": "摩耶改二"
+        },
+        {
+          "ship": "艦",
+          "amount": 4
         }
       ]
     }
