@@ -1,0 +1,51 @@
+{
+  "game_id": 327,
+  "wiki_id": "C25",
+  "category": 3,
+  "type": 1,
+  "name": "朝潮型集合！特訓始め！",
+  "detail": "朝潮型演習任務：朝潮型駆逐艦4隻による駆逐隊を含む艦隊を編成。同艦隊で本日中に演習にて4回以上勝利せよ！朝潮型駆逐艦、前へ！",
+  "reward_fuel": 300,
+  "reward_ammo": 0,
+  "reward_steel": 300,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    },
+    {
+      "choices": [
+        {
+          "name": "開発資材",
+          "amount": 4
+        },
+        {
+          "name": "三式爆雷投射機",
+          "amount": 1
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    210
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 4,
+    "victory": true,
+    "daily": true,
+    "groups": [
+      {
+        "shipclass": [
+          "朝潮"
+        ],
+        "amount": 4
+      }
+    ]
+  }
+}

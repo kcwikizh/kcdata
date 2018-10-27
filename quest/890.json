@@ -1,0 +1,62 @@
+  {
+    "game_id": 890,
+    "wiki_id": "B122",
+    "category": 2,
+    "type": 1,
+    "name": "精鋭「四戦隊」第二小隊、抜錨せよ！",
+    "detail": "「摩耶改二」及び「鳥海改二」から成る精鋭「第四戦隊」第二小隊を含む有力な艦隊を編成、南西諸島防衛線、東部オリョール海、アルフォンシーノ方面、カレー洋リランカ島沖に出撃、敵を撃滅せよ！",
+    "reward_fuel": 400,
+    "reward_ammo": 400,
+    "reward_steel": 0,
+    "reward_bauxite": 400,
+    "reward_other": [
+      {
+        "name": "「摩耶の盾」掛け軸",
+        "category": "家具"
+      },
+      {
+        "choices": [
+          {
+            "name": "12.7cm連装高角砲(後期型)",
+            "amount": 2
+          },
+          {
+            "name": "高速修復材",
+            "amount": 8
+          },
+          {
+            "name": "勲章",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      223,
+      303
+    ],
+    "requirements": {
+      "category": "sortie",
+      "map": [
+        "1-4",
+        "2-3",
+        "3-3",
+        "4-5"
+      ],
+      "boss": true,
+      "result": "S",
+      "times": 1,
+      "groups": [
+        {
+          "ship": "鳥海改二"
+        },
+        {
+          "ship": "摩耶改二"
+        },
+        {
+          "ship": "艦",
+          "amount": 4
+        }
+      ]
+    }
+  }
