@@ -1,0 +1,62 @@
+{
+  "game_id": 687,
+  "wiki_id": "F78",
+  "category": 6,
+  "type": 1,
+  "name": "駆逐艦主砲兵装の戦時改修【II】",
+  "detail": "旗艦「夕立改二」または「時雨改二」第一スロに「12.7cm連装砲B型改二」改修max装備、「10cm連装高角砲」×5及び「94式高射装置」×1廃棄、開発資材×50、鋼材1200、新型砲熕兵装資材×1を準備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 220,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "12.7cm連装砲B型改四(戦時改修)+高射装置",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    685
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "secretary": [
+      "夕立改二",
+      "时雨改二"
+    ],
+    "slots": [
+      {
+        "slot": 1,
+        "equipment": "12.7cm連装砲B型改二",
+        "maxmodified": true,
+        "convert": true
+      }
+    ],
+    "consumptions": [
+      {
+        "name": "開発資材",
+        "amount": 50
+      },
+      {
+        "name": "新型砲熕兵装資材",
+        "amount": 1
+      }
+    ],
+    "scraps": [
+      {
+        "name": "10cm連装高角砲",
+        "amount": 5
+      },
+      {
+        "name": "94式高射装置",
+        "amount": 1
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      1200,
+      0
+    ]
+  }
+}
