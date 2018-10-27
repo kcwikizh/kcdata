@@ -71,7 +71,7 @@ def mergeQuests(patch=True):
     for questFile in questFileList:
         filename = os.path.join(SPLIT_QUESTS_DIR, questFile)
         with open(filename, mode='r', encoding='utf-8') as f:
-            quest = json.load(f)
+            quest = json.load(f, object_pairs_hook=OrderedDict)
         if 'game_id' not in quest:
             raise Exception('Missing attribute \'game_id\' ' + str(quest))
         quests[quest['game_id']] = quest
@@ -90,8 +90,7 @@ def deleteQuests():
         try:
             os.remove(filename)
         except OSError:
-            if DEBUG:
-                print('删除失败 ' + filename)
+            print('删除失败 ' + filename)
 
 
 def main():
