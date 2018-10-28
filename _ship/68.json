@@ -14,7 +14,7 @@ data:
   get_mes: よ！アタシ、摩耶ってんだ、よろしくな。
   voice_f: 0
   filename: gpshoozxgutk
-  file_version: ["17", "22", "1010"]
+  file_version: ["17", "22", "1026"]
   book_table_id: [68]
   book_sinfo: 高雄型重巡洋艦３番艦の摩耶さまだ。<br>生まれは神戸。南方作戦や激戦のソロモン海で暴れまくってやったぜ！<br>ああん？　レイテ？　んだよ、潜水艦って奴は苦手だよ。
   stats:

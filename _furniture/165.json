@@ -8,7 +8,7 @@ data:
   description: 提督の執務室に似合う趣き<br>のある椅子。ちょっと腰を<br>落ち着けて物事をじっくり<br>考えるのもいいかも！
   rarity: 1
   price: 100
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
   file_version: 

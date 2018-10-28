@@ -138,6 +138,10 @@ data:
             ship_id: 357
           -
             ship_id: 426
+          -
+            ship_id: 532
+          -
+            ship_id: 537
         -
           -
             ship_id: 421
@@ -153,6 +157,10 @@ data:
             ship_id: 357
           -
             ship_id: 426
+          -
+            ship_id: 532
+          -
+            ship_id: 537
     -
       consume:
         resource: [0, 0, 80, 70]

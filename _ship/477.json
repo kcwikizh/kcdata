@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: aoprntdhsoqa
-  file_version: ["19", "2", "1010"]
+  file_version: ["19", "2", "1026"]
   book_table_id: [477]
   book_sinfo: 天龍型１番艦、天龍だ。<br>駆逐艦を束ねて、殴り込みの水雷戦隊を率いるぜ。<br>相棒は、同型艦の龍田だ。<br>あいつ、ちゃんとやってるかな？ま、いいけどな。
   stats:

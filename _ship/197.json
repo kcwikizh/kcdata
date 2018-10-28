@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: mwlzgwdjlpxx
-  file_version: ["18", "17", "1010"]
+  file_version: ["18", "17", "1026"]
   book_table_id: [197]
   book_sinfo: 航空母艦、蒼龍です。<br>真珠湾攻撃から始まって、緒戦の重要な戦いに、主力空母の一隻として参加しました。<br>え？なに、ミッドウェー？なにそれ、美味しいの？
   stats:

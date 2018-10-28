@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: aufduiatycow
-  file_version: ["15", "15", "1010"]
+  file_version: ["15", "15", "1026"]
   book_table_id: 
   book_sinfo: 
   stats:

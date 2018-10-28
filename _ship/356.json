@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: grgeljjshnfk
-  file_version: ["21", "10", "1010"]
+  file_version: ["22", "10", "1026"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 2, 1]
     build_time: 70
   graph:
-    boko_n: [114, 210]
-    boko_d: [132, 258]
+    boko_n: [174, 198]
+    boko_d: [246, 228]
     kaisyu_n: [24, 0]
     kaisyu_d: [12, -24]
-    kaizo_n: [24, 127]
-    kaizo_d: [12, 144]
-    map_n: [54, 187]
-    map_d: [48, 216]
-    ensyuf_n: [60, 171]
-    ensyuf_d: [48, 180]
-    ensyue_n: [30, 0]
-    battle_n: [36, 192]
-    battle_d: [48, 228]
-    wed_a: [258, 24]
-    wed_b: [198, 156]
+    kaizo_n: [84, 120]
+    kaizo_d: [168, 108]
+    map_n: [126, 168]
+    map_d: [174, 192]
+    ensyuf_n: [96, 186]
+    ensyuf_d: [174, 198]
+    ensyue_n: [78, 0]
+    battle_n: [126, 198]
+    battle_d: [204, 222]
+    wed_a: [258, 0]
+    wed_b: [126, 186]
   wiki_id: "265a"
   chinese_name: 鹿岛改
   can_drop: false

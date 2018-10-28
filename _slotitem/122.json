@@ -107,10 +107,18 @@ data:
             ship_id: 422
           -
             ship_id: 346
+          -
+            ship_id: 532
+          -
+            ship_id: 537
         -
           -
             ship_id: 422
           -
             ship_id: 346
+          -
+            ship_id: 532
+          -
+            ship_id: 537
   chinese_name: 10cm连装高角炮+高射装置
 ---

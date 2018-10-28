@@ -14,7 +14,7 @@ data:
   get_mes: Buon Giornov！ ザラ級重巡、一番艦ザラです！<br>粘り強さが信条です。提督、よろしくね！
   voice_f: 1
   filename: spmuptretooz
-  file_version: ["7", "2", "1010"]
+  file_version: ["7", "2", "1026"]
   book_table_id: [448, 857]
   book_sinfo: ザラ級重巡洋艦、その一番艦、ザラです。巡洋艦同士の昼間水上砲戦なら、誰にも負けない自負はあります。妹のポーラが少し心配だけど、この艦隊なら！提督、頑張りましょう！<br>重巡ザラ、艦隊に参加します！
   stats:

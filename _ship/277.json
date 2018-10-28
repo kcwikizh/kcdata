@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: gtmwrbaniaud
-  file_version: ["16", "14", "1010"]
+  file_version: ["16", "14", "1026"]
   book_table_id: 
   book_sinfo: 
   stats:
