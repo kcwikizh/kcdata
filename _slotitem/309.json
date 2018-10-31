@@ -1,0 +1,36 @@
+---
+layout: json
+order: 309
+data:
+  id: 309
+  sort_no: 309
+  name: 甲標的 丙型
+  type: [2, 4, 22, 5, 0]
+  rare: 3
+  broken: [2, 8, 8, 3]
+  info: 独自開発された「特殊潜航艇」、その後期改良型です。<br>甲型を拡張、発電用ディーゼルエンジンを搭載した乙型をさらに改良熟成しました。甲標的母艦や新型の水上機母艦、そして潜水艦などで運用可能です。元来は艦隊決戦を補助する攻撃型兵器でしたが、後期の戦域では防御用兵器としても運用され、反復出撃を実現、奮戦健闘した部隊も存在します。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 14
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---
