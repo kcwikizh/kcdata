@@ -1,0 +1,75 @@
+{
+  "game_id": 891,
+  "wiki_id": "B123",
+  "category": 2,
+  "type": 1,
+  "name": "精強「十七駆」、北へ、南へ！",
+  "detail": "改装甲型駆逐艦「磯風乙改」「浜風乙改」「浦風丁改」「谷風丁改」4隻の精強「十七駆」を含む艦隊で鎮守府近海、キス島沖、ブルネイ泊地沖、南方海域前面に出撃、敵戦力と交戦、これを撃破せよ！",
+  "reward_fuel": 1000,
+  "reward_ammo": 1000,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "三式水中探信儀",
+          "amount": 1
+        },
+        {
+          "name": "12.7cm単装高角砲(後期型)",
+          "amount": 1
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "戦闘詳報",
+          "amount": 1
+        },
+        {
+          "name": "12.7cm連装砲C型改二",
+          "amount": 1
+        },
+        {
+          "name": "61cm四連装(酸素)魚雷後期型",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    195
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "1-5",
+      "3-2",
+      "7-1",
+      "5-1"
+    ],
+    "boss": true,
+    "result": "A",
+    "groups": [
+      {
+        "ship": "磯風乙改"
+      },
+      {
+        "ship": "浜風乙改"
+      },
+      {
+        "ship": "浦風丁改"
+      },
+      {
+        "ship": "谷風丁改"
+      }
+    ]
+  }
+}

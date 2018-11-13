@@ -1,0 +1,66 @@
+{
+  "game_id": 688,
+  "wiki_id": "F79",
+  "category": 6,
+  "type": 7,
+  "name": "航空戦力の強化",
+  "detail": "航空戦力強化任務：「艦戦」「艦爆」「艦攻」「水偵」を各3装備ずつ破棄、さらに熟練搭乗員x1、及びボーキサイト1,800を準備せよ！（任務達成後、熟練搭乗員x1及びボーキサイト1,800は消滅します）",
+  "reward_fuel": 100,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "零式艦戦32型(熟練)",
+          "amount": 1
+        },
+        {
+          "name": "一式戦 隼II型",
+          "amount": 1
+        },
+        {
+          "name": "瑞雲(六三一空)",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    674
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "艦上戦闘機",
+        "amount": 3
+      },
+      {
+        "name": "艦上爆撃機",
+        "amount": 3
+      },
+      {
+        "name": "艦上攻撃機",
+        "amount": 3
+      },
+      {
+        "name": "水上偵察機",
+        "amount": 3
+      }
+    ],
+    "equipments": [
+      {
+        "name": "熟練搭乗員",
+        "amount": 1
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      0,
+      1800
+    ]
+  }
+}

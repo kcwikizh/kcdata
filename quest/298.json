@@ -1,0 +1,72 @@
+{
+  "game_id": 298,
+  "wiki_id": "B124",
+  "category": 2,
+  "type": 1,
+  "name": "「第七駆逐隊」、南西諸島を駆ける！",
+  "detail": "「曙」「潮」「漣」「朧」からなる「第七駆逐隊」2隻以上を含む有力な艦隊を編成、南西諸島近海、バシー海峡、東部オリョール海、沖ノ島海域の敵戦力を撃滅、南西諸島海域の制海権を確保せよ！",
+  "reward_fuel": 700,
+  "reward_ammo": 700,
+  "reward_steel": 700,
+  "reward_bauxite": 0,
+  "reward_other": [
+   {
+      "choices": [
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        },
+        {
+          "name": "12.7cm連装砲B型改二",
+          "amount": 3
+        },
+        {
+          "name": "大発動艇",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "開発資材",
+          "amount": 8
+        },
+        {
+          "name": "改修資材",
+          "amount": 5
+        },
+        {
+          "name": "零式水中聴音機",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    674
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "2-1",
+      "2-2",
+      "2-3",
+      "2-4"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": [
+          "曙",
+          "潮",
+          "漣",
+          "朧"
+        ],
+        "select": 2
+      }
+    ]
+  }
+}

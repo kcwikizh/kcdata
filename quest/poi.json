@@ -3680,6 +3680,54 @@
     }
   },
   {
+    "game_id": 195,
+    "wiki_id": "A90",
+    "category": 1,
+    "type": 1,
+    "name": "精強「第十七駆逐隊」を編成せよ！",
+    "detail": "改装甲型駆逐隊編成任務：対空兵装を軸に大幅強化改装した「磯風乙改」「浜風乙改」、そして対潜兵装を強化改装した「浦風丁改」「谷風丁改」による、精鋭「第十七駆逐隊」を編成せよ！",
+    "reward_fuel": 170,
+    "reward_ammo": 170,
+    "reward_steel": 0,
+    "reward_bauxite": 170,
+    "reward_other": [
+      {
+        "name": "給糧艦「伊良湖」",
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "name": "戦闘糧食",
+            "amount": 2
+          },
+          {
+            "name": "高速修復材",
+            "amount": 3
+          }
+        ]
+      }
+    ],
+    "prerequisite": [],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "磯風乙改"
+        },
+        {
+          "ship": "浜風乙改"
+        },
+        {
+          "ship": "浦風丁改"
+        },
+        {
+          "ship": "谷風丁改"
+        }
+      ]
+    }
+  },
+  {
     "game_id": 201,
     "wiki_id": "Bd01",
     "category": 2,
@@ -7007,6 +7055,78 @@
     }
   },
   {
+    "game_id": 298,
+    "wiki_id": "B124",
+    "category": 2,
+    "type": 1,
+    "name": "「第七駆逐隊」、南西諸島を駆ける！",
+    "detail": "「曙」「潮」「漣」「朧」からなる「第七駆逐隊」2隻以上を含む有力な艦隊を編成、南西諸島近海、バシー海峡、東部オリョール海、沖ノ島海域の敵戦力を撃滅、南西諸島海域の制海権を確保せよ！",
+    "reward_fuel": 700,
+    "reward_ammo": 700,
+    "reward_steel": 700,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          },
+          {
+            "name": "12.7cm連装砲B型改二",
+            "amount": 3
+          },
+          {
+            "name": "大発動艇",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 8
+          },
+          {
+            "name": "改修資材",
+            "amount": 5
+          },
+          {
+            "name": "零式水中聴音機",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      674
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "2-1",
+        "2-2",
+        "2-3",
+        "2-4"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": [
+            "曙",
+            "潮",
+            "漣",
+            "朧"
+          ],
+          "select": 2
+        }
+      ]
+    }
+  },
+  {
     "game_id": 301,
     "wiki_id": "C01",
     "category": 3,
@@ -7976,6 +8096,55 @@
             "朝潮"
           ],
           "amount": 4
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 328,
+    "wiki_id": "C27",
+    "category": 3,
+    "type": 1,
+    "name": "精強「十七駆」、猛特訓！",
+    "detail": "駆逐隊演習任務：精強「第十七駆逐隊」4隻を含む艦隊を編成。新改装精強駆逐隊による猛特訓を開始する！同艦隊で、本日中に演習で4回以上勝利せよ！",
+    "reward_fuel": 170,
+    "reward_ammo": 170,
+    "reward_steel": 170,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "二式爆雷",
+            "amount": 1
+          },
+          {
+            "name": "補強増設",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      195
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 4,
+      "victory": true,
+      "daily": true,
+      "groups": [
+        {
+          "ship": "磯風乙改"
+        },
+        {
+          "ship": "浜風乙改"
+        },
+        {
+          "ship": "浦風丁改"
+        },
+        {
+          "ship": "谷風丁改"
         }
       ]
     }
@@ -12427,6 +12596,72 @@
         0,
         1200,
         0
+      ]
+    }
+  },
+  {
+    "game_id": 688,
+    "wiki_id": "F79",
+    "category": 6,
+    "type": 7,
+    "name": "航空戦力の強化",
+    "detail": "航空戦力強化任務：「艦戦」「艦爆」「艦攻」「水偵」を各3装備ずつ破棄、さらに熟練搭乗員x1、及びボーキサイト1,800を準備せよ！（任務達成後、熟練搭乗員x1及びボーキサイト1,800は消滅します）",
+    "reward_fuel": 100,
+    "reward_ammo": 100,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "零式艦戦32型(熟練)",
+            "amount": 1
+          },
+          {
+            "name": "一式戦 隼II型",
+            "amount": 1
+          },
+          {
+            "name": "瑞雲(六三一空)",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      674
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "艦上戦闘機",
+          "amount": 3
+        },
+        {
+          "name": "艦上爆撃機",
+          "amount": 3
+        },
+        {
+          "name": "艦上攻撃機",
+          "amount": 3
+        },
+        {
+          "name": "水上偵察機",
+          "amount": 3
+        }
+      ],
+      "equipments": [
+        {
+          "name": "熟練搭乗員",
+          "amount": 1
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        0,
+        1800
       ]
     }
   },
@@ -17187,6 +17422,81 @@
         {
           "ship": "艦",
           "amount": 4
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 891,
+    "wiki_id": "B123",
+    "category": 2,
+    "type": 1,
+    "name": "精強「十七駆」、北へ、南へ！",
+    "detail": "改装甲型駆逐艦「磯風乙改」「浜風乙改」「浦風丁改」「谷風丁改」4隻の精強「十七駆」を含む艦隊で鎮守府近海、キス島沖、ブルネイ泊地沖、南方海域前面に出撃、敵戦力と交戦、これを撃破せよ！",
+    "reward_fuel": 1000,
+    "reward_ammo": 1000,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "三式水中探信儀",
+            "amount": 1
+          },
+          {
+            "name": "12.7cm単装高角砲(後期型)",
+            "amount": 1
+          },
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          },
+          {
+            "name": "12.7cm連装砲C型改二",
+            "amount": 1
+          },
+          {
+            "name": "61cm四連装(酸素)魚雷後期型",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      195
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "1-5",
+        "3-2",
+        "7-1",
+        "5-1"
+      ],
+      "boss": true,
+      "result": "A",
+      "groups": [
+        {
+          "ship": "磯風乙改"
+        },
+        {
+          "ship": "浜風乙改"
+        },
+        {
+          "ship": "浦風丁改"
+        },
+        {
+          "ship": "谷風丁改"
         }
       ]
     }
