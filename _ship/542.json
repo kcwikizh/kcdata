@@ -14,9 +14,9 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: sbxjrrwenuzq
-  file_version: ["52", "1", "1026"]
-  book_table_id: [542]
-  book_sinfo: 最終量産型艦隊駆逐艦の一番艦。舞鶴生まれよ。惨敗のミッドウェー海戦が初陣よ。いいじゃない、別に。あの島への鼠輸送やケ号作戦、南太平洋海戦、キスカ撤退作戦などで奮戦したわ。ふう。
+  file_version: ["53", "1", "1116"]
+  book_table_id: [542, 1055]
+  book_sinfo: 最終量産型艦隊駆逐艦の一番艦。舞鶴生まれよ。惨敗<br>のミッドウェー海戦が初陣よ。いいじゃない、別に。<br>あの島への鼠輸送やケ号作戦、南太平洋海戦、キスカ<br>撤退作戦などで奮戦したわ。ふう。
   stats:
     taik: [33, 56]
     souk: [15, 53]
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [174, 186]
-    boko_d: [102, 258]
+    boko_n: [202, 136]
+    boko_d: [93, 220]
     kaisyu_n: [58, -13]
     kaisyu_d: [58, -13]
-    kaizo_n: [108, 90]
-    kaizo_d: [12, 156]
-    map_n: [168, 156]
-    map_d: [48, 210]
-    ensyuf_n: [120, 150]
-    ensyuf_d: [0, 192]
-    ensyue_n: [120, 0]
-    battle_n: [168, 162]
-    battle_d: [48, 228]
-    wed_a: [192, 30]
-    wed_b: [156, 168]
+    kaizo_n: [172, 37]
+    kaizo_d: [63, 102]
+    map_n: [217, 127]
+    map_d: [108, 213]
+    ensyuf_n: [193, 127]
+    ensyuf_d: [76, 216]
+    ensyue_n: [193, 0]
+    battle_n: [211, 138]
+    battle_d: [100, 225]
+    wed_a: [141, 43]
+    wed_b: [126, 180]
   wiki_id: "342"
   chinese_name: 夕云改二
   can_drop: false

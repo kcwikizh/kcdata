@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 1074
+  sort_no: 0
+  name: 
+  yomi: 
+  stype: 
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: cecilnfovbsd
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: [207, 210]
+    boko_d: [220, 304]
+    kaisyu_n: [36, -15]
+    kaisyu_d: [24, 40]
+    kaizo_n: [214, 84]
+    kaizo_d: [196, 142]
+    map_n: [253, 186]
+    map_d: [240, 238]
+    ensyuf_n: [225, 193]
+    ensyuf_d: [213, 234]
+    ensyue_n: [211, 0]
+    battle_n: [273, 207]
+    battle_d: [256, 256]
+    wed_a: [114, 1]
+    wed_b: [99, 135]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

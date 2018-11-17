@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: rjtnzguullvo
-  file_version: ["19", "4", "1026"]
+  file_version: ["20", "4", "1116"]
   book_table_id: [318]
   book_sinfo: 潜水母艦改装空母の龍鳳です。<br>機関の換装の影響で速度は計画通りには出なかったけれど、このクラスの軽空母としては充実の飛行甲板と兵装なんです。<br>空母龍鳳、精一杯頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 2, 2]
     build_time: 160
   graph:
-    boko_n: [204, 210]
-    boko_d: [198, 204]
+    boko_n: [-24, 192]
+    boko_d: [120, 216]
     kaisyu_n: [24, 24]
     kaisyu_d: [54, 24]
-    kaizo_n: [96, 108]
-    kaizo_d: [114, 96]
-    map_n: [144, 174]
-    map_d: [156, 168]
-    ensyuf_n: [114, 192]
-    ensyuf_d: [144, 180]
-    ensyue_n: [90, 0]
-    battle_n: [144, 192]
-    battle_d: [168, 174]
-    wed_a: [210, 12]
-    wed_b: [144, 180]
+    kaizo_n: [-84, 72]
+    kaizo_d: [96, 48]
+    map_n: [-48, 168]
+    map_d: [96, 192]
+    ensyuf_n: [-24, 168]
+    ensyuf_d: [120, 192]
+    ensyue_n: [-48, 0]
+    battle_n: [-48, 168]
+    battle_d: [72, 168]
+    wed_a: [312, 12]
+    wed_b: [240, 216]
   wiki_id: "190"
   chinese_name: 龙凤改
   can_drop: false

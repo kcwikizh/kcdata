@@ -14,7 +14,7 @@ data:
   get_mes: ごきげんよう。<br>特型駆逐艦、綾波と申します。
   voice_f: 0
   filename: icpexclhwthr
-  file_version: ["17", "15", "1026"]
+  file_version: ["18", "16", "1116"]
   book_table_id: [13, 774]
   book_sinfo: 特型駆逐艦、綾波です。<br>改良吹雪型の１番艦なんです。<br>第三次ソロモン海海戦では、駆逐艦一隻としては、特別な大活躍をお見せしました。<br>頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [174, 144]
-    boko_d: [174, 168]
+    boko_n: [141, 123]
+    boko_d: [138, 144]
     kaisyu_n: [19, 24]
     kaisyu_d: [42, 10]
-    kaizo_n: [72, 60]
-    kaizo_d: [60, 48]
-    map_n: [96, 114]
-    map_d: [96, 138]
-    ensyuf_n: [78, 120]
-    ensyuf_d: [78, 144]
-    ensyue_n: [66, 0]
-    battle_n: [108, 120]
-    battle_d: [108, 144]
-    wed_a: [258, 66]
-    wed_b: [144, 192]
+    kaizo_n: [58, 40]
+    kaizo_d: [25, 3]
+    map_n: [55, 117]
+    map_d: [-6, 129]
+    ensyuf_n: [130, 120]
+    ensyuf_d: [64, 55]
+    ensyue_n: [130, 0]
+    battle_n: [52, 108]
+    battle_d: [52, 108]
+    wed_a: [219, 78]
+    wed_b: [210, 195]
   wiki_id: "017"
   chinese_name: 绫波
   can_drop: true

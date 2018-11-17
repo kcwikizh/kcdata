@@ -14,7 +14,7 @@ data:
   get_mes: 私ね、ジョン・C・バトラー級護衛駆逐艦、<br>サミュエル・B・ロバーツっ。ね、覚えて！<br>あ、長い？　じゃあ、サムでもいいよ？<br>Nice to meet you！
   voice_f: 1
   filename: jfyepyfarffz
-  file_version: ["51", "1", "1026"]
+  file_version: ["51", "1", "1116"]
   book_table_id: [561, 681]
   book_sinfo: 護衛駆逐艦、ジョン・C・バトラー級、サミュエル・B・ロバーツです。姉妹はもの凄く多いんだ。船団護衛や対潜哨戒、結構万能なんだよ！で、私はね、TaffyⅢって任務部隊で、護衛空母を守って戦ったんだ。自分より大きくて強い艦たちと。私のことも覚えておいてね。Thanks！
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: 駆逐艦、浜風です。<br>これより貴艦隊所属となります。
   voice_f: 0
   filename: rubtymuqfeuq
-  file_version: ["29", "22", "1026"]
+  file_version: ["30", "22", "1116"]
   book_table_id: [170, 917, 939]
   book_sinfo: 浜風です。数々の激戦に参加しました。<br>レイテでは金剛を中心とした輪形陣。そして、武蔵や金剛、あの信濃の最期もこの目に焼き付けることになりました。運命の坊ノ岬では、雪風らと共に大和を護って奮闘します。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [240, 216]
-    boko_d: [132, 210]
+    boko_n: [24, 180]
+    boko_d: [96, 228]
     kaisyu_n: [36, 12]
     kaisyu_d: [60, 12]
-    kaizo_n: [192, 120]
-    kaizo_d: [48, 84]
-    map_n: [192, 192]
+    kaizo_n: [24, 72]
+    kaizo_d: [84, 84]
+    map_n: [48, 144]
     map_d: [96, 168]
-    ensyuf_n: [204, 192]
-    ensyuf_d: [96, 180]
-    ensyue_n: [192, 0]
-    battle_n: [216, 192]
-    battle_d: [96, 180]
-    wed_a: [90, -12]
-    wed_b: [204, 192]
+    ensyuf_n: [72, 144]
+    ensyuf_d: [96, 60]
+    ensyue_n: [12, 0]
+    battle_n: [0, 120]
+    battle_d: [96, 120]
+    wed_a: [264, 84]
+    wed_b: [168, 168]
   wiki_id: "170"
   chinese_name: 浜风
   can_drop: true

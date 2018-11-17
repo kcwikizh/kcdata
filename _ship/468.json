@@ -14,9 +14,9 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: schftfqkstxa
-  file_version: ["1", "13", "1026"]
-  book_table_id: [468]
-  book_sinfo: 朝潮型駆逐艦のネームシップ、朝潮よ。<br>バランスのとれた量産型駆逐艦として建造され、戦線を支えたの。<br>私の進化改良型が陽炎型になるわね。
+  file_version: ["12", "14", "1116"]
+  book_table_id: [468, 1084]
+  book_sinfo: 朝潮型駆逐艦のネームシップ、朝潮よ。<br>バランスのとれた量産型駆逐艦として建造され、戦線<br>を支えたの。<br>私の進化改良型が陽炎型になるわね。
   stats:
     taik: [34, 59]
     souk: [15, 55]

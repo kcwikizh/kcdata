@@ -59,19 +59,19 @@ data:
             amount: 4
       upgrade:
       day:
-        - false
-        - false
-        - false
-        - false
-        - false
         -
-          -
-            ship_id: 492
           -
             ship_id: 392
         -
           -
-            ship_id: 492
+            ship_id: 392
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 392
+        -
           -
             ship_id: 392
   chinese_name: 
