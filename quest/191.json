@@ -20,7 +20,8 @@
     }
   ],
   "prerequisite": [
-    680
+    680,
+    808
   ],
   "requirements": {
     "category": "fleet",
