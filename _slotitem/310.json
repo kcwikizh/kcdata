@@ -1,0 +1,36 @@
+---
+layout: json
+order: 310
+data:
+  id: 310
+  sort_no: 310
+  name: 14cm連装砲改
+  type: [1, 1, 2, 2, 0]
+  rare: 2
+  broken: [0, 3, 2, 1]
+  info: 軽巡洋艦や練習巡洋艦の主砲として搭載された中口径連装砲、その改良強化型です。<br>香取型練習巡洋艦「香取」「鹿島」や軽巡洋艦「夕張」、水上機母艦「日進」に搭載された主砲兵装の改良型です。対空戦闘には向きませんが、対艦対地戦闘には有効です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 5
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  improvement: 
+  chinese_name:
+---

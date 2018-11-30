@@ -58,11 +58,31 @@ data:
             id: 8
             amount: 4
       upgrade:
+        id: 246
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [20, 40]
+            -
+              id: 4
+              amount: [13, 17]
+            -
+              id: 75
+              amount: 2
+          slotitem:
+            id: 9
+            amount: 2
       day:
         -
           -
+            ship_id: 492
+          -
             ship_id: 392
         -
+          -
+            ship_id: 492
           -
             ship_id: 392
         - false
@@ -70,8 +90,12 @@ data:
         - false
         -
           -
+            ship_id: 492
+          -
             ship_id: 392
         -
+          -
+            ship_id: 492
           -
             ship_id: 392
   chinese_name: 

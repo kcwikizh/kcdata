@@ -77,6 +77,8 @@ data:
             ship_id: 265
           -
             ship_id: 319
+          -
+            ship_id: 142
         -
           -
             ship_id: 62
@@ -92,8 +94,14 @@ data:
           -
             ship_id: 319
         - false
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 142
+        -
+          -
+            ship_id: 142
+        -
+          -
+            ship_id: 142
   chinese_name: 20.3cm(2号)连装炮
 ---

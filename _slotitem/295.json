@@ -49,7 +49,7 @@ data:
               amount: [9, -1]
             -
               id: 4
-              amount: [6, -1]
+              amount: [6, 9]
         slotitem:
           -
             id: 3
@@ -62,8 +62,12 @@ data:
         -
           -
             ship_id: 368
-        - false
-        - false
+        -
+          -
+            ship_id: 368
+        -
+          -
+            ship_id: 368
         -
           -
             ship_id: 368
