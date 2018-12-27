@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 581
+  sort_no: 381
+  name: 日進
+  yomi: にっしん
+  stype: 16
+  ctype: 90
+  cnum: 1
+  backs: 6
+  after_lv: 40
+  after_ship_id: 690
+  get_mes: われが提督か？　ああ、ええ面構えじゃねぇ。<br>わしゃあ、水上機母艦、日進じゃ。<br>ようけ世話になるけ、覚えんさい。
+  voice_f: 1
+  filename: ognfjaatvkku
+  file_version: ["51", "1", "1226"]
+  book_table_id: [581]
+  book_sinfo: 呉生まれの最新鋭水上機母艦、日進じゃ。日本海軍の<br>整備した水上機母艦、その最終完成形というわけじゃ<br>な。強力なディーゼル機関と足の速さも自慢じゃ。<br>じゃけぇ、最前線への強行輸送作戦にも多用された<br>のぅ。まぁ、ようけ敵の飛行機が飛んできたけぇ…。<br>せっかくの最新の甲標的装備も試してみたかったのぅ
+  stats:
+    taik: [45, 65]
+    souk: [22, 45]
+    houg: [16, 46]
+    raig: [0, 40]
+    tyku: [20, 48]
+    luck: [9, 44]
+    soku: 10
+    leng: 2
+    kaih: 26
+    tais: 0
+    slot_num: 3
+    max_eq: [8, 8, 12, 0, 0]
+    after_fuel: 400
+    after_bull: 320
+    fuel_max: 40
+    bull_max: 40
+    broken: [3, 3, 16, 5]
+    pow_up: [1, 1, 2, 2]
+    build_time: 150
+  graph:
+    boko_n: [-22, 195]
+    boko_d: [115, 156]
+    kaisyu_n: [16, -31]
+    kaisyu_d: [27, -3]
+    kaizo_n: [-18, 75]
+    kaizo_d: [124, 15]
+    map_n: [27, 162]
+    map_d: [202, 88]
+    ensyuf_n: [-30, 148]
+    ensyuf_d: [139, 90]
+    ensyue_n: [-42, 0]
+    battle_n: [40, 178]
+    battle_d: [202, 124]
+    wed_a: [370, 36]
+    wed_b: [127, 169]
+  wiki_id: "381"
+  chinese_name: 日进
+  can_drop: false
+  can_construct: false
+---

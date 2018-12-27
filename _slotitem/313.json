@@ -1,0 +1,36 @@
+---
+layout: json
+order: 313
+data:
+  id: 313
+  sort_no: 313
+  name: 5inch単装砲 Mk.30改
+  type: [1, 1, 1, 16, 0]
+  rare: 4
+  broken: [0, 2, 2, 3]
+  info: 米国で開発・実戦配備された優れた両用砲。同駆逐艦クラスの搭載主砲として広く運用された単装砲、その改良型です。<br>対艦戦闘及び対空戦闘両面で優れた実用性を発揮した本砲は、あのフレッチャー級駆逐艦などの主砲兵装としても採用され、優れた戦闘力を発揮することになります。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 3
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 7
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name:
+---

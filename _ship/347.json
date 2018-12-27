@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: rgfuelwdntub
-  file_version: ["23", "10", "1116"]
+  file_version: ["25", "10", "1226"]
   book_table_id: 
   book_sinfo: 
   stats:

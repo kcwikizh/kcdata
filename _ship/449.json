@@ -14,7 +14,7 @@ data:
   get_mes: Buon Giornov～。<br>ザラ級重巡の三番艦～、ポーラです～。<br>何にでも挑戦したいお年頃。頑張ります～。
   voice_f: 1
   filename: zbwwxnwyxhps
-  file_version: ["5", "1", "1116"]
+  file_version: ["5", "1", "1226"]
   book_table_id: [449, 828]
   book_sinfo: ザラ級重巡洋艦の三番艦、ポーラです～。皆さん、覚えてくださいね～。装甲と防御重視の優れた重巡さんなんです～。水上戦闘にちゃんと出撃したんですよ～。でも～、戦艦には勝てません～。飲むしかないです～。
   stats:

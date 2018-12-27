@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 687
+  sort_no: 1487
+  name: 峯雲改
+  yomi: みねぐも
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: kxqxnneqrcpg
+  file_version: ["51", "1", "1226"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [31, 49]
+    souk: [14, 49]
+    houg: [12, 51]
+    raig: [28, 79]
+    tyku: [16, 50]
+    luck: [9, 54]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [19, 168]
+    boko_d: [100, 207]
+    kaisyu_n: [1, -10]
+    kaisyu_d: [49, 1]
+    kaizo_n: [16, 31]
+    kaizo_d: [55, 51]
+    map_n: [76, 147]
+    map_d: [133, 175]
+    ensyuf_n: [24, 139]
+    ensyuf_d: [105, 157]
+    ensyue_n: [18, 0]
+    battle_n: [79, 159]
+    battle_d: [145, 186]
+    wed_a: [291, 36]
+    wed_b: [129, 147]
+  wiki_id: "383a"
+  chinese_name: 峰云改
+  can_drop: false
+  can_construct: false
+---

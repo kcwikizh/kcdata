@@ -14,16 +14,16 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: uuqdlbtrkmvk
-  file_version: ["12", "12", "1116"]
+  file_version: ["12", "12", "1226"]
   book_table_id: 
   book_sinfo: 
   stats:
     taik: [79, 92]
     souk: [40, 79]
-    houg: [0, 49]
+    houg: [0, 50]
     raig: [0, 0]
     tyku: [30, 79]
-    luck: [12, 59]
+    luck: [12, 60]
     soku: 10
     leng: 1
     kaih: 

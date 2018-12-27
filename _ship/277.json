@@ -14,16 +14,16 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: gtmwrbaniaud
-  file_version: ["16", "14", "1116"]
+  file_version: ["16", "14", "1226"]
   book_table_id: 
   book_sinfo: 
   stats:
     taik: [77, 92]
     souk: [40, 79]
-    houg: [0, 54]
+    houg: [0, 55]
     raig: [0, 0]
     tyku: [35, 79]
-    luck: [12, 59]
+    luck: [12, 60]
     soku: 10
     leng: 1
     kaih: 

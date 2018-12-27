@@ -8,7 +8,7 @@ data:
   description: 秋といえば秋刀魚の美味し<br>い季節。シンプルに焼いて<br>ほかほかご飯と一緒に召し<br>あがれ！提督専用座布団も<br>嬉しい秋を感じる食卓。
   rarity: 4
   price: 2200
-  saleflg: 1
+  saleflg: 0
   season: 3
   filename: "043"
   file_version: 1

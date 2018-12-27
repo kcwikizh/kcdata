@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 689
+  sort_no: 1489
+  name: Johnston改
+  yomi: ジョンストン
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: mskpesmkwqym
+  file_version: ["51", "1", "1226"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [34, 50]
+    souk: [16, 52]
+    houg: [15, 55]
+    raig: [26, 72]
+    tyku: [40, 90]
+    luck: [40, 82]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 20
+    bull_max: 20
+    broken: [1, 2, 12, 3]
+    pow_up: [1, 1, 3, 1]
+    build_time: 23
+  graph:
+    boko_n: [-36, 183]
+    boko_d: [136, 255]
+    kaisyu_n: [16, -19]
+    kaisyu_d: [63, 3]
+    kaizo_n: [-31, 58]
+    kaizo_d: [120, 85]
+    map_n: [12, 147]
+    map_d: [207, 210]
+    ensyuf_n: [-15, 139]
+    ensyuf_d: [156, 214]
+    ensyue_n: [-19, 0]
+    battle_n: [43, 166]
+    battle_d: [216, 232]
+    wed_a: [373, 30]
+    wed_b: [103, 154]
+  wiki_id: "362a"
+  chinese_name: 约翰斯顿改
+  can_drop: false
+  can_construct: false
+---

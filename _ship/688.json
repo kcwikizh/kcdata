@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 688
+  sort_no: 1488
+  name: 早波改
+  yomi: はやなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: mcqjnasritke
+  file_version: ["51", "1", "1226"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 51]
+    raig: [27, 80]
+    tyku: [18, 58]
+    luck: [10, 55]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [22, 201]
+    boko_d: [150, 205]
+    kaisyu_n: [-1, -9]
+    kaisyu_d: [75, -9]
+    kaizo_n: [22, 73]
+    kaizo_d: [120, 45]
+    map_n: [51, 163]
+    map_d: [183, 166]
+    ensyuf_n: [25, 150]
+    ensyuf_d: [177, 142]
+    ensyue_n: [10, 0]
+    battle_n: [69, 184]
+    battle_d: [181, 186]
+    wed_a: [288, 10]
+    wed_b: [115, 162]
+  wiki_id: "328a"
+  chinese_name: 早波改
+  can_drop: false
+  can_construct: false
+---

@@ -32,5 +32,91 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [100, 150, 0, 330]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 7]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [8, 10]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          -
+            id: 20
+            amount: 1
+          -
+            id: 181
+            amount: 1
+      upgrade:
+        id: 185
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [12, 20]
+            -
+              id: 4
+              amount: [6, 10]
+            -
+              id: 77
+              amount: 1
+          slotitem:
+            id: 21
+            amount: 3
+      day:
+        -
+          -
+            ship_id: 521
+          -
+            ship_id: 526
+          -
+            ship_id: 380
+          -
+            ship_id: 529
+          -
+            ship_id: 161
+          -
+            ship_id: 166
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 521
+          -
+            ship_id: 526
+          -
+            ship_id: 380
+          -
+            ship_id: 529
+          -
+            ship_id: 161
+          -
+            ship_id: 166
+        -
+          -
+            ship_id: 521
+          -
+            ship_id: 526
+          -
+            ship_id: 380
+          -
+            ship_id: 529
+          -
+            ship_id: 161
+          -
+            ship_id: 166
   chinese_name: 三式战 飞燕
 ---
