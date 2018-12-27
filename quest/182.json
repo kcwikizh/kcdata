@@ -55,6 +55,10 @@
       {
         "ship": "駆逐",
         "amount": 2
+      },
+      {
+        "ship": "艦",
+        "amount": 1
       }
     ],
     "fleetid": 1
