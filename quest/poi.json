@@ -3733,6 +3733,51 @@
     }
   },
   {
+    "game_id": 196,
+    "wiki_id": "A91",
+    "category": 1,
+    "type": 1,
+    "name": "精鋭'第十駆逐隊'、抜錨準備！",
+    "detail": "甲型駆逐艦編成任務：夕雲型駆逐艦「夕雲改二」および「巻雲改二」の2隻から成る精鋭第十駆逐隊(2隻編成)を編成せよ！",
+    "reward_fuel": 200,
+    "reward_ammo": 0,
+    "reward_steel": 200,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "戦闘糧食",
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "name": "高速修復材",
+            "amount": 5
+          },
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      184
+    ],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "夕雲改二"
+        },
+        {
+          "ship": "巻雲改二"
+        }
+      ],
+      "disallowed": "他の艦"
+    }
+  },
+  {
     "game_id": 201,
     "wiki_id": "Bd01",
     "category": 2,
@@ -7127,6 +7172,81 @@
             "朧"
           ],
           "select": 2
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 299,
+    "wiki_id": "B125",
+    "category": 2,
+    "type": 1,
+    "name": "近海の警戒監視と哨戒活動を強化せよ！",
+    "detail": "軽巡旗艦、駆逐艦または海防艦2隻を含む艦隊を編成、南西諸島沖、製油所地帯沿岸、南西諸島防衛戦、南西諸島近海、バシー海峡を哨戒、敵艦隊を捕捉撃滅、近海の制海権を確立せよ！",
+    "reward_fuel": 800,
+    "reward_ammo": 800,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "補強増設",
+            "amount": 1
+          },
+          {
+            "name": "勲章",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 2
+          },
+          {
+            "name": "探照灯",
+            "amount": 2
+          },
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      303
+    ],
+    "requirements": {
+      "category": "sortie",
+      "map": [
+        "1-2",
+        "1-3",
+        "1-4",
+        "2-1",
+        "2-2"
+      ],
+      "boss": true,
+      "result": "S",
+      "times": 1,
+      "groups": [
+        {
+          "ship": "軽巡",
+          "flagship": true
+        },
+        {
+          "ship": [
+            "駆逐",
+            "海防艦"
+          ],
+          "amount": 2
+        },
+        {
+          "ship": "艦",
+          "amount": 3
         }
       ]
     }
@@ -17447,6 +17567,124 @@
           "ship": "谷風丁改"
         }
       ]
+    }
+  },
+  {
+    "game_id": 892,
+    "wiki_id": "B126",
+    "category": 2,
+    "type": 1,
+    "name": "主力オブ主力、抜錨開始！",
+    "detail": "甲型駆逐艦編成任務：夕雲型駆逐艦「夕雲改二」及び「巻雲改二」の2隻から成る精鋭第十駆逐隊を含む有力な艦隊を南方海域に投入、サブ島沖海域、サーモン海域、サーモン海域北方の敵を捕捉撃滅せよ！",
+    "reward_fuel": 500,
+    "reward_ammo": 500,
+    "reward_steel": 500,
+    "reward_bauxite": 1000,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "新型航空兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "大発動艇",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "熟練搭乗員",
+            "amount": 1
+          },
+          {
+            "name": "改修資材",
+            "amount": 4
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      196,
+      201
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "5-3",
+        "5-4",
+        "5-5"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": "夕雲改二"
+        },
+        {
+          "ship": "巻雲改二"
+        },
+        {
+          "ship": "艦",
+          "amount": 4
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 893,
+    "wiki_id": "Bq08",
+    "category": 2,
+    "type": 7,
+    "name": "泊地周辺海域の安全確保を徹底せよ！",
+    "detail": "泊地近海警戒戦果拡張：有力な泊地哨戒部隊を編成、鎮守府近海、ブルネイ泊地沖、タウイタウイ泊地沖に反復出撃！各周辺海域に出没する敵船を制圧、さらに泊地周辺の脅威となる敵戦力を捕捉撃滅せよ！",
+    "reward_fuel": 2000,
+    "reward_ammo": 500,
+    "reward_steel": 0,
+    "reward_bauxite": 500,
+    "reward_other": [
+      {
+        "name": "戦果300"
+      },
+      {
+        "choices": [
+          {
+            "name": "熟練見張員",
+            "amount": 1
+          },
+          {
+            "name": "熟練搭乗員",
+            "amount": 1
+          },
+          {
+            "name": "洋上補給",
+            "amount": 4
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      214,
+      299
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 3,
+      "map": [
+        "1-5",
+        "7-1",
+        "7-2-P1",
+        "7-2-P2"
+      ],
+      "boss": true,
+      "result": "S"
     }
   }
 ]
