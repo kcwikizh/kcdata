@@ -1,0 +1,58 @@
+{
+  "game_id": 804,
+  "wiki_id": "SB36",
+  "category": 2,
+  "type": 1,
+  "name": "迎春！亥年「空母機動部隊」新春の西へ！",
+  "detail": "新春特別任務：旗艦に航空母艦、護衛駆逐艦２隻以上を擁する機動部隊を西方海域に展開！反復出撃によって、深海東洋艦隊漸減作戦を成功させよ！精鋭「空母機動部隊」、亥年の海に抜錨せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 2019,
+  "reward_other": [
+    {
+      "name": "「日進月歩」掛け軸",
+      "category": "家具"
+    },
+    {
+      "choices": [
+        {
+          "name": "新型航空兵装資材",
+          "amount": 2
+        },
+        {
+          "name": "強風改",
+          "amount": 1
+        },
+        {
+          "name": "紫雲",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    803
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": "4-5",
+    "boss": true,
+    "result": "A",
+    "times": 4,
+    "groups": [
+      {
+        "ship": "空母",
+        "flagship": true
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      },
+      {
+        "ship": "艦",
+        "amount": 3
+      }
+    ]
+  }
+}
