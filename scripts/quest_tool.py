@@ -25,7 +25,7 @@ def printHelp():
 参数:
     -m, --merge         # 将'{directory}'目录下的任务小文件，合并为'{questsFile}'
     -p, --patch         # 默认模式 合并时采用patch模式
-    -n, --no-patch      # 关闭patch模式，从新合成quest文件
+    -n, --no-patch      # 关闭patch模式，重新合成quest文件
     -s, --split         # 切割'{questsFile}'文件
     -c, --compression   # 压缩模式，不保留缩进(默认缩进2空格)
     -rm, --remove       # 删除所有小任务文件
@@ -71,7 +71,10 @@ def mergeQuests(patch=True):
     for questFile in questFileList:
         filename = os.path.join(SPLIT_QUESTS_DIR, questFile)
         with open(filename, mode='r', encoding='utf-8') as f:
-            quest = json.load(f, object_pairs_hook=OrderedDict)
+            try:
+                quest = json.load(f, object_pairs_hook=OrderedDict)
+            except Exception as e:
+                print('json解析错误 ', filename, e)
         if 'game_id' not in quest:
             raise Exception('Missing attribute \'game_id\' ' + str(quest))
         quests[quest['game_id']] = quest
