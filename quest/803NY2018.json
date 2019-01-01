@@ -70,7 +70,6 @@
       {
         "category": "sortie",
         "map": "1-6",
-        "boss": true,
         "times": 3,
         "groups": [
           {
