@@ -1,0 +1,67 @@
+{
+  "game_id": 690,
+  "wiki_id": "F81",
+  "category": 6,
+  "type": 1,
+  "name": "基地航空隊戦力の拡充",
+  "detail": "基地航空隊拡充任務：「艦戦」「艦爆」「艦攻」各×4装備を廃棄、熟練搭乗員×1、新型航空兵装資材×2、ボーキサイト4,800を準備せよ！（任務達成後、準備した資源・熟練搭乗員・新型航空兵装資材は消費）",
+  "reward_fuel": 0,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "雷電",
+          "amount": 1
+        },
+        {
+          "name": "試製東海",
+          "amount": 1
+        },
+        {
+          "name": "紫電一一型",
+          "amount": 2
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    641,
+    689
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "艦上戦闘機",
+        "amount": 4
+      },
+      {
+        "name": "艦上爆撃機",
+        "amount": 4
+      },
+      {
+        "name": "艦上攻撃機",
+        "amount": 4
+      }
+    ],
+    "equipments": [
+      {
+        "name": "熟練搭乗員",
+        "amount": 1
+      },
+      {
+        "name": "新型航空兵装資材",
+        "amount": 2
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      0,
+      4800
+    ]
+  }
+}
