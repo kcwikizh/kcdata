@@ -1,0 +1,75 @@
+{
+  "game_id": 299,
+  "wiki_id": "B125",
+  "category": 2,
+  "type": 1,
+  "name": "近海の警戒監視と哨戒活動を強化せよ！",
+  "detail": "軽巡旗艦、駆逐艦または海防艦2隻を含む艦隊を編成、南西諸島沖、製油所地帯沿岸、南西諸島防衛戦、南西諸島近海、バシー海峡を哨戒、敵艦隊を捕捉撃滅、近海の制海権を確立せよ！",
+  "reward_fuel": 800,
+  "reward_ammo": 800,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "補強増設",
+          "amount": 1
+        },
+        {
+          "name": "勲章",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 2
+        },
+        {
+          "name": "探照灯",
+          "amount": 2
+        },
+        {
+          "name": "戦闘詳報",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    303
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": [
+      "1-2",
+      "1-3",
+      "1-4",
+      "2-1",
+      "2-2"
+    ],
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "軽巡",
+        "flagship": true
+      },
+      {
+        "ship": [
+          "駆逐",
+          "海防艦"
+        ],
+        "amount": 2
+      },
+      {
+        "ship": "艦",
+        "amount": 3
+      }
+    ]
+  }
+}
