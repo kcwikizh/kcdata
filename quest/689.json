@@ -1,0 +1,71 @@
+{
+  "game_id": 689,
+  "wiki_id": "F80",
+  "category": 6,
+  "type": 1,
+  "name": "戦闘機隊戦力の拡充",
+  "detail": "戦闘機拡充任務：「艦戦」「水偵」各×4、「艦偵」×2装備を廃棄、熟練搭乗員×1、新型航空兵装資材×1、ボーキサイト3,000を準備せよ！（任務達成後、準備した資源・熟練搭乗員・新型航空兵装資材は消費）",
+  "reward_fuel": 0,
+  "reward_ammo": 100,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "烈風改",
+          "amount": 1
+        },
+        {
+          "name": "三式戦 飛燕",
+          "amount": 2
+        },
+        {
+          "name": "Spitfire Mk.I",
+          "amount": 2
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    204,
+    225,
+    303,
+    619,
+    673,
+    702
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "艦上戦闘機",
+        "amount": 4
+      },
+      {
+        "name": "水上偵察機",
+        "amount": 4
+      },
+      {
+        "name": "艦上偵察機",
+        "amount": 2
+      }
+    ],
+    "equipments": [
+      {
+        "name": "熟練搭乗員",
+        "amount": 1
+      },
+      {
+        "name": "新型航空兵装資材",
+        "amount": 1
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      0,
+      3000
+    ]
+  }
+}
