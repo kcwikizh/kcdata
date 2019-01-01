@@ -1,0 +1,110 @@
+{
+  "game_id": 803,
+  "wiki_id": "SB35",
+  "category": 2,
+  "type": 1,
+  "name": "亥年護衛始め！「海上護衛隊」なお正月！",
+  "detail": "新春任務：海防艦·駆逐艦を主力とした海上護衛隊(軽空母1隻配備可能)を編成、鎮守府近海において近海対潜哨戒及び輸送船団護衛作戦、南西諸島海域で南西諸島哨戒を実施、各2回以上成功させよ！",
+  "reward_fuel": 2019,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "給糧艦「間宮」",
+          "amount": 1
+        },
+        {
+          "name": "二式爆雷",
+          "amount": 2
+        },
+        {
+          "name": "プレゼント箱",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "高速修復材",
+          "amount": 9
+        },
+        {
+          "name": "家具職人",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    802
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "map": [
+          "1-5",
+          "2-1"
+        ],
+        "boss": true,
+        "result": "A",
+        "times": 2,
+        "groups": [
+          {
+            "ship": [
+              "軽母"
+            ],
+            "amount": [
+              0,
+              1
+            ]
+          },
+          {
+            "ship": [
+              "駆逐",
+              "海防艦"
+            ],
+            "amount": [
+              5,
+              99
+            ]
+          }
+        ],
+        "disallowed": "他の艦"
+      },
+      {
+        "category": "sortie",
+        "map": "1-6",
+        "times": 2,
+        "groups": [
+          {
+            "ship": [
+              "軽母"
+            ],
+            "amount": [
+              0,
+              1
+            ]
+          },
+          {
+            "ship": [
+              "駆逐",
+              "海防艦"
+            ],
+            "amount": [
+              5,
+              99
+            ]
+          }
+        ],
+        "disallowed": "他の艦",
+        "result": "クリア"
+      }
+    ]
+  }
+}
