@@ -1,0 +1,49 @@
+{
+  "game_id": 893,
+  "wiki_id": "Bq08",
+  "category": 2,
+  "type": 7,
+  "name": "泊地周辺海域の安全確保を徹底せよ！",
+  "detail": "泊地近海警戒戦果拡張：有力な泊地哨戒部隊を編成、鎮守府近海、ブルネイ泊地沖、タウイタウイ泊地沖に反復出撃！各周辺海域に出没する敵船を制圧、さらに泊地周辺の脅威となる敵戦力を捕捉撃滅せよ！",
+  "reward_fuel": 2000,
+  "reward_ammo": 500,
+  "reward_steel": 0,
+  "reward_bauxite": 500,
+  "reward_other": [
+    {
+      "name": "戦果300"
+    },
+    {
+      "choices": [
+        {
+          "name": "熟練見張員",
+          "amount": 1
+        },
+        {
+          "name": "熟練搭乗員",
+          "amount": 1
+        },
+        {
+          "name": "洋上補給",
+          "amount": 4
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    214,
+    299
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 3,
+    "map": [
+      "1-5",
+      "7-1",
+      "7-2-P1",
+      "7-2-P2"
+    ],
+    "boss": true,
+    "result": "S"
+  }
+}
