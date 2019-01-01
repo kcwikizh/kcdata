@@ -1,0 +1,75 @@
+{
+  "game_id": 895,
+  "wiki_id": "B127",
+  "category": 2,
+  "type": 1,
+  "name": "冬季北方海域作戦",
+  "detail": "冬季北方作戦：軽巡級を旗艦とする有力な艦隊で、モーレイ海、アルフォンシーノ方面、北方海域全域及び北方AL海域に反復出撃！同海域に遊弋する敵艦隊を捕捉、これを撃滅し、北方海域制海権を確保せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 800,
+  "reward_steel": 0,
+  "reward_bauxite": 800,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "零式艦戦21型",
+          "amount": 3
+        },
+        {
+          "name": "零式艦戦32型",
+          "amount": 2
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "改修資材",
+          "amount": 4
+        },
+        {
+          "name": "22号対水上電探",
+          "amount": 3
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 2
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    894
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 2,
+    "map": [
+      "3-1",
+      "3-3",
+      "3-4",
+      "3-5"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": [
+          "軽巡洋艦",
+          "重雷装巡洋艦",
+          "練習巡洋艦"
+        ],
+        "flagship": true
+      },
+      {
+        "ship": "艦",
+        "amount": 5
+      }
+    ]
+  }
+}
