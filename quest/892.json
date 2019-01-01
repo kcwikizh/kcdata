@@ -1,0 +1,69 @@
+{
+  "game_id": 892,
+  "wiki_id": "B126",
+  "category": 2,
+  "type": 1,
+  "name": "主力オブ主力、抜錨開始！",
+  "detail": "甲型駆逐艦編成任務：夕雲型駆逐艦「夕雲改二」及び「巻雲改二」の2隻から成る精鋭第十駆逐隊を含む有力な艦隊を南方海域に投入、サブ島沖海域、サーモン海域、サーモン海域北方の敵を捕捉撃滅せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 500,
+  "reward_steel": 500,
+  "reward_bauxite": 1000,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "大発動艇",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "熟練搭乗員",
+          "amount": 1
+        },
+        {
+          "name": "改修資材",
+          "amount": 4
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    196,
+    201
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "5-3",
+      "5-4",
+      "5-5"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": "夕雲改二"
+      },
+      {
+        "ship": "巻雲改二"
+      },
+      {
+        "ship": "艦",
+        "amount": 4
+      }
+    ]
+  }
+}
