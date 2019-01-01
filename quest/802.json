@@ -1,0 +1,74 @@
+{
+  "game_id": 802,
+  "wiki_id": "SB34",
+  "category": 2,
+  "type": 1,
+  "name": "謹賀瑞雲!「日向」と「伊勢」のお手伝い!",
+  "detail": "航空巡洋艦または水上機母艦旗艦の艦隊でバシー海峡及び東部オリョール海、沖ノ島海域に反復出撃だ!",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 2019,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "瑞雲",
+          "amount": 4
+        },
+        {
+          "name": "瑞雲12型",
+          "amount": 1
+        },
+        {
+          "name": "改修資材",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "熟練搭乗員",
+          "amount": 1
+        },
+        {
+          "name": "12cm30連装噴進砲",
+          "amount": 4
+        },
+        {
+          "name": "13号対空電探改",
+          "amount": 2
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    801
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": [
+      "2-2",
+      "2-3",
+      "2-4"
+    ],
+    "boss": true,
+    "result": "A",
+    "times": 2,
+    "groups": [
+      {
+        "ship": [
+          "水上機母艦",
+          "航空巡洋艦",
+          "航空戦艦"
+        ],
+        "flagship": true
+      },
+      {
+        "ship": "艦",
+        "amount": 5
+      }
+    ]
+  }
+}
