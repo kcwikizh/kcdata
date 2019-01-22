@@ -11124,57 +11124,6 @@
     }
   },
   {
-    "game_id": 657,
-    "wiki_id": "SF03",
-    "category": 6,
-    "type": 1,
-    "name": "春の準備任務：桃の節句準備！",
-    "detail": "春の準備任務：「14cm単装砲」を二つ廃棄、家具コイン5,000と「九九式艦爆」「61cm三連装魚雷」各二つを準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。",
-    "reward_fuel": 0,
-    "reward_ammo": 0,
-    "reward_steel": 0,
-    "reward_bauxite": 0,
-    "reward_other": [
-      {
-        "name": "特注家具職人",
-        "amount": 1
-      },
-      {
-        "name": "菱餅",
-        "amount": 1
-      }
-    ],
-    "prerequisite": [
-      303,
-      604
-    ],
-    "requirements": {
-      "category": "equipexchange",
-      "equipments": [
-        {
-          "name": "九九式艦爆",
-          "amount": 2
-        },
-        {
-          "name": "61cm三連装魚雷",
-          "amount": 2
-        }
-      ],
-      "scraps": [
-        {
-          "name": "14cm単装砲",
-          "amount": 2
-        }
-      ],
-      "consumptions": [
-        {
-          "name": "家具コイン",
-          "amount": 5000
-        }
-      ]
-    }
-  },
-  {
     "game_id": 658,
     "wiki_id": "F50",
     "category": 6,
@@ -14662,38 +14611,6 @@
           "amount": 3
         }
       ]
-    }
-  },
-  {
-    "game_id": 847,
-    "wiki_id": "SB22",
-    "category": 2,
-    "type": 1,
-    "name": "春の準備任務：桃の節句準備を完遂せよ！",
-    "detail": "春の準備任務：艦隊を東部オリョール海に反復出撃、同方面敵艦隊を覆滅し、<br>同海域周辺の制海権を完全に確保、桃の節句を迎える準備を完遂せよ！",
-    "reward_fuel": 330,
-    "reward_ammo": 330,
-    "reward_steel": 0,
-    "reward_bauxite": 330,
-    "reward_other": [
-      {
-        "name": "菱餅",
-        "amount": 3
-      },
-      {
-        "name": "補強増設",
-        "amount": 1
-      }
-    ],
-    "prerequisite": [
-      657
-    ],
-    "requirements": {
-      "category": "sortie",
-      "map": "2-3",
-      "boss": true,
-      "result": "S",
-      "times": 5
     }
   },
   {
