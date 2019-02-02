@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 408
+  type: 3
+  no: 88
+  title: 「日進月歩」掛け軸
+  description: 日の月に時間は流れ、時代<br>は移り変わり、私達は前進<br>していきます。そんな感慨<br>と時代への感謝を込めた、<br>日進の特別な掛け軸です。
+  rarity: 6
+  price: 8800
+  saleflg: 0
+  season: 11
+  filename: "089"
+  file_version: "1"
+---

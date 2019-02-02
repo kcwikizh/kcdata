@@ -14,7 +14,7 @@ data:
   get_mes: 長良型軽巡四番艦の「由良」です。<br>どうぞ、よろしくお願いいたしますっ！
   voice_f: 0
   filename: shjlydqjdfcl
-  file_version: ["26", "20", "1226"]
+  file_version: ["26", "20", "122"]
   book_table_id: [23, 842]
   book_sinfo: 長良型軽巡４番艦の由良です。<br>私たちの中では、初めて水上偵察機を搭載したの。<br>水雷戦隊や潜水戦隊の旗艦として、活躍したのよ？<br>ドーントレスとかＢ17とかそういうのはちょっと苦手。
   stats:

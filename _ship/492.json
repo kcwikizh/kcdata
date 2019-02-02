@@ -14,9 +14,9 @@ data:
   get_mes: Je suis vraiment ravie de vous rencontrer amiral.<br>お逢いできて嬉しいです、amiral<br>戦艦Richelieu、まいります。
   voice_f: 1
   filename: mbuqrrnwsofd
-  file_version: ["7", "3", "1226"]
-  book_table_id: [492, 771, 737]
-  book_sinfo: Richelieu級戦艦一番艦、Richelieuよ。自由・平等・博愛の国で生まれた最強の戦艦といったほうが話が早いかしら？特にこの四連装主砲は流石…といったところね。そうね、あの戦いは両陣営でも戦ったわ。<br>まあ、色々あるの。C’est comme ca.
+  file_version: ["9", "5", "122"]
+  book_table_id: [492, 771, 737, 1090]
+  book_sinfo: Richelieu級戦艦一番艦、Richelieuよ。自由・平<br>等・博愛の国で生まれた最強の戦艦といったほうが話<br>が早いかしら？特にこの四連装主砲は流石…といった<br>ところね。そうね、あの戦いは両陣営でも戦ったわ。<br>まあ、色々あるの。C’est comme ca.
   stats:
     taik: [85, 93]
     souk: [72, 90]
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 3]
     build_time: 300
   graph:
-    boko_n: [223, 201]
-    boko_d: [142, 300]
+    boko_n: [-120, 204]
+    boko_d: [90, 240]
     kaisyu_n: [-21, -30]
     kaisyu_d: [48, 0]
-    kaizo_n: [217, 79]
-    kaizo_d: [139, 121]
-    map_n: [261, 190]
-    map_d: [205, 244]
-    ensyuf_n: [211, 184]
-    ensyuf_d: [144, 202]
-    ensyue_n: [199, 0]
-    battle_n: [274, 208]
-    battle_d: [208, 243]
-    wed_a: [94, -15]
-    wed_b: [109, 127]
+    kaizo_n: [-252, 102]
+    kaizo_d: [6, 90]
+    map_n: [-192, 180]
+    map_d: [48, 192]
+    ensyuf_n: [-228, 192]
+    ensyuf_d: [36, 192]
+    ensyue_n: [-234, 0]
+    battle_n: [-192, 204]
+    battle_d: [60, 216]
+    wed_a: [576, -12]
+    wed_b: [126, 168]
   wiki_id: "292"
   chinese_name: 黎塞留
   can_drop: false

@@ -14,16 +14,16 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ywgeborrihwb
-  file_version: ["1", "1", "1226"]
+  file_version: ["1", "1", "122"]
   book_table_id: 
   book_sinfo: 
   stats:
     taik: [48, 78]
-    souk: [28, 57]
-    houg: [0, 24]
+    souk: [28, 58]
+    houg: [0, 28]
     raig: [0, 0]
     tyku: [30, 72]
-    luck: [7, 37]
+    luck: [7, 48]
     soku: 10
     leng: 1
     kaih: 

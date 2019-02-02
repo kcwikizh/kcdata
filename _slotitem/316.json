@@ -1,0 +1,36 @@
+---
+layout: json
+order: 316
+data:
+  id: 316
+  sort_no: 316
+  name: Re.2001 CB改
+  type: [3, 5, 7, 7, 14]
+  rare: 4
+  broken: [1, 4, 0, 6]
+  info: パスタの国で開発/配備された液冷エンジン装備の戦闘機、<br>その戦闘爆撃機タイプです。<br>比較的大きな打撃力を持ち、爆弾投下後は制空戦闘で活躍……することもできるかも。艦爆と艦戦の中間的な機体です。あの空母にぜひ載せてあげたいですね！
+  usebull: 0
+  cost: 6
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 3
+    raig: 0
+    soku: 0
+    baku: 6
+    tyku: 4
+    tais: 3
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

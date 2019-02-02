@@ -14,7 +14,7 @@ data:
   get_mes: あの……軽巡洋艦、神通です。<br>どうか、よろしくお願い致します……
   voice_f: 0
   filename: icmlpbiditqy
-  file_version: ["8", "8", "1226"]
+  file_version: ["8", "8", "122"]
   book_table_id: [55]
   book_sinfo: 神通です。近代化改装を受け、<br>第２水雷戦隊の旗艦を務めました。<br>コロンバンガラ島沖海戦では先頭に立って奮戦します。<br>でも、みんな私の事狙うんですもの…ひどいわ……。
   stats:

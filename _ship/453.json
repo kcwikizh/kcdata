@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦、三番艦の風雲よ。<br>そっか、貴方が提督なんだ。了解です。<br>ご命令、どうぞ！
   voice_f: 1
   filename: xooelfidumnp
-  file_version: ["22", "9", "1226"]
+  file_version: ["24", "9", "122"]
   book_table_id: [453, 872, 822, 740]
   book_sinfo: 艦隊型駆逐艦、夕雲型駆逐艦の三番艦、風雲よ、よろしく。<br>あのミッドウェーからソロモンまで、主戦場を駆けたのよ。運命の日の夜、燃える空母を見上げたの。龍の最期、忘れない。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [252, 228]
-    boko_d: [198, 228]
+    boko_n: [258, 174]
+    boko_d: [144, 180]
     kaisyu_n: [-6, 6]
     kaisyu_d: [24, -6]
-    kaizo_n: [174, 144]
-    kaizo_d: [102, 108]
-    map_n: [216, 198]
-    map_d: [162, 198]
-    ensyuf_n: [192, 210]
-    ensyuf_d: [138, 210]
-    ensyue_n: [198, 0]
-    battle_n: [228, 222]
-    battle_d: [171, 222]
-    wed_a: [153, -12]
-    wed_b: [120, 153]
+    kaizo_n: [174, 72]
+    kaizo_d: [54, 42]
+    map_n: [156, 150]
+    map_d: [60, 156]
+    ensyuf_n: [168, 144]
+    ensyuf_d: [66, 150]
+    ensyue_n: [186, 0]
+    battle_n: [192, 162]
+    battle_d: [72, 168]
+    wed_a: [168, 42]
+    wed_b: [138, 174]
   wiki_id: "253"
   chinese_name: 风云
   can_drop: true

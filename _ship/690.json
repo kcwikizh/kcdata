@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: gterlyhfmpni
-  file_version: ["51", "1", "1226"]
+  file_version: ["51", "1", "122"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -23,13 +23,13 @@ data:
     houg: [18, 54]
     raig: [0, 75]
     tyku: [22, 62]
-    luck: [10, 57]
+    luck: [10, 58]
     soku: 10
     leng: 2
     kaih: 
     tais: 
     slot_num: 3
-    max_eq: [8, 8, 12, 2, 0]
+    max_eq: [8, 8, 12, 0, 0]
     after_fuel: 400
     after_bull: 800
     fuel_max: 40

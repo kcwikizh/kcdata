@@ -53,8 +53,8 @@ data:
     battle_d: [232, 177]
     wed_a: [139, 1]
     wed_b: [118, 157]
-  wiki_id:
-  chinese_name:
+  wiki_id: 
+  chinese_name: 
   can_drop: false
   can_construct: false
 ---
