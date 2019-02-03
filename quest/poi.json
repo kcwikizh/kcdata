@@ -3661,12 +3661,16 @@
     "reward_bauxite": 0,
     "reward_other": [
       {
-        "name": "開発資材",
-        "amount": 5
-      },
-      {
-        "name": "特注家具職人",
-        "amount": 1
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 5
+          },
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          }
+        ]
       }
     ],
     "prerequisite": [
