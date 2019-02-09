@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 416
+  type: 3
+  no: 90
+  title: 「比叡」の掛け軸
+  description: 僚艦「霧島」と共に南方の<br>鉄底海峡に眠る金剛型高速<br>戦艦「比叡」。彼女の存在<br>と奮闘を想う掛け軸です。<br>比叡、お疲れさまでした。
+  rarity: 6
+  price: 8000
+  saleflg: 0
+  season: 0
+  filename: "091"
+  file_version: "1"
+---

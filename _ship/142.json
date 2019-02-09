@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ykrokmtrnaqw
-  file_version: ["13", "6", "122"]
+  file_version: ["14", "6", "208"]
   book_table_id: [142, 986, 746]
   book_sinfo: カタパルトをお初装備の衣笠さんよ、よろしくね。ウェーク島攻略や珊瑚海海戦、そして、ソロモン海のアイアンボトムサウンドでも大活躍！でも…飛行機っての？あれはちょっと嫌ね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [24, 12]
-    boko_d: [-48, 168]
+    boko_n: [288, 174]
+    boko_d: [168, 192]
     kaisyu_n: [48, -24]
     kaisyu_d: [48, 24]
-    kaizo_n: [0, -48]
-    kaizo_d: [-60, 66]
-    map_n: [84, 24]
-    map_d: [-30, 174]
-    ensyuf_n: [120, 0]
-    ensyuf_d: [-36, 72]
-    ensyue_n: [96, 0]
-    battle_n: [96, 24]
-    battle_d: [-24, 144]
-    wed_a: [186, 189]
-    wed_b: [175, 192]
+    kaizo_n: [180, 108]
+    kaizo_d: [54, 66]
+    map_n: [180, 162]
+    map_d: [84, 156]
+    ensyuf_n: [186, 162]
+    ensyuf_d: [84, 114]
+    ensyue_n: [186, 0]
+    battle_n: [216, 180]
+    battle_d: [108, 156]
+    wed_a: [126, 24]
+    wed_b: [153, 156]
   wiki_id: "142"
   chinese_name: 衣笠改二
   can_drop: false

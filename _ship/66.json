@@ -14,7 +14,7 @@ data:
   get_mes: こんにちは。高雄です。<br>貴方のような素敵な提督で良かったわ。
   voice_f: 1
   filename: eqpvjbnbjlhy
-  file_version: ["9", "13", "122"]
+  file_version: ["9", "13", "208"]
   book_table_id: [66]
   book_sinfo: 巡洋艦といえば、なんといっても、私、高雄型よね。<br>近藤中将麾下の第４戦隊に所属して、数々の海戦に参加しました。<br>激戦を戦い抜いて、最期はシンガポール防衛に努めたの。
   stats:

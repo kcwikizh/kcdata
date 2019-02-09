@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 564
+  sort_no: 364
+  name: 風雲改二
+  yomi: かざぐも
+  stype: 2
+  ctype: 38
+  cnum: 3
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: fvsfztikmgyk
+  file_version: ["51", "1", "208"]
+  book_table_id: [564]
+  book_sinfo: 艦隊型駆逐艦、夕雲型駆逐艦の三番艦、風雲よ、よろ<br>しく。<br>あのミッドウェーからソロモンまで、主戦場を駆けた<br>のよ。運命の日の夜、燃える空母を見上げたの。龍の<br>最期、忘れない。
+  stats:
+    taik: [33, 57]
+    souk: [15, 53]
+    houg: [18, 66]
+    raig: [30, 89]
+    tyku: [20, 67]
+    luck: [20, 78]
+    soku: 10
+    leng: 1
+    kaih: 48
+    tais: 29
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [-46, 142]
+    boko_d: [18, 166]
+    kaisyu_n: [1, -27]
+    kaisyu_d: [28, -24]
+    kaizo_n: [-73, 22]
+    kaizo_d: [-25, 13]
+    map_n: [-31, 121]
+    map_d: [30, 138]
+    ensyuf_n: [-66, 109]
+    ensyuf_d: [-1, 127]
+    ensyue_n: [-64, 0]
+    battle_n: [-19, 148]
+    battle_d: [49, 163]
+    wed_a: [393, 43]
+    wed_b: [154, 181]
+  wiki_id: "364"
+  chinese_name: 风云改二
+  can_drop: false
+  can_construct: false
+---

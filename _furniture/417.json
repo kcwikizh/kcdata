@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 417
+  type: 2
+  no: 58
+  title: バレンタインキャンドル
+  description: バレンタインの季節に艦娘<br>たちがそれぞれの想いを込<br>めたキャンドルが並ぶ幻想<br>的な窓です。優しく揺れる<br>光を素敵に侘び寂びです。
+  rarity: 4
+  price: 4000
+  saleflg: 1
+  season: 0
+  filename: "059"
+  file_version: "1"
+---
