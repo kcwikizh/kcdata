@@ -32,5 +32,69 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [10, 0, 140, 120]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [14, 16]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [20, 45]
+            -
+              id: 4
+              amount: [4, 5]
+        slotitem:
+          -
+            id: 30
+            amount: 1
+          -
+            id: 106
+            amount: 1
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 25
+          -
+            ship_id: 58
+          -
+            ship_id: 119
+          -
+            ship_id: 140
+          -
+            ship_id: 314
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 25
+          -
+            ship_id: 58
+          -
+            ship_id: 119
+          -
+            ship_id: 140
+          -
+            ship_id: 314
+        -
+          -
+            ship_id: 25
+          -
+            ship_id: 58
+          -
+            ship_id: 119
+          -
+            ship_id: 140
+          -
+            ship_id: 314
   chinese_name: 14号对空电探
 ---

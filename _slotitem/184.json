@@ -32,5 +32,83 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [100, 140, 10, 350]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [7, 9]
+            -
+              id: 4
+              amount: [4, 6]
+        slotitem:
+          -
+            id: 20
+            amount: 2
+          -
+            id: 21
+            amount: 2
+      upgrade:
+        id: 316
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [10, 15]
+            -
+              id: 4
+              amount: [6, 9]
+            -
+              id: 70
+              amount: 1
+          slotitem:
+            id: 23
+            amount: 4
+      day:
+        -
+          -
+            ship_id: 444
+          -
+            ship_id: 365
+        -
+          -
+            ship_id: 444
+          -
+            ship_id: 365
+        -
+          -
+            ship_id: 444
+          -
+            ship_id: 365
+        -
+          -
+            ship_id: 444
+          -
+            ship_id: 365
+        -
+          -
+            ship_id: 444
+          -
+            ship_id: 365
+        -
+          -
+            ship_id: 444
+          -
+            ship_id: 365
+        -
+          -
+            ship_id: 444
+          -
+            ship_id: 365
   chinese_name: Re.2001 OR改
 ---
