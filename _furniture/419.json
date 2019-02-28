@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 419
+  type: 0
+  no: 56
+  title: 早春の床板と畳
+  description: 早春の提督室の床板です。<br>比較的質素な作りの床板と<br>春の訪れをイメージした畳<br>の組み合わせによる、独特<br>の魅力が光ります。
+  rarity: 3
+  price: 1000
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

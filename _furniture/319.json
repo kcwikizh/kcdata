@@ -8,7 +8,7 @@ data:
   description: 家具コイン長者に贈る高級<br>職人が組み上げた木製窓。<br>木の優しさを感じる仕上り<br>に便利なラヂオも配置。<br>ダイナミック職人支援可！
   rarity: 4
   price: 148000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "047"
   file_version: 1

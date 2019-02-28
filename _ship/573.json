@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 573
+  sort_no: 373
+  name: 陸奥改二
+  yomi: むつ
+  stype: 9
+  ctype: 19
+  cnum: 2
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: obrycurlqqwb
+  file_version: ["51", "1", "227"]
+  book_table_id: [573]
+  book_sinfo: 長門型戦艦の２番艦として生まれた陸奥よ。<br>もちろん、世界のビッグ７の一艦になるわね。<br>え？主砲火薬庫爆発事故？<br>まあ、隠してもしょうがないわね。今度は大丈夫よ！
+  stats:
+    taik: [91, 99]
+    souk: [86, 109]
+    houg: [91, 118]
+    raig: [0, 0]
+    tyku: [38, 102]
+    luck: [16, 88]
+    soku: 5
+    leng: 3
+    kaih: 24
+    tais: 0
+    slot_num: 4
+    max_eq: [2, 3, 3, 7, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 180
+    bull_max: 225
+    broken: [30, 38, 88, 18]
+    pow_up: [6, 0, 2, 6]
+    build_time: 300
+  graph:
+    boko_n: [-121, 153]
+    boko_d: [-73, 178]
+    kaisyu_n: [18, -42]
+    kaisyu_d: [19, -55]
+    kaizo_n: [-163, 61]
+    kaizo_d: [-118, 34]
+    map_n: [-205, 151]
+    map_d: [-129, 142]
+    ensyuf_n: [-160, 118]
+    ensyuf_d: [-117, 108]
+    ensyue_n: [-139, 0]
+    battle_n: [-154, 144]
+    battle_d: [-91, 157]
+    wed_a: [490, 49]
+    wed_b: [165, 163]
+  wiki_id: "373"
+  chinese_name: 陆奥改二
+  can_drop: false
+  can_construct: false
+---

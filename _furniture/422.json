@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 422
+  type: 4
+  no: 58
+  title: 陸奥の化粧鏡
+  description: お化粧の好きなある戦艦級<br>の艦娘が取り寄せた特注の<br>艦娘化粧鏡です。落ち着い<br>たデザインの中に、大人な<br>艦娘のセンスを感じます。
+  rarity: 5
+  price: 6200
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

@@ -14,7 +14,7 @@ data:
   get_mes: Guten Tag.<br>私は駆逐艦マックス・シュルツよ。<br>マックス…でもいいけれど。よろしく。
   voice_f: 1
   filename: rxzrrkjqvyqy
-  file_version: ["8", "2", "208"]
+  file_version: ["8", "2", "227"]
   book_table_id: [175, 886]
   book_sinfo: ドイツ1934年計画型駆逐艦、その三番艦よ。<br>生存性の高い設計の本格的駆逐艦だけれど…新型のタービンは少し整備に難もあるけれど。<br>今度は…大丈夫。
   stats:

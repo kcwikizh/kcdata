@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: ygqdfllpkbee
-  file_version: ["27", "14", "208"]
+  file_version: ["28", "14", "227"]
   book_table_id: [435]
   book_sinfo: 睦月型駆逐艦２番艦の如月と申します。<br>ウェーク島では五月蠅いF4F戦闘機の攻撃を受けながら奮戦しました。<br>いやん、ほんと、髪の毛が潮風で痛んじゃう……。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 1, 0]
     build_time: 18
   graph:
-    boko_n: [156, 216]
-    boko_d: [156, 216]
+    boko_n: [60, 210]
+    boko_d: [120, 240]
     kaisyu_n: [6, 6]
     kaisyu_d: [12, -36]
-    kaizo_n: [120, 144]
-    kaizo_d: [120, 144]
-    map_n: [120, 168]
-    map_d: [120, 168]
-    ensyuf_n: [144, 192]
-    ensyuf_d: [144, 192]
-    ensyue_n: [96, 0]
-    battle_n: [168, 192]
-    battle_d: [168, 192]
-    wed_a: [192, -12]
-    wed_b: [204, 204]
+    kaizo_n: [0, 144]
+    kaizo_d: [24, 132]
+    map_n: [0, 192]
+    map_d: [48, 216]
+    ensyuf_n: [48, 168]
+    ensyuf_d: [72, 216]
+    ensyue_n: [24, 0]
+    battle_n: [60, 192]
+    battle_d: [96, 216]
+    wed_a: [264, 6]
+    wed_b: [216, 192]
   wiki_id: "235"
   chinese_name: 如月改二
   can_drop: false

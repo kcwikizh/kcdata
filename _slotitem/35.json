@@ -32,5 +32,80 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [50, 120, 210, 170]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [7, 8]
+            -
+              id: 4
+              amount: [4, 4]
+          -
+            -
+              id: 3
+              amount: [-1, -1]
+            -
+              id: 4
+              amount: [5, -1]
+        slotitem:
+          - 
+          -
+            id: 35
+            amount: 1
+      upgrade:
+        id: 317
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [-1, -1]
+            -
+              id: 4
+              amount: [8, -1]
+          slotitem:
+            id: 116
+            amount: 1
+      day:
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 78
+          -
+            ship_id: 209
+          -
+            ship_id: 149
+          -
+            ship_id: 86
+          -
+            ship_id: 210
+          -
+            ship_id: 150
+        -
+          -
+            ship_id: 78
+          -
+            ship_id: 209
+          -
+            ship_id: 149
+          -
+            ship_id: 86
+          -
+            ship_id: 210
+          -
+            ship_id: 150
+          -
+            ship_id: 79
+          -
+            ship_id: 211
+          -
+            ship_id: 151
+        - false
+        - false
   chinese_name: 三式弹
 ---
