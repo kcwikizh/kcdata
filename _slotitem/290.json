@@ -49,7 +49,7 @@ data:
               amount: [14, 41]
             -
               id: 4
-              amount: [10, 14]
+              amount: [10, 13]
         slotitem:
           -
             id: 8

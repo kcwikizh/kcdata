@@ -73,8 +73,12 @@ data:
             amount: 2
       day:
         - false
-        - false
-        - false
+        -
+          -
+            ship_id: 573
+        -
+          -
+            ship_id: 573
         -
           -
             ship_id: 81
@@ -95,6 +99,8 @@ data:
             ship_id: 143
           -
             ship_id: 148
+          -
+            ship_id: 546
           -
             ship_id: 81
           -

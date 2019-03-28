@@ -70,9 +70,7 @@ data:
         -
           -
             ship_id: 149
-        -
-          -
-            ship_id: 149
+        - false
         -
           -
             ship_id: 319

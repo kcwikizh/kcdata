@@ -34,7 +34,7 @@ data:
   improvement: 
     -
       consume:
-        resource: [90, 300, 90, 150]
+        resource: [90, 300, 90, 190]
         useitem:
           -
             -

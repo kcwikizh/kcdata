@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: xwjlobdutrwv
-  file_version: ["25", "15", "227"]
+  file_version: ["25", "15", "327"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -51,8 +51,8 @@ data:
     ensyue_n: [48, 0]
     battle_n: [84, 72]
     battle_d: [24, 48]
-    wed_a: [219, 150]
-    wed_b: [178, 180]
+    wed_a: [223, 108]
+    wed_b: [261, 240]
   wiki_id: "165a"
   chinese_name: 卯月改
   can_drop: false

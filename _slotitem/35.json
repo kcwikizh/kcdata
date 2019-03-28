@@ -46,10 +46,10 @@ data:
           -
             -
               id: 3
-              amount: [-1, -1]
+              amount: [8, 10]
             -
               id: 4
-              amount: [5, -1]
+              amount: [5, 7]
         slotitem:
           - 
           -
@@ -62,17 +62,44 @@ data:
           useitem:
             -
               id: 3
-              amount: [-1, -1]
+              amount: [10, 16]
             -
               id: 4
-              amount: [8, -1]
+              amount: [8, 10]
+            -
+              id: 75
+              amount: 1
           slotitem:
             id: 116
             amount: 1
       day:
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 85
+          -
+            ship_id: 212
+          -
+            ship_id: 152
+        -
+          -
+            ship_id: 78
+          -
+            ship_id: 209
+          -
+            ship_id: 149
+          -
+            ship_id: 85
+          -
+            ship_id: 212
+          -
+            ship_id: 152
+        -
+          -
+            ship_id: 78
+          -
+            ship_id: 209
+          -
+            ship_id: 149
         -
           -
             ship_id: 78
@@ -105,7 +132,31 @@ data:
             ship_id: 211
           -
             ship_id: 151
-        - false
-        - false
+        -
+          -
+            ship_id: 86
+          -
+            ship_id: 210
+          -
+            ship_id: 150
+          -
+            ship_id: 79
+          -
+            ship_id: 211
+          -
+            ship_id: 151
+        -
+          -
+            ship_id: 79
+          -
+            ship_id: 211
+          -
+            ship_id: 151
+          -
+            ship_id: 85
+          -
+            ship_id: 212
+          -
+            ship_id: 152
   chinese_name: 三式弹
 ---

@@ -1,0 +1,36 @@
+---
+layout: json
+order: 319
+data:
+  id: 319
+  sort_no: 319
+  name: 彗星一二型(六三四空/三号爆弾搭載機)
+  type: [3, 5, 7, 7, 16]
+  rare: 4
+  broken: [2, 5, 0, 4]
+  info: 「九九艦爆」の後継として開発された高速性能を誇る水冷エンジンの艦上爆撃機「彗星」。<br>if改装航空戦艦「伊勢改二」「日向改二」に艦載、さらに運用の難しい対地・対空三号爆弾を装備、訓練を重ね同運用に長けた艦爆隊です。対地攻撃にも参加、威力を発揮します。
+  usebull: 0
+  cost: 5
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 12
+    tyku: 3
+    tais: 2
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

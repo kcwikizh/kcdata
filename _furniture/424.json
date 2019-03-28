@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 424
+  type: 2
+  no: 60
+  title: 提督の舷窓
+  description: 提督室への自然光の採光と<br>換気のために作られた特注<br>の舷窓です。え？他の窓の<br>ほうが換気も採光もいい？<br>強度が違うのです！多分！
+  rarity: 4
+  price: 3000
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

@@ -1,0 +1,83 @@
+---
+layout: json
+order: 324
+data:
+  id: 324
+  sort_no: 324
+  name: オ号観測機改
+  type: [3, 15, 25, 21, 0]
+  rare: 4
+  broken: [1, 2, 0, 4]
+  info: 陸軍で開発、運用されていたオートジャイロ。その対潜戦闘力を強化したif強化型改修機です。<br>現代の艦載ヘリコプターの先祖ともいえる、回転翼の艦載対潜哨戒機、全通甲板を持つ強襲揚陸艦や軽空母、改装航空戦艦、航空甲板を持つ航空巡洋艦などで運用可能です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 10
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+    -
+      consume:
+        resource: [60, 60, 30, 160]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, -1]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [7, -1]
+            -
+              id: 4
+              amount: [4, 5]
+        slotitem:
+          - 
+          -
+            id: 19
+            amount: 1
+      upgrade:
+        id: 325
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [-1, -1]
+            -
+              id: 4
+              amount: [-1, -1]
+          slotitem:
+      day:
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 554
+        -
+          -
+            ship_id: 554
+        - false
+        - false
+  chinese_name:
+---

@@ -9,12 +9,12 @@ data:
   ctype: 2
   cnum: 2
   backs: 6
-  after_lv: 
-  after_ship_id: 
+  after_lv: 90
+  after_ship_id: 554
   get_mes: <br>
-  voice_f: 0
+  voice_f: 1
   filename: jprpbvbeillv
-  file_version: ["27", "25", "227"]
+  file_version: ["27", "25", "327"]
   book_table_id: [88, 798, 1034]
   book_sinfo: 航空運用能力を付与された航空戦艦、日向だ。<br>レイテでも奮戦したぞ。<br>戦略物資輸送作戦「北号作戦」も思い出深いな。<br>ああ、そうだ、海自のＤＤＨ「ひゅうが」に名は受け継がれている。
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 0
     slot_num: 4
     max_eq: [11, 11, 11, 14, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 8800
+    after_bull: 4500
     fuel_max: 95
     bull_max: 105
     broken: [10, 15, 36, 3]

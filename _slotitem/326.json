@@ -1,0 +1,36 @@
+---
+layout: json
+order: 326
+data:
+  id: 326
+  sort_no: 326
+  name: S-51J
+  type: [3, 44, 25, 21, 0]
+  rare: 6
+  broken: [2, 3, 0, 5]
+  info: 時代はオートジャイロから、ヘリコプターへ。あの時代に原型機が既に初飛行を実現、哨戒や連絡などを中心に実用化が始まっていた回転翼機、初期のヘリコプターです。戦後、海上自衛隊にも導入された同機のif対潜哨戒型の艦載ヘリです。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 12
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 3
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

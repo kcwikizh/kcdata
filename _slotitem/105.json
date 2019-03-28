@@ -88,6 +88,8 @@ data:
         -
           -
             ship_id: 276
+          -
+            ship_id: 573
         -
           -
             ship_id: 275
@@ -103,8 +105,12 @@ data:
         -
           -
             ship_id: 276
+          -
+            ship_id: 573
         -
           -
             ship_id: 276
+          -
+            ship_id: 573
   chinese_name: 试制41cm三连装炮
 ---

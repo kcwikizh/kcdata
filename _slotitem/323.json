@@ -1,0 +1,36 @@
+---
+layout: json
+order: 323
+data:
+  id: 323
+  sort_no: 323
+  name: 瑞雲改二(六三四空/熟練)
+  type: [5, 43, 11, 10, 32]
+  rare: 7
+  broken: [2, 3, 0, 5]
+  info: 急降下爆撃も可能な高性能多用途水上偵察機「瑞雲」。<br>航空戦艦「伊勢」「日向」に搭載し、海上の艦隊運用を前提に編成され、錬成を重ねた六三四航空隊所属の「瑞雲」飛行隊。<br>最後まで粘り強く戦い抜いた傑作多用途水上偵察機の最終強化型、同機を駆る六三四空の精鋭たちによる最精鋭瑞雲隊です。<br>今、最精鋭「瑞雲」隊を、君に。
+  usebull: 0
+  cost: 8
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 11
+    tyku: 5
+    tais: 7
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 8
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

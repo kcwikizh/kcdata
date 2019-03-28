@@ -1,0 +1,86 @@
+---
+layout: json
+order: 325
+data:
+  id: 325
+  sort_no: 325
+  name: オ号観測機改二
+  type: [3, 15, 25, 21, 0]
+  rare: 5
+  broken: [1, 3, 0, 4]
+  info: 陸軍で開発、運用されていたオートジャイロ。その対潜戦闘力及びエンジンを強化したif強化型改修最終型です。<br>現代の哨戒ヘリコプターの先祖ともいえる、回転翼の艦載対潜哨戒機、回転翼機運用能力の高い全通甲板を持つ改装航空戦艦などで強力なASWを展開可能です。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 11
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+    -
+      consume:
+        resource: [80, 70, 60, 190]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [7, -1]
+            -
+              id: 4
+              amount: [4, -1]
+          -
+            -
+              id: 3
+              amount: [-1, -1]
+            -
+              id: 4
+              amount: [-1, -1]
+        slotitem:
+          - 
+          - 
+      upgrade:
+        id: 326
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [50, 80]
+            -
+              id: 4
+              amount: [10, 20]
+            -
+              id: 77
+              amount: 3
+          slotitem:
+            id: 325
+            amount: 1
+      day:
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 554
+        -
+          -
+            ship_id: 554
+        - false
+        - false
+  chinese_name:
+---

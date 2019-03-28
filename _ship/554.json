@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 554
+  sort_no: 354
+  name: 日向改二
+  yomi: ひゅうが
+  stype: 10
+  ctype: 2
+  cnum: 2
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: dblgmyzyodrr
+  file_version: ["51", "1", "327"]
+  book_table_id: [554]
+  book_sinfo: 航空運用能力を付与された航空戦艦、日向だ。<br>レイテでも奮戦したぞ。<br>戦略物資輸送作戦「北号作戦」も思い出深いな。<br>ああ、そうだ、海自のＤＤＨ「ひゅうが」に名は受け<br>継がれている。
+  stats:
+    taik: [78, 96]
+    souk: [73, 94]
+    houg: [58, 85]
+    raig: [0, 0]
+    tyku: [46, 84]
+    luck: [40, 93]
+    soku: 5
+    leng: 2
+    kaih: 49
+    tais: 68
+    slot_num: 5
+    max_eq: [2, 4, 22, 11, 11]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 115
+    bull_max: 140
+    broken: [12, 18, 40, 6]
+    pow_up: [4, 0, 5, 4]
+    build_time: 270
+  graph:
+    boko_n: [-66, -31]
+    boko_d: [82, 238]
+    kaisyu_n: [18, -64]
+    kaisyu_d: [60, -21]
+    kaizo_n: [-106, -127]
+    kaizo_d: [25, 79]
+    map_n: [-64, -55]
+    map_d: [112, 210]
+    ensyuf_n: [-99, -76]
+    ensyuf_d: [37, 195]
+    ensyue_n: [-82, 0]
+    battle_n: [-43, -46]
+    battle_d: [106, 211]
+    wed_a: [396, 235]
+    wed_b: [163, 159]
+  wiki_id: "354"
+  chinese_name: 日向改二
+  can_drop: false
+  can_construct: false
+---

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ilxltdgucgbg
-  file_version: ["24", "21", "227"]
+  file_version: ["26", "21", "327"]
   book_table_id: [151, 879, 1017]
   book_sinfo: 高速の巡洋戦艦、榛名です。<br>国産の四一式36センチ砲を装備しました。<br>呉鎮守府の江田島で最後まで空を睨んで奮戦したわ。<br>高速戦艦四姉妹で最期まで、戦い抜いた榛名のこと、覚えていてね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 4]
     build_time: 240
   graph:
-    boko_n: [36, 216]
-    boko_d: [84, 222]
+    boko_n: [246, 207]
+    boko_d: [120, 204]
     kaisyu_n: [48, -12]
     kaisyu_d: [96, 24]
-    kaizo_n: [-12, 120]
-    kaizo_d: [24, 93]
-    map_n: [0, 192]
-    map_d: [48, 216]
-    ensyuf_n: [72, 168]
-    ensyuf_d: [120, 192]
-    ensyue_n: [-12, 0]
-    battle_n: [48, 192]
-    battle_d: [84, 192]
-    wed_a: [240, -12]
-    wed_b: [240, 168]
+    kaizo_n: [162, 114]
+    kaizo_d: [24, 90]
+    map_n: [192, 180]
+    map_d: [72, 186]
+    ensyuf_n: [168, 192]
+    ensyuf_d: [60, 192]
+    ensyue_n: [168, 0]
+    battle_n: [204, 198]
+    battle_d: [96, 198]
+    wed_a: [156, -6]
+    wed_b: [144, 168]
   wiki_id: "151"
   chinese_name: 榛名改二
   can_drop: false

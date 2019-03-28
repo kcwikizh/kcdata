@@ -84,11 +84,19 @@ data:
             ship_id: 29
           -
             ship_id: 257
+          -
+            ship_id: 548
         -
           -
             ship_id: 29
           -
             ship_id: 257
+          -
+            ship_id: 548
+          -
+            ship_id: 113
+          -
+            ship_id: 289
           -
             ship_id: 487
         -
@@ -102,6 +110,8 @@ data:
             ship_id: 29
           -
             ship_id: 257
+          -
+            ship_id: 548
         -
           -
             ship_id: 28
@@ -113,5 +123,7 @@ data:
             ship_id: 29
           -
             ship_id: 257
+          -
+            ship_id: 548
   chinese_name: 25mm单装机铳
 ---

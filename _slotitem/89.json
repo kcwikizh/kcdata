@@ -88,8 +88,6 @@ data:
             ship_id: 143
           -
             ship_id: 148
-          -
-            ship_id: 546
         - false
         - false
   chinese_name: 21号对空电探改

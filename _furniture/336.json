@@ -8,7 +8,7 @@ data:
   description: ある睦月型駆逐艦が家具職<br>人の手を借りて作り上げた<br>かなり凝った意匠の丸い窓<br>です。特注の弥生ブライン<br>ドも標準装備！豪華です。
   rarity: 4
   price: 3300
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: "049"
   file_version: 1

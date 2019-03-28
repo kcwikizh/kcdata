@@ -75,7 +75,9 @@ data:
             id: 117
             amount: 1
       day:
-        - false
+        -
+          -
+            ship_id: 573
         - false
         - false
         -
@@ -84,8 +86,12 @@ data:
         -
           -
             ship_id: 573
-        - false
-        - false
+        -
+          -
+            ship_id: 573
+        -
+          -
+            ship_id: 573
     -
       consume:
         resource: [45, 450, 700, 45]

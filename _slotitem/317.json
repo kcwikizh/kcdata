@@ -70,9 +70,9 @@ data:
         -
           -
             ship_id: 573
+        - false
+        -
           -
             ship_id: 149
-        - false
-        - false
   chinese_name: 
 ---
