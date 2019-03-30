@@ -39,10 +39,10 @@ data:
           -
             -
               id: 3
-              amount: [10, -1]
+              amount: [10, 12]
             -
               id: 4
-              amount: [8, -1]
+              amount: [8, 8]
           -
             -
               id: 3
@@ -70,5 +70,5 @@ data:
             ship_id: 554
         - false
         - false
-  chinese_name:
+  chinese_name: 
 ---

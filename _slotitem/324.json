@@ -39,7 +39,7 @@ data:
           -
             -
               id: 3
-              amount: [6, -1]
+              amount: [6, 7]
             -
               id: 4
               amount: [3, 4]
@@ -62,10 +62,10 @@ data:
           useitem:
             -
               id: 3
-              amount: [-1, -1]
+              amount: [7, -1]
             -
               id: 4
-              amount: [-1, -1]
+              amount: [4, -1]
           slotitem:
       day:
         - false
@@ -79,5 +79,5 @@ data:
             ship_id: 554
         - false
         - false
-  chinese_name:
+  chinese_name: 
 ---
