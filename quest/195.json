@@ -16,19 +16,18 @@
     },
     {
       "choices": [
-          {
-            "name": "戦闘糧食",
-            "amount": 2
-          },
-          {
-            "name": "高速修復材",
-            "amount": 3
-          }
-        ]
+        {
+          "name": "戦闘糧食",
+          "amount": 2
+        },
+        {
+          "name": "高速修復材",
+          "amount": 3
+        }
+      ]
     }
   ],
-  "prerequisite": [
-  ],
+  "prerequisite": [],
   "requirements": {
     "category": "fleet",
     "groups": [

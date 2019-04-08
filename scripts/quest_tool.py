@@ -58,6 +58,7 @@ def splitQuests():
         with open(os.path.join(SPLIT_QUESTS_DIR, str(quest['game_id']) + '.json'), mode='w', encoding='utf-8') as f:
             json.dump(
                 quest, f, indent=INDENT, ensure_ascii=False)
+            f.write('\n')
     return
 
 

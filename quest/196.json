@@ -16,15 +16,15 @@
     },
     {
       "choices": [
-          {
-            "name": "高速修復材",
-            "amount": 5
-          },
-          {
-            "name": "特注家具職人",
-            "amount": 1
-          }
-        ]
+        {
+          "name": "高速修復材",
+          "amount": 5
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        }
+      ]
     }
   ],
   "prerequisite": [

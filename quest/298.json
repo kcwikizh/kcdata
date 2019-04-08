@@ -10,7 +10,7 @@
   "reward_steel": 700,
   "reward_bauxite": 0,
   "reward_other": [
-   {
+    {
       "choices": [
         {
           "name": "特注家具職人",
