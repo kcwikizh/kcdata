@@ -1,0 +1,31 @@
+{
+  "game_id": 314,
+  "wiki_id": "C14",
+  "category": 3,
+  "type": 1,
+  "name": "冬季大演習",
+  "detail": "冬の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！",
+  "reward_fuel": 300,
+  "reward_ammo": 1000,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "高速修復材",
+      "amount": 3
+    },
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    303
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 8,
+    "victory": true,
+    "daily": true
+  }
+}
