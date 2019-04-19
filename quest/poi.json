@@ -2153,6 +2153,56 @@
     }
   },
   {
+    "game_id": 158,
+    "wiki_id": "A92",
+    "category": 1,
+    "type": 1,
+    "name": "精鋭無比「第一戦隊」抜錨準備！",
+    "detail": "主力戦艦編成任務：第一艦隊旗艦に「長門改二」、同二番艦に「陸奥改二」から編成される第一戦隊を配備、精鋭無比の水上打撃艦隊を編成せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 800,
+    "reward_steel": 800,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "41cm連装砲",
+            "amount": 2
+          },
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "開発資材",
+            "amount": 8
+          }
+        ]
+      },
+      {
+        "name": "三式弾改",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      856
+    ],
+    "requirements": {
+      "category": "fleet",
+      "groups": [
+        {
+          "ship": "長門改二",
+          "flagship": true
+        },
+        {
+          "ship": "陸奥改二",
+          "place": 2
+        }
+      ]
+    }
+  },
+  {
     "game_id": 161,
     "wiki_id": "A56",
     "category": 1,
@@ -6637,6 +6687,237 @@
         },
         {
           "ship": "島風"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 280,
+    "wiki_id": "Bm8",
+    "category": 2,
+    "type": 6,
+    "name": "兵站線確保！海上警備を強化実施せよ！",
+    "detail": "海上警備任務：軽空母または軽巡級1隻、駆逐艦または海防艦を計3隻以上配備した海上護衛艦隊で、南西諸島沖警備、海上護衛作戦、南1号作戦、南西諸島哨戒を実施、各作戦海域の敵を撃滅せよ！",
+    "reward_fuel": 400,
+    "reward_ammo": 400,
+    "reward_steel": 0,
+    "reward_bauxite": 400,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 4
+          },
+          {
+            "name": "高速修復材",
+            "amount": 4
+          },
+          {
+            "name": "改修資材",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "九五式爆雷",
+            "amount": 1
+          },
+          {
+            "name": "25mm単装機銃",
+            "amount": 2
+          },
+          {
+            "name": "給糧艦「伊良湖」",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      311,
+      265
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "1-2",
+        "1-3",
+        "1-4",
+        "2-1"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": [
+            "軽空母",
+            "軽巡級"
+          ],
+          "amount": 1
+        },
+        {
+          "ship": [
+            "駆逐",
+            "海防艦"
+          ],
+          "amount": 3
+        },
+        {
+          "ship": "艦",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 281,
+    "wiki_id": "B129",
+    "category": 2,
+    "type": 1,
+    "name": "精鋭無比「第一戦隊」まかり通る！",
+    "detail": "第一艦隊第一戦隊、改装主力戦艦「長門改二」及び「陸奥改二」を中核とした水上打撃艦隊を編成、バシー海峡、北方AL海域戦闘哨戒、カレー洋リランカ島沖及び南方海域前面の敵を捕捉撃滅せよ！",
+    "reward_fuel": 800,
+    "reward_ammo": 800,
+    "reward_steel": 800,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "41cm連装砲",
+            "amount": 4
+          },
+          {
+            "name": "九一式徹甲弾",
+            "amount": 2
+          },
+          {
+            "name": "三式弾",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          },
+          {
+            "name": "試製46cm連装砲",
+            "amount": 1
+          },
+          {
+            "name": "試製南山",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      158
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "2-2",
+        "3-5",
+        "4-5",
+        "5-1"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": [
+            "長門改二",
+            "陸奥改二"
+          ],
+          "flagship": true
+        },
+        {
+          "ship": [
+            "長門改二",
+            "陸奥改二"
+          ],
+          "place": 2
+        },
+        {
+          "ship": "艦",
+          "amount": 4
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 282,
+    "wiki_id": "B130",
+    "category": 2,
+    "type": 1,
+    "name": "精鋭無比「第一戦隊」まかり通る！【拡張作戦】",
+    "detail": "第一艦隊第一戦隊、改装主力戦艦「長門改二」及び「陸奥改二」を中核とした精鋭水上打撃艦隊を展開、南西諸島海域沖ノ島沖、南方海域サーモン海域北方、中部海域ピーコック島沖の敵戦力を撃滅せよ！",
+    "reward_fuel": 1000,
+    "reward_ammo": 1000,
+    "reward_steel": 1000,
+    "reward_bauxite": 1000,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "改修資材",
+            "amount": 5
+          },
+          {
+            "name": "試製46cm連装砲",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "name": "41cm連装砲改二",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      281
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "2-5",
+        "5-5",
+        "6-4"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": [
+            "長門改二",
+            "陸奥改二"
+          ],
+          "flagship": true
+        },
+        {
+          "ship": [
+            "長門改二",
+            "陸奥改二"
+          ],
+          "place": 2
+        },
+        {
+          "ship": "艦",
+          "amount": 4
         }
       ]
     }
@@ -12812,6 +13093,70 @@
         0,
         0,
         4800
+      ]
+    }
+  },
+  {
+    "game_id": 691,
+    "wiki_id": "F82",
+    "category": 6,
+    "type": 1,
+    "name": "提督室のリフォーム",
+    "detail": "提督室のリフォームを実施する！まずは装備の整理から！「中口径主砲」系装備x4、「副砲」系装備x4、「機銃」系装備x4を廃棄、ボーキサイト1,600を準備せよ！",
+    "reward_fuel": 200,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 5
+          },
+          {
+            "name": "家具箱(中)",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "choices": [
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          },
+          {
+            "name": "家具箱(大)",
+            "amount": 3
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      303
+    ],
+    "requirements": {
+      "category": "equipexchange",
+      "scraps": [
+        {
+          "name": "中口径主砲",
+          "amount": 4
+        },
+        {
+          "name": "副砲",
+          "amount": 4
+        },
+        {
+          "name": "機銃",
+          "amount": 4
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        0,
+        1600
       ]
     }
   },
