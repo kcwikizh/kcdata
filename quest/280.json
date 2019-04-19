@@ -1,0 +1,82 @@
+{
+  "game_id": 280,
+  "wiki_id": "Bm8",
+  "category": 2,
+  "type": 6,
+  "name": "兵站線確保！海上警備を強化実施せよ！",
+  "detail": "海上警備任務：軽空母または軽巡級1隻、駆逐艦または海防艦を計3隻以上配備した海上護衛艦隊で、南西諸島沖警備、海上護衛作戦、南1号作戦、南西諸島哨戒を実施、各作戦海域の敵を撃滅せよ！",
+  "reward_fuel": 400,
+  "reward_ammo": 400,
+  "reward_steel": 0,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "開発資材",
+          "amount": 4
+        },
+        {
+          "name": "高速修復材",
+          "amount": 4
+        },
+        {
+          "name": "改修資材",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "九五式爆雷",
+          "amount": 1
+        },
+        {
+          "name": "25mm単装機銃",
+          "amount": 2
+        },
+        {
+          "name": "給糧艦「伊良湖」",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    311,
+    265
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "1-2",
+      "1-3",
+      "1-4",
+      "2-1"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": [
+          "軽空母",
+          "軽巡級"
+        ],
+        "amount": 1
+      },
+      {
+        "ship": [
+          "駆逐",
+          "海防艦"
+        ],
+        "amount": 3
+      },
+      {
+        "ship": "艦",
+        "amount": 2
+      }
+    ]
+  }
+}
