@@ -1,0 +1,81 @@
+{
+  "game_id": 281,
+  "wiki_id": "B129",
+  "category": 2,
+  "type": 1,
+  "name": "精鋭無比「第一戦隊」まかり通る！",
+  "detail": "第一艦隊第一戦隊、改装主力戦艦「長門改二」及び「陸奥改二」を中核とした水上打撃艦隊を編成、バシー海峡、北方AL海域戦闘哨戒、カレー洋リランカ島沖及び南方海域前面の敵を捕捉撃滅せよ！",
+  "reward_fuel": 800,
+  "reward_ammo": 800,
+  "reward_steel": 800,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "41cm連装砲",
+          "amount": 4
+        },
+        {
+          "name": "九一式徹甲弾",
+          "amount": 2
+        },
+        {
+          "name": "三式弾",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "戦闘詳報",
+          "amount": 1
+        },
+        {
+          "name": "試製46cm連装砲",
+          "amount": 1
+        },
+        {
+          "name": "試製南山",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    158
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "2-2",
+      "3-5",
+      "4-5",
+      "5-1"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": [
+          "長門改二",
+          "陸奥改二"
+        ],
+        "flagship": true
+      },
+      {
+        "ship": [
+          "長門改二",
+          "陸奥改二"
+        ],
+        "place": 2
+      },
+      {
+        "ship": "艦",
+        "amount": 4
+      }
+    ]
+  }
+}
