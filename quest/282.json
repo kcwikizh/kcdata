@@ -1,0 +1,68 @@
+{
+  "game_id": 282,
+  "wiki_id": "B130",
+  "category": 2,
+  "type": 1,
+  "name": "精鋭無比「第一戦隊」まかり通る！【拡張作戦】",
+  "detail": "第一艦隊第一戦隊、改装主力戦艦「長門改二」及び「陸奥改二」を中核とした精鋭水上打撃艦隊を展開、南西諸島海域沖ノ島沖、南方海域サーモン海域北方、中部海域ピーコック島沖の敵戦力を撃滅せよ！",
+  "reward_fuel": 1000,
+  "reward_ammo": 1000,
+  "reward_steel": 1000,
+  "reward_bauxite": 1000,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "改修資材",
+          "amount": 5
+        },
+        {
+          "name": "試製46cm連装砲",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "41cm連装砲改二",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    281
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "2-5",
+      "5-5",
+      "6-4"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": [
+          "長門改二",
+          "陸奥改二"
+        ],
+        "flagship": true
+      },
+      {
+        "ship": [
+          "長門改二",
+          "陸奥改二"
+        ],
+        "place": 2
+      },
+      {
+        "ship": "艦",
+        "amount": 4
+      }
+    ]
+  }
+}
