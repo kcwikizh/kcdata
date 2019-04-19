@@ -1,0 +1,50 @@
+{
+  "game_id": 158,
+  "wiki_id": "A92",
+  "category": 1,
+  "type": 1,
+  "name": "精鋭無比「第一戦隊」抜錨準備！",
+  "detail": "主力戦艦編成任務：第一艦隊旗艦に「長門改二」、同二番艦に「陸奥改二」から編成される第一戦隊を配備、精鋭無比の水上打撃艦隊を編成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 800,
+  "reward_steel": 800,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "41cm連装砲",
+          "amount": 2
+        },
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "開発資材",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "name": "三式弾改",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    856
+  ],
+  "requirements": {
+    "category": "fleet",
+    "groups": [
+      {
+        "ship": "長門改二",
+        "flagship": true
+      },
+      {
+        "ship": "陸奥改二",
+        "place": 2
+      }
+    ]
+  }
+}
