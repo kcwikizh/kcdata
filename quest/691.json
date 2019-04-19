@@ -1,0 +1,64 @@
+{
+  "game_id": 691,
+  "wiki_id": "F82",
+  "category": 6,
+  "type": 1,
+  "name": "提督室のリフォーム",
+  "detail": "提督室のリフォームを実施する！まずは装備の整理から！「中口径主砲」系装備x4、「副砲」系装備x4、「機銃」系装備x4を廃棄、ボーキサイト1,600を準備せよ！",
+  "reward_fuel": 200,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "開発資材",
+          "amount": 5
+        },
+        {
+          "name": "家具箱(中)",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        },
+        {
+          "name": "家具箱(大)",
+          "amount": 3
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    303
+  ],
+  "requirements": {
+    "category": "equipexchange",
+    "scraps": [
+      {
+        "name": "中口径主砲",
+        "amount": 4
+      },
+      {
+        "name": "副砲",
+        "amount": 4
+      },
+      {
+        "name": "機銃",
+        "amount": 4
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      0,
+      1600
+    ]
+  }
+}
