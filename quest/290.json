@@ -19,42 +19,41 @@
       "amount": 1
     },
     {
-        "choices": [
-          {
-            "name": "戦闘詳報",
-            "amount": 1
-          },
-          {
-            "name": "96式150cm探照灯",
-            "amount": 1
-          },
-          {
-            "name": "勲章",
-            "amount": 1
-          }
-        ]
-      }
-  ],
- "prerequisite": [
-     287,
-     673,
-     674
-   ],
- "requirements": {
-      "category": "sortie",
-      "times": 1,
-      "map": [
-        "5-3",
-        "5-4"
-      ],
-      "boss": true,
-      "result": "S",
-      "groups": [
+      "choices": [
         {
-          "ship": "比叡",
-          "flagship": true
+          "name": "戦闘詳報",
+          "amount": 1
+        },
+        {
+          "name": "96式150cm探照灯",
+          "amount": 1
+        },
+        {
+          "name": "勲章",
+          "amount": 1
         }
       ]
     }
+  ],
+  "prerequisite": [
+    287,
+    673,
+    674
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "5-3",
+      "5-4"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": "比叡",
+        "flagship": true
+      }
+    ]
+  }
 }
-

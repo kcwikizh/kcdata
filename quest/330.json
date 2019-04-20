@@ -13,20 +13,6 @@
     {
       "choices": [
         {
-          "name": "九九式艦爆",
-          "amount": 4
-        },
-        {
-          "name": "彗星",
-          "amount": 2
-        },
-        {
-          "name": "開発資材",
-          "amount": 3
-        }
-      ],
-      "choices": [
-        {
           "name": "零式艦戦21型",
           "amount": 3
         },
