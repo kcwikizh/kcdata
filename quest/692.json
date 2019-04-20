@@ -42,7 +42,7 @@
   "prerequisite": [],
   "requirements": {
     "category": "scrapequipment",
-    "scraps": [
+    "list": [
       {
         "name": "小口径主砲",
         "amount": 5
@@ -52,7 +52,7 @@
         "amount": 5
       },
       {
-        "name": "水偵",
+        "name": "水上偵察機",
         "amount": 5
       }
     ],
