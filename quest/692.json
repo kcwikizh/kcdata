@@ -1,0 +1,66 @@
+{
+  "game_id": 692,
+  "wiki_id": "F83",
+  "category": 6,
+  "type": 1,
+  "name": "水上艦艇装備工廠の整備",
+  "detail": "水上艦艇装備工廠の整備を実施する！「小口径主砲」系装備x5、「大口径主砲」系装備x5、「水偵」系装備x5を廃棄、鋼材3,000を準備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        },
+        {
+          "name": "改修資材",
+          "amount": 2
+        },
+        {
+          "name": "開発資材",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "増設バルジ(中型艦)",
+          "amount": 2
+        },
+        {
+          "name": "増設バルジ(大型艦)",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "scrapequipment",
+    "scraps": [
+      {
+        "name": "小口径主砲",
+        "amount": 5
+      },
+      {
+        "name": "大口径主砲",
+        "amount": 5
+      },
+      {
+        "name": "水偵",
+        "amount": 5
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      3000,
+      0
+    ]
+  }
+}
