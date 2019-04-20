@@ -1,1 +1,60 @@
+{
+  "game_id": 290,
+  "wiki_id": "B128",
+  "category": 2,
+  "type": 1,
+  "name": "「比叡」の出撃",
+  "detail": "「比叡」南方海域出撃任務：高速戦艦「比叡」を旗艦とする有力な戦隊で、南方海域サブ島沖海域及びサーモン海域に出撃。同作戦海域の敵戦隊と交戦、これを撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 1113,
+  "reward_steel": 1942,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "“比睿” 挂轴",
+      "amount": 1
+    },
+    {
+      "name": "プレゼント箱",
+      "amount": 1
+    },
+    {
+        "choices": [
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          },
+          {
+            "name": "96式150cm探照灯",
+            "amount": 1
+          },
+          {
+            "name": "勲章",
+            "amount": 1
+          }
+        ]
+      }
+  ],
+ "prerequisite": [
+     287,
+     673,
+     674
+   ],
+ "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "5-3",
+        "5-4"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": "比叡",
+          "flagship": true
+        }
+      ]
+    }
+}
 
