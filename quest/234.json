@@ -1,0 +1,57 @@
+{
+  "game_id": 234,
+  "wiki_id": "SB41",
+  "category": 2,
+  "type": 1,
+  "name": "バレンタイン限定任務【1号作戦】",
+  "detail": "バレンタイン限定任務：軽巡1及び駆逐艦2隻以上を含む艦隊で南西諸島防衛線、南西諸島近海、バシー海峡及び東部オリョール海海を哨戒！敵艦隊を捕捉撃破し、各海域の制海権確保に努めよ！",
+  "reward_fuel": 2019,
+  "reward_ammo": 214,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    },
+    {
+      "choices": [
+        {
+          "name": "零式艦戰32型",
+          "amount": 2
+        },
+        {
+          "name": "九一式徹甲弾",
+          "amount": 3
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "1-4",
+      "2-1",
+      "2-2",
+      "2-3"
+    ],
+    "boss": true,
+    "result": "A",
+    "groups": [
+      {
+        "ship": "軽巡",
+        "amount": 1
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

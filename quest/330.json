@@ -1,0 +1,64 @@
+{
+  "game_id": 330,
+  "wiki_id": "C29",
+  "category": 3,
+  "type": 1,
+  "name": "空母機動部隊、演習始め！",
+  "detail": "空母機動部隊演習任務：航空母艦旗艦他1隻計2隻以上及び駆逐艦2隻を含む空母機動部隊を編成。 機動部隊各艦の練度向上を図る！同艦隊で、本日中に演習で4回以上勝利せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 400,
+  "reward_steel": 0,
+  "reward_bauxite": 400,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "九九式艦爆",
+          "amount": 4
+        },
+        {
+          "name": "彗星",
+          "amount": 2
+        },
+        {
+          "name": "開発資材",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "零式艦戦21型",
+          "amount": 3
+        },
+        {
+          "name": "零式艦戦52型",
+          "amount": 2
+        },
+        {
+          "name": "洋上補給",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "excercise",
+    "times": 4,
+    "victory": true,
+    "daily": true,
+    "groups": [
+      {
+        "ship": "空母",
+        "flagship": true,
+        "amount": 2
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}
