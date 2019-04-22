@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 430
+  type: 3
+  no: 93
+  title: 花飾りのステンドグラス
+  description: 海と艦艇をモチーフにした<br>新作のステンドグラスに、<br>華やかな花飾りを付加した<br>装飾です。なんとなく部屋<br>がさみしい…そんな時に！
+  rarity: 5
+  price: 1980
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

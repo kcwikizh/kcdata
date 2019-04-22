@@ -9,12 +9,12 @@ data:
   ctype: 6
   cnum: 1
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv: 92
+  after_ship_id: 591
   get_mes: <br>
   voice_f: 3
   filename: wugwvdccggcp
-  file_version: ["22", "25", "327"]
+  file_version: ["23", "25", "422"]
   book_table_id: [149, 865, 1016]
   book_sinfo: 超弩級戦艦として建造技術導入を兼ねて英国ヴィッカース社で建造された、金剛デース！<br>太平洋戦域でも持前の高速力を活かして、大活躍デース！<br>期待してネ！
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 0
     slot_num: 4
     max_eq: [3, 3, 3, 3, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 7900
+    after_bull: 8800
     fuel_max: 100
     bull_max: 125
     broken: [10, 14, 33, 3]

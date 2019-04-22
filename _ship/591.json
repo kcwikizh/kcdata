@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 591
+  sort_no: 391
+  name: 金剛改二丙
+  yomi: こんごう
+  stype: 8
+  ctype: 6
+  cnum: 1
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: hsqphprrvupr
+  file_version: ["51", "1", "422"]
+  book_table_id: [591]
+  book_sinfo: 超弩級戦艦として建造技術導入を兼ねて英国ヴィッカ<br>ース社で建造された、金剛デース！<br>太平洋戦域でも持前の高速力を活かして、大活躍デー<br>ス！<br>期待してネ！
+  stats:
+    taik: [86, 99]
+    souk: [72, 88]
+    houg: [76, 98]
+    raig: [20, 42]
+    tyku: [32, 89]
+    luck: [18, 98]
+    soku: 10
+    leng: 3
+    kaih: 40
+    tais: 0
+    slot_num: 4
+    max_eq: [2, 2, 3, 6, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 100
+    bull_max: 160
+    broken: [14, 19, 38, 4]
+    pow_up: [4, 1, 2, 4]
+    build_time: 240
+  graph:
+    boko_n: [-181, 163]
+    boko_d: [-106, 214]
+    kaisyu_n: [31, -54]
+    kaisyu_d: [66, -40]
+    kaizo_n: [-186, 52]
+    kaizo_d: [-205, 82]
+    map_n: [-136, 127]
+    map_d: [-123, 162]
+    ensyuf_n: [-157, 139]
+    ensyuf_d: [-153, 154]
+    ensyue_n: [-168, 0]
+    battle_n: [-88, 157]
+    battle_d: [-120, 189]
+    wed_a: [472, 33]
+    wed_b: [126, 154]
+  wiki_id: "391"
+  chinese_name: 金刚改二丙
+  can_drop: false
+  can_construct: false
+---

@@ -14,7 +14,7 @@ data:
   get_mes: ねえねえねえ！　貴方が提督なんだ！<br>あたし、伊26潜水艦！　ニムでいいよ！　よろしくね！
   voice_f: 1
   filename: qrubiqfijtfp
-  file_version: ["1", "1", "327"]
+  file_version: ["1", "1", "422"]
   book_table_id: [483]
   book_sinfo: 呉生まれの伊号だよ！<br>ねえねえ、あたしのことも覚えていてね！<br>通商破壊戦はもちろん、巡洋艦や空母だって食っちゃうから！<br>まかせておいて！
   stats:

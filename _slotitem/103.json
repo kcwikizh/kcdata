@@ -90,5 +90,59 @@ data:
             ship_id: 411
           -
             ship_id: 412
+    -
+      consume:
+        resource: [30, 330, 390, 30]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 6]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [6, 9]
+            -
+              id: 4
+              amount: [4, 7]
+        slotitem:
+          -
+            id: 7
+            amount: 2
+          -
+            id: 7
+            amount: 3
+      upgrade:
+        id: 328
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [35, 40]
+            -
+              id: 4
+              amount: [12, 15]
+            -
+              id: 75
+              amount: 3
+          slotitem:
+            id: 8
+            amount: 3
+      day:
+        - false
+        -
+          -
+            ship_id: 150
+        -
+          -
+            ship_id: 150
+        - false
+        - false
+        - false
+        - false
   chinese_name: 试制35.6cm三连装炮
 ---
