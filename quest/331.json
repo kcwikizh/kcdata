@@ -1,0 +1,54 @@
+{
+  "game_id": 331,
+  "wiki_id": "C31",
+  "category": 3,
+  "type": 1,
+  "name": "艦載機演習",
+  "detail": "艦載機演習任務：正規空母旗艦他1隻計2隻以上及び駆逐艦2隻を含む空母機動部隊を編成。艦載機の練度向上と装備充実を図る！同機動部隊で、本日中に演習を【A判定】以上3回勝利せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+      "name": "彗星一二型甲",
+      "amount": 1
+    },
+    {
+      "choices": [
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "彗星",
+          "amount": 3
+        },
+        {
+          "name": "開発資材",
+          "amount": 6
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    330
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 3,
+    "victory": true,
+    "daily": true,
+    "groups": [
+      {
+        "ship": "空母",
+        "flagship": true,
+        "amount": 2
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

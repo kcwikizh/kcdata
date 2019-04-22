@@ -1,0 +1,57 @@
+{
+  "game_id": 694,
+  "wiki_id": "F85",
+  "category": 6,
+  "type": 1,
+  "name": "新型航空艤装の研究",
+  "detail": "艦艇の航空運用能力を高める新型航空艤装の研究を行う。「瑞雲」x4、「彗星」x4、「流星」x2を廃棄、鋼材8,500、ボーキサイト4,000、開発資材x60を準備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "試製甲板カタパルト",
+          "amount": 1
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 3
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    303,
+    693
+  ],
+  "requirements": {
+    "category": "scrapequipment",
+    "list": [
+      {
+        "name": "瑞雲",
+        "amount": 4
+      },
+      {
+        "name": "彗星",
+        "amount": 4
+      },
+      {
+        "name": "流星",
+        "amount": 2
+      },
+      {
+        "name": "開発資材",
+        "amount": 60
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      8500,
+      4000
+    ]
+  }
+}
