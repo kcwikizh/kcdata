@@ -8616,6 +8616,60 @@
     }
   },
   {
+    "game_id": 331,
+    "wiki_id": "C31",
+    "category": 3,
+    "type": 1,
+    "name": "艦載機演習",
+    "detail": "艦載機演習任務：正規空母旗艦他1隻計2隻以上及び駆逐艦2隻を含む空母機動部隊を編成。艦載機の練度向上と装備充実を図る！同機動部隊で、本日中に演習を【A判定】以上3回勝利せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 100,
+    "reward_other": [
+      {
+        "name": "彗星一二型甲",
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "name": "新型航空兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "彗星",
+            "amount": 3
+          },
+          {
+            "name": "開発資材",
+            "amount": 6
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      330
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 3,
+      "victory": true,
+      "daily": true,
+      "groups": [
+        {
+          "ship": "空母",
+          "flagship": true,
+          "amount": 2
+        },
+        {
+          "ship": "駆逐",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  {
     "game_id": 401,
     "wiki_id": "D01",
     "category": 4,
@@ -13345,6 +13399,179 @@
         0,
         3000,
         0
+      ]
+    }
+  },
+  {
+    "game_id": 693,
+    "wiki_id": "F84",
+    "category": 6,
+    "type": 1,
+    "name": "回転翼機の開発",
+    "detail": "回転翼機装備の研究開発を実施する。「水偵」系装備x4、「艦戦」系装備x3、「艦攻」系装備x2を廃棄、ボーキサイト3,000、開発資材x20を準備せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "新型航空兵装資材",
+            "amount": 2
+          },
+          {
+            "name": "オ号観測機改",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      605,
+      682
+    ],
+    "requirements": {
+      "category": "scrapequipment",
+      "list": [
+        {
+          "name": "水上偵察機",
+          "amount": 4
+        },
+        {
+          "name": "艦上戦闘機",
+          "amount": 3
+        },
+        {
+          "name": "艦上攻撃機",
+          "amount": 2
+        },
+        {
+          "name": "開発資材",
+          "amount": 20
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        0,
+        3000
+      ]
+    }
+  },
+  {
+    "game_id": 694,
+    "wiki_id": "F85",
+    "category": 6,
+    "type": 1,
+    "name": "新型航空艤装の研究",
+    "detail": "艦艇の航空運用能力を高める新型航空艤装の研究を行う。「瑞雲」x4、「彗星」x4、「流星」x2を廃棄、鋼材8,500、ボーキサイト4,000、開発資材x60を準備せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "試製甲板カタパルト",
+            "amount": 1
+          },
+          {
+            "name": "新型航空兵装資材",
+            "amount": 3
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      303,
+      693
+    ],
+    "requirements": {
+      "category": "scrapequipment",
+      "list": [
+        {
+          "name": "瑞雲",
+          "amount": 4
+        },
+        {
+          "name": "彗星",
+          "amount": 4
+        },
+        {
+          "name": "流星",
+          "amount": 2
+        },
+        {
+          "name": "開発資材",
+          "amount": 60
+        }
+      ],
+      "resources": [
+        0,
+        0,
+        8500,
+        4000
+      ]
+    }
+  },
+  {
+    "game_id": 695,
+    "wiki_id": "F86",
+    "category": 6,
+    "type": 1,
+    "name": "「彗星」艦爆の新運用研究",
+    "detail": "三号爆弾運用：旗艦「伊勢改二」または「日向改二」第一スロに「彗星一二型甲」搭載、 「彗星」x4、「九九式艦爆」x3、「瑞雲」x2廃棄、弾薬x2,500、ボーキ5,000、新型航空兵装資材x1を準備せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "彗星一二型(六三四空/三号爆弾搭載機)",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      331,
+      693
+    ],
+    "requirements": {
+      "category": "modelconversion",
+      "secretary": [
+        "伊勢改二",
+        "日向改二"
+      ],
+      "slots": [
+        {
+          "slot": 1,
+          "equipment": "彗星一二型甲"
+        }
+      ],
+      "scraps": [
+        {
+          "name": "彗星",
+          "amount": 4
+        },
+        {
+          "name": "九九式艦爆",
+          "amount": 3
+        },
+        {
+          "name": "瑞雲",
+          "amount": 2
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        }
+      ],
+      "resources": [
+        0,
+        2500,
+        0,
+        5000
       ]
     }
   },
@@ -18121,6 +18348,130 @@
         {
           "ship": "艦",
           "amount": 5
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 896,
+    "wiki_id": "B131",
+    "category": 2,
+    "type": 1,
+    "name": "航空戦艦戦隊、戦闘哨戒！",
+    "detail": "航空戦艦二隻を中核とする艦隊を編成、同艦隊で南西諸島防衛線、鎮守府近海及び東部オリョール海、タウイタウイ泊地沖に展開。同海域の脅威となる敵艦隊主力を捕捉、これを撃滅せよ！",
+    "reward_fuel": 600,
+    "reward_ammo": 600,
+    "reward_steel": 0,
+    "reward_bauxite": 600,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "戦闘詳報",
+            "amount": 1
+          },
+          {
+            "name": "勲章",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "name": "勲章",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      112,
+      606
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "1-4",
+        "1-5",
+        "2-3",
+        "7-2-P2"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": "航空戦艦",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 897,
+    "wiki_id": "B132",
+    "category": 2,
+    "type": 1,
+    "name": "最精鋭｢第四航空戦隊｣、出撃せよ！",
+    "detail": "｢日向改二」「伊勢改二」の最精鋭「四航戦」を含む第一艦隊で、鎮守府近海航路に反復出撃、さらに、カレー洋リランカ島沖、サーモン海域北方、KW環礁沖海域の敵艦隊を捕捉撃滅せよ！",
+    "reward_fuel": 1000,
+    "reward_ammo": 1000,
+    "reward_steel": 1000,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "S-51J",
+            "amount": 1
+          },
+          {
+            "name": "勲章",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "name": "瑞雲改二(六三四空)",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      694,
+      896
+    ],
+    "requirements": {
+      "category": "and",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 2,
+          "map": "1-6",
+          "result": "クリア",
+          "groups": [
+            {
+              "ship": "日向改二"
+            },
+            {
+              "ship": "伊勢改二"
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": [
+            "4-5",
+            "5-5",
+            "6-5"
+          ],
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": "日向改二"
+            },
+            {
+              "ship": "伊勢改二"
+            }
+          ]
         }
       ]
     }
