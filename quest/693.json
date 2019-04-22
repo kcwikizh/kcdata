@@ -1,0 +1,57 @@
+{
+  "game_id": 693,
+  "wiki_id": "F84",
+  "category": 6,
+  "type": 1,
+  "name": "回転翼機の開発",
+  "detail": "回転翼機装備の研究開発を実施する。「水偵」系装備x4、「艦戦」系装備x3、「艦攻」系装備x2を廃棄、ボーキサイト3,000、開発資材x20を準備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "新型航空兵装資材",
+          "amount": 2
+        },
+        {
+          "name": "オ号観測機改",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    605,
+    682
+  ],
+  "requirements": {
+    "category": "scrapequipment",
+    "list": [
+      {
+        "name": "水偵",
+        "amount": 4
+      },
+      {
+        "name": "艦戦",
+        "amount": 3
+      },
+      {
+        "name": "艦攻",
+        "amount": 2
+      },
+      {
+        "name": "開発資材",
+        "amount": 20
+      }
+    ],
+    "resources": [
+      0,
+      0,
+      0,
+      3000
+    ]
+  }
+}
