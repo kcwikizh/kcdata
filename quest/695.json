@@ -1,0 +1,59 @@
+{
+  "game_id": 695,
+  "wiki_id": "F86",
+  "category": 6,
+  "type": 1,
+  "name": "「彗星」艦爆の新運用研究",
+  "detail": "三号爆弾運用：旗艦「伊勢改二」または「日向改二」第一スロに「彗星一二型甲」搭載、 「彗星」x4、「九九式艦爆」x3、「瑞雲」x2廃棄、弾薬x2,500、ボーキ5,000、新型航空兵装資材x1を準備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "彗星一二型(六三四空／三号爆弾搭載機)",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    331,
+    693
+  ],
+  "requirements": {
+    "category": "scrapequipment",
+    "secretary": [
+      "伊勢改二",
+      "日向改二"
+    ],
+    "slots": [
+      {
+        "slot": 1,
+        "equipment": "彗星一二型甲"
+      }
+    ],
+    "list": [
+      {
+        "name": "彗星",
+        "amount": 4
+      },
+      {
+        "name": "九九式艦爆",
+        "amount": 3
+      },
+      {
+        "name": "瑞雲",
+        "amount": 2
+      },
+      {
+        "name": "新型航空兵装資材",
+        "amount": 1
+      }
+    ],
+    "resources": [
+      0,
+      2500,
+      0,
+      5000
+    ]
+  }
+}
