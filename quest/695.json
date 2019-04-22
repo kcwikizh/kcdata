@@ -11,7 +11,7 @@
   "reward_bauxite": 0,
   "reward_other": [
     {
-      "name": "彗星一二型(六三四空／三号爆弾搭載機)",
+      "name": "彗星一二型(六三四空/三号爆弾搭載機)",
       "amount": 1
     }
   ],
@@ -20,7 +20,7 @@
     693
   ],
   "requirements": {
-    "category": "scrapequipment",
+    "category": "modelconversion",
     "secretary": [
       "伊勢改二",
       "日向改二"
@@ -31,7 +31,7 @@
         "equipment": "彗星一二型甲"
       }
     ],
-    "list": [
+    "scraps": [
       {
         "name": "彗星",
         "amount": 4

@@ -8,8 +8,12 @@
   "reward_fuel": 0,
   "reward_ammo": 0,
   "reward_steel": 0,
-  "reward_bauxite": 400,
+  "reward_bauxite": 100,
   "reward_other": [
+    {
+      "name": "彗星一二型甲",
+      "amount": 1
+    },
     {
       "choices": [
         {

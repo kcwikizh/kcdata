@@ -32,24 +32,40 @@
     896
   ],
   "requirements": {
-    "category": "sortie",
-    "times": 1,
-    "map": [
-      "1-6",
-      "1-6",
-      "4-5",
-      "5-5",
-      "6-5"
-    ],
-    "boss": true,
-    "result": "S",
-    "groups": [
+    "category": "and",
+    "list": [
       {
-        "ship": [
-          "日向改二",
-          "伊勢改二"
+        "category": "sortie",
+        "times": 2,
+        "map": "1-6",
+        "result": "クリア",
+        "groups": [
+          {
+            "ship": "日向改二"
+          },
+          {
+            "ship": "伊勢改二"
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": [
+          "4-5",
+          "5-5",
+          "6-5"
         ],
-        "flagship": false
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "日向改二"
+          },
+          {
+            "ship": "伊勢改二"
+          }
+        ]
       }
     ]
   }

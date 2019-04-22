@@ -31,15 +31,15 @@
     "category": "scrapequipment",
     "list": [
       {
-        "name": "水偵",
+        "name": "水上偵察機",
         "amount": 4
       },
       {
-        "name": "艦戦",
+        "name": "艦上戦闘機",
         "amount": 3
       },
       {
-        "name": "艦攻",
+        "name": "艦上攻撃機",
         "amount": 2
       },
       {

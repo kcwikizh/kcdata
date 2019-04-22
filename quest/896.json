@@ -38,19 +38,13 @@
       "1-4",
       "1-5",
       "2-3",
-      "7-2"
+      "7-2-P2"
     ],
     "boss": true,
     "result": "S",
     "groups": [
       {
-        "ship": [
-          "航空戦艦"
-        ],
-        "flagship": false
-      },
-      {
-        "ship": "艦",
+        "ship": "航空戦艦",
         "amount": 2
       }
     ]
