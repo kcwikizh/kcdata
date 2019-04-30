@@ -140,7 +140,9 @@ data:
         -
           -
             ship_id: 150
-        - false
+        -
+          -
+            ship_id: 150
         - false
         - false
         - false

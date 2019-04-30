@@ -1,0 +1,36 @@
+---
+layout: json
+order: 320
+data:
+  id: 320
+  sort_no: 320
+  name: 彗星一二型(三一号光電管爆弾搭載機)
+  type: [3, 5, 7, 7, 16]
+  rare: 4
+  broken: [2, 6, 0, 5]
+  info: 「九九艦爆」の後継として開発された高速性能を誇る水冷エンジンの艦上爆撃機「彗星」。その「彗星一二型」に、新開発で運用実験途中の「三一号光電管爆弾」を搭載した特殊兵装機です。光電管による電光の反射を信管が受信して爆発する特殊爆弾搭載「彗星」。最後の最後まで、正攻法で粘り強く戦った、あの「芙蓉部隊」も積極運用したと伝えられています。
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 11
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 5
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

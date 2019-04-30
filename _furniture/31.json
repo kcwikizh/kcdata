@@ -8,7 +8,7 @@ data:
   description: 鎮守府で執務しながら艦載<br>機の発着艦訓練も可能かも<br>しれない特注の飛行甲板型<br>の床。エレベーターが一体<br>どこに行くのか謎です。
   rarity: 4
   price: 9300
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

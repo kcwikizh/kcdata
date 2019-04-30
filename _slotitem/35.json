@@ -88,75 +88,71 @@ data:
           -
             ship_id: 149
           -
-            ship_id: 85
-          -
-            ship_id: 212
-          -
-            ship_id: 152
-        -
-          -
-            ship_id: 78
-          -
-            ship_id: 209
-          -
-            ship_id: 149
-        -
-          -
-            ship_id: 78
-          -
-            ship_id: 209
-          -
-            ship_id: 149
-          -
-            ship_id: 86
-          -
-            ship_id: 210
-          -
-            ship_id: 150
-        -
-          -
-            ship_id: 78
-          -
-            ship_id: 209
-          -
-            ship_id: 149
-          -
-            ship_id: 86
-          -
-            ship_id: 210
-          -
-            ship_id: 150
-          -
-            ship_id: 79
-          -
-            ship_id: 211
-          -
-            ship_id: 151
-        -
-          -
-            ship_id: 86
-          -
-            ship_id: 210
-          -
-            ship_id: 150
-          -
-            ship_id: 79
-          -
-            ship_id: 211
-          -
-            ship_id: 151
-        -
-          -
-            ship_id: 79
-          -
-            ship_id: 211
-          -
-            ship_id: 151
+            ship_id: 591
           -
             ship_id: 85
           -
             ship_id: 212
           -
             ship_id: 152
+        -
+          -
+            ship_id: 78
+          -
+            ship_id: 209
+          -
+            ship_id: 149
+          -
+            ship_id: 591
+        -
+          -
+            ship_id: 78
+          -
+            ship_id: 209
+          -
+            ship_id: 149
+          -
+            ship_id: 591
+          -
+            ship_id: 86
+          -
+            ship_id: 210
+          -
+            ship_id: 150
+        -
+          -
+            ship_id: 78
+          -
+            ship_id: 209
+          -
+            ship_id: 149
+          -
+            ship_id: 591
+          -
+            ship_id: 86
+          -
+            ship_id: 210
+          -
+            ship_id: 150
+          -
+            ship_id: 79
+          -
+            ship_id: 211
+          -
+            ship_id: 151
+        -
+          -
+            ship_id: 86
+          -
+            ship_id: 210
+          -
+            ship_id: 150
+          -
+            ship_id: 79
+          -
+            ship_id: 211
+          -
+            ship_id: 151
+        - false
   chinese_name: 三式弹
 ---

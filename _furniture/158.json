@@ -8,7 +8,7 @@ data:
   description: 前線で戦う艦娘をベストな<br>医療環境でバックアップし<br>たいという…一部の提督の<br>熱い要望により実現した診<br>療台セット。医療？診察？
   rarity: 4
   price: 4500
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

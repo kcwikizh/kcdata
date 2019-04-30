@@ -14,7 +14,7 @@ data:
   get_mes: 雲龍型航空母艦、雲龍、推参しました。<br>提督、よろしくお願いしますね。
   voice_f: 1
   filename: xgoisifuerjd
-  file_version: ["1", "1", "422"]
+  file_version: ["1", "1", "423"]
   book_table_id: [404]
   book_sinfo: マル急計画によって戦時建造された雲龍型航空母艦の長女、雲龍よ。<br>傑作中型空母の飛龍を改良した量産型正規空母なの。新生機動部隊の主力としての潜在実力は十分なのだけど…今度は見ててよね。
   stats:

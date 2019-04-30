@@ -49,12 +49,14 @@ data:
               amount: [-1, -1]
             -
               id: 4
-              amount: [-1, -1]
+              amount: [7, 9]
         slotitem:
           -
             id: 7
             amount: 2
-          - 
+          -
+            id: 7
+            amount: 4
       upgrade:
       day:
         - false
@@ -64,7 +66,9 @@ data:
         -
           -
             ship_id: 591
-        - false
+        -
+          -
+            ship_id: 591
         - false
         - false
         - false

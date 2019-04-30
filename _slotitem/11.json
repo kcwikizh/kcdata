@@ -80,6 +80,8 @@ data:
           -
             ship_id: 209
           -
+            ship_id: 591
+          -
             ship_id: 149
         -
           -
@@ -90,6 +92,8 @@ data:
             ship_id: 78
           -
             ship_id: 209
+          -
+            ship_id: 591
           -
             ship_id: 149
           -
@@ -123,5 +127,7 @@ data:
             ship_id: 78
           -
             ship_id: 209
+          -
+            ship_id: 591
   chinese_name: 15.2cm单装炮
 ---
