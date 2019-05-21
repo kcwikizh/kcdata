@@ -1,0 +1,36 @@
+---
+layout: json
+order: 339
+data:
+  id: 339
+  sort_no: 339
+  name: 烈風改二戊型(一航戦/熟練)
+  type: [3, 5, 6, 45, 34]
+  rare: 7
+  broken: [2, 3, 0, 5]
+  info: 名機「零戦」の後継機として開発された、最新鋭艦上戦闘機「烈風」。同機をベースにした高高度型局地戦闘機「烈風改」をさらに熟成、斜め銃を撤去し、対戦闘機戦闘及び艦戦としての完成度を高めた、性能向上型の烈風「烈風改二」を複座化。機上電探装備も充実させたif夜戦型「烈風改二」を第一航空戦隊の熟練搭乗員ペアが駆る、精鋭夜間戦闘機隊です。
+  usebull: 0
+  cost: 11
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 12
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 378
+  sort_no: 384
+  name: 八丈改
+  yomi: はちじょう
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: tsxkhnklujer
+  file_version: ["1", "1", "520"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [17, 28]
+    souk: [7, 33]
+    houg: [5, 35]
+    raig: [0, 0]
+    tyku: [11, 54]
+    luck: [49, 92]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [178, 265]
+    boko_d: [145, 279]
+    kaisyu_n: [28, -3]
+    kaisyu_d: [37, 10]
+    kaizo_n: [156, 115]
+    kaizo_d: [124, 120]
+    map_n: [192, 199]
+    map_d: [130, 220]
+    ensyuf_n: [184, 204]
+    ensyuf_d: [157, 204]
+    ensyue_n: [169, 0]
+    battle_n: [199, 219]
+    battle_d: [165, 235]
+    wed_a: [172, -7]
+    wed_b: [133, 144]
+  wiki_id: "384a"
+  chinese_name: 八丈改
+  can_drop: false
+  can_construct: false
+---

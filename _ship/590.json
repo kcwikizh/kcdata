@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 590
+  sort_no: 390
+  name: G.Garibaldi
+  yomi: ガルバルディ
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 45
+  after_ship_id: 691
+  get_mes: Buongiorno！<br>イタリア生まれの最新鋭軽巡Giuseppe Garibaldiだ。<br>長いって？　そうだな。Garibaldiでいいよ。よろしくな！
+  voice_f: 1
+  filename: jggtbrpbucqf
+  file_version: ["51", "1", "520"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [37, 55]
+    souk: [33, 51]
+    houg: [28, 50]
+    raig: [20, 66]
+    tyku: [20, 60]
+    luck: [20, 89]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 400
+    after_bull: 320
+    fuel_max: 40
+    bull_max: 50
+    broken: [2, 3, 12, 2]
+    pow_up: [2, 1, 1, 2]
+    build_time: 70
+  graph:
+    boko_n: [-24, 204]
+    boko_d: [13, 220]
+    kaisyu_n: [7, -21]
+    kaisyu_d: [42, -6]
+    kaizo_n: [-18, 73]
+    kaizo_d: [-10, 52]
+    map_n: [3, 181]
+    map_d: [37, 187]
+    ensyuf_n: [7, 151]
+    ensyuf_d: [1, 166]
+    ensyue_n: [-9, 0]
+    battle_n: [27, 181]
+    battle_d: [28, 205]
+    wed_a: [358, 0]
+    wed_b: [121, 172]
+  wiki_id: "390"
+  chinese_name: 加里波第
+  can_drop: false
+  can_construct: false
+---

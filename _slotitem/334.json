@@ -1,0 +1,36 @@
+---
+layout: json
+order: 334
+data:
+  id: 334
+  sort_no: 334
+  name: 烈風改(三五二空/熟練)
+  type: [22, 39, 48, 38, 34]
+  rare: 5
+  broken: [3, 2, 0, 7]
+  info: 名機「零戦」の後継機として開発された、最新鋭艦上戦闘機「烈風」。同機をベースに開発が計画されていた高高度で重爆を邀撃するための新型戦闘機、排気タービン過給器、そして30mm機銃を斜め銃含めて計7挺を装備した圧倒的火力を持つ重武装局地戦闘機「烈風改」。日本の空を護る、三五二空所属の精鋭「烈風改」戦闘隊です。
+  usebull: 0
+  cost: 9
+  distance: 4
+  stats:
+    taik: 0
+    souk: 1
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 11
+    tais: 0
+    atap: 0
+    houm: 7
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

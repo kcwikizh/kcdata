@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 584
+  sort_no: 384
+  name: 八丈
+  yomi: はちじょう
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 40
+  after_ship_id: 378
+  get_mes: あ、あたし、あたしが八丈よ。そ、占守型。海防艦ね。<br>ハチ？　んー、まあ、いっか。そう呼ばせてあげる。<br>よろしくね。
+  voice_f: 1
+  filename: rqpotbrpzmfv
+  file_version: ["51", "1", "520"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [9, 18]
+    souk: [4, 16]
+    houg: [4, 18]
+    raig: [0, 0]
+    tyku: [7, 24]
+    luck: [40, 79]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 60
+    after_bull: 90
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 0, 0]
+    build_time: 14
+  graph:
+    boko_n: [178, 265]
+    boko_d: [145, 279]
+    kaisyu_n: [28, -3]
+    kaisyu_d: [37, 10]
+    kaizo_n: [156, 115]
+    kaizo_d: [124, 120]
+    map_n: [192, 199]
+    map_d: [130, 220]
+    ensyuf_n: [184, 204]
+    ensyuf_d: [157, 204]
+    ensyue_n: [169, 0]
+    battle_n: [199, 219]
+    battle_d: [165, 235]
+    wed_a: [172, -7]
+    wed_b: [133, 144]
+  wiki_id: "384"
+  chinese_name: 八丈
+  can_drop: false
+  can_construct: false
+---
