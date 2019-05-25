@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 601
+  sort_no: 401
+  name: Colorado
+  yomi: コロラド
+  stype: 9
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 45
+  after_ship_id: 1496
+  get_mes: Hi! 私がステイツのBig7、Colorado級戦艦一番艦、<br>USS Coloradoよ！<br>貴方がAdmiral？ 悪くないわね。<br>私にしっかりついてきなさい！ 返事は？
+  voice_f: 1
+  filename: cnghkhxvlmwk
+  file_version: ["51", "1", "520"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [77, 89]
+    souk: [73, 90]
+    houg: [78, 96]
+    raig: [0, 0]
+    tyku: [28, 90]
+    luck: [30, 99]
+    soku: 5
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [0, 1, 1, 1, 0]
+    after_fuel: 2600
+    after_bull: 1600
+    fuel_max: 90
+    bull_max: 130
+    broken: [10, 21, 39, 3]
+    pow_up: [5, 0, 1, 4]
+    build_time: 300
+  graph:
+    boko_n: [-180, 79]
+    boko_d: [-91, 106]
+    kaisyu_n: [31, -67]
+    kaisyu_d: [48, -61]
+    kaizo_n: [-172, -46]
+    kaizo_d: [-82, -18]
+    map_n: [-187, 37]
+    map_d: [-46, 45]
+    ensyuf_n: [-156, 37]
+    ensyuf_d: [-43, 22]
+    ensyue_n: [-162, 0]
+    battle_n: [-88, 58]
+    battle_d: [0, 72]
+    wed_a: [436, 126]
+    wed_b: [187, 151]
+  wiki_id: "401"
+  chinese_name: 科罗拉多
+  can_drop: false
+  can_construct: false
+---

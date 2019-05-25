@@ -6,17 +6,17 @@ data:
   name: G.Garibaldi
   yomi: ガルバルディ
   stype: 3
-  ctype: 
-  cnum: 
+  ctype: 92
+  cnum: 2
   backs: 6
   after_lv: 45
   after_ship_id: 691
   get_mes: Buongiorno！<br>イタリア生まれの最新鋭軽巡Giuseppe Garibaldiだ。<br>長いって？　そうだな。Garibaldiでいいよ。よろしくな！
   voice_f: 1
   filename: jggtbrpbucqf
-  file_version: ["51", "1", "520"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["52", "1", "520"]
+  book_table_id: [590, 691]
+  book_sinfo: ルイージ・ディ・サヴォイア・ドゥーカ・デッリ・<br>アブルッツィ軽巡洋艦「ジュゼッペ・ガリバルディ」<br>だ。ああ、姉貴の名前、長くって。でも、正真正銘の<br>最新鋭軽巡、火力も装甲も艦の作りも、かなりのもん<br>さ。ちょっと温存され過ぎたけど、今度はばっちり働<br>くぜ！見てなよ！
   stats:
     taik: [37, 55]
     souk: [33, 51]
@@ -26,8 +26,8 @@ data:
     luck: [20, 89]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 34
+    tais: 20
     slot_num: 3
     max_eq: [2, 2, 2, 0, 0]
     after_fuel: 400

@@ -55,6 +55,6 @@ data:
     wed_b: [120, 180]
   wiki_id: "339"
   chinese_name: 佐渡
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

@@ -1,11 +1,11 @@
 ---
 layout: json
 data:
-  id: 1870
+  id: 1875
   sort_no: 0
-  name: 北方棲妹-壊
+  name: 太平洋深海棲姫-壊
   yomi: 
-  stype: 10
+  stype: 9
   ctype: 
   cnum: 
   backs: 
@@ -13,7 +13,7 @@ data:
   after_ship_id: 
   get_mes: 
   voice_f: 
-  filename: synmhvmeyboe
+  filename: wcdphredtkxl
   file_version: ["1", "1", "1"]
   book_table_id: 
   book_sinfo: 
@@ -24,7 +24,7 @@ data:
     raig: 
     tyku: 
     luck: 
-    soku: 0
+    soku: 5
     leng: 
     kaih: 
     tais: 
@@ -49,12 +49,12 @@ data:
     ensyuf_n: [0, 0]
     ensyuf_d: [0, 0]
     ensyue_n: [0, 0]
-    battle_n: [27, 145]
-    battle_d: [27, 145]
+    battle_n: [-387, 55]
+    battle_d: [-387, 55]
     wed_a: [0, 0]
     wed_b: [0, 0]
-  wiki_id: 
-  chinese_name: 
+  wiki_id:
+  chinese_name:
   can_drop: false
   can_construct: false
 ---

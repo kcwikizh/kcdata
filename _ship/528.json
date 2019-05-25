@@ -55,6 +55,6 @@ data:
     wed_b: [115, 162]
   wiki_id: "328"
   chinese_name: 早波
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

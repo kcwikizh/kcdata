@@ -55,6 +55,6 @@ data:
     wed_b: [118, 124]
   wiki_id: "327"
   chinese_name: 岸波
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

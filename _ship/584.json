@@ -6,8 +6,8 @@ data:
   name: 八丈
   yomi: はちじょう
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 74
+  cnum: 3
   backs: 4
   after_lv: 40
   after_ship_id: 378
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: rqpotbrpzmfv
   file_version: ["51", "1", "520"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [584]
+  book_sinfo: あたしは八丈、そ、占守型、海防艦ね。佐世保生ま<br>れ。でも、ずっーと北方の海で頑張ったんだ。大湊、<br>千島や幌筵のあたりならあたしに任せておいて。結構<br>頑張ったんだよ。でも、飛行機には勝てないね。最期<br>は…舞鶴。あの街も嫌いじゃない…かな。<br>提督、よろしくね。
   stats:
     taik: [9, 18]
     souk: [4, 16]
@@ -26,8 +26,8 @@ data:
     luck: [40, 79]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 42
+    tais: 31
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 60

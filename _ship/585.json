@@ -6,8 +6,8 @@ data:
   name: 石垣
   yomi: いしがき
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 74
+  cnum: 4
   backs: 4
   after_lv: 40
   after_ship_id: 379
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: ynjpkhbvzcjf
   file_version: ["51", "1", "520"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [585]
+  book_sinfo: 占守型海防艦、石垣です。<br>北方の海の護りに就きました…。<br>大湊、幌筵などを拠点に北方の船団の護衛、対潜哨<br>戒、警備や救難活動にも務めたの。敵潜水艦はやっか<br>いなもの…沈められる時に沈めないと…。頑張ります<br>…見ていて…ください…。
   stats:
     taik: [9, 18]
     souk: [4, 16]
@@ -26,8 +26,8 @@ data:
     luck: [9, 49]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 41
+    tais: 32
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 60
@@ -55,6 +55,6 @@ data:
     wed_b: [157, 154]
   wiki_id: "385"
   chinese_name: 石垣
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

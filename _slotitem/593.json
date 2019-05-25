@@ -1,0 +1,36 @@
+---
+layout: json
+order: 593
+data:
+  id: 593
+  sort_no: 0
+  name: 高速深海魚雷 mod.3
+  type: [2, 3, 5, 5, 0]
+  rare: 4
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 15
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 10
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name:
+---
