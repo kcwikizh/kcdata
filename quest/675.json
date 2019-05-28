@@ -8,7 +8,7 @@
   "reward_fuel": 200,
   "reward_ammo": 0,
   "reward_steel": 0,
-  "reward_bauxite": 200,
+  "reward_bauxite": 0,
   "reward_other": [
     {
       "choices": [
