@@ -55,6 +55,6 @@ data:
     wed_b: [150, 180]
   wiki_id: "257"
   chinese_name: 山风
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

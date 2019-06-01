@@ -55,6 +55,6 @@ data:
     wed_b: [120, 144]
   wiki_id: "240"
   chinese_name: 衣阿华
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

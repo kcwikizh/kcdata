@@ -55,6 +55,6 @@ data:
     wed_b: [114, 186]
   wiki_id: "361"
   chinese_name: 塞缪尔·B·罗伯茨
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

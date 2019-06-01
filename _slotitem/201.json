@@ -79,6 +79,10 @@ data:
           -
             ship_id: 277
           -
+            ship_id: 594
+          -
+            ship_id: 599
+          -
             ship_id: 84
           -
             ship_id: 278
@@ -88,26 +92,26 @@ data:
           -
             ship_id: 277
           -
-            ship_id: 84
-          -
-            ship_id: 278
-          -
             ship_id: 594
           -
             ship_id: 599
+          -
+            ship_id: 84
+          -
+            ship_id: 278
         -
           -
             ship_id: 83
           -
             ship_id: 277
           -
-            ship_id: 84
-          -
-            ship_id: 278
-          -
             ship_id: 594
           -
             ship_id: 599
+          -
+            ship_id: 84
+          -
+            ship_id: 278
         - false
         - false
         - false

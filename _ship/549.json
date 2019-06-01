@@ -55,6 +55,6 @@ data:
     wed_b: [126, 162]
   wiki_id: "349"
   chinese_name: 无畏
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

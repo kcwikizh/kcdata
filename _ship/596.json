@@ -6,8 +6,8 @@ data:
   name: Fletcher
   yomi: フレッチャー
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 91
+  cnum: 445
   backs: 6
   after_lv: 55
   after_ship_id: 692
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: civubdsppvpf
   file_version: ["51", "1", "520"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [596, 692]
+  book_sinfo: 最も成功し、量産された駆逐艦、そのネームシップ<br>が私、Fletcher class destroyer USS Fletcherです。<br>姉妹の数は170隻を超えているの。まさにデファクト<br>スタンダード。<br>後に海上自衛隊にも配備されました。
   stats:
     taik: [18, 38]
     souk: [7, 20]
@@ -26,8 +26,8 @@ data:
     luck: [30, 89]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 45
+    tais: 50
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 180
@@ -55,6 +55,6 @@ data:
     wed_b: [165, 145]
   wiki_id: "396"
   chinese_name: 弗莱彻
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

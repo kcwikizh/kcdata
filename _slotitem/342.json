@@ -1,0 +1,36 @@
+---
+layout: json
+order: 342
+data:
+  id: 342
+  sort_no: 342
+  name: 流星改(一航戦)
+  type: [3, 5, 8, 8, 33]
+  rare: 5
+  broken: [2, 6, 0, 11]
+  info: 艦攻と艦爆を統合した先進的な"急降下爆撃可能な雷撃機"「流星」の性能向上型です。美しいフォルムだけでなく、爆弾倉・主脚・主翼折り畳み機構も油圧操作式、20mm砲x2門、さらに13mm後方旋回銃x1門という最新装備＆重武装を誇る艦上統合攻撃機「流星改」。同機を装備した「赤城」「加賀」配備のif精鋭艦攻隊です。
+  usebull: 0
+  cost: 9
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 14
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 6
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---
