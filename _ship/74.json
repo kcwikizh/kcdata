@@ -14,7 +14,7 @@ data:
   get_mes: 軽空母、祥鳳です。<br>はい、ちょっと小柄ですけど、ぜひ提督の機動部隊に加えてくださいね！
   voice_f: 0
   filename: qihrkkfwekpo
-  file_version: ["25", "16", "520"]
+  file_version: ["26", "16", "625"]
   book_table_id: [74, 282, 918, 1074]
   book_sinfo: 祥鳳型航空母艦１番艦です。<br>元々は潜水母艦だったんです。<br>前衛艦隊や主力じゃない小艦隊に空母を配属するな<br>ら、ぜひ私を使ってね！運用によってはお役に立つは<br>ずです！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 2, 2]
     build_time: 160
   graph:
-    boko_n: [178, -42]
-    boko_d: [43, 79]
+    boko_n: [144, 132]
+    boko_d: [192, 240]
     kaisyu_n: [36, -15]
     kaisyu_d: [24, 40]
-    kaizo_n: [100, -85]
-    kaizo_d: [40, -79]
-    map_n: [100, -27]
-    map_d: [48, 66]
-    ensyuf_n: [124, -51]
-    ensyuf_d: [72, -22]
-    ensyue_n: [124, 0]
-    battle_n: [100, -73]
-    battle_d: [10, 39]
-    wed_a: [127, 231]
-    wed_b: [145, 175]
+    kaizo_n: [48, 48]
+    kaizo_d: [144, 120]
+    map_n: [84, 96]
+    map_d: [144, 192]
+    ensyuf_n: [96, 72]
+    ensyuf_d: [192, 192]
+    ensyue_n: [60, 0]
+    battle_n: [96, 72]
+    battle_d: [168, 192]
+    wed_a: [252, 96]
+    wed_b: [192, 168]
   wiki_id: "094"
   chinese_name: 祥凤
   can_drop: true

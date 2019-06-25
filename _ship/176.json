@@ -14,7 +14,7 @@ data:
   get_mes: Guten Morgen！<br>私は、重巡プリンツ・オイゲン。よろしくね！
   voice_f: 1
   filename: shcsmfegtxhf
-  file_version: ["14", "14", "520"]
+  file_version: ["14", "14", "625"]
   book_table_id: [176]
   book_sinfo: わ！びっくりした！私、ドイツ生まれの重巡、プリンツ・オイゲン。アドミラル・ヒッパー級3番艦です。<br>ビスマルク姉さまとライン演習作戦に参加しました。幸運艦…そう？　この海でも戦い抜きます！
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: 提督、あの、私……<br>綾波型駆逐艦……狭霧といいます。<br>お手伝いできるよう、頑張ります。
   voice_f: 0
   filename: tbgbgvlvagls
-  file_version: ["17", "1", "520"]
+  file_version: ["18", "1", "625"]
   book_table_id: [480, 773, 772, 762, 752, 1046, 1104, 1108, 1118]
   book_sinfo: 綾波型駆逐艦、六番艦の狭霧です。そうですね、吹雪<br>型一番艦から数えて十六隻目の特型駆逐艦です。天霧<br>たちと第二十駆逐隊を編成し、三水戦の一翼を担いま<br>した。あまり多くの戦いを経験してはいませんが、お<br>味方のために尽くしたいと思います。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [222, 114]
-    boko_d: [180, 114]
+    boko_n: [301, 225]
+    boko_d: [84, 55]
     kaisyu_n: [18, -12]
     kaisyu_d: [54, -21]
-    kaizo_n: [114, 12]
-    kaizo_d: [72, -54]
-    map_n: [132, 72]
-    map_d: [96, 60]
-    ensyuf_n: [120, 78]
-    ensyuf_d: [96, 66]
-    ensyue_n: [132, 0]
-    battle_n: [168, 96]
-    battle_d: [138, 84]
-    wed_a: [204, 120]
-    wed_b: [108, 174]
+    kaizo_n: [204, 97]
+    kaizo_d: [-1, -97]
+    map_n: [249, 210]
+    map_d: [18, 6]
+    ensyuf_n: [217, 204]
+    ensyuf_d: [12, 4]
+    ensyue_n: [211, 0]
+    battle_n: [243, 235]
+    battle_d: [40, 42]
+    wed_a: [114, -18]
+    wed_b: [121, 174]
   wiki_id: "280"
   chinese_name: 狭雾
   can_drop: false

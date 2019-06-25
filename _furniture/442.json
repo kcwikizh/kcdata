@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 442
+  type: 5
+  no: 83
+  title: 梅雨を楽しむ二人の机
+  description: 梅雨の季節を提督と艦娘が<br>二人で楽しむ机です。てる<br>てる坊主作りもまた良し。<br>小腹が空いたら艦娘が用意<br>した軽食を頂きましょう！
+  rarity: 5
+  price: 5500
+  saleflg: 1
+  season: 19
+  filename: "084"
+  file_version: "1"
+---
