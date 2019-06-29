@@ -32,5 +32,81 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [200, 300, 0, 360]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [2, 2]
+          -
+            -
+              id: 3
+              amount: [4, 7]
+            -
+              id: 4
+              amount: [3, 4]
+        slotitem:
+          -
+            id: 16
+            amount: 1
+          -
+            id: 16
+            amount: 2
+      upgrade:
+      day:
+        - false
+        - false
+        -
+          -
+            ship_id: 90
+          -
+            ship_id: 279
+          -
+            ship_id: 197
+          -
+            ship_id: 91
+          -
+            ship_id: 280
+          -
+            ship_id: 196
+        -
+          -
+            ship_id: 90
+          -
+            ship_id: 279
+          -
+            ship_id: 197
+          -
+            ship_id: 91
+          -
+            ship_id: 280
+          -
+            ship_id: 196
+        -
+          -
+            ship_id: 91
+          -
+            ship_id: 280
+          -
+            ship_id: 196
+        -
+          -
+            ship_id: 91
+          -
+            ship_id: 280
+          -
+            ship_id: 196
+        -
+          -
+            ship_id: 91
+          -
+            ship_id: 280
+          -
+            ship_id: 196
   chinese_name: 九七式舰攻
 ---
