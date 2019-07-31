@@ -14,7 +14,7 @@ data:
   get_mes: グーテンターク…あ、違った、ごめんなさいね…<br>「はち」と呼んでくださいね。
   voice_f: 3
   filename: zoaptkoerfpv
-  file_version: ["12", "11", "625"]
+  file_version: ["12", "11", "718"]
   book_table_id: [128, 743]
   book_sinfo: 遣独潜水艦作戦の第二次遣独艦として、かの地に向かったのよ。そして、Uボートをもらったの。この作戦は5回行われたんだけど、機雷とか色々あって、無事往復できたのは私だけなんですって…そうね、機雷なんてダイッキライ！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [208, 196]
   wiki_id: "128"
   chinese_name: 伊8
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

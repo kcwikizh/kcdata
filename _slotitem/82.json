@@ -58,9 +58,39 @@ data:
             id: 25
             amount: 2
       upgrade:
+        id: 344
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [15, 30]
+            -
+              id: 4
+              amount: [7, 13]
+            -
+              id: 77
+              amount: 1
+          slotitem:
+            id: 106
+            amount: 1
       day:
-        - false
-        - false
+        -
+          -
+            ship_id: 534
+          -
+            ship_id: 381
+          -
+            ship_id: 536
+        -
+          -
+            ship_id: 521
+          -
+            ship_id: 526
+          -
+            ship_id: 380
+          -
+            ship_id: 529
         -
           -
             ship_id: 521

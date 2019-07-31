@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: tsfbgfyeqxhg
-  file_version: ["25", "16", "625"]
+  file_version: ["26", "16", "718"]
   book_table_id: [105]
   book_sinfo: 水上機母艦として建造された千歳型２番艦、千代田です。甲標的母艦としても運用できるようになっているのよ。千歳お姉と一緒に頑張りますね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 2, 2]
     build_time: 150
   graph:
-    boko_n: [258, 126]
-    boko_d: [192, 264]
+    boko_n: [43, 99]
+    boko_d: [24, 75]
     kaisyu_n: [15, 7]
     kaisyu_d: [39, 22]
-    kaizo_n: [138, 60]
-    kaizo_d: [84, 144]
-    map_n: [156, 96]
-    map_d: [78, 210]
-    ensyuf_n: [156, 84]
-    ensyuf_d: [66, 204]
-    ensyue_n: [150, 0]
-    battle_n: [204, 126]
-    battle_d: [108, 216]
-    wed_a: [162, 120]
-    wed_b: [150, 144]
+    kaizo_n: [-39, 16]
+    kaizo_d: [-91, -61]
+    map_n: [-31, 99]
+    map_d: [-120, 60]
+    ensyuf_n: [67, 61]
+    ensyuf_d: [-69, -19]
+    ensyue_n: [67, 0]
+    battle_n: [-52, 57]
+    battle_d: [-87, 27]
+    wed_a: [337, 120]
+    wed_b: [142, 166]
   wiki_id: "096"
   chinese_name: 千代田改
   can_drop: false

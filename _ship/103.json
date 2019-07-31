@@ -14,7 +14,7 @@ data:
   get_mes: 水上機母艦、千代田です。<br>姉の千歳が、いつも迷惑かけてないですか？
   voice_f: 0
   filename: cayfwlehtvgj
-  file_version: ["25", "16", "625"]
+  file_version: ["26", "16", "718"]
   book_table_id: [103, 956, 895]
   book_sinfo: 水上機母艦として建造された千歳型２番艦、千代田です。<br>甲標的母艦としても運用できるようになっているのよ。<br>千歳お姉と一緒に頑張りますね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 2]
     build_time: 140
   graph:
-    boko_n: [258, 126]
-    boko_d: [192, 264]
+    boko_n: [96, 132]
+    boko_d: [27, 73]
     kaisyu_n: [15, 7]
     kaisyu_d: [39, 22]
-    kaizo_n: [138, 60]
-    kaizo_d: [84, 144]
-    map_n: [156, 96]
-    map_d: [78, 210]
-    ensyuf_n: [156, 84]
-    ensyuf_d: [66, 204]
-    ensyue_n: [150, 0]
-    battle_n: [204, 126]
-    battle_d: [108, 216]
-    wed_a: [162, 120]
-    wed_b: [150, 144]
+    kaizo_n: [13, 49]
+    kaizo_d: [-67, -84]
+    map_n: [-10, 132]
+    map_d: [-117, 58]
+    ensyuf_n: [46, 108]
+    ensyuf_d: [-64, -28]
+    ensyue_n: [46, 0]
+    battle_n: [-12, 102]
+    battle_d: [-87, 27]
+    wed_a: [298, 72]
+    wed_b: [142, 165]
   wiki_id: "050"
   chinese_name: 千代田
   can_drop: true

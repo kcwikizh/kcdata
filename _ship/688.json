@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: mcqjnasritke
-  file_version: ["54", "1", "625"]
+  file_version: ["55", "1", "718"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [102, 198]
-    boko_d: [114, 199]
+    boko_n: [22, 201]
+    boko_d: [150, 205]
     kaisyu_n: [-1, -9]
     kaisyu_d: [75, -9]
-    kaizo_n: [90, 64]
-    kaizo_d: [81, 43]
-    map_n: [109, 145]
-    map_d: [112, 147]
-    ensyuf_n: [114, 166]
-    ensyuf_d: [100, 166]
-    ensyue_n: [123, 0]
-    battle_n: [112, 187]
-    battle_d: [117, 186]
-    wed_a: [226, 10]
-    wed_b: [175, 147]
+    kaizo_n: [22, 73]
+    kaizo_d: [120, 45]
+    map_n: [51, 163]
+    map_d: [183, 166]
+    ensyuf_n: [25, 150]
+    ensyuf_d: [177, 142]
+    ensyue_n: [10, 0]
+    battle_n: [69, 184]
+    battle_d: [181, 186]
+    wed_a: [288, 10]
+    wed_b: [115, 162]
   wiki_id: "328a"
   chinese_name: 早波改
   can_drop: false

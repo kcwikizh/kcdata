@@ -14,7 +14,7 @@ data:
   get_mes: 私ね、ジョン・C・バトラー級護衛駆逐艦、<br>サミュエル・B・ロバーツっ。ね、覚えて！<br>あ、長い？　じゃあ、サムでもいいよ？<br>Nice to meet you！
   voice_f: 1
   filename: jfyepyfarffz
-  file_version: ["51", "1", "625"]
+  file_version: ["52", "2", "718"]
   book_table_id: [561, 681]
   book_sinfo: 護衛駆逐艦、ジョン・C・バトラー級、サミュエル・B・ロバーツです。姉妹はもの凄く多いんだ。船団護衛や対潜哨戒、結構万能なんだよ！で、私はね、TaffyⅢって任務部隊で、護衛空母を守って戦ったんだ。自分より大きくて強い艦たちと。私のことも覚えておいてね。Thanks！
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [1, 1, 1, 0]
     build_time: 9
   graph:
-    boko_n: [24, 204]
-    boko_d: [87, 279]
+    boko_n: [181, 192]
+    boko_d: [1, 270]
     kaisyu_n: [9, 0]
     kaisyu_d: [60, -18]
-    kaizo_n: [27, 90]
-    kaizo_d: [84, 93]
-    map_n: [72, 180]
-    map_d: [138, 216]
-    ensyuf_n: [36, 192]
-    ensyuf_d: [108, 216]
-    ensyue_n: [30, 0]
-    battle_n: [96, 204]
-    battle_d: [150, 228]
-    wed_a: [294, 6]
-    wed_b: [114, 186]
+    kaizo_n: [202, 70]
+    kaizo_d: [-43, 132]
+    map_n: [204, 169]
+    map_d: [19, 214]
+    ensyuf_n: [195, 169]
+    ensyuf_d: [15, 214]
+    ensyue_n: [166, 0]
+    battle_n: [229, 183]
+    battle_d: [46, 238]
+    wed_a: [91, 22]
+    wed_b: [180, 184]
   wiki_id: "361"
   chinese_name: 塞缪尔·B·罗伯茨
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

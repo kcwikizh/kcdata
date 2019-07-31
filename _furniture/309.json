@@ -8,7 +8,7 @@ data:
   description: 艦娘たちと夏を満喫したい<br>提督のための、リゾート感<br>満載の夏季特別仕様のハン<br>モックです。ごろんと寝そ<br>べれば、いつでも夏気分！
   rarity: 4
   price: 3000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

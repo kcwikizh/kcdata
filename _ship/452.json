@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦十四番艦の……沖波です。<br>えっと…はい、頑張ります。よろしくお願い致します！
   voice_f: 1
   filename: xxnlcxflgfji
-  file_version: ["11", "2", "625"]
+  file_version: ["12", "2", "718"]
   book_table_id: [452, 873, 1009, 1069]
   book_sinfo: 夕雲型駆逐艦、その十四番艦の沖波です。<br>マル急計画で建造されました。はい、生まれ故郷は舞<br>鶴です。もうその頃前線は崩れ始めていて……それで<br>も、主力艦隊の護衛や船団護衛に、私、頑張りました<br>…はい！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [306, 168]
-    boko_d: [108, 168]
+    boko_n: [198, 180]
+    boko_d: [84, 192]
     kaisyu_n: [24, -12]
     kaisyu_d: [36, 6]
-    kaizo_n: [204, 78]
-    kaizo_d: [24, 72]
-    map_n: [228, 120]
-    map_d: [24, 144]
-    ensyuf_n: [228, 144]
-    ensyuf_d: [24, 144]
-    ensyue_n: [222, 0]
-    battle_n: [258, 156]
-    battle_d: [54, 168]
-    wed_a: [72, 48]
-    wed_b: [168, 192]
+    kaizo_n: [120, 96]
+    kaizo_d: [0, 96]
+    map_n: [108, 144]
+    map_d: [6, 156]
+    ensyuf_n: [132, 144]
+    ensyuf_d: [-12, 156]
+    ensyue_n: [138, 0]
+    battle_n: [150, 162]
+    battle_d: [30, 180]
+    wed_a: [192, 48]
+    wed_b: [156, 174]
   wiki_id: "252"
   chinese_name: 冲波
   can_drop: true
