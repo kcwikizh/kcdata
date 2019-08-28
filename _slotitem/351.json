@@ -1,0 +1,36 @@
+---
+layout: json
+order: 351
+data:
+  id: 351
+  sort_no: 351
+  name: 試製 秋水
+  type: [22, 39, 48, 38, 35]
+  rare: 4
+  broken: [4, 3, 1, 6]
+  info: 
+  usebull: 0
+  cost: 4
+  distance: 1
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 0
+    atap: 0
+    houm: 8
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---
