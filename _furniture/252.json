@@ -8,7 +8,7 @@ data:
   description: 夏の風物詩といえば…かき<br>氷！自然の氷を切り出した<br>昔ながらの製法で、シャリ<br>シャリのかき氷を美味しく<br>作って召し上がれ！
   rarity: 3
   price: 1300
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

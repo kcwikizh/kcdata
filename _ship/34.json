@@ -14,7 +14,7 @@ data:
   get_mes: 暁よ。<br>一人前のレディーとして扱ってよね！
   voice_f: 0
   filename: mtvkfikepcfr
-  file_version: ["3", "3", "718"]
+  file_version: ["3", "3", "808"]
   book_table_id: [34]
   book_sinfo: 特Ⅲ型駆逐艦１番艦の暁よ。<br>吹雪型をベースに航行性能や航続距離を向上させたの。特型駆逐艦の最終完成形なんだから！<br>ちゃんとレディーとして活躍したのよ！<br>ほ、ほんとなんだからっ。
   stats:
