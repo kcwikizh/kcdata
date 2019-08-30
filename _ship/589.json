@@ -53,8 +53,8 @@ data:
     battle_d: [28, 190]
     wed_a: [324, -9]
     wed_b: [150, 129]
-  wiki_id:
-  chinese_name:
+  wiki_id: "389"
+  chinese_name: 阿布鲁奇
   can_drop: false
   can_construct: false
 ---
