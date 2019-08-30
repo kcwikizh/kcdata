@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 614
+  sort_no: 414
+  name: Grecale
+  yomi: グレカーレ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 35
+  after_ship_id: 619
+  get_mes: Buongiorno！<br>あたしがマエストラーレ級駆逐艦、次女のグレカーレ！<br>テートク、あたしも可愛がってよね？　あ、かーわいっ♪
+  voice_f: 1
+  filename: rfpvmivqupsf
+  file_version: ["51", "1", "830"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [15, 30]
+    souk: [7, 18]
+    houg: [9, 26]
+    raig: [22, 57]
+    tyku: [10, 40]
+    luck: [14, 90]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 180
+    after_bull: 290
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [1, 1, 0, 0]
+    build_time: 23
+  graph:
+    boko_n: [-28, 193]
+    boko_d: [10, 300]
+    kaisyu_n: [1, -21]
+    kaisyu_d: [33, -49]
+    kaizo_n: [-31, 58]
+    kaizo_d: [24, 82]
+    map_n: [13, 129]
+    map_d: [108, 202]
+    ensyuf_n: [-43, 111]
+    ensyuf_d: [55, 196]
+    ensyue_n: [-75, 0]
+    battle_n: [-22, 136]
+    battle_d: [102, 222]
+    wed_a: [400, 33]
+    wed_b: [184, 196]
+  wiki_id: "414"
+  chinese_name: 东北风
+  can_drop: false
+  can_construct: false
+---
