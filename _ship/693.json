@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 693
+  sort_no: 1483
+  name: L.d.S.D.d.Abruzzi改
+  yomi: アブルッツィ
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: vgaiehegpply
+  file_version: ["51", "1", "830"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [52, 63]
+    souk: [42, 75]
+    houg: [33, 73]
+    raig: [22, 70]
+    tyku: [24, 70]
+    luck: [30, 98]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [2, 2, 2, 2, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 40
+    bull_max: 55
+    broken: [3, 6, 16, 2]
+    pow_up: [3, 1, 1, 2]
+    build_time: 70
+  graph:
+    boko_n: [-33, 222]
+    boko_d: [-31, 262]
+    kaisyu_n: [19, -7]
+    kaisyu_d: [30, -54]
+    kaizo_n: [-30, 78]
+    kaizo_d: [-12, 61]
+    map_n: [-12, 196]
+    map_d: [40, 189]
+    ensyuf_n: [1, 183]
+    ensyuf_d: [-19, 190]
+    ensyue_n: [1, 0]
+    battle_n: [24, 199]
+    battle_d: [28, 190]
+    wed_a: [324, -9]
+    wed_b: [150, 129]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

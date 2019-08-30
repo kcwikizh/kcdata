@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 91
+  usetype: 0
+  category: 0
+  name: 緊急修理資材
+  description:
+    - "工作艦などの艦で緊急泊地修理<br>を実施時に必要な資材です。　<br>※緊急泊地修理を実施する際、<br>　一つ消費します。"
+    - ""
+  price: 0
+  chinese_name:
+  chinese_description:
+---
