@@ -24,8 +24,8 @@ def printHelp():
 
 参数:
     -m, --merge         # 将'{directory}'目录下的任务小文件，合并为'{questsFile}'
-    -p, --patch         # 默认模式 合并时采用patch模式
-    -n, --no-patch      # 关闭patch模式，重新合成quest文件
+    -n, --no-patch      # 默认模式 重新合成quest文件
+    -p, --patch         # 合并时采用修补模式，在旧quest基础上更新
     -s, --split         # 切割'{questsFile}'文件
     -c, --compression   # 压缩模式，不保留缩进(默认缩进2空格)
     -rm, --remove       # 删除所有小任务文件
@@ -62,7 +62,7 @@ def splitQuests():
     return
 
 
-def mergeQuests(patch=True):
+def mergeQuests(patch=False):
     if patch:
         quests = {quest['game_id']: quest for quest in loadQuests()}
     else:
@@ -113,13 +113,13 @@ def main():
         INDENT = 0
     # --merge
     if len(sys.argv) >= 2 and any(x == y for x in sys.argv[1:] for y in ['-m', '--merge']):
-        # --merge --no-patch
-        if len(sys.argv) >= 2 and any(x == y for x in sys.argv[1:] for y in ['-n', '--no-patch']):
-            print('正在从头合成任务文件...')
-            mergeQuests(False)
-            return
         # --merge --patch
-        print('正在合并任务文件...')
+        if len(sys.argv) >= 2 and any(x == y for x in sys.argv[1:] for y in ['-p', '--patch']):
+            print('正在修补合成任务文件...')
+            mergeQuests(True)
+            return
+        # --merge --no-patch
+        print('正在重新生成任务文件...')
         mergeQuests()
         return
     # --split
