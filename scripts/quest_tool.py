@@ -3,11 +3,13 @@
 import os
 import sys
 import json
+import re
 from collections import OrderedDict
 
 DEBUG = False
 ALL_QUESTS_FILE = os.path.join(os.path.dirname(__file__), '../quest/poi.json')
 SPLIT_QUESTS_DIR = os.path.join(os.path.dirname(__file__), '../quest')
+README_FILE = os.path.join(os.path.dirname(__file__), '../quest/README.md')
 INDENT = 2  # 缩进
 
 
@@ -29,6 +31,7 @@ def printHelp():
     -s, --split         # 切割'{questsFile}'文件
     -c, --compression   # 压缩模式，不保留缩进(默认缩进2空格)
     -rm, --remove       # 删除所有小任务文件
+    --no-update-readme  # 不更新README文件
 
 使用 "python {file} --help" 查看帮助。
 '''.format(directory=SPLIT_QUESTS_DIR, questsFile=ALL_QUESTS_FILE, file=os.path.basename(__file__)))
@@ -84,7 +87,7 @@ def mergeQuests(patch=False):
     with open(ALL_QUESTS_FILE, mode='w', encoding='utf-8') as f:
         json.dump(
             questList, f, indent=INDENT, ensure_ascii=False)
-    return
+    return questList
 
 
 def deleteQuests():
@@ -95,6 +98,16 @@ def deleteQuests():
             os.remove(filename)
         except OSError:
             print('删除失败 ' + filename)
+
+
+def updateReadme(questList):
+    header = '# 任务列表\n\n'
+    s = '\n'.join(list(map(lambda quest: '- {gameId} [{wikiId}](https://zh.kcwiki.org/wiki/任务#{wikiId}) {name}'.format(gameId=quest.get('game_id'),
+                                                                                                                       wikiId=re.sub('0([0-9]$)', r'\1', quest.get('wiki_id')), name=quest.get('name')), questList)))
+    with open(README_FILE, mode='w', encoding='utf-8') as f:
+        f.write(header)
+        f.write(s)
+        f.write('\n')
 
 
 def main():
@@ -114,13 +127,18 @@ def main():
     # --merge
     if len(sys.argv) >= 2 and any(x == y for x in sys.argv[1:] for y in ['-m', '--merge']):
         # --merge --patch
+        questList = None
         if len(sys.argv) >= 2 and any(x == y for x in sys.argv[1:] for y in ['-p', '--patch']):
             print('正在修补合成任务文件...')
-            mergeQuests(True)
+            questList = mergeQuests(True)
+        else:
+            # --merge --no-patch
+            print('正在重新生成任务文件...')
+            questList = mergeQuests()
+        if '--no-update-readme' in sys.argv[1:]:
+            print('正在更新README')
             return
-        # --merge --no-patch
-        print('正在重新生成任务文件...')
-        mergeQuests()
+        updateReadme(questList)
         return
     # --split
     if len(sys.argv) >= 2 and any(x == y for x in sys.argv[1:] for y in ['-s', '--split']):
