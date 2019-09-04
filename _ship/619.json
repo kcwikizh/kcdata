@@ -6,8 +6,8 @@ data:
   name: Grecale改
   yomi: グレカーレ
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 61
+  cnum: 2
   backs: 7
   after_lv: 
   after_ship_id: 
@@ -15,8 +15,8 @@ data:
   voice_f: 3
   filename: kombecutehdl
   file_version: ["51", "1", "830"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [619]
+  book_sinfo: イタリア海軍マエストラーレ級駆逐艦の次女、グレカ<br>ーレよ。なーに、あんまりジロジロみないでよ。姉妹<br>たちとの第10駆逐隊で結構頑張ったのよ。みんな、<br>逝ってしまったけれど、あたしは戦い抜けた。そし<br>て、戦いの後も海の護りについたの。主武装を撤去し<br>た司令艦として。覚えておいて。
   stats:
     taik: [29, 46]
     souk: [15, 50]
@@ -26,8 +26,8 @@ data:
     luck: [40, 120]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 18
+    tais: 38
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 

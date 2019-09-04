@@ -55,6 +55,6 @@ data:
     wed_b: [192, 168]
   wiki_id: "248"
   chinese_name: 扎拉
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

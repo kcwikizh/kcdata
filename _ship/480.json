@@ -55,6 +55,6 @@ data:
     wed_b: [108, 174]
   wiki_id: "280"
   chinese_name: 狭雾
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---
