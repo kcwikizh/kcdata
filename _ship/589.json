@@ -6,17 +6,17 @@ data:
   name: L.d.S.D.d.Abruzzi
   yomi: アブルッツィ
   stype: 3
-  ctype: 
-  cnum: 
+  ctype: 92
+  cnum: 1
   backs: 6
   after_lv: 45
   after_ship_id: 693
-  get_mes: Buongiorno！ イタリア生まれの新鋭軽巡洋艦ルイージ・ディ・サヴォイア・<br>ドゥーカ・デッリ・アブルッツィです。長いですよね？私、アブルッツィで<br>構いません。提督、妹共々、どうぞよろ
+  get_mes: Buongiorno！ イタリア生まれの新鋭軽巡洋艦ルイージ・<br>ディ・サヴォイア・ドゥーカ・デッリ・アブルッツィです。<br>長いですよね？私、アブルッツィで構いません。提督、妹共々、<br>どうぞよろしくご指導ください。
   voice_f: 1
   filename: ewjpnwmufzve
   file_version: ["51", "1", "830"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [589]
+  book_sinfo: ルイージ・ディ・サヴォイア・ドゥーカ・デッリ・ア<br>ブルッツィ級軽巡洋艦、アブルッツィです。ごめんな<br>さい、名前が長くって。最新鋭のこの体、火力も演技<br>も自信があるんです、私。戦いが終わった後、女優と<br>して映画にも出演したんです。観てくれました？<br>提督、どうぞよろしくお願いしますね。
   stats:
     taik: [37, 55]
     souk: [33, 51]
@@ -26,8 +26,8 @@ data:
     luck: [20, 88]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 34
+    tais: 20
     slot_num: 3
     max_eq: [2, 2, 2, 0, 0]
     after_fuel: 400

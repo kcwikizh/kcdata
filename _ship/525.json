@@ -55,6 +55,6 @@ data:
     wed_b: [120, 168]
   wiki_id: "335"
   chinese_name: 松轮
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

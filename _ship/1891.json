@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 
   voice_f: 
-  filename: zcwobzfzxiyy
-  file_version: ["1", "1", "1"]
+  filename: hjuxvfbfnbkv
+  file_version: ["2", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -53,8 +53,8 @@ data:
     battle_d: [96, 108]
     wed_a: 
     wed_b: 
-  wiki_id:
-  chinese_name:
+  wiki_id: 
+  chinese_name: 
   can_drop: false
   can_construct: false
 ---

@@ -4,8 +4,8 @@ order: 595
 data:
   id: 595
   sort_no: 0
-  name: 深海空要塞Ace
-  type: [21, 38, 47, 37, 0]
+  name: 深海空要塞Ace(偵察型)
+  type: [3, 5, 7, 7, 0]
   rare: 4
   broken: [0, 0, 0, 0]
   info: 
@@ -18,7 +18,7 @@ data:
     houg: 17
     raig: 0
     soku: 0
-    baku: 37
+    baku: 7
     tyku: 17
     tais: 0
     atap: 0
@@ -27,10 +27,10 @@ data:
     houk: 0
     raik: 0
     bakk: 0
-    saku: 7
+    saku: 9
     sakb: 0
     luck: 0
     leng: 4
   improvement: 
-  chinese_name:
+  chinese_name: 
 ---

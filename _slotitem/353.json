@@ -4,27 +4,27 @@ order: 353
 data:
   id: 353
   sort_no: 353
-  name: 
+  name: Fw190 A-5改(熟練)
   type: [3, 5, 6, 6, 37]
   rare: 5
-  broken: [3, 3, 0, 10]
+  broken: [3, 3, 0, 9]
   info: 
   usebull: 0
-  cost: 
-  distance: 
+  cost: 7
+  distance: 4
   stats:
     taik: 0
     souk: 0
-    houg: 0
+    houg: 2
     raig: 0
     soku: 0
     baku: 0
-    tyku: 0
+    tyku: 11
     tais: 0
     atap: 0
-    houm: 0
+    houm: 1
     raim: 0
-    houk: 0
+    houk: 3
     raik: 0
     bakk: 0
     saku: 0
@@ -32,5 +32,5 @@ data:
     luck: 0
     leng: 0
   improvement: 
-  chinese_name:
+  chinese_name: 
 ---
