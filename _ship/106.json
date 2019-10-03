@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ttkeodhvrmog
-  file_version: ["26", "16", "830"]
+  file_version: ["26", "16", "930"]
   book_table_id: [106]
   book_sinfo: 水上機母艦千歳です。<br>水上機を沢山運用できる優れものですが、給油艦として重油を他の艦に補給もできちゃうの。後期には、航空母艦に改装され、第一線で戦ったのよ。
   stats:

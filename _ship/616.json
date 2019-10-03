@@ -6,17 +6,17 @@ data:
   name: 御蔵改
   yomi: みくら
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 94
+  cnum: 1
   backs: 5
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
   filename: etibrhysvhrt
-  file_version: ["51", "1", "830"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "930"]
+  book_table_id: [616]
+  book_sinfo: 御蔵型海防艦、一番艦、御蔵です。択捉型を改良、生<br>産性及び対空・対潜能力の向上を図りました。大きく<br>工数は下げられなかったものの、船団護衛戦闘力は向<br>上しています。あの択捉型の後継、御蔵型海防艦の<br>戦い、覚えていて下さい。
   stats:
     taik: [17, 28]
     souk: [7, 33]
@@ -26,8 +26,8 @@ data:
     luck: [15, 64]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 54
+    tais: 40
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 

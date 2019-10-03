@@ -8,7 +8,7 @@ data:
   description: 秋の夜は窓を開いて静かに<br>月を見上げるのもいいです<br>ね。緑の髪を持つ、ある駆<br>逐艦のリクエストを全面的<br>に採用した特注家具です。
   rarity: 4
   price: 4900
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "053"
   file_version: 1

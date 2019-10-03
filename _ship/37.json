@@ -14,7 +14,7 @@ data:
   get_mes: 電です。<br>どうか、よろしくお願いいたします。
   voice_f: 0
   filename: uuilouoffjoj
-  file_version: ["11", "5", "830"]
+  file_version: ["12", "5", "930"]
   book_table_id: [37, 943]
   book_sinfo: スラバヤ沖海戦で撃沈した敵艦の乗員の救助に努めた後、キスカ、ソロモン、ニューギニア、アッツ島など、各戦域を転戦しました…<br>頑張ったの…です…。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [105, 123]
-    boko_d: [36, 145]
+    boko_n: [168, 240]
+    boko_d: [144, 252]
     kaisyu_n: [9, 6]
     kaisyu_d: [42, 10]
-    kaizo_n: [22, 40]
-    kaizo_d: [-60, -25]
-    map_n: [16, 117]
-    map_d: [-108, 130]
-    ensyuf_n: [88, 115]
-    ensyuf_d: [-9, 43]
-    ensyue_n: [88, 0]
-    battle_n: [42, 124]
-    battle_d: [-33, 124]
-    wed_a: [228, 70]
-    wed_b: [256, 229]
+    kaizo_n: [108, 132]
+    kaizo_d: [72, 96]
+    map_n: [120, 204]
+    map_d: [96, 192]
+    ensyuf_n: [150, 192]
+    ensyuf_d: [96, 174]
+    ensyue_n: [108, 0]
+    battle_n: [132, 204]
+    battle_d: [108, 192]
+    wed_a: [186, 0]
+    wed_b: [198, 168]
   wiki_id: "074"
   chinese_name: 电
   can_drop: true
