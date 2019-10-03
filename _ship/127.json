@@ -14,7 +14,7 @@ data:
   get_mes: こんにちは！ 伊五十八です。<br>ゴーヤって呼んでもいいよ！苦くなんかないよぉ！
   voice_f: 3
   filename: fqbwbmmdcjby
-  file_version: ["3", "4", "830"]
+  file_version: ["3", "4", "930"]
   book_table_id: [127]
   book_sinfo: 最初から頑張って最後まで戦ったんだよ。苦しくなってからだって、凄い重巡だって仕留めたし！　任務を全うして、全てが終わった後、無事に呉の母港に帰ったんだ。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [187, 214]
   wiki_id: "127"
   chinese_name: 伊58
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

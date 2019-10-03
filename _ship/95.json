@@ -14,7 +14,7 @@ data:
   get_mes: 駆逐艦、朝潮です。<br>勝負ならいつでも受けて立つ覚悟です。
   voice_f: 0
   filename: eeyrwdehbixg
-  file_version: ["12", "15", "830"]
+  file_version: ["12", "16", "930"]
   book_table_id: [95, 1082]
   book_sinfo: 朝潮型駆逐艦のネームシップ、朝潮よ。<br>バランスのとれた量産型駆逐艦として建造され、戦線<br>を支えたの。<br>私の進化改良型が陽炎型になるわね。
   stats:

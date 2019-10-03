@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦、その十五番艦、岸波です。<br>貴方が提督？　そう。いいけど。<br>岸波、第三一駆逐隊に着任します。
   voice_f: 1
   filename: aparquhhwgtv
-  file_version: ["54", "1", "830"]
+  file_version: ["54", "1", "930"]
   book_table_id: [527, 1068, 1091]
   book_sinfo: 夕雲型駆逐艦十五番艦、岸波です。<br>横須賀浦賀生まれ。夕雲型駆逐艦による第三一駆逐隊に所属、勝機の消えつつある太平洋で戦ったわ。マリアナ、レイテの決戦で生き残った後、第二遊撃隊として崩れつつある戦線を支えたの。え、岩波…？知らないわ。何のこと？
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [118, 124]
   wiki_id: "327"
   chinese_name: 岸波
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

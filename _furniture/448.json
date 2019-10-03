@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 448
+  type: 0
+  no: 61
+  title: 葡萄のカーペット
+  description: 秋は「葡萄」も美味しい季<br>節。そんな「葡萄」をデザ<br>インしたカーペットです。<br>秋の夜長はゆっくりワイン<br>を愉しむのもいいですね。
+  rarity: 3
+  price: 1300
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

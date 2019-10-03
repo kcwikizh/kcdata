@@ -14,7 +14,7 @@ data:
   get_mes: 提督さん、おはようございます。<br>朝潮型駆逐艦、峯雲、配置につきます。
   voice_f: 1
   filename: yrtghuqfxjmk
-  file_version: ["53", "1", "830"]
+  file_version: ["53", "1", "930"]
   book_table_id: [583, 1106]
   book_sinfo: 朝潮型駆逐艦、その八番艦の峯雲です。なっちゃんた<br>ちと共に第九駆逐隊を編成、第四水雷戦隊の一翼とし<br>て、南方作戦からミッドウェー、そして激戦のソロモン方面の作戦に参加しました。戦況は日に日に厳しく<br>なってきて……村雨さんと二人の作戦が、私の記憶の<br>最後です。敵の電探…脅威ですね。でも、今度は！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [129, 147]
   wiki_id: "383"
   chinese_name: 峰云
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

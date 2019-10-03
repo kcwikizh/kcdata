@@ -4,18 +4,18 @@ order: 349
 data:
   id: 349
   sort_no: 349
-  name: 
+  name: 四式20cm対地噴進砲 集中配備
   type: [15, 26, 37, 31, 0]
   rare: 5
-  broken: [1, 3, 1, 1]
+  broken: [1, 6, 1, 2]
   info: 
   usebull: 0
   cost: 
   distance: 
   stats:
     taik: 0
-    souk: 0
-    houg: 0
+    souk: -4
+    houg: 1
     raig: 0
     soku: 0
     baku: 0
