@@ -102,8 +102,19 @@ def deleteQuests():
 
 def updateReadme(questList):
     header = '# 任务列表\n\n'
-    s = '\n'.join(list(map(lambda quest: '- {gameId} [{wikiId}](https://zh.kcwiki.org/wiki/任务#{wikiId}) {name}'.format(gameId=quest.get('game_id'),
-                                                                                                                       wikiId=re.sub('0([0-9]$)', r'\1', quest.get('wiki_id')), name=quest.get('name')), questList)))
+    s = '\n'.join(
+        list(
+            map(
+                lambda quest: '- {gameId} [{wikiId}](https://zh.kcwiki.org/wiki/任务#{wikiId}) {name}'.format(
+                    gameId=quest.get('game_id'),
+                    wikiId=re.sub(
+                        '([a-zA-Z])0([0-9]$)',
+                        r'\1\2', quest.get('wiki_id')
+                    ),
+                    name=quest.get('name')),
+                questList)
+        )
+    )
     with open(README_FILE, mode='w', encoding='utf-8') as f:
         f.write(header)
         f.write(s)
