@@ -14,7 +14,7 @@ data:
   get_mes: 練習巡洋艦、香取です。<br>心配しないで…。色々と優しく、指導させて頂きますから。
   voice_f: 1
   filename: jtyqmhgstese
-  file_version: ["19", "12", "930"]
+  file_version: ["19", "12", "1025"]
   book_table_id: [154, 974]
   book_sinfo: 香取型練習巡洋艦一番艦の香取です。<br>はい、練習遠洋航海の指揮は、お任せください。必ずや艦隊の練度向上にお力添えできると思います。え、戦艦との砲撃戦…ですか？それは用兵的にどうなのでしょうか。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [216, 156]
   wiki_id: "154"
   chinese_name: 香取
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

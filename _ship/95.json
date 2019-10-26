@@ -14,7 +14,7 @@ data:
   get_mes: 駆逐艦、朝潮です。<br>勝負ならいつでも受けて立つ覚悟です。
   voice_f: 0
   filename: eeyrwdehbixg
-  file_version: ["12", "16", "930"]
+  file_version: ["13", "16", "1025"]
   book_table_id: [95, 1082]
   book_sinfo: 朝潮型駆逐艦のネームシップ、朝潮よ。<br>バランスのとれた量産型駆逐艦として建造され、戦線<br>を支えたの。<br>私の進化改良型が陽炎型になるわね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 22
   graph:
-    boko_n: [-72, 96]
-    boko_d: [-75, 96]
+    boko_n: [202, 198]
+    boko_d: [222, 205]
     kaisyu_n: [-51, -57]
     kaisyu_d: [-40, -36]
-    kaizo_n: [-45, -12]
-    kaizo_d: [-31, 1]
-    map_n: [-51, 82]
-    map_d: [-70, 99]
-    ensyuf_n: [-57, 81]
-    ensyuf_d: [-60, 33]
-    ensyue_n: [-57, 0]
-    battle_n: [-97, 87]
-    battle_d: [-97, 87]
-    wed_a: [480, 106]
-    wed_b: [214, 261]
+    kaizo_n: [163, 76]
+    kaizo_d: [175, 73]
+    map_n: [201, 142]
+    map_d: [229, 166]
+    ensyuf_n: [184, 148]
+    ensyuf_d: [198, 157]
+    ensyue_n: [163, 0]
+    battle_n: [238, 196]
+    battle_d: [264, 205]
+    wed_a: [174, 48]
+    wed_b: [106, 136]
   wiki_id: "085"
   chinese_name: 朝潮
   can_drop: true

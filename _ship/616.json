@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: etibrhysvhrt
-  file_version: ["51", "1", "930"]
+  file_version: ["51", "1", "1025"]
   book_table_id: [616]
   book_sinfo: 御蔵型海防艦、一番艦、御蔵です。択捉型を改良、生<br>産性及び対空・対潜能力の向上を図りました。大きく<br>工数は下げられなかったものの、船団護衛戦闘力は向<br>上しています。あの択捉型の後継、御蔵型海防艦の<br>戦い、覚えていて下さい。
   stats:

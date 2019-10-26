@@ -14,7 +14,7 @@ data:
   get_mes: Nice to meet you.  Lucky Jervis、来たわ！<br>そう、もうゼッタイよ！　任せておいて！
   voice_f: 1
   filename: ljtlhcbmaqcg
-  file_version: ["51", "1", "930"]
+  file_version: ["51", "1", "1025"]
   book_table_id: [519, 394]
   book_sinfo: J級駆逐艦、Jervisよ！　そう、Lucky Jervisって呼んでもらってもいいかな！<br>本国艦隊から地中海艦隊まで、護衛、輸送、艦隊戦や陸戦支援まで本当に頑張っちゃった！<br>Lucky Jervis、覚えておいてね！
   stats:

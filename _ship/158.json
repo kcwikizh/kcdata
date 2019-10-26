@@ -14,13 +14,13 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: qpnrcirsvqcr
-  file_version: ["14", "9", "930"]
+  file_version: ["14", "9", "1025"]
   book_table_id: [158]
   book_sinfo: 5500トン級の軽巡洋艦の最終タイプ、それが私、川内型よ。<br>熟成された軽巡の魅力、たっぷり教えてあげるから。<br>もちろん、夜戦でね！
   stats:
     taik: [49, 64]
     souk: [29, 69]
-    houg: [24, 67]
+    houg: [24, 68]
     raig: [26, 89]
     tyku: [20, 70]
     luck: [14, 80]

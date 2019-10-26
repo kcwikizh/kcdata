@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 453
+  type: 3
+  no: 98
+  title: 一九式大漁旗
+  description: 秋刀魚は残念ながら不漁で<br>はありましたが、大丈夫！<br>鰯は大漁です！そんな令和<br>元年の海を記念した大漁旗<br>です。上々ね！
+  rarity: 6
+  price: 0
+  saleflg: 0
+  season: 37
+  filename: "099"
+  file_version: "1"
+---
