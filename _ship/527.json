@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦、その十五番艦、岸波です。<br>貴方が提督？　そう。いいけど。<br>岸波、第三一駆逐隊に着任します。
   voice_f: 1
   filename: aparquhhwgtv
-  file_version: ["54", "1", "930"]
+  file_version: ["55", "1", "1025"]
   book_table_id: [527, 1068, 1091]
   book_sinfo: 夕雲型駆逐艦十五番艦、岸波です。<br>横須賀浦賀生まれ。夕雲型駆逐艦による第三一駆逐隊に所属、勝機の消えつつある太平洋で戦ったわ。マリアナ、レイテの決戦で生き残った後、第二遊撃隊として崩れつつある戦線を支えたの。え、岩波…？知らないわ。何のこと？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [76, 184]
-    boko_d: [9, 211]
+    boko_n: [178, 150]
+    boko_d: [178, 150]
     kaisyu_n: [12, 4]
     kaisyu_d: [10, 10]
-    kaizo_n: [67, 73]
-    kaizo_d: [-34, 85]
-    map_n: [82, 169]
-    map_d: [7, 208]
-    ensyuf_n: [43, 172]
-    ensyuf_d: [-10, 190]
-    ensyue_n: [88, 0]
-    battle_n: [124, 201]
-    battle_d: [73, 216]
-    wed_a: [274, 42]
-    wed_b: [118, 124]
+    kaizo_n: [168, 27]
+    kaizo_d: [153, -9]
+    map_n: [199, 133]
+    map_d: [199, 133]
+    ensyuf_n: [180, 147]
+    ensyuf_d: [180, 147]
+    ensyue_n: [180, 0]
+    battle_n: [222, 150]
+    battle_d: [222, 150]
+    wed_a: [163, 43]
+    wed_b: [109, 180]
   wiki_id: "327"
   chinese_name: 岸波
   can_drop: true

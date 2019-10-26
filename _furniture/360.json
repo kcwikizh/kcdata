@@ -8,7 +8,7 @@ data:
   description: 秋刀魚漁支援の事前準備中<br>に発見された古い蓄音機。<br>夜空に浮かぶ月がデザイン<br>された和箪笥の中には…レ<br>コードも入っていました！
   rarity: 5
   price: 19450
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "050"
   file_version: 1
