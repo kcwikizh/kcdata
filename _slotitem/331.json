@@ -46,7 +46,7 @@ data:
           -
             -
               id: 3
-              amount: [-1, -1]
+              amount: [8, 16]
             -
               id: 4
               amount: [4, 7]
@@ -59,11 +59,7 @@ data:
             amount: 3
       upgrade:
       day:
-        -
-          -
-            ship_id: 601
-          -
-            ship_id: 1496
+        - false
         -
           -
             ship_id: 601

@@ -11,5 +11,5 @@ data:
   saleflg: 0
   season: 37
   filename: "099"
-  file_version: "1"
+  file_version: 1
 ---
