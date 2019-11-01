@@ -3671,7 +3671,10 @@
         ]
       }
     ],
-    "prerequisite": [],
+    "prerequisite": [
+      603,
+      871
+    ],
     "requirements": {
       "category": "fleet",
       "groups": [
