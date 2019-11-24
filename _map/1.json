@@ -1,0 +1,15 @@
+---
+layout: json
+order: 1
+data:
+  id: 1
+  name: 鎮守府海域
+  maps:
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+  event: false
+---
