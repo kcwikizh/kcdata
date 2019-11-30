@@ -14,9 +14,9 @@ data:
   get_mes: こんにちは、白露型駆逐艦「夕立」よ。<br>よろしくね！
   voice_f: 1
   filename: pnpixtolsebg
-  file_version: ["25", "28", "1025"]
-  book_table_id: [45]
-  book_sinfo: 白露型駆逐艦の４番艦、夕立です。<br>第三次ソロモン海戦では、けっこう頑張ったっぽい？<br>でも、何気に「アイアンボトム・サウンド」って、ホントに怖い言葉よね？
+  file_version: ["26", "29", "1120"]
+  book_table_id: [45, 5411]
+  book_sinfo: 白露型駆逐艦の４番艦、夕立です。<br>第三次ソロモン海戦では、けっこう頑張ったっぽい？<br>でも、何気に「アイアンボトム・サウンド」って、ホ<br>ントに怖い言葉よね？
   stats:
     taik: [16, 32]
     souk: [6, 19]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 22
   graph:
-    boko_n: [156, 205]
-    boko_d: [145, 234]
+    boko_n: [220, 58]
+    boko_d: [183, 85]
     kaisyu_n: [6, 39]
     kaisyu_d: [42, 10]
-    kaizo_n: [151, 70]
-    kaizo_d: [108, 75]
-    map_n: [190, 150]
-    map_d: [169, 180]
-    ensyuf_n: [162, 145]
-    ensyuf_d: [151, 163]
-    ensyue_n: [162, 0]
-    battle_n: [228, 168]
-    battle_d: [193, 217]
-    wed_a: [157, -9]
-    wed_b: [126, 202]
+    kaizo_n: [138, -24]
+    kaizo_d: [100, -36]
+    map_n: [105, 58]
+    map_d: [39, 70]
+    ensyuf_n: [187, 55]
+    ensyuf_d: [111, -15]
+    ensyue_n: [187, 0]
+    battle_n: [121, 36]
+    battle_d: [70, 36]
+    wed_a: [159, 147]
+    wed_b: [165, 202]
   wiki_id: "082"
   chinese_name: 夕立
   can_drop: true

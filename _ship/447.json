@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: yfpnftpuwkrx
-  file_version: ["22", "14", "1025"]
+  file_version: ["23", "14", "1120"]
   book_table_id: [447]
   book_sinfo: イタリア生まれの最新鋭艦よ。ヴィットリオ・ヴェネト級戦艦４番艦、ローマ。<br>そうね、あの時は姉さんと一緒だったわ。あの化け物を落とされた日。忘れないわ、あの痛み。絶対忘れないんだから。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [5, 0, 2, 3]
     build_time: 300
   graph:
-    boko_n: [60, 156]
-    boko_d: [60, 156]
+    boko_n: [-36, 216]
+    boko_d: [-24, 192]
     kaisyu_n: [24, -12]
     kaisyu_d: [42, -18]
-    kaizo_n: [0, 72]
-    kaizo_d: [0, 72]
-    map_n: [0, 120]
-    map_d: [0, 120]
-    ensyuf_n: [24, 120]
-    ensyuf_d: [24, 120]
-    ensyue_n: [0, 0]
-    battle_n: [24, 120]
-    battle_d: [24, 120]
-    wed_a: [330, 108]
-    wed_b: [138, 132]
+    kaizo_n: [-144, 132]
+    kaizo_d: [-120, 96]
+    map_n: [-120, 204]
+    map_d: [-96, 192]
+    ensyuf_n: [-72, 192]
+    ensyuf_d: [-24, 156]
+    ensyue_n: [-12, 0]
+    battle_n: [-108, 204]
+    battle_d: [-72, 168]
+    wed_a: [435, 0]
+    wed_b: [195, 180]
   wiki_id: "247"
   chinese_name: 罗马改
   can_drop: false

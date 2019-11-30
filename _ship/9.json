@@ -14,7 +14,7 @@ data:
   get_mes: はじめまして吹雪です。<br>よろしくお願い致します。
   voice_f: 0
   filename: gyckjmemgqoe
-  file_version: ["30", "20", "1025"]
+  file_version: ["31", "20", "1120"]
   book_table_id: [9, 5119, 5393]
   book_sinfo: ワシントン条約制限下で設計された、世界中を驚愕さ<br>せたクラスを超えた特型駆逐艦の１番艦、吹雪です。<br>私たちは、後の艦隊型駆逐艦のベースとなりました。<br>はいっ、頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [216, 150]
-    boko_d: [246, 129]
+    boko_n: [9, 88]
+    boko_d: [7, 88]
     kaisyu_n: [15, 15]
     kaisyu_d: [42, 10]
-    kaizo_n: [162, 42]
-    kaizo_d: [162, 42]
-    map_n: [180, 114]
-    map_d: [216, 90]
-    ensyuf_n: [180, 114]
-    ensyuf_d: [150, 84]
-    ensyue_n: [150, 0]
-    battle_n: [198, 126]
-    battle_d: [198, 120]
-    wed_a: [126, 72]
-    wed_b: [144, 168]
+    kaizo_n: [-73, 6]
+    kaizo_d: [-16, -51]
+    map_n: [-33, 72]
+    map_d: [-73, 75]
+    ensyuf_n: [-4, 63]
+    ensyuf_d: [-112, 1]
+    ensyue_n: [-4, 0]
+    battle_n: [-21, 57]
+    battle_d: [-21, 57]
+    wed_a: [351, 120]
+    wed_b: [199, 187]
   wiki_id: "011"
   chinese_name: 吹雪
   can_drop: true

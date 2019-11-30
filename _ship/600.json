@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 600
+  sort_no: 400
+  name: Houston改
+  yomi: ヒューストン
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: nkkyfqvbrbli
+  file_version: ["51", "1", "1120"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [54, 67]
+    souk: [40, 73]
+    houg: [46, 76]
+    raig: [20, 60]
+    tyku: [30, 75]
+    luck: [20, 65]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [1, 1, 1, 4, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 40
+    bull_max: 65
+    broken: [2, 6, 19, 2]
+    pow_up: [2, 1, 1, 2]
+    build_time: 85
+  graph:
+    boko_n: [61, 193]
+    boko_d: [9, 253]
+    kaisyu_n: [63, -37]
+    kaisyu_d: [88, -75]
+    kaizo_n: [10, 72]
+    kaizo_d: [-21, 64]
+    map_n: [133, 162]
+    map_d: [87, 178]
+    ensyuf_n: [82, 180]
+    ensyuf_d: [49, 187]
+    ensyue_n: [73, 0]
+    battle_n: [94, 220]
+    battle_d: [58, 220]
+    wed_a: [243, -15]
+    wed_b: [129, 162]
+  wiki_id: "400"
+  chinese_name: 休斯顿改
+  can_drop: false
+  can_construct: false
+---

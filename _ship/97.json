@@ -14,7 +14,7 @@ data:
   get_mes: 満潮よ。<br>私、なんでこんな部隊に配属されたのかしら。
   voice_f: 0
   filename: fhpgicaysllm
-  file_version: ["16", "19", "1025"]
+  file_version: ["17", "19", "1120"]
   book_table_id: [97, 1073]
   book_sinfo: 駆逐艦、満潮よ。<br>姉妹艦の朝潮、大潮、荒潮とは第８駆逐隊で腐れ縁の<br>仲。でも、最後は離れ離れ。<br>私は西村艦隊の一員として、レイテに突入を図った<br>わ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 22
   graph:
-    boko_n: [136, 226]
-    boko_d: [192, 226]
+    boko_n: [87, 157]
+    boko_d: [90, 193]
     kaisyu_n: [6, 1]
     kaisyu_d: [42, 10]
-    kaizo_n: [145, 103]
-    kaizo_d: [199, 73]
-    map_n: [175, 211]
-    map_d: [226, 211]
-    ensyuf_n: [159, 205]
-    ensyuf_d: [211, 205]
-    ensyue_n: [144, 0]
-    battle_n: [186, 231]
-    battle_d: [244, 231]
-    wed_a: [192, -22]
-    wed_b: [100, 136]
+    kaizo_n: [4, 75]
+    kaizo_d: [-28, 46]
+    map_n: [28, 160]
+    map_d: [-49, 187]
+    ensyuf_n: [-1, 162]
+    ensyuf_d: [4, 108]
+    ensyue_n: [-1, 0]
+    battle_n: [-51, 174]
+    battle_d: [-51, 174]
+    wed_a: [279, 33]
+    wed_b: [232, 250]
   wiki_id: "087"
   chinese_name: 满潮
   can_drop: true
