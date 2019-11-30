@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: riiwaegupstv
-  file_version: ["8", "8", "1025"]
+  file_version: ["8", "8", "1120"]
   book_table_id: [417]
   book_sinfo: 古鷹型重巡洋艦の２番艦、加古だよぉ。<br>第一次ソロモン海戦で大活躍したんだからね！<br>あ、帰り道？ホント、行きはよいよい、帰りは怖い～ってね！
   stats:

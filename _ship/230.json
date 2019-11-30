@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: sbdfpooechyn
-  file_version: ["36", "29", "1025"]
+  file_version: ["37", "29", "1120"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [192, 162]
-    boko_d: [108, 198]
+    boko_n: [180, 114]
+    boko_d: [78, 156]
     kaisyu_n: [18, -12]
     kaisyu_d: [24, -6]
-    kaizo_n: [108, 96]
-    kaizo_d: [24, 72]
-    map_n: [144, 132]
-    map_d: [60, 144]
-    ensyuf_n: [156, 132]
-    ensyuf_d: [60, 144]
+    kaizo_n: [48, 12]
+    kaizo_d: [-48, 48]
+    map_n: [84, 54]
+    map_d: [-36, 132]
+    ensyuf_n: [96, 72]
+    ensyuf_d: [-18, 120]
     ensyue_n: [96, 0]
-    battle_n: [144, 144]
-    battle_d: [72, 168]
-    wed_a: [162, 48]
-    wed_b: [192, 192]
+    battle_n: [108, 72]
+    battle_d: [0, 144]
+    wed_a: [228, 96]
+    wed_b: [168, 210]
   wiki_id: "067a"
   chinese_name: 胧改
   can_drop: false

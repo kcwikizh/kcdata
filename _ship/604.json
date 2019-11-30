@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 604
+  sort_no: 399
+  name: De Ruyter
+  yomi: デ・ロイテル
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 50
+  after_ship_id: 609
+  get_mes: Hoi ！　貴方が噂のこの艦隊の提督ね！<br>私は、オランダ軽巡 De Ruyter！　 わかる？<br>わかるわかる？　そ、結構、いいから、私！　任せて。
+  voice_f: 1
+  filename: kskvawgvqhmy
+  file_version: ["51", "1", "1120"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [28, 43]
+    souk: [15, 31]
+    houg: [21, 50]
+    raig: [0, 50]
+    tyku: [20, 70]
+    luck: [9, 49]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [1, 1, 2, 0, 0]
+    after_fuel: 360
+    after_bull: 400
+    fuel_max: 30
+    bull_max: 35
+    broken: [3, 4, 12, 1]
+    pow_up: [1, 0, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [4, 205]
+    boko_d: [85, 232]
+    kaisyu_n: [46, -31]
+    kaisyu_d: [81, -18]
+    kaizo_n: [1, 69]
+    kaizo_d: [79, 79]
+    map_n: [37, 181]
+    map_d: [153, 214]
+    ensyuf_n: [48, 172]
+    ensyuf_d: [172, 193]
+    ensyue_n: [34, 0]
+    battle_n: [39, 204]
+    battle_d: [130, 226]
+    wed_a: [325, 4]
+    wed_b: [73, 147]
+  wiki_id: "399"
+  chinese_name: 德鲁伊特
+  can_drop: false
+  can_construct: false
+---

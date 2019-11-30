@@ -14,7 +14,7 @@ data:
   get_mes: アタシの名は敷波。<br>以後よろしく。
   voice_f: 0
   filename: gcbiuhgmgjbm
-  file_version: ["20", "14", "1025"]
+  file_version: ["21", "14", "1120"]
   book_table_id: [14, 775]
   book_sinfo: 特Ⅱ型駆逐艦２番艦の敷波。よろしく。<br>ミッドウェーやソロモンの海戦に参加した後、船団護衛を務めたよ。<br>海上護衛戦は結構大変だよ…大事だし…。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [306, 204]
-    boko_d: [306, 204]
+    boko_n: [144, 132]
+    boko_d: [147, 142]
     kaisyu_n: [24, 24]
     kaisyu_d: [42, 10]
-    kaizo_n: [186, 114]
-    kaizo_d: [168, 84]
-    map_n: [198, 180]
-    map_d: [198, 180]
-    ensyuf_n: [216, 192]
-    ensyuf_d: [216, 192]
-    ensyue_n: [204, 0]
-    battle_n: [234, 198]
-    battle_d: [234, 198]
-    wed_a: [150, -6]
-    wed_b: [126, 192]
+    kaizo_n: [61, 49]
+    kaizo_d: [34, -10]
+    map_n: [55, 130]
+    map_d: [3, 127]
+    ensyuf_n: [133, 130]
+    ensyuf_d: [82, 69]
+    ensyue_n: [133, 0]
+    battle_n: [57, 111]
+    battle_d: [57, 111]
+    wed_a: [228, 69]
+    wed_b: [201, 204]
   wiki_id: "018"
   chinese_name: 敷波
   can_drop: true

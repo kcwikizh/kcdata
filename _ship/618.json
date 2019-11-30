@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 618
+  sort_no: 418
+  name: Perth改
+  yomi: パース
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: iewosubexfsp
+  file_version: ["51", "1", "1120"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 62]
+    souk: [27, 68]
+    houg: [32, 72]
+    raig: [24, 72]
+    tyku: [28, 70]
+    luck: [22, 65]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 45
+    broken: [3, 6, 13, 1]
+    pow_up: [1, 1, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [120, 219]
+    boko_d: [160, 244]
+    kaisyu_n: [58, -4]
+    kaisyu_d: [46, -43]
+    kaizo_n: [117, 81]
+    kaizo_d: [142, 73]
+    map_n: [174, 168]
+    map_d: [220, 181]
+    ensyuf_n: [136, 172]
+    ensyuf_d: [183, 166]
+    ensyue_n: [163, 0]
+    battle_n: [207, 193]
+    battle_d: [214, 204]
+    wed_a: [196, -24]
+    wed_b: [121, 163]
+  wiki_id: "418"
+  chinese_name: 珀斯改
+  can_drop: false
+  can_construct: false
+---
