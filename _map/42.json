@@ -1,0 +1,121 @@
+---
+layout: json
+order: 42
+data:
+  id: 42
+  name: カレー洋海域
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: A
+      to: E
+    6:
+      from: G
+      to: F
+    7:
+      from: C
+      to: G
+    8:
+      from: D
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: H
+      to: K
+    12:
+      from: C
+      to: L
+    13:
+      from: D
+      to: C
+    14:
+      from: E
+      to: G
+    15:
+      from: H
+      to: G
+    16:
+      from: G
+      to: L
+  cells:
+    A:
+      name: 敵東方前衛艦隊
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 敵潜水教導艦隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵東方艦隊 遊撃戦隊
+      type:
+      boss: false
+      routes: [3, 13]
+    D:
+      name: 敵空母機動部隊
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 敵東方艦隊 遊撃戦隊分遣隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 敵東方艦隊 上陸輸送船団
+      type:
+      boss: false
+      routes: [7, 14, 15]
+    H:
+      name: 敵潜水哨戒部隊
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 敵東方艦隊 強襲上陸主力艦隊
+      type:
+      boss: true
+      routes: [12, 16]
+  image: MapHD4-2.png
+---

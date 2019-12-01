@@ -1,0 +1,143 @@
+---
+layout: json
+order: 23
+data:
+  id: 23
+  name: 東部オリョール海
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: D
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: G
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: J
+      to: M
+    14:
+      from: J
+      to: N
+    15:
+      from: C
+      to: D
+    16:
+      from: D
+      to: F
+    17:
+      from: E
+      to: F
+    18:
+      from: F
+      to: G
+    19:
+      from: I
+      to: K
+    20:
+      from: K
+      to: N
+  cells:
+    A:
+      name: 敵前衛警戒部隊
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4, 15]
+    E:
+      name: 敵前衛警戒部隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 敵水雷戦隊
+      type:
+      boss: false
+      routes: [6, 16, 17]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7, 18]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 敵巡洋艦戦隊
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 敵巡洋艦戦隊
+      type:
+      boss: false
+      routes: [11, 19]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 敵揚陸艦隊
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 敵主力打撃群
+      type:
+      boss: true
+      routes: [14, 20]
+  image: MapHD2-3.png
+---

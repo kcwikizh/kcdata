@@ -1,0 +1,129 @@
+---
+layout: json
+order: 33
+data:
+  id: 33
+  name: アルフォンシーノ方面
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: B
+      to: F
+    7:
+      from: C
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: K
+      to: L
+    13:
+      from: G
+      to: M
+    14:
+      from: E
+      to: G
+    15:
+      from: F
+      to: G
+    16:
+      from: J
+      to: M
+    17:
+      from: K
+      to: M
+  cells:
+    A:
+      name: 敵前衛艦隊
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 敵北方巡洋艦戦隊 B群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 敵北方護衛空母群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 敵北方機動部隊
+      type:
+      boss: false
+      routes: [7, 14, 15]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 敵北方巡洋艦戦隊 A群
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 敵深海北方泊地艦隊
+      type:
+      boss: true
+      routes: [13, 16, 17]
+  image: MapHD3-3.png
+---

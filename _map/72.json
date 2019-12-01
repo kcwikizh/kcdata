@@ -1,0 +1,126 @@
+---
+layout: json
+order: 72
+data:
+  id: 72
+  name: タウイタウイ泊地沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: A
+      to: B
+    9:
+      from: B
+      to: C
+    10:
+      from: D
+      to: H
+    11:
+      from: D
+      to: I
+    12:
+      from: I
+      to: J
+    13:
+      from: J
+      to: K
+    14:
+      from: I
+      to: L
+    15:
+      from: I
+      to: M
+    16:
+      from: H
+      to: I
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海任務部隊 前方侵入水雷戦隊
+      type:
+      boss: false
+      routes: [2, 8]
+    C:
+      name: セレベス海方面哨戒潜水艦 I群
+      type:
+      boss: false
+      routes: [3, 9]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: セレベス海方面哨戒潜水艦 II群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: セレベス海方面 旗艦哨戒潜水艦
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海任務部隊 主力機動部隊群
+      type:
+      boss: false
+      routes: [10]
+    I:
+      name: 深海任務部隊 前衛哨戒群
+      type:
+      boss: false
+      routes: [11, 16]
+    J:
+      name: 深海任務部隊 強襲揚陸部隊群
+      type:
+      boss: false
+      routes: [12]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    M:
+      name: 深海任務部隊 主力機動部隊群
+      type:
+      boss: true
+      routes: [15]
+  image: MapHD7-2.png
+---

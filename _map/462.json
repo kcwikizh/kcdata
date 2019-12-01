@@ -1,0 +1,186 @@
+---
+layout: json
+order: 462
+data:
+  id: 462
+  name: 
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: D
+      to: A
+    2:
+      from: E
+      to: B
+    3:
+      from: F
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: I
+      to: F
+    7:
+      from: B
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: 1
+      to: I
+    10:
+      from: I
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: O
+      to: M
+    14:
+      from: L
+      to: N
+    15:
+      from: Q
+      to: O
+    16:
+      from: L
+      to: P
+    17:
+      from: P
+      to: Q
+    18:
+      from: O
+      to: R
+    19:
+      from: G
+      to: D
+    20:
+      from: H
+      to: D
+    21:
+      from: F
+      to: E
+    22:
+      from: K
+      to: L
+    23:
+      from: N
+      to: P
+    24:
+      from: Q
+      to: R
+    25:
+      from: J
+      to: S
+    26:
+      from: S
+      to: P
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4, 19, 20]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5, 21]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12, 22]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [16, 23, 26]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [18, 24]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [25]
+  image: MapHD46-2.png
+---

@@ -1,0 +1,212 @@
+---
+layout: json
+order: 441
+data:
+  id: 441
+  name: 津軽海峡/北海道沖/南千島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: B
+      to: A
+    2:
+      from: D
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: 1
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: D
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: I
+      to: J
+    11:
+      from: I
+      to: K
+    12:
+      from: I
+      to: L
+    13:
+      from: K
+      to: M
+    14:
+      from: P
+      to: N
+    15:
+      from: L
+      to: O
+    16:
+      from: Q
+      to: P
+    17:
+      from: L
+      to: Q
+    18:
+      from: O
+      to: R
+    19:
+      from: P
+      to: S
+    20:
+      from: Q
+      to: T
+    21:
+      from: T
+      to: U
+    22:
+      from: B
+      to: C
+    23:
+      from: E
+      to: F
+    24:
+      from: J
+      to: L
+    25:
+      from: M
+      to: L
+    26:
+      from: O
+      to: V
+    27:
+      from: O
+      to: W
+    28:
+      from: V
+      to: W
+  cells:
+    A:
+      name: 浸透深海潜水艦隊 IV群
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 浸透潜水艦隊 支援群
+      type:
+      boss: false
+      routes: [3, 22]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 浸透潜水艦隊 支援群本体
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 浸透深海潜水艦隊 I群
+      type:
+      boss: false
+      routes: [6, 23]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 浸透深海潜水艦隊 III群
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 浸透深海潜水艦隊 II群
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 強行偵察水雷戦隊 C群
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12, 24, 25]
+    M:
+      name: 浸透深海潜水艦隊 II群
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 深海高速浸透任務部隊 前衛群
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 浸透深海潜水艦隊 I群
+      type:
+      boss: false
+      routes: [16]
+    Q:
+      name: 強行偵察水雷戦隊 B群
+      type:
+      boss: false
+      routes: [17]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    S:
+      name: 強行偵察水雷戦隊 A群
+      type:
+      boss: false
+      routes: [19]
+    T:
+      name: 浸透深海潜水艦隊 泊地封鎖部隊
+      type:
+      boss: false
+      routes: [20]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    V:
+      name: 深海高速浸透任務部隊 支援隊
+      type:
+      boss: false
+      routes: [26]
+    W:
+      name: 深海水雷戦隊 前衛警戒隊
+      type:
+      boss: true
+      routes: [27, 28]
+  image: MapHD44-1.png
+---

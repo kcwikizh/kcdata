@@ -1,0 +1,304 @@
+---
+layout: json
+order: 445
+data:
+  id: 445
+  name: 北太平洋ハワイ諸島南東沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: C
+      to: G
+    8:
+      from: C
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: I
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: K
+      to: M
+    14:
+      from: L
+      to: N
+    15:
+      from: M
+      to: O
+    16:
+      from: N
+      to: P
+    17:
+      from: K
+      to: Q
+    18:
+      from: A
+      to: C
+    19:
+      from: D
+      to: H
+    20:
+      from: F
+      to: H
+    21:
+      from: G
+      to: I
+    22:
+      from: I
+      to: J
+    23:
+      from: J
+      to: K
+    24:
+      from: L
+      to: Q
+    25:
+      from: M
+      to: R
+    26:
+      from: N
+      to: S
+    27:
+      from: S
+      to: T
+    28:
+      from: T
+      to: U
+    29:
+      from: S
+      to: V
+    30:
+      from: M
+      to: W
+    31:
+      from: T
+      to: X
+    32:
+      from: W
+      to: Y
+    33:
+      from: V
+      to: Z
+    34:
+      from: V
+      to: Z1
+    35:
+      from: X
+      to: Z2
+    36:
+      from: R
+      to: W
+    37:
+      from: U
+      to: X
+    38:
+      from: W
+      to: X
+    39:
+      from: Y
+      to: X
+    40:
+      from: X
+      to: Z
+    41:
+      from: G
+      to: J2
+    42:
+      from: E
+      to: AD
+    43:
+      from: 1
+      to: D
+    44:
+      from: AD
+      to: J
+    45:
+      from: J2
+      to: K
+    46:
+      from: J2
+      to: M
+    47:
+      from: AD
+      to: N
+  cells:
+    A:
+      name: 深海任務部隊 強行偵察艦隊
+      type:
+      boss: false
+      routes: [1]
+    AD:
+      name: 
+      type:
+      boss: false
+      routes: [42]
+    B:
+      name: 深海太平洋潜水艦隊 再編成B群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海太平洋潜水艦隊 再編成A群
+      type:
+      boss: false
+      routes: [3, 18]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4, 43]
+    E:
+      name: 深海太平洋深淵任務群 航空隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海任務部隊　艦載機群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海任務部隊　艦載機群
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海任務部隊　増派護衛空母B群
+      type:
+      boss: false
+      routes: [8, 19, 20]
+    I:
+      name: 深海任務部隊 前衛警戒部隊
+      type:
+      boss: false
+      routes: [9, 21]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10, 22, 44]
+    J2:
+      name: 
+      type:
+      boss: false
+      routes: [41]
+    K:
+      name: 深海任務部隊　増派護衛空母A群
+      type:
+      boss: false
+      routes: [11, 23, 45]
+    L:
+      name: 深海任務部隊　増派水上打撃部隊
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 深海任務部隊 逆上陸部隊 I群
+      type:
+      boss: false
+      routes: [13, 46]
+    N:
+      name: 深海任務部隊 逆上陸部隊 II群
+      type:
+      boss: false
+      routes: [14, 47]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [16]
+    Q:
+      name: 深海太平洋深淵任務群 出撃艦隊
+      type:
+      boss: false
+      routes: [17, 24]
+    R:
+      name: 深海太平洋深淵潜水艦隊
+      type:
+      boss: false
+      routes: [25]
+    S:
+      name: 深海太平洋深淵任務群 航空隊
+      type:
+      boss: false
+      routes: [26]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    U:
+      name: 深海太平洋深淵任務群 戦艦戦隊
+      type:
+      boss: false
+      routes: [28]
+    V:
+      name: 深海太平洋深淵任務群 強襲部隊
+      type:
+      boss: false
+      routes: [29]
+    W:
+      name: 深海太平洋深淵任務群 航空隊
+      type:
+      boss: false
+      routes: [30, 36]
+    X:
+      name: 深海太平洋深淵任務群 強襲部隊
+      type:
+      boss: false
+      routes: [31, 37, 38, 39]
+    Y:
+      name: 深海太平洋深淵任務群 戦艦戦隊
+      type:
+      boss: false
+      routes: [32]
+    Z:
+      name: 深海太平洋深淵任務群 旗艦艦隊
+      type:
+      boss: true
+      routes: [33, 40]
+    Z1:
+      name: 
+      type:
+      boss: false
+      routes: [34]
+    Z2:
+      name: 
+      type:
+      boss: false
+      routes: [35]
+  image: MapHD44-5.png
+---

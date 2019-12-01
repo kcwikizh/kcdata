@@ -1,0 +1,107 @@
+---
+layout: json
+order: 61
+data:
+  id: 61
+  name: 中部海域哨戒線
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: B
+    2:
+      from: 1
+      to: A
+    3:
+      from: 1
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: A
+      to: F
+    6:
+      from: F
+      to: G
+    7:
+      from: G
+      to: I
+    8:
+      from: G
+      to: H
+    9:
+      from: H
+      to: E
+    10:
+      from: H
+      to: J
+    11:
+      from: H
+      to: K
+    12:
+      from: C
+      to: F
+    13:
+      from: D
+      to: F
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    C:
+      name: 中部海域 敵遊撃部隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 中部海域哨戒戦 D地点
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    F:
+      name: 中部海域哨戒戦 F地点
+      type:
+      boss: false
+      routes: [5, 12, 13]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    H:
+      name: 中部海域哨戒戦 H地点
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 敵機動部隊
+      type:
+      boss: false
+      routes: [7]
+    J:
+      name: 中部海域 敵輸送船団
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 敵回航中空母
+      type:
+      boss: true
+      routes: [11]
+  image: MapHD6-1.png
+---

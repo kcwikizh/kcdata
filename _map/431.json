@@ -1,0 +1,127 @@
+---
+layout: json
+order: 431
+data:
+  id: 431
+  name: ブラケット水道/クラ湾沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: A
+      to: B
+    9:
+      from: B
+      to: C
+    10:
+      from: D
+      to: E
+    11:
+      from: B
+      to: H
+    12:
+      from: C
+      to: I
+    13:
+      from: I
+      to: J
+    14:
+      from: J
+      to: K
+    15:
+      from: C
+      to: L
+    16:
+      from: H
+      to: C
+    17:
+      from: I
+      to: L
+    18:
+      from: J
+      to: L
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海ソロモン艦隊 潜水艦哨戒線
+      type:
+      boss: false
+      routes: [2, 8]
+    C:
+      name: 深海ソロモン艦隊 前衛警戒隊
+      type:
+      boss: false
+      routes: [3, 9, 16]
+    D:
+      name: 深海ソロモン魚雷艇戦隊
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: ブラケット水道 侵入深海駆逐隊
+      type:
+      boss: false
+      routes: [5, 10]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海ソロモン任務部隊 先遣隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海ソロモン艦隊 警戒駆逐隊
+      type:
+      boss: false
+      routes: [11]
+    I:
+      name: 深海新型装備駆逐隊 第II群
+      type:
+      boss: false
+      routes: [12]
+    J:
+      name: 深海新型装備駆逐隊 第I群
+      type:
+      boss: false
+      routes: [13]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    L:
+      name: 深海ソロモン任務部隊 クラ湾主力
+      type:
+      boss: true
+      routes: [15, 17, 18]
+  image: MapHD43-1.png
+---

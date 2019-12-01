@@ -1,0 +1,124 @@
+---
+layout: json
+order: 14
+data:
+  id: 14
+  name: 南西諸島防衛線
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: D
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: H
+      to: L
+    13:
+      from: B
+      to: D
+    14:
+      from: F
+      to: E
+    15:
+      from: F
+      to: H
+    16:
+      from: I
+      to: L
+    17:
+      from: J
+      to: L
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 敵偵察艦隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 敵偵察艦隊
+      type:
+      boss: false
+      routes: [4, 13]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5, 14]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 敵前衛任務部隊 I群
+      type:
+      boss: false
+      routes: [8, 15]
+    I:
+      name: 敵前衛任務部隊 II群
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 敵支援打撃任務群
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 敵機動部隊
+      type:
+      boss: true
+      routes: [12, 16, 17]
+  image: MapHD1-4.png
+---

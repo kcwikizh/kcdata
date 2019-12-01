@@ -1,0 +1,244 @@
+---
+layout: json
+order: 432
+data:
+  id: 432
+  name: ラバウル/中部ソロモン海域
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: D
+      to: C
+    4:
+      from: 1
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: A
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: J
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: F
+      to: E
+    13:
+      from: B
+      to: F
+    14:
+      from: C
+      to: F
+    15:
+      from: D
+      to: F
+    16:
+      from: E
+      to: F
+    17:
+      from: F
+      to: G
+    18:
+      from: I
+      to: L
+    19:
+      from: L
+      to: M
+    20:
+      from: M
+      to: N
+    21:
+      from: N
+      to: O
+    22:
+      from: N
+      to: P
+    23:
+      from: 2
+      to: Q
+    24:
+      from: 2
+      to: R
+    25:
+      from: R
+      to: S
+    26:
+      from: R
+      to: T
+    27:
+      from: R
+      to: U
+    28:
+      from: U
+      to: V
+    29:
+      from: V
+      to: W
+    30:
+      from: V
+      to: X
+    31:
+      from: Q
+      to: I
+    32:
+      from: U
+      to: L
+    33:
+      from: S
+      to: U
+    34:
+      from: T
+      to: U
+    35:
+      from: null
+      to: 2
+    36:
+      from: U
+      to: M
+    37:
+      from: M
+      to: P
+  cells:
+    A:
+      name: リコリス飛行場 基地航空隊
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 ラバウル警戒隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海待ち伏せ展開部隊 前衛戦隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海水雷戦隊 前衛警戒隊
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5, 12]
+    F:
+      name: 深海水雷戦隊 重雷装隊
+      type:
+      boss: false
+      routes: [6, 13, 14, 15, 16]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7, 17]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 深海戦艦部隊 前衛集団
+      type:
+      boss: false
+      routes: [9, 31]
+    J:
+      name: 深海ソロモン艦隊 重巡戦隊 前衛
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 深海ソロモン艦隊 重巡戦隊 旗艦
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: リコリス飛行場 基地航空隊
+      type:
+      boss: false
+      routes: [18, 32]
+    M:
+      name: 深海戦艦部隊 水上打撃集団
+      type:
+      boss: false
+      routes: [19, 36]
+    N:
+      name: リコリス飛行場 基地航空隊
+      type:
+      boss: false
+      routes: [20]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    P:
+      name: 深海ソロモン艦隊 旗艦展開泊地
+      type:
+      boss: true
+      routes: [22, 37]
+    Q:
+      name: 深海ソロモン配備 魚雷艇集団
+      type:
+      boss: false
+      routes: [23]
+    R:
+      name: 深海ソロモン派遣 空母任務部隊
+      type:
+      boss: false
+      routes: [24]
+    S:
+      name: 深海待ち伏せ展開部隊 主力戦隊
+      type:
+      boss: false
+      routes: [25]
+    T:
+      name: 深海ソロモン派遣 空母任務部隊
+      type:
+      boss: false
+      routes: [26]
+    U:
+      name: 深海任務部隊 上陸支援打撃群
+      type:
+      boss: false
+      routes: [27, 33, 34]
+    V:
+      name: リコリス飛行場 基地航空隊
+      type:
+      boss: false
+      routes: [28]
+    W:
+      name: 深海ブイン攻略任務群 上陸船団
+      type:
+      boss: false
+      routes: [29]
+    X:
+      name: 
+      type:
+      boss: false
+      routes: [30]
+  image: MapHD43-2.png
+---

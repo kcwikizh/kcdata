@@ -1,0 +1,6 @@
+---
+---
+[
+  {% assign maps = site.map | sort: "order" %}{% for map in maps %}{{ map.data | jsonify }}{% unless forloop.last %},
+  {% endunless %}{% endfor %}
+]

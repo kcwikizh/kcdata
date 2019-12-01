@@ -1,0 +1,182 @@
+---
+layout: json
+order: 423
+data:
+  id: 423
+  name: 西方作戦海域方面 セイロン島南西沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: A
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: H
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: J
+      to: M
+    14:
+      from: B
+      to: C
+    15:
+      from: C
+      to: D
+    16:
+      from: C
+      to: E
+    17:
+      from: D
+      to: F
+    18:
+      from: E
+      to: F
+    19:
+      from: G
+      to: J
+    20:
+      from: H
+      to: J
+    21:
+      from: K
+      to: M
+    22:
+      from: I
+      to: N
+    23:
+      from: I
+      to: O
+    24:
+      from: N
+      to: P
+    25:
+      from: O
+      to: Q
+    26:
+      from: O
+      to: L
+    27:
+      from: N
+      to: O
+    28:
+      from: P
+      to: O
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 前方展開群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海前線泊地艦隊 前衛水雷戦隊
+      type:
+      boss: false
+      routes: [3, 14]
+    D:
+      name: 深海前線泊地艦隊 高速機動部隊
+      type:
+      boss: false
+      routes: [4, 15]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5, 16]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6, 17, 18]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 深海東方増派潜水艦隊 I群
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 海峡封鎖 深海戦艦部隊
+      type:
+      boss: false
+      routes: [10, 19, 20]
+    K:
+      name: 深海東方増派潜水艦隊 II群
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12, 26]
+    M:
+      name: セイロン島南部 深海占拠港湾
+      type:
+      boss: false
+      routes: [13, 21]
+    N:
+      name: 深海前線葉艦棲泊地 航空隊
+      type:
+      boss: false
+      routes: [22]
+    O:
+      name: 深海前線葉艦棲泊地 警備艦隊
+      type:
+      boss: false
+      routes: [23, 27, 28]
+    P:
+      name: 深海前線葉艦棲泊地 航空隊
+      type:
+      boss: false
+      routes: [24]
+    Q:
+      name: 深海前線葉艦棲泊地
+      type:
+      boss: true
+      routes: [25]
+  image: MapHD42-3.png
+---

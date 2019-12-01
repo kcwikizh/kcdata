@@ -1,0 +1,148 @@
+---
+layout: json
+order: 422
+data:
+  id: 422
+  name: 西方作戦海域方面 マラッカ海峡北方
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: F
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: C
+      to: D
+    11:
+      from: D
+      to: J
+    12:
+      from: E
+      to: K
+    13:
+      from: M
+      to: L
+    14:
+      from: K
+      to: M
+    15:
+      from: K
+      to: N
+    16:
+      from: M
+      to: O
+    17:
+      from: J
+      to: E
+    18:
+      from: N
+      to: M
+    19:
+      from: 2
+      to: D
+    20:
+      from: null
+      to: 2
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 海峡封鎖 深海戦艦部隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 海峡警備 深海水雷戦隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 海峡封鎖 深海遊撃部隊
+      type:
+      boss: false
+      routes: [4, 10, 19]
+    E:
+      name: 深海集積地プーケット航空隊
+      type:
+      boss: false
+      routes: [5, 17]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 海峡警備 深海重巡戦隊
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海潜水艦隊 海峡封鎖A群
+      type:
+      boss: false
+      routes: [11]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [12]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    M:
+      name: 海峡前線集積地 防衛艦隊
+      type:
+      boss: false
+      routes: [14, 18]
+    N:
+      name: 深海潜水艦隊 海峡封鎖B群
+      type:
+      boss: false
+      routes: [15]
+    O:
+      name: 深海前線集積地 本部
+      type:
+      boss: true
+      routes: [16]
+  image: MapHD42-2.png
+---

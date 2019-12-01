@@ -1,0 +1,148 @@
+---
+layout: json
+order: 25
+data:
+  id: 25
+  name: 沖ノ島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: B
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: B
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: I
+      to: H
+    9:
+      from: E
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: G
+      to: K
+    12:
+      from: G
+      to: L
+    13:
+      from: J
+      to: M
+    14:
+      from: L
+      to: N
+    15:
+      from: I
+      to: O
+    16:
+      from: F
+      to: E
+    17:
+      from: J
+      to: H
+    18:
+      from: G
+      to: I
+    19:
+      from: J
+      to: O
+    20:
+      from: L
+      to: O
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 敵侵攻前衛艦隊 B群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵侵攻前衛艦隊 A群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 敵侵攻重巡戦隊
+      type:
+      boss: false
+      routes: [5, 16]
+    F:
+      name: 敵侵攻水雷戦隊
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8, 17]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9, 18]
+    J:
+      name: 敵侵攻水上打撃部隊
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 敵侵攻機動部隊
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 敵侵攻中核艦隊
+      type:
+      boss: true
+      routes: [15, 19, 20]
+  image: MapHD2-5.png
+---

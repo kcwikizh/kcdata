@@ -1,0 +1,102 @@
+---
+layout: json
+order: 13
+data:
+  id: 13
+  name: 製油所地帯沿岸
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: D
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: A
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: H
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: B
+      to: E
+    12:
+      from: E
+      to: F
+    13:
+      from: H
+      to: J
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵前衛艦隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 敵前衛艦隊
+      type:
+      boss: false
+      routes: [5, 11]
+    F:
+      name: 敵支援艦隊
+      type:
+      boss: false
+      routes: [6, 12]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 敵主力艦隊
+      type:
+      boss: true
+      routes: [10, 13]
+  image: MapHD1-3.png
+---

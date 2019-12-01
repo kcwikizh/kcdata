@@ -1,0 +1,159 @@
+---
+layout: json
+order: 54
+data:
+  id: 54
+  name: サーモン海域
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: A
+      to: F
+    7:
+      from: C
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: I
+      to: J
+    11:
+      from: G
+      to: K
+    12:
+      from: G
+      to: L
+    13:
+      from: J
+      to: M
+    14:
+      from: L
+      to: N
+    15:
+      from: M
+      to: O
+    16:
+      from: L
+      to: P
+    17:
+      from: B
+      to: D
+    18:
+      from: D
+      to: E
+    19:
+      from: D
+      to: F
+    20:
+      from: F
+      to: H
+    21:
+      from: K
+      to: L
+    22:
+      from: M
+      to: P
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵南方増援部隊 前方警戒艦隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4, 17]
+    E:
+      name: 敵鉄底海峡哨戒隊
+      type:
+      boss: false
+      routes: [5, 18]
+    F:
+      name: 深海水上打撃群
+      type:
+      boss: false
+      routes: [6, 19]
+    G:
+      name: 敵南方増援部隊 機動部隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 敵鉄底海峡巡洋艦戦隊
+      type:
+      boss: false
+      routes: [8, 20]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 敵泊地投錨中 輸送船団
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 敵南方増援部隊 本隊
+      type:
+      boss: false
+      routes: [12, 21]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 敵南方増援部隊 本隊
+      type:
+      boss: true
+      routes: [16, 22]
+  image: MapHD5-4.png
+---

@@ -1,0 +1,230 @@
+---
+layout: json
+order: 424
+data:
+  id: 424
+  name: 欧州作戦海域方面 地中海マルタ島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: 1
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: D
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: I
+      to: K
+    12:
+      from: K
+      to: L
+    13:
+      from: K
+      to: M
+    14:
+      from: A
+      to: B
+    15:
+      from: B
+      to: D
+    16:
+      from: D
+      to: E
+    17:
+      from: E
+      to: F
+    18:
+      from: F
+      to: H
+    19:
+      from: P
+      to: N
+    20:
+      from: N
+      to: O
+    21:
+      from: Q
+      to: P
+    22:
+      from: J
+      to: Q
+    23:
+      from: Q
+      to: R
+    24:
+      from: P
+      to: O
+    25:
+      from: 2
+      to: J
+    26:
+      from: null
+      to: 2
+    27:
+      from: G
+      to: S
+    28:
+      from: P
+      to: T
+    29:
+      from: T
+      to: U
+    30:
+      from: Q
+      to: T
+    31:
+      from: W
+      to: V
+    32:
+      from: Q
+      to: W
+    33:
+      from: V
+      to: U
+    34:
+      from: R
+      to: W
+  cells:
+    A:
+      name: 深海地中海艦隊 前衛潜水艦群
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海地中海艦隊 前衛警戒部隊
+      type:
+      boss: false
+      routes: [2, 14]
+    C:
+      name: 深海地中海艦隊 前衛機動部隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海地中海艦隊 地域警備隊
+      type:
+      boss: false
+      routes: [4, 15]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5, 16]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6, 17]
+    G:
+      name: 深海地中海艦隊 タラント補給船団
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8, 18]
+    I:
+      name: 深海地中海艦隊 軽空母部隊a群
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海地中海艦隊 軽空母部隊b群
+      type:
+      boss: false
+      routes: [10, 25]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 深海地中海艦隊 戦艦戦隊
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海地中海艦隊 マルタ島兵站線
+      type:
+      boss: false
+      routes: [19]
+    O:
+      name: 深海地中海艦隊 ナポリ占拠集団
+      type:
+      boss: false
+      routes: [20, 24]
+    P:
+      name: 深海潜水艦マルタ島集団 II群
+      type:
+      boss: false
+      routes: [21]
+    Q:
+      name: 深海地中海艦隊 基地航空隊
+      type:
+      boss: false
+      routes: [22]
+    R:
+      name: 深海潜水艦マルタ島集団 I群
+      type:
+      boss: false
+      routes: [23]
+    S:
+      name: 深海地中海艦隊 タラント集積拠点
+      type:
+      boss: false
+      routes: [27]
+    T:
+      name: 深海地中海艦隊 増派機動部隊
+      type:
+      boss: false
+      routes: [28, 30]
+    U:
+      name: 深海地中海艦隊 ジェノヴァ船渠
+      type:
+      boss: true
+      routes: [29, 33]
+    V:
+      name: 深海地中海艦隊 緊急展開部隊
+      type:
+      boss: false
+      routes: [31]
+    W:
+      name: 深海地中海艦隊 基地航空隊
+      type:
+      boss: false
+      routes: [32, 34]
+  image: MapHD42-4.png
+---

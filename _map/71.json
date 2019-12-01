@@ -1,0 +1,113 @@
+---
+layout: json
+order: 71
+data:
+  id: 71
+  name: ブルネイ泊地沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: B
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: 1
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: 1
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: H
+      to: K
+    12:
+      from: B
+      to: C
+    13:
+      from: D
+      to: C
+    14:
+      from: D
+      to: E
+    15:
+      from: F
+      to: G
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 敵通商破壊侵入艦隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵通商破壊侵入 高速機動部隊
+      type:
+      boss: false
+      routes: [3, 12, 13]
+    D:
+      name: 深海潜水艦隊 II群
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5, 14]
+    F:
+      name: 深海潜水艦隊 III群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 敵哨戒部隊
+      type:
+      boss: false
+      routes: [7, 15]
+    H:
+      name: 深海潜水艦隊 I群
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 深海潜水艦隊集団 旗艦戦隊
+      type:
+      boss: true
+      routes: [11]
+  image: MapHD7-1.png
+---

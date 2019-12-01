@@ -1,0 +1,118 @@
+---
+layout: json
+order: 32
+data:
+  id: 32
+  name: キス島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: E
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: C
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: F
+      to: L
+    13:
+      from: C
+      to: A
+    14:
+      from: G
+      to: F
+    15:
+      from: H
+      to: F
+  cells:
+    A:
+      name: 敵北方遊撃任務部隊
+      type:
+      boss: false
+      routes: [1, 13]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵北方水雷戦隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6, 14, 15]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 敵北方水上打撃艦隊
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 敵北方攻撃任務群 先遣護衛戦隊
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 敵北方攻撃任務群 機動部隊
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 敵キス島包囲艦隊
+      type:
+      boss: true
+      routes: [12]
+  image: MapHD3-2.png
+---

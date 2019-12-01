@@ -1,0 +1,102 @@
+---
+layout: json
+order: 41
+data:
+  id: 41
+  name: ジャム島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: D
+      to: G
+    8:
+      from: D
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: F
+      to: D
+    12:
+      from: F
+      to: H
+    13:
+      from: H
+      to: J
+  cells:
+    A:
+      name: 敵水雷戦隊
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵哨戒艦隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 敵東方潜水艦隊 警戒隊
+      type:
+      boss: false
+      routes: [4, 11]
+    E:
+      name: 敵増援強襲輸送船団
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 東方艦隊 先遣戦艦部隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 敵深海連合巡洋艦戦隊
+      type:
+      boss: false
+      routes: [8, 12]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 敵深海連合部隊 司令部艦隊
+      type:
+      boss: true
+      routes: [10, 13]
+  image: MapHD4-1.png
+---

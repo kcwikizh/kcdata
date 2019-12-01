@@ -1,0 +1,167 @@
+---
+layout: json
+order: 53
+data:
+  id: 53
+  name: サブ島沖海域
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: B
+      to: A
+    2:
+      from: E
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: 1
+      to: D
+    5:
+      from: H
+      to: E
+    6:
+      from: B
+      to: F
+    7:
+      from: D
+      to: G
+    8:
+      from: K
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: O
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: J
+      to: M
+    14:
+      from: J
+      to: N
+    15:
+      from: I
+      to: O
+    16:
+      from: O
+      to: P
+    17:
+      from: E
+      to: Q
+    18:
+      from: C
+      to: D
+    19:
+      from: K
+      to: E
+    20:
+      from: I
+      to: J
+    21:
+      from: P
+      to: K
+    22:
+      from: L
+      to: O
+    23:
+      from: N
+      to: O
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵鉄底海峡任務部隊 哨戒隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4, 18]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5, 19]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 敵鉄底海峡任務部隊 重巡戦隊
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 敵任務部隊 前衛哨戒隊
+      type:
+      boss: false
+      routes: [10, 20]
+    K:
+      name: 敵鉄底海峡任務部隊 増援艦隊
+      type:
+      boss: false
+      routes: [11, 21]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 敵任務部隊 増援部隊
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 敵南方支援艦隊
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [15, 22, 23]
+    P:
+      name: 敵泊地投錨中 輸送船団
+      type:
+      boss: false
+      routes: [16]
+    Q:
+      name: 敵南方艦隊 旗艦
+      type:
+      boss: true
+      routes: [17]
+  image: MapHD5-3.png
+---
