@@ -54,7 +54,7 @@ data:
     wed_a: [243, -15]
     wed_b: [129, 162]
   wiki_id: "395"
-  chinese_name: 休斯顿
+  chinese_name: 休斯敦
   can_drop: false
   can_construct: false
 ---
