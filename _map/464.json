@@ -3,7 +3,7 @@ layout: json
 order: 464
 data:
   id: 464
-  name: 
+  name: バタビア沖
   routes:
     0:
       from: null
@@ -102,32 +102,32 @@ data:
       boss: false
       routes: [1]
     B:
-      name: 
+      name: 深海潜水艦隊 増援部隊IV群
       type:
       boss: false
       routes: [2]
     C:
-      name: 
+      name: 深海スラバヤ緊急増派 水雷戦隊
       type:
       boss: false
       routes: [3, 17, 18]
     D:
-      name: 
+      name: 深海基地航空隊
       type:
       boss: false
       routes: [4]
     E:
-      name: 
+      name: 深海東方艦隊 緊急増派部隊II群
       type:
       boss: false
       routes: [5]
     F:
-      name: 
+      name: 深海潜水艦隊 増援部隊II群
       type:
       boss: false
       routes: [6]
     G:
-      name: 
+      name: 深海合同艦隊 巡洋艦戦隊II群
       type:
       boss: false
       routes: [7, 19, 20, 29]
@@ -147,17 +147,17 @@ data:
       boss: false
       routes: [10, 21]
     K:
-      name: 
+      name: 深海潜水艦隊 増援部隊I群
       type:
       boss: false
       routes: [11, 22]
     L:
-      name: 
+      name: 深海バタビア哨戒線
       type:
       boss: false
       routes: [12, 23]
     M:
-      name: 
+      name: 深海合同艦隊 巡洋艦戦隊I群
       type:
       boss: false
       routes: [13, 24]
@@ -172,24 +172,24 @@ data:
       boss: false
       routes: [15]
     P:
-      name: 
+      name: 深海バタビア方面緊急増派艦隊
       type:
       boss: false
       routes: [16]
     Q:
-      name: 
+      name: 深海潜水艦隊 増援部隊III群
       type:
       boss: false
       routes: [26]
     R:
-      name: 
+      name: 深海艦載機群
       type:
       boss: false
       routes: [27]
     S:
-      name: 
+      name: 深海バタビア合同艦隊 旗艦艦隊
       type:
-      boss: false
+      boss: true
       routes: [28]
-  image: MapHD46-4.png
+  image: MapHDE-4Autumn2019.png
 ---

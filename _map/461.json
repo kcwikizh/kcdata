@@ -3,7 +3,7 @@ layout: json
 order: 461
 data:
   id: 461
-  name: 
+  name: マカッサル沖/バリ島沖
   routes:
     0:
       from: null
@@ -52,7 +52,7 @@ data:
       to: K
   cells:
     A:
-      name: 
+      name: 深海前方哨戒潜水艦隊
       type:
       boss: false
       routes: [1]
@@ -62,12 +62,12 @@ data:
       boss: false
       routes: [2]
     C:
-      name: 
+      name: 深海警戒駆逐隊
       type:
       boss: false
       routes: [3, 10]
     D:
-      name: 
+      name: バリ島深海緊急派遣艦隊
       type:
       boss: false
       routes: [4]
@@ -82,12 +82,12 @@ data:
       boss: false
       routes: [6, 11, 12]
     G:
-      name: 
+      name: バリ島深海防衛駆逐隊
       type:
       boss: false
       routes: [7]
     H:
-      name: 
+      name: バリ島上陸地点
       type:
       boss: false
       routes: [8]
@@ -97,14 +97,14 @@ data:
       boss: false
       routes: [9]
     J:
-      name: 
+      name: バリ島深海防衛前衛艦隊
       type:
       boss: false
       routes: [13]
     K:
-      name: 
+      name: バリ島深海防衛旗艦艦隊
       type:
-      boss: false
+      boss: true
       routes: [14]
-  image: MapHD46-1.png
+  image: MapHDE-1Autumn2019.png
 ---

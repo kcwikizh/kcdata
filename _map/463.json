@@ -3,7 +3,7 @@ layout: json
 order: 463
 data:
   id: 463
-  name: 
+  name: ジャワ海/スラバヤ沖
   routes:
     0:
       from: null
@@ -88,12 +88,12 @@ data:
       to: O
   cells:
     A:
-      name: 
+      name: 深海潜水艦部隊 前衛警戒線III群
       type:
       boss: false
       routes: [1]
     B:
-      name: 
+      name: 深海東方艦隊 増援軽空母I群
       type:
       boss: false
       routes: [2, 14]
@@ -103,22 +103,22 @@ data:
       boss: false
       routes: [3]
     D:
-      name: 
+      name: 深海潜水艦部隊 前衛警戒線II群
       type:
       boss: false
       routes: [4, 15, 16]
     E:
-      name: 
+      name: 深海潜水艦部隊 前衛警戒線I群
       type:
       boss: false
       routes: [5, 17]
     F:
-      name: 
+      name: 深海スラバヤ緊急増派 水雷戦隊
       type:
       boss: false
       routes: [6]
     G:
-      name: 
+      name: 深海スラバヤ防衛合同艦隊 前衛
       type:
       boss: false
       routes: [7, 18, 19, 20]
@@ -128,12 +128,12 @@ data:
       boss: false
       routes: [8]
     I:
-      name: 
+      name: 深海東方艦隊 増援軽空母II群
       type:
       boss: false
       routes: [9]
     J:
-      name: 
+      name: 深海スラバヤ防衛合同艦隊 後衛
       type:
       boss: false
       routes: [10, 21]
@@ -148,7 +148,7 @@ data:
       boss: false
       routes: [12]
     M:
-      name: 
+      name: 深海スラバヤ防衛合同艦隊 主力
       type:
       boss: false
       routes: [13, 22]
@@ -158,9 +158,9 @@ data:
       boss: false
       routes: [25]
     O:
-      name: 
+      name: 深海スラバヤ救援艦隊 旗艦艦隊
       type:
-      boss: false
+      boss: true
       routes: [26]
-  image: MapHD46-3.png
+  image: MapHDE-3Autumn2019.png
 ---

@@ -3,7 +3,7 @@ layout: json
 order: 462
 data:
   id: 462
-  name: 
+  name: ジャワ沖/ダーウィン沖
   routes:
     0:
       from: null
@@ -88,17 +88,17 @@ data:
       to: P
   cells:
     A:
-      name: 
+      name: ダーウィン深海港湾基地群
       type:
       boss: false
       routes: [1]
     B:
-      name: 
+      name: ダーウィン深海基地航空隊
       type:
       boss: false
       routes: [2]
     C:
-      name: 
+      name: ダーウィン深海基地航空隊
       type:
       boss: false
       routes: [3]
@@ -108,7 +108,7 @@ data:
       boss: false
       routes: [4, 19, 20]
     E:
-      name: 
+      name: 深海哨戒水雷戦隊
       type:
       boss: false
       routes: [5, 21]
@@ -118,12 +118,12 @@ data:
       boss: false
       routes: [6]
     G:
-      name: 
+      name: 深海緊急派遣軽空母部隊
       type:
       boss: false
       routes: [7]
     H:
-      name: 
+      name: ダーウィン深海基地航空隊
       type:
       boss: false
       routes: [8]
@@ -133,17 +133,17 @@ data:
       boss: false
       routes: [9]
     J:
-      name: 
+      name: ダーウィン深海基地航空隊
       type:
       boss: false
       routes: [10]
     K:
-      name: 
+      name: 深海待ち伏せ潜水艦隊
       type:
       boss: false
       routes: [11]
     L:
-      name: 
+      name: ダーウィン深海基地航空隊
       type:
       boss: false
       routes: [12, 22]
@@ -153,34 +153,34 @@ data:
       boss: false
       routes: [13]
     N:
-      name: 
+      name: 深海ジャワ島沖展開艦隊 II群
       type:
       boss: false
       routes: [14]
     O:
-      name: 
+      name: 深海ジャワ島沖展開艦隊 残存艦
       type:
       boss: false
       routes: [15]
     P:
-      name: 
+      name: 深海ジャワ島沖展開艦隊 III群
       type:
       boss: false
       routes: [16, 23, 26]
     Q:
-      name: 
+      name: 深海ジャワ島沖展開艦隊 I群
       type:
       boss: false
       routes: [17]
     R:
-      name: 
+      name: 深海ジャワ島沖展開艦隊 主力群
       type:
-      boss: false
+      boss: true
       routes: [18, 24]
     S:
       name: 
       type:
       boss: false
       routes: [25]
-  image: MapHD46-2.png
+  image: MapHDE-2Autumn2019.png
 ---
