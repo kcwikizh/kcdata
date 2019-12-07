@@ -6,8 +6,8 @@ data:
   name: 神州丸
   yomi: しんしゅうまる
   stype: 17
-  ctype: 
-  cnum: 
+  ctype: 97
+  cnum: 1
   backs: 6
   after_lv: 48
   after_ship_id: 626
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: dgnhxfrunaud
   file_version: ["51", "1", "1120"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [621]
+  book_sinfo: 日本陸軍が建造した本格的な上陸用船艇母艦、現代で<br>いう強襲揚陸艦、その一番艦、神州丸です。完全武装<br>した陸戦部隊を載せた大発動艇などを満載、その泛水<br>装備で連続発進が可能です。緒戦の上陸戦、そして末<br>期の輸送作戦でも奮闘しました。提督殿、覚えていて<br>くださいね。
   stats:
     taik: [37, 49]
     souk: [9, 35]
@@ -26,8 +26,8 @@ data:
     luck: [14, 54]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 13
+    tais: 20
     slot_num: 3
     max_eq: [2, 2, 8, 0, 0]
     after_fuel: 600

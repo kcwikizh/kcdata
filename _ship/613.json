@@ -6,8 +6,8 @@ data:
   name: Perth
   yomi: パース
   stype: 3
-  ctype: 
-  cnum: 
+  ctype: 96
+  cnum: 1
   backs: 4
   after_lv: 45
   after_ship_id: 618
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: jcixsqhnwjqb
   file_version: ["51", "1", "1120"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [613]
+  book_sinfo: Perth級軽巡洋艦Perth、英国生まれ、オーストラリ<br>ア育ちです。<br>連合軍ABDA艦隊の一翼として、南方作戦で南下する<br>日本艦隊を迎撃しました。重巡Houstonと共に最後<br>の一撃を図りましたが…。護る気持ちは…一緒です。
   stats:
     taik: [29, 44]
     souk: [17, 32]
@@ -26,8 +26,8 @@ data:
     luck: [12, 55]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 33
+    tais: 15
     slot_num: 3
     max_eq: [1, 1, 1, 0, 0]
     after_fuel: 400

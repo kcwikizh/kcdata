@@ -7,7 +7,7 @@ data:
   name: Bofors 15cm連装速射砲 Mk.9改+単装速射砲 Mk.10改 Model 1938
   type: [1, 1, 2, 2, 0]
   rare: 4
-  broken: [0, 2, 3, 1]
+  broken: [0, 3, 4, 2]
   info: 
   usebull: 0
   cost: 
@@ -32,5 +32,5 @@ data:
     luck: 0
     leng: 2
   improvement: 
-  chinese_name:
+  chinese_name: 
 ---

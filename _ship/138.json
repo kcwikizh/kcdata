@@ -55,6 +55,6 @@ data:
     wed_b: [183, 193]
   wiki_id: "138"
   chinese_name: 能代
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---

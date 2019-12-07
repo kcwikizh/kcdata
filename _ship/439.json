@@ -55,6 +55,6 @@ data:
     wed_b: [144, 168]
   wiki_id: "239"
   chinese_name: 厌战
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

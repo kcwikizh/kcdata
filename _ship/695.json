@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 695
+  sort_no: 1495
+  name: 秋霜改
+  yomi: あきしも
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: qkkwxjiyhskr
+  file_version: ["51", "1", "1120"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [11, 50]
+    raig: [28, 80]
+    tyku: [15, 50]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [181, 187]
+    boko_d: [72, 280]
+    kaisyu_n: [27, 22]
+    kaisyu_d: [99, -43]
+    kaizo_n: [154, 58]
+    kaizo_d: [64, 103]
+    map_n: [193, 163]
+    map_d: [148, 240]
+    ensyuf_n: [171, 154]
+    ensyuf_d: [141, 220]
+    ensyue_n: [172, 0]
+    battle_n: [220, 178]
+    battle_d: [169, 238]
+    wed_a: [178, 13]
+    wed_b: [124, 154]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

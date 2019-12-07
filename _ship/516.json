@@ -55,6 +55,6 @@ data:
     wed_b: [153, 174]
   wiki_id: "313"
   chinese_name: 塔什干
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

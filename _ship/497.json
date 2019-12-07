@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: zeebmcpibdkn
-  file_version: ["42", "40", "1120"]
+  file_version: ["42", "41", "1127"]
   book_table_id: [497, 1087]
   book_sinfo: 初春型駆逐艦の次に開発された白露型の１番艦、白露<br>だよ！　そう、１番艦だよ、１番艦。<br>色々と改良された艦隊型駆逐艦なんだから！<br>え？慌ててタンカーと衝突しないようにって？大丈<br>夫！
   stats:
