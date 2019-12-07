@@ -6,8 +6,8 @@ data:
   name: De Ruyter
   yomi: デ・ロイテル
   stype: 3
-  ctype: 
-  cnum: 
+  ctype: 98
+  cnum: 1
   backs: 4
   after_lv: 50
   after_ship_id: 609
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: kskvawgvqhmy
   file_version: ["51", "1", "1120"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [604]
+  book_sinfo: オランダ生まれの軽巡洋艦、De Ruyterよ。<br>新型主砲と強力な対空機銃座を集中配備した新しいコ<br>ンセプトの軽巡として、当時のオランダ領東インドに<br>配備されたの。ABDA艦隊の旗艦として戦ったけど…<br>日本の重巡、あれはやばいわ…わかるわかる！
   stats:
     taik: [28, 43]
     souk: [15, 31]
@@ -26,8 +26,8 @@ data:
     luck: [9, 49]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 35
+    tais: 10
     slot_num: 3
     max_eq: [1, 1, 2, 0, 0]
     after_fuel: 360
@@ -55,6 +55,6 @@ data:
     wed_b: [73, 147]
   wiki_id: "399"
   chinese_name: 德·鲁伊特
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

@@ -6,8 +6,8 @@ data:
   name: Houston
   yomi: ヒューストン
   stype: 5
-  ctype: 
-  cnum: 
+  ctype: 95
+  cnum: 5
   backs: 6
   after_lv: 50
   after_ship_id: 600
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: hdmffrgvrgmm
   file_version: ["51", "1", "1120"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [595]
+  book_sinfo: アジア艦隊に配備されたNorthampton級重巡、<br>Houstonよ。<br>Perth、De Ruyter…彼女達と共にABDA艦隊として<br>戦ったの。私の記憶はバタビア沖が最後だけど……<br>その魂と名は、新型軽巡に継承されたわ。
   stats:
     taik: [43, 56]
     souk: [33, 47]
@@ -26,8 +26,8 @@ data:
     luck: [12, 55]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 36
+    tais: 0
     slot_num: 3
     max_eq: [1, 1, 4, 0, 0]
     after_fuel: 500
@@ -55,6 +55,6 @@ data:
     wed_b: [129, 162]
   wiki_id: "395"
   chinese_name: 休斯敦
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

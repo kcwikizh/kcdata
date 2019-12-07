@@ -55,6 +55,6 @@ data:
     wed_b: [204, 201]
   wiki_id: "224"
   chinese_name: 高波
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 570
+  sort_no: 370
+  name: 平戸
+  yomi: ひらと
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 48
+  after_ship_id: 684
+  get_mes: 司令、択捉型海防艦、平戸、参りました。<br>共にまいりましょう。心配しないで…今度は司令に<br>指一本触れさせません。今度は…。
+  voice_f: 1
+  filename: bschpthgnaof
+  file_version: ["51", "1", "1120"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [9, 18]
+    souk: [4, 16]
+    houg: [4, 18]
+    raig: [0, 0]
+    tyku: [7, 28]
+    luck: [11, 54]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 75
+    after_bull: 105
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 0, 0]
+    build_time: 14
+  graph:
+    boko_n: [55, 150]
+    boko_d: [178, 219]
+    kaisyu_n: [-4, -7]
+    kaisyu_d: [48, -61]
+    kaizo_n: [43, -4]
+    kaizo_d: [148, 31]
+    map_n: [85, 91]
+    map_d: [214, 156]
+    ensyuf_n: [79, 79]
+    ensyuf_d: [196, 115]
+    ensyue_n: [79, 0]
+    battle_n: [79, 114]
+    battle_d: [214, 165]
+    wed_a: [226, 109]
+    wed_b: [205, 171]
+  wiki_id: "370"
+  chinese_name: 平户
+  can_drop: false
+  can_construct: false
+---

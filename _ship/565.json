@@ -55,6 +55,6 @@ data:
     wed_b: [123, 204]
   wiki_id: "365"
   chinese_name: 福江
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

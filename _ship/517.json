@@ -55,6 +55,6 @@ data:
     wed_b: [150, 174]
   wiki_id: "317"
   chinese_name: 占守
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---
