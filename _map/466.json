@@ -1,0 +1,235 @@
+---
+layout: json
+order: 466
+data:
+  id: 466
+  name: ソロモン諸島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: D
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: I
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: K
+      to: M
+    14:
+      from: K
+      to: N
+    15:
+      from: N
+      to: O
+    16:
+      from: O
+      to: P
+    17:
+      from: C
+      to: D
+    18:
+      from: E
+      to: D
+    19:
+      from: F
+      to: D
+    20:
+      from: D
+      to: F
+    21:
+      from: F
+      to: I
+    22:
+      from: H
+      to: J
+    23:
+      from: J
+      to: K
+    24:
+      from: M
+      to: N
+    25:
+      from: L
+      to: Q
+    26:
+      from: L
+      to: R
+    27:
+      from: N
+      to: S
+    28:
+      from: L
+      to: T
+    29:
+      from: S
+      to: U
+    30:
+      from: R
+      to: V
+    31:
+      from: S
+      to: W
+    32:
+      from: Q
+      to: R
+    33:
+      from: K
+      to: X
+    34:
+      from: X
+      to: S
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 南方部隊 I群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海徹底海峡艦隊 ピケット部隊
+      type:
+      boss: false
+      routes: [4, 17, 18, 19]
+    E:
+      name: 深海鉄底海峡 リコリス航空隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海潜水艦隊 南方部隊 II群
+      type:
+      boss: false
+      routes: [6, 20]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海鉄底海峡 リコリス航空隊
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9, 21]
+    J:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [10, 22]
+    K:
+      name: 深海徹底海峡艦隊 前衛水雷戦隊
+      type:
+      boss: false
+      routes: [11, 23]
+    L:
+      name: 深海任務部隊 空母集団 II群
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 深海鉄底海峡 リコリス航空隊
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海徹底海峡艦隊 水上打撃群
+      type:
+      boss: false
+      routes: [14, 24]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 深海徹底海峡艦隊 遊弋部隊
+      type:
+      boss: false
+      routes: [16]
+    Q:
+      name: 深海任務部隊 空母集団 III群
+      type:
+      boss: false
+      routes: [25]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [26, 32]
+    S:
+      name: 深海徹底海峡艦隊 巡洋艦部隊
+      type:
+      boss: false
+      routes: [27, 34]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [28]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [29]
+    V:
+      name: 深海任務部隊 空母集団 I群
+      type:
+      boss: false
+      routes: [30]
+    W:
+      name: 深海徹底海峡艦隊 主力部隊旗艦
+      type:
+      boss: true
+      routes: [31]
+    X:
+      name: 
+      type:
+      boss: false
+      routes: [33]
+  image: MapHD46-6.png
+---
