@@ -14,7 +14,7 @@ data:
   get_mes: 占守型海防艦、その二番艦、国後。<br>何それ？　違うけど？　そうね、クナって…<br>呼んでもらってもいいけど。
   voice_f: 1
   filename: duclkhpiwzon
-  file_version: ["51", "1", "1120"]
+  file_version: ["51", "1", "114"]
   book_table_id: [518]
   book_sinfo: 占守型海防艦二番艦、国後よ。北方の護りは任せてよね。え、地味だろって。何それ！あの出撃の前に単冠湾の哨戒とか、大事な役割も務めたんだから。大湊を起点に、千島列島や宗谷海峡、津軽海峡など大切なところを守ったの。ねえ、聞いてる？最後は大切な大切なこと、頑張ったし。頑張ったよね、あたし！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [168, 168]
   wiki_id: "318"
   chinese_name: 国后
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

@@ -72,5 +72,65 @@ data:
             ship_id: 293
         - false
         - false
+    -
+      consume:
+        resource: [10, 60, 100, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [2, 4]
+            -
+              id: 4
+              amount: [2, 3]
+        slotitem:
+          - 
+          -
+            id: 119
+            amount: 1
+      upgrade:
+        id: 310
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [14, 48]
+            -
+              id: 4
+              amount: [8, 14]
+            -
+              id: 75
+              amount: 2
+          slotitem:
+            id: 139
+            amount: 1
+      day:
+        - false
+        - false
+        -
+          -
+            ship_id: 622
+          -
+            ship_id: 623
+          -
+            ship_id: 624
+        -
+          -
+            ship_id: 622
+          -
+            ship_id: 623
+          -
+            ship_id: 624
+        - false
+        - false
+        - false
   chinese_name: 14cm连装炮
 ---

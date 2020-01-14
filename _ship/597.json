@@ -6,17 +6,17 @@ data:
   name: Atlanta
   yomi: アトランタ
   stype: 3
-  ctype: 
-  cnum: 
+  ctype: 99
+  cnum: 1
   backs: 6
   after_lv: 50
   after_ship_id: 696
   get_mes: How is everything?<br>あたしは、Atlanta級防空巡洋艦、Atlanta。<br>Brooklyn生まれ。貴方、提督さん？　よろしくね。
   voice_f: 1
   filename: jzyxyckwrlww
-  file_version: ["51", "1", "1120"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "114"]
+  book_table_id: [597]
+  book_sinfo: あたし、Atlanta級軽巡、その一番艦、Atlanta。<br>防空巡洋艦Atlantaのほうが通りがいいかなあ。<br>そう。防空巡の代名詞的な対空火力で艦隊防空<br>やっちゃうから！…って、あ、ごめん、夜戦とかは<br>ちょっといいかな。ま、いいじゃない。よろしくね。
   stats:
     taik: [27, 41]
     souk: [15, 29]
@@ -26,8 +26,8 @@ data:
     luck: [17, 47]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 34
+    tais: 10
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 360

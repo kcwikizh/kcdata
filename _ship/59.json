@@ -14,7 +14,7 @@ data:
   get_mes: 古鷹と言います。<br>重巡洋艦のいいところ、たくさん知ってもらえると嬉しいです。
   voice_f: 0
   filename: sfbwblstvfmw
-  file_version: ["26", "15", "1120"]
+  file_version: ["26", "15", "114"]
   book_table_id: [59, 777, 1111]
   book_sinfo: 重巡洋艦、古鷹です。<br>三川提督率いる第８艦隊の一員として、第一次ソロモ<br>ン海戦では敵艦多数を撃破したんですよ！<br>これが、重巡なんです！
   stats:
