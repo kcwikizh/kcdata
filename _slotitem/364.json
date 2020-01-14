@@ -1,0 +1,36 @@
+---
+layout: json
+order: 364
+data:
+  id: 364
+  sort_no: 364
+  name: 甲標的 丁型改(蛟龍改)
+  type: [2, 4, 22, 5, 0]
+  rare: 4
+  broken: [4, 9, 12, 4]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 17
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

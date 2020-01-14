@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 624
+  sort_no: 424
+  name: 夕張改二丁
+  yomi: ゆうばり
+  stype: 3
+  ctype: 34
+  cnum: 1
+  backs: 7
+  after_lv: 88
+  after_ship_id: 622
+  get_mes: <br>
+  voice_f: 3
+  filename: ccjeljryazve
+  file_version: ["51", "2", "114"]
+  book_table_id: [624]
+  book_sinfo: コンパクトボディに充実の重武装を施した実験艦的存<br>在の軽巡、夕張です。私の残したデータが、様々な重<br>武装新鋭艦開発の元になったんだから！<br>機関室に一発？何いってんの？<br>ほんと…失礼しちゃうわ。
+  stats:
+    taik: [41, 55]
+    souk: [34, 64]
+    houg: [14, 56]
+    raig: [50, 80]
+    tyku: [48, 78]
+    luck: [30, 88]
+    soku: 10
+    leng: 1
+    kaih: 40
+    tais: 50
+    slot_num: 5
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 420
+    after_bull: 390
+    fuel_max: 30
+    bull_max: 40
+    broken: [2, 3, 8, 1]
+    pow_up: [1, 2, 2, 1]
+    build_time: 82
+  graph:
+    boko_n: [-16, 196]
+    boko_d: [64, 211]
+    kaisyu_n: [40, -40]
+    kaisyu_d: [64, -61]
+    kaizo_n: [-37, 76]
+    kaizo_d: [28, 69]
+    map_n: [22, 162]
+    map_d: [111, 187]
+    ensyuf_n: [-12, 156]
+    ensyuf_d: [75, 159]
+    ensyue_n: [-19, 0]
+    battle_n: [49, 199]
+    battle_d: [121, 201]
+    wed_a: [349, 4]
+    wed_b: [120, 172]
+  wiki_id: "424"
+  chinese_name: 夕张改二丁
+  can_drop: false
+  can_construct: false
+---

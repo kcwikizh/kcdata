@@ -8,7 +8,7 @@ data:
   description: 匠の職人の技によって完成<br>した冬の雪原を鎮守府内に<br>ダイナミックに再現した雪<br>原の床。家具職人の未知の<br>技術を結集した逸品です。
   rarity: 5
   price: 3300
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "023"
   file_version: 1
