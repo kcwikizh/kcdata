@@ -8,7 +8,7 @@ data:
   description: 小さくても緑の観葉植物が<br>戦いで疲れたココロを癒し<br>てくれます。
   rarity: 1
   price: 100
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
   file_version: 

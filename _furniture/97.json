@@ -8,7 +8,7 @@ data:
   description: 鎮守府のシンプルな窓枠を<br>艦娘たちが思い思いにデコ<br>レーション…手作りで飾っ<br>てくれました。冬の提督に<br>贈るハートフルな窓です。
   rarity: 3
   price: 1300
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "026"
   file_version: 2
