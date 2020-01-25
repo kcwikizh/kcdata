@@ -1,0 +1,31 @@
+{
+  "game_id": 326,
+  "wiki_id": "C24",
+  "category": 3,
+  "type": 1,
+  "name": "夏季大演習",
+  "detail": "夏季大演習：夏季期間の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！暑さに負けるな！　艦隊、抜錨！",
+  "reward_fuel": 0,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 1000,
+  "reward_other": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    },
+    {
+      "name": "プレゼント箱",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    303
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 8,
+    "victory": true,
+    "daily": true
+  }
+}
