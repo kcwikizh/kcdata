@@ -1,0 +1,36 @@
+---
+layout: json
+order: 359
+data:
+  id: 359
+  sort_no: 359
+  name: 6inch 連装速射砲 Mk.XXI
+  type: [1, 1, 2, 2, 0]
+  rare: 2
+  broken: [0, 2, 3, 1]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 5
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 3
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  improvement: 
+  chinese_name: 
+---

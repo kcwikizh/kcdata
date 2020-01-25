@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 596
+  sort_no: 396
+  name: Fletcher
+  yomi: フレッチャー
+  stype: 2
+  ctype: 91
+  cnum: 445
+  backs: 6
+  after_lv: 55
+  after_ship_id: 692
+  get_mes: お疲れさまです。Fletcher級駆逐艦ネームシップ、<br>Fletcher、着任しました。マザー、ですか？ いえいえ<br>そんな……。皆さんのお役に立てるよう、頑張ります！
+  voice_f: 1
+  filename: civubdsppvpf
+  file_version: ["51", "1", "114"]
+  book_table_id: [596, 692]
+  book_sinfo: 最も成功し、量産された駆逐艦、そのネームシップ<br>が私、Fletcher class destroyer USS Fletcherです。<br>姉妹の数は170隻を超えているの。まさにデファクト<br>スタンダード。<br>後に海上自衛隊にも配備されました。
+  stats:
+    taik: [18, 38]
+    souk: [7, 20]
+    houg: [12, 31]
+    raig: [20, 60]
+    tyku: [32, 62]
+    luck: [30, 89]
+    soku: 10
+    leng: 1
+    kaih: 45
+    tais: 50
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 180
+    after_bull: 270
+    fuel_max: 20
+    bull_max: 20
+    broken: [1, 2, 7, 2]
+    pow_up: [1, 1, 2, 1]
+    build_time: 23
+  graph:
+    boko_n: [19, 241]
+    boko_d: [103, 304]
+    kaisyu_n: [19, -27]
+    kaisyu_d: [49, -16]
+    kaizo_n: [6, 106]
+    kaizo_d: [88, 151]
+    map_n: [4, 213]
+    map_d: [118, 214]
+    ensyuf_n: [34, 196]
+    ensyuf_d: [150, 207]
+    ensyue_n: [40, 0]
+    battle_n: [67, 216]
+    battle_d: [163, 235]
+    wed_a: [289, -4]
+    wed_b: [165, 145]
+  wiki_id: "396"
+  chinese_name: 弗莱彻
+  can_drop: true
+  can_construct: false
+---

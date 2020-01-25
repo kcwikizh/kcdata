@@ -14,7 +14,7 @@ data:
   get_mes: 名取といいます。<br>ご迷惑をおかけしないように、が、頑張ります。
   voice_f: 0
   filename: bqwjdltjktls
-  file_version: ["11", "3", "327"]
+  file_version: ["13", "3", "114"]
   book_table_id: [53, 221, 945]
   book_sinfo: 長良型３番艦の名取です。<br>ちょっと古いモデルっていわれるけれど、高速軽巡洋艦として使い方はあるはず…<br>そ、そう、水雷戦隊には、ぜひ配属してくださいね。<br>が、頑張りますから！
   stats:
@@ -38,17 +38,17 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 60
   graph:
-    boko_n: [-19, 103]
-    boko_d: [-39, 138]
-    kaisyu_n: [31, 30]
-    kaisyu_d: [42, 10]
-    kaizo_n: [-102, 21]
+    boko_n: [-96, 100]
+    boko_d: [-108, 100]
+    kaisyu_n: [16, 16]
+    kaisyu_d: [49, 24]
+    kaizo_n: [-97, -9]
     kaizo_d: [-126, -40]
-    map_n: [-120, 105]
-    map_d: [-115, 115]
-    ensyuf_n: [-46, 106]
-    ensyuf_d: [-64, 18]
-    ensyue_n: [-46, 0]
+    map_n: [-106, 72]
+    map_d: [-102, 70]
+    ensyuf_n: [-61, 85]
+    ensyuf_d: [-61, 82]
+    ensyue_n: [-76, 0]
     battle_n: [-108, 75]
     battle_d: [-108, 75]
     wed_a: [387, 88]

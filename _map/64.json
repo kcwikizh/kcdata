@@ -1,0 +1,149 @@
+---
+layout: json
+order: 64
+data:
+  id: 64
+  name: 中部北海域ピーコック島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: D
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: A
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: K
+      to: H
+    9:
+      from: J
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: M
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: 2
+      to: M
+    14:
+      from: F
+      to: N
+    15:
+      from: B
+      to: D
+    16:
+      from: E
+      to: D
+    17:
+      from: G
+      to: D
+    18:
+      from: K
+      to: J
+    19:
+      from: L
+      to: I
+    20:
+      from: I
+      to: N
+    21:
+      from: J
+      to: N
+    22:
+      from: null
+      to: 2
+  cells:
+    A:
+      name: 中部海域哨戒水雷戦隊 A群
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 中部海域哨戒水雷戦隊 B群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 離島防衛低速戦艦部隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 離島陸上航空隊
+      type:
+      boss: false
+      routes: [4, 15, 16, 17]
+    E:
+      name: 中部海域哨戒遊撃部隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 離島陸上航空隊
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 離島陸上航空隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 離島防衛低速戦艦部隊
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 離島混成航空隊
+      type:
+      boss: false
+      routes: [9, 19]
+    J:
+      name: 任務部隊 I群
+      type:
+      boss: false
+      routes: [10, 18]
+    K:
+      name: 任務部隊 II群
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 増援護衛空母部隊
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 中部海域潜水哨戒線
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 離島守備隊
+      type:
+      boss: true
+      routes: [14, 20, 21]
+  image: MapHD6-4.png
+---

@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 379
+  sort_no: 1459
+  name: 石垣改
+  yomi: いしがき
+  stype: 1
+  ctype: 74
+  cnum: 4
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: yiykqidsvqxh
+  file_version: ["1", "1", "114"]
+  book_table_id: [585]
+  book_sinfo: 占守型海防艦、石垣です。<br>北方の海の護りに就きました…。<br>大湊、幌筵などを拠点に北方の船団の護衛、対潜哨<br>戒、警備や救難活動にも務めたの。敵潜水艦はやっか<br>いなもの…沈められる時に沈めないと…。頑張ります<br>…見ていて…ください…。
+  stats:
+    taik: [17, 28]
+    souk: [7, 33]
+    houg: [5, 37]
+    raig: [0, 0]
+    tyku: [10, 52]
+    luck: [10, 59]
+    soku: 5
+    leng: 1
+    kaih: 41
+    tais: 32
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [199, 262]
+    boko_d: [178, 306]
+    kaisyu_n: [19, 10]
+    kaisyu_d: [52, -30]
+    kaizo_n: [186, 115]
+    kaizo_d: [180, 124]
+    map_n: [204, 199]
+    map_d: [190, 204]
+    ensyuf_n: [205, 190]
+    ensyuf_d: [175, 204]
+    ensyue_n: [205, 0]
+    battle_n: [216, 222]
+    battle_d: [208, 240]
+    wed_a: [127, -18]
+    wed_b: [157, 154]
+  wiki_id: "385a"
+  chinese_name: 石垣改
+  can_drop: false
+  can_construct: false
+---

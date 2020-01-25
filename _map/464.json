@@ -1,0 +1,195 @@
+---
+layout: json
+order: 464
+data:
+  id: 464
+  name: バタビア沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: 2
+      to: F
+    7:
+      from: C
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: G
+      to: K
+    12:
+      from: G
+      to: L
+    13:
+      from: J
+      to: M
+    14:
+      from: M
+      to: N
+    15:
+      from: N
+      to: O
+    16:
+      from: N
+      to: P
+    17:
+      from: B
+      to: C
+    18:
+      from: D
+      to: C
+    19:
+      from: E
+      to: G
+    20:
+      from: F
+      to: G
+    21:
+      from: I
+      to: J
+    22:
+      from: 2
+      to: K
+    23:
+      from: K
+      to: L
+    24:
+      from: L
+      to: M
+    25:
+      from: null
+      to: 2
+    26:
+      from: A
+      to: Q
+    27:
+      from: N
+      to: R
+    28:
+      from: R
+      to: S
+    29:
+      from: Q
+      to: G
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 増援部隊IV群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海スラバヤ緊急増派 水雷戦隊
+      type:
+      boss: false
+      routes: [3, 17, 18]
+    D:
+      name: 深海基地航空隊
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海東方艦隊 緊急増派部隊II群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海潜水艦隊 増援部隊II群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海合同艦隊 巡洋艦戦隊II群
+      type:
+      boss: false
+      routes: [7, 19, 20, 29]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10, 21]
+    K:
+      name: 深海潜水艦隊 増援部隊I群
+      type:
+      boss: false
+      routes: [11, 22]
+    L:
+      name: 深海バタビア哨戒線
+      type:
+      boss: false
+      routes: [12, 23]
+    M:
+      name: 深海合同艦隊 巡洋艦戦隊I群
+      type:
+      boss: false
+      routes: [13, 24]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 深海バタビア方面緊急増派艦隊
+      type:
+      boss: false
+      routes: [16]
+    Q:
+      name: 深海潜水艦隊 増援部隊III群
+      type:
+      boss: false
+      routes: [26]
+    R:
+      name: 深海艦載機群
+      type:
+      boss: false
+      routes: [27]
+    S:
+      name: 深海バタビア合同艦隊 旗艦艦隊
+      type:
+      boss: true
+      routes: [28]
+  image: MapHDE-4Autumn2019.png
+---

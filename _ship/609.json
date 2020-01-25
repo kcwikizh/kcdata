@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 609
+  sort_no: 1494
+  name: De Ruyter改
+  yomi: デ・ロイテル
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 3
+  filename: yyvbmzcmbxuw
+  file_version: ["54", "1", "114"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [43, 60]
+    souk: [29, 67]
+    houg: [29, 70]
+    raig: [0, 60]
+    tyku: [25, 75]
+    luck: [10, 57]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [1, 2, 2, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 40
+    broken: [3, 5, 13, 1]
+    pow_up: [1, 0, 1, 2]
+    build_time: 60
+  graph:
+    boko_n: [217, 223]
+    boko_d: [217, 223]
+    kaisyu_n: [46, -31]
+    kaisyu_d: [81, -18]
+    kaizo_n: [223, 97]
+    kaizo_d: [208, 63]
+    map_n: [252, 195]
+    map_d: [252, 195]
+    ensyuf_n: [244, 195]
+    ensyuf_d: [244, 195]
+    ensyue_n: [226, 0]
+    battle_n: [312, 217]
+    battle_d: [312, 217]
+    wed_a: [37, -28]
+    wed_b: [120, 166]
+  wiki_id: "399a"
+  chinese_name: 德·鲁伊特改
+  can_drop: false
+  can_construct: false
+---

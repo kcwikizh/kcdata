@@ -15,4 +15,8 @@ collections:
     output: true
   equiptype:
     output: true
+  maparea:
+    output: true
+  map:
+    output: true
 exclude: ['scripts/']

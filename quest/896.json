@@ -1,0 +1,52 @@
+{
+  "game_id": 896,
+  "wiki_id": "B131",
+  "category": 2,
+  "type": 1,
+  "name": "航空戦艦戦隊、戦闘哨戒！",
+  "detail": "航空戦艦二隻を中核とする艦隊を編成、同艦隊で南西諸島防衛線、鎮守府近海及び東部オリョール海、タウイタウイ泊地沖に展開。同海域の脅威となる敵艦隊主力を捕捉、これを撃滅せよ！",
+  "reward_fuel": 600,
+  "reward_ammo": 600,
+  "reward_steel": 0,
+  "reward_bauxite": 600,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "戦闘詳報",
+          "amount": 1
+        },
+        {
+          "name": "勲章",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "勲章",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    112,
+    606
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "1-4",
+      "1-5",
+      "2-3",
+      "7-2-P2"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": "航空戦艦",
+        "amount": 2
+      }
+    ]
+  }
+}

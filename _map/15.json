@@ -1,0 +1,99 @@
+---
+layout: json
+order: 15
+data:
+  id: 15
+  name: 鎮守府近海
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: C
+      to: B
+    3:
+      from: E
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: C
+      to: J
+    11:
+      from: E
+      to: J
+    12:
+      from: G
+      to: J
+  cells:
+    A:
+      name: 敵偵察潜水艦
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵通商破壊高速水上艦隊 A群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 敵潜水艦隊B群
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 敵潜水艦隊C群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 敵潜水艦隊A群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 敵通商破壊高速水上艦隊 B群
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 敵侵攻機動部隊
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 敵通商破壊主力潜水艦隊
+      type:
+      boss: true
+      routes: [10, 11, 12]
+  image: MapHD1-5.png
+---

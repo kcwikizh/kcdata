@@ -1,0 +1,279 @@
+---
+layout: json
+order: 444
+data:
+  id: 444
+  name: 北太平洋ハワイ諸島戦域
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: 2
+      to: E
+    6:
+      from: B
+      to: F
+    7:
+      from: C
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: C
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: H
+      to: K
+    12:
+      from: I
+      to: L
+    13:
+      from: H
+      to: M
+    14:
+      from: K
+      to: N
+    15:
+      from: J
+      to: O
+    16:
+      from: M
+      to: P
+    17:
+      from: L
+      to: Q
+    18:
+      from: O
+      to: R
+    19:
+      from: N
+      to: S
+    20:
+      from: Q
+      to: T
+    21:
+      from: R
+      to: U
+    22:
+      from: O
+      to: V
+    23:
+      from: D
+      to: G
+    24:
+      from: F
+      to: H
+    25:
+      from: G
+      to: I
+    26:
+      from: I
+      to: J
+    27:
+      from: J
+      to: L
+    28:
+      from: L
+      to: O
+    29:
+      from: Q
+      to: O
+    30:
+      from: R
+      to: O
+    31:
+      from: S
+      to: O
+    32:
+      from: N
+      to: P
+    33:
+      from: S
+      to: R
+    34:
+      from: P
+      to: S
+    35:
+      from: R
+      to: S
+    36:
+      from: S
+      to: U
+    37:
+      from: R
+      to: V
+    38:
+      from: null
+      to: 2
+    39:
+      from: 3
+      to: W
+    40:
+      from: W
+      to: X
+    41:
+      from: X
+      to: Y
+    42:
+      from: 3
+      to: X
+    43:
+      from: W
+      to: K
+    44:
+      from: X
+      to: K
+    45:
+      from: Y
+      to: O
+    46:
+      from: Y
+      to: S
+    47:
+      from: null
+      to: 3
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海太平洋潜水艦隊 B群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海太平洋潜水艦隊 C群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海機動部隊A群 艦載機群
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海太平洋潜水艦隊 D群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海太平洋中枢泊地 航空隊
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海機動部隊A群 随伴護衛部隊
+      type:
+      boss: false
+      routes: [7, 23]
+    H:
+      name: 深海太平洋中枢艦隊 前衛展開群
+      type:
+      boss: false
+      routes: [8, 24]
+    I:
+      name: 深海太平洋潜水艦隊 A群
+      type:
+      boss: false
+      routes: [9, 25]
+    J:
+      name: 深海機動部隊A群 主隊
+      type:
+      boss: false
+      routes: [10, 26]
+    K:
+      name: 深海機動部隊B群 艦載機群
+      type:
+      boss: false
+      routes: [11, 43, 44]
+    L:
+      name: 深海太平洋中枢泊地 航空隊
+      type:
+      boss: false
+      routes: [12, 27]
+    M:
+      name: 深海機動部隊B群 艦載機群
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海太平洋中枢艦隊 遊撃部隊
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 深海太平洋中枢泊地 駐留艦隊
+      type:
+      boss: false
+      routes: [15, 28, 29, 30, 31, 45]
+    P:
+      name: 深海機動部隊B群 随伴護衛部隊
+      type:
+      boss: false
+      routes: [16, 32]
+    Q:
+      name: 深海太平洋兵站輸送部隊 護衛群
+      type:
+      boss: false
+      routes: [17]
+    R:
+      name: 深海太平洋中枢泊地 航空隊
+      type:
+      boss: false
+      routes: [18, 33]
+    S:
+      name: 深海機動部隊B群 主隊
+      type:
+      boss: false
+      routes: [19, 34, 35, 46]
+    T:
+      name: 深海太平洋兵站輸送部隊
+      type:
+      boss: false
+      routes: [20]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [21, 36]
+    V:
+      name: 深海太平洋中枢泊地 占領司令部
+      type:
+      boss: true
+      routes: [22, 37]
+    W:
+      name: 深海太平洋潜水艦隊 緊急展開群
+      type:
+      boss: false
+      routes: [39]
+    X:
+      name: 深海太平洋中枢泊地 任務部隊群
+      type:
+      boss: false
+      routes: [40, 42]
+    Y:
+      name: 深海太平洋中枢泊地 航空隊
+      type:
+      boss: false
+      routes: [41]
+  image: MapHD44-4.png
+---

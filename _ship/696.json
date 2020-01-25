@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 696
+  sort_no: 1496
+  name: Atlanta改
+  yomi: アトランタ
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: llsrcbuznpkj
+  file_version: ["51", "1", "114"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [41, 59]
+    souk: [27, 61]
+    houg: [18, 64]
+    raig: [22, 70]
+    tyku: [82, 128]
+    luck: [18, 58]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 60
+    broken: [3, 5, 12, 3]
+    pow_up: [1, 1, 4, 1]
+    build_time: 60
+  graph:
+    boko_n: [-117, 133]
+    boko_d: [102, 307]
+    kaisyu_n: [4, -31]
+    kaisyu_d: [46, -67]
+    kaizo_n: [-103, -3]
+    kaizo_d: [111, 135]
+    map_n: [-93, 106]
+    map_d: [121, 246]
+    ensyuf_n: [-100, 112]
+    ensyuf_d: [138, 207]
+    ensyue_n: [-127, 0]
+    battle_n: [-46, 115]
+    battle_d: [165, 255]
+    wed_a: [436, 55]
+    wed_b: [106, 151]
+  wiki_id: "397a"
+  chinese_name: 亚特兰大改
+  can_drop: false
+  can_construct: false
+---

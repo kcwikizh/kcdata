@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 621
+  sort_no: 421
+  name: 神州丸
+  yomi: しんしゅうまる
+  stype: 17
+  ctype: 97
+  cnum: 1
+  backs: 6
+  after_lv: 48
+  after_ship_id: 626
+  get_mes: 陸軍特種船「神州丸」です。<br>統合的な上陸戦力を投射できる本格的な強襲揚陸艦の<br>先駆けとして建造されました。揚陸作戦はお任せください。
+  voice_f: 1
+  filename: dgnhxfrunaud
+  file_version: ["51", "1", "114"]
+  book_table_id: [621]
+  book_sinfo: 日本陸軍が建造した本格的な上陸用船艇母艦、現代で<br>いう強襲揚陸艦、その一番艦、神州丸です。完全武装<br>した陸戦部隊を載せた大発動艇などを満載、その泛水<br>装備で連続発進が可能です。緒戦の上陸戦、そして末<br>期の輸送作戦でも奮闘しました。提督殿、覚えていて<br>くださいね。
+  stats:
+    taik: [37, 49]
+    souk: [9, 35]
+    houg: [5, 22]
+    raig: [0, 0]
+    tyku: [10, 32]
+    luck: [14, 54]
+    soku: 5
+    leng: 1
+    kaih: 13
+    tais: 20
+    slot_num: 3
+    max_eq: [2, 2, 8, 0, 0]
+    after_fuel: 600
+    after_bull: 120
+    fuel_max: 35
+    bull_max: 5
+    broken: [2, 3, 11, 2]
+    pow_up: [1, 0, 0, 1]
+    build_time: 150
+  graph:
+    boko_n: [10, 172]
+    boko_d: [132, 178]
+    kaisyu_n: [16, -34]
+    kaisyu_d: [88, -31]
+    kaizo_n: [40, 63]
+    kaizo_d: [139, 46]
+    map_n: [42, 121]
+    map_d: [183, 166]
+    ensyuf_n: [37, 127]
+    ensyuf_d: [148, 144]
+    ensyue_n: [28, 0]
+    battle_n: [76, 160]
+    battle_d: [169, 148]
+    wed_a: [279, 66]
+    wed_b: [130, 127]
+  wiki_id: "421"
+  chinese_name: 神州丸
+  can_drop: false
+  can_construct: false
+---

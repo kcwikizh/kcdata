@@ -1,0 +1,156 @@
+---
+layout: json
+order: 24
+data:
+  id: 24
+  name: 沖ノ島海域
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: F
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: E
+      to: D
+    5:
+      from: I
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: B
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: I
+      to: K
+    12:
+      from: H
+      to: L
+    13:
+      from: J
+      to: M
+    14:
+      from: K
+      to: N
+    15:
+      from: K
+      to: O
+    16:
+      from: L
+      to: P
+    17:
+      from: C
+      to: G
+    18:
+      from: J
+      to: L
+    19:
+      from: K
+      to: L
+    20:
+      from: L
+      to: M
+    21:
+      from: M
+      to: P
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 敵前衛巡洋艦戦隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 敵侵攻高速軽快部隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 前衛機動部隊
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7, 17]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 敵精鋭水雷戦隊
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 敵機動部隊 B群
+      type:
+      boss: false
+      routes: [12, 18, 19]
+    M:
+      name: 敵機動部隊 A群
+      type:
+      boss: false
+      routes: [13, 20]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 敵侵攻中核水上打撃部隊
+      type:
+      boss: true
+      routes: [16, 21]
+  image: MapHD2-4.png
+---

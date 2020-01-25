@@ -64,9 +64,7 @@ data:
             ship_id: 88
         - false
         - false
-        -
-          -
-            ship_id: 554
+        - false
         - false
         -
           -

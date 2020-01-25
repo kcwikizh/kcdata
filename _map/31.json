@@ -1,0 +1,75 @@
+---
+layout: json
+order: 31
+data:
+  id: 31
+  name: モーレイ海
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: B
+      to: A
+    2:
+      from: C
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: D
+      to: G
+    8:
+      from: D
+      to: F
+    9:
+      from: F
+      to: G
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 敵哨戒艦隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵通商破壊侵入水雷戦隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 敵北方支援任務部隊
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 敵北方任務部隊
+      type:
+      boss: false
+      routes: [6, 8]
+    G:
+      name: 敵北方侵攻艦隊
+      type:
+      boss: true
+      routes: [7, 9]
+  image: MapHD3-1.png
+---

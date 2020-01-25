@@ -1,0 +1,6 @@
+---
+---
+[
+  {% assign areas = site.maparea | sort: "order" %}{% for area in areas %}{{ area.data | jsonify }}{% unless forloop.last %},
+  {% endunless %}{% endfor %}
+]

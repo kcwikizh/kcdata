@@ -8,7 +8,7 @@ data:
   description: 冬の季節にぴったりの白を<br>基調としたシンプルな床板<br>と床暖マット。クリスマス<br>ツリーを飾るも良し、机を<br>置いて執務に励むも良し！
   rarity: 3
   price: 1500
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

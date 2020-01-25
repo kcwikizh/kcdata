@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 626
+  sort_no: 426
+  name: 神州丸改
+  yomi: しんしゅうまる
+  stype: 17
+  ctype: 97
+  cnum: 1
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: aslhofbqgbvf
+  file_version: ["51", "1", "114"]
+  book_table_id: [626]
+  book_sinfo: 日本陸軍が建造した本格的な上陸用船艇母艦、現代で<br>いう強襲揚陸艦、その一番艦、神州丸です。完全武装<br>した陸戦部隊を載せた大発動艇などを満載、その泛水<br>装備で連続発進が可能です。緒戦の上陸戦、そして末<br>期の輸送作戦でも奮闘しました。提督殿、覚えていて<br>くださいね。
+  stats:
+    taik: [39, 58]
+    souk: [12, 45]
+    houg: [6, 35]
+    raig: [0, 0]
+    tyku: [12, 44]
+    luck: [18, 68]
+    soku: 5
+    leng: 1
+    kaih: 14
+    tais: 30
+    slot_num: 4
+    max_eq: [2, 2, 4, 8, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 40
+    bull_max: 20
+    broken: [2, 3, 12, 3]
+    pow_up: [1, 0, 1, 1]
+    build_time: 150
+  graph:
+    boko_n: [10, 172]
+    boko_d: [132, 178]
+    kaisyu_n: [16, -34]
+    kaisyu_d: [88, -31]
+    kaizo_n: [40, 63]
+    kaizo_d: [139, 46]
+    map_n: [42, 121]
+    map_d: [183, 166]
+    ensyuf_n: [37, 127]
+    ensyuf_d: [148, 144]
+    ensyue_n: [28, 0]
+    battle_n: [76, 160]
+    battle_d: [169, 148]
+    wed_a: [279, 66]
+    wed_b: [130, 127]
+  wiki_id: "426"
+  chinese_name: 神州丸改
+  can_drop: false
+  can_construct: false
+---

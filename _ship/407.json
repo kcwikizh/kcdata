@@ -14,15 +14,15 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: fsgwccpesgfh
-  file_version: ["42", "26", "327"]
+  file_version: ["48", "29", "114"]
   book_table_id: [407, 925, 953, 969, 812]
   book_sinfo: 綾波型１０番艦の潮です。<br>レイテ沖海戦などの激戦を潜り抜け、運命のあの日、横須賀で御役目を終えるまで戦い抜きました。<br>あ、あの…沈めた敵艦の皆さんも…ホントはお助けしたいのです。ホントです！
   stats:
     taik: [33, 53]
     souk: [15, 56]
-    houg: [10, 55]
+    houg: [10, 57]
     raig: [25, 80]
-    tyku: [24, 76]
+    tyku: [24, 78]
     luck: [32, 83]
     soku: 10
     leng: 1

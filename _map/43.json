@@ -1,0 +1,149 @@
+---
+layout: json
+order: 43
+data:
+  id: 43
+  name: リランカ島
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: 1
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: B
+      to: G
+    8:
+      from: D
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: F
+      to: K
+    12:
+      from: K
+      to: L
+    13:
+      from: L
+      to: M
+    14:
+      from: H
+      to: N
+    15:
+      from: A
+      to: D
+    16:
+      from: C
+      to: D
+    17:
+      from: E
+      to: G
+    18:
+      from: F
+      to: H
+    19:
+      from: G
+      to: H
+    20:
+      from: H
+      to: I
+    21:
+      from: K
+      to: N
+    22:
+      from: L
+      to: N
+  cells:
+    A:
+      name: 敵東方潜水艦隊 哨戒分遣集団
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵東方潜水艦隊 哨戒主力集団
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 敵東方哨戒艦隊 B群
+      type:
+      boss: false
+      routes: [4, 15, 16]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 敵東方空母機動部隊
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 敵東方哨戒艦隊 A群
+      type:
+      boss: false
+      routes: [7, 17]
+    H:
+      name: 敵東方空母機動部隊 分遣群
+      type:
+      boss: false
+      routes: [8, 18, 19]
+    I:
+      name: 敵東方艦隊 増援戦艦部隊
+      type:
+      boss: false
+      routes: [9, 20]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 敵哨戒艦隊
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 敵東方港湾基地
+      type:
+      boss: true
+      routes: [14, 21, 22]
+  image: MapHD4-3.png
+---

@@ -17,8 +17,7 @@
     }
   ],
   "prerequisite": [
-    695,
-    897
+    695
   ],
   "requirements": {
     "category": "modelconversion",

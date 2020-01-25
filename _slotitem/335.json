@@ -1,0 +1,36 @@
+---
+layout: json
+order: 335
+data:
+  id: 335
+  sort_no: 335
+  name: 烈風改(試製艦載型)
+  type: [3, 5, 6, 6, 34]
+  rare: 4
+  broken: [3, 4, 0, 9]
+  info: 名機「零戦」の後継機として開発された、最新鋭艦上戦闘機「烈風」。同機をベースに開発が計画されていた高高度で重爆を邀撃するための新型戦闘機、排気タービン過給器、そして30mm機銃を斜め銃含めて計8挺を装備した圧倒的火力を持つ重武装局地戦闘機「烈風改」。本来局地戦闘機である同機に、空母運用のための各装備を施したif艦載型の「烈風改」です。
+  usebull: 0
+  cost: 10
+  distance: 4
+  stats:
+    taik: 0
+    souk: 1
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 10
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name: 
+---

@@ -1,0 +1,279 @@
+---
+layout: json
+order: 442
+data:
+  id: 442
+  name: 九州南部/南西諸島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: D
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: D
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: K
+      to: L
+    13:
+      from: K
+      to: M
+    14:
+      from: C
+      to: D
+    15:
+      from: F
+      to: I
+    16:
+      from: G
+      to: I
+    17:
+      from: H
+      to: J
+    18:
+      from: I
+      to: J
+    19:
+      from: 2
+      to: N
+    20:
+      from: N
+      to: O1
+    21:
+      from: O1
+      to: O2
+    22:
+      from: O2
+      to: O3
+    23:
+      from: O1
+      to: P1
+    24:
+      from: O2
+      to: P2
+    25:
+      from: O3
+      to: P3
+    26:
+      from: P1
+      to: Q1
+    27:
+      from: P2
+      to: Q2
+    28:
+      from: P3
+      to: Q3
+    29:
+      from: Q2
+      to: R
+    30:
+      from: Q3
+      to: S
+    31:
+      from: H
+      to: T
+    32:
+      from: T
+      to: U
+    33:
+      from: T
+      to: V
+    34:
+      from: Q1
+      to: E
+    35:
+      from: R
+      to: E
+    36:
+      from: R
+      to: H
+    37:
+      from: Q1
+      to: Q2
+    38:
+      from: R
+      to: Q3
+    39:
+      from: Q3
+      to: R
+    40:
+      from: R
+      to: S
+    41:
+      from: S
+      to: T
+    42:
+      from: null
+      to: 2
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 任務部隊 外周ピケット艦隊 A群
+      type:
+      boss: false
+      routes: [4, 14]
+    E:
+      name: 任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [5, 34, 35]
+    F:
+      name: 任務部隊 外周ピケット艦隊 B群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海任務部隊 別働群
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海任務部隊 護衛集団II群
+      type:
+      boss: false
+      routes: [8, 36]
+    I:
+      name: 深海潜水艦隊 通商破壊集団
+      type:
+      boss: false
+      routes: [9, 15, 16]
+    J:
+      name: 攻略部隊 前衛護衛水雷戦隊
+      type:
+      boss: false
+      routes: [10, 17, 18]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 深海攻略部隊 主力集団
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海潜水艦隊 前進哨戒線
+      type:
+      boss: false
+      routes: [19]
+    O1:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    O2:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    O3:
+      name: 任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [22]
+    P1:
+      name: 任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [23]
+    P2:
+      name: 任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [24]
+    P3:
+      name: 深海潜水艦隊 精鋭部隊
+      type:
+      boss: false
+      routes: [25]
+    Q1:
+      name: 任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [26]
+    Q2:
+      name: 任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [27, 37]
+    Q3:
+      name: 任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [28, 38]
+    R:
+      name: 任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [29, 39]
+    S:
+      name: 深海任務部隊 護衛集団II群
+      type:
+      boss: false
+      routes: [30, 40]
+    T:
+      name: 深海任務部隊 戦艦戦隊
+      type:
+      boss: false
+      routes: [31, 41]
+    U:
+      name: 深海任務部隊 侵攻旗艦艦隊
+      type:
+      boss: true
+      routes: [32]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [33]
+  image: MapHD44-2.png
+---

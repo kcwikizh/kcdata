@@ -14,13 +14,13 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: jcrdsdpsjcgj
-  file_version: ["14", "25", "327"]
+  file_version: ["14", "25", "114"]
   book_table_id: [427]
   book_sinfo: 高雄型の４番艦、鳥海です。<br>マレー、ソロモン、マリアナ、レイテと数々の作戦に参加しました。<br>鳥海の名は、現在、海自のイージス護衛艦、その4番艦に受け継がれています。
   stats:
     taik: [57, 72]
     souk: [46, 78]
-    houg: [55, 85]
+    houg: [55, 86]
     raig: [35, 86]
     tyku: [24, 70]
     luck: [19, 68]

@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 611
+  sort_no: 411
+  name: 御蔵
+  yomi: みくら
+  stype: 1
+  ctype: 94
+  cnum: 1
+  backs: 4
+  after_lv: 45
+  after_ship_id: 616
+  get_mes: 御蔵型海防艦、一番艦、御蔵。着任します。<br>提督、御蔵型、何卒よろしくお願い致します。<br>体は小さいですが、力の限り、務めます。
+  voice_f: 1
+  filename: qzvbtpknefns
+  file_version: ["51", "1", "114"]
+  book_table_id: [611]
+  book_sinfo: 御蔵型海防艦、一番艦、御蔵です。択捉型を改良、生<br>産性及び対空・対潜能力の向上を図りました。大きく<br>工数は下げられなかったものの、船団護衛戦闘力は向<br>上しています。あの択捉型の後継、御蔵型海防艦の<br>戦い、覚えていて下さい。
+  stats:
+    taik: [9, 18]
+    souk: [4, 16]
+    houg: [4, 17]
+    raig: [0, 0]
+    tyku: [9, 36]
+    luck: [12, 59]
+    soku: 5
+    leng: 1
+    kaih: 40
+    tais: 40
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 90
+    after_bull: 175
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 0, 0]
+    build_time: 14
+  graph:
+    boko_n: [67, 217]
+    boko_d: [45, 277]
+    kaisyu_n: [4, -31]
+    kaisyu_d: [70, -15]
+    kaizo_n: [55, 76]
+    kaizo_d: [66, 75]
+    map_n: [75, 121]
+    map_d: [133, 195]
+    ensyuf_n: [52, 130]
+    ensyuf_d: [72, 183]
+    ensyue_n: [78, 0]
+    battle_n: [81, 198]
+    battle_d: [76, 250]
+    wed_a: [259, 33]
+    wed_b: [160, 163]
+  wiki_id: "411"
+  chinese_name: 御藏
+  can_drop: true
+  can_construct: false
+---

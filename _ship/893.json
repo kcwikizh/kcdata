@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 893
-  sort_no: 0
-  name: 梅雨夕張
-  yomi: ゆうばり
-  stype: 3
+  sort_no: 1493
+  name: Janus改
+  yomi: ジェーナス
+  stype: 2
   ctype: 
   cnum: 
-  backs: 
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: fdofylyxdhur
-  file_version: ["1", "1", "1"]
+  get_mes: <br>
+  voice_f: 3
+  filename: eqyyuwawergl
+  file_version: ["51", "1", "114"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
+    taik: [31, 47]
+    souk: [15, 50]
+    houg: [14, 53]
+    raig: [40, 90]
+    tyku: [30, 72]
+    luck: [22, 87]
     soku: 10
-    leng: 
+    leng: 1
     kaih: 
     tais: 
     slot_num: 3
-    max_eq: 
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 25
+    broken: [1, 2, 10, 1]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
   graph:
-    boko_n: [108, 216]
-    boko_d: [108, 216]
-    kaisyu_n: [43, 15]
-    kaisyu_d: [67, 28]
-    kaizo_n: [6, 132]
-    kaizo_d: [-9, 97]
-    map_n: [24, 174]
-    map_d: [24, 174]
-    ensyuf_n: [-12, 186]
-    ensyuf_d: [-12, 186]
-    ensyue_n: [0, 0]
-    battle_n: [30, 192]
-    battle_d: [30, 192]
-    wed_a: [330, 12]
-    wed_b: [126, 156]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [67, 237]
+    boko_d: [72, 294]
+    kaisyu_n: [37, -4]
+    kaisyu_d: [52, -16]
+    kaizo_n: [91, 73]
+    kaizo_d: [97, 79]
+    map_n: [102, 178]
+    map_d: [91, 207]
+    ensyuf_n: [91, 178]
+    ensyuf_d: [93, 211]
+    ensyue_n: [106, 0]
+    battle_n: [157, 207]
+    battle_d: [124, 247]
+    wed_a: [223, 3]
+    wed_b: [162, 138]
+  wiki_id: "320a"
+  chinese_name: 雅努斯改
   can_drop: false
   can_construct: false
 ---

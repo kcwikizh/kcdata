@@ -14,7 +14,7 @@ data:
   get_mes: 軽巡矢矧、着任したわ。<br>提督、最後まで頑張っていきましょう！
   voice_f: 3
   filename: hmivswfdmdem
-  file_version: ["11", "11", "327"]
+  file_version: ["11", "13", "114"]
   book_table_id: [139, 1025]
   book_sinfo: 阿賀野型軽巡の三番艦、矢矧よ。<br>マリアナ、レイテ、坊ノ岬と、後半の大きな海戦には殆ど参加したわ。そうよ、最後の最後まで暴れてみせたの。私の記憶の途切れた後、大和はどうなったのかしら。ま、いいわ…今度は全てを護りきるから！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [178, 190]
   wiki_id: "139"
   chinese_name: 矢矧
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---

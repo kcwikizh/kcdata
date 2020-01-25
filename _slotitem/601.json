@@ -1,0 +1,36 @@
+---
+layout: json
+order: 601
+data:
+  id: 601
+  sort_no: 0
+  name: 深海8inch三連装砲 Mk.9
+  type: [1, 1, 2, 2, 0]
+  rare: 4
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 12
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 2
+    tais: 0
+    atap: 0
+    houm: 9
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  improvement: 
+  chinese_name: 
+---

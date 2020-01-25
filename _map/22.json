@@ -1,0 +1,110 @@
+---
+layout: json
+order: 22
+data:
+  id: 22
+  name: バシー海峡
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: B
+      to: A
+    2:
+      from: C
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: E
+      to: K
+    12:
+      from: G
+      to: H
+    13:
+      from: G
+      to: K
+    14:
+      from: H
+      to: K
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 敵上陸船団
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 敵上陸船団
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 敵水雷戦隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 敵水上打撃部隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8, 12]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 敵通商破壊機動部隊 主力艦隊
+      type:
+      boss: true
+      routes: [11, 13, 14]
+  image: MapHD2-2.png
+---

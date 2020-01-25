@@ -1,0 +1,209 @@
+---
+layout: json
+order: 45
+data:
+  id: 45
+  name: カレー洋リランカ島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: I
+      to: G
+    8:
+      from: D
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: I
+      to: J
+    11:
+      from: E
+      to: K
+    12:
+      from: K
+      to: L
+    13:
+      from: E
+      to: M
+    14:
+      from: M
+      to: N
+    15:
+      from: Q
+      to: O
+    16:
+      from: Q
+      to: P
+    17:
+      from: S
+      to: Q
+    18:
+      from: M
+      to: R
+    19:
+      from: R
+      to: S
+    20:
+      from: H
+      to: T
+    21:
+      from: C
+      to: D
+    22:
+      from: G
+      to: D
+    23:
+      from: G
+      to: H
+    24:
+      from: J
+      to: H
+    25:
+      from: H
+      to: K
+    26:
+      from: K
+      to: M
+    27:
+      from: O
+      to: N
+    28:
+      from: Q
+      to: N
+    29:
+      from: R
+      to: N
+    30:
+      from: K
+      to: T
+    31:
+      from: N
+      to: T
+    32:
+      from: O
+      to: T
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 東洋方面潜水艦隊 哨戒線Cライン
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 東洋方面潜水艦隊 哨戒線Bライン
+      type:
+      boss: false
+      routes: [4, 21, 22]
+    E:
+      name: 東洋方面艦隊 威力偵察部隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 東洋方面潜水艦隊 哨戒線Aライン
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 東洋方面艦隊 威力偵察部隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 東洋方面艦隊 新編水上打撃部隊
+      type:
+      boss: false
+      routes: [8, 23, 24]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 東洋方面艦隊 突撃水雷戦隊
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 深海東洋艦隊 機動部隊
+      type:
+      boss: false
+      routes: [11, 25]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [13, 26]
+    N:
+      name: 東洋方面艦隊 後方兵站部隊
+      type:
+      boss: false
+      routes: [14, 27, 28, 29]
+    O:
+      name: 深海東洋方面増援潜水艦隊
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [16]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    S:
+      name: 深海東洋方面増援艦隊
+      type:
+      boss: false
+      routes: [19]
+    T:
+      name: リランカ島港湾守備隊
+      type:
+      boss: true
+      routes: [20, 30, 31, 32]
+  image: MapHD4-5.png
+---

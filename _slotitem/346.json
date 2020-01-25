@@ -1,0 +1,130 @@
+---
+layout: json
+order: 346
+data:
+  id: 346
+  sort_no: 346
+  name: 二式12cm迫撃砲改
+  type: [7, 32, 15, 17, 0]
+  rare: 3
+  broken: [1, 2, 1, 1]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 3
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+    -
+      consume:
+        resource: [20, 120, 30, 10]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [2, 2]
+          -
+            -
+              id: 3
+              amount: [4, 6]
+            -
+              id: 4
+              amount: [3, 4]
+        slotitem:
+          -
+            id: 75
+            amount: 1
+          -
+            id: 44
+            amount: 1
+      upgrade:
+        id: 347
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [18, 30]
+            -
+              id: 4
+              amount: [6, 9]
+            -
+              id: 78
+              amount: 1
+          slotitem:
+            id: 346
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 471
+          -
+            ship_id: 476
+        - false
+        - false
+        -
+          -
+            ship_id: 581
+          -
+            ship_id: 690
+          -
+            ship_id: 586
+        -
+          -
+            ship_id: 471
+          -
+            ship_id: 476
+          -
+            ship_id: 581
+          -
+            ship_id: 690
+          -
+            ship_id: 586
+          -
+            ship_id: 166
+        -
+          -
+            ship_id: 471
+          -
+            ship_id: 476
+          -
+            ship_id: 581
+          -
+            ship_id: 690
+          -
+            ship_id: 586
+          -
+            ship_id: 166
+        -
+          -
+            ship_id: 471
+          -
+            ship_id: 476
+          -
+            ship_id: 581
+          -
+            ship_id: 690
+          -
+            ship_id: 586
+  chinese_name: 
+---

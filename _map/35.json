@@ -1,0 +1,113 @@
+---
+layout: json
+order: 35
+data:
+  id: 35
+  name: 北方AL海域
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: B
+    2:
+      from: B
+      to: A
+    3:
+      from: B
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: 1
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: D
+      to: H
+    9:
+      from: H
+      to: J
+    10:
+      from: G
+      to: I
+    11:
+      from: G
+      to: K
+    12:
+      from: F
+      to: E
+    13:
+      from: C
+      to: F
+    14:
+      from: E
+      to: H
+    15:
+      from: H
+      to: K
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    B:
+      name: 北方前衛警戒部隊
+      type:
+      boss: false
+      routes: [1]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 北方派遣任務部隊
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 北方遊撃部隊
+      type:
+      boss: false
+      routes: [5, 12]
+    F:
+      name: 北方増援部隊前衛A
+      type:
+      boss: false
+      routes: [6, 13]
+    G:
+      name: 北方増援部隊前衛B
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 北方AL泊地
+      type:
+      boss: false
+      routes: [8, 14]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    K:
+      name: 北方増援部隊主力
+      type:
+      boss: true
+      routes: [11, 15]
+  image: MapHD3-5.png
+---

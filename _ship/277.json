@@ -9,12 +9,12 @@ data:
   ctype: 
   cnum: 
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv: 90
+  after_ship_id: 594
   get_mes: <br>
   voice_f: 1
   filename: gtmwrbaniaud
-  file_version: ["16", "14", "327"]
+  file_version: ["19", "14", "114"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 
     slot_num: 4
     max_eq: [20, 20, 32, 10, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 8500
+    after_bull: 4500
     fuel_max: 75
     bull_max: 75
     broken: [10, 15, 35, 12]

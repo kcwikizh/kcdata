@@ -1,0 +1,86 @@
+---
+layout: json
+order: 21
+data:
+  id: 21
+  name: 南西諸島近海
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: B
+      to: A
+    2:
+      from: C
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: D
+      to: H
+    9:
+      from: E
+      to: D
+    10:
+      from: E
+      to: H
+    11:
+      from: F
+      to: H
+  cells:
+    A:
+      name: 敵上陸船団
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵前衛部隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 敵護衛空母群
+      type:
+      boss: false
+      routes: [4, 9]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 敵機動部隊群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 敵主力艦隊
+      type:
+      boss: true
+      routes: [8, 10, 11]
+  image: MapHD2-1.png
+---

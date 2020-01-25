@@ -1,0 +1,154 @@
+---
+layout: json
+order: 465
+data:
+  id: 465
+  name: ダバオ沖/太平洋南西部
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: C
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: 2
+      to: B
+    12:
+      from: D
+      to: C
+    13:
+      from: 2
+      to: C
+    14:
+      from: C
+      to: E
+    15:
+      from: null
+      to: 2
+    16:
+      from: I
+      to: K
+    17:
+      from: I
+      to: L
+    18:
+      from: I
+      to: M
+    19:
+      from: L
+      to: N
+    20:
+      from: I
+      to: O
+    21:
+      from: K
+      to: O
+    22:
+      from: N
+      to: O
+  cells:
+    A:
+      name: 深海潜水艦隊 群狼部隊 A群
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [2, 11]
+    C:
+      name: 深海潜水艦隊 群狼部隊 B群
+      type:
+      boss: false
+      routes: [3, 12, 13]
+    D:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海任務部隊 前衛水雷戦隊
+      type:
+      boss: false
+      routes: [5, 14]
+    F:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海任務部隊 前衛軽空母
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 深海任務部隊 護衛空母集団 I群
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海潜水艦隊 群狼旗艦部隊
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [16]
+    L:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [17]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    N:
+      name: 深海任務部隊 護衛空母集団 II群
+      type:
+      boss: false
+      routes: [19]
+    O:
+      name: 深海任務部隊 主力艦隊
+      type:
+      boss: true
+      routes: [20, 21, 22]
+  image: MapHDE-5Autumn2019.png
+---

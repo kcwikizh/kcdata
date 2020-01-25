@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 92
+  usetype: 0
+  category: 0
+  name: 新型噴進装備開発資材
+  description:
+    - "新型噴進装備を開発及び戦力化<br>に必要な技術図面と資材です。<br>※任務や装備改修等で使用する<br>ことで、新型噴進装備の開発が<br>可能になります。"
+    - ""
+  price: 0
+  chinese_name: 
+  chinese_description: 
+---

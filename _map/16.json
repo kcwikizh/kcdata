@@ -1,0 +1,134 @@
+---
+layout: json
+order: 16
+data:
+  id: 16
+  name: 鎮守府近海航路
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: C
+    3:
+      from: A
+      to: E
+    4:
+      from: E
+      to: G
+    5:
+      from: C
+      to: H
+    6:
+      from: G
+      to: K
+    7:
+      from: K
+      to: M
+    8:
+      from: M
+      to: L
+    9:
+      from: M
+      to: J
+    10:
+      from: L
+      to: I
+    11:
+      from: J
+      to: D
+    12:
+      from: G
+      to: F
+    13:
+      from: F
+      to: B
+    14:
+      from: D
+      to: N
+    15:
+      from: H
+      to: K
+    16:
+      from: I
+      to: D
+    17:
+      from: B
+      to: N
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 任務部隊C群 前衛部隊
+      type:
+      boss: false
+      routes: [13]
+    C:
+      name: 通商破壊潜水艦隊 II群
+      type:
+      boss: false
+      routes: [2]
+    D:
+      name: 任務部隊A群 機動部隊(第二波)
+      type:
+      boss: false
+      routes: [11, 16]
+    E:
+      name: 通商破壊潜水艦隊 III群
+      type:
+      boss: false
+      routes: [3]
+    F:
+      name: 任務部隊C群 機動部隊
+      type:
+      boss: false
+      routes: [12]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    I:
+      name: 通商破壊潜水艦隊 I群
+      type:
+      boss: false
+      routes: [10]
+    J:
+      name: 任務部隊A群 機動部隊本隊
+      type:
+      boss: false
+      routes: [9]
+    K:
+      name: 任務部隊支援 水上打撃部隊
+      type:
+      boss: false
+      routes: [6, 15]
+    L:
+      name: 任務部隊A群 機動部隊(第一波)
+      type:
+      boss: false
+      routes: [8]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [14, 17]
+  image: MapHD1-6.png
+---

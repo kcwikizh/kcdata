@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: aqgjvutybsbk
-  file_version: ["11", "5", "327"]
+  file_version: ["13", "5", "114"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -40,17 +40,17 @@ data:
   graph:
     boko_n: [114, 198]
     boko_d: [39, 198]
-    kaisyu_n: [9, 6]
-    kaisyu_d: [39, 10]
+    kaisyu_n: [16, 16]
+    kaisyu_d: [49, 24]
     kaizo_n: [114, 84]
-    kaizo_d: [63, 84]
+    kaizo_d: [24, 55]
     map_n: [105, 168]
-    map_d: [0, 168]
+    map_d: [43, 169]
     ensyuf_n: [150, 180]
-    ensyuf_d: [90, 120]
-    ensyue_n: [45, 0]
-    battle_n: [84, 165]
-    battle_d: [81, 165]
+    ensyuf_d: [85, 177]
+    ensyue_n: [118, 0]
+    battle_n: [102, 172]
+    battle_d: [40, 172]
     wed_a: [178, 0]
     wed_b: [198, 210]
   wiki_id: "044a"

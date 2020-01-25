@@ -1,0 +1,99 @@
+---
+layout: json
+order: 63
+data:
+  id: 63
+  name: グアノ環礁沖海域
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: D
+      to: E
+    12:
+      from: G
+      to: H
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 泊地哨戒線
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海潜水艦隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海ピケット艦隊
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海哨戒水雷戦隊
+      type:
+      boss: false
+      routes: [5, 11]
+    F:
+      name: 深海中部水上打撃群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8, 12]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 留守泊地旗艦艦隊
+      type:
+      boss: true
+      routes: [10]
+  image: MapHD6-3.png
+---

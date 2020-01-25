@@ -32,5 +32,111 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [220, 360, 0, 390]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 7]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [7, 9]
+            -
+              id: 4
+              amount: [4, 6]
+        slotitem:
+          -
+            id: 16
+            amount: 2
+          -
+            id: 25
+            amount: 2
+      upgrade:
+        id: 344
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [15, 30]
+            -
+              id: 4
+              amount: [7, 13]
+            -
+              id: 77
+              amount: 1
+          slotitem:
+            id: 106
+            amount: 1
+      day:
+        -
+          -
+            ship_id: 534
+          -
+            ship_id: 381
+          -
+            ship_id: 536
+        -
+          -
+            ship_id: 521
+          -
+            ship_id: 526
+          -
+            ship_id: 380
+          -
+            ship_id: 529
+        -
+          -
+            ship_id: 521
+          -
+            ship_id: 526
+          -
+            ship_id: 380
+          -
+            ship_id: 529
+        -
+          -
+            ship_id: 521
+          -
+            ship_id: 526
+          -
+            ship_id: 380
+          -
+            ship_id: 529
+        -
+          -
+            ship_id: 521
+          -
+            ship_id: 526
+          -
+            ship_id: 380
+          -
+            ship_id: 529
+          -
+            ship_id: 534
+          -
+            ship_id: 381
+          -
+            ship_id: 536
+        -
+          -
+            ship_id: 534
+          -
+            ship_id: 381
+          -
+            ship_id: 536
+        -
+          -
+            ship_id: 534
+          -
+            ship_id: 381
+          -
+            ship_id: 536
   chinese_name: 九七式舰攻(九三一空)
 ---

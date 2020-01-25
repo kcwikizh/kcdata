@@ -1,0 +1,37 @@
+---
+layout: json
+order: 11
+data:
+  id: 11
+  name: 鎮守府正面海域
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+  cells:
+    A:
+      name: 敵偵察艦
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 敵はぐれ艦隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵主力艦隊
+      type:
+      boss: true
+      routes: [3]
+  image: MapHD1-1.png
+---

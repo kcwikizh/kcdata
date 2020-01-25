@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 520
+  sort_no: 320
+  name: Janus
+  yomi: ジェーナス
+  stype: 2
+  ctype: 82
+  cnum: 5
+  backs: 6
+  after_lv: 55
+  after_ship_id: 893
+  get_mes: Hi！　私の名前はJanus！　そうよ、あのJervisの僚艦の…<br>……え？　知らない？　完っ全にモグリね。いい？<br>しっかり覚えておきなさい！
+  voice_f: 1
+  filename: ewoqvtkoqtmm
+  file_version: ["51", "1", "114"]
+  book_table_id: [520]
+  book_sinfo: J級駆逐艦、私がJanusよ。そうね、Jervis達と一緒に<br>本国艦隊や地中海艦隊で色々なことを頑張ったわ。<br>フランスの艦艇と戦ったことも。あのシングル作戦で<br>は、Jervisと一緒にアンツィオの戦いを支援して…<br>そこであれを…。Jervisは軽傷だったみたい。<br>不思議っていうか…なんていうか。
+  stats:
+    taik: [15, 33]
+    souk: [7, 18]
+    houg: [12, 33]
+    raig: [30, 82]
+    tyku: [22, 42]
+    luck: [17, 67]
+    soku: 10
+    leng: 1
+    kaih: 44
+    tais: 40
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 370
+    after_bull: 170
+    fuel_max: 15
+    bull_max: 25
+    broken: [1, 1, 6, 1]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [67, 237]
+    boko_d: [72, 294]
+    kaisyu_n: [37, -4]
+    kaisyu_d: [52, -16]
+    kaizo_n: [91, 73]
+    kaizo_d: [97, 79]
+    map_n: [102, 178]
+    map_d: [91, 207]
+    ensyuf_n: [91, 178]
+    ensyuf_d: [93, 211]
+    ensyue_n: [106, 0]
+    battle_n: [157, 207]
+    battle_d: [124, 247]
+    wed_a: [223, 3]
+    wed_b: [162, 138]
+  wiki_id: "320"
+  chinese_name: 雅努斯
+  can_drop: false
+  can_construct: false
+---

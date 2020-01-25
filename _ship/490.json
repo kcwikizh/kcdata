@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: hrkuspdmjtmd
-  file_version: ["11", "12", "327"]
+  file_version: ["13", "14", "114"]
   book_table_id: [490]
   book_sinfo: 神戸娘の駆逐艦よ？そう、名前は荒潮。<br>姉妹達とけっこう色々頑張ったのよ。<br>でも、私の煙突に爆弾落とすのだけは、ちょっとやめてほしいわ。
   stats:

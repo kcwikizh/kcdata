@@ -1,0 +1,135 @@
+---
+layout: json
+order: 65
+data:
+  id: 65
+  name: KW環礁沖海域
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 2
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: B
+      to: F
+    7:
+      from: D
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: E
+      to: I
+    10:
+      from: I
+      to: J
+    11:
+      from: G
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: G
+      to: M
+    14:
+      from: B
+      to: C
+    15:
+      from: H
+      to: G
+    16:
+      from: I
+      to: H
+    17:
+      from: F
+      to: I
+    18:
+      from: J
+      to: M
+    19:
+      from: null
+      to: 2
+  cells:
+    A:
+      name: 先遣任務部隊 前衛艦隊
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 前方展開部隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 先遣任務部隊
+      type:
+      boss: false
+      routes: [3, 14]
+    D:
+      name: 深海護衛空母部隊 B群
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海潜水艦隊 精鋭群狼部隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海巡洋艦戦隊
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [7, 15]
+    H:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [8, 16]
+    I:
+      name: 深海護衛空母部隊 A群
+      type:
+      boss: false
+      routes: [9, 17]
+    J:
+      name: 深海護衛空母部隊 C群
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 任務部隊 主力群
+      type:
+      boss: true
+      routes: [13, 18]
+  image: MapHD6-5.png
+---

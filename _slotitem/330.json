@@ -1,0 +1,114 @@
+---
+layout: json
+order: 330
+data:
+  id: 330
+  sort_no: 330
+  name: 16inch Mk.I連装砲
+  type: [1, 1, 3, 3, 0]
+  rare: 2
+  broken: [0, 12, 20, 0]
+  info: 米国で建造されたビッグセブン、「Colorado」級。その初期の主砲兵装として採用された標準的な16inch連装砲です。<br>日本の「長門」「陸奥」、そして紅茶の国の「Nelson」級と共にビッグセブンの一角を構成した同級戦艦の三隻。ネームシップ「Colorado」、そして一度は真珠湾で撃破された妹達も浮揚修理され、太平洋の戦いを身を投じていきます。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 20
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  improvement: 
+    -
+      consume:
+        resource: [30, 350, 480, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [3, 6]
+        slotitem:
+          -
+            id: 8
+            amount: 1
+          -
+            id: 8
+            amount: 2
+      upgrade:
+        id: 331
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [16, 24]
+            -
+              id: 4
+              amount: [6, 8]
+            -
+              id: 75
+              amount: 1
+          slotitem:
+            id: 8
+            amount: 3
+      day:
+        -
+          -
+            ship_id: 601
+          -
+            ship_id: 1496
+        -
+          -
+            ship_id: 601
+          -
+            ship_id: 1496
+        -
+          -
+            ship_id: 601
+          -
+            ship_id: 1496
+        -
+          -
+            ship_id: 601
+          -
+            ship_id: 1496
+        -
+          -
+            ship_id: 601
+          -
+            ship_id: 1496
+        -
+          -
+            ship_id: 601
+          -
+            ship_id: 1496
+        -
+          -
+            ship_id: 601
+          -
+            ship_id: 1496
+  chinese_name: 
+---

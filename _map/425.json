@@ -1,0 +1,273 @@
+---
+layout: json
+order: 425
+data:
+  id: 425
+  name: 欧州作戦海域方面 北海/北大西洋海域
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: C
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: E
+      to: J
+    11:
+      from: B
+      to: D
+    12:
+      from: I
+      to: G
+    13:
+      from: I
+      to: J
+    14:
+      from: M
+      to: K
+    15:
+      from: I
+      to: L
+    16:
+      from: Q
+      to: M
+    17:
+      from: L
+      to: N
+    18:
+      from: L
+      to: O
+    19:
+      from: Q
+      to: P
+    20:
+      from: R
+      to: Q
+    21:
+      from: S
+      to: R
+    22:
+      from: T
+      to: S
+    23:
+      from: V
+      to: T
+    24:
+      from: 2
+      to: U
+    25:
+      from: U
+      to: V
+    26:
+      from: O
+      to: W
+    27:
+      from: K
+      to: I
+    28:
+      from: P
+      to: K
+    29:
+      from: P
+      to: L
+    30:
+      from: T
+      to: R
+    31:
+      from: null
+      to: 2
+    32:
+      from: H
+      to: X
+    33:
+      from: X
+      to: Y
+    34:
+      from: Y
+      to: Z
+    35:
+      from: Y
+      to: Z2
+    36:
+      from: K
+      to: H
+    37:
+      from: X
+      to: Z3
+    38:
+      from: M
+      to: X
+    39:
+      from: Z3
+      to: Z
+    40:
+      from: Z3
+      to: Z2
+  cells:
+    A:
+      name: 深海北大西洋艦隊 機動部隊III群
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 北大西洋深海旗艦艦隊 攻撃隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海北大西洋艦隊 潜水艦集団
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4, 11]
+    E:
+      name: 深海北大西洋艦隊 機動部隊II群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7, 12]
+    H:
+      name: 深海北大西洋艦隊 戦艦戦隊I群
+      type:
+      boss: false
+      routes: [8, 36]
+    I:
+      name: 深海北大西洋艦隊 機動部隊I群
+      type:
+      boss: false
+      routes: [9, 27]
+    J:
+      name: 北大西洋深海通商破壊主力部隊
+      type:
+      boss: false
+      routes: [10, 13]
+    K:
+      name: 深海北大西洋艦隊 機動部隊群
+      type:
+      boss: false
+      routes: [14, 28]
+    L:
+      name: 北大西洋深海艦隊 重雷装戦隊
+      type:
+      boss: false
+      routes: [15, 29]
+    M:
+      name: 深海北大西洋艦隊 戦艦戦隊II群
+      type:
+      boss: false
+      routes: [16]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    P:
+      name: 深海北大西洋艦隊 追撃空母群
+      type:
+      boss: false
+      routes: [19]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [21, 30]
+    S:
+      name: 深海ドーバー海峡封鎖潜水艦群
+      type:
+      boss: false
+      routes: [22]
+    T:
+      name: 深海北海潜水艦隊集団
+      type:
+      boss: false
+      routes: [23]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [24]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [25]
+    W:
+      name: 北大西洋深海艦隊 ブレスト軍港
+      type:
+      boss: false
+      routes: [26]
+    X:
+      name: 
+      type:
+      boss: false
+      routes: [32, 38]
+    Y:
+      name: 北大西洋深海旗艦艦隊 前衛集団
+      type:
+      boss: false
+      routes: [33]
+    Z:
+      name: 
+      type:
+      boss: false
+      routes: [34, 39]
+    Z2:
+      name: 北大西洋深海艦隊 旗艦艦隊
+      type:
+      boss: true
+      routes: [35, 40]
+    Z3:
+      name: 北大西洋深海旗艦艦隊 攻撃隊
+      type:
+      boss: false
+      routes: [37]
+  image: MapHD42-5.png
+---

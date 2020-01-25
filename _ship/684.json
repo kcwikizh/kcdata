@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 684
+  sort_no: 1484
+  name: 平戸改
+  yomi: ひらと
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: ndwmqgliyzjh
+  file_version: ["51", "1", "114"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [17, 28]
+    souk: [7, 33]
+    houg: [5, 37]
+    raig: [0, 0]
+    tyku: [12, 55]
+    luck: [14, 74]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [55, 150]
+    boko_d: [178, 219]
+    kaisyu_n: [-4, -7]
+    kaisyu_d: [48, -61]
+    kaizo_n: [43, -4]
+    kaizo_d: [148, 31]
+    map_n: [85, 91]
+    map_d: [214, 156]
+    ensyuf_n: [79, 79]
+    ensyuf_d: [196, 115]
+    ensyue_n: [79, 0]
+    battle_n: [79, 114]
+    battle_d: [214, 165]
+    wed_a: [226, 109]
+    wed_b: [205, 171]
+  wiki_id: "370a"
+  chinese_name: 平户改
+  can_drop: false
+  can_construct: false
+---

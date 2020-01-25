@@ -1,0 +1,36 @@
+---
+layout: json
+order: 332
+data:
+  id: 332
+  sort_no: 332
+  name: 16inch Mk.VIII連装砲改
+  type: [1, 1, 3, 3, 0]
+  rare: 4
+  broken: [0, 15, 22, 6]
+  info: 米国で建造されたビッグセブン、「Colorado」級。その初期の主砲兵装として採用された標準的な16inch連装主砲、その改良型のさらなる強化版兵装です。<br>16inch連装主砲に改良を加え、さらに近接対空兵装も充実させました。改装後の「Colorado」級戦艦で装備運用することで、特に高い砲戦能力を発揮します。
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 2
+    houg: 21
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 6
+    tais: 0
+    atap: 0
+    houm: 4
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  improvement: 
+  chinese_name: 
+---

@@ -1,0 +1,122 @@
+---
+layout: json
+order: 62
+data:
+  id: 62
+  name: MS諸島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: B
+    2:
+      from: 1
+      to: C
+    3:
+      from: C
+      to: A
+    4:
+      from: B
+      to: D
+    5:
+      from: D
+      to: F
+    6:
+      from: C
+      to: E
+    7:
+      from: D
+      to: H
+    8:
+      from: H
+      to: G
+    9:
+      from: F
+      to: I
+    10:
+      from: E
+      to: J
+    11:
+      from: H
+      to: K
+    12:
+      from: B
+      to: C
+    13:
+      from: C
+      to: D
+    14:
+      from: E
+      to: F
+    15:
+      from: I
+      to: G
+    16:
+      from: E
+      to: I
+    17:
+      from: I
+      to: K
+    18:
+      from: J
+      to: K
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    B:
+      name: 敵攻略支援部隊A群
+      type:
+      boss: false
+      routes: [1]
+    C:
+      name: 敵攻略支援部隊B群
+      type:
+      boss: false
+      routes: [2, 12]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4, 13]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    F:
+      name: 敵空母機動部隊
+      type:
+      boss: false
+      routes: [5, 14]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [8, 15]
+    H:
+      name: 敵高速水上打撃部隊
+      type:
+      boss: false
+      routes: [7]
+    I:
+      name: 敵任務部隊B群
+      type:
+      boss: false
+      routes: [9, 16]
+    J:
+      name: 敵任務部隊A群
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 敵攻略部隊本体
+      type:
+      boss: true
+      routes: [11, 17, 18]
+  image: MapHD6-2.png
+---

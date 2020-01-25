@@ -1,0 +1,102 @@
+---
+layout: json
+order: 51
+data:
+  id: 51
+  name: 南方海域前面
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: D
+      to: E
+    12:
+      from: F
+      to: G
+    13:
+      from: G
+      to: J
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 敵南方前衛哨戒艦隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 敵南方空母機動部隊
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 敵潜水艦南方哨戒線
+      type:
+      boss: false
+      routes: [5, 11]
+    F:
+      name: 敵南方任務部隊 B群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 敵南方任務部隊 A群
+      type:
+      boss: false
+      routes: [7, 12]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 敵南方前線司令艦隊
+      type:
+      boss: true
+      routes: [10, 13]
+  image: MapHD5-1.png
+---

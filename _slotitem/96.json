@@ -93,15 +93,27 @@ data:
             ship_id: 83
           -
             ship_id: 277
+          -
+            ship_id: 594
+          -
+            ship_id: 599
         -
           -
             ship_id: 83
           -
             ship_id: 277
+          -
+            ship_id: 594
+          -
+            ship_id: 599
         -
           -
             ship_id: 83
           -
             ship_id: 277
+          -
+            ship_id: 594
+          -
+            ship_id: 599
   chinese_name: 零式舰战21型(熟练)
 ---

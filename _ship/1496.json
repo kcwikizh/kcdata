@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 1496
+  sort_no: 406
+  name: Colorado改
+  yomi: コロラド
+  stype: 9
+  ctype: 93
+  cnum: 1
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: eibwwapltgov
+  file_version: ["51", "1", "114"]
+  book_table_id: [1496]
+  book_sinfo: 私がステイツのBig7、Colorado級戦艦一番艦、USS <br>BB45 Coloradoよ。そう、ニューヨーク生まれ。太<br>平洋艦隊、真珠湾に配属されたわ。でも、本国で入渠<br>中に奇襲があって…まあ、いいわ。Big7の力、存分<br>に魅せてあげるわね！覚悟してて！
+  stats:
+    taik: [91, 98]
+    souk: [83, 99]
+    houg: [80, 105]
+    raig: [0, 0]
+    tyku: [36, 100]
+    luck: [40, 110]
+    soku: 5
+    leng: 3
+    kaih: 22
+    tais: 0
+    slot_num: 4
+    max_eq: [1, 1, 1, 2, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 95
+    bull_max: 165
+    broken: [18, 31, 48, 4]
+    pow_up: [5, 0, 3, 4]
+    build_time: 300
+  graph:
+    boko_n: [-180, 79]
+    boko_d: [-91, 106]
+    kaisyu_n: [31, -67]
+    kaisyu_d: [48, -61]
+    kaizo_n: [-172, -46]
+    kaizo_d: [-82, -18]
+    map_n: [-187, 37]
+    map_d: [-46, 45]
+    ensyuf_n: [-156, 37]
+    ensyuf_d: [-43, 22]
+    ensyue_n: [-162, 0]
+    battle_n: [-88, 58]
+    battle_d: [0, 72]
+    wed_a: [436, 126]
+    wed_b: [187, 151]
+  wiki_id: "406"
+  chinese_name: 科罗拉多改
+  can_drop: false
+  can_construct: false
+---

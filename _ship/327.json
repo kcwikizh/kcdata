@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: vdieczinfgce
-  file_version: ["30", "15", "327"]
+  file_version: ["33", "15", "114"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,20 +38,20 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [-24, 180]
-    boko_d: [48, 192]
+    boko_n: [-15, 183]
+    boko_d: [81, 183]
     kaisyu_n: [18, 6]
     kaisyu_d: [48, 12]
-    kaizo_n: [-84, 96]
-    kaizo_d: [-24, 96]
-    map_n: [0, 168]
-    map_d: [-24, 168]
-    ensyuf_n: [-48, 144]
-    ensyuf_d: [48, 144]
-    ensyue_n: [-96, 0]
-    battle_n: [-48, 156]
-    battle_d: [-48, 168]
-    wed_a: [384, 24]
+    kaizo_n: [-84, 108]
+    kaizo_d: [-24, 72]
+    map_n: [-54, 168]
+    map_d: [36, 168]
+    ensyuf_n: [-84, 168]
+    ensyuf_d: [18, 168]
+    ensyue_n: [-84, 0]
+    battle_n: [-42, 180]
+    battle_d: [36, 180]
+    wed_a: [384, 30]
     wed_b: [180, 168]
   wiki_id: "213a"
   chinese_name: 朝云改

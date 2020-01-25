@@ -1,0 +1,15 @@
+---
+layout: json
+order: 2
+data:
+  id: 2
+  name: 南西諸島海域
+  maps:
+    - 21
+    - 22
+    - 23
+    - 24
+    - 25
+    - 26
+  event: false
+---

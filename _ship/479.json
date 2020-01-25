@@ -14,8 +14,8 @@ data:
   get_mes: さあ、いってみよう！<br>綾波型駆逐艦、天霧だ。よろしくな、提督！
   voice_f: 0
   filename: xvgcgmwruygk
-  file_version: ["10", "1", "327"]
-  book_table_id: [479, 390, 768, 1041, 1103]
+  file_version: ["15", "1", "114"]
+  book_table_id: [479, 390, 5040, 5313, 5375, 5398]
   book_sinfo: 綾波型駆逐艦、五番艦の天霧だ。そう、重武装の特型<br>駆逐艦だぜ。微妙に旧式だって？馬鹿いうな。各作戦<br>やソロモンの夜を駆け抜けたあたしだよ？そうさ、大<br>統領になる男を水もしたたるいい男にしてやったこと<br>もある。出逢いってのは面白いな！
   stats:
     taik: [15, 29]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [216, 228]
-    boko_d: [150, 270]
+    boko_n: [178, 208]
+    boko_d: [118, 211]
     kaisyu_n: [12, -12]
     kaisyu_d: [54, -12]
-    kaizo_n: [168, 102]
-    kaizo_d: [138, 78]
-    map_n: [210, 216]
-    map_d: [276, 228]
-    ensyuf_n: [192, 204]
-    ensyuf_d: [258, 198]
-    ensyue_n: [168, 0]
-    battle_n: [216, 222]
-    battle_d: [240, 240]
-    wed_a: [168, -18]
-    wed_b: [114, 168]
+    kaizo_n: [166, 70]
+    kaizo_d: [133, 75]
+    map_n: [193, 196]
+    map_d: [178, 195]
+    ensyuf_n: [216, 186]
+    ensyuf_d: [189, 184]
+    ensyue_n: [190, 0]
+    battle_n: [217, 216]
+    battle_d: [201, 213]
+    wed_a: [145, 6]
+    wed_b: [124, 171]
   wiki_id: "279"
   chinese_name: 天雾
   can_drop: true

@@ -8,7 +8,7 @@ data:
   description: 艦隊と鎮守府の幸運を祈る<br>艦娘たちが腕によりをかけ<br>て美味しい巻き寿司を作っ<br>てくれる恵方巻キッチン！<br>ダイナミック職人支援可！
   rarity: 5
   price: 150000
-  saleflg: 0
+  saleflg: 1
   season: 12
   filename: 
   file_version: 

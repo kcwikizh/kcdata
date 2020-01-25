@@ -1,0 +1,192 @@
+---
+layout: json
+order: 55
+data:
+  id: 55
+  name: サーモン海域北方
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: F
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: B
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: D
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: B
+      to: K
+    12:
+      from: H
+      to: L
+    13:
+      from: I
+      to: M
+    14:
+      from: H
+      to: N
+    15:
+      from: M
+      to: O
+    16:
+      from: H
+      to: P
+    17:
+      from: P
+      to: Q
+    18:
+      from: O
+      to: R
+    19:
+      from: O
+      to: S
+    20:
+      from: E
+      to: H
+    21:
+      from: I
+      to: L
+    22:
+      from: M
+      to: L
+    23:
+      from: N
+      to: M
+    24:
+      from: L
+      to: N
+    25:
+      from: N
+      to: O
+    26:
+      from: J
+      to: P
+    27:
+      from: K
+      to: P
+    28:
+      from: P
+      to: S
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海南方潜水艦隊 哨戒線
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 敵哨戒水雷戦隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 敵哨戒重巡戦隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 敵機動部隊 C群
+      type:
+      boss: false
+      routes: [8, 20]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 敵機動部隊 B群
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 敵機動部隊 A群
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12, 21, 22]
+    M:
+      name: 敵新鋭戦艦戦隊
+      type:
+      boss: false
+      routes: [13, 23]
+    N:
+      name: 深海南方任務部隊 重水雷戦隊
+      type:
+      boss: false
+      routes: [14, 24]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [15, 25]
+    P:
+      name: 深海南方任務部隊 水上打撃群
+      type:
+      boss: false
+      routes: [16, 26, 27]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    S:
+      name: 深海南方任務部隊 本隊
+      type:
+      boss: true
+      routes: [19, 28]
+  image: MapHD5-5.png
+---

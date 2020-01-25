@@ -14,13 +14,13 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: xyqotgpmnjih
-  file_version: ["17", "11", "327"]
+  file_version: ["21", "11", "114"]
   book_table_id: [159, 949]
   book_sinfo: 神通です。近代化改装を受け、<br>第２水雷戦隊の旗艦を務めました。<br>コロンバンガラ島沖海戦では先頭に立って奮戦します。<br>でも、みんな私の事狙うんですもの…ひどいわ……。
   stats:
     taik: [51, 63]
     souk: [29, 69]
-    houg: [27, 72]
+    houg: [27, 73]
     raig: [38, 98]
     tyku: [18, 68]
     luck: [13, 79]

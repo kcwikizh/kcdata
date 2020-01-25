@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 93
+  usetype: 4
+  category: 0
+  name: 鰯
+  description:
+    - "漁場の安全を確保し、鰯漁を支<br>援することで入手した美味しい<br>旬の「鰯」です。※秋刀魚＆鰯<br>祭り終了時に消滅します。"
+    - ""
+  price: 0
+  chinese_name: 
+  chinese_description: 
+---
