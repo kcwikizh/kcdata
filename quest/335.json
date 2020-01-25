@@ -31,9 +31,6 @@
         ]
       }
     ],
-    "prerequisite": [
-      195
-    ],
     "requirements": {
       "category": "excercise",
       "times": 3,
