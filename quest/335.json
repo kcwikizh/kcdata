@@ -1,0 +1,51 @@
+{
+    "game_id": 335,
+    "wiki_id": "C35",
+    "category": 3,
+    "type": 1,
+    "name": "新しき盾",
+    "detail": "「新しき盾」演習任務：重巡「摩耶」及び重巡「羽黒」を擁する艦隊による演習「新しき盾」を実施する。本「新しき盾」演習において、本日中に【S判定】勝利3回以上達成せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 179,
+    "reward_steel": 0,
+    "reward_bauxite": 180,
+    "reward_other": [
+      {
+          "name": "新型航空兵装資材",
+          "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 4
+          },
+          {
+            "name": "25mm三連装機銃",
+            "amount": 3
+          },
+          {
+            "name": "12cm30連装噴進砲",
+            "amount": 2
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      195
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 3,
+      "victory": true,
+      "daily": true,
+      "groups": [
+        {
+          "ship": "摩耶"
+        },
+        {
+          "ship": "羽黒"
+        }
+      ]
+    }
+  }
