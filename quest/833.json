@@ -1,0 +1,52 @@
+{
+    "game_id": 833,
+    "wiki_id": "B139",
+    "category": 2,
+    "type": 1,
+    "name": "陸戦用装備の艦載運用実戦研究",
+    "detail": "陸戦用装備の艦載運用研究：水上機母艦または揚陸艦を含む艦隊を編成、西方海域カレー洋リランカ島沖及び中部北海域ピーコック島沖の各作戦において、敵地上戦力と交戦、これを複数回撃破せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 500,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "二式12cm迫撃砲改",
+            "amount": 3
+          },
+          {
+            "name": "艦載型 四式20cm対地噴進砲",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      621,
+      828
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 2,
+      "map": [
+        "4-5",
+        "6-4"
+      ],
+      "boss": true,
+      "result": "A",
+      "groups": [
+        {
+          "ship": [
+            "水上機母艦",
+            "揚陸艦"
+          ],
+          "amount": [
+            1,
+            99
+          ]
+        }
+      ]
+    }
+  }
