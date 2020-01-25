@@ -1,0 +1,71 @@
+{
+    "game_id": 284,
+    "wiki_id": "Bq11",
+    "category": 2,
+    "type": 7,
+    "name": "南西諸島方面「海上警備行動」発令！",
+    "detail": "海上警備任務：軽空母または軽巡級1隻、駆逐艦または海防艦を計3隻以上配備した海上護衛艦隊で、南1号作戦、南西諸島哨戒、柳作戦、オリョール哨戒を実施、各作戦海域に出没する敵を撃滅せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 800,
+    "reward_steel": 800,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "改修資材",
+            "amount": 2
+          },
+          {
+            "name": "九四式爆雷投射機",
+            "amount": 1
+          },
+          {
+            "name": "ドラム缶(輸送用)",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "name": "戦果80"
+      },
+      {
+        "name": "プレゼント箱"
+      }
+    ],
+    "prerequisite": [
+      280,
+      303
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "1-4",
+        "2-1",
+        "2-2",
+        "2-3"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": [
+            "軽空母",
+            "軽巡"
+          ],
+          "amount": 1
+        },
+        {
+          "ship": [
+            "駆逐",
+            "海防艦"
+          ],
+          "amount": [
+            3,
+            99
+          ]
+        }
+      ]
+    }
+  }
