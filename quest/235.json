@@ -42,11 +42,11 @@
       "2-2"
     ],
     "boss": true,
-    "result": "s",
+    "result": "S",
     "groups": [
       {
         "ship": "軽巡",
-        "flagship": true
+        "flagship": true,
         "amount": 1
       },
       {
