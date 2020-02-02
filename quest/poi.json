@@ -4905,6 +4905,225 @@
     }
   },
   {
+    "game_id": 235,
+    "wiki_id": "B135",
+    "category": 2,
+    "type": 1,
+    "name": "近海哨戒を実施せよ!",
+    "detail": "哨戒任務：軽巡級1隻以上、駆逐艦または海防艦計3隻以上による艦隊で、鎮守府海域の南西諸島沖及び製油所地帯沿岸、南西諸島海域の南西諸島近海及びバシー海峡の哨戒を実施、敵を捕捉撃滅せよ！",
+    "reward_fuel": 300,
+    "reward_ammo": 300,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 3
+          },
+          {
+            "name": "高速修復材",
+            "amount": 3
+          },
+          {
+            "name": "25mm三連装機銃",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "name": "戦闘詳報",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "1-2",
+        "1-3",
+        "2-1",
+        "2-2"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": "軽巡",
+          "flagship": true,
+          "amount": 1
+        },
+        {
+          "ship": [
+            "駆逐",
+            "海防艦"
+          ],
+          "amount": 2
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 236,
+    "wiki_id": "B136",
+    "category": 2,
+    "type": 1,
+    "name": "精鋭「二四駆逐隊」出撃せよ！",
+    "detail": "二四駆出撃任務：「海風改二」を旗艦とし、「山風」「江風」「涼風」のうち2隻以上を含む艦隊を編成、東部オリョール海、沖ノ島海域、南方海域前面、サブ島沖海域に突入！敵艦隊を捕捉、撃滅せよ！",
+    "reward_fuel": 800,
+    "reward_ammo": 800,
+    "reward_steel": 800,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "新型砲熕兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "13号対空電探",
+            "amount": 3
+          },
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "name": "12.7cm連装砲C型改二",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      235,
+      273
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "2-3",
+        "2-4",
+        "5-1",
+        "5-3"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": "海風改二",
+          "flagship": true
+        },
+        {
+          "ship": [
+            "山風",
+            "江風",
+            "涼風"
+          ],
+          "amount": 2
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 237,
+    "wiki_id": "B138",
+    "category": 2,
+    "type": 1,
+    "name": "「羽黒」「神風」、出撃せよ！",
+    "detail": "第五戦隊任務：「羽黒」「神風」を基幹として、他に重巡級1隻駆逐艦2隻、または駆逐艦4隻の艦隊で南西諸島近海、バシー海峡、東部オリョール海に出撃、敵艦隊と交戦、これを撃滅せよ！",
+    "reward_fuel": 516,
+    "reward_ammo": 0,
+    "reward_steel": 1945,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "新型航空兵装資材",
+            "amount": 1
+          },
+          {
+            "name": "補強増設",
+            "amount": 1
+          },
+          {
+            "name": "特注家具職人",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "name": "「羽黒の護り」掛け軸",
+        "category": "家具",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [],
+    "requirements": {
+      "category": "or",
+      "list": [
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": [
+            "2-1",
+            "2-2",
+            "2-3"
+          ],
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": "羽黒"
+            },
+            {
+              "ship": "神風"
+            },
+            {
+              "ship": [
+                "航巡",
+                "重巡"
+              ],
+              "amount": 1
+            },
+            {
+              "ship": "駆逐",
+              "amount": 2
+            }
+          ]
+        },
+        {
+          "category": "sortie",
+          "times": 1,
+          "map": [
+            "2-1",
+            "2-2",
+            "2-3"
+          ],
+          "boss": true,
+          "result": "S",
+          "groups": [
+            {
+              "ship": "羽黒"
+            },
+            {
+              "ship": "神風"
+            },
+            {
+              "ship": "駆逐",
+              "amount": 4
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "game_id": 239,
     "wiki_id": "B20",
     "category": 2,
@@ -6925,6 +7144,77 @@
     }
   },
   {
+    "game_id": 284,
+    "wiki_id": "Bq11",
+    "category": 2,
+    "type": 7,
+    "name": "南西諸島方面「海上警備行動」発令！",
+    "detail": "海上警備任務：軽空母または軽巡級1隻、駆逐艦または海防艦を計3隻以上配備した海上護衛艦隊で、南1号作戦、南西諸島哨戒、柳作戦、オリョール哨戒を実施、各作戦海域に出没する敵を撃滅せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 800,
+    "reward_steel": 800,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "改修資材",
+            "amount": 2
+          },
+          {
+            "name": "九四式爆雷投射機",
+            "amount": 1
+          },
+          {
+            "name": "ドラム缶(輸送用)",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "name": "戦果80"
+      },
+      {
+        "name": "プレゼント箱"
+      }
+    ],
+    "prerequisite": [
+      280,
+      303
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "1-4",
+        "2-1",
+        "2-2",
+        "2-3"
+      ],
+      "boss": true,
+      "result": "S",
+      "groups": [
+        {
+          "ship": [
+            "軽空母",
+            "軽巡"
+          ],
+          "amount": 1
+        },
+        {
+          "ship": [
+            "駆逐",
+            "海防艦"
+          ],
+          "amount": [
+            3,
+            99
+          ]
+        }
+      ]
+    }
+  },
+  {
     "game_id": 285,
     "wiki_id": "B49",
     "category": 2,
@@ -8673,6 +8963,107 @@
     }
   },
   {
+    "game_id": 335,
+    "wiki_id": "C35",
+    "category": 3,
+    "type": 1,
+    "name": "新しき盾",
+    "detail": "「新しき盾」演習任務：重巡「摩耶」及び重巡「羽黒」を擁する艦隊による演習「新しき盾」を実施する。本「新しき盾」演習において、本日中に【S判定】勝利3回以上達成せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 179,
+    "reward_steel": 0,
+    "reward_bauxite": 180,
+    "reward_other": [
+      {
+        "name": "新型航空兵装資材",
+        "amount": 1
+      },
+      {
+        "choices": [
+          {
+            "name": "開発資材",
+            "amount": 4
+          },
+          {
+            "name": "25mm三連装機銃",
+            "amount": 3
+          },
+          {
+            "name": "12cm30連装噴進砲",
+            "amount": 2
+          }
+        ]
+      }
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 3,
+      "victory": true,
+      "daily": true,
+      "groups": [
+        {
+          "ship": "摩耶"
+        },
+        {
+          "ship": "羽黒"
+        }
+      ]
+    }
+  },
+  {
+    "game_id": 336,
+    "wiki_id": "C37",
+    "category": 3,
+    "type": 1,
+    "name": "輸送船団演習",
+    "detail": "輸送船団演習任務：補給艦または揚陸艦、海防艦を計2隻以上含む輸送船団を編成、同輸送船団及び護衛艦艇による演習で、本日中に【A判定】勝利4回以上達成せよ。",
+    "reward_fuel": 150,
+    "reward_ammo": 150,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "九四式爆雷投射機",
+            "amount": 1
+          },
+          {
+            "name": "二式12cm迫撃砲改",
+            "amount": 1
+          },
+          {
+            "name": "九五式爆雷",
+            "amount": 2
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      201,
+      335
+    ],
+    "requirements": {
+      "category": "excercise",
+      "times": 4,
+      "victory": true,
+      "daily": true,
+      "groups": [
+        {
+          "ship": [
+            "補給艦",
+            "揚陸艦",
+            "海防艦"
+          ],
+          "amount": [
+            2,
+            99
+          ]
+        }
+      ]
+    }
+  },
+  {
     "game_id": 401,
     "wiki_id": "D01",
     "category": 4,
@@ -10335,6 +10726,65 @@
       "category": "simple",
       "subcategory": "improvement",
       "times": 1
+    }
+  },
+  {
+    "game_id": 621,
+    "wiki_id": "F89",
+    "category": 6,
+    "type": 1,
+    "name": "陸戦用装備の艦載運用研究",
+    "detail": "第一艦隊旗艦軽巡級の第一装備スロに「7.7mm機銃」装備。「25mm単装機銃」×2、「ドラム缶(輸送用)」×2、「12cm30連装噴進砲」×1を廃棄。弾薬1,700、開発資材×30、高速建造材×10を準備せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "name": "二式12cm迫撃砲改",
+        "category": "装備",
+        "amount": 1
+      }
+    ],
+    "prerequisite": [
+      605
+    ],
+    "requirements": {
+      "category": "scrapequipment",
+      "secretary": "軽巡",
+      "slots": [
+        {
+          "slot": 1,
+          "equipment": "7.7mm機銃",
+          "convert": true
+        }
+      ],
+      "list": [
+        {
+          "name": "25mm単装機銃",
+          "amount": 2
+        },
+        {
+          "name": "ドラム缶(輸送用)",
+          "amount": 2
+        }
+      ],
+      "consumptions": [
+        {
+          "name": "開発資材",
+          "amount": 30
+        },
+        {
+          "name": "高速建造材",
+          "amount": 10
+        }
+      ],
+      "resources": [
+        0,
+        1700,
+        0,
+        0
+      ]
     }
   },
   {
@@ -14932,6 +15382,58 @@
     }
   },
   {
+    "game_id": 833,
+    "wiki_id": "B139",
+    "category": 2,
+    "type": 1,
+    "name": "陸戦用装備の艦載運用実戦研究",
+    "detail": "陸戦用装備の艦載運用研究：水上機母艦または揚陸艦を含む艦隊を編成、西方海域カレー洋リランカ島沖及び中部北海域ピーコック島沖の各作戦において、敵地上戦力と交戦、これを複数回撃破せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 500,
+    "reward_steel": 0,
+    "reward_bauxite": 0,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "二式12cm迫撃砲改",
+            "amount": 3
+          },
+          {
+            "name": "艦載型 四式20cm対地噴進砲",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      621,
+      828
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 2,
+      "map": [
+        "4-5",
+        "6-4"
+      ],
+      "boss": true,
+      "result": "A",
+      "groups": [
+        {
+          "ship": [
+            "水上機母艦",
+            "揚陸艦"
+          ],
+          "amount": [
+            1,
+            99
+          ]
+        }
+      ]
+    }
+  },
+  {
     "game_id": 834,
     "wiki_id": "B83",
     "category": 2,
@@ -16816,6 +17318,51 @@
           ]
         }
       ]
+    }
+  },
+  {
+    "game_id": 872,
+    "wiki_id": "Bq10",
+    "category": 2,
+    "type": 7,
+    "name": "戦果拡張任務！「Z作戦」後段作戦",
+    "detail": "戦果拡張作戦：我が第一艦隊に精鋭艦艇を集中配備、同精鋭艦隊を以て、南西海域タウイタウイ泊地沖、南方海域サーモン海域北方、中部海域MS諸島沖及びKW環礁沖海域の敵艦隊を捕捉、これを撃滅せよ！",
+    "reward_fuel": 0,
+    "reward_ammo": 0,
+    "reward_steel": 2000,
+    "reward_bauxite": 2000,
+    "reward_other": [
+      {
+        "choices": [
+          {
+            "name": "改修資材",
+            "amount": 4
+          },
+          {
+            "name": "給糧艦「伊良湖」",
+            "amount": 3
+          },
+          {
+            "name": "洋上補給",
+            "amount": 4
+          }
+        ]
+      }
+    ],
+    "prerequisite": [
+      854
+    ],
+    "requirements": {
+      "category": "sortie",
+      "times": 1,
+      "map": [
+        "7-2-P2",
+        "5-5",
+        "6-2",
+        "6-5"
+      ],
+      "boss": true,
+      "result": "S"
     }
   },
   {
