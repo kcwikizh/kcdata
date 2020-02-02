@@ -1,53 +1,53 @@
 {
-    "game_id": 336,
-    "wiki_id": "C37",
-    "category": 3,
-    "type": 1,
-    "name": "輸送船団演習",
-    "detail": "輸送船団演習任務：補給艦または揚陸艦、海防艦を計2隻以上含む輸送船団を編成、同輸送船団及び護衛艦艇による演習で、本日中に【A判定】勝利4回以上達成せよ。",
-    "reward_fuel": 150,
-    "reward_ammo": 150,
-    "reward_steel": 0,
-    "reward_bauxite": 0,
-    "reward_other": [
+  "game_id": 336,
+  "wiki_id": "C37",
+  "category": 3,
+  "type": 1,
+  "name": "輸送船団演習",
+  "detail": "輸送船団演習任務：補給艦または揚陸艦、海防艦を計2隻以上含む輸送船団を編成、同輸送船団及び護衛艦艇による演習で、本日中に【A判定】勝利4回以上達成せよ。",
+  "reward_fuel": 150,
+  "reward_ammo": 150,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
         {
-            "choices": [
-              {
-                "name": "九四式爆雷投射機",
-                "amount": 1
-              },
-              {
-                "name": "二式12cm迫撃砲改",
-                "amount": 1
-              },
-              {
-                "name": "九五式爆雷",
-                "amount": 2
-              }
-            ]
-          }
-    ],
-    "prerequisite": [
-        201,
-        335
-    ],
-    "requirements": {
-      "category": "excercise",
-      "times": 4,
-      "victory": true,
-      "daily": true,
-      "groups": [
+          "name": "九四式爆雷投射機",
+          "amount": 1
+        },
         {
-          "ship": [
-            "補給艦",
-            "揚陸艦",
-            "海防艦"
-          ],
-          "amount": [
-            2,
-            99
-          ]
+          "name": "二式12cm迫撃砲改",
+          "amount": 1
+        },
+        {
+          "name": "九五式爆雷",
+          "amount": 2
         }
       ]
     }
+  ],
+  "prerequisite": [
+    201,
+    335
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 4,
+    "victory": true,
+    "daily": true,
+    "groups": [
+      {
+        "ship": [
+          "補給艦",
+          "揚陸艦",
+          "海防艦"
+        ],
+        "amount": [
+          2,
+          99
+        ]
+      }
+    ]
   }
+}

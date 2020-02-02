@@ -1,59 +1,59 @@
 {
-    "game_id": 621,
-    "wiki_id": "F89",
-    "category": 6,
-    "type": 1,
-    "name": "陸戦用装備の艦載運用研究",
-    "detail": "第一艦隊旗艦軽巡級の第一装備スロに「7.7mm機銃」装備。「25mm単装機銃」×2、「ドラム缶(輸送用)」×2、「12cm30連装噴進砲」×1を廃棄。弾薬1,700、開発資材×30、高速建造材×10を準備せよ！",
-    "reward_fuel": 0,
-    "reward_ammo": 0,
-    "reward_steel": 0,
-    "reward_bauxite": 0,
-    "reward_other": [
+  "game_id": 621,
+  "wiki_id": "F89",
+  "category": 6,
+  "type": 1,
+  "name": "陸戦用装備の艦載運用研究",
+  "detail": "第一艦隊旗艦軽巡級の第一装備スロに「7.7mm機銃」装備。「25mm単装機銃」×2、「ドラム缶(輸送用)」×2、「12cm30連装噴進砲」×1を廃棄。弾薬1,700、開発資材×30、高速建造材×10を準備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "二式12cm迫撃砲改",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    605
+  ],
+  "requirements": {
+    "category": "scrapequipment",
+    "secretary": "軽巡",
+    "slots": [
       {
-        "name": "二式12cm迫撃砲改",
-        "category": "装備",
-        "amount": 1
+        "slot": 1,
+        "equipment": "7.7mm機銃",
+        "convert": true
       }
     ],
-    "prerequisite": [
-      605
+    "scraps": [
+      {
+        "name": "25mm単装機銃",
+        "amount": 2
+      },
+      {
+        "name": "ドラム缶(輸送用)",
+        "amount": 2
+      }
     ],
-    "requirements": {
-      "category": "scrapequipment",
-      "secretary": "軽巡",
-      "slots": [
-        {
-          "slot": 1,
-          "equipment": "7.7mm機銃",
-          "convert": true
-        }
-      ],
-      "scraps": [
-        {
-          "name": "25mm単装機銃",
-          "amount": 2
-        },
-        {
-          "name": "ドラム缶(輸送用)",
-          "amount": 2
-        }
-      ],
-      "consumptions": [
-        {
-          "name": "開発資材",
-          "amount": 30
-        },
-        {
-          "name": "高速建造材",
-          "amount": 10
-        }
-      ],
-      "resources": [
-        0,
-        1700,
-        0,
-        0
-      ]
-    }
+    "consumptions": [
+      {
+        "name": "開発資材",
+        "amount": 30
+      },
+      {
+        "name": "高速建造材",
+        "amount": 10
+      }
+    ],
+    "resources": [
+      0,
+      1700,
+      0,
+      0
+    ]
   }
+}
