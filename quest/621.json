@@ -29,7 +29,7 @@
         "convert": true
       }
     ],
-    "scraps": [
+    "list": [
       {
         "name": "25mm単装機銃",
         "amount": 2
