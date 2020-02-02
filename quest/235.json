@@ -33,7 +33,7 @@
     ],
   "prerequisite": [],
   "requirements": {
-    "category": "and",
+    "category": "sortie",
     "times": 1,
     "map": [
       "1-2",
