@@ -1,0 +1,94 @@
+{
+  "game_id": 237,
+  "wiki_id": "B138",
+  "category": 2,
+  "type": 1,
+  "name": "「羽黒」「神風」、出撃せよ！",
+  "detail": "第五戦隊任務：「羽黒」「神風」を基幹として、他に重巡級1隻駆逐艦2隻、または駆逐艦4隻の艦隊で南西諸島近海、バシー海峡、東部オリョール海に出撃、敵艦隊と交戦、これを撃滅せよ！",
+  "reward_fuel": 516,
+  "reward_ammo": 0,
+  "reward_steel": 1945,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "補強増設",
+          "amount": 1
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "「羽黒の護り」掛け軸",
+      "category": "家具",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "or",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": [
+          "2-1",
+          "2-2",
+          "2-3"
+        ],
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "羽黒"
+          },
+          {
+            "ship": "神風"
+          },
+          {
+            "ship": [
+              "航巡",
+              "重巡"
+            ],
+            "amount": 1
+          },
+          {
+            "ship": "駆逐",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": [
+          "2-1",
+          "2-2",
+          "2-3"
+        ],
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": "羽黒"
+          },
+          {
+            "ship": "神風"
+          },
+          {
+            "ship": "駆逐",
+            "amount": 4
+          }
+        ]
+      }
+    ]
+  }
+}
