@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 627
+  sort_no: 427
+  name: 敷波改二
+  yomi: しきなみ
+  stype: 2
+  ctype: 1
+  cnum: 2
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: nkrohrcrhfkk
+  file_version: ["51", "1", "207"]
+  book_table_id: [627]
+  book_sinfo: 特Ⅱ型駆逐艦２番艦の敷波。よろしく。<br>ミッドウェーやソロモンの海戦に参加した後、船団護<br>衛を務めたよ。<br>海上護衛戦は結構大変だよ…大事だし…。
+  stats:
+    taik: [31, 53]
+    souk: [14, 51]
+    houg: [13, 61]
+    raig: [28, 88]
+    tyku: [16, 62]
+    luck: [30, 80]
+    soku: 10
+    leng: 1
+    kaih: 58
+    tais: 30
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [93, 40]
+    boko_d: [87, 87]
+    kaisyu_n: [43, -46]
+    kaisyu_d: [43, 22]
+    kaizo_n: [118, -76]
+    kaizo_d: [61, -46]
+    map_n: [175, 3]
+    map_d: [79, 51]
+    ensyuf_n: [171, -7]
+    ensyuf_d: [76, 43]
+    ensyue_n: [148, 0]
+    battle_n: [205, 25]
+    battle_d: [103, 82]
+    wed_a: [136, 169]
+    wed_b: [103, 168]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

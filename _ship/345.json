@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ydsbnsiogwij
-  file_version: ["30", "12", "114"]
+  file_version: ["31", "12", "207"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [252, 192]
-    boko_d: [180, 240]
+    boko_n: [348, 180]
+    boko_d: [330, 204]
     kaisyu_n: [60, 6]
     kaisyu_d: [60, 24]
-    kaizo_n: [180, 120]
-    kaizo_d: [120, 144]
-    map_n: [192, 156]
-    map_d: [120, 216]
-    ensyuf_n: [192, 144]
-    ensyuf_d: [144, 192]
-    ensyue_n: [192, 0]
-    battle_n: [192, 168]
-    battle_d: [144, 228]
-    wed_a: [108, 30]
-    wed_b: [204, 180]
+    kaizo_n: [252, 90]
+    kaizo_d: [240, 84]
+    map_n: [279, 156]
+    map_d: [270, 180]
+    ensyuf_n: [258, 156]
+    ensyuf_d: [240, 174]
+    ensyue_n: [240, 0]
+    battle_n: [294, 174]
+    battle_d: [288, 198]
+    wed_a: [72, 36]
+    wed_b: [114, 174]
   wiki_id: "224a"
   chinese_name: 高波改
   can_drop: false

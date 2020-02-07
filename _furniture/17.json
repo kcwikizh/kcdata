@@ -8,7 +8,7 @@ data:
   description: ガーリーなピンクに仕上げ<br>られた高級床。原材料には<br>大理石を使用。どこかのお<br>店のような不思議な雰囲気<br>を醸し出します。
   rarity: 1
   price: 1200
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

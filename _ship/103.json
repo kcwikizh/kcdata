@@ -14,7 +14,7 @@ data:
   get_mes: 水上機母艦、千代田です。<br>姉の千歳が、いつも迷惑かけてないですか？
   voice_f: 0
   filename: cayfwlehtvgj
-  file_version: ["28", "19", "114"]
+  file_version: ["28", "19", "207"]
   book_table_id: [103, 956, 895]
   book_sinfo: 水上機母艦として建造された千歳型２番艦、千代田です。<br>甲標的母艦としても運用できるようになっているのよ。<br>千歳お姉と一緒に頑張りますね！
   stats:
