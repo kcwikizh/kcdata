@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 467
+  type: 4
+  no: 65
+  title: 艦娘手作りチョコ製作中
+  description: 提督のための手作りチョコ<br>を艦娘がレシピ本と激しい<br>戦闘を繰り広げながら鋭意<br>製作中の台所です。庶民的<br>＆甘い雰囲気が漂います！
+  rarity: 5
+  price: 8800
+  saleflg: 1
+  season: 15
+  filename: 
+  file_version: ""
+---

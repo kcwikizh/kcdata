@@ -14,15 +14,15 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ttkeodhvrmog
-  file_version: ["28", "17", "114"]
+  file_version: ["28", "17", "207"]
   book_table_id: [106]
   book_sinfo: 水上機母艦千歳です。<br>水上機を沢山運用できる優れものですが、給油艦として重油を他の艦に補給もできちゃうの。後期には、航空母艦に改装され、第一線で戦ったのよ。
   stats:
     taik: [42, 59]
     souk: [21, 39]
-    houg: [9, 29]
-    raig: [15, 72]
-    tyku: [17, 39]
+    houg: [9, 31]
+    raig: [15, 73]
+    tyku: [17, 42]
     luck: [10, 59]
     soku: 10
     leng: 1

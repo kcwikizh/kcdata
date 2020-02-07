@@ -8,7 +8,7 @@ data:
   description: ある駆逐艦型の二番艦娘が<br>家具職人に頼んで製作して<br>もらった特製の可愛らしい<br>小窓です。優しい風がレー<br>スカーテンを揺らします。
   rarity: 4
   price: 2200
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "048"
   file_version: 1

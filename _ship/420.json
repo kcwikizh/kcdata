@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ugxgvgtjsxud
-  file_version: ["24", "12", "114"]
+  file_version: ["25", "12", "207"]
   book_table_id: [420, 992]
   book_sinfo: 特型駆逐艦、５番艦の叢雲よ。<br>え、知らないって？　全く、ありえないわね。<br>南方作戦や、古鷹の救援、数々の作戦に参加した名艦の私を知らないって、あんた、もぐりでしょ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [204, 72]
+    boko_n: [-36, 84]
     boko_d: [204, 108]
     kaisyu_n: [72, 0]
     kaisyu_d: [96, 12]
-    kaizo_n: [96, 24]
+    kaizo_n: [0, 48]
     kaizo_d: [96, 12]
-    map_n: [72, 36]
+    map_n: [-48, 96]
     map_d: [72, 72]
-    ensyuf_n: [168, 12]
+    ensyuf_n: [-24, 48]
     ensyuf_d: [168, 48]
-    ensyue_n: [72, 0]
-    battle_n: [84, 48]
+    ensyue_n: [-72, 0]
+    battle_n: [0, 96]
     battle_d: [96, 84]
-    wed_a: [180, 168]
-    wed_b: [180, 156]
+    wed_a: [384, 108]
+    wed_b: [216, 168]
   wiki_id: "220"
   chinese_name: 丛云改二
   can_drop: false

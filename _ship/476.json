@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: osxrcrtldvru
-  file_version: ["6", "1", "114"]
+  file_version: ["7", "1", "207"]
   book_table_id: [476]
   book_sinfo: 神風型駆逐艦一番艦、神風です。八八艦隊計画の時代に建造された艦隊型駆逐艦、そのネームシップです。<br>睦月型の前級にあたる私達だけれど、あの戦いを最後まで駆け抜けたのよ。<br>私達のことも、覚えていてね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [138, 192]
-    boko_d: [48, 174]
+    boko_n: [96, 204]
+    boko_d: [0, 198]
     kaisyu_n: [30, -18]
     kaisyu_d: [36, 18]
-    kaizo_n: [42, 108]
-    kaizo_d: [-72, 78]
-    map_n: [66, 162]
-    map_d: [-84, 126]
-    ensyuf_n: [36, 138]
-    ensyuf_d: [-78, 114]
-    ensyue_n: [12, 0]
-    battle_n: [84, 156]
-    battle_d: [-30, 144]
-    wed_a: [324, 48]
-    wed_b: [114, 168]
+    kaizo_n: [39, 105]
+    kaizo_d: [-63, 72]
+    map_n: [96, 180]
+    map_d: [-18, 180]
+    ensyuf_n: [48, 186]
+    ensyuf_d: [-72, 186]
+    ensyue_n: [36, 0]
+    battle_n: [96, 192]
+    battle_d: [-6, 192]
+    wed_a: [306, 0]
+    wed_b: [120, 186]
   wiki_id: "276"
   chinese_name: 神风改
   can_drop: false

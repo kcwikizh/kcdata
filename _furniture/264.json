@@ -8,7 +8,7 @@ data:
   description: 外地の最重要拠点、トラッ<br>ク。数々の激しい空襲をく<br>ぐり抜け、同地で奮戦する<br>トラック提督たちのために<br>作られた魂の掛け軸。
   rarity: 2
   price: 0
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 
