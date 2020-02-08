@@ -10,27 +10,27 @@
   "reward_steel": 0,
   "reward_bauxite": 0,
   "reward_other": [
-      {
-        "choices": [
-          {
-            "name": "開発資材",
-            "amount": 3
-          },
-          {
-            "name": "高速修復材",
-            "amount": 3
-          },
-          {
-            "name": "25mm三連装機銃",
-            "amount": 2
-          }
-        ]
-      },
-      {
-           "name": "戦闘詳報",
-           "amount": 1
-      }
-    ],
+    {
+      "choices": [
+        {
+          "name": "開発資材",
+          "amount": 3
+        },
+        {
+          "name": "高速修復材",
+          "amount": 3
+        },
+        {
+          "name": "25mm三連装機銃",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "戦闘詳報",
+      "amount": 1
+    }
+  ],
   "prerequisite": [],
   "requirements": {
     "category": "sortie",

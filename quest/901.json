@@ -31,16 +31,28 @@
       ]
     }
   ],
-  "prerequisite": [605, 219],
+  "prerequisite": [
+    605,
+    219
+  ],
   "requirements": {
     "category": "sortie",
-    "map": ["2-5", "3-3", "5-3", "6-3"],
+    "map": [
+      "2-5",
+      "3-3",
+      "5-3",
+      "6-3"
+    ],
     "boss": true,
     "result": "S",
     "times": 1,
     "groups": [
       {
-        "ship": ["夕張改二", "夕張改二特", "夕張改二丁"],
+        "ship": [
+          "夕張改二",
+          "夕張改二特",
+          "夕張改二丁"
+        ],
         "flagship": true
       },
       {
