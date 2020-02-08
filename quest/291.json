@@ -1,0 +1,64 @@
+{
+  "game_id": 291,
+  "wiki_id": "B134",
+  "category": 2,
+  "type": 1,
+  "name": "艦隊司令部の強化 【実施段階】",
+  "detail": "艦隊司令部強化：「大淀」を旗艦、随伴艦に「明石」または水上機母艦を含む艦隊を編成、同艦隊で東部オリョール海、アルフォンシーノ方面、西方ジャム島沖に反復出撃、敵艦隊を捕捉撃滅せよ！",
+  "reward_fuel": 1200,
+  "reward_ammo": 1200,
+  "reward_steel": 1200,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "家具箱（大）",
+          "amount": 8
+        },
+        {
+          "name": "補強増設",
+          "amount": 1
+        },
+        {
+          "name": "勲章",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "司令部要員",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    431
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 2,
+    "map": [
+      "2-3",
+      "3-3",
+      "4-1"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": "大淀",
+        "flagship": true
+      },
+      {
+        "ship": [
+          "明石",
+          "水上機母艦"
+        ]
+      },
+      {
+        "ship": "艦",
+        "amount": 4
+      }
+    ]
+  }
+}
