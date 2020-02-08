@@ -1,0 +1,52 @@
+{
+  "game_id": 901,
+  "wiki_id": "B140",
+  "category": 2,
+  "type": 1,
+  "name": "「夕張改二」試してみてもいいかしら？",
+  "detail": "改装兵装実験軽巡「夕張改二」型を旗艦にした艦隊で、南西諸島沖ノ島沖、北方アルフォンシーノ方面、南方サブ島沖海域、中部グアノ環礁沖海域に展開！同戦域の敵艦隊主力を捜索、これを捕捉撃滅せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 3000,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "14cm連装砲改",
+      "amount": 1
+    },
+    {
+      "choices": [
+        {
+          "name": "二式爆雷",
+          "amount": 2
+        },
+        {
+          "name": "大発動艇",
+          "amount": 2
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [605, 219],
+  "requirements": {
+    "category": "sortie",
+    "map": ["2-5", "3-3", "5-3", "6-3"],
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": ["夕張改二", "夕張改二特", "夕張改二丁"],
+        "flagship": true
+      },
+      {
+        "ship": "艦",
+        "amount": 5
+      }
+    ]
+  }
+}
