@@ -1,0 +1,62 @@
+{
+  "game_id": 334,
+  "wiki_id": "C34",
+  "category": 3,
+  "type": 1,
+  "name": "航空戦隊演習(その弐)",
+  "detail": "航空戦隊演習任務：航空母艦3隻以上及び駆逐艦2隻以上を含む航空戦隊を編成。大規模演習により、さらなる戦技及び練度向上を図る。同航空戦隊で、本日中に演習を【S判定】勝利6回以上達成せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 500,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "13号対空電探",
+          "amount": 2
+        },
+        {
+          "name": "開発資材",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "彩雲★+2",
+          "amount": 1
+        },
+        {
+          "name": "天山★+2",
+          "amount": 2
+        },
+        {
+          "name": "熟練搭乗員",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    333
+  ],
+  "requirements": {
+    "category": "excercise",
+    "times": 6,
+    "victory": true,
+    "result": "S",
+    "daily": true,
+    "groups": [
+      {
+        "ship": "空母",
+        "amount": 3
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}
