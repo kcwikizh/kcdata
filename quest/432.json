@@ -1,0 +1,62 @@
+{
+  "game_id": 432,
+  "wiki_id": "D30",
+  "category": 4,
+  "type": 1,
+  "name": "警備及び哨戒偵察を強化せよ！",
+  "detail": "警備哨戒任務：遠征「海峡警備行動」「強行偵察任務」「南西方面航空偵察作戦」を実施、南方戦線遠征の前段作戦として、内地及び南西諸島方面の警備及び哨戒偵察を実施せよ！",
+  "reward_fuel": 500,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "給糧艦「間宮」",
+          "amount": 1
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "開発資材",
+          "amount": 4
+        },
+        {
+          "name": "改修資材",
+          "amount": 2
+        },
+        {
+          "name": "7.7mm機銃",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    416
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": "A2"
+      },
+      {
+        "times": 1,
+        "id": "B1"
+      },
+      {
+        "times": 1,
+        "id": 10
+      }
+    ]
+  }
+}
