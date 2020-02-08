@@ -1,0 +1,59 @@
+{
+  "game_id": 431,
+  "wiki_id": "D29",
+  "category": 4,
+  "type": 1,
+  "name": "艦隊司令部の強化 【準備段階】",
+  "detail": "艦隊司令部強化の準備：遠征任務「敵地偵察作戦」「海峡警備行動」「南西方面航空偵察作戦」「兵站強化任務」を海防艦や水雷戦隊、水上機母艦等を投入、同遠征任務群を成功させよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 500,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "改修資材",
+      "amount": 3
+    },
+    {
+      "choices": [
+        {
+          "name": "洋上補給",
+          "amount": 5
+        },
+        {
+          "name": "零式水上偵察機11型乙",
+          "amount": 1
+        },
+        {
+          "name": "紫雲",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    413,
+    430
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": "A1"
+      },
+      {
+        "times": 1,
+        "id": "A2"
+      },
+      {
+        "times": 1,
+        "id": "B1"
+      },
+      {
+        "times": 1,
+        "id": 17
+      }
+    ]
+  }
+}

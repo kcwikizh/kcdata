@@ -37,6 +37,10 @@
       {
         "name": "ドラム缶(輸送用)",
         "amount": 2
+      },
+      {
+        "name": "12cm30連装噴進砲",
+        "amount": 1
       }
     ],
     "consumptions": [
