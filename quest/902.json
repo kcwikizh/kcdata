@@ -1,0 +1,82 @@
+{
+  "game_id": 902,
+  "wiki_id": "B141",
+  "category": 2,
+  "type": 1,
+  "name": "新編「六水戦」出撃！後で感想、聞かせてね！",
+  "detail": "改装軽巡「夕張改二」型旗艦を含む第六水雷戦隊４隻以上を擁する艦隊で、鎮守府近海、鎮守府近海航路、さらに南西諸島バシー海峡、北方キス島沖、南西ブルネイ泊地沖の各作戦を、それぞれ完全成功させよ！",
+  "reward_fuel": 3000,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "補強増設",
+      "amount": 1
+    },
+    {
+      "choices": [
+        {
+          "name": "開発資材",
+          "amount": 12
+        },
+        {
+          "name": "甲標的 丁型改(蛟龍改)",
+          "amount": 1
+        },
+        {
+          "name": "改修資材",
+          "amount": 6
+        }
+      ]
+    }
+  ],
+  "prerequisite": [901],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": ["1-5", "2-2", "2-3", "7-1"],
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": ["夕張改二", "夕張改二特", "夕張改二丁"],
+            "flagship": true
+          },
+          {
+            "ship": ["睦月", "如月", "弥生", "卯月", "菊月", "望月"],
+            "select": 3
+          },
+          {
+            "ship": "艦",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": "1-6",
+        "boss": true,
+        "groups": [
+          {
+            "ship": ["夕張改二", "夕張改二特", "夕張改二丁"],
+            "flagship": true
+          },
+          {
+            "ship": ["睦月", "如月", "弥生", "卯月", "菊月", "望月"],
+            "select": 3
+          },
+          {
+            "ship": "艦",
+            "amount": 2
+          }
+        ],
+        "result": "クリア"
+      }
+    ]
+  }
+}
