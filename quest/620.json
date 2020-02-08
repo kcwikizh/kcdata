@@ -1,0 +1,59 @@
+{
+  "game_id": 620,
+  "wiki_id": "F88",
+  "category": 6,
+  "type": 1,
+  "name": "一航戦精鋭'流星改'隊の編成",
+  "detail": "一航戦任務：旗艦「赤城改二（改二戊）」第一装備スロに「流星改（一航戦）」※連度maxを搭載し、「流星改」×4「彩雲」×1「九七艦攻」×2廃棄、弾薬×2800、ボーキ9000、熟練搭乗員×2を準備せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "流星改(一航戦/熟練)",
+      "category": "装備",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    283,
+    623
+  ],
+  "requirements": {
+    "category": "modelconversion",
+    "use_skilled_crew": true,
+    "secretary": [
+      "赤城改二",
+      "赤城改二戊"
+    ],
+    "slots": [
+      {
+        "slot": 1,
+        "equipment": "流星改（一航戦）",
+        "convert": true,
+        "fullyskilled": true
+      }
+    ],
+    "scraps": [
+      {
+        "name": "流星改",
+        "amount": 4
+      },
+      {
+        "name": "彩雲",
+        "amount": 1
+      },
+      {
+        "name": "九七式艦攻",
+        "amount": 2
+      }
+    ],
+    "resources": [
+      0,
+      2800,
+      0,
+      9000
+    ]
+  }
+}
