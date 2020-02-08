@@ -1,0 +1,63 @@
+{
+  "game_id": 433,
+  "wiki_id": "D31",
+  "category": 4,
+  "type": 1,
+  "name": "南方戦線遠征を実施せよ！",
+  "detail": "南方戦線遠征：南方海域の作戦を援護する南方作戦遠征作戦を実施する。南方海域遠征「東京急行」「東京急行(弐)」「水上機基地建設」「水上機前線輸送」「MO作戦」を実施せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 750,
+  "reward_bauxite": 750,
+  "reward_other": [
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 2
+    },
+    {
+      "choices": [
+        {
+          "name": "高速修復材",
+          "amount": 6
+        },
+        {
+          "name": "大発動艇",
+          "amount": 2
+        },
+        {
+          "name": "12.7mm単装機銃",
+          "amount": 3
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    432,
+    425
+  ],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 35
+      },
+      {
+        "times": 1,
+        "id": 36
+      },
+      {
+        "times": 1,
+        "id": 37
+      },
+      {
+        "times": 1,
+        "id": 38
+      },
+      {
+        "times": 1,
+        "id": 40
+      }
+    ]
+  }
+}
