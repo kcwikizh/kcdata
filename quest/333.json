@@ -1,0 +1,60 @@
+{
+  "game_id": 333,
+  "wiki_id": "C33",
+  "category": 3,
+  "type": 1,
+  "name": "航空戦隊演習(その壱)",
+  "detail": "航空戦隊演習任務：航空母艦3隻以上及び駆逐艦2隻以上を含む航空戦隊を編成。艦隊戦演習により、戦技及び練度向上を図る。同航空戦隊で、本日中に演習を【S判定】勝利3回以上達成せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 300,
+  "reward_steel": 0,
+  "reward_bauxite": 300,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "開発資材",
+          "amount": 3
+        },
+        {
+          "name": "高速建造材",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "九七式艦攻",
+          "amount": 3
+        },
+        {
+          "name": "洋上補給",
+          "amount": 2
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "excercise",
+    "times": 3,
+    "victory": true,
+    "result": "S",
+    "daily": true,
+    "groups": [
+      {
+        "ship": "空母",
+        "amount": 3
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}
