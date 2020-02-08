@@ -48,7 +48,7 @@
     "category": "equipexchange",
     "equipments": [
       {
-        "name": "35.6㎝連装砲",
+        "name": "35.6cm連装砲",
         "amount": 3
       },
       {
@@ -58,7 +58,7 @@
     ],
     "scraps": [
       {
-        "name": "14㎝単装砲",
+        "name": "14cm単装砲",
         "amount": 6
       }
     ],
