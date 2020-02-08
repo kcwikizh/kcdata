@@ -1,0 +1,80 @@
+{
+  "game_id": 903,
+  "wiki_id": "Bq13",
+  "category": 2,
+  "type": 7,
+  "name": "拡張「六水戦」、最前線へ！",
+  "detail": "軽巡「夕張改二」型の旗艦に随伴第六水雷戦隊駆逐艦２隻以上または「由良改二」を含む艦隊で、南方海域前面、南方サーモン海域、中部北海域ピーコック島沖、中部KW環礁沖海域に展開、敵戦力を撃滅せよ！",
+  "reward_fuel": 1000,
+  "reward_ammo": 1000,
+  "reward_steel": 1000,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "戦果390"
+    },
+    {
+      "choices": [
+        {
+          "name": "高速修復材",
+          "amount": 10
+        },
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "勲章",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [902],
+  "requirements": {
+    "category": "or",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": ["5-1", "5-4", "6-4", "6-5"],
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": ["夕張改二", "夕張改二特", "夕張改二丁"],
+            "flagship": true
+          },
+          {
+            "ship": ["睦月", "如月", "弥生", "卯月", "菊月", "望月"],
+            "select": 2
+          },
+          {
+            "ship": "艦",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": ["5-1", "5-4", "6-4", "6-5"],
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": ["夕張改二", "夕張改二特", "夕張改二丁"],
+            "flagship": true
+          },
+          {
+            "ship": "由良改二"
+          },
+          {
+            "ship": "艦",
+            "amount": 4
+          }
+        ]
+      }
+    ]
+  }
+}
