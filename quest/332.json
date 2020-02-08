@@ -1,0 +1,71 @@
+{
+  "game_id": 332,
+  "wiki_id": "C32",
+  "category": 3,
+  "type": 1,
+  "name": "六周年記念演習",
+  "detail": "六周年記念演習：軽巡クラス1隻と駆逐艦または海防艦計3隻以上を含む6隻編成の特務艦隊を編成。同艦隊による演習で本日中に【S判定】以上4回勝利せよ！",
+  "reward_fuel": 600,
+  "reward_ammo": 600,
+  "reward_steel": 600,
+  "reward_bauxite": 600,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "開発資材",
+          "amount": 6
+        },
+        {
+          "name": "高速建造材",
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "choices": [
+        {
+          "name": "零式艦戦52型",
+          "amount": 6
+        },
+        {
+          "name": "35.6cm連装砲",
+          "amount": 6
+        },
+        {
+          "name": "勲章",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "excercise",
+    "times": 4,
+    "victory": true,
+    "result": "S",
+    "daily": true,
+    "groups": [
+      {
+        "ship": [
+          "軽巡",
+          "練習巡洋艦",
+          "重雷装巡洋艦"
+        ],
+        "amount": 1
+      },
+      {
+        "ship": [
+          "駆逐",
+          "海防艦"
+        ],
+        "amount": 3
+      },
+      {
+        "ship": "艦",
+        "amount": 2
+      }
+    ]
+  }
+}
