@@ -1,0 +1,67 @@
+{
+  "game_id": 292,
+  "wiki_id": "B133",
+  "category": 2,
+  "type": 1,
+  "name": "重改装高速戦艦「金剛改二丙」、南方突入！",
+  "detail": "南方海域出撃任務：「金剛改二丙」を旗艦、随伴艦に金剛型1隻、駆逐艦2隻以上を含む艦隊で、南方海域前面、サブ島沖海域、サーモン海域、同海域北方に反復突入、各海域の敵を撃滅せよ！",
+  "reward_fuel": 1944,
+  "reward_ammo": 2019,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "新型砲熕兵装資材",
+          "amount": 2
+        },
+        {
+          "name": "戦闘詳報",
+          "amount": 1
+        },
+        {
+          "name": "勲章",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "35.6cm連装砲改二",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    290
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 2,
+    "map": [
+      "5-1",
+      "5-3",
+      "5-4",
+      "5-5"
+    ],
+    "boss": true,
+    "result": "S",
+    "groups": [
+      {
+        "ship": "金剛改二丙",
+        "flagship": true
+      },
+      {
+        "ship": [
+          "比叡",
+          "榛名",
+          "霧島"
+        ],
+        "select": 1
+      },
+      {
+        "ship": "駆逐",
+        "amount": 2
+      }
+    ]
+  }
+}

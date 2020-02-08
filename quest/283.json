@@ -1,0 +1,92 @@
+{
+  "game_id": 283,
+  "wiki_id": "B137",
+  "category": 2,
+  "type": 1,
+  "name": "精強！'第一航空戦隊'出撃せよ！",
+  "detail": "第一艦隊旗艦「赤城改二(改二戊)」同二番艦「加賀」の第一航空戦隊を中核とした艦隊で、カレー洋リランカ島沖、珊瑚諸島沖に展開！さらにKW環礁沖海域に反復出撃！鎧袖一触！敵を粉砕せよ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 1000,
+  "reward_bauxite": 1000,
+  "reward_other": [
+    {
+      "choices": [
+        {
+          "name": "改修資材",
+          "amount": 5
+        },
+        {
+          "name": "新型航空兵装資材",
+          "amount": 1
+        },
+        {
+          "name": "熟練搭乗員",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "流星改(一航戦)",
+      "amount": 1
+    }
+  ],
+  "prerequisite": [
+    272,
+    333
+  ],
+  "requirements": {
+    "category": "and",
+    "list": [
+      {
+        "category": "sortie",
+        "times": 1,
+        "map": [
+          "4-5",
+          "5-2"
+        ],
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": [
+              "赤城改二",
+              "赤城改二戊"
+            ],
+            "flagship": true
+          },
+          {
+            "ship": [
+              "加賀",
+              "加賀改"
+            ],
+            "place": 2
+          }
+        ]
+      },
+      {
+        "category": "sortie",
+        "times": 2,
+        "map": "6-5",
+        "boss": true,
+        "result": "S",
+        "groups": [
+          {
+            "ship": [
+              "赤城改二",
+              "赤城改二戊"
+            ],
+            "flagship": true
+          },
+          {
+            "ship": [
+              "加賀",
+              "加賀改"
+            ],
+            "place": 2
+          }
+        ]
+      }
+    ]
+  }
+}
