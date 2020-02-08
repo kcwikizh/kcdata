@@ -1,0 +1,50 @@
+{
+  "game_id": 845,
+  "wiki_id": "Bq12",
+  "category": 2,
+  "type": 7,
+  "name": "発令！「西方海域作戦」",
+  "detail": "大規模出撃任務：「西方海域作戦」が発令された！有力な艦隊を編成し、西方海域全海域に出撃、同海域に展開する敵戦力を完全撃破、これを殲滅せよ！艦隊、西へ！",
+  "reward_fuel": 0,
+  "reward_ammo": 0,
+  "reward_steel": 2400,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "戦果330"
+    },
+    {
+      "choices": [
+        {
+          "name": "勲章",
+          "amount": 1
+        },
+        {
+          "name": "大発動艇",
+          "amount": 2
+        },
+        {
+          "name": "新型噴進装備開発資材",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [
+    247,
+    284
+  ],
+  "requirements": {
+    "category": "sortie",
+    "times": 1,
+    "map": [
+      "4-1",
+      "4-2",
+      "4-3",
+      "4-4",
+      "4-5"
+    ],
+    "boss": true,
+    "result": "S"
+  }
+}

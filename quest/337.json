@@ -1,0 +1,56 @@
+{
+  "game_id": 337,
+  "wiki_id": "C38",
+  "category": 3,
+  "type": 7,
+  "name": "「十八駆」演習！",
+  "detail": "駆逐艦演習任務：第十八駆逐艦『霞』『霰』『陽炎』『不知火』の4隻を含む演習艦隊を編成。同艦隊で本日中に演習で『S判定』勝利3回以上を達成せよ！精鋭十八駆に落ち度など無し！",
+  "reward_fuel": 180,
+  "reward_ammo": 180,
+  "reward_steel": 180,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    },
+    {
+      "choices": [
+        {
+          "name": "大発動艇",
+          "amount": 1
+        },
+        {
+          "name": "12cm30連装噴進砲",
+          "amount": 2
+        },
+        {
+          "name": "改修資材",
+          "amount": 3
+        }
+      ]
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "excercise",
+    "times": 3,
+    "victory": true,
+    "result": "S",
+    "daily": true,
+    "groups": [
+      {
+        "ship": "霞"
+      },
+      {
+        "ship": "霰"
+      },
+      {
+        "ship": "陽炎"
+      },
+      {
+        "ship": "不知火"
+      }
+    ]
+  }
+}

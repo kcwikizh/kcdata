@@ -1,0 +1,47 @@
+{
+  "game_id": 338,
+  "wiki_id": "C39",
+  "category": 3,
+  "type": 1,
+  "name": "睦月型集合！演習始め！",
+  "detail": "睦月型演習任務：睦月型駆逐艦4隻による駆逐隊を含む演習艦隊を編成。同艦隊で本日中に演習にて4回以上勝利せよ！睦月型、がんばるにゃしぃ！",
+  "reward_fuel": 200,
+  "reward_ammo": 200,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 1
+    },
+    {
+      "choices": [
+        {
+          "name": "開発資材",
+          "amount": 5
+        },
+        {
+          "name": "特注家具職人",
+          "amount": 1
+        },
+        {
+          "name": "新型噴進装備開発資材",
+          "amount": 1
+        }
+      ]
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "excercise",
+    "times": 4,
+    "victory": true,
+    "daily": true,
+    "groups": [
+      {
+        "shipclass": "睦月",
+        "amount": 4
+      }
+    ]
+  }
+}
