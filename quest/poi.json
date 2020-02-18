@@ -8673,6 +8673,68 @@
     }
   },
   {
+  "game_id": 339,
+  "wiki_id": "C42",
+  "category": 3,
+  "type": 7,
+  "name": "「十九駆」演習！",
+  "detail": "駆逐艦演習任務：第十九駆逐隊「磯波」「浦波」「綾波」「敷波」の4隻を含む演習艦隊を編成。<br>同艦隊で本日中に演習で【S判定】勝利3回以上を達成せよ！精鋭十九駆、じゃ、見ててよね！",
+  "reward_fuel": 190,
+  "reward_ammo": 190,
+  "reward_steel": 190,
+  "reward_bauxite": 100,
+  "reward_other": [
+    {
+    "choices": [
+    {
+      "name": "給糧艦「間宮」",
+      "amount": 1
+    },
+    {
+      "name": "改修資材",
+      "amount": 3
+    }
+    ],
+    "choices": [
+      {
+        "name": "三式爆雷投射機",
+        "amount": 1
+      },
+      {
+        "name": "12.7cm連装砲B型改二",
+        "amount": 1
+      },
+      {
+        "name": "開発資材",
+        "amount": 8
+      }
+      ]
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+  "category": "excercise",
+  "times": 3,
+  "victory": true,
+  "result": "S",
+  "daily": true,
+  "groups":[
+   {
+     "ship": "綾波"
+   },
+   {
+     "ship": "敷波"
+   },
+   {
+      "ship": "磯波"
+   },
+   {
+      "ship": "浦波"
+   }
+]
+}
+},
+  {
     "game_id": 401,
     "wiki_id": "D01",
     "category": 4,
@@ -9691,6 +9753,81 @@
       ]
     }
   },
+  {
+  "game_id": 434,
+  "wiki_id": "D32y",
+  "category": 4,
+  "type": 5,
+  "name": "特設護衛船団司令部、活動開始！",
+  "detail": "海上護衛任務：遠征任務「警備任務」「海上護衛任務」「兵站強化任務」「海峡警備行動」<br>「タンカー護衛任務」の各任務を、海防艦・駆逐艦などを主軸とした護衛艦艇で実施せよ！",
+  "reward_fuel": 1000,
+  "reward_ammo": 0,
+  "reward_steel": 0,
+  "reward_bauxite": 500,
+  "reward_other": [
+    {
+    "choices": [
+    {
+      "name": "給糧艦「伊良湖」",
+      "amount": 2
+    },
+    {
+      "name": "高速修復材",
+      "amount": 5
+    }
+    ],
+    "choices": [
+      {
+        "name": "洋上補給",
+        "amount": 2
+      },
+      {
+        "name": "改修資材",
+        "amount": 3
+      },
+      {
+        "name": "緊急修理資材",
+        "amount": 2
+      }
+  ]
+    }
+  ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "expedition",
+    "objects": [
+      {
+        "times": 1,
+        "id": 3
+      },
+      {
+        "times": 1,
+        "id": 5
+      },
+      {
+        "times": 1,
+        "id": 9
+      },
+      {
+        "times": 1,
+        "id": "A1"
+      },
+      {
+        "times": 1,
+        "id": "A2"
+      }
+    ],
+    "groups": [
+      {
+        "ship": [
+          "駆逐艦",
+          "海防艦"
+        ]
+      }
+    ],
+    "disallowed": "他の艦"
+  }
+},
   {
     "game_id": 501,
     "wiki_id": "E01",
@@ -18478,5 +18615,155 @@
         }
       ]
     }
+  },
+  {
+  "game_id": 904,
+  "wiki_id": "By1",
+  "category": 2,
+  "type": 5,
+  "name": "精鋭「十九駆」、躍り出る！",
+  "detail": "改装特II型駆逐艦「綾波改二」及び同「敷波改二」を含む精鋭艦隊を前線に投入、南西諸島海域沖ノ島沖、<br>北方海域全域、西方海域カレー洋リランカ島沖、南方サブ島沖海域に展開、各敵主力を捕捉撃滅せよ！",
+  "reward_fuel": 1900,
+  "reward_ammo": 0,
+  "reward_steel": 1900,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+    "choices": [
+      {
+        "name": "特注家具職人",
+        "amount": 1
+      },
+      {
+        "name": "給糧艦「間宮」",
+        "amount": 1
+      },
+      {
+        "name": "家具箱（中）",
+        "amount": 1
+      }
+    ],
+    "choices": [
+      {
+        "name": "高速修復材",
+        "amount": 8
+      },
+      {
+        "name": "開発資材",
+        "amount": 10
+      },
+      {
+        "name": "改修資材",
+        "amount": 4
+      }
+    }
+  ],
+  "prerequisite": [
+  ],
+  "requirements": {
+    "category": "sortie",
+    "map": [
+            "2-5",
+            "3-4",
+            "4-5",
+            "5-3"
+            ],
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+    {
+       "ship": "綾波改二"
+     },
+     {
+       "ship": "敷波改二"
+     }
+    ]
   }
+},
+{
+  "game_id": 905,
+  "wiki_id": "By2",
+  "category": 2,
+  "type": 5,
+  "name": "「海防艦」、海を護る！",
+  "detail": "海防艦3隻を含む5隻以下の海上護衛隊を、鎮守府海域に展開。鎮守府正面海域、南西諸島沖海域、製油所<br>地帯沿岸、鎮守府近海、鎮守府近海航路の各海域の安全確保と対潜掃蕩を図れ！海防艦戦隊、抜錨せよ！",
+  "reward_fuel": 1200,
+  "reward_ammo": 600,
+  "reward_steel": 600,
+  "reward_bauxite": 0,
+  "reward_other": [
+    {
+    "choices": [
+    {
+      "name": "高速修復材",
+      "amount": 6
+    },
+    {
+      "name": "開発資材",
+      "amount": 8
+    }
+    ],
+    "choices": [
+      {
+        "name": "勲章",
+        "amount": 1
+      },
+      {
+        "name": "二式爆雷",
+        "amount": 1
+      },
+      {
+        "name": "特注家具職人",
+        "amount": 1
+      }
+]
+    }
+  ],
+  "prerequisite": [  ],
+  "requirements": {
+     "category": "and",
+     "list": [
+       {
+         "category": "sortie",
+         "map": "1-6",
+         "times": 1,
+         "groups": [
+           {
+             "ship":"海防艦"
+             "amount": 3
+           },
+           {
+             "ship":"艦"
+             "amount": 2
+           }
+         ],
+         "result": "クリア"
+       },
+       {
+         "category": "sortie",
+         "map": [
+         "1-1",
+         "1-2",
+         "1-3",
+         "1-5"
+         ],
+         "times": 1,
+         "boss": true,
+         "result": "S",
+         "groups": [
+           {
+             "ship":"海防艦"
+             "amount": 3
+           },
+           {
+             "ship":"艦"
+            "amount": 2
+           }
+         ]
+       }
+     ]
+   }
+}
+
 ]
