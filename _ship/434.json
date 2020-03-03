@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: idhoawqrgkqh
-  file_version: ["26", "13", "207"]
+  file_version: ["27", "13", "303"]
   book_table_id: [434]
   book_sinfo: 帝国海軍の駆逐艦で初めて大型で強力な61cm魚雷を搭載しました、睦月です！<br>旧式ながら、第一線で頑張ったのです！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 1, 0]
     build_time: 18
   graph:
-    boko_n: [168, 216]
-    boko_d: [168, 216]
+    boko_n: [228, 180]
+    boko_d: [312, 156]
     kaisyu_n: [36, 6]
     kaisyu_d: [36, -18]
-    kaizo_n: [120, 144]
-    kaizo_d: [120, 144]
-    map_n: [120, 168]
-    map_d: [120, 168]
-    ensyuf_n: [192, 192]
-    ensyuf_d: [192, 192]
-    ensyue_n: [144, 0]
-    battle_n: [168, 192]
-    battle_d: [168, 192]
-    wed_a: [168, -12]
-    wed_b: [204, 204]
+    kaizo_n: [156, 120]
+    kaizo_d: [204, 36]
+    map_n: [144, 156]
+    map_d: [228, 132]
+    ensyuf_n: [192, 144]
+    ensyuf_d: [264, 108]
+    ensyue_n: [156, 0]
+    battle_n: [168, 144]
+    battle_d: [240, 120]
+    wed_a: [144, 36]
+    wed_b: [192, 180]
   wiki_id: "234"
   chinese_name: 睦月改二
   can_drop: false

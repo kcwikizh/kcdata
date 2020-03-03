@@ -8,7 +8,7 @@ data:
   description: 選び抜かれた高級な素材を<br>ふんだんに使用して、職人<br>が作り上げた雪模様の特製<br>絨毯です。白が似合う艦娘<br>達にも大好評の逸品です。
   rarity: 4
   price: 2000
-  saleflg: 1
+  saleflg: 0
   season: 25
   filename: 
   file_version: 

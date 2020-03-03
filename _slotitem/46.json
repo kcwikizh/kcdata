@@ -75,6 +75,12 @@ data:
             ship_id: 115
           -
             ship_id: 293
+          -
+            ship_id: 622
+          -
+            ship_id: 623
+          -
+            ship_id: 624
         -
           -
             ship_id: 141
@@ -86,11 +92,23 @@ data:
             ship_id: 115
           -
             ship_id: 293
+          -
+            ship_id: 622
+          -
+            ship_id: 623
+          -
+            ship_id: 624
         -
           -
             ship_id: 115
           -
             ship_id: 293
+          -
+            ship_id: 622
+          -
+            ship_id: 623
+          -
+            ship_id: 624
     -
       consume:
         resource: [10, 0, 30, 30]

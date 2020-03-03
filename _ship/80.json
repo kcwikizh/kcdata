@@ -14,7 +14,7 @@ data:
   get_mes: 私が、戦艦長門だ。よろしく頼むぞ。<br>敵戦艦との殴り合いなら任せておけ。
   voice_f: 0
   filename: jnxoytktolbb
-  file_version: ["18", "16", "207"]
+  file_version: ["18", "16", "303"]
   book_table_id: [80, 1027]
   book_sinfo: 八八艦隊計画の第一号艦として生まれた、長門型戦艦のネームシップ、長門だ。<br>大和型が就役するまで、連合艦隊旗艦も務めていたさ。<br>世界のビッグ７と云われてもいたな。
   stats:
