@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: rmcvsljwdyur
-  file_version: ["25", "17", "207"]
+  file_version: ["26", "17", "303"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [-36, 84]
+    boko_n: [-175, -12]
     boko_d: [-178, -3]
     kaisyu_n: [18, 0]
     kaisyu_d: [42, 15]
-    kaizo_n: [0, 48]
+    kaizo_n: [-303, -97]
     kaizo_d: [-192, -144]
-    map_n: [-48, 96]
+    map_n: [-252, -21]
     map_d: [-322, -18]
-    ensyuf_n: [-24, 48]
+    ensyuf_n: [-237, -24]
     ensyuf_d: [-228, -90]
-    ensyue_n: [-72, 0]
-    battle_n: [0, 96]
+    ensyue_n: [-237, 0]
+    battle_n: [-280, -12]
     battle_d: [-280, -10]
-    wed_a: [384, 108]
-    wed_b: [216, 168]
+    wed_a: [616, 220]
+    wed_b: [183, 175]
   wiki_id: "015a"
   chinese_name: 丛云改
   can_drop: false

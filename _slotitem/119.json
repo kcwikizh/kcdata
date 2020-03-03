@@ -114,7 +114,9 @@ data:
             amount: 1
       day:
         - false
-        - false
+        -
+          -
+            ship_id: 622
         -
           -
             ship_id: 622
@@ -129,8 +131,20 @@ data:
             ship_id: 623
           -
             ship_id: 624
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 622
+          -
+            ship_id: 623
+          -
+            ship_id: 624
+        -
+          -
+            ship_id: 623
+          -
+            ship_id: 624
+        -
+          -
+            ship_id: 624
   chinese_name: 14cm连装炮
 ---

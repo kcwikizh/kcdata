@@ -14,7 +14,7 @@ data:
   get_mes: 白露型駆逐艦五番艦の春雨です、はい。<br>輸送作戦はお任せください……です。
   voice_f: 1
   filename: dbtrdgatxdpl
-  file_version: ["30", "5", "207"]
+  file_version: ["31", "5", "303"]
   book_table_id: [405, 323, 957, 990, 899]
   book_sinfo: 白露型駆逐艦五番艦の春雨です。<br>おいしそう…ってその春雨とは違います！村雨や夕立姉さんたちと共に第二駆逐隊として海を駆け巡りました！輸送や護衛任務は、少し得意なんです。はい！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 22
   graph:
-    boko_n: [156, 210]
-    boko_d: [198, 126]
+    boko_n: [96, 132]
+    boko_d: [60, 84]
     kaisyu_n: [0, 24]
     kaisyu_d: [36, -24]
-    kaizo_n: [108, 108]
-    kaizo_d: [120, 30]
-    map_n: [96, 168]
-    map_d: [132, 96]
-    ensyuf_n: [108, 168]
-    ensyuf_d: [114, 90]
-    ensyue_n: [84, 0]
-    battle_n: [144, 192]
-    battle_d: [144, 120]
-    wed_a: [192, 0]
-    wed_b: [162, 192]
+    kaizo_n: [36, 60]
+    kaizo_d: [12, -24]
+    map_n: [48, 144]
+    map_d: [0, 84]
+    ensyuf_n: [72, 96]
+    ensyuf_d: [72, 48]
+    ensyue_n: [36, 0]
+    battle_n: [72, 120]
+    battle_d: [72, 60]
+    wed_a: [240, 144]
+    wed_b: [156, 144]
   wiki_id: "205"
   chinese_name: 春雨
   can_drop: true

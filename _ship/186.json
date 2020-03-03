@@ -14,7 +14,7 @@ data:
   get_mes: 陽炎型駆逐艦十番艦。<br>時津風……出るよ。
   voice_f: 1
   filename: dljghewzktat
-  file_version: ["14", "14", "207"]
+  file_version: ["14", "14", "303"]
   book_table_id: [186]
   book_sinfo: 陽炎型十番艦の時津風だよ。<br>雪風、初風、天津風とで第十六駆逐隊を編成、仲良く色々と頑張ったんだよ。二水戦にもいたんだよ、ほんとほんと。でも、制海権の無い海は…ちょっと嫌かなーって。
   stats:
