@@ -1,0 +1,200 @@
+---
+layout: json
+order: 471
+data:
+  id: 471
+  name: 期間限定海域:マニラ沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: A
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: D
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: D
+      to: K
+    12:
+      from: K
+      to: L
+    13:
+      from: L
+      to: M
+    14:
+      from: L
+      to: N
+    15:
+      from: M
+      to: O
+    16:
+      from: B
+      to: A
+    17:
+      from: C
+      to: B
+    18:
+      from: B
+      to: D
+    19:
+      from: D
+      to: E
+    20:
+      from: E
+      to: G
+    21:
+      from: F
+      to: K
+    22:
+      from: N
+      to: O
+    23:
+      from: E
+      to: J
+    24:
+      from: O
+      to: P
+    25:
+      from: P
+      to: Q
+    26:
+      from: Q
+      to: R
+    27:
+      from: R
+      to: S
+    28:
+      from: R
+      to: T
+    29:
+      from: Q
+      to: T
+  cells:
+    A:
+      name: 深海上陸部隊 前衛水雷戦隊
+      type:
+      boss: false
+      routes: [1, 16]
+    B:
+      name:
+      type:
+      boss: false
+      routes: [2, 17]
+    C:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海潜水艦隊 群狼集団
+      type:
+      boss: false
+      routes: [4, 18]
+    E:
+      name: 深海上陸部隊 巡洋艦戦隊
+      type:
+      boss: false
+      routes: [5, 19]
+    F:
+      name:
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海上陸部隊 基地航空隊
+      type:
+      boss: false
+      routes: [7, 20]
+    H:
+      name:
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 深海任務部隊 泊地急襲任務群
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海上陸部隊 補給集積地
+      type:
+      boss: false
+      routes: [10, 23]
+    K:
+      name:
+      type:
+      boss: false
+      routes: [11, 21]
+    L:
+      name: 深海島嶼部隊 魚雷艇戦隊
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name:
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [15, 22]
+    P:
+      name:
+      type:
+      boss: false
+      routes: [24]
+    Q:
+      name: 深海任務部隊 護衛空母群 A群
+      type:
+      boss: false
+      routes: [25]
+    R:
+      name: 深海任務部隊 護衛空母群 B群
+      type:
+      boss: false
+      routes: [26]
+    S:
+      name:
+      type:
+      boss: false
+      routes: [27]
+    T:
+      name: 深海任務部隊 主力機動部隊
+      type:
+      boss: true
+      routes: [28, 29]
+  image: MapHDE-1Winter2020.png
+---
