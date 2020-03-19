@@ -14,7 +14,7 @@ data:
   get_mes: 千歳です。<br>日本では初めての水上機母艦なのよ。よろしくね！
   voice_f: 0
   filename: dkmxevqgbxmr
-  file_version: ["28", "17", "303"]
+  file_version: ["28", "17", "313"]
   book_table_id: [102, 955, 894]
   book_sinfo: 水上機母艦千歳です。<br>水上機を沢山運用できる優れものですが、給油艦として重油を他の艦に補給もできちゃうの。<br>後期には、航空母艦に改装され、第一線で戦ったのよ。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [165, 177]
   wiki_id: "049"
   chinese_name: 千岁
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---

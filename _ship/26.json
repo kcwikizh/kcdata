@@ -14,7 +14,7 @@ data:
   get_mes: 扶桑型超弩級戦艦、姉の扶桑です。<br>妹の山城ともども、よろしくお願い致します。
   voice_f: 0
   filename: ubntuiyurxwk
-  file_version: ["45", "21", "303"]
+  file_version: ["45", "21", "313"]
   book_table_id: [26, 286, 977, 875, 851, 806, 803]
   book_sinfo: 初の日本独自設計による超弩級戦艦、扶桑です。<br>妹の山城ともどもよろしくお願いしますね。<br>レイテ沖？　そうね、いつか突入してみたいわ。ホントよ？
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [148, 159]
   wiki_id: "026"
   chinese_name: 扶桑
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---

@@ -14,7 +14,7 @@ data:
   get_mes: ども、恐縮です、青葉ですぅ！<br>一言お願いします！
   voice_f: 0
   filename: bhyiqjjifflp
-  file_version: ["4", "4", "303"]
+  file_version: ["4", "4", "313"]
   book_table_id: [61]
   book_sinfo: 青葉です。トラック諸島方面へ進出して、<br>中部太平洋作戦を支えました。<br>従軍作家さんも乗り込んで青葉のスタッフの仕事振りを取材したことも。最期の時は、呉の港で。<br>動かす油もなかったけど、青葉、頑張りました！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [229, 243]
   wiki_id: "054"
   chinese_name: 青叶
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---

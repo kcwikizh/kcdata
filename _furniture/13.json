@@ -8,7 +8,7 @@ data:
   description: 丸い形の暖かい絨毯です。<br>冬の季節にぴったりの和み<br>絨毯は駆逐艦娘たちにも好<br>評です。高品質かつお求め<br>やすいお値段もポイント。
   rarity: 3
   price: 1800
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
   file_version: 
