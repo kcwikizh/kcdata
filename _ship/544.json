@@ -14,7 +14,7 @@ data:
   get_mes: It’s　a pleasure to meet you.<br>My name is Gambier Bay…ふわぁ！　う、撃たないで！<br>ふぅ…よ、よかった！
   voice_f: 1
   filename: nrqxieqrvqsh
-  file_version: ["64", "9", "303"]
+  file_version: ["64", "9", "313"]
   book_table_id: [544, 5312, 5323, 5343, 5401]
   book_sinfo: It’s　a pleasure to meet you. 　　私、護衛空母<br>Gambier Bayです。ジープ空母とも呼ばれた量産型<br>護衛空母姉妹の一隻です。レイテ沖海戦では日本海軍<br>主力の栗田艦隊と遭遇、有視界水上戦での戦いとなり<br>ました。でも私、できるだけの事、頑張ったんです！<br>Gambier Bayの名前、きっと覚えてくださいね。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [132, 168]
   wiki_id: "344"
   chinese_name: 甘比尔湾
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

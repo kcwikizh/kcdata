@@ -14,7 +14,7 @@ data:
   get_mes: 初めまして、龍田だよ。<br>天龍ちゃんがご迷惑かけてないかなあ～。
   voice_f: 0
   filename: qvqlfmytkmor
-  file_version: ["21", "12", "303"]
+  file_version: ["21", "12", "313"]
   book_table_id: [52, 931]
   book_sinfo: 軽巡洋艦、天龍型２番艦の龍田よ。<br>生まれは佐世保なの。<br>天龍ちゃんがみんなに迷惑かけてない？心配よね～。<br>え？私？私は潜水艦が、ちょっと鬼門だわ～。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [181, 187]
   wiki_id: "029"
   chinese_name: 龙田
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---
