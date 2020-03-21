@@ -18478,5 +18478,134 @@
         }
       ]
     }
+  },
+  {
+  "game_id": 910,
+  "wiki_id": "E47B5",
+  "category": 9,
+  "type": 4,
+  "name": "【桃の節句作戦】「沖に立つ波」出撃！",
+  "detail": "【桃の節句作戦】「沖波」を含む夕雲型駆逐艦3隻以上の駆逐隊を含む艦隊で、期間限定海域の<br>マニラ湾に侵入した敵艦隊、ミンドロ島侵攻部隊物資集積地、敵機動部隊を痛撃！ 「沖波」、出撃せよ！",
+  "reward_fuel": 1113,
+  "reward_ammo": 1113,
+  "reward_steel": 0,
+  "reward_bauxite": 0,
+  "reward_other": [
+  {
+    "name": "菱餅",
+    "amount": 4
+  },
+  {
+  "choices": [
+  {
+    "name": "勲章",
+    "amount": 1
+  },
+    {
+    "name": "給糧艦「間宮」",
+    "amount": 1
+    },
+    {
+      "name": "13号対空電探改★+4",
+      "amount": 1
+    }
+  ]
+}
+        ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "sortie",
+    "map": [
+            "47-1-P1",
+            "47-1-P2",
+            "47-1-P3",
+            ],
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "沖波"
+      },
+      {
+      "shipclass":"夕雲",
+      "amount": 2
+      },
+    ]
   }
+},
+  {
+  "game_id": 911,
+  "wiki_id": "B142",
+  "category": 9,
+  "type": 4,
+  "name": "再編「第三一駆逐隊」、抜錨せよ！",
+  "detail": "夕雲型駆逐艦「長波」「岸波」「朝霜」、そして「沖波改二」からなる再編第三一駆逐隊を含む艦隊を、製油所地帯沿岸、南西諸島防衛線、鎮守府近海、バシー海峡、東部オリョール海に展開、敵を撃破せよ！",
+  "reward_fuel": 880,
+  "reward_ammo": 880,
+  "reward_steel": 880,
+  "reward_bauxite": 500,
+  "reward_other": [
+  {
+  "choices": [
+  {
+    "name": "洋上補給",
+    "amount": 3
+  },
+    {
+    "name": "高速修復材",
+    "amount": 6
+    },
+    {
+      "name": "戦闘糧食(特別なおにぎり)",
+      "amount": 2
+    }
+  ]
+},
+  {
+  "choices": [
+  {
+    "name": "新型砲熕兵装資材",
+    "amount": 1
+  },
+    {
+    "name": "沖に立つ波",
+    "category": "家具"
+    },
+    {
+      "name": "新型噴進装備開発資材",
+      "amount": 1
+    }
+  ]
+}
+        ],
+  "prerequisite": [],
+  "requirements": {
+    "category": "sortie",
+    "map": [
+            "1-3","1-4","1-5","2-2"."2-3"
+            ],
+    "boss": true,
+    "result": "S",
+    "times": 1,
+    "groups": [
+      {
+        "ship": "沖波改二"
+      },
+      {
+        "ship": "長波"
+      },
+      {
+         "ship": "岸波"
+      },
+      {
+         "ship": "朝霜"
+      },
+      {
+      "ship": "艦",
+      "amount": 2
+      }
+    ]
+  }
+}
 ]
