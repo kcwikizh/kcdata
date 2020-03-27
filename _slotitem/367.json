@@ -1,0 +1,36 @@
+---
+layout: json
+order: 367
+data:
+  id: 367
+  sort_no: 367
+  name: Swordfish(水上機型)
+  type: [5, 43, 11, 10, 28]
+  rare: 3
+  broken: [1, 2, 0, 3]
+  info: 
+  usebull: 0
+  cost: 5
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 5
+    soku: 0
+    baku: 5
+    tyku: 0
+    tais: 4
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

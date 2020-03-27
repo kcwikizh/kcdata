@@ -8,7 +8,7 @@ data:
   description: 文字通りの最前線で戦って<br>いるブイン基地所属の提督<br>達のための逸品。艦載機を<br>モチーフに搭乗員妖精一同<br>による力強い文字が躍る！
   rarity: 2
   price: 0
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 
