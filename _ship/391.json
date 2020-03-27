@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: xvelofmpcame
-  file_version: ["26", "1", "313"]
+  filename: xvelofmpcaga
+  file_version: ["27", "1", "327"]
   book_table_id: 
   book_sinfo: 
   stats:
