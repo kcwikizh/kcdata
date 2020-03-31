@@ -55,6 +55,6 @@ data:
     wed_b: [148, 159]
   wiki_id: "026"
   chinese_name: 扶桑
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

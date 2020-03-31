@@ -55,6 +55,6 @@ data:
     wed_b: [177, 189]
   wiki_id: "137"
   chinese_name: 阿贺野
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

@@ -55,6 +55,6 @@ data:
     wed_b: [124, 159]
   wiki_id: "116"
   chinese_name: 三隈
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

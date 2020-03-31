@@ -55,6 +55,6 @@ data:
     wed_b: [138, 144]
   wiki_id: "256"
   chinese_name: 亲潮
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

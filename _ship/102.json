@@ -55,6 +55,6 @@ data:
     wed_b: [165, 177]
   wiki_id: "049"
   chinese_name: 千岁
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

@@ -55,6 +55,6 @@ data:
     wed_b: [141, 147]
   wiki_id: "009"
   chinese_name: 飞龙
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

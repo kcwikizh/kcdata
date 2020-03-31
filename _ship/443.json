@@ -55,6 +55,6 @@ data:
     wed_b: [168, 168]
   wiki_id: "243"
   chinese_name: 利伯齐奥
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---
