@@ -55,6 +55,6 @@ data:
     wed_b: [133, 144]
   wiki_id: "384"
   chinese_name: 八丈
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

@@ -55,6 +55,6 @@ data:
     wed_b: [244, 234]
   wiki_id: "005"
   chinese_name: 雪风
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

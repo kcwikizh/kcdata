@@ -55,6 +55,6 @@ data:
     wed_b: [135, 150]
   wiki_id: "025"
   chinese_name: 凤翔
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

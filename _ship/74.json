@@ -55,6 +55,6 @@ data:
     wed_b: [145, 175]
   wiki_id: "094"
   chinese_name: 祥凤
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

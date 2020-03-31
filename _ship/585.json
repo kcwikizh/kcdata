@@ -55,6 +55,6 @@ data:
     wed_b: [157, 154]
   wiki_id: "385"
   chinese_name: 石垣
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

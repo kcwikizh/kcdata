@@ -1,36 +1,36 @@
 ---
 layout: json
-order: 368
+order: 369
 data:
-  id: 368
-  sort_no: 368
-  name: Swordfish Mk.III改(水上機型)
+  id: 369
+  sort_no: 369
+  name: Swordfish Mk.III改(水上機型/熟練)
   type: [5, 43, 11, 10, 28]
-  rare: 4
+  rare: 5
   broken: [1, 3, 0, 3]
   info: 
   usebull: 0
-  cost: 6
+  cost: 5
   distance: 3
   stats:
     taik: 0
     souk: 0
     houg: 4
-    raig: 6
+    raig: 7
     soku: 0
-    baku: 7
+    baku: 8
     tyku: 0
-    tais: 7
+    tais: 8
     atap: 0
-    houm: 2
+    houm: 3
     raim: 0
     houk: 0
     raik: 0
     bakk: 0
-    saku: 3
+    saku: 4
     sakb: 0
     luck: 0
     leng: 0
   improvement: 
-  chinese_name: 
+  chinese_name:
 ---
