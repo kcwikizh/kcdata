@@ -11500,7 +11500,6 @@
         {
           "slot": 1,
           "equipment": "流星改(一航戦)",
-          "convert": true,
           "fullyskilled": true
         }
       ],
@@ -11553,8 +11552,7 @@
       "slots": [
         {
           "slot": 1,
-          "equipment": "7.7mm機銃",
-          "convert": true
+          "equipment": "7.7mm機銃"
         }
       ],
       "scraps": [
@@ -12828,13 +12826,11 @@
       "slots": [
         {
           "slot": 1,
-          "equipment": "試製晴嵐",
-          "convert": true
+          "equipment": "試製晴嵐"
         },
         {
           "slot": 2,
-          "equipment": "瑞雲(六三一空)",
-          "convert": true
+          "equipment": "瑞雲(六三一空)"
         }
       ],
       "secretary": [
@@ -12922,7 +12918,6 @@
         {
           "slot": 1,
           "equipment": "二式水戦改",
-          "convert": true,
           "fullyskilled": true,
           "maxmodified": true
         }
@@ -12969,7 +12964,6 @@
         {
           "slot": 1,
           "equipment": "二式水戦改",
-          "convert": true,
           "fullyskilled": true,
           "maxmodified": true
         }
@@ -13250,7 +13244,6 @@
         {
           "slot": 4,
           "equipment": "瑞雲(六三四空)",
-          "convert": true,
           "maxmodified": true
         }
       ],
@@ -13384,7 +13377,6 @@
         {
           "slot": 1,
           "equipment": "F6F-3",
-          "convert": true,
           "fullyskilled": true,
           "maxmodified": true
         }
@@ -13450,7 +13442,6 @@
         {
           "slot": 1,
           "equipment": "F6F-5",
-          "convert": true,
           "fullyskilled": true,
           "maxmodified": true
         }
@@ -13516,8 +13507,7 @@
       "slots": [
         {
           "slot": 1,
-          "equipment": "TBF",
-          "convert": true
+          "equipment": "TBF"
         }
       ],
       "scraps": [
@@ -13577,8 +13567,7 @@
       "slots": [
         {
           "slot": 1,
-          "equipment": "艦隊司令部施設",
-          "convert": true
+          "equipment": "艦隊司令部施設"
         }
       ],
       "scraps": [
@@ -13866,13 +13855,11 @@
           "slots": [
             {
               "slot": 1,
-              "equipment": "零式艦戦52型",
-              "convert": true
+              "equipment": "零式艦戦52型"
             },
             {
               "slot": 2,
-              "equipment": "零式艦戦52型",
-              "convert": true
+              "equipment": "零式艦戦52型"
             }
           ],
           "scraps": [
@@ -14103,7 +14090,6 @@
         {
           "slot": 1,
           "equipment": "試製41cm三連装砲",
-          "convert": true,
           "maxmodified": true
         }
       ],
@@ -14165,8 +14151,7 @@
       "slots": [
         {
           "slot": 3,
-          "equipment": "彗星二二型(六三四空)",
-          "convert": true
+          "equipment": "彗星二二型(六三四空)"
         }
       ],
       "use_skilled_crew": true,
@@ -14233,8 +14218,7 @@
         {
           "slot": 1,
           "equipment": "12.7cm連装砲A型改二",
-          "maxmodified": true,
-          "convert": true
+          "maxmodified": true
         }
       ],
       "consumptions": [
@@ -14301,8 +14285,7 @@
         {
           "slot": 1,
           "equipment": "12.7cm連装砲A型改二",
-          "maxmodified": true,
-          "convert": true
+          "maxmodified": true
         }
       ],
       "consumptions": [
@@ -14363,8 +14346,7 @@
         {
           "slot": 1,
           "equipment": "12.7cm連装砲B型改二",
-          "maxmodified": true,
-          "convert": true
+          "maxmodified": true
         }
       ],
       "consumptions": [
@@ -14930,7 +14912,6 @@
         {
           "slot": 1,
           "equipment": "瑞雲改二(六三四空)",
-          "convert": true,
           "maxmodified": true
         }
       ],
@@ -18271,6 +18252,9 @@
             "amount": 4
           }
         ]
+      },
+      {
+        "name": "戦果400"
       }
     ],
     "prerequisite": [
