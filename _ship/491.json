@@ -14,7 +14,7 @@ data:
   get_mes: Bonjour！<br>Enchantée　 Je m’appelle Commandant Teste<br>提督、どうぞよろしくお願い致します。
   voice_f: 1
   filename: ighfxhygboim
-  file_version: ["37", "5", "327"]
+  file_version: ["37", "5", "423"]
   book_table_id: [491, 838, 824, 819, 814, 791, 1045, 1070]
   book_sinfo: 自由・平等・博愛の国からまいりました、水上機母艦<br>Commandant Testeです。<br>充実の搭載機数と水上機の補修も可能な本格的な水上<br>機母艦として生まれました。巡洋艦並の火力もいいで<br>しょう？<br>え、実戦での活躍ですか？ C’est la vie！
   stats:

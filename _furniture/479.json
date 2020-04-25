@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 479
+  type: 3
+  no: 105
+  title: 「七周年記念」掛け軸
+  description: 艦隊の七周年を記念して、<br>ある駆逐隊の四隻が密かに<br>準備した特別な掛け軸。<br>この日のために新調した私<br>服で記念撮影しました！
+  rarity: 6
+  price: 70000
+  saleflg: 0
+  season: 0
+  filename: "106"
+  file_version: "1"
+---

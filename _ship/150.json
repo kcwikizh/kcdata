@@ -9,12 +9,12 @@ data:
   ctype: 6
   cnum: 2
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv: 90
+  after_ship_id: 592
   get_mes: <br>
   voice_f: 3
   filename: mhpalcnpxmgz
-  file_version: ["16", "23", "327"]
+  file_version: ["17", "23", "423"]
   book_table_id: [150, 5422]
   book_sinfo: 井上提督も愛した巡洋戦艦、比叡です。<br>ぴかぴかに肌を磨いて、御召艦としても活躍したの。<br>大和型のテスト艦にもなったのよ、知ってた？<br>え？ソロモン海戦？そうよ、奮闘したわ！
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 0
     slot_num: 4
     max_eq: [3, 3, 3, 3, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 7800
+    after_bull: 8800
     fuel_max: 100
     bull_max: 125
     broken: [10, 14, 33, 3]

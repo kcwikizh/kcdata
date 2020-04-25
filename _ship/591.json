@@ -14,14 +14,14 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: hsqphprrvupr
-  file_version: ["52", "27", "327"]
+  file_version: ["52", "27", "423"]
   book_table_id: [591]
   book_sinfo: 超弩級戦艦として建造技術導入を兼ねて英国ヴィッカ<br>ース社で建造された、金剛デース！<br>太平洋戦域でも持前の高速力を活かして、大活躍デー<br>ス！<br>期待してネ！
   stats:
     taik: [86, 99]
-    souk: [72, 88]
-    houg: [76, 98]
-    raig: [20, 42]
+    souk: [72, 91]
+    houg: [76, 99]
+    raig: [20, 44]
     tyku: [32, 89]
     luck: [18, 98]
     soku: 10

@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 630
+  sort_no: 430
+  name: Gotland andra
+  yomi: ゴトランド
+  stype: 3
+  ctype: 89
+  cnum: 1
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: kgykxxmonxbh
+  file_version: ["51", "1", "423"]
+  book_table_id: [630]
+  book_sinfo: スウェーデン生まれの航空巡洋艦、ゴトランドです。<br>皆さん、よろしくお願いしますね。<br>軽巡クラスなんです、私！　だから、あまり搭載機も<br>多くはないし、カタパルトも一基。…予算がね。うう<br>ん、いいの！　艤装は最高よ。現代にも繋がる我がス<br>ウェーデンの兵装技術、ね、覚えてて。
+  stats:
+    taik: [47, 67]
+    souk: [22, 67]
+    houg: [16, 60]
+    raig: [16, 73]
+    tyku: [30, 90]
+    luck: [26, 108]
+    soku: 10
+    leng: 2
+    kaih: 37
+    tais: 36
+    slot_num: 4
+    max_eq: [2, 2, 3, 7, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 35
+    broken: [2, 4, 11, 3]
+    pow_up: [1, 1, 3, 1]
+    build_time: 60
+  graph:
+    boko_n: [-57, 172]
+    boko_d: [-6, 247]
+    kaisyu_n: [24, -46]
+    kaisyu_d: [4, -43]
+    kaizo_n: [-93, 60]
+    kaizo_d: [-33, 88]
+    map_n: [-31, 139]
+    map_d: [-7, 204]
+    ensyuf_n: [-49, 129]
+    ensyuf_d: [-21, 187]
+    ensyue_n: [-64, 0]
+    battle_n: [-13, 160]
+    battle_d: [40, 222]
+    wed_a: [406, 28]
+    wed_b: [106, 169]
+  wiki_id: "430"
+  chinese_name: 哥特兰改二
+  can_drop: false
+  can_construct: false
+---

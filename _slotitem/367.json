@@ -78,13 +78,39 @@ data:
             ship_id: 574
           -
             ship_id: 579
-        - false
-        - false
+        -
+          -
+            ship_id: 162
+          -
+            ship_id: 499
+          -
+            ship_id: 500
         -
           -
             ship_id: 491
           -
             ship_id: 372
+          -
+            ship_id: 162
+          -
+            ship_id: 499
+          -
+            ship_id: 500
+        -
+          -
+            ship_id: 491
+          -
+            ship_id: 372
+          -
+            ship_id: 574
+          -
+            ship_id: 579
+          -
+            ship_id: 162
+          -
+            ship_id: 499
+          -
+            ship_id: 500
         -
           -
             ship_id: 491

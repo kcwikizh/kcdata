@@ -8,7 +8,7 @@ data:
   description: 母港のドックを見渡せるよ<br>うに大きく窓が開いた窓。<br>開放的な気分で、艦娘との<br>作戦会議も捗ります！
   rarity: 4
   price: 20000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

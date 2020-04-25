@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 476
+  type: 5
+  no: 90
+  title: 北欧艦娘の食卓
+  description: さあ、いただきましょう！<br>今日は私が作ったの、食べ<br>てみて！そんな北欧生まれ<br>の艦娘の料理やスイーツが<br>並ぶ北欧家具です。
+  rarity: 6
+  price: 155000
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

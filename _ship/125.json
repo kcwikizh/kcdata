@@ -14,7 +14,7 @@ data:
   get_mes: ごきげんよう、<br>わたくしが重巡、熊野ですわ！
   voice_f: 3
   filename: mlzpthwviwnf
-  file_version: ["24", "15", "327"]
+  file_version: ["24", "15", "423"]
   book_table_id: [125, 830]
   book_sinfo: 神戸生まれのお洒落な重巡といえば、わたくし、熊野ですね。マレー、ミッドウェー、ソロモン、マリアナと主要な名所、いえ激戦地に参上いたしましたのよ。最期は日本に帰りたかったけれど……。
   stats:
