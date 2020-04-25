@@ -74,8 +74,16 @@ data:
             ship_id: 491
           -
             ship_id: 372
-        - false
-        - false
+        -
+          -
+            ship_id: 491
+          -
+            ship_id: 372
+        -
+          -
+            ship_id: 491
+          -
+            ship_id: 372
         -
           -
             ship_id: 491

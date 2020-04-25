@@ -90,8 +90,16 @@ data:
             ship_id: 515
           -
             ship_id: 393
-        - false
-        - false
+        -
+          -
+            ship_id: 515
+          -
+            ship_id: 393
+        -
+          -
+            ship_id: 515
+          -
+            ship_id: 393
         -
           -
             ship_id: 515

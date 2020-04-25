@@ -8,7 +8,7 @@ data:
   description: 壁紙ではなく、壁構造材を<br>カフェ用仕様で再構成しま<br>した。シックで落ち着いた<br>喫茶室を演出します。艦娘<br>と素敵なティータイムを！
   rarity: 4
   price: 20000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

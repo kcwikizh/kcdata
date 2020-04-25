@@ -14,7 +14,7 @@ data:
   get_mes: 如月と申します。<br>おそばに置いてくださいね。
   voice_f: 0
   filename: wujywbyjntbp
-  file_version: ["31", "20", "327"]
+  file_version: ["31", "20", "423"]
   book_table_id: [2, 914, 732]
   book_sinfo: 睦月型駆逐艦２番艦の如月と申します。<br>ウェーク島では五月蠅いF4F戦闘機の攻撃を受けながら奮戦しました。<br>いやん、ほんと、髪の毛が潮風で痛んじゃう……。
   stats:
