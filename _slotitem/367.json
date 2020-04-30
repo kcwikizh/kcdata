@@ -58,33 +58,59 @@ data:
             id: 25
             amount: 1
       upgrade:
+        id: 370
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [-1, -1]
+            -
+              id: 4
+              amount: [6, 12]
+            -
+              id: 77
+              amount: 1
+          slotitem:
+            id: 61
+            amount: 1
       day:
         -
           -
             ship_id: 491
           -
             ship_id: 372
-          -
-            ship_id: 574
-          -
-            ship_id: 579
         -
           -
             ship_id: 574
           -
             ship_id: 579
+          -
+            ship_id: 630
         -
           -
             ship_id: 574
           -
             ship_id: 579
+          -
+            ship_id: 630
         -
+          -
+            ship_id: 574
+          -
+            ship_id: 579
+          -
+            ship_id: 630
           -
             ship_id: 162
           -
             ship_id: 499
           -
             ship_id: 500
+          -
+            ship_id: 439
+          -
+            ship_id: 364
         -
           -
             ship_id: 491
@@ -96,6 +122,10 @@ data:
             ship_id: 499
           -
             ship_id: 500
+          -
+            ship_id: 439
+          -
+            ship_id: 364
         -
           -
             ship_id: 491
@@ -105,12 +135,18 @@ data:
             ship_id: 574
           -
             ship_id: 579
+          -
+            ship_id: 630
           -
             ship_id: 162
           -
             ship_id: 499
           -
             ship_id: 500
+          -
+            ship_id: 439
+          -
+            ship_id: 364
         -
           -
             ship_id: 491
@@ -120,6 +156,8 @@ data:
             ship_id: 574
           -
             ship_id: 579
+          -
+            ship_id: 630
           -
             ship_id: 162
           -
