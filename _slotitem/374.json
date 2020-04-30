@@ -1,0 +1,36 @@
+---
+layout: json
+order: 374
+data:
+  id: 374
+  sort_no: 374
+  name: 天山一二型甲改(熟練/空六号電探改装備機)
+  type: [3, 5, 8, 46, 1]
+  rare: 5
+  broken: [3, 6, 0, 6]
+  info: 
+  usebull: 0
+  cost: 8
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 13
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 7
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 6
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

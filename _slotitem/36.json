@@ -97,6 +97,8 @@ data:
             ship_id: 210
           -
             ship_id: 150
+          -
+            ship_id: 592
         -
           -
             ship_id: 86
@@ -104,6 +106,8 @@ data:
             ship_id: 210
           -
             ship_id: 150
+          -
+            ship_id: 592
           -
             ship_id: 85
           -
@@ -117,6 +121,8 @@ data:
             ship_id: 210
           -
             ship_id: 150
+          -
+            ship_id: 592
           -
             ship_id: 85
           -

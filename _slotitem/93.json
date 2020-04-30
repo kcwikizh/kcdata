@@ -32,5 +32,47 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [220, 330, 0, 360]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 6]
+            -
+              id: 4
+              amount: [4, 5]
+          -
+            -
+              id: 3
+              amount: [-1, 8]
+            -
+              id: 4
+              amount: [6, 7]
+        slotitem:
+          -
+            id: 16
+            amount: 2
+          -
+            id: 17
+            amount: 2
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 196
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 196
+        -
+          -
+            ship_id: 196
+        -
+          -
+            ship_id: 196
   chinese_name: 九七式舰攻(友永队)
 ---

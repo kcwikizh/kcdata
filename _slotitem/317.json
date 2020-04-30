@@ -59,8 +59,12 @@ data:
             amount: 2
       upgrade:
       day:
-        - false
-        - false
+        -
+          -
+            ship_id: 592
+        -
+          -
+            ship_id: 592
         - false
         -
           -

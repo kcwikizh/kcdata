@@ -137,12 +137,18 @@ data:
         -
           -
             ship_id: 150
+          -
+            ship_id: 592
         -
           -
             ship_id: 150
+          -
+            ship_id: 592
         -
           -
             ship_id: 150
+          -
+            ship_id: 592
         - false
         - false
         - false
