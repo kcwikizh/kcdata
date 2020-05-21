@@ -1,0 +1,36 @@
+---
+layout: json
+order: 372
+data:
+  id: 372
+  sort_no: 372
+  name: 天山一二型甲
+  type: [3, 5, 8, 8, 1]
+  rare: 3
+  broken: [2, 5, 0, 5]
+  info: 
+  usebull: 0
+  cost: 7
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 9
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 4
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

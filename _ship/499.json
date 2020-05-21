@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: tuzyehskgaup
-  file_version: ["21", "1", "423"]
+  file_version: ["22", "1", "520"]
   book_table_id: [499, 808, 780]
   book_sinfo: 給油艦として建造された「神威」です。<br>米国で生まれ、その後水上機母艦に改装されました。水上機収容用ハイン式マットは思ったより便利ではなかったけれど……。最終的に飛行艇母艦となり、輸送作戦に従事しました。戦いの前は、米艦と共に女性飛行家の捜索も頑張りました。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 1]
     build_time: 140
   graph:
-    boko_n: [66, 195]
+    boko_n: [66, 18]
     boko_d: [168, 165]
     kaisyu_n: [33, -9]
     kaisyu_d: [90, 3]
-    kaizo_n: [30, 87]
+    kaizo_n: [30, -66]
     kaizo_d: [126, 51]
-    map_n: [36, 171]
+    map_n: [36, -18]
     map_d: [192, 153]
-    ensyuf_n: [48, 171]
+    ensyuf_n: [48, -12]
     ensyuf_d: [210, 141]
     ensyue_n: [12, 0]
-    battle_n: [78, 195]
+    battle_n: [78, 36]
     battle_d: [216, 159]
-    wed_a: [276, 9]
-    wed_b: [138, 160]
+    wed_a: [288, 192]
+    wed_b: [132, 156]
   wiki_id: "299"
   chinese_name: 神威改
   can_drop: false

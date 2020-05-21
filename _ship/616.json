@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: etibrhysvhrt
-  file_version: ["52", "1", "423"]
+  file_version: ["53", "1", "520"]
   book_table_id: [616]
   book_sinfo: 御蔵型海防艦、一番艦、御蔵です。択捉型を改良、生<br>産性及び対空・対潜能力の向上を図りました。大きく<br>工数は下げられなかったものの、船団護衛戦闘力は向<br>上しています。あの択捉型の後継、御蔵型海防艦の<br>戦い、覚えていて下さい。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [118, 241]
-    boko_d: [31, 286]
+    boko_n: [67, 217]
+    boko_d: [45, 277]
     kaisyu_n: [4, -31]
     kaisyu_d: [70, -15]
-    kaizo_n: [142, 108]
-    kaizo_d: [19, 72]
-    map_n: [145, 195]
-    map_d: [58, 205]
-    ensyuf_n: [157, 181]
-    ensyuf_d: [64, 189]
-    ensyue_n: [157, 0]
-    battle_n: [166, 240]
-    battle_d: [94, 249]
-    wed_a: [157, -19]
-    wed_b: [189, 199]
+    kaizo_n: [55, 76]
+    kaizo_d: [66, 75]
+    map_n: [75, 121]
+    map_d: [133, 195]
+    ensyuf_n: [52, 130]
+    ensyuf_d: [72, 183]
+    ensyue_n: [78, 0]
+    battle_n: [81, 198]
+    battle_d: [76, 250]
+    wed_a: [259, 33]
+    wed_b: [160, 163]
   wiki_id: "416"
   chinese_name: 御藏改
   can_drop: false
