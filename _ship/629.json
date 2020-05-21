@@ -53,8 +53,8 @@ data:
     battle_d: [204, 229]
     wed_a: [259, -7]
     wed_b: [129, 159]
-  wiki_id:
-  chinese_name:
+  wiki_id: "429"
+  chinese_name: 弗莱彻 Mk.II
   can_drop: false
   can_construct: false
 ---

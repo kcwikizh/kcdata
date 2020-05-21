@@ -53,8 +53,8 @@ data:
     battle_d: [163, 235]
     wed_a: [220, -4]
     wed_b: [165, 145]
-  wiki_id:
-  chinese_name:
+  wiki_id: "428"
+  chinese_name: 弗莱彻改 Mod.2
   can_drop: false
   can_construct: false
 ---
