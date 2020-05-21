@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 628
+  sort_no: 428
+  name: Fletcher改 Mod.2
+  yomi: フレッチャー
+  stype: 2
+  ctype: 91
+  cnum: 445
+  backs: 8
+  after_lv: 90
+  after_ship_id: 629
+  get_mes: <br>
+  voice_f: 3
+  filename: jprihveusipc
+  file_version: ["51", "2", "520"]
+  book_table_id: [628]
+  book_sinfo: 最も成功し、量産された駆逐艦、そのネームシップ<br>が私、Fletcher class destroyer USS Fletcherです。<br>姉妹の数は170隻を超えているの。まさにデファクト<br>スタンダード。<br>後に海上自衛隊にも配備されました。
+  stats:
+    taik: [37, 56]
+    souk: [17, 54]
+    houg: [16, 60]
+    raig: [29, 86]
+    tyku: [45, 92]
+    luck: [47, 113]
+    soku: 10
+    leng: 1
+    kaih: 47
+    tais: 52
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 445
+    after_bull: 445
+    fuel_max: 20
+    bull_max: 25
+    broken: [1, 2, 12, 4]
+    pow_up: [1, 1, 3, 1]
+    build_time: 23
+  graph:
+    boko_n: [85, 235]
+    boko_d: [102, 310]
+    kaisyu_n: [19, -27]
+    kaisyu_d: [49, -16]
+    kaizo_n: [67, 103]
+    kaizo_d: [88, 148]
+    map_n: [73, 213]
+    map_d: [118, 214]
+    ensyuf_n: [103, 195]
+    ensyuf_d: [150, 207]
+    ensyue_n: [109, 0]
+    battle_n: [136, 214]
+    battle_d: [163, 235]
+    wed_a: [220, -4]
+    wed_b: [165, 145]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

@@ -14,7 +14,7 @@ data:
   get_mes: ごきげんよう。<br>特型駆逐艦、綾波と申します。
   voice_f: 0
   filename: icpexclhwthr
-  file_version: ["21", "19", "423"]
+  file_version: ["21", "19", "520"]
   book_table_id: [13, 774]
   book_sinfo: 特型駆逐艦、綾波です。<br>改良吹雪型の１番艦なんです。<br>第三次ソロモン海海戦では、駆逐艦一隻としては、特別な大活躍をお見せしました。<br>頑張ります！
   stats:

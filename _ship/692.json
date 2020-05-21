@@ -9,12 +9,12 @@ data:
   ctype: 
   cnum: 
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv: 88
+  after_ship_id: 628
   get_mes: <br>
   voice_f: 3
   filename: ellemgzdcxmy
-  file_version: ["51", "1", "423"]
+  file_version: ["51", "2", "520"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 445
+    after_bull: 890
     fuel_max: 20
     bull_max: 20
     broken: [1, 2, 12, 3]

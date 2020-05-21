@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: khtgrpfyurcm
-  file_version: ["18", "25", "423"]
+  file_version: ["19", "25", "520"]
   book_table_id: [118]
   book_sinfo: 重雷装艦バージョンの大井です。<br>圧倒的な水雷戦力を期待されたけど、<br>出番がなかなかなかったの。<br>今度は活躍してみせるわ。見ていてね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 5, 0, 1]
     build_time: 75
   graph:
-    boko_n: [135, -21]
-    boko_d: [106, -1]
+    boko_n: [139, 75]
+    boko_d: [139, 75]
     kaisyu_n: [42, 12]
     kaisyu_d: [42, 10]
-    kaizo_n: [106, -102]
-    kaizo_d: [75, -154]
-    map_n: [58, -31]
-    map_d: [6, -18]
-    ensyuf_n: [145, -6]
-    ensyuf_d: [123, -91]
-    ensyue_n: [145, 0]
-    battle_n: [70, -40]
-    battle_d: [70, -40]
-    wed_a: [226, 216]
-    wed_b: [141, 171]
+    kaizo_n: [127, -49]
+    kaizo_d: [112, -84]
+    map_n: [129, 58]
+    map_d: [129, 58]
+    ensyuf_n: [123, 45]
+    ensyuf_d: [123, 45]
+    ensyue_n: [106, 0]
+    battle_n: [153, 81]
+    battle_d: [153, 81]
+    wed_a: [186, 72]
+    wed_b: [183, 175]
   wiki_id: "114"
   chinese_name: 大井改二
   can_drop: false

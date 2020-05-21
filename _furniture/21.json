@@ -8,7 +8,7 @@ data:
   description: 高級な素材で仕上げられた<br>真っ赤な絨毯。何かが三倍<br>早くなるような気もします<br>が、それは気のせいです！<br>紅茶セットも素敵デース！
   rarity: 2
   price: 800
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
   file_version: 
