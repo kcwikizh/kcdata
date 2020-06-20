@@ -58,16 +58,36 @@ data:
             id: 17
             amount: 2
       upgrade:
+        id: 373
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [40, 80]
+            -
+              id: 4
+              amount: [11, 22]
+            -
+              id: 70
+              amount: 2
+          slotitem:
+            id: 372
+            amount: 1
       day:
         -
           -
             ship_id: 318
         - false
         - false
-        - false
+        -
+          -
+            ship_id: 560
         -
           -
             ship_id: 318
+          -
+            ship_id: 560
         -
           -
             ship_id: 318

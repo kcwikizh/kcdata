@@ -1,30 +1,30 @@
 ---
 layout: json
-order: 376
+order: 380
 data:
-  id: 376
-  sort_no: 376
-  name: 533mm五連装魚雷(後期型)
-  type: [2, 3, 5, 5, 0]
+  id: 380
+  sort_no: 380
+  name: 12.7cm連装高角砲改二
+  type: [1, 1, 1, 16, 0]
   rare: 3
-  broken: [2, 4, 2, 3]
+  broken: [0, 2, 2, 1]
   info: 
   usebull: 0
   cost: 
   distance: 
   stats:
     taik: 0
-    souk: 1
-    houg: 1
-    raig: 11
+    souk: 0
+    houg: 2
+    raig: 0
     soku: 0
     baku: 0
-    tyku: 0
-    tais: 0
+    tyku: 6
+    tais: 2
     atap: 0
-    houm: 0
+    houm: 1
     raim: 0
-    houk: 1
+    houk: 2
     raik: 0
     bakk: 0
     saku: 0
@@ -32,5 +32,5 @@ data:
     luck: 0
     leng: 1
   improvement: 
-  chinese_name: 
+  chinese_name:
 ---
