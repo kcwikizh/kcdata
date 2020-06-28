@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 641
+  sort_no: 441
+  name: 松
+  yomi: まつ
+  stype: 2
+  ctype: 101
+  cnum: 1
+  backs: 5
+  after_lv: 50
+  after_ship_id: 702
+  get_mes: 待たせたわね。丁型駆逐艦、松型、その一番艦、<br>松よ！大丈夫、すぐ出れる。護ってみせるわ！<br>任せておいて！
+  voice_f: 1
+  filename: gvykjlkpousn
+  file_version: ["51", "1", "520"]
+  book_table_id: [641]
+  book_sinfo: 丁型駆逐艦、松型一番艦、松です。最後の量産型駆逐艦として多数の妹が建造されました。戦時急造ながら、機関部の設計変更による生残性向上と対空対潜重視の兵装を整備しました。雑木林ですって？何いってんの、私に任せて！
+  stats:
+    taik: [14, 27]
+    souk: [5, 22]
+    houg: [5, 26]
+    raig: [16, 60]
+    tyku: [20, 60]
+    luck: [14, 58]
+    soku: 10
+    leng: 1
+    kaih: 35
+    tais: 30
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 120
+    after_bull: 180
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [178, 42]
+    boko_d: [49, 160]
+    kaisyu_n: [28, -40]
+    kaisyu_d: [54, 4]
+    kaizo_n: [183, -88]
+    kaizo_d: [42, 39]
+    map_n: [222, 3]
+    map_d: [103, 132]
+    ensyuf_n: [210, 1]
+    ensyuf_d: [78, 129]
+    ensyue_n: [199, 0]
+    battle_n: [220, 31]
+    battle_d: [118, 151]
+    wed_a: [106, 171]
+    wed_b: [166, 145]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---
