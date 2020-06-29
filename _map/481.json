@@ -1,0 +1,182 @@
+---
+layout: json
+order: 481
+data:
+  id: 481
+  name: オホーツク海千島列島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: D
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: H
+      to: K
+    12:
+      from: K
+      to: L
+    13:
+      from: L
+      to: M
+    14:
+      from: I
+      to: K
+    15:
+      from: J
+      to: K
+    16:
+      from: F
+      to: N
+    17:
+      from: F
+      to: O
+    18:
+      from: N
+      to: P
+    19:
+      from: R
+      to: Q
+    20:
+      from: O
+      to: R
+    21:
+      from: R
+      to: S
+    22:
+      from: N
+      to: T
+    23:
+      from: Q
+      to: T
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海潜水艦隊 浸透哨戒前衛
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海潜水艦隊 浸透哨戒I群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海潜水艦隊 浸透哨戒III群
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海北方通商破壊部隊 A群
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 深海潜水艦隊 浸透哨戒IV群
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海北方通商破壊部隊 B群
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11, 14, 15]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 深海北方通商破壊部隊 本隊
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海千島棲姫 護衛艦艇群
+      type:
+      boss: false
+      routes: [16]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    Q:
+      name: 深海千島棲姫 護衛艦艇群
+      type:
+      boss: false
+      routes: [19]
+    R:
+      name: 深海潜水艦隊 浸透哨戒II群
+      type:
+      boss: false
+      routes: [20]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    T:
+      name: オホーツク海底 深海千島棲姫
+      type:
+      boss: true
+      routes: [22, 23]
+  image: MapHDE-1Summer2020.png
+---

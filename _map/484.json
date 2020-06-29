@@ -1,0 +1,284 @@
+---
+layout: json
+order: 484
+data:
+  id: 484
+  name: 小笠原諸島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: B
+      to: A
+    2:
+      from: C
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: F
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: G
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: H
+      to: L
+    13:
+      from: L
+      to: M
+    14:
+      from: H
+      to: I
+    15:
+      from: K
+      to: I
+    16:
+      from: I
+      to: L
+    17:
+      from: K
+      to: L
+    18:
+      from: B
+      to: N
+    19:
+      from: A
+      to: O
+    20:
+      from: O
+      to: Q
+    21:
+      from: Q
+      to: P
+    22:
+      from: Q
+      to: R
+    23:
+      from: N
+      to: A
+    24:
+      from: A
+      to: D
+    25:
+      from: D
+      to: O
+    26:
+      from: H
+      to: S
+    27:
+      from: J
+      to: T
+    28:
+      from: S
+      to: U
+    29:
+      from: T
+      to: V
+    30:
+      from: V
+      to: W
+    31:
+      from: U
+      to: X
+    32:
+      from: U
+      to: Y
+    33:
+      from: Z1
+      to: Z
+    34:
+      from: V
+      to: Z1
+    35:
+      from: X
+      to: Z2
+    36:
+      from: X
+      to: Z3
+    37:
+      from: G
+      to: H
+    38:
+      from: T
+      to: K
+    39:
+      from: Z
+      to: W
+    40:
+      from: W
+      to: X
+    41:
+      from: Y
+      to: X
+    42:
+      from: Z
+      to: X
+  cells:
+    A:
+      name: 深海中部太平洋 基地航空隊
+      type:
+      boss: false
+      routes: [1, 23]
+    B:
+      name: 深海任務部隊 掃除人潜水艦II群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海任務部隊 掃除人前衛哨戒群
+      type:
+      boss: false
+      routes: [4, 24]
+    E:
+      name: 深海任務部隊 掃除人潜水艦I群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海中部太平洋 基地航空隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海任務部隊 掃除人第2戦隊
+      type:
+      boss: false
+      routes: [8, 37]
+    I:
+      name: 深海任務部隊 掃除人第1戦隊
+      type:
+      boss: false
+      routes: [9, 14, 15]
+    J:
+      name: 深海任務部隊 掃除人巡洋艦戦隊
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 深海任務部隊 掃除人火力支援群
+      type:
+      boss: false
+      routes: [11, 38]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12, 16, 17]
+    M:
+      name: 深海任務部隊 父島諸島空襲群
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海任務部隊 掃除人先遣潜水艦
+      type:
+      boss: false
+      routes: [18]
+    O:
+      name: 深海任務部隊 掃除人偵察空母群
+      type:
+      boss: false
+      routes: [19, 25]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    R:
+      name: 深海任務部隊 硫黄島攻撃群
+      type:
+      boss: false
+      routes: [22]
+    S:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [26]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [28]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [29]
+    W:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [30, 39]
+    X:
+      name: 深海任務部隊 掃除人水上打撃群
+      type:
+      boss: false
+      routes: [31, 40, 41, 42]
+    Y:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [32]
+    Z:
+      name: 深海任務部隊 掃除人増援潜水艦
+      type:
+      boss: false
+      routes: [33]
+    Z1:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [34]
+    Z2:
+      name: 
+      type:
+      boss: false
+      routes: [35]
+    Z3:
+      name: 小笠原諸島沖 深海駆逐林棲姫群
+      type:
+      boss: true
+      routes: [36]
+  image: MapHDE-4Summer2020.png
+---

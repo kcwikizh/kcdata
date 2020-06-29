@@ -1,0 +1,209 @@
+---
+layout: json
+order: 483
+data:
+  id: 483
+  name: 四国沖/九州西方五島列島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: C
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: D
+      to: C
+    4:
+      from: 1
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: I
+      to: J
+    11:
+      from: G
+      to: K
+    12:
+      from: I
+      to: L
+    13:
+      from: K
+      to: M
+    14:
+      from: K
+      to: N
+    15:
+      from: null
+      to: O
+    16:
+      from: M
+      to: N
+    17:
+      from: B
+      to: P
+    18:
+      from: P
+      to: Q
+    19:
+      from: P
+      to: R
+    20:
+      from: H
+      to: S
+    21:
+      from: U
+      to: T
+    22:
+      from: F
+      to: U
+    23:
+      from: T
+      to: V
+    24:
+      from: V
+      to: W
+    25:
+      from: U
+      to: S
+    26:
+      from: T
+      to: O
+    27:
+      from: S
+      to: O
+  cells:
+    A:
+      name: 深海任務部隊 前衛潜水艦隊
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海島嶼侵攻部隊 前衛潜水群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 深海任務部隊 護衛艦艇集団
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 深海任務部隊 護衛空母A群
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 深海任務部隊 水上打撃群
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海任務部隊 護衛空母B群
+      type:
+      boss: false
+      routes: [14, 16]
+    O:
+      name: 深海五島列島沖 海没潜水艦群
+      type:
+      boss: true
+      routes: [15, 26, 27]
+    P:
+      name: 深海任務部隊 機動部隊前衛群
+      type:
+      boss: false
+      routes: [17]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    R:
+      name: 深海任務部隊 機動部隊群
+      type:
+      boss: false
+      routes: [19]
+    S:
+      name: 五島列島沖 海底回収部隊
+      type:
+      boss: false
+      routes: [20, 25]
+    T:
+      name: 五島列島沖 深海遊撃部隊A群
+      type:
+      boss: false
+      routes: [21]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [22]
+    V:
+      name: 五島列島沖 深海遊撃部隊B群
+      type:
+      boss: false
+      routes: [23]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [24]
+  image: MapHDE-3Summer2020.png
+---

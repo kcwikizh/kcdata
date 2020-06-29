@@ -1,0 +1,194 @@
+---
+layout: json
+order: 482
+data:
+  id: 482
+  name: 南西諸島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: D
+      to: G
+    8:
+      from: C
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: K
+      to: J
+    11:
+      from: I
+      to: K
+    12:
+      from: K
+      to: L
+    13:
+      from: I
+      to: M
+    14:
+      from: G
+      to: F
+    15:
+      from: E
+      to: H
+    16:
+      from: F
+      to: H
+    17:
+      from: H
+      to: I
+    18:
+      from: J
+      to: M
+    19:
+      from: G
+      to: N
+    20:
+      from: N
+      to: O
+    21:
+      from: N
+      to: P
+    22:
+      from: O
+      to: Q
+    23:
+      from: L
+      to: R
+    24:
+      from: R
+      to: S
+    25:
+      from: P
+      to: T
+    26:
+      from: O
+      to: P
+    27:
+      from: R
+      to: T
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海潜水艦隊 第1哨戒線
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海潜水艦隊 第2哨戒線
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海潜水艦隊 接近阻止線
+      type:
+      boss: false
+      routes: [6, 14]
+    G:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海侵攻部隊 前方警戒群
+      type:
+      boss: false
+      routes: [8, 15, 16]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9, 17]
+    J:
+      name: 深海侵攻部隊 火力支援群
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 深海島嶼侵攻部隊 上陸地点
+      type:
+      boss: false
+      routes: [13, 18]
+    N:
+      name: 深海任務部隊 前衛水雷戦隊
+      type:
+      boss: false
+      routes: [19]
+    O:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [20]
+    P:
+      name: 深海任務部隊 護衛空母部隊
+      type:
+      boss: false
+      routes: [21, 26]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [22]
+    R:
+      name: 深海任務部隊 水上打撃群
+      type:
+      boss: false
+      routes: [23]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [24]
+    T:
+      name: 深海任務部隊 旗艦航空母艦
+      type:
+      boss: true
+      routes: [25, 27]
+  image: MapHDE-2Summer2020.png
+---
