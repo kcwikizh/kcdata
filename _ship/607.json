@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 607
+  sort_no: 1507
+  name: 伊47改
+  yomi: い47
+  stype: 13
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: tciiyagxjjpu
+  file_version: ["51", "1", "520"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [18, 24]
+    souk: [5, 21]
+    houg: [3, 12]
+    raig: [40, 88]
+    tyku: [0, 0]
+    luck: [50, 97]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 25
+    broken: [1, 2, 2, 2]
+    pow_up: [0, 3, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [63, 208]
+    boko_d: [22, 276]
+    kaisyu_n: [-15, 18]
+    kaisyu_d: [-22, -27]
+    kaizo_n: [60, 82]
+    kaizo_d: [-9, 76]
+    map_n: [108, 160]
+    map_d: [33, 181]
+    ensyuf_n: [69, 177]
+    ensyuf_d: [6, 175]
+    ensyue_n: [100, 0]
+    battle_n: [102, 187]
+    battle_d: [40, 219]
+    wed_a: [232, 1]
+    wed_b: [181, 159]
+  wiki_id: "436a"
+  chinese_name: 伊47改
+  can_drop: false
+  can_construct: false
+---

@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 631
+  sort_no: 431
+  name: 薄雲
+  yomi: うすぐも
+  stype: 2
+  ctype: 12
+  cnum: 7
+  backs: 4
+  after_lv: 40
+  after_ship_id: 700
+  get_mes: 特I型駆逐艦、七番艦、薄雲です。東京湾の造船所で<br>生まれ、あの戦いでは北方の海で活動しました。<br>提督、薄雲のこと、覚えていてくださいね。
+  voice_f: 1
+  filename: ntjerkmvkups
+  file_version: ["51", "1", "520"]
+  book_table_id: [631]
+  book_sinfo: 特I型駆逐艦、七番艦、薄雲です。東京湾の造船所で<br>生まれ、第五艦隊で北方海域、千島列島やアッツ、キ<br>スカでの作戦に従事しました。最後の任務も北方のキ<br>５０４船団。提督、薄雲のこと、忘れないでいてくだ<br>さいね。
+  stats:
+    taik: [15, 29]
+    souk: [5, 19]
+    houg: [10, 29]
+    raig: [27, 69]
+    tyku: [10, 39]
+    luck: [7, 49]
+    soku: 10
+    leng: 1
+    kaih: 39
+    tais: 19
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 130
+    after_bull: 190
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 20
+  graph:
+    boko_n: [208, 124]
+    boko_d: [105, 84]
+    kaisyu_n: [6, -16]
+    kaisyu_d: [64, 3]
+    kaizo_n: [187, 4]
+    kaizo_d: [85, -60]
+    map_n: [192, 94]
+    map_d: [109, 51]
+    ensyuf_n: [228, 85]
+    ensyuf_d: [132, 43]
+    ensyue_n: [199, 0]
+    battle_n: [201, 123]
+    battle_d: [109, 72]
+    wed_a: [117, 79]
+    wed_b: [150, 139]
+  wiki_id: "431"
+  chinese_name: 薄云
+  can_drop: false
+  can_construct: false
+---

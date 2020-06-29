@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 700
+  sort_no: 1700
+  name: 薄雲改
+  yomi: うすぐも
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: pmcxfubrgdei
+  file_version: ["51", "1", "520"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [13, 49]
+    houg: [12, 49]
+    raig: [27, 79]
+    tyku: [14, 48]
+    luck: [9, 54]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [208, 124]
+    boko_d: [105, 84]
+    kaisyu_n: [6, -16]
+    kaisyu_d: [64, 3]
+    kaizo_n: [187, 4]
+    kaizo_d: [85, -60]
+    map_n: [192, 94]
+    map_d: [109, 51]
+    ensyuf_n: [228, 85]
+    ensyuf_d: [132, 43]
+    ensyue_n: [199, 0]
+    battle_n: [201, 123]
+    battle_d: [109, 72]
+    wed_a: [117, 79]
+    wed_b: [150, 139]
+  wiki_id: "431a"
+  chinese_name: 薄云改
+  can_drop: false
+  can_construct: false
+---

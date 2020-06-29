@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 637
+  sort_no: 437
+  name: 第四号海防艦
+  yomi: だいよんごう
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 35
+  after_ship_id: 701
+  get_mes: マル戦計画で生まれた丁型海防艦、その二番艦<br>第四号海防艦でっすー。そうね～ぇ、よつ……って<br>呼んでくれていいよぉ？　ていとく、よろしくねぇ！
+  voice_f: 1
+  filename: zhnvmyoxuein
+  file_version: ["51", "1", "520"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [8, 15]
+    souk: [4, 15]
+    houg: [3, 15]
+    raig: [0, 0]
+    tyku: [5, 19]
+    luck: [18, 76]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 50
+    after_bull: 70
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 1, 0]
+    pow_up: [0, 0, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [163, 249]
+    boko_d: [124, 261]
+    kaisyu_n: [52, -15]
+    kaisyu_d: [61, -1]
+    kaizo_n: [172, 106]
+    kaizo_d: [124, 94]
+    map_n: [226, 202]
+    map_d: [184, 208]
+    ensyuf_n: [195, 199]
+    ensyuf_d: [151, 202]
+    ensyue_n: [202, 0]
+    battle_n: [220, 222]
+    battle_d: [183, 235]
+    wed_a: [97, -22]
+    wed_b: [184, 174]
+  wiki_id: "437"
+  chinese_name: 第四号海防舰
+  can_drop: false
+  can_construct: false
+---

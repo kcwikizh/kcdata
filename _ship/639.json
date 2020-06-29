@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 639
+  sort_no: 439
+  name: 迅鯨改
+  yomi: じんげい
+  stype: 20
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: cokndlimiunf
+  file_version: ["51", "1", "520"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [38, 58]
+    souk: [17, 34]
+    houg: [8, 40]
+    raig: [0, 0]
+    tyku: [14, 34]
+    luck: [16, 60]
+    soku: 5
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 10
+    broken: [2, 2, 12, 1]
+    pow_up: [0, 0, 1, 2]
+    build_time: 150
+  graph:
+    boko_n: [124, 208]
+    boko_d: [28, 153]
+    kaisyu_n: [24, 22]
+    kaisyu_d: [58, -6]
+    kaizo_n: [115, 78]
+    kaizo_d: [12, 22]
+    map_n: [168, 168]
+    map_d: [91, 106]
+    ensyuf_n: [124, 175]
+    ensyuf_d: [45, 103]
+    ensyue_n: [144, 0]
+    battle_n: [177, 202]
+    battle_d: [91, 139]
+    wed_a: [177, -13]
+    wed_b: [181, 148]
+  wiki_id: "439"
+  chinese_name: 迅鲸改
+  can_drop: false
+  can_construct: false
+---

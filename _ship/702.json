@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 702
+  sort_no: 1702
+  name: 松改
+  yomi: まつ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: pguerlmspcju
+  file_version: ["51", "1", "520"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [27, 45]
+    souk: [12, 55]
+    houg: [7, 26]
+    raig: [16, 72]
+    tyku: [30, 74]
+    luck: [18, 68]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [1, 1, 2, 1]
+    build_time: 14
+  graph:
+    boko_n: [178, 42]
+    boko_d: [49, 160]
+    kaisyu_n: [28, -40]
+    kaisyu_d: [54, 4]
+    kaizo_n: [183, -88]
+    kaizo_d: [42, 39]
+    map_n: [222, 3]
+    map_d: [103, 132]
+    ensyuf_n: [210, 1]
+    ensyuf_d: [78, 129]
+    ensyue_n: [199, 0]
+    battle_n: [220, 31]
+    battle_d: [118, 151]
+    wed_a: [106, 171]
+    wed_b: [166, 145]
+  wiki_id: "441a"
+  chinese_name: 松改
+  can_drop: false
+  can_construct: false
+---

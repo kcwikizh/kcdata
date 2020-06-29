@@ -1,13 +1,13 @@
 ---
 layout: json
-order: 379
+order: 607
 data:
-  id: 379
-  sort_no: 379
-  name: 12.7cm単装高角砲改二
+  id: 607
+  sort_no: 0
+  name: 深海5inch連装高角砲改二
   type: [1, 1, 1, 16, 0]
-  rare: 3
-  broken: [0, 1, 2, 1]
+  rare: 4
+  broken: [0, 0, 0, 0]
   info: 
   usebull: 0
   cost: 
@@ -15,16 +15,16 @@ data:
   stats:
     taik: 0
     souk: 0
-    houg: 1
+    houg: 2
     raig: 0
     soku: 0
     baku: 0
-    tyku: 5
+    tyku: 6
     tais: 2
     atap: 0
-    houm: 1
+    houm: 19
     raim: 0
-    houk: 3
+    houk: 2
     raik: 0
     bakk: 0
     saku: 0
@@ -32,5 +32,5 @@ data:
     luck: 0
     leng: 1
   improvement: 
-  chinese_name: 
+  chinese_name:
 ---
