@@ -55,6 +55,6 @@ data:
     wed_b: [112, 165]
   wiki_id: "362"
   chinese_name: 约翰斯顿
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---
