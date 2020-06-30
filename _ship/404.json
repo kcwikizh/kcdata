@@ -55,6 +55,6 @@ data:
     wed_b: [180, 180]
   wiki_id: "201"
   chinese_name: 云龙
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

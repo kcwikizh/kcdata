@@ -55,6 +55,6 @@ data:
     wed_b: [138, 168]
   wiki_id: "209"
   chinese_name: 早霜
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

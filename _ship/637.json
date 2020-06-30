@@ -6,8 +6,8 @@ data:
   name: 第四号海防艦
   yomi: だいよんごう
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 104
+  cnum: 2
   backs: 4
   after_lv: 35
   after_ship_id: 701
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: zhnvmyoxuein
   file_version: ["51", "1", "520"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [637]
+  book_sinfo: マル戦計画で生まれた丁型海防艦、その二番艦、第四号海防艦でっすー。ちっちゃいけれど、ものすごく頑張りました！横須賀の防備や、マリアナや小笠原、敵の潜水艦だって負けません！最後は伊勢湾…松にもらった命、頑張りました！
   stats:
     taik: [8, 15]
     souk: [4, 15]
@@ -26,8 +26,8 @@ data:
     luck: [18, 76]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 39
+    tais: 30
     slot_num: 1
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 50
@@ -55,6 +55,6 @@ data:
     wed_b: [184, 174]
   wiki_id: "437"
   chinese_name: 第四号海防舰
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---
