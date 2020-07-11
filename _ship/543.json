@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: tdextuaybvpj
-  file_version: ["66", "6", "520"]
+  file_version: ["67", "6", "710"]
   book_table_id: [543, 1010, 1042, 1056]
   book_sinfo: マル4計画で建造されて戦時就航した夕雲型四番艦、<br>長波だ。栄光の第二水雷戦隊で縦横無尽の活躍した<br>ぞ。ガダルカナル島では、田中頼三少将の名指揮で、<br>敵の待ち伏せを完膚なきまでに蹴散らしてやったぜ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [177, 120]
-    boko_d: [153, 282]
+    boko_n: [48, 120]
+    boko_d: [198, 282]
     kaisyu_n: [12, -24]
     kaisyu_d: [120, -48]
-    kaizo_n: [102, 16]
-    kaizo_d: [66, 138]
-    map_n: [195, 108]
-    map_d: [159, 264]
-    ensyuf_n: [168, 102]
-    ensyuf_d: [168, 216]
-    ensyue_n: [150, 0]
-    battle_n: [186, 120]
-    battle_d: [180, 264]
-    wed_a: [192, 78]
-    wed_b: [126, 162]
+    kaizo_n: [6, 24]
+    kaizo_d: [120, 144]
+    map_n: [66, 108]
+    map_d: [204, 264]
+    ensyuf_n: [0, 108]
+    ensyuf_d: [180, 222]
+    ensyue_n: [6, 0]
+    battle_n: [60, 120]
+    battle_d: [222, 264]
+    wed_a: [312, 78]
+    wed_b: [96, 162]
   wiki_id: "343"
   chinese_name: 长波改二
   can_drop: false

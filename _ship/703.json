@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 703
+  sort_no: 1703
+  name: 有明改
+  yomi: ありあけ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: lnovmzlsschi
+  file_version: ["51", "1", "710"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 48]
+    souk: [12, 49]
+    houg: [7, 48]
+    raig: [20, 78]
+    tyku: [12, 54]
+    luck: [12, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [99, 175]
+    boko_d: [106, 190]
+    kaisyu_n: [10, -3]
+    kaisyu_d: [43, -28]
+    kaizo_n: [106, 36]
+    kaizo_d: [106, -7]
+    map_n: [142, 132]
+    map_d: [151, 132]
+    ensyuf_n: [154, 142]
+    ensyuf_d: [129, 126]
+    ensyue_n: [112, 0]
+    battle_n: [159, 156]
+    battle_d: [172, 160]
+    wed_a: [228, 28]
+    wed_b: [130, 180]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

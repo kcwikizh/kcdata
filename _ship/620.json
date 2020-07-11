@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 620
+  sort_no: 420
+  name: Helena改
+  yomi: ヘレナ
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: otpgrdspsxso
+  file_version: ["51", "1", "710"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [53, 67]
+    souk: [27, 69]
+    houg: [36, 78]
+    raig: [0, 38]
+    tyku: [40, 86]
+    luck: [13, 69]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [0, 0, 2, 4, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 35
+    bull_max: 60
+    broken: [4, 7, 17, 2]
+    pow_up: [2, 0, 2, 2]
+    build_time: 70
+  graph:
+    boko_n: [48, 109]
+    boko_d: [48, 109]
+    kaisyu_n: [45, -25]
+    kaisyu_d: [70, -10]
+    kaizo_n: [61, -31]
+    kaizo_d: [45, -64]
+    map_n: [123, 58]
+    map_d: [123, 58]
+    ensyuf_n: [109, 49]
+    ensyuf_d: [109, 49]
+    ensyue_n: [78, 0]
+    battle_n: [142, 79]
+    battle_d: [142, 79]
+    wed_a: [252, 109]
+    wed_b: [124, 166]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

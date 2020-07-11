@@ -14,7 +14,7 @@ data:
   get_mes: 択捉型海防艦、福江。着任！<br>司令、あたしは負けないから……。負けるもんかッ！
   voice_f: 1
   filename: gefbfrjlqonb
-  file_version: ["70", "2", "520"]
+  file_version: ["71", "2", "710"]
   book_table_id: [565, 5320, 5338, 5369, 5389, 5426]
   book_sinfo: 択捉型海防艦、福江だ。<br>横須賀の近く、浦賀生まれだ。配備についた頃は、戦<br>局はそうとうに傾いていたが、できることを、できる<br>限り頑張った。戦いが終わった後、もう一踏ん張りし<br>た。もっともっと働きたかったな。司令、よろしく<br>……頼む！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 0, 0]
     build_time: 14
   graph:
-    boko_n: [186, 183]
-    boko_d: [-7, 250]
+    boko_n: [75, 109]
+    boko_d: [70, 117]
     kaisyu_n: [-27, -48]
     kaisyu_d: [66, -90]
-    kaizo_n: [123, 69]
-    kaizo_d: [-88, 108]
-    map_n: [192, 133]
-    map_d: [-37, 213]
-    ensyuf_n: [174, 120]
-    ensyuf_d: [-51, 190]
-    ensyue_n: [174, 0]
-    battle_n: [196, 157]
-    battle_d: [-34, 238]
-    wed_a: [162, 63]
-    wed_b: [124, 181]
+    kaizo_n: [12, -18]
+    kaizo_d: [48, -24]
+    map_n: [54, 63]
+    map_d: [156, 24]
+    ensyuf_n: [24, 63]
+    ensyuf_d: [117, 21]
+    ensyue_n: [15, 0]
+    battle_n: [48, 66]
+    battle_d: [150, 48]
+    wed_a: [324, 123]
+    wed_b: [123, 204]
   wiki_id: "365"
   chinese_name: 福江
   can_drop: true

@@ -8,7 +8,7 @@ data:
   description: 料理が苦手な艦娘やいつも<br>美味しい料理を作ってくれ<br>る艦娘に、たまには提督自<br>ら食事を作ってあげたい…<br>その想いを実現する食卓！
   rarity: 4
   price: 2800
-  saleflg: 1
+  saleflg: 0
   season: 23
   filename: "061"
   file_version: 1

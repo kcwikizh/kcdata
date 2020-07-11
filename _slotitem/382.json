@@ -39,10 +39,10 @@ data:
           -
             -
               id: 3
-              amount: [3, -1]
+              amount: [3, 3]
             -
               id: 4
-              amount: [1, -1]
+              amount: [1, 2]
           -
             -
               id: 3
