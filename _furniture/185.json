@@ -8,7 +8,7 @@ data:
   description: 艦娘の待機部屋から持ち出<br>してきたガーリーなデザイ<br>ンの机と椅子。<br>後で怒られますよ？
   rarity: 4
   price: 400
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: "022"
   file_version: 2

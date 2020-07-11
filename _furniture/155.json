@@ -8,7 +8,7 @@ data:
   description: お部屋も気持ちも爽やかに<br>してくれるグリーンのプラ<br>ンター。ときどき配置して<br>みて、気分転換を！
   rarity: 1
   price: 50
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
   file_version: 

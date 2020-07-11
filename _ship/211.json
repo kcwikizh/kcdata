@@ -12,9 +12,9 @@ data:
   after_lv: 80
   after_ship_id: 151
   get_mes: <br>
-  voice_f: 1
+  voice_f: 3
   filename: nolhhoujolpc
-  file_version: ["31", "23", "520"]
+  file_version: ["31", "23", "710"]
   book_table_id: 
   book_sinfo: 
   stats:

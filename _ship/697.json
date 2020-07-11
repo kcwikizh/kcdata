@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 697
+  sort_no: 407
+  name: South Dakota改
+  yomi: サウスダコタ
+  stype: 8
+  ctype: 
+  cnum: 
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: fjdsybpwtaws
+  file_version: ["51", "1", "710"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [91, 100]
+    souk: [86, 108]
+    houg: [86, 109]
+    raig: [0, 0]
+    tyku: [58, 108]
+    luck: [36, 98]
+    soku: 10
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [0, 2, 3, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 160
+    bull_max: 200
+    broken: [24, 40, 70, 20]
+    pow_up: [5, 0, 3, 5]
+    build_time: 400
+  graph:
+    boko_n: [-138, 28]
+    boko_d: [-79, 208]
+    kaisyu_n: [22, -75]
+    kaisyu_d: [60, -67]
+    kaizo_n: [-117, -102]
+    kaizo_d: [-111, 45]
+    map_n: [-115, -1]
+    map_d: [-61, 175]
+    ensyuf_n: [-115, -1]
+    ensyuf_d: [-66, 171]
+    ensyue_n: [-139, 0]
+    battle_n: [-84, 19]
+    battle_d: [-28, 190]
+    wed_a: [463, 168]
+    wed_b: [153, 175]
+  wiki_id: "407"
+  chinese_name: 南达科他改
+  can_drop: false
+  can_construct: false
+---

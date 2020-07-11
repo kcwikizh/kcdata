@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 704
+  sort_no: 1704
+  name: Hornet改
+  yomi: ホーネット
+  stype: 11
+  ctype: 
+  cnum: 
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: zilhzetzybay
+  file_version: ["51", "1", "710"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [81, 92]
+    souk: [45, 84]
+    houg: [0, 55]
+    raig: [0, 0]
+    tyku: [42, 86]
+    luck: [30, 80]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [36, 19, 19, 16, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 70
+    bull_max: 80
+    broken: [9, 16, 42, 16]
+    pow_up: [0, 0, 4, 4]
+    build_time: 360
+  graph:
+    boko_n: [-159, 160]
+    boko_d: [-88, 271]
+    kaisyu_n: [-7, -31]
+    kaisyu_d: [16, -27]
+    kaizo_n: [-142, 49]
+    kaizo_d: [-109, 109]
+    map_n: [-142, 169]
+    map_d: [-63, 216]
+    ensyuf_n: [-88, 139]
+    ensyuf_d: [-52, 193]
+    ensyue_n: [-109, 0]
+    battle_n: [-102, 169]
+    battle_d: [-25, 241]
+    wed_a: [456, 31]
+    wed_b: [118, 136]
+  wiki_id: "403a"
+  chinese_name: 大黄蜂改
+  can_drop: false
+  can_construct: false
+---

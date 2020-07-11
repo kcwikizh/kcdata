@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 603
+  sort_no: 403
+  name: Hornet
+  yomi: ホーネット
+  stype: 11
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 40
+  after_ship_id: 704
+  get_mes: そう、貴方が噂の提督なの。よろしくね。<br>私は USS CV8 Hornet!　I’m looking forward to you.
+  voice_f: 1
+  filename: hncspqqriwwj
+  file_version: ["51", "1", "710"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [67, 84]
+    souk: [38, 65]
+    houg: [0, 45]
+    raig: [0, 0]
+    tyku: [32, 72]
+    luck: [28, 67]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [36, 18, 18, 15, 0]
+    after_fuel: 2800
+    after_bull: 2000
+    fuel_max: 60
+    bull_max: 65
+    broken: [8, 13, 37, 12]
+    pow_up: [0, 0, 4, 4]
+    build_time: 360
+  graph:
+    boko_n: [-159, 160]
+    boko_d: [-88, 271]
+    kaisyu_n: [-7, -31]
+    kaisyu_d: [16, -27]
+    kaizo_n: [-142, 49]
+    kaizo_d: [-109, 109]
+    map_n: [-142, 169]
+    map_d: [-63, 216]
+    ensyuf_n: [-88, 139]
+    ensyuf_d: [-52, 193]
+    ensyue_n: [-109, 0]
+    battle_n: [-102, 169]
+    battle_d: [-25, 241]
+    wed_a: [456, 31]
+    wed_b: [118, 136]
+  wiki_id: "403"
+  chinese_name: 大黄蜂
+  can_drop: false
+  can_construct: false
+---

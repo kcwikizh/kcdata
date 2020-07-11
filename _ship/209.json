@@ -12,9 +12,9 @@ data:
   after_lv: 75
   after_ship_id: 149
   get_mes: <br>
-  voice_f: 1
+  voice_f: 3
   filename: fxypdctjnicq
-  file_version: ["20", "27", "520"]
+  file_version: ["20", "27", "710"]
   book_table_id: 
   book_sinfo: 
   stats:

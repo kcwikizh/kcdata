@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 632
+  sort_no: 432
+  name: 有明
+  yomi: ありあけ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 48
+  after_ship_id: 703
+  get_mes: よお！あたしが初春型の有明だ。よろしくな！<br>有明型っていう奴もいるけど、どっちだっていいよ。<br>あたしはあたし、それが全てさ。いくぜ！
+  voice_f: 1
+  filename: iocnvrthfxrw
+  file_version: ["51", "1", "710"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [16, 31]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [27, 70]
+    tyku: [8, 38]
+    luck: [10, 49]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 290
+    after_bull: 100
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 0]
+    build_time: 20
+  graph:
+    boko_n: [99, 175]
+    boko_d: [106, 190]
+    kaisyu_n: [10, -3]
+    kaisyu_d: [43, -28]
+    kaizo_n: [106, 36]
+    kaizo_d: [106, -7]
+    map_n: [142, 132]
+    map_d: [151, 132]
+    ensyuf_n: [154, 142]
+    ensyuf_d: [129, 126]
+    ensyue_n: [112, 0]
+    battle_n: [159, 156]
+    battle_d: [172, 160]
+    wed_a: [228, 28]
+    wed_b: [130, 180]
+  wiki_id: "432"
+  chinese_name: 有明
+  can_drop: false
+  can_construct: false
+---

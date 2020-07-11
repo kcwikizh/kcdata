@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 602
+  sort_no: 402
+  name: South Dakota
+  yomi: サウスダコタ
+  stype: 8
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 48
+  after_ship_id: 697
+  get_mes: Nice meeting you.<br>My name is South Dakota.　提督、よろしくな。
+  voice_f: 1
+  filename: kobflkooyivx
+  file_version: ["51", "1", "710"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [79, 92]
+    souk: [77, 93]
+    houg: [81, 100]
+    raig: [0, 0]
+    tyku: [40, 91]
+    luck: [20, 79]
+    soku: 10
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [0, 0, 3, 3, 0]
+    after_fuel: 2700
+    after_bull: 2400
+    fuel_max: 150
+    bull_max: 190
+    broken: [18, 32, 50, 10]
+    pow_up: [5, 0, 2, 5]
+    build_time: 400
+  graph:
+    boko_n: [-145, 28]
+    boko_d: [-79, 190]
+    kaisyu_n: [22, -75]
+    kaisyu_d: [60, -67]
+    kaizo_n: [-124, -102]
+    kaizo_d: [-111, 27]
+    map_n: [-123, -1]
+    map_d: [-61, 157]
+    ensyuf_n: [-123, -1]
+    ensyuf_d: [-66, 153]
+    ensyue_n: [-147, 0]
+    battle_n: [-91, 19]
+    battle_d: [-28, 172]
+    wed_a: [472, 168]
+    wed_b: [153, 175]
+  wiki_id: "402"
+  chinese_name: 南达科他
+  can_drop: false
+  can_construct: false
+---
