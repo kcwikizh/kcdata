@@ -1,0 +1,367 @@
+---
+layout: json
+order: 485
+data:
+  id: 485
+  name: ニューブリテン島沖 ソロモン諸島西部沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: C
+      to: A
+    2:
+      from: C
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: 1
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: G
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: H
+      to: K
+    12:
+      from: I
+      to: L
+    13:
+      from: I
+      to: M
+    14:
+      from: J
+      to: N
+    15:
+      from: L
+      to: O
+    16:
+      from: J
+      to: P
+    17:
+      from: M
+      to: Q
+    18:
+      from: P
+      to: R
+    19:
+      from: P
+      to: S
+    20:
+      from: P
+      to: T
+    21:
+      from: Q
+      to: U
+    22:
+      from: R
+      to: V
+    23:
+      from: T
+      to: W
+    24:
+      from: H
+      to: I
+    25:
+      from: I
+      to: K
+    26:
+      from: K
+      to: M
+    27:
+      from: L
+      to: M
+    28:
+      from: M
+      to: O
+    29:
+      from: O
+      to: Q
+    30:
+      from: S
+      to: Q
+    31:
+      from: T
+      to: S
+    32:
+      from: F
+      to: X1
+    33:
+      from: X1
+      to: X2
+    34:
+      from: F
+      to: X3
+    35:
+      from: X2
+      to: X
+    36:
+      from: F
+      to: Y1
+    37:
+      from: Q
+      to: Y2
+    38:
+      from: Q
+      to: Y
+    39:
+      from: F
+      to: I
+    40:
+      from: Y1
+      to: O
+    41:
+      from: Y2
+      to: Y
+    42:
+      from: B
+      to: Z1
+    43:
+      from: Z4
+      to: Z2
+    44:
+      from: Z1
+      to: Z3
+    45:
+      from: Z3
+      to: Z4
+    46:
+      from: Z6
+      to: Z5
+    47:
+      from: B
+      to: Z6
+    48:
+      from: C
+      to: Z7
+    49:
+      from: C
+      to: Z8
+    50:
+      from: Z4
+      to: Z
+    51:
+      from: Z5
+      to: Z4
+    52:
+      from: Z7
+      to: Z5
+    53:
+      from: Z8
+      to: Z7
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海任務部隊 ツルブ沖偵察群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海潜水部隊 南方前線哨戒C群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海潜水部隊 南方前線哨戒A群
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 深海潜水部隊 南方前線哨戒B群
+      type:
+      boss: false
+      routes: [9, 24, 39]
+    J:
+      name: 深海任務部隊 偵察水雷戦隊
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 深海任務部隊 南方前進哨戒 II群
+      type:
+      boss: false
+      routes: [11, 25]
+    L:
+      name: 深海南方部隊 基地航空隊
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 深海任務部隊 南方前進哨戒 I群
+      type:
+      boss: false
+      routes: [13, 26, 27]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 深海南方部隊 基地航空隊
+      type:
+      boss: false
+      routes: [15, 28, 40]
+    P:
+      name: 深海任務部隊 前衛護衛戦隊群
+      type:
+      boss: false
+      routes: [16]
+    Q:
+      name: 深海任務部隊 軽巡戦隊
+      type:
+      boss: false
+      routes: [17, 29, 30]
+    R:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [18]
+    S:
+      name: 深海南方部隊 基地航空隊
+      type:
+      boss: false
+      routes: [19, 31]
+    T:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [20]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    V:
+      name: 深海任務部隊 護衛空母集団 I群
+      type:
+      boss: false
+      routes: [22]
+    W:
+      name: 深海任務部隊 護衛空母集団 II群
+      type:
+      boss: false
+      routes: [23]
+    X1:
+      name: 深海潜水部隊 南方哨戒群前衛
+      type:
+      boss: false
+      routes: [32]
+    X2:
+      name: 深海潜水部隊 南方哨戒群前衛
+      type:
+      boss: false
+      routes: [33]
+    X3:
+      name: 
+      type:
+      boss: false
+      routes: [34]
+    X:
+      name: 
+      type:
+      boss: false
+      routes: [35]
+    Y1:
+      name: 
+      type:
+      boss: false
+      routes: [36]
+    Y2:
+      name: 
+      type:
+      boss: false
+      routes: [37]
+    Y:
+      name: 深海コロンバンガラ島沖展開部隊
+      type:
+      boss: false
+      routes: [38, 41]
+    Z1:
+      name: 深海任務部隊 ツルブ沖哨戒 I群
+      type:
+      boss: false
+      routes: [42]
+    Z2:
+      name: 
+      type:
+      boss: false
+      routes: [43]
+    Z3:
+      name: 深海南方部隊 基地航空隊
+      type:
+      boss: false
+      routes: [44]
+    Z4:
+      name: 
+      type:
+      boss: false
+      routes: [45, 51]
+    Z5:
+      name: 深海南方部隊 基地航空隊
+      type:
+      boss: false
+      routes: [46, 52]
+    Z6:
+      name: 深海任務部隊 ツルブ沖哨戒 II群
+      type:
+      boss: false
+      routes: [47]
+    Z7:
+      name: 深海任務部隊 ツルブ沖哨戒 III群
+      type:
+      boss: false
+      routes: [48, 53]
+    Z8:
+      name: 深海南方部隊 基地航空隊
+      type:
+      boss: false
+      routes: [49]
+    Z:
+      name: 深海任務部隊 ツルブ急襲部隊
+      type:
+      boss: true
+      routes: [50]
+  image: MapHDE-5Autumn2020.png
+---

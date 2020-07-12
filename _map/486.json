@@ -1,0 +1,254 @@
+---
+layout: json
+order: 486
+data:
+  id: 486
+  name: ソロモン諸島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: C
+      to: G
+    8:
+      from: B
+      to: H
+    9:
+      from: E
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: G
+      to: K
+    12:
+      from: M
+      to: L
+    13:
+      from: H
+      to: M
+    14:
+      from: K
+      to: N
+    15:
+      from: L
+      to: O
+    16:
+      from: M
+      to: P
+    17:
+      from: M
+      to: Q
+    18:
+      from: M
+      to: R
+    19:
+      from: N
+      to: S
+    21:
+      from: S
+      to: U
+    22:
+      from: T
+      to: V
+    23:
+      from: R
+      to: W
+    24:
+      from: S
+      to: X
+    25:
+      from: E
+      to: G
+    26:
+      from: I
+      to: G
+    27:
+      from: H
+      to: J
+    28:
+      from: J
+      to: K
+    29:
+      from: N
+      to: O
+    30:
+      from: N
+      to: Q
+    31:
+      from: O
+      to: Q
+    32:
+      from: P
+      to: R
+    33:
+      from: Q
+      to: S
+    34:
+      from: R
+      to: T
+    35:
+      from: S
+      to: Y
+    36:
+      from: S
+      to: Z
+    37:
+      from: Y
+      to: Z
+    38:
+      from: C
+      to: K
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海南方部隊 リコリス基地航空隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海潜水部隊 ソロモン哨戒線A群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海潜水部隊 ソロモン哨戒線C群
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海潜水部隊 ソロモン哨戒線C群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海南方部隊 リコリス基地航空隊
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海南方部隊 リコリス基地航空隊
+      type:
+      boss: false
+      routes: [7, 25, 26]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 深海南方部隊 リコリス基地航空隊
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海任務部隊 前進哨戒戦隊 III群
+      type:
+      boss: false
+      routes: [10, 27]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11, 28, 38]
+    L:
+      name: 深海南方部隊 リコリス基地航空隊
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 深海潜水部隊 増援戦隊
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海任務部隊 前進哨戒戦隊 I群
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 深海南方部隊 リコリス基地航空隊
+      type:
+      boss: false
+      routes: [15, 29]
+    P:
+      name: 深海任務部隊 支援水上打撃群
+      type:
+      boss: false
+      routes: [16]
+    Q:
+      name: 深海任務部隊 前進哨戒戦隊 II群
+      type:
+      boss: false
+      routes: [17, 30, 31]
+    R:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [18, 32]
+    S:
+      name: 深海任務部隊 高速水上打撃群
+      type:
+      boss: false
+      routes: [19, 33]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    V:
+      name: 深海任務部隊 リコリス増援本隊
+      type:
+      boss: false
+      routes: [22]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [23]
+    X:
+      name: 深海南方部隊 リコリス航空基地
+      type:
+      boss: false
+      routes: [24]
+    T:
+      name: 深海任務部隊 ツルブ沖偵察群
+      type:
+      boss: false
+      routes: [34]
+    Y:
+      name: 
+      type:
+      boss: false
+      routes: [35]
+    Z:
+      name: 深海南方旗艦 戦艦新棲姫打撃群
+      type:
+      boss: true
+      routes: [36, 37]
+  image: MapHDE-6Autumn2020.png
+---

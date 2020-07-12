@@ -1,0 +1,414 @@
+---
+layout: json
+order: 487
+data:
+  id: 487
+  name: ソロモン諸島沖 サンタ・クルーズ諸島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: 3
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: B
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: D
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: G
+      to: K
+    12:
+      from: K
+      to: L
+    13:
+      from: I
+      to: M
+    14:
+      from: K
+      to: N
+    15:
+      from: K
+      to: O
+    16:
+      from: N
+      to: P
+    17:
+      from: M
+      to: Q
+    18:
+      from: M
+      to: R
+    19:
+      from: O
+      to: S
+    20:
+      from: Q
+      to: T
+    21:
+      from: R
+      to: U
+    22:
+      from: O
+      to: X
+    23:
+      from: 2
+      to: B
+    24:
+      from: D
+      to: F
+    25:
+      from: 2
+      to: F
+    26:
+      from: F
+      to: G
+    27:
+      from: F
+      to: H
+    28:
+      from: H
+      to: I
+    29:
+      from: I
+      to: K
+    30:
+      from: L
+      to: N
+    31:
+      from: N
+      to: O
+    32:
+      from: Q
+      to: O
+    33:
+      from: Q
+      to: R
+    34:
+      from: T
+      to: X
+    35:
+      from: null
+      to: 2
+    36:
+      from: null
+      to: 3
+    37:
+      from: H
+      to: V
+    38:
+      from: V
+      to: V1
+    39:
+      from: V1
+      to: V2
+    40:
+      from: V1
+      to: V3
+    41:
+      from: R
+      to: V4
+    42:
+      from: R
+      to: V5
+    43:
+      from: V5
+      to: V6
+    44:
+      from: R
+      to: Y
+    45:
+      from: V2
+      to: V3
+    46:
+      from: V3
+      to: V4
+    47:
+      from: V4
+      to: Y
+    48:
+      from: V5
+      to: Y
+    49:
+      from: V3
+      to: R
+    50:
+      from: V3
+      to: W
+    51:
+      from: W3
+      to: W1
+    52:
+      from: W
+      to: W2
+    53:
+      from: W4
+      to: W3
+    54:
+      from: W2
+      to: W4
+    55:
+      from: W4
+      to: W5
+    56:
+      from: W1
+      to: Z
+    57:
+      from: V4
+      to: W
+    58:
+      from: W3
+      to: Z
+    59:
+      from: W4
+      to: Z
+    60:
+      from: Z2
+      to: Z1
+    61:
+      from: 4
+      to: Z2
+    62:
+      from: Z2
+      to: Z3
+    63:
+      from: Z1
+      to: W
+    64:
+      from: Z1
+      to: W2
+    65:
+      from: Z2
+      to: W2
+    66:
+      from: Z3
+      to: W2
+    67:
+      from: null
+      to: 4
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: ソロモン戦域 前方哨戒潜水艦 B群
+      type:
+      boss: false
+      routes: [2, 23]
+    C:
+      name: ソロモン戦域 前方哨戒潜水艦 A群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海南方部隊 リコリス基地航空隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海南方部隊 リコリス基地航空隊
+      type:
+      boss: false
+      routes: [6, 24, 25]
+    G:
+      name: 深海任務部隊 ソロモン哨戒線 II群
+      type:
+      boss: false
+      routes: [7, 26]
+    H:
+      name: 深海南方部隊 リコリス基地航空隊
+      type:
+      boss: false
+      routes: [8, 27]
+    I:
+      name: 深海任務部隊 ソロモン哨戒線 I群
+      type:
+      boss: false
+      routes: [9, 28]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11, 29]
+    L:
+      name: 深海任務部隊 ソロモン遊撃戦隊
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 深海機動部隊 前衛警戒潜水艦群
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海南方部隊 リコリス基地航空隊
+      type:
+      boss: false
+      routes: [14, 30]
+    O:
+      name: 深海任務部隊 リコリス防衛艦隊
+      type:
+      boss: false
+      routes: [15, 31, 32]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [16]
+    Q:
+      name: 深海機動部隊前衛集団 艦載機群
+      type:
+      boss: false
+      routes: [17]
+    R:
+      name: 深海南方部隊 火力支援集団 A群
+      type:
+      boss: false
+      routes: [18, 33, 49]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [19]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    X:
+      name: 深海南方部隊 復旧リコリス基地
+      type:
+      boss: false
+      routes: [22, 34]
+    V:
+      name: 深海潜水部隊 艦隊前衛哨戒 I群
+      type:
+      boss: false
+      routes: [37]
+    V1:
+      name: 深海機動部隊前衛集団 艦載機群
+      type:
+      boss: false
+      routes: [38]
+    V2:
+      name: 
+      type:
+      boss: false
+      routes: [39]
+    V3:
+      name: 深海南方部隊 火力支援集団 B群
+      type:
+      boss: false
+      routes: [40, 45]
+    V4:
+      name: 深海機動部隊前衛集団 艦載機群
+      type:
+      boss: false
+      routes: [41, 46]
+    V5:
+      name: 
+      type:
+      boss: false
+      routes: [42]
+    V6:
+      name: 
+      type:
+      boss: false
+      routes: [43]
+    Y:
+      name: 深海機動部隊 前衛集団
+      type:
+      boss: false
+      routes: [44, 47, 48]
+    W:
+      name: 深海機動部隊 前衛集団残存部隊
+      type:
+      boss: false
+      routes: [50, 57, 63]
+    W1:
+      name: 
+      type:
+      boss: false
+      routes: [51]
+    W2:
+      name: 
+      type:
+      boss: false
+      routes: [52, 64, 65, 66]
+    W3:
+      name: 
+      type:
+      boss: false
+      routes: [53]
+    W4:
+      name: 深海機動部隊旗艦集団 艦載機群
+      type:
+      boss: false
+      routes: [54]
+    W5:
+      name: 
+      type:
+      boss: false
+      routes: [55]
+    Z:
+      name: 深海機動部隊 南太平洋旗艦集団
+      type:
+      boss: true
+      routes: [56, 58, 59]
+    Z1:
+      name: 
+      type:
+      boss: false
+      routes: [60]
+    Z2:
+      name: 
+      type:
+      boss: false
+      routes: [61]
+    Z3:
+      name: 
+      type:
+      boss: false
+      routes: [62]
+  image: MapHDE-7Autumn2020.png
+---
