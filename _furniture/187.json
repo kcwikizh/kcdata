@@ -8,7 +8,7 @@ data:
   description: 名産地から取り寄せた西瓜<br>です。もちろん、西瓜割り<br>用の棒とシートもご用意。<br>艦娘たちと提督の夏休みも<br>これでバッチリです！
   rarity: 2
   price: 1700
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 
