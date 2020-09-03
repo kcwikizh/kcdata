@@ -150,7 +150,7 @@ data:
           useitem:
             -
               id: 3
-              amount: [-1, -1]
+              amount: [12, 18]
             -
               id: 4
               amount: [6, 12]

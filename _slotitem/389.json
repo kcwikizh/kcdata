@@ -1,0 +1,36 @@
+---
+layout: json
+order: 389
+data:
+  id: 389
+  sort_no: 389
+  name: TBM-3W+3S
+  type: [3, 5, 8, 46, 39]
+  rare: 6
+  broken: [4, 6, 0, 16]
+  info: 
+  usebull: 0
+  cost: 12
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 3
+    raig: 10
+    soku: 0
+    baku: 7
+    tyku: 0
+    tais: 13
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 10
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

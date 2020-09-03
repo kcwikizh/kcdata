@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: rwrhhyeloenn
-  file_version: ["28", "1", "710"]
+  file_version: ["29", "1", "827"]
   book_table_id: [469]
   book_sinfo: 白露型九番艦、改白露型駆逐艦の江風だ。<br>そうさ、海風の姉貴たちと同じ、マル２計画で建造されたよ。まー、働いた働いた。ソロモン海は何度も駆け回ったよ。最期は夜戦さ。敵さんの電探…ありゃー反則さ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [24, 96]
-    boko_d: [24, 144]
+    boko_n: [108, 192]
+    boko_d: [120, 84]
     kaisyu_n: [48, -60]
     kaisyu_d: [12, -6]
-    kaizo_n: [-30, 12]
-    kaizo_d: [-78, 48]
-    map_n: [-54, 72]
-    map_d: [-72, 114]
-    ensyuf_n: [-48, 72]
-    ensyuf_d: [-48, 108]
-    ensyue_n: [-60, 0]
-    battle_n: [12, 84]
-    battle_d: [-36, 120]
-    wed_a: [354, 138]
-    wed_b: [126, 168]
+    kaizo_n: [72, 96]
+    kaizo_d: [60, -60]
+    map_n: [72, 144]
+    map_d: [96, 48]
+    ensyuf_n: [84, 138]
+    ensyuf_d: [108, 36]
+    ensyue_n: [60, 0]
+    battle_n: [96, 156]
+    battle_d: [108, 48]
+    wed_a: [228, 48]
+    wed_b: [192, 168]
   wiki_id: "269"
   chinese_name: 江风改二
   can_drop: false
