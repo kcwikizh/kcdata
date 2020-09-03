@@ -14,7 +14,7 @@ data:
   get_mes: 霞よ。<br>ガンガンいくわよ。ついてらっしゃい。
   voice_f: 0
   filename: qukusrsftcgy
-  file_version: ["9", "9", "710"]
+  file_version: ["10", "11", "827"]
   book_table_id: [49]
   book_sinfo: 歴戦の主力駆逐艦として奮戦したわ。<br>最後は戦艦大和と共に坊ノ岬沖海戦で米艦載機の猛攻と戦ったの。<br>負けないわ！
   stats:

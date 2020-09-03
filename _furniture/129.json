@@ -8,7 +8,7 @@ data:
   description: なんとなくコーヒー牛乳が<br>飲みたくなる…そんな風情<br>がたっぷりの富士山をあし<br>らった壁画です。
   rarity: 5
   price: 3000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

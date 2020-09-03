@@ -14,8 +14,8 @@ data:
   get_mes: 私の名前は、Houston。<br>太平洋方面の戦力の要石として、アジア艦隊の旗艦も務めたわ。<br>提督、よろしく頼むわね。
   voice_f: 1
   filename: hdmffrgvrgmm
-  file_version: ["51", "1", "710"]
-  book_table_id: [595]
+  file_version: ["53", "1", "827"]
+  book_table_id: [595, 5452]
   book_sinfo: アジア艦隊に配備されたNorthampton級重巡、<br>Houstonよ。<br>Perth、De Ruyter…彼女達と共にABDA艦隊として<br>戦ったの。私の記憶はバタビア沖が最後だけど……<br>その魂と名は、新型軽巡に継承されたわ。
   stats:
     taik: [43, 56]
@@ -55,6 +55,6 @@ data:
     wed_b: [129, 162]
   wiki_id: "395"
   chinese_name: 休斯敦
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

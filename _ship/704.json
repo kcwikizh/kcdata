@@ -12,9 +12,9 @@ data:
   after_lv: 
   after_ship_id: 
   get_mes: <br>
-  voice_f: 1
+  voice_f: 3
   filename: zilhzetzybay
-  file_version: ["51", "1", "710"]
+  file_version: ["51", "2", "827"]
   book_table_id: 
   book_sinfo: 
   stats:

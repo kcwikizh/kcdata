@@ -8,7 +8,7 @@ data:
   description: すりガラス採用の窓です。<br>素敵にデザインされた紅葉<br>柄が艦隊司令部に不思議な<br>雰囲気を演出します。
   rarity: 4
   price: 400
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

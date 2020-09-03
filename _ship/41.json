@@ -14,7 +14,7 @@ data:
   get_mes: 初春型四番艦、初霜です。<br>皆さん、よろしくお願いします！
   voice_f: 0
   filename: qngptlxhrwhj
-  file_version: ["10", "13", "710"]
+  file_version: ["10", "13", "827"]
   book_table_id: [41]
   book_sinfo: 初春型駆逐艦の４番艦、初霜です。<br>アリューシャン作戦、アッツ島沖海戦、キスカ島撤退作戦、マリアナ沖海戦、北号作戦、坊ノ岬沖海戦など、様々な激戦に参加しました！<br>ほんと、頑張ったんです！
   stats:

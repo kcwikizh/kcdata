@@ -14,13 +14,13 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: nwntjkczdexl
-  file_version: ["9", "1", "710"]
+  file_version: ["9", "1", "827"]
   book_table_id: 
   book_sinfo: 
   stats:
     taik: [92, 103]
     souk: [89, 107]
-    houg: [90, 115]
+    houg: [90, 116]
     raig: [0, 0]
     tyku: [82, 120]
     luck: [40, 99]
