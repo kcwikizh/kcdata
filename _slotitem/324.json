@@ -76,9 +76,7 @@ data:
         -
           -
             ship_id: 554
-        -
-          -
-            ship_id: 554
+        - false
         - false
         - false
   chinese_name: 

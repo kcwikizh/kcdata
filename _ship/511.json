@@ -55,6 +55,6 @@ data:
     wed_b: [162, 186]
   wiki_id: "311"
   chinese_name: 甘古特
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

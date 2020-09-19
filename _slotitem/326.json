@@ -82,9 +82,7 @@ data:
         - false
         - false
         - false
-        -
-          -
-            ship_id: 554
+        - false
         -
           -
             ship_id: 554

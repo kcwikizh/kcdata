@@ -32,5 +32,85 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [0, 40, 20, 20]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 1]
+          -
+            -
+              id: 3
+              amount: [-1, -1]
+            -
+              id: 4
+              amount: [1, 2]
+        slotitem:
+          -
+            id: 92
+            amount: 1
+          -
+            id: 92
+            amount: 1
+      upgrade:
+        id: 191
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [-1, -1]
+            -
+              id: 4
+              amount: [3, 6]
+            -
+              id: 94
+              amount: 1
+          slotitem:
+            id: 39
+            amount: 2
+      day:
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 405
+          -
+            ship_id: 323
+          -
+            ship_id: 184
+          -
+            ship_id: 185
+          -
+            ship_id: 318
+        -
+          -
+            ship_id: 405
+          -
+            ship_id: 323
+          -
+            ship_id: 184
+          -
+            ship_id: 185
+          -
+            ship_id: 318
+        -
+          -
+            ship_id: 405
+          -
+            ship_id: 323
+          -
+            ship_id: 184
+          -
+            ship_id: 185
+          -
+            ship_id: 318
   chinese_name: 毘式40mm连装机铳
 ---

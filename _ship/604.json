@@ -55,6 +55,6 @@ data:
     wed_b: [73, 147]
   wiki_id: "399"
   chinese_name: 德·鲁伊特
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

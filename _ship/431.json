@@ -55,6 +55,6 @@ data:
     wed_b: [216, 204]
   wiki_id: "231"
   chinese_name: U-511
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

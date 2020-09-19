@@ -55,6 +55,6 @@ data:
     wed_b: [118, 184]
   wiki_id: "412"
   chinese_name: 屋代
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

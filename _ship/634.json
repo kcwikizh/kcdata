@@ -55,6 +55,6 @@ data:
     wed_b: [130, 175]
   wiki_id: "434"
   chinese_name: 迅鲸
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

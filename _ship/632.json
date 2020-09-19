@@ -55,6 +55,6 @@ data:
     wed_b: [130, 180]
   wiki_id: "432"
   chinese_name: 有明
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---
