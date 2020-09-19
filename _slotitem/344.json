@@ -79,7 +79,9 @@ data:
           -
             ship_id: 318
         - false
-        - false
+        -
+          -
+            ship_id: 560
         -
           -
             ship_id: 560

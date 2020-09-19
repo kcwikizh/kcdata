@@ -55,6 +55,6 @@ data:
     wed_b: [198, 156]
   wiki_id: "265"
   chinese_name: 鹿岛
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

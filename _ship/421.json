@@ -55,6 +55,6 @@ data:
     wed_b: [138, 156]
   wiki_id: "221"
   chinese_name: 秋月
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

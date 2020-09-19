@@ -55,6 +55,6 @@ data:
     wed_b: [121, 163]
   wiki_id: "413"
   chinese_name: 珀斯
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

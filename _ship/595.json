@@ -55,6 +55,6 @@ data:
     wed_b: [129, 162]
   wiki_id: "395"
   chinese_name: 休斯敦
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

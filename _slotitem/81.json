@@ -32,5 +32,59 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [190, 190, 0, 430]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [-1, -1]
+            -
+              id: 4
+              amount: [-1, -1]
+        slotitem:
+          -
+            id: 26
+            amount: 1
+          - 
+      upgrade:
+        id: 237
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [-1, 18]
+            -
+              id: 4
+              amount: [-1, 7]
+            -
+              id: 77
+              amount: 1
+          slotitem:
+            id: 80
+            amount: 2
+      day:
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 82
+          -
+            ship_id: 412
+        -
+          -
+            ship_id: 412
+        - false
   chinese_name: 瑞云12型(六三四空)
 ---

@@ -55,6 +55,6 @@ data:
     wed_b: [120, 198]
   wiki_id: "294"
   chinese_name: 伊13
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---
