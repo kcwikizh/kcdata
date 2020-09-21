@@ -1,0 +1,168 @@
+---
+layout: json
+order: 73
+data:
+  id: 73
+  name: ペナン島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: B
+      to: C
+    8:
+      from: D
+      to: E
+    9:
+      from: D
+      to: G
+    10:
+      from: G
+      to: H
+    11:
+      from: C
+      to: I
+    12:
+      from: G
+      to: J
+    13:
+      from: G
+      to: K
+    14:
+      from: I
+      to: L
+    15:
+      from: I
+      to: M
+    16:
+      from: M
+      to: N
+    17:
+      from: M
+      to: O
+    18:
+      from: G
+      to: P
+    19:
+      from: G
+      to: I
+    20:
+      from: I
+      to: J
+    21:
+      from: J
+      to: M
+    22:
+      from: L
+      to: M
+    23:
+      from: J
+      to: P
+    24:
+      from: K
+      to: P
+    25:
+      from: M
+      to: P
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海東方部隊 魚雷艇戦隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海東方部隊 前衛駆逐艦
+      type:
+      boss: false
+      routes: [3, 7]
+    D:
+      name: 深海5,500t級軽巡洋艦
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海東方部隊 精鋭駆逐隊
+      type:
+      boss: false
+      routes: [5, 8]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [11, 19]
+    J:
+      name: 深海潜水艦隊 海峡警戒線
+      type:
+      boss: false
+      routes: [12, 20]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    M:
+      name: 深海東方部隊 巡洋艦戦隊
+      type:
+      boss: false
+      routes: [15, 21, 22]
+    N:
+      name: 深海東方部隊 空母機動部隊
+      type:
+      boss: false
+      routes: [16]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    P:
+      name: 深海東方部隊 海峡封鎖部隊旗艦
+      type:
+      boss: true
+      routes: [18, 23, 24, 25]
+  image: MapHD7-3.png
+---
