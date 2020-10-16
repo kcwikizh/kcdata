@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 496
+  type: 1
+  no: 85
+  title: 中秋の壁
+  description: 秋の真ン中、中秋。すすき<br>が広がる秋の季節、そんな<br>わびさびの心を描き出した<br>秋の壁です。
+  rarity: 4
+  price: 1900
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

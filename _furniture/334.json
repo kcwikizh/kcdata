@@ -8,7 +8,7 @@ data:
   description: 家具コイン長者に贈る二隻<br>の潜水空母の精密な模型が<br>配置された特製桐箪笥。潜<br>特型を補完するために建造<br>された潜水空母艦隊です。
   rarity: 5
   price: 51400
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: "048"
   file_version: 1

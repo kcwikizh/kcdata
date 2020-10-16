@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 497
+  type: 3
+  no: 109
+  title: 「鯨」の掛け軸
+  description: 令和二年度十月に進水した<br>新たな「鯨」を記念して、<br>ある潜水母艦が制作した掛<br>け軸です。新たな鯨たち、<br>頑張って！応援してます！
+  rarity: 5
+  price: 51300
+  saleflg: 0
+  season: 0
+  filename: "110"
+  file_version: "1"
+---

@@ -71,11 +71,13 @@ data:
             amount: 1
       day:
         - false
-        - false
-        - false
         -
           -
             ship_id: 554
+        -
+          -
+            ship_id: 554
+        - false
         - false
         - false
         - false

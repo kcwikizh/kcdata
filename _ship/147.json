@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: gmqsmiszmftf
-  file_version: ["11", "5", "827"]
+  file_version: ["12", "5", "1016"]
   book_table_id: [147, 785]
   book_sinfo: 数ある特型駆逐艦の中で、最後まで生き残ったのが、響。転戦の後、あの大和水上特攻時には修理で同行できなかったんだ。<br>賠償艦としてソ連に引き渡され「信頼できる」という意味の艦名になったんだ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 1, 1]
     build_time: 20
   graph:
-    boko_n: [84, 168]
-    boko_d: [66, 198]
+    boko_n: [132, 204]
+    boko_d: [126, 162]
     kaisyu_n: [24, 4]
     kaisyu_d: [60, 0]
-    kaizo_n: [60, 78]
-    kaizo_d: [36, 48]
-    map_n: [48, 168]
-    map_d: [42, 186]
-    ensyuf_n: [120, 180]
-    ensyuf_d: [78, 108]
-    ensyue_n: [72, 0]
-    battle_n: [60, 186]
-    battle_d: [72, 168]
-    wed_a: [232, 16]
-    wed_b: [220, 243]
+    kaizo_n: [60, 138]
+    kaizo_d: [48, 12]
+    map_n: [96, 192]
+    map_d: [78, 144]
+    ensyuf_n: [84, 192]
+    ensyuf_d: [78, 114]
+    ensyue_n: [84, 0]
+    battle_n: [126, 210]
+    battle_d: [114, 144]
+    wed_a: [258, -12]
+    wed_b: [132, 210]
   wiki_id: "147"
   chinese_name: 信赖
   can_drop: false

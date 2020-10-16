@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: pcmipikyqfxe
-  file_version: ["59", "2", "827"]
+  file_version: ["60", "2", "1016"]
   book_table_id: [547, 1014]
   book_sinfo: 球磨型軽巡洋艦の２番艦、多摩だにゃ。<br>水雷戦隊の旗艦として、ご奉公するにゃ！<br>にゃ？多摩って名前だけど、猫じゃないもん！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 2, 3]
     build_time: 60
   graph:
-    boko_n: [108, 204]
-    boko_d: [120, 240]
+    boko_n: [156, 138]
+    boko_d: [156, 192]
     kaisyu_n: [18, -6]
     kaisyu_d: [27, 3]
-    kaizo_n: [72, 96]
-    kaizo_d: [60, 96]
-    map_n: [72, 156]
-    map_d: [48, 192]
-    ensyuf_n: [84, 156]
-    ensyuf_d: [84, 204]
-    ensyue_n: [60, 0]
-    battle_n: [96, 180]
-    battle_d: [60, 204]
-    wed_a: [222, 18]
-    wed_b: [198, 168]
+    kaizo_n: [72, 42]
+    kaizo_d: [42, 42]
+    map_n: [96, 114]
+    map_d: [90, 144]
+    ensyuf_n: [78, 120]
+    ensyuf_d: [48, 144]
+    ensyue_n: [48, 0]
+    battle_n: [120, 132]
+    battle_d: [84, 168]
+    wed_a: [288, 66]
+    wed_b: [108, 186]
   wiki_id: "347"
   chinese_name: 多摩改二
   can_drop: false

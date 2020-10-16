@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: ghgphbvmzjrx
-  file_version: ["10", "13", "827"]
+  file_version: ["10", "13", "1016"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -23,7 +23,7 @@ data:
     houg: [48, 77]
     raig: [24, 79]
     tyku: [20, 69]
-    luck: [10, 59]
+    luck: [10, 63]
     soku: 10
     leng: 2
     kaih: 

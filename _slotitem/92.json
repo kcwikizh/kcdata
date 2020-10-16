@@ -46,7 +46,7 @@ data:
           -
             -
               id: 3
-              amount: [-1, -1]
+              amount: [1, 2]
             -
               id: 4
               amount: [1, 2]
@@ -59,12 +59,12 @@ data:
             amount: 1
       upgrade:
         id: 191
-        level: 0
+        level: 1
         consume:
           useitem:
             -
               id: 3
-              amount: [-1, -1]
+              amount: [-1, 8]
             -
               id: 4
               amount: [3, 6]
@@ -75,10 +75,50 @@ data:
             id: 39
             amount: 2
       day:
-        - false
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 405
+          -
+            ship_id: 323
+          -
+            ship_id: 184
+          -
+            ship_id: 185
+          -
+            ship_id: 318
+        -
+          -
+            ship_id: 405
+          -
+            ship_id: 323
+          -
+            ship_id: 184
+          -
+            ship_id: 185
+          -
+            ship_id: 318
+        -
+          -
+            ship_id: 405
+          -
+            ship_id: 323
+          -
+            ship_id: 184
+          -
+            ship_id: 185
+          -
+            ship_id: 318
+        -
+          -
+            ship_id: 405
+          -
+            ship_id: 323
+          -
+            ship_id: 184
+          -
+            ship_id: 185
+          -
+            ship_id: 318
         -
           -
             ship_id: 405
