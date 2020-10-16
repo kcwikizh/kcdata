@@ -75,10 +75,26 @@ data:
             id: 41
             amount: 2
       day:
+        -
+          -
+            ship_id: 581
+          -
+            ship_id: 690
+          -
+            ship_id: 586
         - false
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 107
+        -
+          -
+            ship_id: 581
+          -
+            ship_id: 690
+          -
+            ship_id: 586
+          -
+            ship_id: 107
         -
           -
             ship_id: 581

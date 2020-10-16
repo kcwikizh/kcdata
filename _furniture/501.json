@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 501
+  type: 4
+  no: 69
+  title: 焼き芋と読書の時間
+  description: 秋…読書の秋、そして食欲<br>の秋。そんな季節に白露型<br>一番艦が持ち込んだ家具。<br>美味しい焼き芋と飲み物、<br>読みかけの本があります。
+  rarity: 4
+  price: 4050
+  saleflg: 0
+  season: 0
+  filename: 
+  file_version: ""
+---

@@ -14,7 +14,7 @@ data:
   get_mes: 白露型駆逐艦一番艦、「白露」です！<br>はい、一番艦ですっ！
   voice_f: 0
   filename: ahztpphnuvco
-  file_version: ["45", "46", "827"]
+  file_version: ["46", "47", "1016"]
   book_table_id: [42, 242, 926, 896, 843, 770]
   book_sinfo: 初春型駆逐艦の次に開発された白露型の１番艦、白露だよ！　そう、１番艦だよ、１番艦。<br>色々と改良された艦隊型駆逐艦なんだから！<br>え？慌ててタンカーと衝突しないようにって？大丈夫！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 22
   graph:
-    boko_n: [216, 180]
-    boko_d: [216, 210]
+    boko_n: [241, 208]
+    boko_d: [187, 228]
     kaisyu_n: [-24, -18]
     kaisyu_d: [-7, 10]
-    kaizo_n: [120, 72]
-    kaizo_d: [132, 120]
-    map_n: [117, 138]
-    map_d: [162, 180]
-    ensyuf_n: [126, 144]
-    ensyuf_d: [126, 168]
-    ensyue_n: [108, 0]
-    battle_n: [138, 162]
-    battle_d: [156, 198]
-    wed_a: [216, 48]
-    wed_b: [123, 168]
+    kaizo_n: [157, 82]
+    kaizo_d: [99, 79]
+    map_n: [223, 184]
+    map_d: [165, 184]
+    ensyuf_n: [177, 175]
+    ensyuf_d: [124, 175]
+    ensyue_n: [145, 0]
+    battle_n: [220, 196]
+    battle_d: [166, 205]
+    wed_a: [169, 10]
+    wed_b: [120, 148]
   wiki_id: "079"
   chinese_name: 白露
   can_drop: true

@@ -96,11 +96,23 @@ data:
             ship_id: 84
           -
             ship_id: 278
+          -
+            ship_id: 698
+          -
+            ship_id: 610
+          -
+            ship_id: 646
         -
           -
             ship_id: 84
           -
             ship_id: 278
+          -
+            ship_id: 698
+          -
+            ship_id: 610
+          -
+            ship_id: 646
         - false
         - false
   chinese_name: 零式舰战32型(熟练)

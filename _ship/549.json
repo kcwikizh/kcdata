@@ -14,7 +14,7 @@ data:
   get_mes: Hi！ Essex class航空母艦、５番艦。Intrepidよ！<br>貴方がAdmiralなのね？　素敵ね。さァ、一緒にいきましょう？<br>いいかナ？
   voice_f: 1
   filename: pwipskreiclu
-  file_version: ["51", "1", "827"]
+  file_version: ["51", "1", "1016"]
   book_table_id: [549, 397]
   book_sinfo: Essex級航空母艦、５番艦、Intrepidよ！　そう、艦隊型正規空母として量産されたあの戦い最強の空母姉妹の一隻です。あの大戦が終わった後も、近代化改装され、アングルド・デッキを備えた現代空母の先駆けとしても運用されました。そして、退役後はハドソン川で海上航空宇宙博物館として、現存しているの。
   stats:

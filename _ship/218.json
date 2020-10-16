@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: jmpkkzqwgxtc
-  file_version: ["13", "5", "827"]
+  file_version: ["14", "5", "1016"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [168, 156]
-    boko_d: [54, 90]
+    boko_n: [192, 216]
+    boko_d: [156, 216]
     kaisyu_n: [10, 24]
     kaisyu_d: [42, 30]
-    kaizo_n: [120, 96]
-    kaizo_d: [-24, -48]
-    map_n: [96, 108]
-    map_d: [-48, 12]
-    ensyuf_n: [108, 120]
-    ensyuf_d: [-36, 18]
-    ensyue_n: [84, 0]
-    battle_n: [120, 120]
-    battle_d: [0, 48]
-    wed_a: [186, 72]
-    wed_b: [192, 180]
+    kaizo_n: [144, 126]
+    kaizo_d: [88, 84]
+    map_n: [90, 160]
+    map_d: [22, 189]
+    ensyuf_n: [180, 195]
+    ensyuf_d: [73, 120]
+    ensyue_n: [157, 0]
+    battle_n: [135, 180]
+    battle_d: [112, 174]
+    wed_a: [153, 0]
+    wed_b: [201, 195]
   wiki_id: "042a"
   chinese_name: 长良改
   can_drop: false

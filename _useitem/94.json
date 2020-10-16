@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 94
+  usetype: 0
+  category: 0
+  name: 新型兵装資材
+  description:
+    - "新型兵装の開発及び実戦配備　<br>に必要な技術図面と資材です。<br>※装備改修等で使用すること　<br>で、各種新型兵装の開発及び　<br>実戦配備が可能となります。"
+    - ""
+  price: 0
+  chinese_name:
+  chinese_description:
+---

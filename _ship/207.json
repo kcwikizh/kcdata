@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: sgpilzypnejy
-  file_version: ["22", "20", "827"]
+  file_version: ["23", "20", "1016"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [174, 144]
-    boko_d: [174, 168]
+    boko_n: [141, 123]
+    boko_d: [138, 144]
     kaisyu_n: [19, 24]
     kaisyu_d: [42, 10]
-    kaizo_n: [72, 60]
-    kaizo_d: [60, 48]
-    map_n: [96, 114]
-    map_d: [96, 138]
-    ensyuf_n: [78, 120]
-    ensyuf_d: [78, 144]
-    ensyue_n: [66, 0]
-    battle_n: [108, 120]
-    battle_d: [108, 144]
-    wed_a: [258, 66]
-    wed_b: [144, 192]
+    kaizo_n: [58, 40]
+    kaizo_d: [25, 3]
+    map_n: [55, 117]
+    map_d: [-6, 129]
+    ensyuf_n: [130, 120]
+    ensyuf_d: [64, 55]
+    ensyue_n: [130, 0]
+    battle_n: [52, 108]
+    battle_d: [52, 108]
+    wed_a: [219, 78]
+    wed_b: [210, 195]
   wiki_id: "017a"
   chinese_name: 绫波改
   can_drop: false

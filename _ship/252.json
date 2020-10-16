@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: oxttbkywusfp
-  file_version: ["15", "15", "827"]
+  file_version: ["15", "15", "1016"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -49,8 +49,8 @@ data:
     ensyuf_n: [34, 39]
     ensyuf_d: [4, -43]
     ensyue_n: [34, 0]
-    battle_n: [-55, 27]
-    battle_d: [-55, 27]
+    battle_n: [21, 49]
+    battle_d: [21, 49]
     wed_a: [297, 150]
     wed_b: [217, 211]
   wiki_id: "089a"
