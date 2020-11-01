@@ -32,5 +32,119 @@ data:
     luck: 0
     leng: 0
   improvement: 
-  chinese_name:
+    -
+      consume:
+        resource: [200, 190, 0, 300]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 5]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [5, 6]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          -
+            id: 23
+            amount: 1
+          -
+            id: 23
+            amount: 2
+      upgrade:
+        id: 392
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [5, 9]
+            -
+              id: 4
+              amount: [4, 6]
+            -
+              id: 70
+              amount: 1
+          slotitem:
+            id: 97
+            amount: 1
+      day:
+        -
+          -
+            ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
+          -
+            ship_id: 116
+          -
+            ship_id: 117
+          -
+            ship_id: 555
+          -
+            ship_id: 560
+        -
+          -
+            ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
+        - false
+        - false
+        -
+          -
+            ship_id: 116
+          -
+            ship_id: 117
+          -
+            ship_id: 555
+          -
+            ship_id: 560
+        -
+          -
+            ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
+          -
+            ship_id: 116
+          -
+            ship_id: 117
+          -
+            ship_id: 555
+          -
+            ship_id: 560
+        -
+          -
+            ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
+          -
+            ship_id: 116
+          -
+            ship_id: 117
+          -
+            ship_id: 555
+          -
+            ship_id: 560
+  chinese_name: 
 ---

@@ -32,5 +32,63 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [300, 300, 0, 390]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 7]
+            -
+              id: 4
+              amount: [4, 5]
+          -
+            -
+              id: 3
+              amount: [7, 9]
+            -
+              id: 4
+              amount: [5, 7]
+        slotitem:
+          -
+            id: 23
+            amount: 2
+          -
+            id: 391
+            amount: 1
+      upgrade:
+        id: 100
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [16, 28]
+            -
+              id: 4
+              amount: [10, 20]
+            -
+              id: 77
+              amount: 3
+          slotitem:
+            id: 24
+            amount: 6
+      day:
+        -
+          -
+            ship_id: 197
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 197
+        -
+          -
+            ship_id: 197
+        -
+          -
+            ship_id: 197
   chinese_name: 九九式舰爆(江草队)
 ---

@@ -46,7 +46,7 @@ data:
           -
             -
               id: 3
-              amount: [-1, -1]
+              amount: [16, 18]
             -
               id: 4
               amount: [7, 8]

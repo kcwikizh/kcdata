@@ -68,29 +68,26 @@ data:
             -
               id: 4
               amount: [10, 13]
-            -
-              id: 71
-              amount: 1
           slotitem:
+            id: consumable_71
+            amount: 1
       day:
         -
           -
+            ship_id: 467
+        -
+          -
+            ship_id: 467
+        -
+          -
             ship_id: 466
           -
             ship_id: 467
         -
           -
-            ship_id: 467
-        -
-          -
-            ship_id: 467
+            ship_id: 466
         - false
         - false
-        -
-          -
-            ship_id: 466
-        -
-          -
-            ship_id: 466
+        - false
   chinese_name: 试制景云(舰侦型)
 ---

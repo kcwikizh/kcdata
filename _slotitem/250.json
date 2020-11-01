@@ -112,15 +112,7 @@ data:
             ship_id: 519
           -
             ship_id: 394
-        -
-          -
-            ship_id: 439
-          -
-            ship_id: 364
-          -
-            ship_id: 515
-          -
-            ship_id: 393
+        - false
         -
           -
             ship_id: 439

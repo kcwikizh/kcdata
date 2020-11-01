@@ -4,7 +4,7 @@ order: 147
 data:
   id: 147
   sort_no: 147
-  name: 120mm連装砲
+  name: 120mm/50 連装砲
   type: [1, 1, 1, 1, 0]
   rare: 2
   broken: [0, 1, 2, 0]

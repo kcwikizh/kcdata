@@ -32,5 +32,134 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [190, 190, 0, 290]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 3]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [2, 4]
+        slotitem:
+          -
+            id: 23
+            amount: 1
+          -
+            id: 23
+            amount: 2
+      upgrade:
+        id: 391
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [4, 7]
+            -
+              id: 4
+              amount: [3, 5]
+          slotitem:
+            id: 25
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 90
+          -
+            ship_id: 279
+          -
+            ship_id: 197
+          -
+            ship_id: 116
+          -
+            ship_id: 117
+          -
+            ship_id: 555
+          -
+            ship_id: 560
+        -
+          -
+            ship_id: 91
+          -
+            ship_id: 280
+          -
+            ship_id: 196
+          -
+            ship_id: 116
+          -
+            ship_id: 117
+          -
+            ship_id: 555
+          -
+            ship_id: 560
+        -
+          -
+            ship_id: 91
+          -
+            ship_id: 280
+          -
+            ship_id: 196
+          -
+            ship_id: 116
+          -
+            ship_id: 117
+          -
+            ship_id: 555
+          -
+            ship_id: 560
+        -
+          -
+            ship_id: 91
+          -
+            ship_id: 280
+          -
+            ship_id: 196
+        -
+          -
+            ship_id: 90
+          -
+            ship_id: 279
+          -
+            ship_id: 197
+        -
+          -
+            ship_id: 90
+          -
+            ship_id: 279
+          -
+            ship_id: 197
+          -
+            ship_id: 116
+          -
+            ship_id: 117
+          -
+            ship_id: 555
+          -
+            ship_id: 560
+        -
+          -
+            ship_id: 90
+          -
+            ship_id: 279
+          -
+            ship_id: 197
+          -
+            ship_id: 116
+          -
+            ship_id: 117
+          -
+            ship_id: 555
+          -
+            ship_id: 560
   chinese_name: 九九式舰爆
 ---
