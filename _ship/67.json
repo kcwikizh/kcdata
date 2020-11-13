@@ -14,7 +14,7 @@ data:
   get_mes: 私は愛宕、提督、覚えてくださいね。
   voice_f: 1
   filename: aqpnbsizhjij
-  file_version: ["8", "15", "1016"]
+  file_version: ["8", "15", "1113"]
   book_table_id: [67]
   book_sinfo: 高雄型の２番艦、愛宕よ、うふふ。<br>呉海軍工廠で生まれたの。<br>バランスがとれた重武装ボディでしょ？<br>レイテ沖の決戦では、第一遊撃部隊の旗艦として出撃したんだけど……ま、そんなこともあるわよね。
   stats:

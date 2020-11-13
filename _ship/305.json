@@ -14,13 +14,13 @@ data:
   get_mes: <br>
   voice_f: 7
   filename: cmpqwemjahur
-  file_version: ["13", "13", "1016"]
+  file_version: ["13", "13", "1113"]
   book_table_id: 
   book_sinfo: 
   stats:
     taik: [45, 62]
     souk: [31, 69]
-    houg: [28, 67]
+    houg: [28, 68]
     raig: [24, 79]
     tyku: [20, 73]
     luck: [10, 59]

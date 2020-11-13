@@ -14,7 +14,7 @@ data:
   get_mes: Nice meeting you.<br>My name is South Dakota.　提督、よろしくな。
   voice_f: 1
   filename: kobflkooyivx
-  file_version: ["53", "2", "1016"]
+  file_version: ["53", "3", "1113"]
   book_table_id: [602, 5468]
   book_sinfo: South Dakota class USS Battleship South Dakota<br>だ。高速空母機動部隊の護衛、南方ソロモンで水上艦<br>隊の殴り合いなど前線で活躍した戦艦だ。<br>Black Princeなどとも呼ばれたな。何？疫病神だと？<br>知らんな。
   stats:

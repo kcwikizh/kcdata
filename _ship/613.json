@@ -14,7 +14,7 @@ data:
   get_mes: How are you?<br>私は、Perth級軽巡洋艦Perth。HMAS Perth！<br>イギリス生まれ、オーストラリア育ちよ。
   voice_f: 1
   filename: jcixsqhnwjqb
-  file_version: ["51", "1", "1016"]
+  file_version: ["51", "1", "1113"]
   book_table_id: [613]
   book_sinfo: Perth級軽巡洋艦Perth、英国生まれ、オーストラリ<br>ア育ちです。<br>連合軍ABDA艦隊の一翼として、南方作戦で南下する<br>日本艦隊を迎撃しました。重巡Houstonと共に最後<br>の一撃を図りましたが…。護る気持ちは…一緒です。
   stats:

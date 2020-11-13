@@ -14,7 +14,7 @@ data:
   get_mes: 足柄よ。砲雷撃戦が得意なの。<br>ふふ、よろしくね。
   voice_f: 0
   filename: opprvckvhrkv
-  file_version: ["14", "14", "1016"]
+  file_version: ["14", "14", "1113"]
   book_table_id: [64]
   book_sinfo: 私、足柄が英国の観艦式に参加した時のことよ。<br>まるで「飢えた狼のよう」と評価されたの。<br>当然よね！この精悍なボディ！<br>え？それは色気がないって嫌味じゃないかって？<br>そんなことあるわけ…ナイじゃない！
   stats:

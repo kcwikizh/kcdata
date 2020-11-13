@@ -14,7 +14,7 @@ data:
   get_mes: あんたが司令官ね。<br>ま、せいぜい頑張りなさい！
   voice_f: 1
   filename: hpfcwdqxgyvl
-  file_version: ["26", "18", "1016"]
+  file_version: ["26", "18", "1113"]
   book_table_id: [33, 915]
   book_sinfo: 特型駆逐艦、５番艦の叢雲よ。<br>え、知らないって？　全く、ありえないわね。<br>南方作戦や、古鷹の救援、数々の作戦に参加した名艦の私を知らないって、あんた、もぐりでしょ！
   stats:
