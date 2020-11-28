@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: zgscfjpbxnir
-  file_version: ["19", "9", "1113"]
+  file_version: ["19", "9", "1127"]
   book_table_id: [429]
   book_sinfo: 雲龍型航空母艦、その二番艦、天城です。戦時急造計画であるマル急計画により、建造されました。<br>空母機動部隊として運用されることは叶いませんでしたが、呉空襲時の対空戦で奮闘しました。
   stats:

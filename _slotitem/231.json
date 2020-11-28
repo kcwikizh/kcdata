@@ -32,5 +32,64 @@ data:
     luck: 0
     leng: 3
   improvement: 
+    -
+      consume:
+        resource: [20, 230, 330, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 6]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [7, 8]
+            -
+              id: 4
+              amount: [3, 4]
+        slotitem:
+          -
+            id: 7
+            amount: 1
+          -
+            id: 8
+            amount: 1
+      upgrade:
+        id: 232
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [9, 10]
+            -
+              id: 4
+              amount: [5, 7]
+          slotitem:
+            id: 7
+            amount: 3
+      day:
+        - false
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 511
+          -
+            ship_id: 512
+          -
+            ship_id: 513
+        -
+          -
+            ship_id: 511
+          -
+            ship_id: 512
+          -
+            ship_id: 513
   chinese_name: 30.5cm三连装炮
 ---

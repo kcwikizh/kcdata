@@ -32,5 +32,72 @@ data:
     luck: 0
     leng: 1
   improvement: 
+    -
+      consume:
+        resource: [10, 60, 80, 10]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 5]
+            -
+              id: 4
+              amount: [2, 2]
+          -
+            -
+              id: 3
+              amount: [5, 7]
+            -
+              id: 4
+              amount: [3, 4]
+        slotitem:
+          -
+            id: 297
+            amount: 1
+          -
+            id: 2
+            amount: 2
+      upgrade:
+        id: 393
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [4, 6]
+          slotitem:
+            id: 147
+            amount: 1
+      day:
+        -
+          -
+            ship_id: 443
+          -
+            ship_id: 347
+        -
+          -
+            ship_id: 443
+          -
+            ship_id: 347
+        -
+          -
+            ship_id: 443
+          -
+            ship_id: 347
+        - false
+        - false
+        -
+          -
+            ship_id: 443
+          -
+            ship_id: 347
+        -
+          -
+            ship_id: 443
+          -
+            ship_id: 347
   chinese_name: 120mm连装炮
 ---

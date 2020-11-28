@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 658
+  sort_no: 1707
+  name: Scirocco改
+  yomi: シロッコ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: jnkficpdhomx
+  file_version: ["51", "1", "1127"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [28, 45]
+    souk: [15, 50]
+    houg: [13, 55]
+    raig: [27, 72]
+    tyku: [22, 63]
+    luck: [13, 69]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 23
+  graph:
+    boko_n: [103, 174]
+    boko_d: [73, 342]
+    kaisyu_n: [21, -28]
+    kaisyu_d: [43, 16]
+    kaizo_n: [96, 43]
+    kaizo_d: [34, 124]
+    map_n: [115, 112]
+    map_d: [87, 255]
+    ensyuf_n: [120, 124]
+    ensyuf_d: [75, 193]
+    ensyue_n: [99, 0]
+    battle_n: [141, 148]
+    battle_d: [102, 241]
+    wed_a: [223, 42]
+    wed_b: [151, 181]
+  wiki_id: "453a"
+  chinese_name: 东南风改
+  can_drop: false
+  can_construct: false
+---

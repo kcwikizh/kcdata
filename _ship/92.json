@@ -14,7 +14,7 @@ data:
   get_mes: 商船改装空母、隼鷹でーすっ！<br>ひゃっはぁー！
   voice_f: 0
   filename: ltdlvothcqnr
-  file_version: ["3", "3", "1113"]
+  file_version: ["3", "3", "1127"]
   book_table_id: [92]
   book_sinfo: 戦時改造を前提に建造した豪華客船、橿原丸。<br>その改装した姿が空母、隼鷹さ。<br>ちゃーんと戦い抜いて、最後まで生き残ったんだぜ。意外とやるでしょ？
   stats:

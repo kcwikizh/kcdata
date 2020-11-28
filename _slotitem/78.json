@@ -32,5 +32,99 @@ data:
     luck: 0
     leng: 1
   improvement: 
+    -
+      consume:
+        resource: [10, 20, 70, 10]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 3]
+            -
+              id: 4
+              amount: [1, 2]
+          -
+            -
+              id: 3
+              amount: [4, 5]
+            -
+              id: 4
+              amount: [2, 3]
+        slotitem:
+          -
+            id: 2
+            amount: 1
+          -
+            id: 78
+            amount: 1
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 174
+          -
+            ship_id: 310
+          -
+            ship_id: 179
+          -
+            ship_id: 175
+          -
+            ship_id: 311
+          -
+            ship_id: 180
+        -
+          -
+            ship_id: 175
+          -
+            ship_id: 311
+          -
+            ship_id: 180
+        -
+          -
+            ship_id: 175
+          -
+            ship_id: 311
+          -
+            ship_id: 180
+        -
+          -
+            ship_id: 174
+          -
+            ship_id: 310
+          -
+            ship_id: 179
+        -
+          -
+            ship_id: 174
+          -
+            ship_id: 310
+          -
+            ship_id: 179
+        -
+          -
+            ship_id: 174
+          -
+            ship_id: 310
+          -
+            ship_id: 179
+          -
+            ship_id: 175
+          -
+            ship_id: 311
+          -
+            ship_id: 180
+        -
+          -
+            ship_id: 174
+          -
+            ship_id: 310
+          -
+            ship_id: 179
+          -
+            ship_id: 175
+          -
+            ship_id: 311
+          -
+            ship_id: 180
   chinese_name: 12.7cm单装炮
 ---

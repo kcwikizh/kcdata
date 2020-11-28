@@ -59,6 +59,75 @@ data:
             amount: 2
       upgrade:
       day:
+        - false
+        - false
+        -
+          -
+            ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+        -
+          -
+            ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
+        -
+          -
+            ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
+        - false
+        - false
+    -
+      consume:
+        resource: [120, 120, 0, 280]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [5, 8]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          -
+            id: 21
+            amount: 1
+          -
+            id: 21
+            amount: 2
+      upgrade:
+        id: 60
+        level: 4
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [5, 8]
+            -
+              id: 4
+              amount: [3, 5]
+          slotitem:
+            id: 23
+            amount: 2
+      day:
         -
           -
             ship_id: 111
@@ -66,8 +135,6 @@ data:
             ship_id: 112
           -
             ship_id: 462
-          -
-            ship_id: 467
         -
           -
             ship_id: 111
@@ -75,8 +142,6 @@ data:
             ship_id: 112
           -
             ship_id: 462
-          -
-            ship_id: 467
         - false
         -
           -
@@ -85,34 +150,8 @@ data:
             ship_id: 112
           -
             ship_id: 462
-          -
-            ship_id: 467
-        -
-          -
-            ship_id: 110
-          -
-            ship_id: 288
-          -
-            ship_id: 461
-          -
-            ship_id: 466
-        -
-          -
-            ship_id: 110
-          -
-            ship_id: 288
-          -
-            ship_id: 461
-          -
-            ship_id: 466
-        -
-          -
-            ship_id: 110
-          -
-            ship_id: 288
-          -
-            ship_id: 461
-          -
-            ship_id: 466
+        - false
+        - false
+        - false
   chinese_name: 零式舰战52型
 ---
