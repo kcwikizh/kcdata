@@ -53,8 +53,8 @@ data:
     battle_d: [193, 150]
     wed_a: [550, 16]
     wed_b: [157, 166]
-  wiki_id:
-  chinese_name:
+  wiki_id: "454a"
+  chinese_name: 华盛顿改
   can_drop: false
   can_construct: false
 ---
