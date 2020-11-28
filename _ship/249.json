@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: ngcxxfxovpmn
-  file_version: ["17", "19", "1113"]
+  file_version: ["18", "19", "1127"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [145, 76]
-    boko_d: [168, 256]
+    boko_n: [177, 127]
+    boko_d: [177, 127]
     kaisyu_n: [18, 15]
     kaisyu_d: [42, 30]
-    kaizo_n: [129, -43]
-    kaizo_d: [136, 103]
-    map_n: [150, 55]
-    map_d: [205, 237]
-    ensyuf_n: [135, 40]
-    ensyuf_d: [177, 204]
-    ensyue_n: [120, 0]
-    battle_n: [190, 91]
-    battle_d: [226, 264]
-    wed_a: [223, 145]
-    wed_b: [97, 145]
+    kaizo_n: [94, 45]
+    kaizo_d: [84, 9]
+    map_n: [88, 129]
+    map_d: [52, 123]
+    ensyuf_n: [130, 115]
+    ensyuf_d: [87, 28]
+    ensyue_n: [130, 0]
+    battle_n: [70, 94]
+    battle_d: [70, 94]
+    wed_a: [208, 100]
+    wed_b: [202, 207]
   wiki_id: "086a"
   chinese_name: 大潮改
   can_drop: false

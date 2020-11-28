@@ -32,5 +32,104 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [120, 120, 0, 280]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [7, 8]
+            -
+              id: 4
+              amount: [3, 3]
+          -
+            -
+              id: 3
+              amount: [8, 9]
+            -
+              id: 4
+              amount: [4, 5]
+        slotitem:
+          -
+            id: 24
+            amount: 1
+          -
+            id: 24
+            amount: 1
+      upgrade:
+        id: 57
+        level: 4
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [8, 9]
+            -
+              id: 4
+              amount: [5, 7]
+          slotitem:
+            id: 24
+            amount: 1
+      day:
+        -
+          -
+            ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
+          -
+            ship_id: 153
+          -
+            ship_id: 156
+        -
+          -
+            ship_id: 153
+          -
+            ship_id: 156
+        -
+          -
+            ship_id: 153
+          -
+            ship_id: 156
+        -
+          -
+            ship_id: 153
+          -
+            ship_id: 156
+        -
+          -
+            ship_id: 153
+          -
+            ship_id: 156
+        -
+          -
+            ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
+          -
+            ship_id: 153
+          -
+            ship_id: 156
+        -
+          -
+            ship_id: 110
+          -
+            ship_id: 288
+          -
+            ship_id: 461
+          -
+            ship_id: 466
+          -
+            ship_id: 153
+          -
+            ship_id: 156
   chinese_name: 彗星
 ---
