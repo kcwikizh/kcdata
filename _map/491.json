@@ -1,0 +1,145 @@
+---
+layout: json
+order: 491
+data:
+  id: 491
+  name: 地中海マルタ島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: A
+      to: B
+    12:
+      from: B
+      to: C
+    13:
+      from: G
+      to: K
+    14:
+      from: K
+      to: L
+    15:
+      from: N
+      to: M
+    16:
+      from: G
+      to: N
+    17:
+      from: N
+      to: O
+    18:
+      from: K
+      to: N
+    19:
+      from: L
+      to: N
+  cells:
+    A:
+      name: 深海地中海艦隊 警戒潜水艦群
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海地中海艦隊 警戒駆逐隊
+      type:
+      boss: false
+      routes: [2, 11]
+    C:
+      name: 深海地中海艦隊 前衛水雷戦隊
+      type:
+      boss: false
+      routes: [3, 12]
+    D:
+      name: 深海クレタ島物資集積地
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海地中海方面 基地航空隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海地中海艦隊 巡洋艦戦隊
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海地中海艦隊 主力艦隊
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 深海地中海艦隊 魚雷艇戦隊
+      type:
+      boss: false
+      routes: [13]
+    L:
+      name: 深海地中海方面 基地航空隊
+      type:
+      boss: false
+      routes: [14]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [16, 18, 19]
+    O:
+      name: 深海地中海艦隊 増援急派部隊
+      type:
+      boss: true
+      routes: [17]
+  image: MapHDE-1Autumn2020.png
+---

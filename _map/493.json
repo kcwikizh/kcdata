@@ -1,0 +1,266 @@
+---
+layout: json
+order: 493
+data:
+  id: 493
+  name: ノルウェー北岬沖/北極海
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: K
+      to: L
+    13:
+      from: L
+      to: M
+    14:
+      from: M
+      to: N
+    15:
+      from: M
+      to: O
+    16:
+      from: L
+      to: P
+    17:
+      from: M
+      to: Q
+    18:
+      from: F
+      to: E
+    19:
+      from: D
+      to: F
+    20:
+      from: F
+      to: G
+    21:
+      from: G
+      to: H
+    22:
+      from: I
+      to: J
+    23:
+      from: null
+      to: Q
+    24:
+      from: D
+      to: R
+    25:
+      from: G
+      to: S
+    26:
+      from: S
+      to: T
+    27:
+      from: W
+      to: U
+    28:
+      from: U
+      to: V
+    29:
+      from: P
+      to: W
+    30:
+      from: U
+      to: X
+    31:
+      from: 2
+      to: R
+    32:
+      from: R
+      to: S
+    33:
+      from: 2
+      to: D
+    34:
+      from: R
+      to: F
+    35:
+      from: R
+      to: G
+    36:
+      from: T
+      to: J
+    37:
+      from: T
+      to: K
+    38:
+      from: null
+      to: 2
+    39:
+      from: K
+      to: Y
+    40:
+      from: K
+      to: Z
+    41:
+      from: T
+      to: Z
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海北方潜水艦隊 阻止線 eins
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海北方潜水艦隊 阻止線 zwei
+      type:
+      boss: false
+      routes: [4, 33]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5, 18]
+    F:
+      name: 深海欧州北方方面 基地航空隊
+      type:
+      boss: false
+      routes: [6, 19, 34]
+    G:
+      name: 深海欧州北方方面 基地航空隊
+      type:
+      boss: false
+      routes: [7, 20, 35]
+    H:
+      name: 深海欧州北方方面 基地航空隊
+      type:
+      boss: false
+      routes: [8, 21]
+    I:
+      name: 深海北極海方面艦隊 軽巡戦隊
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海北極海方面艦隊 警戒隊
+      type:
+      boss: false
+      routes: [10, 22, 36]
+    K:
+      name: 深海北極海方面艦隊 重巡戦隊
+      type:
+      boss: false
+      routes: [11, 37]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 深海欧州北方方面 基地航空隊
+      type:
+      boss: false
+      routes: [16]
+    Q:
+      name: 深海北極海方面艦隊 強襲部隊
+      type:
+      boss: false
+      routes: [17, 23]
+    R:
+      name: 深海北方潜水艦隊 阻止線 drei
+      type:
+      boss: false
+      routes: [24, 31]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [25, 32]
+    T:
+      name: 深海北極海方面艦隊 増援部隊
+      type:
+      boss: false
+      routes: [26]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [28]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [29]
+    X:
+      name: 北方港湾部 反逆深海化部隊
+      type:
+      boss: false
+      routes: [30]
+    Y:
+      name: 
+      type:
+      boss: false
+      routes: [39]
+    Z:
+      name: 深海北極海方面艦隊 増援総旗艦
+      type:
+      boss: true
+      routes: [40, 41]
+  image: MapHDE-3Autumn2020.png
+---
