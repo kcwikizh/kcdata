@@ -13,8 +13,8 @@ data:
   after_ship_id: 130
   get_mes: ごきげんよう、<br>わたくしが重巡、熊野ですわ！
   voice_f: 3
-  filename: mlzpthwviwnf
-  file_version: ["24", "15", "1127"]
+  filename: mlzpthwviwxs
+  file_version: ["60", "15", "1210"]
   book_table_id: [125, 830]
   book_sinfo: 神戸生まれのお洒落な重巡といえば、わたくし、熊野ですね。マレー、ミッドウェー、ソロモン、マリアナと主要な名所、いえ激戦地に参上いたしましたのよ。最期は日本に帰りたかったけれど……。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 90
   graph:
-    boko_n: [9, 138]
-    boko_d: [7, 138]
+    boko_n: [240, 198]
+    boko_d: [282, 246]
     kaisyu_n: [15, -15]
     kaisyu_d: [42, 3]
-    kaizo_n: [24, 24]
-    kaizo_d: [-16, -21]
-    map_n: [54, 114]
-    map_d: [54, 114]
-    ensyuf_n: [90, 120]
-    ensyuf_d: [90, 60]
-    ensyue_n: [-4, 0]
-    battle_n: [18, 87]
-    battle_d: [39, 87]
-    wed_a: [249, 84]
-    wed_b: [183, 201]
+    kaizo_n: [150, 108]
+    kaizo_d: [228, 126]
+    map_n: [156, 180]
+    map_d: [228, 216]
+    ensyuf_n: [156, 186]
+    ensyuf_d: [222, 210]
+    ensyue_n: [156, 0]
+    battle_n: [180, 198]
+    battle_d: [258, 240]
+    wed_a: [168, 6]
+    wed_b: [138, 156]
   wiki_id: "125"
   chinese_name: 熊野
   can_drop: true

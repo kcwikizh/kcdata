@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: vdieczinfgce
-  file_version: ["35", "15", "1127"]
+  filename: vdieczinfgxs
+  file_version: ["36", "15", "1210"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [-15, 183]
-    boko_d: [81, 183]
+    boko_n: [222, 192]
+    boko_d: [180, 210]
     kaisyu_n: [18, 6]
     kaisyu_d: [48, 12]
-    kaizo_n: [-84, 108]
-    kaizo_d: [-24, 72]
-    map_n: [-54, 168]
-    map_d: [36, 168]
-    ensyuf_n: [-84, 168]
-    ensyuf_d: [18, 168]
-    ensyue_n: [-84, 0]
-    battle_n: [-42, 180]
-    battle_d: [36, 180]
-    wed_a: [384, 30]
-    wed_b: [180, 168]
+    kaizo_n: [120, 90]
+    kaizo_d: [72, 108]
+    map_n: [126, 162]
+    map_d: [78, 192]
+    ensyuf_n: [144, 162]
+    ensyuf_d: [90, 180]
+    ensyue_n: [132, 0]
+    battle_n: [138, 186]
+    battle_d: [90, 204]
+    wed_a: [228, 30]
+    wed_b: [120, 156]
   wiki_id: "213a"
   chinese_name: 朝云改
   can_drop: false

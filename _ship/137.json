@@ -14,7 +14,7 @@ data:
   get_mes: こんにちはーっ！<br>最新鋭軽巡の阿賀野でーすっ。ふふ。
   voice_f: 3
   filename: ljzijyhhgrnx
-  file_version: ["13", "13", "1127"]
+  file_version: ["13", "13", "1210"]
   book_table_id: [137, 1107]
   book_sinfo: 次世代の水雷戦隊の旗艦として設計＆建造された阿賀<br>野型軽巡洋艦、その長女、一番艦の阿賀野よ。とって<br>もとっても高性能なんだから！見てよ、この洗練され<br>た体…今度はゼッタイ本領発揮しちゃうからね。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [177, 189]
   wiki_id: "137"
   chinese_name: 阿贺野
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---

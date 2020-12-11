@@ -14,7 +14,7 @@ data:
   get_mes: Guten Tag.<br>私はビスマルク型戦艦のネームシップ、ビスマルク。<br>よおく覚えておくのよ。
   voice_f: 1
   filename: ntmjjittqkcj
-  file_version: ["9", "9", "1127"]
+  file_version: ["9", "9", "1210"]
   book_table_id: [171]
   book_sinfo: ドイツの誇るビスマルク級超弩級戦艦のネームシップ、それが私よ。<br>ドイツらしい重厚かつ美しいデザインでしょう？いいのよ、もっと褒めても。<br>この海でも縦横無尽に活躍するわ。期待しなさい！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [168, 168]
   wiki_id: "171"
   chinese_name: 俾斯麦
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

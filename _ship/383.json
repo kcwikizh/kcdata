@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
-  filename: glvwrolqeexv
-  file_version: ["76", "2", "1127"]
+  filename: glvwrolqeexs
+  file_version: ["77", "2", "1210"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [186, 108]
-    boko_d: [264, 72]
+    boko_n: [132, 241]
+    boko_d: [132, 241]
     kaisyu_n: [48, -27]
     kaisyu_d: [63, -21]
-    kaizo_n: [126, 6]
-    kaizo_d: [216, -42]
-    map_n: [156, 72]
-    map_d: [246, 48]
-    ensyuf_n: [156, 72]
-    ensyuf_d: [252, 42]
-    ensyue_n: [156, 0]
-    battle_n: [186, 108]
-    battle_d: [270, 66]
-    wed_a: [216, 144]
-    wed_b: [132, 168]
+    kaizo_n: [124, 84]
+    kaizo_d: [111, 51]
+    map_n: [142, 198]
+    map_d: [142, 198]
+    ensyuf_n: [130, 181]
+    ensyuf_d: [130, 181]
+    ensyue_n: [130, 0]
+    battle_n: [189, 237]
+    battle_d: [189, 237]
+    wed_a: [234, -13]
+    wed_b: [96, 183]
   wiki_id: "334a"
   chinese_name: 择捉改
   can_drop: false

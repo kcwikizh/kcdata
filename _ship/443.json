@@ -13,8 +13,8 @@ data:
   after_ship_id: 347
   get_mes: ブォンジョールノ！<br>マエストラーレ級駆逐艦、リベッチオです。<br>リベでいいよ。提督さん、よろしくね！
   voice_f: 1
-  filename: nsutzbtifaji
-  file_version: ["35", "10", "1127"]
+  filename: nsutzbtifaxs
+  file_version: ["36", "10", "1210"]
   book_table_id: [443, 959, 885, 784, 751]
   book_sinfo: イタリア海軍の駆逐艦、マエストラーレ級三番艦、リベッチオです。提督さん、よろしくね！<br>え、タラント空襲？余裕です！船団護衛でも頑張りたかったけど…救助中はやめてほしいよ～！
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 23
   graph:
-    boko_n: [192, 168]
-    boko_d: [60, 192]
+    boko_n: [192, 222]
+    boko_d: [108, 270]
     kaisyu_n: [36, -18]
     kaisyu_d: [0, -6]
-    kaizo_n: [168, 72]
-    kaizo_d: [0, 72]
-    map_n: [168, 144]
-    map_d: [0, 168]
-    ensyuf_n: [168, 144]
-    ensyuf_d: [0, 144]
-    ensyue_n: [144, 0]
-    battle_n: [168, 144]
-    battle_d: [-12, 156]
-    wed_a: [132, 48]
-    wed_b: [168, 168]
+    kaizo_n: [132, 132]
+    kaizo_d: [72, 96]
+    map_n: [198, 204]
+    map_d: [84, 210]
+    ensyuf_n: [132, 204]
+    ensyuf_d: [36, 210]
+    ensyue_n: [126, 0]
+    battle_n: [186, 234]
+    battle_d: [81, 234]
+    wed_a: [234, 6]
+    wed_b: [132, 192]
   wiki_id: "243"
   chinese_name: 利伯齐奥
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

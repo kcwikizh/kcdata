@@ -8,7 +8,7 @@ data:
   description: 寒い冬を温かく過ごすため<br>の冬用カーペットです。暖<br>色系のデザインと柔らかな<br>風合いで、冬の鎮守府でも<br>快適に過ごせそう。
   rarity: 3
   price: 1500
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

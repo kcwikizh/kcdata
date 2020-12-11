@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 7
-  filename: kbdewgsfrkra
-  file_version: ["13", "9", "1127"]
+  filename: kbdewgsfrkxs
+  file_version: ["14", "9", "1210"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [-48, 156]
-    boko_d: [60, 192]
+    boko_n: [151, 198]
+    boko_d: [175, 222]
     kaisyu_n: [24, 24]
     kaisyu_d: [48, 48]
-    kaizo_n: [-96, 72]
-    kaizo_d: [-36, 60]
-    map_n: [-96, 144]
-    map_d: [-12, 192]
-    ensyuf_n: [-12, 168]
-    ensyuf_d: [48, 144]
-    ensyue_n: [-96, 0]
-    battle_n: [-48, 144]
-    battle_d: [48, 144]
-    wed_a: [384, 48]
-    wed_b: [168, 168]
+    kaizo_n: [166, 70]
+    kaizo_d: [157, 64]
+    map_n: [205, 163]
+    map_d: [195, 172]
+    ensyuf_n: [183, 168]
+    ensyuf_d: [184, 171]
+    ensyue_n: [154, 0]
+    battle_n: [231, 172]
+    battle_d: [232, 177]
+    wed_a: [139, 1]
+    wed_b: [118, 157]
   wiki_id: "140a"
   chinese_name: 酒匂改
   can_drop: false
