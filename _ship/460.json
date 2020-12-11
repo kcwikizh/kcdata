@@ -13,8 +13,8 @@ data:
   after_ship_id: 352
   get_mes: おはようございます！<br>航空機搭載給油艦、速吸です！<br>皆さんのサポート、頑張ります！
   voice_f: 1
-  filename: ajggcaaaocgh
-  file_version: ["13", "21", "1127"]
+  filename: ajggcaaaocxs
+  file_version: ["14", "21", "1210"]
   book_table_id: [460, 802]
   book_sinfo: 艦隊随伴型の給油艦、速吸です。よろしくお願いします！<br>様々な物資を補給できる多用途給油艦でありながら、航空機の運用が可能な設計です。ミッドウェー海戦後の計画変更で流星の発進も可能となりました！
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [0, 0, 1, 1]
     build_time: 220
   graph:
-    boko_n: [144, 204]
-    boko_d: [156, 252]
+    boko_n: [115, 229]
+    boko_d: [64, 310]
     kaisyu_n: [24, 0]
     kaisyu_d: [72, 0]
-    kaizo_n: [66, 132]
+    kaizo_n: [121, 94]
     kaizo_d: [120, 84]
-    map_n: [96, 198]
-    map_d: [120, 216]
+    map_n: [154, 195]
+    map_d: [99, 220]
     ensyuf_n: [120, 192]
-    ensyuf_d: [144, 204]
-    ensyue_n: [96, 0]
-    battle_n: [96, 204]
-    battle_d: [144, 216]
-    wed_a: [204, -12]
-    wed_b: [204, 192]
+    ensyuf_d: [96, 192]
+    ensyue_n: [114, 0]
+    battle_n: [166, 220]
+    battle_d: [115, 216]
+    wed_a: [162, -7]
+    wed_b: [210, 117]
   wiki_id: "260"
   chinese_name: 速吸
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

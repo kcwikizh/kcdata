@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 505
+  type: 4
+  no: 70
+  title: 特注の二〇式鎮守府暖炉
+  description: 欧州方面、そして北極海へ<br>の艦隊遠征を記念して作ら<br>れた特注二〇式鎮守府暖炉<br>です。燃えるペチカの炎、<br>冬とロシアを感じますね！
+  rarity: 6
+  price: 9800
+  saleflg: 0
+  season: 0
+  filename: "071"
+  file_version: "1"
+---

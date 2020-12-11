@@ -13,8 +13,8 @@ data:
   after_ship_id: 198
   get_mes: <br>
   voice_f: 1
-  filename: oxttbkywusfp
-  file_version: ["15", "15", "1127"]
+  filename: oxttbkywusxs
+  file_version: ["16", "15", "1210"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [69, 70]
-    boko_d: [64, 82]
+    boko_n: [300, 210]
+    boko_d: [288, 210]
     kaisyu_n: [0, 24]
     kaisyu_d: [12, 30]
-    kaizo_n: [-13, -12]
-    kaizo_d: [-22, -31]
-    map_n: [-75, 70]
-    map_d: [-79, 67]
-    ensyuf_n: [34, 39]
-    ensyuf_d: [4, -43]
-    ensyue_n: [34, 0]
-    battle_n: [21, 49]
-    battle_d: [21, 49]
-    wed_a: [297, 150]
-    wed_b: [217, 211]
+    kaizo_n: [246, 108]
+    kaizo_d: [216, 84]
+    map_n: [276, 198]
+    map_d: [246, 204]
+    ensyuf_n: [240, 198]
+    ensyuf_d: [240, 204]
+    ensyue_n: [240, 0]
+    battle_n: [294, 204]
+    battle_d: [270, 204]
+    wed_a: [72, -12]
+    wed_b: [147, 192]
   wiki_id: "089a"
   chinese_name: 霰改
   can_drop: false

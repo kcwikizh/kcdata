@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 642
+  sort_no: 442
+  name: 竹
+  yomi: たけ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 51
+  after_ship_id: 706
+  get_mes: よお。お前が提督なんだって？<br>俺が丁型駆逐艦、松型の二番艦、竹。よろしくな。<br>いい……顔つきだな。気にいったぜ！
+  voice_f: 1
+  filename: diuonxbewmps
+  file_version: ["51", "2", "1210"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [14, 27]
+    souk: [5, 22]
+    houg: [5, 25]
+    raig: [19, 79]
+    tyku: [19, 58]
+    luck: [28, 88]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 120
+    after_bull: 190
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [202, 24]
+    boko_d: [163, 142]
+    kaisyu_n: [22, -33]
+    kaisyu_d: [37, -30]
+    kaizo_n: [181, -100]
+    kaizo_d: [133, -61]
+    map_n: [208, -12]
+    map_d: [162, 85]
+    ensyuf_n: [196, -15]
+    ensyuf_d: [154, 55]
+    ensyue_n: [189, 0]
+    battle_n: [210, 18]
+    battle_d: [196, 97]
+    wed_a: [130, 178]
+    wed_b: [133, 172]
+  wiki_id: "442"
+  chinese_name: 竹
+  can_drop: false
+  can_construct: false
+---

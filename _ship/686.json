@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: leeaphcpxbrj
-  file_version: ["58", "1", "1127"]
+  filename: leeaphcpxbxs
+  file_version: ["59", "1", "1210"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [76, 184]
-    boko_d: [9, 211]
+    boko_n: [124, 217]
+    boko_d: [124, 217]
     kaisyu_n: [12, 4]
     kaisyu_d: [10, 10]
-    kaizo_n: [67, 73]
-    kaizo_d: [-34, 85]
-    map_n: [82, 169]
-    map_d: [7, 208]
-    ensyuf_n: [43, 172]
-    ensyuf_d: [-10, 190]
-    ensyue_n: [88, 0]
-    battle_n: [124, 201]
-    battle_d: [73, 216]
-    wed_a: [274, 42]
-    wed_b: [118, 124]
+    kaizo_n: [94, 82]
+    kaizo_d: [79, 46]
+    map_n: [112, 207]
+    map_d: [112, 207]
+    ensyuf_n: [126, 168]
+    ensyuf_d: [126, 168]
+    ensyue_n: [91, 0]
+    battle_n: [156, 217]
+    battle_d: [156, 217]
+    wed_a: [210, -12]
+    wed_b: [160, 160]
   wiki_id: "327a"
   chinese_name: 岸波改
   can_drop: false

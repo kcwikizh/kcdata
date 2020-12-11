@@ -6,17 +6,17 @@ data:
   name: Washington改
   yomi: ワシントン
   stype: 8
-  ctype: 
-  cnum: 
+  ctype: 107
+  cnum: 2
   backs: 8
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: stprfjyimjse
-  file_version: ["51", "1", "1127"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "1210"]
+  book_table_id: [659]
+  book_sinfo: North Carolina　class.　USS Battleship<br>Washingtonです。欧州方面に展開し、イギリス本国<br>艦隊と共に北極海での作戦に備えたわ。太平洋戦線で<br>は、あのIronbottom Soundで戦艦同士の激しい夜<br>戦を戦ったの。
   stats:
     taik: [93, 100]
     souk: [84, 104]
@@ -26,8 +26,8 @@ data:
     luck: [38, 108]
     soku: 10
     leng: 3
-    kaih: 
-    tais: 
+    kaih: 35
+    tais: 0
     slot_num: 4
     max_eq: [0, 2, 3, 3, 0]
     after_fuel: 

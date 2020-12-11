@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: osukvwqderjb
-  file_version: ["57", "1", "1127"]
+  filename: osukvwqderxs
+  file_version: ["58", "1", "1210"]
   book_table_id: [580, 5460]
   book_sinfo: イタリア海軍マエストラーレ級駆逐艦、ネームシップ<br>のマエストラーレです。<br>結構一杯働いたのよ。船団護衛はもちろんだけど、水<br>上艦隊戦力としても頑張ったんだから！　最後はね、<br>ちょっと修理が間に合わなくって……。えへへ。ま<br>あ、仕方ない、です！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 23
   graph:
-    boko_n: [54, 180]
-    boko_d: [66, 276]
+    boko_n: [96, 220]
+    boko_d: [118, 283]
     kaisyu_n: [9, -6]
     kaisyu_d: [76, -16]
-    kaizo_n: [55, 66]
-    kaizo_d: [120, 94]
-    map_n: [72, 153]
-    map_d: [141, 207]
-    ensyuf_n: [54, 147]
-    ensyuf_d: [117, 195]
-    ensyue_n: [63, 0]
-    battle_n: [108, 174]
-    battle_d: [174, 222]
-    wed_a: [252, 34]
-    wed_b: [145, 187]
+    kaizo_n: [76, 85]
+    kaizo_d: [93, 94]
+    map_n: [112, 193]
+    map_d: [133, 213]
+    ensyuf_n: [100, 193]
+    ensyuf_d: [103, 196]
+    ensyue_n: [108, 0]
+    battle_n: [135, 217]
+    battle_d: [150, 232]
+    wed_a: [234, -1]
+    wed_b: [151, 169]
   wiki_id: "380"
   chinese_name: 西北风改
   can_drop: false

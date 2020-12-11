@@ -13,8 +13,8 @@ data:
   after_ship_id: 462
   get_mes: <br>
   voice_f: 3
-  filename: qgrxbhuvtrbf
-  file_version: ["19", "21", "1127"]
+  filename: qgrxbhuvtrxs
+  file_version: ["20", "21", "1210"]
   book_table_id: [467, 1001]
   book_sinfo: 翔鶴型航空母艦２番艦、瑞鶴です。<br>翔鶴姉と共にミッドウェーの後の第一機動部隊の中核として、矢尽き刀折れるまで奮戦しました。文字通り、最後の機動部隊が壊滅する、その日まで。でも、今度は違うの。改装された本格正規空母の力、存分に魅せるわ！翔鶴姉、やろう！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 5, 6]
     build_time: 360
   graph:
-    boko_n: [144, 210]
-    boko_d: [150, 168]
+    boko_n: [181, 217]
+    boko_d: [186, 232]
     kaisyu_n: [48, 0]
     kaisyu_d: [48, 6]
-    kaizo_n: [60, 120]
-    kaizo_d: [48, 72]
-    map_n: [72, 192]
-    map_d: [36, 144]
-    ensyuf_n: [96, 192]
-    ensyuf_d: [72, 132]
-    ensyue_n: [72, 0]
-    battle_n: [96, 192]
-    battle_d: [72, 144]
-    wed_a: [228, -6]
-    wed_b: [174, 168]
+    kaizo_n: [172, 75]
+    kaizo_d: [172, 63]
+    map_n: [225, 192]
+    map_d: [268, 184]
+    ensyuf_n: [211, 175]
+    ensyuf_d: [232, 175]
+    ensyue_n: [178, 0]
+    battle_n: [258, 229]
+    battle_d: [283, 223]
+    wed_a: [126, -25]
+    wed_b: [166, 154]
   wiki_id: "267"
   chinese_name: 瑞鹤改二甲
   can_drop: false

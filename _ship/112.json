@@ -13,8 +13,8 @@ data:
   after_ship_id: 462
   get_mes: <br>
   voice_f: 3
-  filename: ihwgeegenykh
-  file_version: ["19", "21", "1127"]
+  filename: ihwgeegenyxs
+  file_version: ["20", "21", "1210"]
   book_table_id: [112]
   book_sinfo: 翔鶴型航空母艦２番艦、瑞鶴です。<br>翔鶴姉と共に、ミッドウェーの後の第一機動部隊の中核として、矢尽き刀折れるまで奮戦しました。文字通り、最後の機動部隊が壊滅する、その日まで…。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 3]
     build_time: 360
   graph:
-    boko_n: [100, 108]
-    boko_d: [147, 102]
+    boko_n: [181, 217]
+    boko_d: [186, 232]
     kaisyu_n: [16, 34]
     kaisyu_d: [34, 12]
-    kaizo_n: [-10, -9]
-    kaizo_d: [79, -39]
-    map_n: [-72, 73]
-    map_d: [16, 31]
-    ensyuf_n: [30, 90]
-    ensyuf_d: [84, 72]
-    ensyue_n: [0, 0]
-    battle_n: [24, 84]
-    battle_d: [78, 72]
-    wed_a: [315, 96]
-    wed_b: [154, 189]
+    kaizo_n: [172, 75]
+    kaizo_d: [172, 63]
+    map_n: [225, 192]
+    map_d: [268, 184]
+    ensyuf_n: [211, 175]
+    ensyuf_d: [232, 175]
+    ensyue_n: [178, 0]
+    battle_n: [258, 229]
+    battle_d: [283, 223]
+    wed_a: [126, -25]
+    wed_b: [166, 154]
   wiki_id: "108"
   chinese_name: 瑞鹤改
   can_drop: false
