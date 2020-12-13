@@ -1,0 +1,316 @@
+---
+layout: json
+order: 494
+data:
+  id: 494
+  name: ルソン島沖/オルモック沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: B
+      to: A
+    2:
+      from: C
+      to: B
+    3:
+      from: D
+      to: C
+    4:
+      from: 1
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: I
+      to: K
+    12:
+      from: I
+      to: L
+    13:
+      from: I
+      to: M
+    14:
+      from: J
+      to: N
+    15:
+      from: P
+      to: O
+    16:
+      from: K
+      to: P
+    17:
+      from: P
+      to: Q
+    18:
+      from: C
+      to: A
+    19:
+      from: G
+      to: H
+    20:
+      from: H
+      to: I
+    21:
+      from: I
+      to: J
+    22:
+      from: M
+      to: K
+    23:
+      from: J
+      to: L
+    24:
+      from: L
+      to: M
+    25:
+      from: M
+      to: P
+    26:
+      from: A
+      to: R
+    27:
+      from: R
+      to: S
+    28:
+      from: U
+      to: T
+    29:
+      from: S
+      to: U
+    30:
+      from: U
+      to: V
+    31:
+      from: V
+      to: W
+    32:
+      from: R
+      to: X1
+    33:
+      from: X1
+      to: X2
+    34:
+      from: X2
+      to: Y1
+    35:
+      from: Y1
+      to: Y2
+    36:
+      from: Y1
+      to: Y3
+    37:
+      from: Y3
+      to: Y4
+    38:
+      from: Y3
+      to: Y5
+    39:
+      from: Y3
+      to: Z
+    40:
+      from: Y2
+      to: Y3
+    41:
+      from: Y5
+      to: Z
+    42:
+      from: X2
+      to: Y6
+    43:
+      from: Y6
+      to: Y7
+    44:
+      from: Y1
+      to: Y6
+    45:
+      from: Y6
+      to: Y3
+    46:
+      from: Y7
+      to: Y3
+  cells:
+    A:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [1, 18]
+    B:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海群狼潜水艦隊 Group-5
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海群狼潜水艦隊 Group-4
+      type:
+      boss: false
+      routes: [8, 19]
+    I:
+      name: 深海群狼潜水艦隊 Group-3
+      type:
+      boss: false
+      routes: [9, 20]
+    J:
+      name: 深海群狼潜水艦隊 Group-2
+      type:
+      boss: false
+      routes: [10, 21]
+    K:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [11, 22]
+    L:
+      name: 深海群狼潜水艦隊 Group-1
+      type:
+      boss: false
+      routes: [12, 23]
+    M:
+      name: 深海任務部隊 後方浸透艦隊
+      type:
+      boss: false
+      routes: [13, 24]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [16, 25]
+    Q:
+      name: 深海群狼潜水艦隊 司令潜水艦
+      type:
+      boss: false
+      routes: [17]
+    R:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [26]
+    S:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [27]
+    T:
+      name: 深海任務部隊 警戒隊
+      type:
+      boss: false
+      routes: [28]
+    U:
+      name: 深海任務部隊 オルモック沖哨戒線
+      type:
+      boss: false
+      routes: [29]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [30]
+    W:
+      name: 深海任務部隊 オルモック強襲隊
+      type:
+      boss: false
+      routes: [31]
+    X1:
+      name: 
+      type:
+      boss: false
+      routes: [32]
+    X2:
+      name: サンベルナルジノ海峡 反撃阻止線
+      type:
+      boss: false
+      routes: [33]
+    Y1:
+      name: 深海任務部隊 重巡戦隊
+      type:
+      boss: false
+      routes: [34]
+    Y2:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [35]
+    Y3:
+      name: 深海任務部隊 護衛空母群
+      type:
+      boss: false
+      routes: [36, 40, 45, 46]
+    Y4:
+      name: 
+      type:
+      boss: false
+      routes: [37]
+    Y5:
+      name: 深海任務部隊 空母機動部隊
+      type:
+      boss: false
+      routes: [38]
+    Z:
+      name: 深海任務部隊 機動部隊総旗艦
+      type:
+      boss: true
+      routes: [39, 41]
+    Y6:
+      name: 
+      type:
+      boss: false
+      routes: [42, 44]
+    Y7:
+      name: 
+      type:
+      boss: false
+      routes: [43]
+  image: MapHDE-4Autumn2020.png
+---
