@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
-  filename: ujwdmefevbxs
-  file_version: ["52", "1", "1210"]
+  filename: ujwdmefevbuy
+  file_version: ["53", "1", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [247, 244]
-    boko_d: [214, 265]
+    boko_n: [163, 249]
+    boko_d: [124, 261]
     kaisyu_n: [52, -15]
     kaisyu_d: [61, -1]
-    kaizo_n: [231, 126]
-    kaizo_d: [172, 88]
-    map_n: [270, 208]
-    map_d: [220, 208]
-    ensyuf_n: [258, 199]
-    ensyuf_d: [204, 201]
-    ensyue_n: [244, 0]
-    battle_n: [271, 232]
-    battle_d: [232, 244]
-    wed_a: [55, -36]
-    wed_b: [123, 165]
+    kaizo_n: [172, 106]
+    kaizo_d: [124, 94]
+    map_n: [226, 202]
+    map_d: [184, 208]
+    ensyuf_n: [195, 199]
+    ensyuf_d: [151, 202]
+    ensyue_n: [202, 0]
+    battle_n: [220, 222]
+    battle_d: [183, 235]
+    wed_a: [97, -22]
+    wed_b: [184, 174]
   wiki_id: "437a"
   chinese_name: 第四号海防舰改
   can_drop: false

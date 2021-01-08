@@ -14,7 +14,7 @@ data:
   get_mes: よお！　あたいは、夕雲型駆逐艦、十六番艦の朝霜さ。<br>覚えといてよ。忘れんなよ……なあ！
   voice_f: 1
   filename: cdsgjcufyxlz
-  file_version: ["56", "12", "1210"]
+  file_version: ["56", "12", "101"]
   book_table_id: [425, 344, 849, 787, 734, 1067]
   book_sinfo: あたいは夕雲型駆逐艦、その十六番艦、朝霜さ。よー<br>く覚えとおくんだよ。<br>戦況が悪化した頃にデビューしたんだ。でも、その末<br>期の戦線を、文字通り縦横無尽に駆けまわったぜ。や<br>るだけ…やったさ！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [187, 189]
   wiki_id: "225"
   chinese_name: 朝霜
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

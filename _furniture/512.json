@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 512
+  type: 5
+  no: 95
+  title: 蜜柑と特注鎮守府ちゃぶ台
+  description: 鎮守府に集うものにとって<br>大事な家具、それが鎮守府<br>ちゃぶ台。四季折々の食べ<br>物、そして蜜柑も配備済！<br>職人ダイナミック割引可！
+  rarity: 6
+  price: 194400
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

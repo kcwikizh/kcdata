@@ -13,8 +13,8 @@ data:
   after_ship_id: 215
   get_mes: クマー。<br>よろしくだクマ。
   voice_f: 0
-  filename: zrmviexnupxs
-  file_version: ["38", "11", "1210"]
+  filename: zrmviexnupjy
+  file_version: ["39", "11", "101"]
   book_table_id: [99, 946, 837, 730]
   book_sinfo: 球磨型軽巡洋艦の１番艦、球磨だクマ。<br>佐世保生まれだクマ。ちょっと古いところもあるけど、頑張るクマー。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 2]
     build_time: 60
   graph:
-    boko_n: [198, 213]
-    boko_d: [174, 204]
+    boko_n: [99, 43]
+    boko_d: [106, 60]
     kaisyu_n: [18, -9]
     kaisyu_d: [42, 6]
-    kaizo_n: [156, 108]
-    kaizo_d: [81, 96]
-    map_n: [216, 168]
-    map_d: [132, 168]
-    ensyuf_n: [186, 174]
-    ensyuf_d: [114, 180]
-    ensyue_n: [186, 0]
-    battle_n: [228, 201]
-    battle_d: [138, 210]
-    wed_a: [126, -6]
-    wed_b: [138, 168]
+    kaizo_n: [36, -13]
+    kaizo_d: [-21, -30]
+    map_n: [31, 39]
+    map_d: [-39, 60]
+    ensyuf_n: [45, 21]
+    ensyuf_d: [-3, -39]
+    ensyue_n: [45, 0]
+    battle_n: [-28, 13]
+    battle_d: [-28, 13]
+    wed_a: [262, 162]
+    wed_b: [181, 193]
   wiki_id: "039"
   chinese_name: 球磨
   can_drop: true

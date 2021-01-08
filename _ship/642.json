@@ -6,17 +6,17 @@ data:
   name: 竹
   yomi: たけ
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 101
+  cnum: 2
   backs: 6
   after_lv: 51
   after_ship_id: 706
   get_mes: よお。お前が提督なんだって？<br>俺が丁型駆逐艦、松型の二番艦、竹。よろしくな。<br>いい……顔つきだな。気にいったぜ！
   voice_f: 1
   filename: diuonxbewmps
-  file_version: ["51", "2", "1210"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "2", "101"]
+  book_table_id: [642]
+  book_sinfo: 丁型駆逐艦、松型二番艦、竹だ。ああ、厳しい戦場<br>だった。強行輸送作戦の多号作戦、対空対潜が主の海<br>上護衛では無用の長物と思われていたこの魚雷が役に<br>立ったぜ。最後の輝き、そして松型駆逐艦の奮闘、覚<br>えていてくれよ。頼むぜ！
   stats:
     taik: [14, 27]
     souk: [5, 22]
@@ -26,8 +26,8 @@ data:
     luck: [28, 88]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 34
+    tais: 29
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 120

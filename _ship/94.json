@@ -13,8 +13,8 @@ data:
   after_ship_id: 232
   get_mes: 綾波型駆逐艦「漣」です、ご主人さま。<br>こう書いてさざなみと読みます。
   voice_f: 0
-  filename: lnarycubyzxs
-  file_version: ["44", "32", "1210"]
+  filename: lnarycubyzrr
+  file_version: ["45", "32", "101"]
   book_table_id: [94, 5178, 232, 5113, 5195, 5077, 5353, 5444]
   book_sinfo: 特型駆逐艦の１９番目、綾波型でいうと、９番艦の漣<br>だよ。<br>読みにくいって？貴方が字を知らないだけヨ。<br>南雲機動部隊が真珠湾でボコボコやってる時、ミッド<br>ウェー島砲撃を敢行したよ。何気に凄くない？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [234, 180]
-    boko_d: [234, 180]
+    boko_n: [162, 78]
+    boko_d: [177, 96]
     kaisyu_n: [52, 7]
     kaisyu_d: [76, 22]
-    kaizo_n: [204, 84]
-    kaizo_d: [204, 84]
-    map_n: [222, 144]
-    map_d: [222, 150]
-    ensyuf_n: [228, 156]
-    ensyuf_d: [228, 150]
-    ensyue_n: [198, 0]
-    battle_n: [240, 168]
-    battle_d: [252, 174]
-    wed_a: [120, 18]
-    wed_b: [120, 192]
+    kaizo_n: [79, -4]
+    kaizo_d: [73, -33]
+    map_n: [54, 76]
+    map_d: [33, 81]
+    ensyuf_n: [168, 73]
+    ensyuf_d: [96, 48]
+    ensyue_n: [127, 0]
+    battle_n: [54, 93]
+    battle_d: [60, 82]
+    wed_a: [201, 126]
+    wed_b: [184, 201]
   wiki_id: "069"
   chinese_name: 涟
   can_drop: true

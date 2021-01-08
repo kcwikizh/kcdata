@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: zgscfjpbxnir
-  file_version: ["19", "9", "1210"]
+  filename: zgscfjpbxnys
+  file_version: ["20", "9", "101"]
   book_table_id: [429]
   book_sinfo: 雲龍型航空母艦、その二番艦、天城です。戦時急造計画であるマル急計画により、建造されました。<br>空母機動部隊として運用されることは叶いませんでしたが、呉空襲時の対空戦で奮闘しました。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 3]
     build_time: 210
   graph:
-    boko_n: [120, 144]
-    boko_d: [48, 240]
+    boko_n: [126, 222]
+    boko_d: [114, 270]
     kaisyu_n: [36, -12]
     kaisyu_d: [48, -12]
-    kaizo_n: [60, 96]
-    kaizo_d: [-60, 96]
-    map_n: [60, 156]
-    map_d: [-24, 216]
-    ensyuf_n: [96, 120]
-    ensyuf_d: [0, 180]
-    ensyue_n: [48, 0]
-    battle_n: [96, 144]
-    battle_d: [0, 192]
-    wed_a: [240, 36]
-    wed_b: [168, 192]
+    kaizo_n: [24, 144]
+    kaizo_d: [30, 168]
+    map_n: [42, 204]
+    map_d: [60, 204]
+    ensyuf_n: [54, 198]
+    ensyuf_d: [42, 198]
+    ensyue_n: [42, 0]
+    battle_n: [60, 216]
+    battle_d: [66, 222]
+    wed_a: [282, -6]
+    wed_b: [174, 156]
   wiki_id: "229"
   chinese_name: 天城改
   can_drop: false

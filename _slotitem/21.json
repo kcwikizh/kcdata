@@ -58,6 +58,19 @@ data:
             id: 21
             amount: 2
       upgrade:
+        id: 60
+        level: 4
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [5, 8]
+            -
+              id: 4
+              amount: [3, 5]
+          slotitem:
+            id: 23
+            amount: 2
       day:
         - false
         - false
@@ -75,8 +88,6 @@ data:
             ship_id: 288
           -
             ship_id: 461
-          -
-            ship_id: 466
         -
           -
             ship_id: 110
@@ -114,19 +125,6 @@ data:
             id: 21
             amount: 2
       upgrade:
-        id: 60
-        level: 4
-        consume:
-          useitem:
-            -
-              id: 3
-              amount: [5, 8]
-            -
-              id: 4
-              amount: [3, 5]
-          slotitem:
-            id: 23
-            amount: 2
       day:
         -
           -
