@@ -14,7 +14,7 @@ data:
   get_mes: また…来てしまったのね、この海に。<br>夕雲型駆逐艦、早霜…着任しました。
   voice_f: 1
   filename: kgwxvcnblfjb
-  file_version: ["15", "1", "1210"]
+  file_version: ["15", "1", "101"]
   book_table_id: [409, 5160, 5278, 5428]
   book_sinfo: 夕雲型駆逐艦、その十七番目、早霜です。<br>舞鶴海軍工廠生まれ。だいぶ押し迫った頃に生まれま<br>した。レイテ沖海戦にリンガ泊地から出撃して…色々<br>な光景を見ました。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [180, 156]
   wiki_id: "209"
   chinese_name: 早霜
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

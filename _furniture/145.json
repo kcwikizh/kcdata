@@ -8,7 +8,7 @@ data:
   description: クラシックでシンプルな食<br>器棚。やはり艦隊の指揮に<br>紅茶セットは必須アイテム<br>でショ？
   rarity: 3
   price: 300
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
   file_version: 

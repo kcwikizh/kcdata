@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 
   voice_f: 3
-  filename: yyvbmzcmbxxs
-  file_version: ["56", "1", "1210"]
+  filename: yyvbmzcmbxuw
+  file_version: ["57", "1", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 2]
     build_time: 60
   graph:
-    boko_n: [40, 232]
-    boko_d: [162, 213]
+    boko_n: [4, 205]
+    boko_d: [85, 232]
     kaisyu_n: [46, -31]
     kaisyu_d: [81, -18]
-    kaizo_n: [46, 91]
-    kaizo_d: [154, 90]
-    map_n: [37, 189]
-    map_d: [187, 207]
+    kaizo_n: [1, 69]
+    kaizo_d: [79, 79]
+    map_n: [37, 181]
+    map_d: [153, 214]
     ensyuf_n: [48, 172]
-    ensyuf_d: [178, 193]
+    ensyuf_d: [172, 193]
     ensyue_n: [34, 0]
-    battle_n: [69, 204]
-    battle_d: [204, 237]
-    wed_a: [325, -1]
-    wed_b: [73, 153]
+    battle_n: [39, 204]
+    battle_d: [130, 226]
+    wed_a: [325, 4]
+    wed_b: [73, 147]
   wiki_id: "399a"
   chinese_name: 德·鲁伊特改
   can_drop: false

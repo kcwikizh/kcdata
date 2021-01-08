@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: niuenzxpukxs
-  file_version: ["14", "21", "1210"]
+  filename: niuenzxpukjq
+  file_version: ["15", "21", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 2, 1]
     build_time: 220
   graph:
-    boko_n: [115, 229]
-    boko_d: [64, 310]
+    boko_n: [144, 204]
+    boko_d: [156, 252]
     kaisyu_n: [24, 0]
     kaisyu_d: [72, 0]
-    kaizo_n: [121, 94]
+    kaizo_n: [66, 132]
     kaizo_d: [120, 84]
-    map_n: [154, 195]
-    map_d: [99, 220]
+    map_n: [96, 198]
+    map_d: [120, 216]
     ensyuf_n: [120, 192]
-    ensyuf_d: [96, 192]
-    ensyue_n: [114, 0]
-    battle_n: [166, 220]
-    battle_d: [115, 216]
-    wed_a: [162, -7]
-    wed_b: [210, 117]
+    ensyuf_d: [144, 204]
+    ensyue_n: [96, 0]
+    battle_n: [96, 204]
+    battle_d: [144, 216]
+    wed_a: [204, -12]
+    wed_b: [204, 192]
   wiki_id: "260a"
   chinese_name: 速吸改
   can_drop: false

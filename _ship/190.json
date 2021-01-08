@@ -13,8 +13,8 @@ data:
   after_ship_id: 300
   get_mes: 初風です、よろしく。<br>提督さんにとって私は何人目の私かしら？
   voice_f: 3
-  filename: rwqqgmxpdwxs
-  file_version: ["25", "15", "1210"]
+  filename: rwqqgmxpdwbu
+  file_version: ["26", "15", "101"]
   book_table_id: [190, 963]
   book_sinfo: 陽炎型駆逐艦、初風よ。ブーゲンビルで妙高姉さんとぶつかって、艦首をばっさり切断…で、航行不能になったところを集中砲火くらって…怖い…怖すぎる妙高姉さん…
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [238, 207]
-    boko_d: [187, 234]
+    boko_n: [24, 93]
+    boko_d: [24, 93]
     kaisyu_n: [42, 33]
     kaisyu_d: [51, 45]
-    kaizo_n: [144, 90]
-    kaizo_d: [132, 111]
-    map_n: [168, 168]
-    map_d: [151, 202]
-    ensyuf_n: [156, 180]
-    ensyuf_d: [183, 192]
-    ensyue_n: [150, 0]
-    battle_n: [192, 180]
-    battle_d: [180, 210]
-    wed_a: [153, 12]
-    wed_b: [153, 192]
+    kaizo_n: [24, -46]
+    kaizo_d: [-6, -6]
+    map_n: [43, 36]
+    map_d: [43, 36]
+    ensyuf_n: [97, 75]
+    ensyuf_d: [15, 0]
+    ensyue_n: [60, 0]
+    battle_n: [-15, 40]
+    battle_d: [43, 31]
+    wed_a: [307, 120]
+    wed_b: [169, 177]
   wiki_id: "118"
   chinese_name: 初风
   can_drop: false

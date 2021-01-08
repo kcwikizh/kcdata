@@ -13,10 +13,10 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: rjtnzguullxs
-  file_version: ["31", "4", "1210"]
-  book_table_id: [318]
-  book_sinfo: 潜水母艦改装空母の龍鳳です。<br>機関の換装の影響で速度は計画通りには出なかったけれど、このクラスの軽空母としては充実の飛行甲板と兵装なんです。<br>空母龍鳳、精一杯頑張ります！
+  filename: rjtnzguullys
+  file_version: ["33", "4", "101"]
+  book_table_id: [318, 5484]
+  book_sinfo: 潜水母艦改装空母の龍鳳です。<br>機関の換装の影響で速度は計画通りには出なかったけ<br>れど、このクラスの軽空母としては充実の飛行甲板と<br>兵装なんです。<br>空母龍鳳、精一杯頑張ります！
   stats:
     taik: [48, 70]
     souk: [24, 57]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 2, 2]
     build_time: 160
   graph:
-    boko_n: [196, 205]
-    boko_d: [127, 210]
+    boko_n: [156, 204]
+    boko_d: [96, 234]
     kaisyu_n: [24, 24]
     kaisyu_d: [54, 24]
-    kaizo_n: [186, 90]
-    kaizo_d: [94, 66]
-    map_n: [237, 168]
-    map_d: [153, 165]
-    ensyuf_n: [196, 171]
-    ensyuf_d: [106, 168]
-    ensyue_n: [223, 0]
-    battle_n: [244, 196]
-    battle_d: [154, 181]
-    wed_a: [114, -6]
-    wed_b: [168, 151]
+    kaizo_n: [48, 96]
+    kaizo_d: [0, 108]
+    map_n: [66, 168]
+    map_d: [24, 174]
+    ensyuf_n: [54, 156]
+    ensyuf_d: [0, 174]
+    ensyue_n: [48, 0]
+    battle_n: [90, 180]
+    battle_d: [36, 198]
+    wed_a: [270, 30]
+    wed_b: [126, 192]
   wiki_id: "190"
   chinese_name: 龙凤改
   can_drop: false

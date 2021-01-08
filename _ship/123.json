@@ -13,8 +13,8 @@ data:
   after_ship_id: 295
   get_mes: はーいっ！衣笠さんの登場よ！<br>青葉ともども、よろしくね！
   voice_f: 3
-  filename: tyumrhciglxs
-  file_version: ["20", "4", "1210"]
+  filename: tyumrhciglys
+  file_version: ["22", "4", "101"]
   book_table_id: [123, 745]
   book_sinfo: カタパルトをお初装備の衣笠さんよ、よろしくね。ウェーク島攻略や珊瑚海海戦、そして、ソロモン海のアイアンボトムサウンドでも大活躍！でも…飛行機っての？あれはちょっと嫌ね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 60
   graph:
-    boko_n: [276, 168]
-    boko_d: [303, 168]
+    boko_n: [73, 151]
+    boko_d: [120, 220]
     kaisyu_n: [15, 1]
     kaisyu_d: [78, 6]
-    kaizo_n: [204, 96]
-    kaizo_d: [216, 63]
-    map_n: [234, 168]
-    map_d: [261, 168]
-    ensyuf_n: [222, 162]
-    ensyuf_d: [252, 162]
-    ensyue_n: [216, 0]
-    battle_n: [240, 186]
-    battle_d: [270, 186]
-    wed_a: [108, 24]
-    wed_b: [156, 162]
+    kaizo_n: [43, 58]
+    kaizo_d: [75, 22]
+    map_n: [54, 138]
+    map_d: [100, 138]
+    ensyuf_n: [66, 127]
+    ensyuf_d: [112, 127]
+    ensyue_n: [63, 0]
+    battle_n: [99, 160]
+    battle_d: [145, 160]
+    wed_a: [259, 22]
+    wed_b: [114, 175]
   wiki_id: "120"
   chinese_name: 衣笠
   can_drop: true

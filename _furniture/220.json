@@ -8,7 +8,7 @@ data:
   description: 歴戦の提督達の集まる港、<br>それが「横鎮」。中枢であ<br>ると同時に、古い港である<br>が故の労苦も多いが、艦隊<br>の士気も極めて高い。
   rarity: 2
   price: 0
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
   file_version: 

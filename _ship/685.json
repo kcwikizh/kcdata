@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
-  filename: cvglhkjvdhxs
-  file_version: ["72", "2", "1210"]
+  filename: cvglhkjvdhbi
+  file_version: ["73", "2", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -42,7 +42,7 @@ data:
     boko_d: [70, 117]
     kaisyu_n: [-27, -48]
     kaisyu_d: [66, -90]
-    kaizo_n: [12, -18]
+    kaizo_n: [12, 18]
     kaizo_d: [48, -24]
     map_n: [54, 63]
     map_d: [156, 24]

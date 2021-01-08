@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: fkrtllluorxs
-  file_version: ["2", "1", "1210"]
+  filename: fkrtllluordb
+  file_version: ["3", "1", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [126, 231]
-    boko_d: [67, 240]
+    boko_n: [264, 240]
+    boko_d: [252, 234]
     kaisyu_n: [6, -12]
     kaisyu_d: [24, 12]
-    kaizo_n: [132, 82]
-    kaizo_d: [45, 58]
+    kaizo_n: [156, 144]
+    kaizo_d: [138, 150]
     map_n: [168, 198]
-    map_d: [99, 199]
-    ensyuf_n: [144, 193]
-    ensyuf_d: [58, 193]
-    ensyue_n: [130, 0]
-    battle_n: [172, 208]
-    battle_d: [88, 214]
-    wed_a: [190, -37]
-    wed_b: [151, 166]
+    map_d: [120, 210]
+    ensyuf_n: [156, 198]
+    ensyuf_d: [144, 198]
+    ensyue_n: [168, 0]
+    battle_n: [198, 216]
+    battle_d: [186, 228]
+    wed_a: [150, -12]
+    wed_b: [138, 144]
   wiki_id: "256a"
   chinese_name: 亲潮改
   can_drop: false

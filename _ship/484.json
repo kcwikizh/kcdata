@@ -13,8 +13,8 @@ data:
   after_ship_id: 680
   get_mes: あ、あたし…夕雲型…駆逐艦…十三番艦……。<br>ちゃ、着任…しました……。は、浜波……です…。<br>あの…あの……あたしは……。
   voice_f: 1
-  filename: zvjbcleziwxs
-  file_version: ["62", "5", "1210"]
+  filename: zvjbcleziwsc
+  file_version: ["63", "5", "101"]
   book_table_id: [484, 1049, 1092]
   book_sinfo: あ、あたし…夕雲型駆逐艦…十三番艦…浜波…です。<br>夕雲型の四隻と…三二駆を編成しました……。戦いの<br>中で…一隻一隻いなくなって…最期はなっちゃん達の<br>三一駆と一緒に…いきました。あの海は…怖い…。敵<br>の飛行機の群れも…こ…怖い…。怖い…です…。
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [232, 180]
-    boko_d: [232, 180]
+    boko_n: [255, 195]
+    boko_d: [186, 201]
     kaisyu_n: [45, -6]
     kaisyu_d: [33, 3]
-    kaizo_n: [235, 63]
-    kaizo_d: [220, 28]
-    map_n: [244, 153]
-    map_d: [244, 153]
-    ensyuf_n: [262, 133]
-    ensyuf_d: [262, 133]
-    ensyue_n: [240, 0]
-    battle_n: [292, 181]
-    battle_d: [292, 181]
-    wed_a: [55, 4]
-    wed_b: [205, 195]
+    kaizo_n: [183, 87]
+    kaizo_d: [99, 66]
+    map_n: [228, 180]
+    map_d: [150, 186]
+    ensyuf_n: [216, 192]
+    ensyuf_d: [138, 198]
+    ensyue_n: [228, 0]
+    battle_n: [216, 198]
+    battle_d: [144, 204]
+    wed_a: [129, 6]
+    wed_b: [138, 180]
   wiki_id: "284"
   chinese_name: 滨波
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---
