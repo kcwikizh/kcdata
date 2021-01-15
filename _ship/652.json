@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 652
+  sort_no: 452
+  name: 球磨改二
+  yomi: くま
+  stype: 3
+  ctype: 4
+  cnum: 1
+  backs: 7
+  after_lv: 88
+  after_ship_id: 657
+  get_mes: <br>
+  voice_f: 1
+  filename: ciqeuhusctqq
+  file_version: ["51", "11", "113"]
+  book_table_id: [652]
+  book_sinfo: 球磨型軽巡洋艦の１番艦、球磨だクマ。<br>佐世保生まれだクマ。ちょっと古いところもあるけ<br>ど、頑張るクマー。
+  stats:
+    taik: [46, 59]
+    souk: [29, 70]
+    houg: [22, 70]
+    raig: [32, 92]
+    tyku: [32, 80]
+    luck: [16, 86]
+    soku: 10
+    leng: 1
+    kaih: 42
+    tais: 40
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
+    after_fuel: 360
+    after_bull: 240
+    fuel_max: 25
+    bull_max: 35
+    broken: [2, 2, 11, 0]
+    pow_up: [1, 2, 2, 3]
+    build_time: 60
+  graph:
+    boko_n: [111, 184]
+    boko_d: [112, 178]
+    kaisyu_n: [40, -19]
+    kaisyu_d: [60, -6]
+    kaizo_n: [115, 84]
+    kaizo_d: [112, 48]
+    map_n: [151, 141]
+    map_d: [124, 144]
+    ensyuf_n: [142, 138]
+    ensyuf_d: [136, 124]
+    ensyue_n: [141, 0]
+    battle_n: [199, 172]
+    battle_d: [172, 166]
+    wed_a: [202, 3]
+    wed_b: [124, 196]
+  wiki_id: "452"
+  chinese_name: 球磨改二
+  can_drop: false
+  can_construct: false
+---

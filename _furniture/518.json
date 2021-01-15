@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 518
+  type: 2
+  no: 75
+  title: 潜水艦隊の窓
+  description: 潜水母艦と伊号潜水艦によ<br>る潜水艦隊専用の窓です。<br>季節ごとに潜水母艦や伊号<br>による模様替えがある特殊<br>な窓です。
+  rarity: 6
+  price: 5000
+  saleflg: 1
+  season: 42
+  filename: 
+  file_version: ""
+---

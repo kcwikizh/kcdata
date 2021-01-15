@@ -8,7 +8,7 @@ data:
   description: 節分の季節、職人の技術と<br>技が冴えわたる職人仕上げ<br>柊節分壁です。厳選された<br>木材を緻密に組み上げた匠<br>の技による壁を、どうぞ！
   rarity: 4
   price: 2000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

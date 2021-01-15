@@ -14,7 +14,7 @@ data:
   get_mes: アタシの名は敷波。<br>以後よろしく。
   voice_f: 0
   filename: gcbiuhgmgjbm
-  file_version: ["53", "14", "101"]
+  file_version: ["53", "14", "113"]
   book_table_id: [14, 775]
   book_sinfo: 特Ⅱ型駆逐艦２番艦の敷波。よろしく。<br>ミッドウェーやソロモンの海戦に参加した後、船団護衛を務めたよ。<br>海上護衛戦は結構大変だよ…大事だし…。
   stats:

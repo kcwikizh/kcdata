@@ -14,7 +14,7 @@ data:
   get_mes: ん？あぁ、望月でーす。
   voice_f: 0
   filename: isiuepygxdzq
-  file_version: ["15", "15", "101"]
+  file_version: ["15", "15", "113"]
   book_table_id: [31]
   book_sinfo: 睦月型駆逐艦望月でーす。<br>第30駆逐隊に所属して各攻略作戦に参加したよ。<br>何度も修理を繰り返しながら輸送任務に従事したぞ。<br>結構頑張ったっしょ？
   stats:
