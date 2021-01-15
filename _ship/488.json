@@ -14,13 +14,13 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: rwectccrwkub
-  file_version: ["31", "28", "101"]
+  file_version: ["31", "28", "113"]
   book_table_id: [488, 778]
   book_sinfo: 長良型軽巡４番艦の由良です。<br>私たちの中では、初めて水上偵察機を搭載したの。<br>水雷戦隊や潜水戦隊の旗艦として、活躍したのよ？<br>ドーントレスとかＢ17とかそういうのはちょっと苦手。
   stats:
     taik: [45, 61]
     souk: [29, 67]
-    houg: [14, 56]
+    houg: [14, 57]
     raig: [25, 80]
     tyku: [36, 88]
     luck: [16, 70]

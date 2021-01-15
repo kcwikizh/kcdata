@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: nhulrhmihxop
-  file_version: ["17", "19", "101"]
+  file_version: ["17", "19", "113"]
   book_table_id: [489, 757]
   book_sinfo: 駆逐艦、満潮よ。<br>姉妹艦の朝潮、大潮、荒潮とは第８駆逐隊で腐れ縁の仲。でも、最後は離れ離れ。<br>私は西村艦隊の一員として、レイテに突入を図ったわ。
   stats:

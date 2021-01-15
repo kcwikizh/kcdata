@@ -13,8 +13,8 @@ data:
   after_ship_id: 286
   get_mes: 扶桑型超弩級戦艦、姉の扶桑です。<br>妹の山城ともども、よろしくお願い致します。
   voice_f: 0
-  filename: ubntuiyurxys
-  file_version: ["50", "21", "101"]
+  filename: ubntuiyurxwk
+  file_version: ["51", "21", "113"]
   book_table_id: [26, 286, 977, 875, 851, 806, 803]
   book_sinfo: 初の日本独自設計による超弩級戦艦、扶桑です。<br>妹の山城ともどもよろしくお願いしますね。<br>レイテ沖？　そうね、いつか突入してみたいわ。ホントよ？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 1, 3]
     build_time: 260
   graph:
-    boko_n: [186, 225]
-    boko_d: [36, 228]
+    boko_n: [-226, 6]
+    boko_d: [-231, 22]
     kaisyu_n: [22, -1]
     kaisyu_d: [42, 10]
-    kaizo_n: [168, 114]
-    kaizo_d: [-36, 126]
-    map_n: [156, 180]
-    map_d: [-36, 186]
-    ensyuf_n: [180, 192]
-    ensyuf_d: [-24, 168]
-    ensyue_n: [150, 0]
-    battle_n: [234, 192]
-    battle_d: [24, 204]
-    wed_a: [78, -12]
-    wed_b: [174, 180]
+    kaizo_n: [-309, -76]
+    kaizo_d: [-333, -124]
+    map_n: [-307, 19]
+    map_d: [-375, 7]
+    ensyuf_n: [-229, 10]
+    ensyuf_d: [-295, -79]
+    ensyue_n: [-229, 0]
+    battle_n: [-333, 27]
+    battle_d: [-334, 25]
+    wed_a: [625, 196]
+    wed_b: [148, 159]
   wiki_id: "026"
   chinese_name: 扶桑
   can_drop: true
