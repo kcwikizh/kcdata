@@ -19,4 +19,3 @@ collections:
     output: true
   map:
     output: true
-exclude: ['scripts/']
