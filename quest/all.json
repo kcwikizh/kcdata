@@ -1,6 +1,0 @@
----
----
-[
-  {% for quest in site.quest %}{{ quest.data | jsonify }}{% unless forloop.last %},
-  {% endunless %}{% endfor %}
-]
