@@ -32,5 +32,68 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [330, 370, 0, 440]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [3, 3]
+          -
+            -
+              id: 3
+              amount: [5, 6]
+            -
+              id: 4
+              amount: [3, 4]
+        slotitem:
+          -
+            id: 19
+            amount: 1
+          -
+            id: 16
+            amount: 1
+      upgrade:
+        id: 169
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [6, -1]
+            -
+              id: 4
+              amount: [4, -1]
+          slotitem:
+            id: 23
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 286
+          -
+            ship_id: 411
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 286
+          -
+            ship_id: 411
+        -
+          -
+            ship_id: 286
+          -
+            ship_id: 411
+        -
+          -
+            ship_id: 286
+          -
+            ship_id: 411
   chinese_name: 九六式陆攻
 ---

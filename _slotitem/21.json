@@ -133,6 +133,8 @@ data:
             ship_id: 112
           -
             ship_id: 462
+          -
+            ship_id: 467
         -
           -
             ship_id: 111
@@ -140,6 +142,8 @@ data:
             ship_id: 112
           -
             ship_id: 462
+          -
+            ship_id: 467
         - false
         -
           -
@@ -148,6 +152,8 @@ data:
             ship_id: 112
           -
             ship_id: 462
+          -
+            ship_id: 467
         - false
         - false
         - false

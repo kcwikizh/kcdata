@@ -32,5 +32,63 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [140, 240, 20, 350]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [7, 8]
+            -
+              id: 4
+              amount: [4, 5]
+          -
+            -
+              id: 3
+              amount: [8, 9]
+            -
+              id: 4
+              amount: [6, 7]
+        slotitem:
+          -
+            id: 24
+            amount: 2
+          -
+            id: 18
+            amount: 2
+      upgrade:
+      day:
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 162
+          -
+            ship_id: 499
+          -
+            ship_id: 500
+        -
+          -
+            ship_id: 162
+          -
+            ship_id: 499
+          -
+            ship_id: 500
+        -
+          -
+            ship_id: 162
+          -
+            ship_id: 499
+          -
+            ship_id: 500
+        -
+          -
+            ship_id: 162
+          -
+            ship_id: 499
+          -
+            ship_id: 500
   chinese_name: 爆装一式战 隼III型改(55战队)
 ---

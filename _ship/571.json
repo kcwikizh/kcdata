@@ -55,6 +55,6 @@ data:
     wed_b: [103, 156]
   wiki_id: "371"
   chinese_name: 纳尔逊
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

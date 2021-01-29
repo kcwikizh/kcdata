@@ -55,6 +55,6 @@ data:
     wed_b: [126, 168]
   wiki_id: "292"
   chinese_name: 黎塞留
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

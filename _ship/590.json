@@ -55,6 +55,6 @@ data:
     wed_b: [121, 172]
   wiki_id: "390"
   chinese_name: 加里波第
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---
