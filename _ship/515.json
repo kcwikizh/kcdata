@@ -55,6 +55,6 @@ data:
     wed_b: [120, 174]
   wiki_id: "315"
   chinese_name: 皇家方舟
-  can_drop: true
-  can_construct: false
+  can_drop: false
+  can_construct: true
 ---

@@ -55,6 +55,6 @@ data:
     wed_b: [130, 144]
   wiki_id: "143"
   chinese_name: 武藏
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---

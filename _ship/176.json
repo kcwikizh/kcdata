@@ -55,6 +55,6 @@ data:
     wed_b: [192, 168]
   wiki_id: "176"
   chinese_name: 欧根亲王
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

@@ -55,6 +55,6 @@ data:
     wed_b: [184, 174]
   wiki_id: "437"
   chinese_name: 第四号海防舰
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

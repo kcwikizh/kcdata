@@ -55,6 +55,6 @@ data:
     wed_b: [150, 175]
   wiki_id: "059"
   chinese_name: 高雄
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---
