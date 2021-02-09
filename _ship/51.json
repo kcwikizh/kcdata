@@ -14,7 +14,7 @@ data:
   get_mes: オレの名は天龍。<br>フフフ、怖いか？
   voice_f: 0
   filename: vswgjojfoqdc
-  file_version: ["23", "12", "205"]
+  file_version: ["23", "12", "113"]
   book_table_id: [51, 930]
   book_sinfo: 天龍型１番艦、天龍だ。<br>駆逐艦を束ねて、殴り込みの水雷戦隊を率いるぜ。<br>相棒は、同型艦の龍田だ。<br>あいつ、ちゃんとやってるかな？ま、いいけどな。
   stats:

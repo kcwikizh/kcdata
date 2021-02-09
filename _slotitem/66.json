@@ -73,8 +73,6 @@ data:
             ship_id: 138
           -
             ship_id: 306
-          -
-            ship_id: 662
         - false
         - false
         -

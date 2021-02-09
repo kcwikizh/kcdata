@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: vxrvwfxhlbag
-  file_version: ["10", "11", "205"]
+  file_version: ["10", "11", "113"]
   book_table_id: [470, 1061]
   book_sinfo: 歴戦の主力駆逐艦として奮戦したわ。<br>最後は戦艦大和と共に坊ノ岬沖海戦で米艦載機の猛攻<br>と戦ったの。<br>負けないわ！
   stats:

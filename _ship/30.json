@@ -14,7 +14,7 @@ data:
   get_mes: 私が菊月だ、共にゆこう。
   voice_f: 0
   filename: jatvhskutlck
-  file_version: ["10", "10", "205"]
+  file_version: ["10", "10", "113"]
   book_table_id: [30]
   book_sinfo: 睦月型駆逐艦の９番艦、菊月だ。<br>緒戦は数々の攻略作戦に参加。<br>そして、船団護衛に従事したんだ。<br>いや、護衛任務も大切なミッションだ……。
   stats:

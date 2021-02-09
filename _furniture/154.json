@@ -8,7 +8,7 @@ data:
   description: 冬を迎える提督の執務室の<br>必需品といえる煖房器具。<br>その中でも最高級クラスに<br>位置するのが、この暖炉。<br>最高の温もりを貴方に。
   rarity: 5
   price: 22000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 
