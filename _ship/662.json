@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 662
+  sort_no: 462
+  name: 能代改二
+  yomi: のしろ
+  stype: 3
+  ctype: 41
+  cnum: 2
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 7
+  filename: oedfppeerouz
+  file_version: ["51", "1", "205"]
+  book_table_id: [662]
+  book_sinfo: 新鋭阿賀野型軽巡の二番艦、能代です。<br>能代独自の飛行機運搬軌条がチャームポイントなんで<br>す。レイテ沖海戦でも主力の栗田艦隊の一員として頑<br>張りました！
+  stats:
+    taik: [53, 67]
+    souk: [33, 72]
+    houg: [30, 78]
+    raig: [28, 86]
+    tyku: [26, 82]
+    luck: [13, 77]
+    soku: 10
+    leng: 2
+    kaih: 43
+    tais: 32
+    slot_num: 4
+    max_eq: [1, 1, 4, 2, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 35
+    bull_max: 45
+    broken: [4, 8, 16, 4]
+    pow_up: [2, 2, 2, 3]
+    build_time: 60
+  graph:
+    boko_n: [-52, 159]
+    boko_d: [94, 232]
+    kaisyu_n: [25, -24]
+    kaisyu_d: [55, -19]
+    kaizo_n: [-73, 46]
+    kaizo_d: [88, 76]
+    map_n: [-46, 133]
+    map_d: [111, 199]
+    ensyuf_n: [-51, 123]
+    ensyuf_d: [115, 181]
+    ensyue_n: [-40, 0]
+    battle_n: [-1, 154]
+    battle_d: [126, 228]
+    wed_a: [397, 30]
+    wed_b: [100, 174]
+  wiki_id: "462"
+  chinese_name: 能代改二
+  can_drop: false
+  can_construct: false
+---

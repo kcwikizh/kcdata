@@ -75,11 +75,15 @@ data:
             ship_id: 138
           -
             ship_id: 306
+          -
+            ship_id: 662
         -
           -
             ship_id: 138
           -
             ship_id: 306
+          -
+            ship_id: 662
           -
             ship_id: 139
           -
@@ -112,6 +116,8 @@ data:
             ship_id: 138
           -
             ship_id: 306
+          -
+            ship_id: 662
         -
           -
             ship_id: 137
@@ -121,5 +127,7 @@ data:
             ship_id: 138
           -
             ship_id: 306
+          -
+            ship_id: 662
   chinese_name: 15.2cm连装炮
 ---
