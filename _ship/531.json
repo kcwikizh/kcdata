@@ -14,7 +14,7 @@ data:
   get_mes: 択捉型海防艦！　三番艦の佐渡様だぜ。<br>シ・レ・い！　よろしくな！　ヒヒ。
   voice_f: 1
   filename: sujriouphyti
-  file_version: ["73", "2", "205"]
+  file_version: ["72", "2", "113"]
   book_table_id: [531, 5019, 5005, 5315, 5400]
   book_sinfo: 択捉型海防艦の三番艦、佐渡だぜ。潜水艦が跳梁する<br>海を、第一海上護衛隊の一員として、結構頑張った。<br>松輪や日振、そして、あの大鷹さんと組んだりもした<br>んだぜ。でも…ヒ船団の護衛は本当に大変だったさ。<br>今度はしっかり護り通すんだ！　よろしくな！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 0, 0]
     build_time: 14
   graph:
-    boko_n: [168, 96]
-    boko_d: [96, 210]
+    boko_n: [192, 240]
+    boko_d: [144, 255]
     kaisyu_n: [18, -30]
     kaisyu_d: [48, -84]
-    kaizo_n: [84, -18]
-    kaizo_d: [24, 48]
-    map_n: [120, 60]
-    map_d: [48, 108]
-    ensyuf_n: [102, 84]
-    ensyuf_d: [6, 108]
-    ensyue_n: [102, 0]
-    battle_n: [102, 84]
-    battle_d: [60, 132]
-    wed_a: [240, 138]
-    wed_b: [120, 180]
+    kaizo_n: [150, 138]
+    kaizo_d: [60, 120]
+    map_n: [168, 198]
+    map_d: [90, 213]
+    ensyuf_n: [132, 198]
+    ensyuf_d: [72, 213]
+    ensyue_n: [144, 0]
+    battle_n: [162, 228]
+    battle_d: [78, 243]
+    wed_a: [192, -12]
+    wed_b: [144, 204]
   wiki_id: "339"
   chinese_name: 佐渡
   can_drop: true

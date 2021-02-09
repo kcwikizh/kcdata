@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: ciqeuhusctqq
-  file_version: ["52", "11", "205"]
+  file_version: ["51", "11", "113"]
   book_table_id: [652]
   book_sinfo: 球磨型軽巡洋艦の１番艦、球磨だクマ。<br>佐世保生まれだクマ。ちょっと古いところもあるけ<br>ど、頑張るクマー。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 2, 3]
     build_time: 60
   graph:
-    boko_n: [150, 132]
-    boko_d: [204, 78]
+    boko_n: [111, 184]
+    boko_d: [112, 178]
     kaisyu_n: [40, -19]
     kaisyu_d: [60, -6]
-    kaizo_n: [102, 60]
-    kaizo_d: [144, -18]
-    map_n: [144, 114]
-    map_d: [150, 60]
-    ensyuf_n: [84, 123]
-    ensyuf_d: [138, 66]
-    ensyue_n: [84, 0]
-    battle_n: [150, 150]
-    battle_d: [168, 96]
-    wed_a: [240, 36]
-    wed_b: [126, 204]
+    kaizo_n: [115, 84]
+    kaizo_d: [112, 48]
+    map_n: [151, 141]
+    map_d: [124, 144]
+    ensyuf_n: [142, 138]
+    ensyuf_d: [136, 124]
+    ensyue_n: [141, 0]
+    battle_n: [199, 172]
+    battle_d: [172, 166]
+    wed_a: [202, 3]
+    wed_b: [124, 196]
   wiki_id: "452"
   chinese_name: 球磨改二
   can_drop: false

@@ -8,7 +8,7 @@ data:
   description: さあ、節分です！この季節<br>のために、繊細な職人技で<br>作り上げられた節分の季節<br>専用の窓をどうぞ！節分の<br>豆もほら…ここに…アッ！
   rarity: 5
   price: 5000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "057"
   file_version: 1
