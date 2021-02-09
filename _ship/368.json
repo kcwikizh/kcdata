@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: uvihthcdkhof
-  file_version: ["14", "1", "113"]
+  file_version: ["15", "1", "205"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [144, 144]
-    boko_d: [258, 132]
+    boko_n: [180, 156]
+    boko_d: [192, 180]
     kaisyu_n: [12, -18]
     kaisyu_d: [30, 3]
-    kaizo_n: [168, 66]
-    kaizo_d: [168, 24]
-    map_n: [168, 108]
-    map_d: [192, 102]
-    ensyuf_n: [180, 108]
-    ensyuf_d: [174, 96]
-    ensyue_n: [120, 0]
-    battle_n: [210, 144]
-    battle_d: [210, 132]
-    wed_a: [156, 72]
-    wed_b: [132, 168]
+    kaizo_n: [84, 60]
+    kaizo_d: [96, 72]
+    map_n: [126, 132]
+    map_d: [138, 150]
+    ensyuf_n: [96, 126]
+    ensyuf_d: [96, 138]
+    ensyue_n: [102, 0]
+    battle_n: [120, 156]
+    battle_d: [150, 162]
+    wed_a: [216, 48]
+    wed_b: [168, 168]
   wiki_id: "286a"
   chinese_name: 浦波改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: Ciao!<br>あたしは、そう、Luigi Torelli よ。<br>そね。トレッリ……。んー、ルイでいいや。
   voice_f: 1
   filename: umofiwwigpjx
-  file_version: ["51", "1", "113"]
+  file_version: ["51", "1", "205"]
   book_table_id: [535, 605]
   book_sinfo: Regia Marinaから来たよ。パスタの国で生まれた潜水艦、Luigi Torelli。通商破壊戦で、けっこー頑張った。でも、そんだけじゃない、いろーんな事経験したんだ。潜水艦派遣作戦にも参加してー、さらに色々あってー、所属も何度も変わったよ。んー結構色々あった感じ? あたしの物語も覚えておいてね。
   stats:

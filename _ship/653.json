@@ -14,7 +14,7 @@ data:
   get_mes: ふああ、Buongiorno～？<br>あたし、マエストラーレ級駆逐艦、そう、末っ子です。<br>名前は、シロッコ。うん、よろしくちゃ～お？
   voice_f: 1
   filename: lovonbimvdow
-  file_version: ["51", "1", "113"]
+  file_version: ["52", "1", "205"]
   book_table_id: [653]
   book_sinfo: イタリア海軍マエストラーレ級駆逐艦の末っ子、シ<br>ロッコ。グレちゃんとかと、地中海で活躍したよ。ホ<br>ントだからね。リットリオさんやグレちゃんと敵艦隊<br>を追い払ったんだ！あ、帰り道ね。天気には気をつけ<br>ないと。ホントにね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 23
   graph:
-    boko_n: [103, 174]
-    boko_d: [73, 342]
+    boko_n: [111, 223]
+    boko_d: [111, 223]
     kaisyu_n: [21, -28]
     kaisyu_d: [43, 16]
-    kaizo_n: [96, 43]
-    kaizo_d: [34, 124]
-    map_n: [115, 112]
-    map_d: [87, 255]
-    ensyuf_n: [120, 124]
-    ensyuf_d: [75, 193]
-    ensyue_n: [99, 0]
-    battle_n: [141, 148]
-    battle_d: [102, 241]
-    wed_a: [223, 42]
-    wed_b: [151, 181]
+    kaizo_n: [124, 105]
+    kaizo_d: [109, 70]
+    map_n: [163, 205]
+    map_d: [163, 205]
+    ensyuf_n: [154, 178]
+    ensyuf_d: [154, 178]
+    ensyue_n: [136, 0]
+    battle_n: [189, 229]
+    battle_d: [189, 229]
+    wed_a: [144, -31]
+    wed_b: [129, 202]
   wiki_id: "453"
   chinese_name: 东南风
   can_drop: false

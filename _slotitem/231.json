@@ -72,11 +72,41 @@ data:
             id: 7
             amount: 3
       day:
-        - false
-        - false
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 511
+          -
+            ship_id: 512
+          -
+            ship_id: 513
+        -
+          -
+            ship_id: 511
+          -
+            ship_id: 512
+          -
+            ship_id: 513
+        -
+          -
+            ship_id: 511
+          -
+            ship_id: 512
+          -
+            ship_id: 513
+        -
+          -
+            ship_id: 511
+          -
+            ship_id: 512
+          -
+            ship_id: 513
+        -
+          -
+            ship_id: 511
+          -
+            ship_id: 512
+          -
+            ship_id: 513
         -
           -
             ship_id: 511
