@@ -14,7 +14,7 @@ data:
   get_mes: 私、妙高型重巡洋艦、妙高と申します。<br>共に頑張りましょう。
   voice_f: 0
   filename: grppcbegkphv
-  file_version: ["15", "15", "113"]
+  file_version: ["15", "15", "205"]
   book_table_id: [62]
   book_sinfo: ワシントン海軍軍縮条約下で建造された重巡洋艦です。<br>平賀譲氏設計による日本海軍の第一級の戦闘艦です。<br>現代の海上自衛隊のイージス艦にも、その名は受け継がれています。
   stats:

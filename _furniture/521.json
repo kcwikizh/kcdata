@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 521
+  type: 0
+  no: 71
+  title: バレンタインカーペット
+  description: バレンタインの甘い季節を<br>暖かく演出するカーペット<br>です。まるで本物のカカオ<br>を使ったような風合いは…<br>本物じゃ…ないですよね？
+  rarity: 3
+  price: 1700
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---
