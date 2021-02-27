@@ -1,0 +1,36 @@
+---
+layout: json
+order: 408
+data:
+  id: 408
+  sort_no: 408
+  name: 装甲艇(AB艇)
+  type: [8, 47, 24, 20, 0]
+  rare: 2
+  broken: [2, 3, 3, 1]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 1
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---
