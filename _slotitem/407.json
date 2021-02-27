@@ -65,12 +65,14 @@ data:
         - false
         - false
         - false
-        - false
         -
           -
             ship_id: 662
         -
           -
             ship_id: 662
-  chinese_name:
+        -
+          -
+            ship_id: 662
+  chinese_name: 
 ---
