@@ -32,5 +32,51 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [170, 20, 0, 390]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 7]
+            -
+              id: 4
+              amount: [4, 5]
+          -
+            -
+              id: 3
+              amount: [10, 13]
+            -
+              id: 4
+              amount: [6, 7]
+        slotitem:
+          -
+            id: 25
+            amount: 2
+          -
+            id: 54
+            amount: 1
+      upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 183
+          -
+            ship_id: 321
+        -
+          -
+            ship_id: 183
+          -
+            ship_id: 321
+        -
+          -
+            ship_id: 183
+          -
+            ship_id: 321
+        - false
+        - false
+        - false
   chinese_name: 紫云
 ---

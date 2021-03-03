@@ -200,6 +200,19 @@ data:
           - 
           - 
       upgrade:
+        id: 409
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [6, 9]
+            -
+              id: 4
+              amount: [3, 6]
+          slotitem:
+            id: 166
+            amount: 1
       day:
         -
           -

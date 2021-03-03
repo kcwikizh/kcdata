@@ -32,5 +32,67 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [240, 360, 0, 360]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 5]
+            -
+              id: 4
+              amount: [3, 3]
+          -
+            -
+              id: 3
+              amount: [5, 7]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          -
+            id: 16
+            amount: 1
+          -
+            id: 16
+            amount: 2
+      upgrade:
+        id: 345
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [9, 15]
+            -
+              id: 4
+              amount: [7, 9]
+            -
+              id: 70
+              amount: 1
+          slotitem:
+            id: 344
+            amount: 1
+      day:
+        - false
+        -
+          -
+            ship_id: 89
+          -
+            ship_id: 285
+        -
+          -
+            ship_id: 89
+          -
+            ship_id: 285
+        -
+          -
+            ship_id: 89
+          -
+            ship_id: 285
+        - false
+        - false
+        - false
   chinese_name: 九七式舰攻(熟练)
 ---

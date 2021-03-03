@@ -54,7 +54,9 @@ data:
           -
             id: 17
             amount: 1
-          - 
+          -
+            id: 18
+            amount: 1
       upgrade:
       day:
         -

@@ -14,7 +14,7 @@ data:
   get_mes: お疲れ！　夕雲型十一番艦、藤波よ。<br>司令、よろしくね！
   voice_f: 1
   filename: hskuxickjvmq
-  file_version: ["23", "9", "205"]
+  file_version: ["24", "9", "301"]
   book_table_id: [485, 776, 767, 1008, 1050]
   book_sinfo: 艦隊型駆逐艦の決定版、夕雲型の十一番艦、藤波だよ。三十二駆、そして十一水戦でデビューしたんだ。かなり状況は良くなかったけど、できる限り頑張ったよ。最期は華の二水戦で、艦隊決戦、捷一号作戦に参加した…うん…辛かったな。でも、やれるだけはやったんだ。覚えておいてね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [294, 222]
-    boko_d: [315, 225]
+    boko_n: [258, 168]
+    boko_d: [162, 174]
     kaisyu_n: [27, -18]
     kaisyu_d: [66, -6]
-    kaizo_n: [216, 132]
-    kaizo_d: [228, 99]
-    map_n: [246, 180]
-    map_d: [270, 180]
-    ensyuf_n: [204, 192]
-    ensyuf_d: [228, 192]
-    ensyue_n: [204, 0]
-    battle_n: [258, 222]
-    battle_d: [276, 222]
-    wed_a: [117, -6]
-    wed_b: [117, 168]
+    kaizo_n: [198, 72]
+    kaizo_d: [108, 48]
+    map_n: [198, 144]
+    map_d: [168, 150]
+    ensyuf_n: [222, 144]
+    ensyuf_d: [156, 156]
+    ensyue_n: [198, 0]
+    battle_n: [228, 168]
+    battle_d: [168, 180]
+    wed_a: [132, 48]
+    wed_b: [126, 168]
   wiki_id: "285"
   chinese_name: 藤波
   can_drop: true

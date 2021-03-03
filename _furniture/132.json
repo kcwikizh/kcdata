@@ -8,7 +8,7 @@ data:
   description: 空技廠から独自のルートで<br>手に入れた新型艦上戦闘機<br>の試作機ポスター。<br>空母な艦娘垂涎の逸品です。
   rarity: 5
   price: 1000
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: "031"
   file_version: 2

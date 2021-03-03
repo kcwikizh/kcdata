@@ -14,7 +14,7 @@ data:
   get_mes: 提督さん、おはようございます。<br>朝潮型駆逐艦、峯雲、配置につきます。
   voice_f: 1
   filename: yrtghuqfxjmk
-  file_version: ["60", "1", "205"]
+  file_version: ["61", "1", "301"]
   book_table_id: [583, 5378, 5431]
   book_sinfo: 朝潮型駆逐艦、その八番艦の峯雲です。なっちゃんた<br>ちと共に第九駆逐隊を編成、第四水雷戦隊の一翼とし<br>て、南方作戦からミッドウェー、そして激戦のソロモン方面の作戦に参加しました。戦況は日に日に厳しく<br>なってきて……村雨さんと二人の作戦が、私の記憶の<br>最後です。敵の電探…脅威ですね。でも、今度は！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 22
   graph:
-    boko_n: [19, 168]
-    boko_d: [100, 207]
+    boko_n: [241, 229]
+    boko_d: [187, 274]
     kaisyu_n: [1, -10]
     kaisyu_d: [49, 1]
-    kaizo_n: [16, 31]
-    kaizo_d: [55, 51]
-    map_n: [76, 147]
-    map_d: [133, 175]
-    ensyuf_n: [24, 139]
-    ensyuf_d: [105, 157]
-    ensyue_n: [18, 0]
-    battle_n: [79, 159]
-    battle_d: [145, 186]
-    wed_a: [291, 36]
-    wed_b: [129, 147]
+    kaizo_n: [241, 85]
+    kaizo_d: [192, 93]
+    map_n: [261, 208]
+    map_d: [207, 216]
+    ensyuf_n: [268, 190]
+    ensyuf_d: [211, 196]
+    ensyue_n: [246, 0]
+    battle_n: [300, 220]
+    battle_d: [252, 222]
+    wed_a: [88, -31]
+    wed_b: [76, 166]
   wiki_id: "383"
   chinese_name: 峰云
   can_drop: false

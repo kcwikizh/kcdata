@@ -8,7 +8,7 @@ data:
   description: 戦闘や訓練で被弾損耗する<br>艦娘の制服衣裳を艦娘自身<br>が補修するための裁縫道具<br>の特注の裁縫作業机です。<br>職人ダイナミック割引可！
   rarity: 5
   price: 120200
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

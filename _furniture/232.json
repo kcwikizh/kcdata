@@ -8,7 +8,7 @@ data:
   description: 腕に自信のある艦娘たちは<br>オフの日は手作りのお菓子<br>作りにチャレンジします！<br>春先は、ボールに溶かした<br>チョコが…楽しみかも？
   rarity: 3
   price: 1800
-  saleflg: 1
+  saleflg: 0
   season: 15
   filename: 
   file_version: 
