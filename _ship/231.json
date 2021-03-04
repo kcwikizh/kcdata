@@ -9,12 +9,12 @@ data:
   ctype: 
   cnum: 
   backs: 4
-  after_lv: 
-  after_ship_id: 
+  after_lv: 82
+  after_ship_id: 665
   get_mes: <br>
   voice_f: 1
   filename: wnocckxgfmnh
-  file_version: ["68", "32", "205"]
+  file_version: ["69", "32", "301"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -30,29 +30,29 @@ data:
     tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 180
+    after_bull: 230
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [252, 126]
-    boko_d: [228, 198]
+    boko_n: [204, 18]
+    boko_d: [156, 90]
     kaisyu_n: [12, -48]
     kaisyu_d: [42, -18]
-    kaizo_n: [156, 48]
-    kaizo_d: [120, 96]
-    map_n: [156, 96]
-    map_d: [126, 150]
-    ensyuf_n: [156, 96]
-    ensyuf_d: [120, 180]
-    ensyue_n: [168, 0]
-    battle_n: [180, 108]
-    battle_d: [156, 174]
-    wed_a: [138, 72]
-    wed_b: [204, 180]
+    kaizo_n: [138, -78]
+    kaizo_d: [90, -24]
+    map_n: [192, 0]
+    map_d: [138, 72]
+    ensyuf_n: [156, 0]
+    ensyuf_d: [126, 60]
+    ensyue_n: [138, 0]
+    battle_n: [162, 18]
+    battle_d: [156, 96]
+    wed_a: [192, 186]
+    wed_b: [162, 192]
   wiki_id: "068a"
   chinese_name: 曙改
   can_drop: false

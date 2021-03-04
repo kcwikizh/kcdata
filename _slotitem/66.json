@@ -68,6 +68,8 @@ data:
             ship_id: 138
           -
             ship_id: 306
+          -
+            ship_id: 662
         -
           -
             ship_id: 138
@@ -87,19 +89,11 @@ data:
             ship_id: 137
           -
             ship_id: 305
-          -
-            ship_id: 138
-          -
-            ship_id: 306
         -
           -
             ship_id: 137
           -
             ship_id: 305
-          -
-            ship_id: 138
-          -
-            ship_id: 306
     -
       consume:
         resource: [10, 40, 80, 40]

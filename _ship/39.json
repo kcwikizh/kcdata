@@ -14,7 +14,7 @@ data:
   get_mes: 初めまして、ねのひ、だよぉ！<br>艦名、読みづらくなんか、ないよね？ね？
   voice_f: 0
   filename: zgerairddhko
-  file_version: ["24", "14", "205"]
+  file_version: ["24", "14", "301"]
   book_table_id: [39, 970]
   book_sinfo: 丸一計画で建造された、初春型駆逐艦２番艦の子日だよ。<br>初春などの姉妹艦で第２１駆逐隊を編成して色々と頑張ったんだよ。<br>なに？潜水艦…？嫌いキライ！
   stats:

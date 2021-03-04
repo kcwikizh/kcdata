@@ -8,7 +8,7 @@ data:
   description: 天然木を使用した、明るい<br>木目が特徴の床です。
   rarity: 1
   price: 50
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 
