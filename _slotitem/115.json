@@ -59,7 +59,6 @@ data:
             amount: 1
       upgrade:
       day:
-        - false
         -
           -
             ship_id: 176
@@ -72,11 +71,32 @@ data:
             ship_id: 177
         -
           -
+            ship_id: 171
+          -
+            ship_id: 172
+          -
+            ship_id: 173
+          -
+            ship_id: 178
+        -
+          -
+            ship_id: 171
+          -
+            ship_id: 172
+          -
+            ship_id: 173
+          -
+            ship_id: 178
+        - false
+        -
+          -
             ship_id: 176
           -
             ship_id: 177
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 176
+          -
+            ship_id: 177
   chinese_name: Ar196改
 ---

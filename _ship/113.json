@@ -14,7 +14,7 @@ data:
   get_mes: きたきたぁ！　鬼怒、いよいよ到着しましたよ！
   voice_f: 3
   filename: rgribyhrzjjl
-  file_version: ["15", "15", "301"]
+  file_version: ["15", "15", "330"]
   book_table_id: [113]
   book_sinfo: 神戸生まれの鬼怒だよ。<br>舞鶴の学校で訓練に励んだんだ。色々と大変になってきた後は、南西方面で頑張ったよ…いやぁ、大変だったなあ。球磨ちゃんには随分と助けてもらったんだ。でも…パナイ島だけはマジパナイ！
   stats:

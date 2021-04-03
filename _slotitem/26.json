@@ -102,5 +102,63 @@ data:
             ship_id: 82
           -
             ship_id: 88
+    -
+      consume:
+        resource: [160, 160, 0, 360]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 7]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [6, 9]
+            -
+              id: 4
+              amount: [5, 7]
+        slotitem:
+          -
+            id: 26
+            amount: 1
+          -
+            id: 26
+            amount: 1
+      upgrade:
+        id: 80
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [-1, -1]
+            -
+              id: 4
+              amount: [7, 9]
+            -
+              id: 77
+              amount: 1
+          slotitem:
+            id: 26
+            amount: 2
+      day:
+        - false
+        - false
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
+        - false
+        - false
+        - false
   chinese_name: 瑞云
 ---

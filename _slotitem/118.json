@@ -75,7 +75,11 @@ data:
             ship_id: 183
           -
             ship_id: 321
-        - false
+        -
+          -
+            ship_id: 183
+          -
+            ship_id: 321
         - false
         - false
   chinese_name: 紫云

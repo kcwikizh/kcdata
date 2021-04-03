@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: mhpalcnpxmgz
-  file_version: ["19", "25", "301"]
+  file_version: ["19", "25", "330"]
   book_table_id: [150, 5422]
   book_sinfo: 井上提督も愛した巡洋戦艦、比叡です。<br>ぴかぴかに肌を磨いて、御召艦としても活躍したの。<br>大和型のテスト艦にもなったのよ、知ってた？<br>え？ソロモン海戦？そうよ、奮闘したわ！
   stats:

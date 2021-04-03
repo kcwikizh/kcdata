@@ -14,15 +14,15 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: bxbyaifmqdxk
-  file_version: ["14", "14", "301"]
+  file_version: ["14", "14", "330"]
   book_table_id: [193]
   book_sinfo: 私、足柄が英国の観艦式に参加した時のことよ。<br>まるで「飢えた狼のよう」と評価されたの。<br>当然よね！この精悍なボディ！<br>え？それは色気がないって嫌味じゃないかって？<br>そんなことあるわけ…ナイじゃない！
   stats:
     taik: [56, 71]
     souk: [47, 79]
-    houg: [53, 83]
+    houg: [53, 84]
     raig: [34, 84]
-    tyku: [26, 74]
+    tyku: [26, 77]
     luck: [20, 75]
     soku: 10
     leng: 2

@@ -9,12 +9,12 @@ data:
   ctype: 9
   cnum: 1
   backs: 6
-  after_lv: 
-  after_ship_id: 
+  after_lv: 80
+  after_ship_id: 501
   get_mes: <br>
   voice_f: 3
   filename: ethdbrvnuznc
-  file_version: ["27", "7", "301"]
+  file_version: ["28", "7", "330"]
   book_table_id: [73]
   book_sinfo: 最上型重巡洋艦１番艦。<br>最上の後部主砲を全て取り払って、代わりに水上機を運用する航空甲板を設置した、航空巡洋艦だよ。<br>水上機母艦並の航空力と火力、どうよ！
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 0
     slot_num: 4
     max_eq: [5, 6, 5, 11, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 1800
+    after_bull: 2200
     fuel_max: 50
     bull_max: 55
     broken: [2, 2, 13, 4]

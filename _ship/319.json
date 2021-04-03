@@ -14,16 +14,16 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: kadfixosusrf
-  file_version: ["16", "15", "301"]
+  file_version: ["16", "15", "330"]
   book_table_id: [319]
   book_sinfo: ワシントン海軍軍縮条約下で建造された重巡洋艦です。<br>平賀譲氏設計による日本海軍の第一級の戦闘艦です。<br>現代の海上自衛隊のイージス艦にも、その名は受け継がれています。
   stats:
     taik: [56, 71]
-    souk: [47, 78]
+    souk: [47, 79]
     houg: [50, 81]
     raig: [36, 88]
     tyku: [28, 80]
-    luck: [32, 79]
+    luck: [32, 80]
     soku: 10
     leng: 2
     kaih: 47

@@ -8,8 +8,8 @@ data:
   description: ある艦隊型駆逐艦が提督と<br>の時間を過ごすために家具<br>職人に依頼して作った特注<br>家具です。この机で執務は<br>…いえ、頑張れそうです！
   rarity: 5
   price: 9000
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
-  file_version: ""
+  file_version: 
 ---

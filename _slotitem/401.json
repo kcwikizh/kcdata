@@ -75,7 +75,15 @@ data:
             id: 169
             amount: 3
       day:
-        - false
+        -
+          -
+            ship_id: 171
+          -
+            ship_id: 172
+          -
+            ship_id: 173
+          -
+            ship_id: 178
         -
           -
             ship_id: 171
@@ -96,7 +104,23 @@ data:
           -
             ship_id: 177
         - false
-        - false
-        - false
+        -
+          -
+            ship_id: 171
+          -
+            ship_id: 172
+          -
+            ship_id: 173
+          -
+            ship_id: 178
+        -
+          -
+            ship_id: 171
+          -
+            ship_id: 172
+          -
+            ship_id: 173
+          -
+            ship_id: 178
   chinese_name: 
 ---

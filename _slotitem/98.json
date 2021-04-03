@@ -75,7 +75,13 @@ data:
             id: 344
             amount: 1
       day:
-        - false
+        -
+          -
+            ship_id: 534
+          -
+            ship_id: 381
+          -
+            ship_id: 536
         -
           -
             ship_id: 89
@@ -91,8 +97,24 @@ data:
             ship_id: 89
           -
             ship_id: 285
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 89
+          -
+            ship_id: 285
+        -
+          -
+            ship_id: 534
+          -
+            ship_id: 381
+          -
+            ship_id: 536
+        -
+          -
+            ship_id: 534
+          -
+            ship_id: 381
+          -
+            ship_id: 536
   chinese_name: 九七式舰攻(熟练)
 ---

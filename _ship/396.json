@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: hhffnryhkveu
-  file_version: ["70", "11", "301"]
+  file_version: ["71", "11", "330"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 2, 1]
     build_time: 30
   graph:
-    boko_n: [78, 207]
-    boko_d: [156, 246]
+    boko_n: [108, 186]
+    boko_d: [-54, 186]
     kaisyu_n: [-12, 0]
     kaisyu_d: [42, -60]
-    kaizo_n: [36, 69]
-    kaizo_d: [102, 102]
-    map_n: [54, 171]
-    map_d: [138, 204]
-    ensyuf_n: [18, 180]
-    ensyuf_d: [120, 192]
-    ensyue_n: [30, 0]
-    battle_n: [48, 186]
-    battle_d: [138, 210]
-    wed_a: [312, -6]
-    wed_b: [132, 168]
+    kaizo_n: [66, 75]
+    kaizo_d: [-117, 40]
+    map_n: [108, 156]
+    map_d: [-60, 156]
+    ensyuf_n: [72, 174]
+    ensyuf_d: [-96, 174]
+    ensyue_n: [72, 0]
+    battle_n: [126, 186]
+    battle_d: [-45, 186]
+    wed_a: [270, 6]
+    wed_b: [102, 168]
   wiki_id: "344a"
   chinese_name: 甘比尔湾改
   can_drop: false

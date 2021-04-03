@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 530
+  type: 1
+  no: 91
+  title: 萩の壁
+  description: 萩をイメージした、強さの<br>中に落ち着いた印象と覚悟<br>を秘めた壁板です。<br>萩の床と敷物とあわせると<br>より印象の強い鎮守府に！
+  rarity: 4
+  price: 1500
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

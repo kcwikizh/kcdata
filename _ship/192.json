@@ -14,16 +14,16 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: bpegnatlfibc
-  file_version: ["14", "14", "301"]
+  file_version: ["14", "14", "330"]
   book_table_id: [192]
   book_sinfo: 生れは呉海軍工廠。妙高型重巡２番艦の私は、上海事変にも警備出動したぞ。<br>太平洋戦線では第五艦隊の旗艦として、暴れまわったさ。<br>敵艦載機？　ああ、あれは少し苦手だな。
   stats:
     taik: [56, 71]
     souk: [48, 78]
-    houg: [50, 80]
-    raig: [34, 84]
+    houg: [50, 81]
+    raig: [34, 85]
     tyku: [33, 83]
-    luck: [18, 70]
+    luck: [18, 71]
     soku: 10
     leng: 2
     kaih: 44
