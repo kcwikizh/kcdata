@@ -32,5 +32,47 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [180, 180, 0, 480]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [5, 6]
+          -
+            -
+              id: 3
+              amount: [7, 10]
+            -
+              id: 4
+              amount: [6, 8]
+        slotitem:
+          -
+            id: 26
+            amount: 1
+          -
+            id: 26
+            amount: 2
+      upgrade:
+      day:
+        - false
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
   chinese_name: 瑞云12型
 ---

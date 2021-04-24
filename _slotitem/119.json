@@ -154,13 +154,7 @@ data:
             ship_id: 465
           -
             ship_id: 356
-        -
-          -
-            ship_id: 623
-          -
-            ship_id: 624
-        -
-          -
-            ship_id: 624
+        - false
+        - false
   chinese_name: 14cm连装炮
 ---

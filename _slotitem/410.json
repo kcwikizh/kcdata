@@ -39,14 +39,14 @@ data:
           -
             -
               id: 3
-              amount: [8, -1]
+              amount: [8, 9]
             -
               id: 4
               amount: [5, 6]
           -
             -
               id: 3
-              amount: [-1, -1]
+              amount: [11, 13]
             -
               id: 4
               amount: [6, 9]
@@ -60,8 +60,21 @@ data:
       upgrade:
       day:
         - false
-        - false
-        - false
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
         -
           -
             ship_id: 501
@@ -69,6 +82,5 @@ data:
             ship_id: 506
         - false
         - false
-        - false
-  chinese_name:
+  chinese_name: 
 ---

@@ -197,8 +197,12 @@ data:
               id: 4
               amount: [2, 3]
         slotitem:
-          - 
-          - 
+          -
+            id: 75
+            amount: 1
+          -
+            id: 37
+            amount: 1
       upgrade:
         id: 409
         level: 0

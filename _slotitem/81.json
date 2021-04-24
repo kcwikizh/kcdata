@@ -75,8 +75,16 @@ data:
             id: 80
             amount: 2
       day:
-        - false
-        - false
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
         -
           -
             ship_id: 82

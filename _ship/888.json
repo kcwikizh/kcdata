@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 888
-  sort_no: 0
-  name: 梅雨早霜
-  yomi: はやしも
-  stype: 2
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: dsynpbblslxa
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 488
+  name: 龍鳳改二
+  yomi: たいげい・りゅうほう
+  stype: 7
+  ctype: 51
+  cnum: 1
+  backs: 8
+  after_lv: 88
+  after_ship_id: 883
+  get_mes: <br>
+  voice_f: 3
+  filename: gfucvspxxvpe
+  file_version: ["51", "2", "423"]
+  book_table_id: [888]
+  book_sinfo: 潜水母艦改装空母の龍鳳です。<br>機関の換装の影響で速度は計画通りには出なかったけ<br>れど、このクラスの軽空母としては充実の飛行甲板と<br>兵装なんです。<br>空母龍鳳、精一杯頑張ります！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
+    taik: [63, 81]
+    souk: [36, 74]
+    houg: [0, 47]
+    raig: [0, 0]
+    tyku: [32, 81]
+    luck: [42, 98]
     soku: 10
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 2
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    leng: 2
+    kaih: 37
+    tais: 32
+    slot_num: 4
+    max_eq: [21, 21, 14, 6, 0]
+    after_fuel: 770
+    after_bull: 500
+    fuel_max: 60
+    bull_max: 60
+    broken: [4, 9, 25, 8]
+    pow_up: [0, 0, 3, 3]
+    build_time: 160
   graph:
-    boko_n: [228, 168]
-    boko_d: [168, 186]
-    kaisyu_n: [6, 12]
-    kaisyu_d: [24, 24]
-    kaizo_n: [114, 78]
-    kaizo_d: [48, 96]
-    map_n: [114, 120]
-    map_d: [48, 156]
-    ensyuf_n: [108, 138]
-    ensyuf_d: [48, 156]
-    ensyue_n: [126, 0]
-    battle_n: [150, 150]
-    battle_d: [96, 174]
-    wed_a: [204, 60]
-    wed_b: [138, 168]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [66, 198]
+    boko_d: [90, 247]
+    kaisyu_n: [34, 16]
+    kaisyu_d: [57, 7]
+    kaizo_n: [58, 79]
+    kaizo_d: [102, 58]
+    map_n: [87, 178]
+    map_d: [118, 190]
+    ensyuf_n: [94, 168]
+    ensyuf_d: [118, 169]
+    ensyue_n: [70, 0]
+    battle_n: [151, 196]
+    battle_d: [172, 187]
+    wed_a: [238, -7]
+    wed_b: [115, 181]
+  wiki_id: "488"
+  chinese_name: 龙凤改二
   can_drop: false
   can_construct: false
 ---

@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 883
-  sort_no: 0
-  name: 夏大淀
-  yomi: おおよど
-  stype: 3
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: ickwwmyimgms
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 483
+  name: 龍鳳改二戊
+  yomi: たいげい・りゅうほう
+  stype: 7
+  ctype: 51
+  cnum: 1
+  backs: 7
+  after_lv: 88
+  after_ship_id: 888
+  get_mes: <br>
+  voice_f: 3
+  filename: bihiglbhbdbh
+  file_version: ["51", "2", "423"]
+  book_table_id: [883]
+  book_sinfo: 潜水母艦改装空母の龍鳳です。<br>機関の換装の影響で速度は計画通りには出なかったけ<br>れど、このクラスの軽空母としては充実の飛行甲板と<br>兵装なんです。<br>空母龍鳳、精一杯頑張ります！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 10
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 3
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [61, 79]
+    souk: [36, 73]
+    houg: [0, 45]
+    raig: [0, 0]
+    tyku: [30, 72]
+    luck: [42, 98]
+    soku: 5
+    leng: 2
+    kaih: 40
+    tais: 36
+    slot_num: 4
+    max_eq: [21, 21, 12, 3, 0]
+    after_fuel: 700
+    after_bull: 980
+    fuel_max: 40
+    bull_max: 50
+    broken: [4, 9, 25, 8]
+    pow_up: [0, 0, 3, 3]
+    build_time: 160
   graph:
-    boko_n: [186, 204]
-    boko_d: [102, 228]
-    kaisyu_n: [18, 24]
-    kaisyu_d: [36, 24]
-    kaizo_n: [120, 114]
-    kaizo_d: [24, 126]
-    map_n: [108, 168]
-    map_d: [36, 180]
-    ensyuf_n: [108, 174]
-    ensyuf_d: [24, 186]
-    ensyue_n: [132, 0]
-    battle_n: [144, 186]
-    battle_d: [72, 204]
-    wed_a: [192, 6]
-    wed_b: [150, 174]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [66, 198]
+    boko_d: [90, 247]
+    kaisyu_n: [34, 16]
+    kaisyu_d: [57, 7]
+    kaizo_n: [58, 79]
+    kaizo_d: [102, 58]
+    map_n: [87, 178]
+    map_d: [118, 190]
+    ensyuf_n: [94, 168]
+    ensyuf_d: [118, 169]
+    ensyue_n: [70, 0]
+    battle_n: [151, 196]
+    battle_d: [172, 187]
+    wed_a: [238, -7]
+    wed_b: [115, 181]
+  wiki_id: "483"
+  chinese_name: 龙凤改二戊
   can_drop: false
   can_construct: false
 ---

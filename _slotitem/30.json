@@ -137,7 +137,7 @@ data:
           useitem:
             -
               id: 3
-              amount: [-1, -1]
+              amount: [20, 28]
             -
               id: 4
               amount: [7, 15]
@@ -149,14 +149,26 @@ data:
             amount: 1
       day:
         - false
-        - false
-        - false
         -
           -
             ship_id: 501
           -
             ship_id: 506
-        - false
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
         - false
         - false
   chinese_name: 21号对空电探

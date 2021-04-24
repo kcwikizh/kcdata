@@ -1,0 +1,36 @@
+---
+layout: json
+order: 411
+data:
+  id: 411
+  sort_no: 411
+  name: 42号対空電探改二
+  type: [5, 8, 13, 11, 0]
+  rare: 4
+  broken: [0, 0, 25, 26]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 7
+    tais: 0
+    atap: 0
+    houm: 8
+    raim: 0
+    houk: -1
+    raik: 0
+    bakk: 0
+    saku: 6
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

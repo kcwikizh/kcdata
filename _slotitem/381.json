@@ -46,15 +46,17 @@ data:
           -
             -
               id: 3
-              amount: [-1, -1]
+              amount: [5, 7]
             -
               id: 4
-              amount: [-1, -1]
+              amount: [4, 5]
         slotitem:
           -
             id: 8
             amount: 1
-          - 
+          -
+            id: 8
+            amount: 2
       upgrade:
         id: 385
         level: 0
@@ -62,26 +64,79 @@ data:
           useitem:
             -
               id: 3
-              amount: [-1, -1]
+              amount: [10, 18]
             -
               id: 4
-              amount: [-1, -1]
+              amount: [7, 13]
+            -
+              id: 75
+              amount: 1
           slotitem:
+            id: 8
+            amount: 3
       day:
-        - false
-        - false
         -
           -
             ship_id: 602
           -
             ship_id: 697
+          -
+            ship_id: 654
+          -
+            ship_id: 659
         -
           -
             ship_id: 602
           -
             ship_id: 697
-        - false
-        - false
-        - false
+          -
+            ship_id: 654
+          -
+            ship_id: 659
+        -
+          -
+            ship_id: 602
+          -
+            ship_id: 697
+          -
+            ship_id: 654
+          -
+            ship_id: 659
+        -
+          -
+            ship_id: 602
+          -
+            ship_id: 697
+          -
+            ship_id: 654
+          -
+            ship_id: 659
+        -
+          -
+            ship_id: 602
+          -
+            ship_id: 697
+          -
+            ship_id: 654
+          -
+            ship_id: 659
+        -
+          -
+            ship_id: 602
+          -
+            ship_id: 697
+          -
+            ship_id: 654
+          -
+            ship_id: 659
+        -
+          -
+            ship_id: 602
+          -
+            ship_id: 697
+          -
+            ship_id: 654
+          -
+            ship_id: 659
   chinese_name: 
 ---

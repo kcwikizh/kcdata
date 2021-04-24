@@ -134,7 +134,7 @@ data:
           useitem:
             -
               id: 3
-              amount: [-1, -1]
+              amount: [14, 18]
             -
               id: 4
               amount: [7, 9]
@@ -146,7 +146,6 @@ data:
             amount: 2
       day:
         - false
-        - false
         -
           -
             ship_id: 501
@@ -157,7 +156,16 @@ data:
             ship_id: 501
           -
             ship_id: 506
-        - false
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
         - false
         - false
   chinese_name: 瑞云

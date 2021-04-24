@@ -14,7 +14,7 @@ data:
   get_mes: Hi! 私がステイツのBig7、Colorado級戦艦一番艦、<br>USS Coloradoよ！<br>貴方がAdmiral？ 悪くないわね。<br>私にしっかりついてきなさい！ 返事は？
   voice_f: 1
   filename: cnghkhxvlmwk
-  file_version: ["51", "1", "330"]
+  file_version: ["51", "1", "423"]
   book_table_id: [601]
   book_sinfo: 私がステイツのBig7、Colorado級戦艦一番艦、USS <br>BB45 Coloradoよ。そう、ニューヨーク生まれ。太<br>平洋艦隊、真珠湾に配属されたわ。でも、本国で入渠<br>中に奇襲があって…まあ、いいわ。Big7の力、存分<br>に魅せてあげるわね！覚悟してて！
   stats:
