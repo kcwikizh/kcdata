@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 644
+  sort_no: 444
+  name: 桃
+  yomi: もも
+  stype: 2
+  ctype: 101
+  cnum: 4
+  backs: 5
+  after_lv: 48
+  after_ship_id: 708
+  get_mes: あたし、桃。丁型のアイドル、いえ違うわ、<br>駆逐隊のアイドルが正解？…かな？<br>あ、そう。松型の四番艦。テートク、よっろしくぅ♪
+  voice_f: 1
+  filename: qtaxwuyaxduh
+  file_version: ["51", "1", "423"]
+  book_table_id: [644]
+  book_sinfo: 丁型のアイドル、桃だよ☆<br>そう、松型駆逐艦の四番艦。松型四隻で第四三駆逐隊<br>を編成したよ。そして、スーパーユニット第三一戦隊<br>のメンバーになったんだ！もうお仕事は大変！護衛と<br>輸送とか休む暇なく…うん…大変だった！
+  stats:
+    taik: [14, 27]
+    souk: [5, 22]
+    houg: [5, 23]
+    raig: [16, 57]
+    tyku: [18, 61]
+    luck: [8, 48]
+    soku: 10
+    leng: 1
+    kaih: 31
+    tais: 27
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 120
+    after_bull: 180
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [142, 25]
+    boko_d: [88, 132]
+    kaisyu_n: [19, -31]
+    kaisyu_d: [43, -13]
+    kaizo_n: [154, -97]
+    kaizo_d: [93, -31]
+    map_n: [186, -4]
+    map_d: [123, 93]
+    ensyuf_n: [156, -16]
+    ensyuf_d: [85, 73]
+    ensyue_n: [156, 0]
+    battle_n: [196, 19]
+    battle_d: [159, 117]
+    wed_a: [181, 177]
+    wed_b: [115, 180]
+  wiki_id: "444"
+  chinese_name: 桃
+  can_drop: false
+  can_construct: false
+---

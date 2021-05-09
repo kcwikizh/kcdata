@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 882
-  sort_no: 0
-  name: 夏三隅
-  yomi: みくま
-  stype: 5
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: muvekdsyxbwk
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 482
+  name: 伊203
+  yomi: い203
+  stype: 13
+  ctype: 109
+  cnum: 3
+  backs: 6
+  after_lv: 55
+  after_ship_id: 887
+  get_mes: 海ン中だと……私が多分一番速いと思う……。 <br>潜高型の三番艦。伊２０３。フーミィ…かな？<br>危険？　私が？……そんなでもないよ？
+  voice_f: 1
+  filename: ayytwcxkqvtt
+  file_version: ["51", "1", "423"]
+  book_table_id: [882]
+  book_sinfo: 水中での圧倒的な機動性を追求した、伊号潜水艦の新<br>型高速潜水艦、伊２０１型潜水艦の三番艦、伊２０３<br>です。<br>実戦には出ませんでしたが、出撃準備は完了していま<br>す。提督、よろしく。私、水中で本当に速いから。<br>見てて。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 10
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 3
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [12, 22]
+    souk: [4, 16]
+    houg: [1, 3]
+    raig: [20, 64]
+    tyku: [0, 5]
+    luck: [23, 80]
+    soku: 5
+    leng: 1
+    kaih: 40
+    tais: 0
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 150
+    after_bull: 250
+    fuel_max: 15
+    bull_max: 15
+    broken: [2, 1, 2, 1]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
   graph:
-    boko_n: [162, 54]
-    boko_d: [150, 48]
-    kaisyu_n: [27, 10]
-    kaisyu_d: [42, 10]
-    kaizo_n: [84, 48]
-    kaizo_d: [84, -42]
-    map_n: [102, 18]
-    map_d: [90, 12]
-    ensyuf_n: [108, 12]
-    ensyuf_d: [72, 6]
-    ensyue_n: [90, 0]
-    battle_n: [126, 36]
-    battle_d: [138, 36]
-    wed_a: [204, 168]
-    wed_b: [168, 168]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [82, 232]
+    boko_d: [49, 274]
+    kaisyu_n: [31, -1]
+    kaisyu_d: [55, 15]
+    kaizo_n: [106, 97]
+    kaizo_d: [58, 91]
+    map_n: [124, 205]
+    map_d: [109, 226]
+    ensyuf_n: [106, 190]
+    ensyuf_d: [102, 204]
+    ensyue_n: [112, 0]
+    battle_n: [163, 217]
+    battle_d: [153, 238]
+    wed_a: [213, -19]
+    wed_b: [115, 183]
+  wiki_id: "482"
+  chinese_name: 伊203
   can_drop: false
   can_construct: false
 ---

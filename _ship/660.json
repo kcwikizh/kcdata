@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 660
+  sort_no: 460
+  name: Northampton改
+  yomi: ノーザンプトン
+  stype: 5
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: bqgttvoywrwz
+  file_version: ["51", "1", "423"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [55, 67]
+    souk: [40, 73]
+    houg: [45, 75]
+    raig: [20, 65]
+    tyku: [30, 78]
+    luck: [12, 59]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [1, 1, 1, 4, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 40
+    bull_max: 65
+    broken: [2, 6, 19, 2]
+    pow_up: [2, 1, 1, 2]
+    build_time: 85
+  graph:
+    boko_n: [-129, 204]
+    boko_d: [43, 247]
+    kaisyu_n: [27, 22]
+    kaisyu_d: [82, 10]
+    kaizo_n: [-112, 85]
+    kaizo_d: [46, 78]
+    map_n: [-79, 177]
+    map_d: [150, 214]
+    ensyuf_n: [-97, 178]
+    ensyuf_d: [148, 184]
+    ensyue_n: [-112, 0]
+    battle_n: [-79, 219]
+    battle_d: [184, 229]
+    wed_a: [454, -18]
+    wed_b: [99, 181]
+  wiki_id: "460"
+  chinese_name: 北安普敦改
+  can_drop: false
+  can_construct: false
+---

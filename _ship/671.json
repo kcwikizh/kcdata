@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 671
+  sort_no: 471
+  name: 巻波
+  yomi: まきなみ
+  stype: 2
+  ctype: 38
+  cnum: 5
+  backs: 4
+  after_lv: 30
+  after_ship_id: 709
+  get_mes: 夕雲型駆逐艦、五番艦の巻波。来たわ。<br>なに？この艦隊。提督、貴方も元気ないわね！<br>私が来たのよ？　そう、楽しくいきましょ！
+  voice_f: 1
+  filename: qkmrhtsccscs
+  file_version: ["51", "1", "423"]
+  book_table_id: [671]
+  book_sinfo: 夕雲型駆逐艦、五番艦といえば、この私、巻波！<br>そう、長波姉のいっこ下！<br>長波姉と同じ駆逐隊で、頑張ったよ！<br>そうね～、ソロモンは私の庭みたいなもの……って、<br>それ電探のせいでしょ！　勘弁してよ！ったく！
+  stats:
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 32]
+    raig: [24, 68]
+    tyku: [11, 46]
+    luck: [8, 49]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 24
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 150
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
+  graph:
+    boko_n: [64, 214]
+    boko_d: [45, 220]
+    kaisyu_n: [15, 9]
+    kaisyu_d: [58, 13]
+    kaizo_n: [66, 84]
+    kaizo_d: [43, 64]
+    map_n: [85, 187]
+    map_d: [61, 181]
+    ensyuf_n: [63, 165]
+    ensyuf_d: [33, 169]
+    ensyue_n: [69, 0]
+    battle_n: [105, 193]
+    battle_d: [76, 205]
+    wed_a: [258, -12]
+    wed_b: [124, 172]
+  wiki_id: "471"
+  chinese_name: 卷波
+  can_drop: false
+  can_construct: false
+---

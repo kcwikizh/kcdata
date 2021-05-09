@@ -1,13 +1,13 @@
 ---
 layout: json
-order: 411
+order: 412
 data:
-  id: 411
-  sort_no: 411
-  name: 42号対空電探改二
-  type: [5, 8, 13, 11, 0]
+  id: 412
+  sort_no: 412
+  name: 水雷戦隊 熟練見張員
+  type: [16, 27, 39, 32, 0]
   rare: 4
-  broken: [0, 0, 25, 26]
+  broken: [1, 0, 0, 0]
   info: 
   usebull: 0
   cost: 
@@ -16,21 +16,21 @@ data:
     taik: 0
     souk: 0
     houg: 0
-    raig: 0
+    raig: 3
     soku: 0
     baku: 0
-    tyku: 7
+    tyku: 1
     tais: 0
     atap: 0
-    houm: 8
+    houm: 2
     raim: 0
-    houk: -1
+    houk: 3
     raik: 0
     bakk: 0
-    saku: 6
+    saku: 2
     sakb: 0
     luck: 0
-    leng: 0
+    leng: 2
   improvement: 
-  chinese_name: 
+  chinese_name:
 ---

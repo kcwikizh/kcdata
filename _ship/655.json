@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 655
+  sort_no: 455
+  name: Northampton
+  yomi: ノーザンプトン
+  stype: 5
+  ctype: 95
+  cnum: 1
+  backs: 6
+  after_lv: 50
+  after_ship_id: 660
+  get_mes: Nice meeting you.<br>Northampton級一番艦、Northampton、ここに。<br>あなたが Admiral?　ご一緒にまいりましょう！
+  voice_f: 1
+  filename: mfimczjhffyx
+  file_version: ["51", "1", "423"]
+  book_table_id: [655]
+  book_sinfo: ノーザンプトン級重巡洋艦一番艦、ノーザンプトンで<br>す。あのエンタープライズの機動部隊、護衛の中核と<br>して、さらにホーネットの護衛にも就きました。<br>そして、運命のアイアンボトムサウンドへ突入しまし<br>た。鼠輸送を阻止するために。日本の水雷戦隊、あの<br>夜のその力、それは驚異です。
+  stats:
+    taik: [44, 56]
+    souk: [33, 47]
+    houg: [36, 51]
+    raig: [16, 44]
+    tyku: [20, 62]
+    luck: [10, 52]
+    soku: 10
+    leng: 2
+    kaih: 36
+    tais: 0
+    slot_num: 3
+    max_eq: [1, 1, 4, 0, 0]
+    after_fuel: 500
+    after_bull: 440
+    fuel_max: 40
+    bull_max: 60
+    broken: [2, 2, 11, 2]
+    pow_up: [2, 1, 0, 2]
+    build_time: 85
+  graph:
+    boko_n: [-129, 204]
+    boko_d: [43, 247]
+    kaisyu_n: [27, 22]
+    kaisyu_d: [82, 10]
+    kaizo_n: [-112, 85]
+    kaizo_d: [46, 78]
+    map_n: [-79, 177]
+    map_d: [150, 214]
+    ensyuf_n: [-97, 178]
+    ensyuf_d: [148, 184]
+    ensyue_n: [-112, 0]
+    battle_n: [-79, 219]
+    battle_d: [184, 229]
+    wed_a: [454, -18]
+    wed_b: [99, 181]
+  wiki_id: "455"
+  chinese_name: 北安普敦
+  can_drop: false
+  can_construct: false
+---

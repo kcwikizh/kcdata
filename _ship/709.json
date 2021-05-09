@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 709
+  sort_no: 1709
+  name: 巻波改
+  yomi: まきなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: whosqqrxtqvf
+  file_version: ["51", "1", "423"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 53]
+    raig: [28, 81]
+    tyku: [16, 56]
+    luck: [9, 53]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [64, 214]
+    boko_d: [45, 220]
+    kaisyu_n: [15, 9]
+    kaisyu_d: [58, 13]
+    kaizo_n: [66, 84]
+    kaizo_d: [43, 64]
+    map_n: [85, 187]
+    map_d: [61, 181]
+    ensyuf_n: [63, 165]
+    ensyuf_d: [33, 169]
+    ensyue_n: [69, 0]
+    battle_n: [105, 193]
+    battle_d: [76, 205]
+    wed_a: [258, -12]
+    wed_b: [124, 172]
+  wiki_id: "471a"
+  chinese_name: 卷波改
+  can_drop: false
+  can_construct: false
+---

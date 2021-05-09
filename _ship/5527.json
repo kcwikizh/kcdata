@@ -1,7 +1,7 @@
 ---
 layout: json
 data:
-  id: 5522
+  id: 5527
   sort_no: 
   name: 
   yomi: 
@@ -13,7 +13,7 @@ data:
   after_ship_id: 
   get_mes: 
   voice_f: 
-  filename: svlbsjtxvtgs
+  filename: kyilgkjqadiq
   file_version: ["61", "1", "1"]
   book_table_id: 
   book_sinfo: 
@@ -53,8 +53,8 @@ data:
     battle_d: 
     wed_a: 
     wed_b: 
-  wiki_id: 
-  chinese_name: 
+  wiki_id:
+  chinese_name:
   can_drop: false
   can_construct: false
 ---

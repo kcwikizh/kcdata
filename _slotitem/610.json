@@ -1,13 +1,13 @@
 ---
 layout: json
-order: 411
+order: 610
 data:
-  id: 411
-  sort_no: 411
-  name: 42号対空電探改二
-  type: [5, 8, 13, 11, 0]
-  rare: 4
-  broken: [0, 0, 25, 26]
+  id: 610
+  sort_no: 0
+  name: 深海カモメ水偵
+  type: [5, 7, 10, 10, 0]
+  rare: 2
+  broken: [0, 0, 0, 0]
   info: 
   usebull: 0
   cost: 
@@ -19,12 +19,12 @@ data:
     raig: 0
     soku: 0
     baku: 0
-    tyku: 7
-    tais: 0
+    tyku: 0
+    tais: 4
     atap: 0
-    houm: 8
+    houm: 4
     raim: 0
-    houk: -1
+    houk: 3
     raik: 0
     bakk: 0
     saku: 6
@@ -32,5 +32,5 @@ data:
     luck: 0
     leng: 0
   improvement: 
-  chinese_name: 
+  chinese_name:
 ---

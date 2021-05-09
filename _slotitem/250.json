@@ -80,10 +80,6 @@ data:
             ship_id: 439
           -
             ship_id: 364
-          -
-            ship_id: 515
-          -
-            ship_id: 393
         -
           -
             ship_id: 439
@@ -118,9 +114,5 @@ data:
             ship_id: 439
           -
             ship_id: 364
-          -
-            ship_id: 515
-          -
-            ship_id: 393
   chinese_name: 
 ---
