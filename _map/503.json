@@ -1,0 +1,301 @@
+---
+layout: json
+order: 503
+data:
+  id: 503
+  name: タサファロング泊地沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: G
+      to: F
+    7:
+      from: C
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: I
+      to: J
+    11:
+      from: H
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: L
+      to: M
+    14:
+      from: M
+      to: N
+    15:
+      from: E
+      to: G
+    16:
+      from: K
+      to: L
+    17:
+      from: B
+      to: O
+    18:
+      from: B
+      to: O1
+    19:
+      from: D
+      to: O2
+    20:
+      from: O1
+      to: O3
+    21:
+      from: 2
+      to: P
+    22:
+      from: O
+      to: O1
+    23:
+      from: P
+      to: B
+    24:
+      from: null
+      to: 2
+    25:
+      from: G
+      to: Q
+    26:
+      from: Q
+      to: R
+    27:
+      from: Q
+      to: S
+    28:
+      from: R
+      to: T
+    29:
+      from: S
+      to: U
+    30:
+      from: R
+      to: V
+    31:
+      from: U
+      to: W1
+    32:
+      from: V
+      to: W2
+    33:
+      from: U
+      to: W
+    34:
+      from: T
+      to: V
+    35:
+      from: U
+      to: V
+    36:
+      from: V
+      to: W
+    37:
+      from: I
+      to: X
+    38:
+      from: M
+      to: Y
+    39:
+      from: M
+      to: Z
+    40:
+      from: X
+      to: L
+    41:
+      from: X
+      to: M
+  cells:
+    1:
+      name: 
+      type:
+      boss: false
+      routes: [0]
+    2:
+      name: 
+      type:
+      boss: false
+      routes: [24]
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [2, 23]
+    C:
+      name: 深海潜水艦隊 ソロモン北警戒線
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [7, 15]
+    H:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海艦隊 中央哨戒警戒線
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 深海艦隊 鉄底海峡前衛駆逐隊
+      type:
+      boss: false
+      routes: [12, 16, 40]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [13, 41]
+    N:
+      name: 深海艦隊 鉄底海峡任務部隊
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 深海潜水艦隊 ソロモン南警戒線
+      type:
+      boss: false
+      routes: [17]
+    O1:
+      name: 深海潜水艦隊 前方警戒線旗艦
+      type:
+      boss: false
+      routes: [18, 22]
+    O2:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [19]
+    O3:
+      name: 深海艦隊 高速遊撃水雷戦隊
+      type:
+      boss: false
+      routes: [20]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [25]
+    R:
+      name: 深海潜水艦隊 ソロモン増援部隊
+      type:
+      boss: false
+      routes: [26]
+    S:
+      name: 深海艦隊 北側哨戒駆逐隊
+      type:
+      boss: false
+      routes: [27]
+    T:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [28]
+    U:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [29]
+    V:
+      name: 深海艦隊 機動部隊 前衛空母群
+      type:
+      boss: false
+      routes: [30, 34, 35]
+    W1:
+      name: 
+      type:
+      boss: false
+      routes: [31]
+    W2:
+      name: 
+      type:
+      boss: false
+      routes: [32]
+    W:
+      name: 深海任務部隊 空母機動部隊
+      type:
+      boss: false
+      routes: [33, 36]
+    X:
+      name: 深海艦隊 中央北側哨戒駆逐隊
+      type:
+      boss: false
+      routes: [37]
+    Y:
+      name: 
+      type:
+      boss: false
+      routes: [38]
+    Z:
+      name: 深海艦隊 任務部隊 巡洋艦戦隊
+      type:
+      boss: true
+      routes: [39]
+  image: MapHDE-3Spring2021.png
+---

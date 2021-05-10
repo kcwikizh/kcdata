@@ -1,0 +1,288 @@
+---
+layout: json
+order: 502
+data:
+  id: 502
+  name: ソロモン方面/レンネル島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: F
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: 2
+      to: G
+    8:
+      from: D
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: G
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: K
+      to: M
+    14:
+      from: K
+      to: N
+    15:
+      from: N
+      to: O
+    16:
+      from: N
+      to: P
+    17:
+      from: J
+      to: Q
+    18:
+      from: E
+      to: H
+    19:
+      from: I
+      to: J
+    20:
+      from: K
+      to: L
+    21:
+      from: M
+      to: N
+    22:
+      from: O
+      to: P
+    23:
+      from: null
+      to: 2
+    24:
+      from: P
+      to: R
+    25:
+      from: T
+      to: S
+    26:
+      from: P
+      to: T
+    27:
+      from: T
+      to: U
+    28:
+      from: R
+      to: T
+    29:
+      from: 3
+      to: V
+    30:
+      from: V
+      to: W
+    31:
+      from: W
+      to: X
+    32:
+      from: X
+      to: Y
+    33:
+      from: W
+      to: Z
+    34:
+      from: Z
+      to: ZI
+    35:
+      from: ZI
+      to: ZII
+    36:
+      from: 3
+      to: W
+    37:
+      from: Y
+      to: Z
+    38:
+      from: Y
+      to: Q
+    39:
+      from: ZI
+      to: S
+    40:
+      from: null
+      to: 3
+  cells:
+    1:
+      name: 
+      type:
+      boss: false
+      routes: [0]
+    2:
+      name: 
+      type:
+      boss: false
+      routes: [23]
+    3:
+      name: 
+      type:
+      boss: false
+      routes: [40]
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海艦隊 前方展開警戒部隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海艦隊 泊地待伏部隊
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海艦隊 東京急行阻止線
+      type:
+      boss: false
+      routes: [8, 18]
+    I:
+      name: 深海艦隊 東京急行阻止増援部隊
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10, 19]
+    K:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12, 20]
+    M:
+      name: 深海潜水艦隊 ソロモン哨戒線 I群
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [14, 21]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 深海艦隊 機動部隊 前衛空母群
+      type:
+      boss: false
+      routes: [16, 22]
+    Q:
+      name: 深海艦隊 東京急行阻止主力部隊
+      type:
+      boss: false
+      routes: [17, 38]
+    R:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [24]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [25, 39]
+    T:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [26, 28]
+    U:
+      name: 深海艦隊 任務部隊 巡洋艦戦隊
+      type:
+      boss: false
+      routes: [27]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [29]
+    W:
+      name: 深海艦隊 前衛重巡戦隊
+      type:
+      boss: false
+      routes: [30, 36]
+    X:
+      name: 深海艦隊 ソロモン南方任務部隊
+      type:
+      boss: false
+      routes: [31]
+    Y:
+      name: 
+      type:
+      boss: false
+      routes: [32]
+    Z:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [33, 37]
+    ZI:
+      name: 深海艦隊 機動部隊外周護衛部隊
+      type:
+      boss: false
+      routes: [34]
+    ZII:
+      name: 深海艦隊 機動部隊 旗艦空母
+      type:
+      boss: true
+      routes: [35]
+  image: MapHDE-2Spring2021.png
+---
