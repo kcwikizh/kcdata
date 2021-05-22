@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 711
+  sort_no: 1711
+  name: Honolulu改
+  yomi: ホノルル
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: sjvsrzriyhvb
+  file_version: ["51", "1", "423"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [53, 67]
+    souk: [26, 67]
+    houg: [34, 77]
+    raig: [0, 40]
+    tyku: [36, 80]
+    luck: [27, 87]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [0, 0, 2, 4, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 35
+    bull_max: 60
+    broken: [4, 7, 17, 2]
+    pow_up: [2, 0, 2, 2]
+    build_time: 70
+  graph:
+    boko_n: [49, 211]
+    boko_d: [169, 271]
+    kaisyu_n: [40, 1]
+    kaisyu_d: [73, 22]
+    kaizo_n: [46, 88]
+    kaizo_d: [177, 87]
+    map_n: [97, 187]
+    map_d: [217, 214]
+    ensyuf_n: [64, 180]
+    ensyuf_d: [205, 187]
+    ensyue_n: [49, 0]
+    battle_n: [112, 211]
+    battle_d: [246, 232]
+    wed_a: [301, -16]
+    wed_b: [109, 180]
+  wiki_id: "398a"
+  chinese_name: 火奴鲁鲁改
+  can_drop: false
+  can_construct: false
+---

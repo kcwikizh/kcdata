@@ -55,6 +55,6 @@ data:
     wed_b: [139, 154]
   wiki_id: "057"
   chinese_name: 足柄
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---

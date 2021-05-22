@@ -55,6 +55,6 @@ data:
     wed_b: [118, 136]
   wiki_id: "403"
   chinese_name: 大黄蜂
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

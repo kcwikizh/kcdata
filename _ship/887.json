@@ -6,8 +6,8 @@ data:
   name: 伊203改
   yomi: い203
   stype: 13
-  ctype: 
-  cnum: 
+  ctype: 109
+  cnum: 3
   backs: 7
   after_lv: 
   after_ship_id: 
@@ -15,8 +15,8 @@ data:
   voice_f: 3
   filename: mobumsgesgim
   file_version: ["52", "1", "423"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [887]
+  book_sinfo: 水中での圧倒的な機動性を追求した、伊号潜水艦の新<br>型高速潜水艦、伊２０１型潜水艦の三番艦、伊２０３<br>です。<br>実戦には出ませんでしたが、出撃準備は完了していま<br>す。提督、よろしく。私、水中で本当に速いから。<br>見てて。
   stats:
     taik: [13, 23]
     souk: [4, 18]
@@ -26,8 +26,8 @@ data:
     luck: [24, 88]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 44
+    tais: 0
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 

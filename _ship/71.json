@@ -55,6 +55,6 @@ data:
     wed_b: [141, 159]
   wiki_id: "063"
   chinese_name: 利根
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---

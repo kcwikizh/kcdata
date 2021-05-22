@@ -55,6 +55,6 @@ data:
     wed_b: [127, 169]
   wiki_id: "381"
   chinese_name: 日进
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

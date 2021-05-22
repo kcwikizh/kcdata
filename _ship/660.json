@@ -6,8 +6,8 @@ data:
   name: Northampton改
   yomi: ノーザンプトン
   stype: 5
-  ctype: 
-  cnum: 
+  ctype: 95
+  cnum: 1
   backs: 7
   after_lv: 
   after_ship_id: 
@@ -15,8 +15,8 @@ data:
   voice_f: 3
   filename: bqgttvoywrwz
   file_version: ["51", "1", "423"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [660]
+  book_sinfo: ノーザンプトン級重巡洋艦一番艦、ノーザンプトンで<br>す。あのエンタープライズの機動部隊、護衛の中核と<br>して、さらにホーネットの護衛にも就きました。<br>そして、運命のアイアンボトムサウンドへ突入しまし<br>た。鼠輸送を阻止するために。日本の水雷戦隊、あの<br>夜のその力、それは驚異です。
   stats:
     taik: [55, 67]
     souk: [40, 73]
@@ -26,8 +26,8 @@ data:
     luck: [12, 59]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 34
+    tais: 0
     slot_num: 4
     max_eq: [1, 1, 1, 4, 0]
     after_fuel: 

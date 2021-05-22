@@ -55,6 +55,6 @@ data:
     wed_b: [165, 145]
   wiki_id: "396"
   chinese_name: 弗莱彻
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

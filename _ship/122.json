@@ -55,6 +55,6 @@ data:
     wed_b: [204, 208]
   wiki_id: "119"
   chinese_name: 舞风
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---
