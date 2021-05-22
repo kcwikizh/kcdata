@@ -1,0 +1,353 @@
+---
+layout: json
+order: 505
+data:
+  id: 505
+  name: アイアンボトムサウンド
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: H
+      to: J1
+    11:
+      from: J1
+      to: J2
+    12:
+      from: J1
+      to: J
+    13:
+      from: C
+      to: D
+    14:
+      from: F
+      to: G
+    15:
+      from: I
+      to: J1
+    16:
+      from: 2
+      to: K
+    17:
+      from: K
+      to: L
+    18:
+      from: L
+      to: M
+    19:
+      from: M
+      to: N
+    20:
+      from: N
+      to: O
+    21:
+      from: S
+      to: P
+    22:
+      from: M
+      to: Q
+    23:
+      from: M
+      to: R
+    24:
+      from: O
+      to: S
+    25:
+      from: R
+      to: T
+    26:
+      from: Q
+      to: U1
+    27:
+      from: T
+      to: U2
+    28:
+      from: U1
+      to: U3
+    29:
+      from: U2
+      to: U
+    30:
+      from: U1
+      to: V1
+    31:
+      from: U1
+      to: V2
+    32:
+      from: S
+      to: V
+    33:
+      from: 2
+      to: L
+    34:
+      from: B
+      to: O
+    35:
+      from: Q
+      to: R
+    36:
+      from: U1
+      to: T
+    37:
+      from: R
+      to: U1
+    38:
+      from: U1
+      to: U2
+    39:
+      from: U2
+      to: U3
+    40:
+      from: V1
+      to: V
+    41:
+      from: V2
+      to: V
+    42:
+      from: L
+      to: B
+    43:
+      from: null
+      to: 2
+    44:
+      from: C
+      to: W
+    45:
+      from: W
+      to: X
+    46:
+      from: X
+      to: Y
+    47:
+      from: W
+      to: P
+    48:
+      from: 3
+      to: A
+    49:
+      from: 3
+      to: B
+    50:
+      from: null
+      to: 3
+    51:
+      from: X
+      to: Z1
+    52:
+      from: Z1
+      to: Z2
+    53:
+      from: Y
+      to: Z
+    54:
+      from: Z2
+      to: Z
+    55:
+      from: Y
+      to: Z1
+  cells:
+    A:
+      name: ショートランド泊地沖 深海哨戒A線
+      type:
+      boss: false
+      routes: [1, 48]
+    B:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [2, 42, 49]
+    C:
+      name: ショートランド泊地沖 深海哨戒C線
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海艦隊 ソロモン南方哨戒部隊
+      type:
+      boss: false
+      routes: [4, 13]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海艦隊 ソロモン南部警備部隊
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [7, 14]
+    H:
+      name: 深海艦隊 支援護衛空母群 I群
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 深海艦隊 ソロモン東部警備部隊
+      type:
+      boss: false
+      routes: [9]
+    J1:
+      name: 
+      type:
+      boss: false
+      routes: [10, 15]
+    J2:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    J:
+      name: 深海艦隊 ソロモン兵站輸送部隊
+      type:
+      boss: false
+      routes: [12]
+    K:
+      name: 深海潜水艦隊 前進襲撃群狼集団
+      type:
+      boss: false
+      routes: [16]
+    L:
+      name: ショートランド泊地沖 深海哨戒B線
+      type:
+      boss: false
+      routes: [17, 33]
+    M:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [18]
+    N:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [19]
+    O:
+      name: 深海艦隊 ソロモン北側哨戒部隊
+      type:
+      boss: false
+      routes: [20, 34]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [21, 47]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [22]
+    R:
+      name: 深海機動部隊 前衛警戒潜水艦
+      type:
+      boss: false
+      routes: [23, 35]
+    S:
+      name: 深海任務部隊 巡洋艦戦隊B集団
+      type:
+      boss: false
+      routes: [24]
+    T:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [25, 36]
+    U1:
+      name: 深海任務部隊 巡洋艦戦隊A集団
+      type:
+      boss: false
+      routes: [26, 37]
+    U2:
+      name: 深海任務部隊 増援前衛集団
+      type:
+      boss: false
+      routes: [27, 38]
+    U3:
+      name: 
+      type:
+      boss: false
+      routes: [28, 39]
+    U:
+      name: 深海任務部隊 増援主力集団
+      type:
+      boss: false
+      routes: [29]
+    V1:
+      name: 深海艦隊 支援護衛空母群 II群
+      type:
+      boss: false
+      routes: [30]
+    V2:
+      name: 
+      type:
+      boss: false
+      routes: [31]
+    V:
+      name: 深海任務部隊 中央水上打撃群
+      type:
+      boss: false
+      routes: [32, 40, 41]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [44]
+    X:
+      name: 深海艦隊 ソロモン中央警備部隊
+      type:
+      boss: false
+      routes: [45]
+    Y:
+      name: 深海艦隊 沈没水上機母艦
+      type:
+      boss: false
+      routes: [46]
+    Z1:
+      name: 深海任務部隊 鉄底海峡重巡戦隊
+      type:
+      boss: false
+      routes: [51, 55]
+    Z2:
+      name: 
+      type:
+      boss: false
+      routes: [52]
+    Z:
+      name: 深海艦隊 鉄底海峡 任務部隊旗艦
+      type:
+      boss: true
+      routes: [53, 54]
+  image: MapHDE-5Spring2021.png
+---

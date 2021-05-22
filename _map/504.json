@@ -1,0 +1,433 @@
+---
+layout: json
+order: 504
+data:
+  id: 504
+  name: ラバウル沖/ビスマルク諸島沖/ソロモン諸島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: D
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: I
+      to: J
+    11:
+      from: I
+      to: K
+    12:
+      from: I
+      to: L
+    13:
+      from: A
+      to: B
+    14:
+      from: C
+      to: D
+    15:
+      from: J
+      to: L
+    16:
+      from: K
+      to: L
+    17:
+      from: 3
+      to: M
+    18:
+      from: M
+      to: N
+    19:
+      from: M
+      to: O
+    20:
+      from: N
+      to: P
+    21:
+      from: Q1
+      to: Q2
+    22:
+      from: Q
+      to: Q1
+    23:
+      from: 2
+      to: Q
+    24:
+      from: Q2
+      to: S
+    25:
+      from: Q2
+      to: R
+    26:
+      from: 2
+      to: R1
+    27:
+      from: S
+      to: T
+    28:
+      from: T
+      to: V3
+    29:
+      from: T
+      to: U
+    30:
+      from: U
+      to: V1
+    31:
+      from: V1
+      to: V2
+    32:
+      from: V1
+      to: V
+    33:
+      from: N
+      to: O
+    34:
+      from: P
+      to: O
+    35:
+      from: Q
+      to: Q2
+    36:
+      from: R
+      to: S
+    37:
+      from: Q
+      to: R
+    38:
+      from: R1
+      to: R
+    39:
+      from: null
+      to: 2
+    40:
+      from: null
+      to: 3
+    41:
+      from: V3
+      to: W1
+    42:
+      from: V3
+      to: W2
+    43:
+      from: V3
+      to: W
+    44:
+      from: X2
+      to: X1
+    45:
+      from: E
+      to: X2
+    46:
+      from: X2
+      to: X3
+    47:
+      from: X2
+      to: X
+    48:
+      from: W1
+      to: W
+    49:
+      from: X3
+      to: X
+    50:
+      from: F
+      to: Y1
+    51:
+      from: H
+      to: Y2
+    52:
+      from: Y1
+      to: Y3
+    53:
+      from: Y2
+      to: Y4
+    54:
+      from: Y2
+      to: Y5
+    55:
+      from: Y2
+      to: Y
+    56:
+      from: Y1
+      to: Y2
+    57:
+      from: Y5
+      to: Y
+    58:
+      from: Y1
+      to: H
+    59:
+      from: O
+      to: Z1
+    60:
+      from: Z1
+      to: Z2
+    61:
+      from: Z2
+      to: Z3
+    62:
+      from: Z2
+      to: Z
+    63:
+      from: P
+      to: Z1
+    64:
+      from: J
+      to: Z
+    65:
+      from: Z2
+      to: J
+  cells:
+    A:
+      name: 深海任務部隊 海月空母艦載機群
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: ショートランド沖 深海前方哨戒線
+      type:
+      boss: false
+      routes: [2, 13]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海任務部隊 海月空母艦載機群
+      type:
+      boss: false
+      routes: [4, 14]
+    E:
+      name: ショートランド泊地沖 深海哨戒線
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海任務部隊 海月空母艦載機群
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海任務部隊 機動部隊先遣集団
+      type:
+      boss: false
+      routes: [8, 58]
+    I:
+      name: 深海艦隊 鉄底海峡前衛哨戒部隊
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10, 65]
+    K:
+      name: 深海艦隊 鉄底海峡警備任務部隊
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 深海任務部隊 空母機動部隊
+      type:
+      boss: false
+      routes: [12, 15, 16]
+    M:
+      name: 深海潜水艦隊 ソロモン海哨戒線
+      type:
+      boss: false
+      routes: [17]
+    N:
+      name: 深海艦隊 水上打撃部隊 第II集団
+      type:
+      boss: false
+      routes: [18]
+    O:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [19, 33, 34]
+    P:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [20]
+    Q2:
+      name: 深海ニューギニア方面 基地航空隊
+      type:
+      boss: false
+      routes: [21, 35]
+    Q1:
+      name: 
+      type:
+      boss: false
+      routes: [22]
+    Q:
+      name: ビスマルク海 深海哨戒線 A群
+      type:
+      boss: false
+      routes: [23]
+    S:
+      name: 深海ニューギニア方面 基地航空隊
+      type:
+      boss: false
+      routes: [24, 36]
+    R:
+      name: 深海艦隊 ビスマルク海方面部隊
+      type:
+      boss: false
+      routes: [25, 37, 38]
+    R1:
+      name: 
+      type:
+      boss: false
+      routes: [26]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    V3:
+      name: 深海艦隊 ビスマルク海 軽空母群
+      type:
+      boss: false
+      routes: [28]
+    U:
+      name: 深海ニューギニア方面 基地航空隊
+      type:
+      boss: false
+      routes: [29]
+    V1:
+      name: 
+      type:
+      boss: false
+      routes: [30]
+    V2:
+      name: 
+      type:
+      boss: false
+      routes: [31]
+    V:
+      name: 深海艦隊 ビスマルク海方面旗艦
+      type:
+      boss: false
+      routes: [32]
+    W1:
+      name: 
+      type:
+      boss: false
+      routes: [41]
+    W2:
+      name: 
+      type:
+      boss: false
+      routes: [42]
+    W:
+      name: 深海艦隊 ビスマルク海方面拠点
+      type:
+      boss: false
+      routes: [43, 48]
+    X1:
+      name: 
+      type:
+      boss: false
+      routes: [44]
+    X2:
+      name: 深海艦隊 水雷戦隊 B集団
+      type:
+      boss: false
+      routes: [45]
+    X3:
+      name: 深海ソロモン方面 基地航空隊
+      type:
+      boss: false
+      routes: [46]
+    X:
+      name: 深海艦隊 水雷戦隊 A集団
+      type:
+      boss: false
+      routes: [47, 49]
+    Y1:
+      name: 深海任務部隊 前衛警戒群
+      type:
+      boss: false
+      routes: [50]
+    Y2:
+      name: 深海任務部隊 機動部隊前衛集団
+      type:
+      boss: false
+      routes: [51, 56]
+    Y3:
+      name: 
+      type:
+      boss: false
+      routes: [52]
+    Y4:
+      name: 
+      type:
+      boss: false
+      routes: [53]
+    Y5:
+      name: 深海任務部隊 随伴補給艦集団
+      type:
+      boss: false
+      routes: [54]
+    Y:
+      name: 深海任務部隊 海月空母機動部隊
+      type:
+      boss: false
+      routes: [55, 57]
+    Z1:
+      name: 深海艦隊 増援部隊 先遣警戒群
+      type:
+      boss: false
+      routes: [59, 63]
+    Z2:
+      name: 深海艦隊 増援部隊 前衛集団
+      type:
+      boss: false
+      routes: [60]
+    Z3:
+      name: 
+      type:
+      boss: false
+      routes: [61]
+    Z:
+      name: 深海艦隊 増援部隊 旗艦集団
+      type:
+      boss: true
+      routes: [62, 64]
+  image: MapHDE-4Spring2021.png
+---
