@@ -54,7 +54,7 @@ data:
     wed_a: [168, 36]
     wed_b: [144, 156]
   wiki_id: "255"
-  chinese_name: 萩风‎
+  chinese_name: 萩风
   can_drop: true
   can_construct: false
 ---
