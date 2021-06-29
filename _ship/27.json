@@ -14,7 +14,7 @@ data:
   get_mes: 扶桑型戦艦姉妹、妹のほう、山城です。<br>あの、扶桑姉さま、見ませんでした？
   voice_f: 0
   filename: dyurkaeenkdh
-  file_version: ["41", "21", "423"]
+  file_version: ["41", "21", "622"]
   book_table_id: [27, 287, 978, 876, 862, 804]
   book_sinfo: 扶桑型戦艦２番艦、山城です。<br>「欠陥戦艦」とか「艦隊にいる方が珍しい」とか、いいたい放題ね…。<br>でも、いいの。最後の時も、扶桑姉さまと一緒に戦えれば……
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: お姉ちゃん、司令、お疲れさまぁ！<br>夕雲型十二番艦、早波、参りました！
   voice_f: 1
   filename: kflfismselum
-  file_version: ["61", "7", "423"]
+  file_version: ["62", "7", "622"]
   book_table_id: [528, 5387, 5399, 5425]
   book_sinfo: あたし、夕雲型駆逐艦、その十二番艦、早波。そうで<br>す、藤波お姉ちゃんの妹です。第二水雷戦隊の一翼と<br>して、護衛や哨戒はもちろん、輸送作戦だって頑張り<br>ました。え…タウイ？対潜哨戒？　ううん、今度は負<br>けないもン！お姉ちゃん、司令、見てて！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [22, 201]
-    boko_d: [150, 205]
+    boko_n: [102, 198]
+    boko_d: [114, 199]
     kaisyu_n: [-1, -9]
     kaisyu_d: [75, -9]
-    kaizo_n: [22, 73]
-    kaizo_d: [120, 45]
-    map_n: [51, 163]
-    map_d: [183, 166]
-    ensyuf_n: [25, 150]
-    ensyuf_d: [177, 142]
-    ensyue_n: [10, 0]
-    battle_n: [69, 184]
-    battle_d: [181, 186]
-    wed_a: [288, 10]
-    wed_b: [115, 162]
+    kaizo_n: [90, 64]
+    kaizo_d: [81, 43]
+    map_n: [109, 145]
+    map_d: [112, 147]
+    ensyuf_n: [114, 166]
+    ensyuf_d: [100, 166]
+    ensyue_n: [123, 0]
+    battle_n: [112, 187]
+    battle_d: [117, 186]
+    wed_a: [226, 10]
+    wed_b: [175, 147]
   wiki_id: "328"
   chinese_name: 早波
   can_drop: true

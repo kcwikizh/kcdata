@@ -58,6 +58,22 @@ data:
             id: 9
             amount: 3
       upgrade:
+        id: 128
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [26, 51]
+            -
+              id: 4
+              amount: [13, 17]
+            -
+              id: 75
+              amount: 3
+          slotitem:
+            id: 9
+            amount: 6
       day:
         -
           -

@@ -6,17 +6,17 @@ data:
   name: 宗谷
   yomi: そうや
   stype: 22
-  ctype: 
-  cnum: 
+  ctype: 111
+  cnum: 1
   backs: 7
   after_lv: 60
   after_ship_id: 699
   get_mes: <br>
   voice_f: 1
   filename: mocupknxdhri
-  file_version: ["51", "1", "423"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["52", "1", "622"]
+  book_table_id: [650]
+  book_sinfo: 耐氷型貨物船として生まれた宗谷です。海軍特務艦と<br>して、MI作戦などの様々な作戦に参加、激戦のソロ<br>モン方面へも展開。測量や揚陸、輸送などの任務に就<br>きました。戦後は、皆さんの旗艦、そして灯台補給<br>船。さらに大改装され、南極観測船として、昭和とい<br>う時代と、その海を駆け抜けました。
   stats:
     taik: [26, 38]
     souk: [15, 62]
@@ -26,8 +26,8 @@ data:
     luck: [77, 155]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 27
+    tais: 0
     slot_num: 3
     max_eq: [1, 2, 3, 0, 0]
     after_fuel: 280
@@ -38,23 +38,23 @@ data:
     pow_up: [0, 0, 0, 3]
     build_time: 60
   graph:
-    boko_n: [115, 216]
-    boko_d: [147, 222]
+    boko_n: [112, 202]
+    boko_d: [112, 202]
     kaisyu_n: [30, 16]
     kaisyu_d: [49, 15]
-    kaizo_n: [109, 97]
-    kaizo_d: [106, 79]
-    map_n: [115, 195]
-    map_d: [153, 205]
-    ensyuf_n: [124, 189]
-    ensyuf_d: [154, 186]
-    ensyue_n: [118, 0]
-    battle_n: [145, 220]
-    battle_d: [157, 222]
-    wed_a: [217, -25]
-    wed_b: [145, 166]
+    kaizo_n: [100, 79]
+    kaizo_d: [85, 45]
+    map_n: [115, 181]
+    map_d: [115, 181]
+    ensyuf_n: [120, 175]
+    ensyuf_d: [120, 175]
+    ensyue_n: [105, 0]
+    battle_n: [145, 208]
+    battle_d: [145, 208]
+    wed_a: [223, -7]
+    wed_b: [112, 156]
   wiki_id: "450"
   chinese_name: 宗谷
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

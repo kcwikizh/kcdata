@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: xomrbwrvjwfv
-  file_version: ["25", "3", "423"]
+  file_version: ["26", "3", "622"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [-36, 162]
-    boko_d: [48, 240]
+    boko_n: [162, 204]
+    boko_d: [162, 204]
     kaisyu_n: [0, 0]
     kaisyu_d: [36, -12]
-    kaizo_n: [-84, 108]
-    kaizo_d: [-24, 84]
-    map_n: [-48, 144]
-    map_d: [12, 216]
-    ensyuf_n: [-36, 138]
-    ensyuf_d: [36, 192]
-    ensyue_n: [-72, 0]
-    battle_n: [-24, 144]
-    battle_d: [48, 216]
-    wed_a: [384, 72]
-    wed_b: [180, 168]
+    kaizo_n: [60, 114]
+    kaizo_d: [48, 81]
+    map_n: [90, 150]
+    map_d: [90, 150]
+    ensyuf_n: [90, 156]
+    ensyuf_d: [90, 156]
+    ensyue_n: [72, 0]
+    battle_n: [108, 180]
+    battle_d: [108, 180]
+    wed_a: [234, 42]
+    wed_b: [153, 168]
   wiki_id: "210a"
   chinese_name: 清霜改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: mobumsgesgim
-  file_version: ["52", "1", "423"]
+  file_version: ["53", "1", "622"]
   book_table_id: [887]
   book_sinfo: 水中での圧倒的な機動性を追求した、伊号潜水艦の新<br>型高速潜水艦、伊２０１型潜水艦の三番艦、伊２０３<br>です。<br>実戦には出ませんでしたが、出撃準備は完了していま<br>す。提督、よろしく。私、水中で本当に速いから。<br>見てて。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [43, 241]
-    boko_d: [49, 274]
+    boko_n: [166, 240]
+    boko_d: [81, 241]
     kaisyu_n: [13, 1]
     kaisyu_d: [55, 15]
-    kaizo_n: [54, 106]
-    kaizo_d: [58, 91]
-    map_n: [72, 211]
-    map_d: [109, 226]
-    ensyuf_n: [64, 183]
-    ensyuf_d: [102, 204]
-    ensyue_n: [69, 0]
-    battle_n: [124, 222]
-    battle_d: [153, 238]
-    wed_a: [262, -16]
-    wed_b: [112, 181]
+    kaizo_n: [156, 97]
+    kaizo_d: [97, 64]
+    map_n: [162, 189]
+    map_d: [102, 189]
+    ensyuf_n: [154, 190]
+    ensyuf_d: [109, 190]
+    ensyue_n: [159, 0]
+    battle_n: [217, 213]
+    battle_d: [144, 214]
+    wed_a: [154, -27]
+    wed_b: [130, 174]
   wiki_id: "487"
   chinese_name: 伊203改
   can_drop: false

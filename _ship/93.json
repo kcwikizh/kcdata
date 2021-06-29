@@ -14,7 +14,7 @@ data:
   get_mes: アタシ、綾波型駆逐艦「朧」。<br>誰にも負けない…たぶん……
   voice_f: 0
   filename: jqexjuembtvh
-  file_version: ["51", "32", "423"]
+  file_version: ["52", "32", "622"]
   book_table_id: [93, 230, 5193, 5207, 5142, 5143, 5089, 5307, 5352, 5436, 5442, 5502]
   book_sinfo: 綾波型駆逐艦７番艦の朧です。<br>佐世保の海軍工廠生まれです。南方進攻作戦などに参<br>加しました。熱いところの海の方がいいな。<br>キス…か？じゃなくって、寒いキスカ島は…あまり近<br>づきたくない…かな。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [99, 199]
-    boko_d: [99, 199]
+    boko_n: [166, 223]
+    boko_d: [144, 247]
     kaisyu_n: [36, -7]
     kaisyu_d: [60, 7]
-    kaizo_n: [79, 70]
-    kaizo_d: [64, 34]
-    map_n: [112, 174]
-    map_d: [112, 174]
-    ensyuf_n: [94, 154]
-    ensyuf_d: [94, 154]
-    ensyue_n: [97, 0]
-    battle_n: [114, 190]
-    battle_d: [114, 190]
-    wed_a: [226, -3]
-    wed_b: [133, 181]
+    kaizo_n: [142, 88]
+    kaizo_d: [127, 61]
+    map_n: [132, 195]
+    map_d: [147, 196]
+    ensyuf_n: [138, 181]
+    ensyuf_d: [130, 189]
+    ensyue_n: [133, 0]
+    battle_n: [168, 217]
+    battle_d: [199, 216]
+    wed_a: [184, -25]
+    wed_b: [115, 180]
   wiki_id: "067"
   chinese_name: 胧
   can_drop: true

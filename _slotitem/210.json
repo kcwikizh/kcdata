@@ -58,6 +58,22 @@ data:
             id: 129
             amount: 1
       upgrade:
+        id: 211
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [48, 60]
+            -
+              id: 4
+              amount: [10, 15]
+            -
+              id: 94
+              amount: 1
+          slotitem:
+            id: 106
+            amount: 3
       day:
         - false
         -
@@ -75,6 +91,8 @@ data:
             ship_id: 155
           -
             ship_id: 403
+          -
+            ship_id: 400
         -
           -
             ship_id: 155
