@@ -53,8 +53,8 @@ data:
     battle_d: [190, 177]
     wed_a: [289, -1]
     wed_b: [126, 168]
-  wiki_id:
-  chinese_name:
+  wiki_id: "458"
+  chinese_name: 甘比尔湾Mk.II
   can_drop: false
   can_construct: false
 ---
