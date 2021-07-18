@@ -72,20 +72,58 @@ data:
             id: 198
             amount: 1
       day:
-        - false
+        -
+          -
+            ship_id: 433
+          -
+            ship_id: 438
+          -
+            ship_id: 545
+          -
+            ship_id: 550
         -
           -
             ship_id: 704
+          -
+            ship_id: 433
+          -
+            ship_id: 438
+          -
+            ship_id: 545
+          -
+            ship_id: 550
         -
           -
             ship_id: 704
+          -
+            ship_id: 433
         -
           -
             ship_id: 704
+          -
+            ship_id: 433
         -
           -
             ship_id: 704
-        - false
-        - false
+          -
+            ship_id: 433
+        -
+          -
+            ship_id: 433
+          -
+            ship_id: 438
+          -
+            ship_id: 545
+          -
+            ship_id: 550
+        -
+          -
+            ship_id: 433
+          -
+            ship_id: 438
+          -
+            ship_id: 545
+          -
+            ship_id: 550
   chinese_name: SBD
 ---

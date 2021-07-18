@@ -84,12 +84,16 @@ data:
         -
           -
             ship_id: 136
+          -
+            ship_id: 546
         -
           -
             ship_id: 148
           -
             ship_id: 546
-        - false
+        -
+          -
+            ship_id: 546
         - false
         - false
   chinese_name: 试制51cm连装炮

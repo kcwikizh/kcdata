@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: jhjyjljmfxma
-  file_version: ["55", "2", "622"]
+  file_version: ["56", "2", "715"]
   book_table_id: [629, 5458]
   book_sinfo: 最も成功し、量産された駆逐艦、そのネームシップ<br>が私、Fletcher class destroyer USS Fletcherです。<br>姉妹の数は170隻を超えているの。まさにデファクト<br>スタンダード。<br>後に海上自衛隊にも配備されました。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 3, 1]
     build_time: 23
   graph:
-    boko_n: [60, 211]
-    boko_d: [136, 292]
+    boko_n: [76, 210]
+    boko_d: [73, 232]
     kaisyu_n: [34, 7]
     kaisyu_d: [73, -33]
-    kaizo_n: [45, 90]
-    kaizo_d: [117, 139]
-    map_n: [55, 190]
-    map_d: [141, 211]
-    ensyuf_n: [82, 177]
-    ensyuf_d: [166, 187]
-    ensyue_n: [70, 0]
-    battle_n: [115, 195]
-    battle_d: [204, 229]
-    wed_a: [259, -7]
-    wed_b: [129, 159]
+    kaizo_n: [69, 87]
+    kaizo_d: [58, 52]
+    map_n: [114, 184]
+    map_d: [136, 181]
+    ensyuf_n: [84, 165]
+    ensyuf_d: [109, 163]
+    ensyue_n: [81, 0]
+    battle_n: [126, 199]
+    battle_d: [139, 205]
+    wed_a: [246, -10]
+    wed_b: [124, 166]
   wiki_id: "429"
   chinese_name: 弗莱彻 Mk.II
   can_drop: false

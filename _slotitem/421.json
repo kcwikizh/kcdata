@@ -1,0 +1,36 @@
+---
+layout: json
+order: 421
+data:
+  id: 421
+  sort_no: 421
+  name: SB2C-5
+  type: [3, 5, 7, 7, 21]
+  rare: 5
+  broken: [3, 5, 0, 7]
+  info: 
+  usebull: 0
+  cost: 7
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 12
+    tyku: 2
+    tais: 6
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

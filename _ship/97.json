@@ -14,7 +14,7 @@ data:
   get_mes: 満潮よ。<br>私、なんでこんな部隊に配属されたのかしら。
   voice_f: 0
   filename: fhpgicaysllm
-  file_version: ["17", "19", "622"]
+  file_version: ["17", "19", "715"]
   book_table_id: [97, 1073]
   book_sinfo: 駆逐艦、満潮よ。<br>姉妹艦の朝潮、大潮、荒潮とは第８駆逐隊で腐れ縁の<br>仲。でも、最後は離れ離れ。<br>私は西村艦隊の一員として、レイテに突入を図った<br>わ。
   stats:

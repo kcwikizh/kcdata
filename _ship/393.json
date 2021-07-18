@@ -14,13 +14,13 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ncarbwthwrrx
-  file_version: ["2", "6", "622"]
+  file_version: ["2", "6", "715"]
   book_table_id: 
   book_sinfo: 
   stats:
     taik: [71, 90]
     souk: [28, 70]
-    houg: [0, 50]
+    houg: [0, 51]
     raig: [0, 0]
     tyku: [36, 82]
     luck: [13, 68]
@@ -29,7 +29,7 @@ data:
     kaih: 
     tais: 
     slot_num: 4
-    max_eq: [24, 30, 12, 12, 0]
+    max_eq: [24, 32, 12, 12, 0]
     after_fuel: 
     after_bull: 
     fuel_max: 65

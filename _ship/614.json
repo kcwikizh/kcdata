@@ -14,7 +14,7 @@ data:
   get_mes: Buongiorno！<br>あたしがマエストラーレ級駆逐艦、次女のグレカーレ！<br>テートク、あたしも可愛がってよね？　あ、かーわいっ♪
   voice_f: 1
   filename: rfpvmivqupsf
-  file_version: ["61", "3", "622"]
+  file_version: ["62", "3", "715"]
   book_table_id: [614, 5413, 5429, 5467]
   book_sinfo: イタリア海軍マエストラーレ級駆逐艦の次女、グレカ<br>ーレよ。なーに、あんまりジロジロみないでよ。姉妹<br>たちとの第10駆逐隊で結構頑張ったのよ。みんな、<br>逝ってしまったけれど、あたしは戦い抜けた。そし<br>て、戦いの後も海の護りについたの。主武装を撤去し<br>た司令艦として。覚えておいて。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 23
   graph:
-    boko_n: [-28, 193]
-    boko_d: [10, 300]
+    boko_n: [54, 235]
+    boko_d: [163, 267]
     kaisyu_n: [1, -21]
     kaisyu_d: [33, -49]
-    kaizo_n: [-31, 58]
-    kaizo_d: [24, 82]
-    map_n: [13, 129]
-    map_d: [108, 202]
-    ensyuf_n: [-43, 111]
-    ensyuf_d: [55, 196]
-    ensyue_n: [-75, 0]
-    battle_n: [-22, 136]
-    battle_d: [102, 222]
-    wed_a: [400, 33]
-    wed_b: [184, 196]
+    kaizo_n: [52, 91]
+    kaizo_d: [136, 34]
+    map_n: [93, 171]
+    map_d: [241, 187]
+    ensyuf_n: [79, 172]
+    ensyuf_d: [243, 160]
+    ensyue_n: [67, 0]
+    battle_n: [120, 211]
+    battle_d: [271, 183]
+    wed_a: [268, -15]
+    wed_b: [132, 199]
   wiki_id: "414"
   chinese_name: 东北风
   can_drop: false

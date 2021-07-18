@@ -86,11 +86,8 @@ data:
             ship_id: 155
           -
             ship_id: 403
-        -
           -
-            ship_id: 155
-          -
-            ship_id: 403
+            ship_id: 128
           -
             ship_id: 400
         -
@@ -98,7 +95,24 @@ data:
             ship_id: 155
           -
             ship_id: 403
-        - false
+          -
+            ship_id: 128
+          -
+            ship_id: 400
+        -
+          -
+            ship_id: 155
+          -
+            ship_id: 403
+          -
+            ship_id: 128
+          -
+            ship_id: 400
+        -
+          -
+            ship_id: 128
+          -
+            ship_id: 400
         - false
   chinese_name: 潜水艇搭载电探&防水式望远镜
 ---

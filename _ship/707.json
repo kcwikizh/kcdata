@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 707
+  sort_no: 458
+  name: Gambier Bay Mk.II
+  yomi: ガンビア・ベイ
+  stype: 7
+  ctype: 83
+  cnum: 19
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: ※
+  voice_f: 1
+  filename: mloskuljwgtb
+  file_version: ["52", "1", "715"]
+  book_table_id: [707]
+  book_sinfo: It’s　a pleasure to meet you. 　　私、護衛空母<br>Gambier Bayです。ジープ空母とも呼ばれた量産型<br>護衛空母姉妹の一隻です。レイテ沖海戦では日本海軍<br>主力の栗田艦隊と遭遇、有視界水上戦での戦いとなり<br>ました。でも私、できるだけの事、頑張ったんです！<br>Gambier Bayの名前、きっと覚えてくださいね。
+  stats:
+    taik: [53, 73]
+    souk: [17, 61]
+    houg: [3, 55]
+    raig: [0, 0]
+    tyku: [25, 67]
+    luck: [16, 73]
+    soku: 5
+    leng: 1
+    kaih: 28
+    tais: 40
+    slot_num: 4
+    max_eq: [24, 20, 4, 1, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 40
+    broken: [4, 7, 18, 6]
+    pow_up: [1, 0, 2, 2]
+    build_time: 30
+  graph:
+    boko_n: [49, 183]
+    boko_d: [93, 187]
+    kaisyu_n: [33, 6]
+    kaisyu_d: [48, 25]
+    kaizo_n: [46, 73]
+    kaizo_d: [112, 21]
+    map_n: [69, 169]
+    map_d: [180, 159]
+    ensyuf_n: [52, 156]
+    ensyuf_d: [160, 118]
+    ensyue_n: [63, 0]
+    battle_n: [84, 183]
+    battle_d: [190, 177]
+    wed_a: [289, -1]
+    wed_b: [126, 168]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

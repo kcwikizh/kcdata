@@ -14,7 +14,7 @@ data:
   get_mes: こんにちわあ。潜水母艦大鯨です。<br>不束者ですが、よろしくお願い致します。
   voice_f: 1
   filename: xumujwygrmby
-  file_version: ["35", "3", "622"]
+  file_version: ["36", "3", "715"]
   book_table_id: [184, 5245, 5152, 5127, 5482]
   book_sinfo: 潜水母艦、大鯨です。<br>潜水艦隊旗艦機能と補給物資や水上偵察機を装備し<br>て、潜水艦作戦を支援します。いざという時は空母に<br>改装できる空母予備艦として設計されました。<br>頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 2]
     build_time: 150
   graph:
-    boko_n: [192, 180]
-    boko_d: [144, 192]
+    boko_n: [234, 222]
+    boko_d: [252, 234]
     kaisyu_n: [12, 12]
     kaisyu_d: [36, 24]
-    kaizo_n: [156, 84]
-    kaizo_d: [96, 60]
-    map_n: [156, 168]
-    map_d: [120, 192]
-    ensyuf_n: [192, 168]
-    ensyuf_d: [192, 168]
-    ensyue_n: [144, 0]
-    battle_n: [168, 168]
-    battle_d: [144, 168]
-    wed_a: [120, 36]
-    wed_b: [216, 216]
+    kaizo_n: [144, 138]
+    kaizo_d: [150, 120]
+    map_n: [144, 174]
+    map_d: [144, 186]
+    ensyuf_n: [138, 168]
+    ensyuf_d: [138, 168]
+    ensyue_n: [138, 0]
+    battle_n: [174, 192]
+    battle_d: [180, 210]
+    wed_a: [180, -6]
+    wed_b: [132, 210]
   wiki_id: "184"
   chinese_name: 大鲸
   can_drop: true

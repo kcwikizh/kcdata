@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: hgitzuyaysvw
-  file_version: ["33", "21", "622"]
+  file_version: ["34", "21", "715"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 3]
     build_time: 190
   graph:
-    boko_n: [258, 126]
-    boko_d: [192, 264]
+    boko_n: [-66, 75]
+    boko_d: [-99, 82]
     kaisyu_n: [3, -3]
     kaisyu_d: [27, 12]
-    kaizo_n: [138, 60]
-    kaizo_d: [84, 144]
-    map_n: [156, 96]
-    map_d: [78, 210]
-    ensyuf_n: [156, 84]
-    ensyuf_d: [66, 204]
-    ensyue_n: [150, 0]
-    battle_n: [204, 126]
-    battle_d: [108, 216]
-    wed_a: [162, 120]
-    wed_b: [150, 144]
+    kaizo_n: [-120, -16]
+    kaizo_d: [-81, -45]
+    map_n: [-109, 61]
+    map_d: [-127, 67]
+    ensyuf_n: [-88, 28]
+    ensyuf_d: [-88, -19]
+    ensyue_n: [-93, 0]
+    battle_n: [-222, 31]
+    battle_d: [-223, 31]
+    wed_a: [502, 142]
+    wed_b: [145, 165]
   wiki_id: "105a"
   chinese_name: 千代田航改
   can_drop: false

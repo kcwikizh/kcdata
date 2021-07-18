@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: tsxkhnklujer
-  file_version: ["53", "1", "622"]
+  file_version: ["54", "1", "715"]
   book_table_id: [584]
   book_sinfo: あたしは八丈、そ、占守型、海防艦ね。佐世保生ま<br>れ。でも、ずっーと北方の海で頑張ったんだ。大湊、<br>千島や幌筵のあたりならあたしに任せておいて。結構<br>頑張ったんだよ。でも、飛行機には勝てないね。最期<br>は…舞鶴。あの街も嫌いじゃない…かな。<br>提督、よろしくね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [105, 165]
-    boko_d: [232, 247]
+    boko_n: [178, 265]
+    boko_d: [145, 279]
     kaisyu_n: [28, -3]
     kaisyu_d: [37, 10]
-    kaizo_n: [102, 34]
-    kaizo_d: [210, 81]
-    map_n: [120, 117]
-    map_d: [223, 219]
-    ensyuf_n: [112, 115]
-    ensyuf_d: [225, 202]
-    ensyue_n: [109, 0]
-    battle_n: [165, 151]
-    battle_d: [268, 229]
-    wed_a: [223, 61]
-    wed_b: [130, 165]
+    kaizo_n: [156, 115]
+    kaizo_d: [124, 120]
+    map_n: [192, 199]
+    map_d: [130, 220]
+    ensyuf_n: [184, 204]
+    ensyuf_d: [157, 204]
+    ensyue_n: [169, 0]
+    battle_n: [199, 219]
+    battle_d: [165, 235]
+    wed_a: [172, -7]
+    wed_b: [133, 144]
   wiki_id: "384a"
   chinese_name: 八丈改
   can_drop: false
