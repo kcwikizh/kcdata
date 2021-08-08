@@ -14,7 +14,7 @@ data:
   get_mes: Nice meeting you.<br>My name is South Dakota.　提督、よろしくな。
   voice_f: 1
   filename: kobflkooyivx
-  file_version: ["56", "3", "715"]
+  file_version: ["57", "3", "804"]
   book_table_id: [602, 5468, 5528]
   book_sinfo: South Dakota class USS Battleship South Dakota<br>だ。高速空母機動部隊の護衛、南方ソロモンで水上艦<br>隊の殴り合いなど前線で活躍した戦艦だ。<br>Black Princeなどとも呼ばれたな。何？疫病神だと？<br>知らんな。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [5, 0, 2, 5]
     build_time: 400
   graph:
-    boko_n: [-145, 28]
-    boko_d: [-79, 190]
+    boko_n: [126, 216]
+    boko_d: [81, 97]
     kaisyu_n: [22, -75]
     kaisyu_d: [60, -67]
-    kaizo_n: [-124, -102]
-    kaizo_d: [-111, 27]
-    map_n: [-123, -1]
-    map_d: [-61, 157]
-    ensyuf_n: [-123, -1]
-    ensyuf_d: [-66, 153]
-    ensyue_n: [-147, 0]
-    battle_n: [-91, 19]
-    battle_d: [-28, 172]
-    wed_a: [472, 168]
-    wed_b: [153, 175]
+    kaizo_n: [124, 103]
+    kaizo_d: [73, -36]
+    map_n: [130, 187]
+    map_d: [69, 64]
+    ensyuf_n: [121, 183]
+    ensyuf_d: [76, 54]
+    ensyue_n: [109, 0]
+    battle_n: [166, 214]
+    battle_d: [105, 91]
+    wed_a: [229, -28]
+    wed_b: [132, 178]
   wiki_id: "402"
   chinese_name: 南达科他
   can_drop: true

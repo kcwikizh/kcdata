@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: khtgrpfyurcm
-  file_version: ["22", "25", "715"]
+  file_version: ["22", "25", "804"]
   book_table_id: [118]
   book_sinfo: 重雷装艦バージョンの大井です。<br>圧倒的な水雷戦力を期待されたけど、<br>出番がなかなかなかったの。<br>今度は活躍してみせるわ。見ていてね！
   stats:

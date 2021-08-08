@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: jvaackyfpgwo
-  file_version: ["51", "1", "715"]
+  file_version: ["52", "1", "804"]
   book_table_id: [649]
   book_sinfo: 夕雲型駆逐艦６番艦、高波です。浦賀生まれです。<br>第三十一駆逐隊に編入され、活躍したかもです。運命のルンガ沖夜戦でも警戒隊の旗艦として敵を発見…、艦隊の勝利に貢献したかも…です。はい！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [214, 171]
-    boko_d: [183, 142]
+    boko_n: [187, 168]
+    boko_d: [184, 169]
     kaisyu_n: [103, -12]
     kaisyu_d: [52, -39]
-    kaizo_n: [204, 46]
-    kaizo_d: [171, -15]
-    map_n: [235, 138]
-    map_d: [178, 108]
-    ensyuf_n: [217, 124]
-    ensyuf_d: [181, 91]
-    ensyue_n: [216, 0]
-    battle_n: [271, 163]
-    battle_d: [211, 135]
-    wed_a: [106, 25]
-    wed_b: [126, 177]
+    kaizo_n: [130, 61]
+    kaizo_d: [112, 27]
+    map_n: [141, 166]
+    map_d: [142, 168]
+    ensyuf_n: [127, 139]
+    ensyuf_d: [126, 139]
+    ensyue_n: [163, 0]
+    battle_n: [166, 181]
+    battle_d: [168, 183]
+    wed_a: [204, 36]
+    wed_b: [126, 160]
   wiki_id: "449"
   chinese_name: 高波改二
   can_drop: false

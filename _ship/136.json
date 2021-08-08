@@ -14,22 +14,22 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: drdaipjrohfl
-  file_version: ["34", "8", "715"]
+  file_version: ["34", "8", "804"]
   book_table_id: [136, 1030]
   book_sinfo: 大和型戦艦一番艦、大和です。<br>艦隊決戦の切り札として、呉海軍工廠で極秘建造されました。当時の最高技術の粋を結集されたこの体、二番艦の武蔵と共に、連合艦隊の中枢戦力として頑張ります！
   stats:
     taik: [96, 108]
     souk: [92, 118]
-    houg: [92, 139]
+    houg: [92, 142]
     raig: [0, 0]
     tyku: [68, 104]
-    luck: [13, 79]
+    luck: [13, 88]
     soku: 5
     leng: 4
     kaih: 28
     tais: 0
     slot_num: 4
-    max_eq: [7, 7, 7, 7, 0]
+    max_eq: [7, 7, 7, 8, 0]
     after_fuel: 
     after_bull: 
     fuel_max: 250

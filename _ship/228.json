@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: avfbkpphumso
-  file_version: ["22", "18", "715"]
+  file_version: ["23", "18", "804"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,20 +38,20 @@ data:
     pow_up: [1, 1, 2, 2]
     build_time: 24
   graph:
-    boko_n: [243, 225]
-    boko_d: [270, 253]
+    boko_n: [163, 204]
+    boko_d: [151, 247]
     kaisyu_n: [12, 15]
     kaisyu_d: [42, 34]
-    kaizo_n: [205, 79]
-    kaizo_d: [223, 79]
-    map_n: [244, 196]
-    map_d: [286, 214]
-    ensyuf_n: [214, 189]
-    ensyuf_d: [252, 190]
-    ensyue_n: [211, 0]
-    battle_n: [220, 216]
-    battle_d: [274, 220]
-    wed_a: [99, -21]
+    kaizo_n: [126, 60]
+    kaizo_d: [109, 82]
+    map_n: [163, 177]
+    map_d: [169, 220]
+    ensyuf_n: [135, 169]
+    ensyuf_d: [118, 199]
+    ensyue_n: [132, 0]
+    battle_n: [139, 196]
+    battle_d: [154, 223]
+    wed_a: [178, -1]
     wed_b: [145, 150]
   wiki_id: "005a"
   chinese_name: 雪风改
