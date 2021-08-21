@@ -1,0 +1,286 @@
+---
+layout: json
+order: 512
+data:
+  id: 512
+  name: 
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: C
+      to: D1
+    6:
+      from: F
+      to: D2
+    7:
+      from: D1
+      to: E
+    8:
+      from: D
+      to: F
+    9:
+      from: E
+      to: G
+    10:
+      from: E
+      to: H
+    11:
+      from: F
+      to: I
+    12:
+      from: B
+      to: C
+    13:
+      from: D
+      to: D1
+    14:
+      from: D1
+      to: F
+    15:
+      from: G
+      to: F
+    16:
+      from: 2
+      to: J
+    17:
+      from: J
+      to: K
+    18:
+      from: J
+      to: L
+    19:
+      from: K
+      to: M
+    20:
+      from: L
+      to: N
+    21:
+      from: L
+      to: O
+    22:
+      from: N
+      to: P
+    23:
+      from: R
+      to: Q
+    24:
+      from: P
+      to: R
+    25:
+      from: R
+      to: S
+    26:
+      from: R
+      to: T
+    27:
+      from: P
+      to: X
+    28:
+      from: N
+      to: O
+    29:
+      from: O
+      to: P
+    30:
+      from: T
+      to: S
+    31:
+      from: null
+      to: 2
+    32:
+      from: M
+      to: U
+    33:
+      from: U
+      to: V
+    34:
+      from: V
+      to: W
+    35:
+      from: V
+      to: Q
+    36:
+      from: M
+      to: V
+    37:
+      from: Q
+      to: W
+    38:
+      from: X
+      to: Y
+    39:
+      from: Y
+      to: Z
+    40:
+      from: Y
+      to: H
+    41:
+      from: X
+      to: Z
+  cells:
+    1:
+      name: 
+      type:
+      boss: false
+      routes: [0]
+    2:
+      name: 
+      type:
+      boss: false
+      routes: [31]
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3, 12]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    D1:
+      name: 
+      type:
+      boss: false
+      routes: [5, 13]
+    D2:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [8, 14, 15]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [10, 40]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [16]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [19]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [21, 28]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [22, 29]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [23, 35]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [24]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [25, 30]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [26]
+    X:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [32]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [33, 36]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [34, 37]
+    Y:
+      name: 
+      type:
+      boss: false
+      routes: [38]
+    Z:
+      name: 
+      type:
+      boss: true
+      routes: [39, 41]
+  image: MapHDE-2Summer2021.png
+---

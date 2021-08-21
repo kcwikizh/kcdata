@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 879
-  sort_no: 0
-  name: 夏榛名改二
-  yomi: はるな
+  sort_no: 479
+  name: Conte di Cavour nuovo
+  yomi: カブール
   stype: 8
   ctype: 
   cnum: 
-  backs: 
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: xyluyqlehcjt
-  file_version: ["1", "1", "1"]
+  get_mes: <br>
+  voice_f: 3
+  filename: xsbjffwhqttb
+  file_version: ["51", "12", "804"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 10
-    leng: 
+    taik: [0, 0]
+    souk: [0, 0]
+    houg: [0, 0]
+    raig: [0, 0]
+    tyku: [0, 0]
+    luck: [0, 0]
+    soku: 0
+    leng: 0
     kaih: 
     tais: 
-    slot_num: 4
-    max_eq: 
+    slot_num: 0
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 0
+    bull_max: 0
+    broken: [0, 0, 0, 0]
+    pow_up: [0, 0, 0, 0]
+    build_time: 0
   graph:
-    boko_n: [-18, 216]
-    boko_d: [120, 228]
-    kaisyu_n: [48, -12]
-    kaisyu_d: [96, 24]
-    kaizo_n: [-84, 132]
-    kaizo_d: [54, 144]
-    map_n: [-90, 186]
-    map_d: [48, 204]
-    ensyuf_n: [-72, 198]
-    ensyuf_d: [60, 198]
-    ensyue_n: [-90, 0]
-    battle_n: [-48, 204]
-    battle_d: [84, 216]
-    wed_a: [408, -6]
-    wed_b: [144, 168]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [186, 210]
+    boko_d: [198, 210]
+    kaisyu_n: [36, -18]
+    kaisyu_d: [36, -6]
+    kaizo_n: [144, 120]
+    kaizo_d: [144, 96]
+    map_n: [192, 204]
+    map_d: [204, 192]
+    ensyuf_n: [174, 168]
+    ensyuf_d: [216, 168]
+    ensyue_n: [108, 0]
+    battle_n: [162, 192]
+    battle_d: [204, 192]
+    wed_a: [108, -12]
+    wed_b: [204, 168]
+  wiki_id: "479"
+  chinese_name: 加富尔伯爵nuovo
   can_drop: false
   can_construct: false
 ---

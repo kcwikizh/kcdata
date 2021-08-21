@@ -1,0 +1,239 @@
+---
+layout: json
+order: 511
+data:
+  id: 511
+  name: アレクサンドリア沖/クレタ島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: C
+      to: C1
+    5:
+      from: C
+      to: C2
+    6:
+      from: C
+      to: D
+    7:
+      from: C
+      to: E
+    8:
+      from: E
+      to: F
+    9:
+      from: C1
+      to: C2
+    10:
+      from: D
+      to: E
+    11:
+      from: E
+      to: G
+    12:
+      from: 2
+      to: H
+    13:
+      from: H
+      to: I
+    14:
+      from: I
+      to: J
+    15:
+      from: I
+      to: K
+    16:
+      from: J
+      to: L
+    17:
+      from: Q
+      to: M
+    18:
+      from: I
+      to: N
+    19:
+      from: Q
+      to: O
+    20:
+      from: J
+      to: P
+    21:
+      from: N
+      to: Q
+    22:
+      from: N
+      to: R
+    23:
+      from: 2
+      to: I
+    24:
+      from: J
+      to: K
+    25:
+      from: K
+      to: N
+    26:
+      from: L
+      to: P
+    27:
+      from: null
+      to: 2
+    28:
+      from: R
+      to: S
+    29:
+      from: S
+      to: T
+    30:
+      from: T
+      to: U
+    31:
+      from: T
+      to: V
+    32:
+      from: R
+      to: T
+  cells:
+    1:
+      name: 
+      type:
+      boss: false
+      routes: [0]
+    2:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海地中海艦隊 先遣偵察隊
+      type:
+      boss: false
+      routes: [3]
+    C1:
+      name: 深海地中海艦隊 警戒魚雷艇群
+      type:
+      boss: false
+      routes: [4]
+    C2:
+      name: 
+      type:
+      boss: false
+      routes: [5, 9]
+    D:
+      name: 深海地中海方面 基地航空隊
+      type:
+      boss: false
+      routes: [6]
+    E:
+      name: 深海前進兵站基地所属 哨戒部隊
+      type:
+      boss: false
+      routes: [7, 10]
+    F:
+      name: 深海地中海艦隊 前進兵站基地
+      type:
+      boss: false
+      routes: [8]
+    G:
+      name: 深海地中海艦隊 前衛重巡戦隊
+      type:
+      boss: false
+      routes: [11]
+    H:
+      name: 深海地中海艦隊 トブルク警備隊
+      type:
+      boss: false
+      routes: [12]
+    I:
+      name: 深海地中海艦隊 先遣偵察隊
+      type:
+      boss: false
+      routes: [13, 23]
+    J:
+      name: 深海潜水艦隊 地中海哨戒線
+      type:
+      boss: false
+      routes: [14]
+    K:
+      name: 深海地中海方面 基地航空隊
+      type:
+      boss: false
+      routes: [15, 24]
+    L:
+      name: 深海地中海艦隊 沿岸集積地
+      type:
+      boss: false
+      routes: [16]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [18, 25]
+    O:
+      name: 深海地中海艦隊 戦艦戦隊
+      type:
+      boss: false
+      routes: [19]
+    P:
+      name: 深海地中海艦隊 占拠タラント軍港
+      type:
+      boss: false
+      routes: [20, 26]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [22]
+    S:
+      name: 深海地中海艦隊 シチリア防備隊
+      type:
+      boss: false
+      routes: [28]
+    T:
+      name: 深海地中海艦隊 K地点襲撃部隊
+      type:
+      boss: false
+      routes: [29, 32]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [30]
+    V:
+      name: 深海地中海艦隊 前衛旗艦艦隊
+      type:
+      boss: true
+      routes: [31]
+  image: MapHDE-1Summer2021.png
+---

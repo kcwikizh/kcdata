@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 640
+  sort_no: 440
+  name: 長鯨改
+  yomi: ちょうげい
+  stype: 20
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: lurkxlyovqkf
+  file_version: ["51", "1", "804"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [37, 59]
+    souk: [17, 34]
+    houg: [8, 39]
+    raig: [0, 0]
+    tyku: [13, 36]
+    luck: [20, 97]
+    soku: 5
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [2, 2, 2, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 30
+    bull_max: 10
+    broken: [2, 2, 12, 1]
+    pow_up: [0, 0, 1, 2]
+    build_time: 150
+  graph:
+    boko_n: [-4, 214]
+    boko_d: [124, 195]
+    kaisyu_n: [-7, 16]
+    kaisyu_d: [58, -19]
+    kaizo_n: [-19, 91]
+    kaizo_d: [90, 28]
+    map_n: [-15, 181]
+    map_d: [109, 151]
+    ensyuf_n: [-4, 181]
+    ensyuf_d: [118, 132]
+    ensyue_n: [4, 0]
+    battle_n: [30, 220]
+    battle_d: [154, 210]
+    wed_a: [351, -18]
+    wed_b: [114, 157]
+  wiki_id: "440"
+  chinese_name: 长鲸改
+  can_drop: false
+  can_construct: false
+---
