@@ -105,16 +105,6 @@ data:
       from: R
       to: T
   cells:
-    1:
-      name: 
-      type:
-      boss: false
-      routes: [0]
-    2:
-      name: 
-      type:
-      boss: false
-      routes: [27]
     A:
       name: 
       type:
