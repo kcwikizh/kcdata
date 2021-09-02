@@ -55,6 +55,6 @@ data:
     wed_b: [130, 160]
   wiki_id: "314"
   chinese_name: 谢菲尔德
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

@@ -55,6 +55,6 @@ data:
     wed_b: [115, 189]
   wiki_id: "475"
   chinese_name: 凉波
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

@@ -1,0 +1,36 @@
+---
+layout: json
+order: 435
+data:
+  id: 435
+  sort_no: 435
+  name: Corsair Mk.II(Ace)
+  type: [3, 5, 6, 6, 46]
+  rare: 5
+  broken: [3, 5, 0, 7]
+  info: 
+  usebull: 0
+  cost: 9
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 11
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

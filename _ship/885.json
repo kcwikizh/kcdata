@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 885
-  sort_no: 0
-  name: 夏Libeccio
-  yomi: リベッチオ
-  stype: 2
+  sort_no: 485
+  name: Victorious
+  yomi: ヴィクトリアス
+  stype: 18
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: bwhwngdrdkbc
-  file_version: ["1", "1", "1"]
+  backs: 7
+  after_lv: 45
+  after_ship_id: 713
+  get_mes: 私がAircraft Carrier HMS Victorious。お前が提督か。<br>よかろう。お前と征こうか。この海を！
+  voice_f: 1
+  filename: kqoobdjpsppb
+  file_version: ["51", "1", "804"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
+    taik: [59, 85]
+    souk: [38, 80]
+    houg: [0, 38]
+    raig: [0, 0]
+    tyku: [32, 77]
+    luck: [10, 90]
     soku: 10
-    leng: 
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 2
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 4
+    max_eq: [14, 14, 12, 9, 0]
+    after_fuel: 4700
+    after_bull: 1800
+    fuel_max: 65
+    bull_max: 55
+    broken: [9, 13, 32, 10]
+    pow_up: [0, 0, 4, 5]
+    build_time: 250
   graph:
-    boko_n: [84, 216]
-    boko_d: [198, 276]
-    kaisyu_n: [36, -18]
-    kaisyu_d: [0, -6]
-    kaizo_n: [6, 126]
-    kaizo_d: [120, 168]
-    map_n: [30, 180]
-    map_d: [114, 234]
-    ensyuf_n: [6, 174]
-    ensyuf_d: [96, 192]
-    ensyue_n: [12, 0]
-    battle_n: [54, 180]
-    battle_d: [150, 234]
-    wed_a: [300, 36]
-    wed_b: [168, 156]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [132, 126]
+    boko_d: [82, 168]
+    kaisyu_n: [61, -15]
+    kaisyu_d: [96, 1]
+    kaizo_n: [112, 16]
+    kaizo_d: [105, 13]
+    map_n: [154, 123]
+    map_d: [132, 154]
+    ensyuf_n: [144, 106]
+    ensyuf_d: [136, 133]
+    ensyue_n: [148, 0]
+    battle_n: [171, 121]
+    battle_d: [205, 163]
+    wed_a: [205, 58]
+    wed_b: [109, 148]
+  wiki_id: "485"
+  chinese_name: 胜利
   can_drop: false
   can_construct: false
 ---

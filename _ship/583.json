@@ -55,6 +55,6 @@ data:
     wed_b: [129, 147]
   wiki_id: "383"
   chinese_name: 峰云
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

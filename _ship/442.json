@@ -55,6 +55,6 @@ data:
     wed_b: [196, 180]
   wiki_id: "242"
   chinese_name: 罗马
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

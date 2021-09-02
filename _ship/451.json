@@ -55,6 +55,6 @@ data:
     wed_b: [114, 136]
   wiki_id: "251"
   chinese_name: 瑞穗
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

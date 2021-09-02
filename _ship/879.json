@@ -6,53 +6,53 @@ data:
   name: Conte di Cavour nuovo
   yomi: カブール
   stype: 8
-  ctype: 
-  cnum: 
+  ctype: 113
+  cnum: 1
   backs: 7
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: xsbjffwhqttb
-  file_version: ["51", "12", "804"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "804"]
+  book_table_id: [879]
+  book_sinfo: Conte di Cavour級戦艦、一番艦、Conte di Cavourよ。<br>そう、第一次大戦中に建造された弩級戦艦。何？小さ<br>いからって舐めないでよ。<br>近代化改装で、今風の高速戦艦になったんだから！<br>第二次改装も予定していたし！
   stats:
-    taik: [0, 0]
-    souk: [0, 0]
-    houg: [0, 0]
-    raig: [0, 0]
-    tyku: [0, 0]
-    luck: [0, 0]
-    soku: 0
-    leng: 0
-    kaih: 
-    tais: 
-    slot_num: 0
-    max_eq: [0, 0, 0, 0, 0]
+    taik: [78, 91]
+    souk: [57, 91]
+    houg: [64, 95]
+    raig: [8, 30]
+    tyku: [48, 90]
+    luck: [24, 88]
+    soku: 10
+    leng: 3
+    kaih: 31
+    tais: 0
+    slot_num: 4
+    max_eq: [1, 1, 3, 4, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 0
-    bull_max: 0
-    broken: [0, 0, 0, 0]
-    pow_up: [0, 0, 0, 0]
-    build_time: 0
+    fuel_max: 85
+    bull_max: 115
+    broken: [9, 14, 30, 3]
+    pow_up: [3, 1, 3, 3]
+    build_time: 240
   graph:
-    boko_n: [186, 210]
-    boko_d: [198, 210]
-    kaisyu_n: [36, -18]
-    kaisyu_d: [36, -6]
-    kaizo_n: [144, 120]
-    kaizo_d: [144, 96]
-    map_n: [192, 204]
-    map_d: [204, 192]
-    ensyuf_n: [174, 168]
-    ensyuf_d: [216, 168]
-    ensyue_n: [108, 0]
-    battle_n: [162, 192]
-    battle_d: [204, 192]
-    wed_a: [108, -12]
-    wed_b: [204, 168]
+    boko_n: [-136, 121]
+    boko_d: [12, 219]
+    kaisyu_n: [18, -52]
+    kaisyu_d: [39, -21]
+    kaizo_n: [-147, 7]
+    kaizo_d: [16, 66]
+    map_n: [-105, 100]
+    map_d: [34, 204]
+    ensyuf_n: [-115, 100]
+    ensyuf_d: [34, 192]
+    ensyue_n: [-121, 0]
+    battle_n: [-88, 127]
+    battle_d: [75, 220]
+    wed_a: [459, 69]
+    wed_b: [118, 169]
   wiki_id: "479"
   chinese_name: 加富尔伯爵nuovo
   can_drop: false

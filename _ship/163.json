@@ -55,6 +55,6 @@ data:
     wed_b: [222, 208]
   wiki_id: "163"
   chinese_name: 丸输
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---

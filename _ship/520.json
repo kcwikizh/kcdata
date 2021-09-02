@@ -55,6 +55,6 @@ data:
     wed_b: [162, 138]
   wiki_id: "320"
   chinese_name: 雅努斯
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

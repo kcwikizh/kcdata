@@ -55,6 +55,6 @@ data:
     wed_b: [132, 178]
   wiki_id: "402"
   chinese_name: 南达科他
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 712
+  sort_no: 1712
+  name: 第三〇号海防艦改
+  yomi: だいさんじゅうごう
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: pjbmgnhmdomg
+  file_version: ["51", "1", "804"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [15, 23]
+    souk: [5, 28]
+    houg: [4, 28]
+    raig: [0, 0]
+    tyku: [10, 45]
+    luck: [20, 81]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [121, 253]
+    boko_d: [109, 256]
+    kaisyu_n: [12, -58]
+    kaisyu_d: [31, -61]
+    kaizo_n: [123, 117]
+    kaizo_d: [111, 108]
+    map_n: [130, 214]
+    map_d: [90, 217]
+    ensyuf_n: [121, 204]
+    ensyuf_d: [90, 207]
+    ensyue_n: [130, 0]
+    battle_n: [166, 238]
+    battle_d: [133, 241]
+    wed_a: [223, -39]
+    wed_b: [133, 193]
+  wiki_id: "712"
+  chinese_name: 第三〇号海防舰改
+  can_drop: false
+  can_construct: false
+---

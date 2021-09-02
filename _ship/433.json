@@ -55,6 +55,6 @@ data:
     wed_b: [132, 144]
   wiki_id: "233"
   chinese_name: 萨拉托加
-  can_drop: true
+  can_drop: false
   can_construct: true
 ---

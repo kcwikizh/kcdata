@@ -55,6 +55,6 @@ data:
     wed_b: [175, 205]
   wiki_id: "135"
   chinese_name: 长波
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

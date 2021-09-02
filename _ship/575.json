@@ -55,6 +55,6 @@ data:
     wed_b: [181, 166]
   wiki_id: "375"
   chinese_name: 西北风
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

@@ -55,6 +55,6 @@ data:
     wed_b: [163, 178]
   wiki_id: "065"
   chinese_name: 飞鹰
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

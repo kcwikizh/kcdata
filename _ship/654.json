@@ -55,6 +55,6 @@ data:
     wed_b: [118, 180]
   wiki_id: "454"
   chinese_name: 华盛顿
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

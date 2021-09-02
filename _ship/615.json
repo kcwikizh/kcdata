@@ -55,6 +55,6 @@ data:
     wed_b: [124, 166]
   wiki_id: "415"
   chinese_name: 海伦娜
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

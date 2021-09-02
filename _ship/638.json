@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 638
+  sort_no: 438
+  name: 第三〇号海防艦
+  yomi: だいさんじゅうごう
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 35
+  after_ship_id: 712
+  get_mes: 丁型海防艦、第三〇号、みとです。<br>よろしくお願いします。みとの出来る限り……<br>皆さんをお守りするつもりです。
+  voice_f: 1
+  filename: nvgghdxdncdj
+  file_version: ["51", "1", "804"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [9, 16]
+    souk: [4, 15]
+    houg: [3, 15]
+    raig: [0, 0]
+    tyku: [4, 21]
+    luck: [17, 77]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 50
+    after_bull: 70
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 1, 0]
+    pow_up: [0, 0, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [121, 253]
+    boko_d: [109, 256]
+    kaisyu_n: [12, -58]
+    kaisyu_d: [31, -61]
+    kaizo_n: [123, 117]
+    kaizo_d: [111, 108]
+    map_n: [130, 214]
+    map_d: [90, 217]
+    ensyuf_n: [121, 204]
+    ensyuf_d: [90, 207]
+    ensyue_n: [130, 0]
+    battle_n: [166, 238]
+    battle_d: [133, 241]
+    wed_a: [223, -39]
+    wed_b: [133, 193]
+  wiki_id: "438"
+  chinese_name: 第三〇号海防舰
+  can_drop: false
+  can_construct: false
+---

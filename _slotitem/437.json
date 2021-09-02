@@ -1,0 +1,36 @@
+---
+layout: json
+order: 437
+data:
+  id: 437
+  sort_no: 437
+  name: 試製 陣風
+  type: [3, 5, 6, 6, 34]
+  rare: 5
+  broken: [2, 4, 0, 11]
+  info: 
+  usebull: 0
+  cost: 9
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 13
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

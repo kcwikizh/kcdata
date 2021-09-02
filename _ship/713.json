@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 713
+  sort_no: 1713
+  name: Victorious改
+  yomi: ヴィクトリアス
+  stype: 18
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: dyewlqqgctjx
+  file_version: ["51", "1", "804"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [74, 91]
+    souk: [49, 85]
+    houg: [0, 55]
+    raig: [0, 0]
+    tyku: [40, 84]
+    luck: [22, 110]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [18, 18, 19, 2, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 75
+    bull_max: 65
+    broken: [10, 15, 35, 15]
+    pow_up: [0, 0, 5, 5]
+    build_time: 250
+  graph:
+    boko_n: [132, 126]
+    boko_d: [82, 168]
+    kaisyu_n: [61, -15]
+    kaisyu_d: [96, 1]
+    kaizo_n: [112, 16]
+    kaizo_d: [105, 13]
+    map_n: [154, 123]
+    map_d: [132, 154]
+    ensyuf_n: [144, 106]
+    ensyuf_d: [136, 133]
+    ensyue_n: [148, 0]
+    battle_n: [171, 121]
+    battle_d: [205, 163]
+    wed_a: [205, 58]
+    wed_b: [109, 148]
+  wiki_id: "713"
+  chinese_name: 胜利改
+  can_drop: false
+  can_construct: false
+---

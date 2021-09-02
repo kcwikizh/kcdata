@@ -55,6 +55,6 @@ data:
     wed_b: [138, 180]
   wiki_id: "284"
   chinese_name: 滨波
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---
