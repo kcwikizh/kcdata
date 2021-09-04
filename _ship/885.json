@@ -6,8 +6,8 @@ data:
   name: Victorious
   yomi: ヴィクトリアス
   stype: 18
-  ctype: 
-  cnum: 
+  ctype: 112
+  cnum: 2
   backs: 7
   after_lv: 45
   after_ship_id: 713
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: kqoobdjpsppb
   file_version: ["51", "1", "804"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [885]
+  book_sinfo: Illustrious　class Aircraft Carrier<br>HMS Victorious。装甲甲板を持つ英正規空母よ。<br>数々の戦いを乗り越え、戦後はジェット艦載機も運用<br>可能に改装されたわ。よろしくね。
   stats:
     taik: [59, 85]
     souk: [38, 80]
@@ -26,8 +26,8 @@ data:
     luck: [10, 90]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 31
+    tais: 0
     slot_num: 4
     max_eq: [14, 14, 12, 9, 0]
     after_fuel: 4700
