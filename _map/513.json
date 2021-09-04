@@ -1,0 +1,401 @@
+---
+layout: json
+order: 513
+data:
+  id: 513
+  name: ジブラルタル沖/地中海/マルタ島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: B1
+    4:
+      from: B
+      to: B2
+    5:
+      from: B1
+      to: C
+    6:
+      from: B1
+      to: C1
+    7:
+      from: B2
+      to: C2
+    8:
+      from: C
+      to: D
+    9:
+      from: C1
+      to: E
+    10:
+      from: C2
+      to: F
+    11:
+      from: D
+      to: G
+    12:
+      from: G
+      to: H
+    13:
+      from: E
+      to: I
+    14:
+      from: B2
+      to: C1
+    15:
+      from: C
+      to: C1
+    16:
+      from: C1
+      to: C2
+    17:
+      from: C2
+      to: E
+    18:
+      from: E
+      to: G
+    19:
+      from: G
+      to: I
+    20:
+      from: null
+      to: Z
+    21:
+      from: 2
+      to: J1
+    22:
+      from: J1
+      to: J2
+    23:
+      from: J1
+      to: J
+    24:
+      from: L
+      to: K
+    25:
+      from: J2
+      to: L
+    26:
+      from: L
+      to: M
+    27:
+      from: M
+      to: N
+    28:
+      from: M
+      to: O
+    29:
+      from: J
+      to: J2
+    30:
+      from: 2
+      to: J2
+    31:
+      from: N
+      to: O
+    32:
+      from: null
+      to: 2
+    33:
+      from: 3
+      to: P
+    34:
+      from: 3
+      to: Q
+    35:
+      from: P
+      to: R
+    36:
+      from: Q
+      to: S
+    37:
+      from: R
+      to: T
+    38:
+      from: T2
+      to: T1
+    39:
+      from: S
+      to: T2
+    40:
+      from: S
+      to: T3
+    41:
+      from: T3
+      to: T4
+    42:
+      from: R
+      to: U
+    43:
+      from: U
+      to: V
+    44:
+      from: V
+      to: W
+    45:
+      from: V
+      to: X
+    46:
+      from: T2
+      to: T3
+    47:
+      from: S
+      to: U
+    48:
+      from: T
+      to: U
+    49:
+      from: null
+      to: 3
+    50:
+      from: X
+      to: Y
+    51:
+      from: Y
+      to: Z
+    52:
+      from: Z
+      to: Z1
+    53:
+      from: Z
+      to: Z2
+    54:
+      from: X
+      to: X1
+    55:
+      from: X1
+      to: X2
+    56:
+      from: X2
+      to: Z3
+    57:
+      from: R
+      to: S
+    58:
+      from: S
+      to: T
+    59:
+      from: X2
+      to: Y
+    60:
+      from: X
+      to: Z3
+    61:
+      from: Y
+      to: Z3
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 ジブラルタル警戒線
+      type:
+      boss: false
+      routes: [2]
+    B1:
+      name: 深海地中海方面 基地航空隊
+      type:
+      boss: false
+      routes: [3]
+    B2:
+      name: 深海地中海方面 基地航空隊
+      type:
+      boss: false
+      routes: [4]
+    C:
+      name: 深海潜水艦隊 バレアレス海部隊
+      type:
+      boss: false
+      routes: [5]
+    C1:
+      name: 深海地中海艦隊 前衛警戒部隊
+      type:
+      boss: false
+      routes: [6, 14, 15]
+    C2:
+      name: 
+      type:
+      boss: false
+      routes: [7, 16]
+    D:
+      name: 深海地中海艦隊 高速遊撃戦隊
+      type:
+      boss: false
+      routes: [8]
+    E:
+      name: 深海地中海艦隊 前衛軽空母部隊
+      type:
+      boss: false
+      routes: [9, 17]
+    F:
+      name: 深海北アフリカ集団 兵站西拠点
+      type:
+      boss: false
+      routes: [10]
+    G:
+      name: 深海地中海艦隊 前衛集団補給隊
+      type:
+      boss: false
+      routes: [11, 18]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [12]
+    I:
+      name: 深海地中海艦隊 前衛集団旗艦
+      type:
+      boss: false
+      routes: [13, 19]
+    Z:
+      name: 
+      type:
+      boss: false
+      routes: [20, 51]
+    J1:
+      name: 深海潜水艦隊 大西洋群狼部隊II群
+      type:
+      boss: false
+      routes: [21]
+    J2:
+      name: 深海潜水艦隊 大西洋群狼部隊I群
+      type:
+      boss: false
+      routes: [22, 29, 30]
+    J:
+      name: 深海大西洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [23]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [24]
+    L:
+      name: 深海大西洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [25]
+    M:
+      name: 深海大西洋艦隊 空母打撃群eins
+      type:
+      boss: false
+      routes: [26]
+    N:
+      name: 深海大西洋艦隊 空母打撃群zwei
+      type:
+      boss: false
+      routes: [27]
+    O:
+      name: 深海大西洋艦隊 空母打撃群主力
+      type:
+      boss: false
+      routes: [28, 31]
+    P:
+      name: 深海地中海方面 基地航空隊
+      type:
+      boss: false
+      routes: [33]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [34]
+    R:
+      name: 深海潜水艦隊 地中海潜水戦隊
+      type:
+      boss: false
+      routes: [35]
+    S:
+      name: 深海地中海方面 航空哨戒部隊
+      type:
+      boss: false
+      routes: [36, 57]
+    T:
+      name: 深海地中海方面 航空哨戒部隊
+      type:
+      boss: false
+      routes: [37, 58]
+    T1:
+      name: 深海地中海艦隊 予備兵力補給隊
+      type:
+      boss: false
+      routes: [38]
+    T2:
+      name: 深海地中海艦隊 予備兵力 III群
+      type:
+      boss: false
+      routes: [39]
+    T3:
+      name: 深海地中海艦隊 予備兵力 II群
+      type:
+      boss: false
+      routes: [40, 46]
+    T4:
+      name: 深海地中海艦隊 予備兵力 I群
+      type:
+      boss: false
+      routes: [41]
+    U:
+      name: 深海地中海 シチリア海峡阻止線
+      type:
+      boss: false
+      routes: [42, 47, 48]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [43]
+    W:
+      name: 深海北アフリカ集団 兵站東拠点
+      type:
+      boss: false
+      routes: [44]
+    X:
+      name: 深海地中海 マルタ阻止限界線
+      type:
+      boss: false
+      routes: [45]
+    Y:
+      name: 深海地中海方面 基地航空中央隊
+      type:
+      boss: false
+      routes: [50, 59]
+    Z1:
+      name: 
+      type:
+      boss: false
+      routes: [52]
+    Z2:
+      name: 深海地中海 揚陸阻止突撃集団
+      type:
+      boss: false
+      routes: [53]
+    X1:
+      name: 
+      type:
+      boss: false
+      routes: [54]
+    X2:
+      name: 
+      type:
+      boss: false
+      routes: [55]
+    Z3:
+      name: 深海地中海 空母機動部隊総旗艦
+      type:
+      boss: true
+      routes: [56, 60, 61]
+  image: MapHDE-3Summer2021.png
+---
