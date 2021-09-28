@@ -14,7 +14,7 @@ data:
   get_mes: ボクが最上さ。<br>大丈夫、今度は衝突しないって。ホントだよ。
   voice_f: 1
   filename: lcmobkdeizph
-  file_version: ["30", "7", "804"]
+  file_version: ["31", "7", "928"]
   book_table_id: [70, 892, 792, 759]
   book_sinfo: 重巡洋艦、最上型のネームシップ、最上だよ。<br>三連主砲がいい感じでしょ？<br>そうそう、ボク、ちょっと他の艦とよくブツかっちゃう癖があるんだけど、なんでだろ？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 90
   graph:
-    boko_n: [216, 228]
-    boko_d: [216, 228]
+    boko_n: [120, -24]
+    boko_d: [96, -6]
     kaisyu_n: [16, -22]
     kaisyu_d: [40, -7]
-    kaizo_n: [144, 156]
-    kaizo_d: [126, 120]
-    map_n: [174, 198]
-    map_d: [174, 198]
-    ensyuf_n: [168, 204]
-    ensyuf_d: [168, 204]
-    ensyue_n: [156, 0]
-    battle_n: [198, 219]
-    battle_d: [198, 219]
-    wed_a: [204, -18]
-    wed_b: [126, 150]
+    kaizo_n: [67, -102]
+    kaizo_d: [72, -142]
+    map_n: [45, -16]
+    map_d: [0, -24]
+    ensyuf_n: [84, -21]
+    ensyuf_d: [84, -88]
+    ensyue_n: [84, 0]
+    battle_n: [48, -39]
+    battle_d: [48, -39]
+    wed_a: [243, 241]
+    wed_b: [163, 141]
   wiki_id: "051"
   chinese_name: 最上
   can_drop: true

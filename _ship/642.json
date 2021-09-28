@@ -14,8 +14,8 @@ data:
   get_mes: よお。お前が提督なんだって？<br>俺が丁型駆逐艦、松型の二番艦、竹。よろしくな。<br>いい……顔つきだな。気にいったぜ！
   voice_f: 1
   filename: diuonxbewmps
-  file_version: ["52", "2", "804"]
-  book_table_id: [642]
+  file_version: ["53", "2", "928"]
+  book_table_id: [642, 5561]
   book_sinfo: 丁型駆逐艦、松型二番艦、竹だ。ああ、厳しい戦場<br>だった。強行輸送作戦の多号作戦、対空対潜が主の海<br>上護衛では無用の長物と思われていたこの魚雷が役に<br>立ったぜ。最後の輝き、そして松型駆逐艦の奮闘、覚<br>えていてくれよ。頼むぜ！
   stats:
     taik: [14, 27]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 1, 0]
     build_time: 14
   graph:
-    boko_n: [106, 199]
-    boko_d: [172, 253]
+    boko_n: [202, 24]
+    boko_d: [163, 142]
     kaisyu_n: [22, -33]
     kaisyu_d: [37, -30]
-    kaizo_n: [105, 70]
-    kaizo_d: [193, 79]
-    map_n: [103, 172]
-    map_d: [186, 217]
-    ensyuf_n: [106, 160]
-    ensyuf_d: [166, 190]
-    ensyue_n: [106, 0]
-    battle_n: [172, 202]
-    battle_d: [232, 232]
-    wed_a: [217, -16]
-    wed_b: [109, 187]
+    kaizo_n: [181, -100]
+    kaizo_d: [133, -61]
+    map_n: [208, -12]
+    map_d: [162, 85]
+    ensyuf_n: [196, -15]
+    ensyuf_d: [154, 55]
+    ensyue_n: [189, 0]
+    battle_n: [210, 18]
+    battle_d: [196, 97]
+    wed_a: [130, 178]
+    wed_b: [133, 172]
   wiki_id: "442"
   chinese_name: 竹
   can_drop: false

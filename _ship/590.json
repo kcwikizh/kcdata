@@ -14,7 +14,7 @@ data:
   get_mes: Buongiorno！<br>イタリア生まれの最新鋭軽巡Giuseppe Garibaldiだ。<br>長いって？　そうだな。Garibaldiでいいよ。よろしくな！
   voice_f: 1
   filename: jggtbrpbucqf
-  file_version: ["52", "1", "804"]
+  file_version: ["52", "1", "928"]
   book_table_id: [590, 691]
   book_sinfo: ルイージ・ディ・サヴォイア・ドゥーカ・デッリ・<br>アブルッツィ軽巡洋艦「ジュゼッペ・ガリバルディ」<br>だ。ああ、姉貴の名前、長くって。でも、正真正銘の<br>最新鋭軽巡、火力も装甲も艦の作りも、かなりのもん<br>さ。ちょっと温存され過ぎたけど、今度はばっちり働<br>くぜ！見てなよ！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [121, 172]
   wiki_id: "390"
   chinese_name: 加里波第
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

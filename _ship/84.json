@@ -14,7 +14,7 @@ data:
   get_mes: 航空母艦、加賀です。<br>貴方が私の提督なの？　それなりに期待はしているわ。
   voice_f: 1
   filename: oeimwwkynzlt
-  file_version: ["54", "12", "804"]
+  file_version: ["54", "12", "928"]
   book_table_id: [84, 1102]
   book_sinfo: 私、加賀は、八八艦隊三番艦として建造されました。<br>様々な運命のいたずらもあって、最終的に大型航空母<br>艦として完成しました。<br>赤城さんと共に、栄光の第一航空戦隊、その主力を担<br>います。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [139, 160]
   wiki_id: "007"
   chinese_name: 加贺
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

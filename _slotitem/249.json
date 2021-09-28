@@ -46,10 +46,10 @@ data:
           -
             -
               id: 3
-              amount: [6, -1]
+              amount: [6, 7]
             -
               id: 4
-              amount: [3, -1]
+              amount: [3, 5]
         slotitem:
           -
             id: 249
@@ -64,10 +64,10 @@ data:
           useitem:
             -
               id: 3
-              amount: [-1, 9]
+              amount: [7, 9]
             -
               id: 4
-              amount: [-1, 9]
+              amount: [6, 9]
             -
               id: 77
               amount: 1

@@ -1,0 +1,36 @@
+---
+layout: json
+order: 438
+data:
+  id: 438
+  sort_no: 438
+  name: 三式水中探信儀改
+  type: [7, 10, 14, 18, 0]
+  rare: 4
+  broken: [0, 0, 2, 4]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 1
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 11
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

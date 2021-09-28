@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: lnovmzlsschi
-  file_version: ["54", "4", "804"]
+  file_version: ["55", "5", "928"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,20 +38,20 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [157, 199]
-    boko_d: [25, 283]
+    boko_n: [99, 175]
+    boko_d: [106, 190]
     kaisyu_n: [10, -3]
     kaisyu_d: [43, -28]
-    kaizo_n: [157, 73]
-    kaizo_d: [51, 58]
-    map_n: [199, 157]
-    map_d: [79, 204]
-    ensyuf_n: [186, 154]
-    ensyuf_d: [28, 183]
-    ensyue_n: [163, 0]
-    battle_n: [217, 186]
-    battle_d: [103, 213]
-    wed_a: [159, -6]
+    kaizo_n: [106, 36]
+    kaizo_d: [106, -7]
+    map_n: [142, 132]
+    map_d: [151, 132]
+    ensyuf_n: [154, 142]
+    ensyuf_d: [129, 126]
+    ensyue_n: [112, 0]
+    battle_n: [159, 156]
+    battle_d: [172, 160]
+    wed_a: [228, 28]
     wed_b: [130, 180]
   wiki_id: "432a"
   chinese_name: 有明改

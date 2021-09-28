@@ -14,14 +14,14 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: osxrcrtldvru
-  file_version: ["10", "1", "804"]
+  file_version: ["10", "1", "928"]
   book_table_id: [476]
   book_sinfo: 神風型駆逐艦一番艦、神風です。八八艦隊計画の時代に建造された艦隊型駆逐艦、そのネームシップです。<br>睦月型の前級にあたる私達だけれど、あの戦いを最後まで駆け抜けたのよ。<br>私達のことも、覚えていてね。
   stats:
     taik: [23, 38]
-    souk: [10, 38]
+    souk: [10, 39]
     houg: [8, 41]
-    raig: [14, 68]
+    raig: [14, 69]
     tyku: [14, 48]
     luck: [40, 99]
     soku: 10

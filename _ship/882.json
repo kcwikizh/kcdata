@@ -14,8 +14,8 @@ data:
   get_mes: 海ン中だと……私が多分一番速いと思う……。 <br>潜高型の三番艦。伊２０３。フーミィ…かな？<br>危険？　私が？……そんなでもないよ？
   voice_f: 1
   filename: ayytwcxkqvtt
-  file_version: ["54", "1", "804"]
-  book_table_id: [882, 5550]
+  file_version: ["55", "1", "928"]
+  book_table_id: [882, 5550, 5567]
   book_sinfo: 水中での圧倒的な機動性を追求した、伊号潜水艦の新<br>型高速潜水艦、伊２０１型潜水艦の三番艦、伊２０３<br>です。<br>実戦には出ませんでしたが、出撃準備は完了していま<br>す。提督、よろしく。私、水中で本当に速いから。<br>見てて。
   stats:
     taik: [12, 22]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [154, 228]
-    boko_d: [90, 319]
+    boko_n: [247, 220]
+    boko_d: [247, 220]
     kaisyu_n: [31, -1]
     kaisyu_d: [55, 15]
-    kaizo_n: [145, 91]
-    kaizo_d: [109, 78]
-    map_n: [175, 178]
-    map_d: [121, 211]
-    ensyuf_n: [166, 175]
-    ensyuf_d: [106, 193]
-    ensyue_n: [154, 0]
-    battle_n: [211, 213]
-    battle_d: [147, 229]
-    wed_a: [184, -19]
-    wed_b: [111, 183]
+    kaizo_n: [229, 82]
+    kaizo_d: [214, 46]
+    map_n: [256, 183]
+    map_d: [256, 183]
+    ensyuf_n: [253, 178]
+    ensyuf_d: [253, 178]
+    ensyue_n: [246, 0]
+    battle_n: [300, 211]
+    battle_d: [300, 211]
+    wed_a: [94, -34]
+    wed_b: [112, 205]
   wiki_id: "482"
   chinese_name: 伊203
   can_drop: false

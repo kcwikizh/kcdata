@@ -14,14 +14,14 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ykrokmtrnaqw
-  file_version: ["25", "6", "804"]
+  file_version: ["25", "6", "928"]
   book_table_id: [142, 5258, 5018, 5494]
   book_sinfo: カタパルトをお初装備の衣笠さんよ、よろしくね。<br>ウェーク島攻略や珊瑚海海戦、そして、ソロモン海の<br>アイアンボトムサウンドでも大活躍！でも…飛行機っ<br>ての？あれはちょっと嫌ね。
   stats:
     taik: [53, 65]
     souk: [35, 73]
     houg: [38, 78]
-    raig: [24, 74]
+    raig: [24, 78]
     tyku: [22, 66]
     luck: [13, 65]
     soku: 10

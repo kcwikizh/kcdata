@@ -14,7 +14,7 @@ data:
   get_mes: Guten Tag.<br>私は駆逐艦マックス・シュルツよ。<br>マックス…でもいいけれど。よろしく。
   voice_f: 1
   filename: rxzrrkjqvyqy
-  file_version: ["13", "2", "804"]
+  file_version: ["14", "2", "928"]
   book_table_id: [175, 886]
   book_sinfo: ドイツ1934年計画型駆逐艦、その三番艦よ。<br>生存性の高い設計の本格的駆逐艦だけれど…新型のタービンは少し整備に難もあるけれど。<br>今度は…大丈夫。
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 24
   graph:
-    boko_n: [186, 234]
-    boko_d: [150, 234]
+    boko_n: [72, 216]
+    boko_d: [96, 192]
     kaisyu_n: [24, 0]
     kaisyu_d: [36, 12]
-    kaizo_n: [138, 132]
-    kaizo_d: [60, 132]
-    map_n: [138, 180]
-    map_d: [78, 198]
-    ensyuf_n: [138, 186]
-    ensyuf_d: [60, 192]
-    ensyue_n: [120, 0]
-    battle_n: [168, 198]
-    battle_d: [96, 216]
-    wed_a: [192, -6]
-    wed_b: [138, 180]
+    kaizo_n: [72, 96]
+    kaizo_d: [108, 48]
+    map_n: [72, 168]
+    map_d: [96, 168]
+    ensyuf_n: [96, 168]
+    ensyuf_d: [96, 72]
+    ensyue_n: [48, 0]
+    battle_n: [72, 168]
+    battle_d: [120, 168]
+    wed_a: [252, 36]
+    wed_b: [168, 168]
   wiki_id: "175"
   chinese_name: Z3
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

@@ -14,7 +14,7 @@ data:
   get_mes: ちわ！涼風だよ。<br>私が艦隊に加われば百人力さ！
   voice_f: 0
   filename: qaryaychpubb
-  file_version: ["9", "9", "804"]
+  file_version: ["9", "9", "928"]
   book_table_id: [47]
   book_sinfo: 涼風だよ。<br>特型駆逐艦として数々の攻略作戦の支援に参加したんだ。<br>その後は戦艦や空母の護衛にも従事したよ。<br>頼りにしてね！最後まで戦うから！
   stats:

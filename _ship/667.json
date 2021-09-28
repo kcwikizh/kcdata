@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 667
+  sort_no: 467
+  name: 山風改二丁
+  yomi: やまかぜ
+  stype: 2
+  ctype: 23
+  cnum: 8
+  backs: 7
+  after_lv: 91
+  after_ship_id: 588
+  get_mes: <br>
+  voice_f: 3
+  filename: ccmlwotxuyeu
+  file_version: ["51", "1", "928"]
+  book_table_id: [667]
+  book_sinfo: 白露型駆逐艦八番艦、改白露型、山風。<br>浦賀生まれ……。時雨姉や涼風と同じ……。<br>江風たちと第二十四駆逐隊を編成した……。加賀の護衛をしたりね、大きな戦いでも最初の方はね、随分頑張ったよ。そしてね。大湊から柱島にね。行こうとしたの。その後はね……わからない。覚えてないの。
+  stats:
+    taik: [30, 52]
+    souk: [11, 51]
+    houg: [14, 60]
+    raig: [24, 84]
+    tyku: [16, 66]
+    luck: [9, 71]
+    soku: 10
+    leng: 1
+    kaih: 49
+    tais: 28
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 210
+    after_bull: 300
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [123, 210]
+    boko_d: [169, 298]
+    kaisyu_n: [49, -24]
+    kaisyu_d: [52, -58]
+    kaizo_n: [133, 91]
+    kaizo_d: [151, 70]
+    map_n: [180, 187]
+    map_d: [186, 196]
+    ensyuf_n: [163, 177]
+    ensyuf_d: [190, 175]
+    ensyue_n: [160, 0]
+    battle_n: [198, 210]
+    battle_d: [240, 210]
+    wed_a: [196, -21]
+    wed_b: [88, 190]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---
