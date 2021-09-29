@@ -10,7 +10,7 @@ data:
   cnum: 8
   backs: 7
   after_lv: 91
-  after_ship_id: 588
+  after_ship_id: null
   get_mes: <br>
   voice_f: 3
   filename: ccmlwotxuyeu
