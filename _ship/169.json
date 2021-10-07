@@ -55,6 +55,6 @@ data:
     wed_b: [216, 192]
   wiki_id: "169"
   chinese_name: 谷风
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

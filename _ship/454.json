@@ -55,6 +55,6 @@ data:
     wed_b: [168, 156]
   wiki_id: "254"
   chinese_name: 岚
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

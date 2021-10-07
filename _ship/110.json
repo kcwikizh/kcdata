@@ -55,6 +55,6 @@ data:
     wed_b: [159, 184]
   wiki_id: "106"
   chinese_name: 翔鹤
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

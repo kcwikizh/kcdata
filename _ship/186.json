@@ -55,6 +55,6 @@ data:
     wed_b: [192, 180]
   wiki_id: "186"
   chinese_name: 时津风
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

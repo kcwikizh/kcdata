@@ -55,6 +55,6 @@ data:
     wed_b: [108, 162]
   wiki_id: "374"
   chinese_name: 哥特兰
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

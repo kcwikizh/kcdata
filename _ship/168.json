@@ -55,6 +55,6 @@ data:
     wed_b: [228, 216]
   wiki_id: "168"
   chinese_name: 浦风
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

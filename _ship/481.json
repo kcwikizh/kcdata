@@ -55,6 +55,6 @@ data:
     wed_b: [180, 168]
   wiki_id: "281"
   chinese_name: 水无月
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

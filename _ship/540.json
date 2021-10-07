@@ -55,6 +55,6 @@ data:
     wed_b: [132, 180]
   wiki_id: "340"
   chinese_name: 对马
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---
