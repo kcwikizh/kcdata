@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ufcqfujavyyg
-  file_version: ["34", "17", "928"]
+  file_version: ["35", "18", "1015"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 3]
     build_time: 190
   graph:
-    boko_n: [45, 105]
-    boko_d: [22, 112]
+    boko_n: [132, 222]
+    boko_d: [138, 222]
     kaisyu_n: [24, -9]
     kaisyu_d: [48, 6]
-    kaizo_n: [-6, 22]
-    kaizo_d: [-42, -19]
-    map_n: [21, 112]
-    map_d: [-22, 103]
-    ensyuf_n: [126, 51]
-    ensyuf_d: [-63, 10]
-    ensyue_n: [7, 0]
-    battle_n: [-67, 75]
-    battle_d: [-82, 75]
-    wed_a: [357, 97]
-    wed_b: [165, 174]
+    kaizo_n: [72, 144]
+    kaizo_d: [-60, 90]
+    map_n: [84, 186]
+    map_d: [84, 192]
+    ensyuf_n: [84, 192]
+    ensyuf_d: [72, 192]
+    ensyue_n: [72, 0]
+    battle_n: [96, 210]
+    battle_d: [48, 216]
+    wed_a: [222, -12]
+    wed_b: [192, 168]
   wiki_id: "104a"
   chinese_name: 千岁航改
   can_drop: false

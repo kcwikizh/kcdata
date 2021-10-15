@@ -14,7 +14,7 @@ data:
   get_mes: 瑞鳳です。<br>軽空母ですが、練度があがれば、正規空母並の活躍をおみせできます。
   voice_f: 3
   filename: ktexichqewel
-  file_version: ["57", "21", "928"]
+  file_version: ["57", "21", "1015"]
   book_table_id: [116, 979]
   book_sinfo: 祥鳳型軽空母、瑞鳳です。<br>元々は高速給油艦として計画され、次に潜水母艦、最終的に軽空母として完成しました。小柄なボディだけれど、機動部隊最後の日まで敢闘しました！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [184, 226]
   wiki_id: "112"
   chinese_name: 瑞凤
-  can_drop: false
+  can_drop: true
   can_construct: true
 ---

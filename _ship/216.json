@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: cxhxktltjtbg
-  file_version: ["61", "11", "928"]
+  file_version: ["62", "11", "1015"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [108, 204]
-    boko_d: [120, 240]
+    boko_n: [66, 169]
+    boko_d: [66, 169]
     kaisyu_n: [13, 3]
     kaisyu_d: [15, 10]
-    kaizo_n: [72, 96]
-    kaizo_d: [60, 96]
-    map_n: [72, 156]
-    map_d: [48, 192]
-    ensyuf_n: [84, 156]
-    ensyuf_d: [84, 204]
-    ensyue_n: [60, 0]
-    battle_n: [96, 180]
-    battle_d: [60, 204]
-    wed_a: [222, 18]
-    wed_b: [198, 168]
+    kaizo_n: [82, 82]
+    kaizo_d: [67, 46]
+    map_n: [90, 145]
+    map_d: [90, 145]
+    ensyuf_n: [108, 151]
+    ensyuf_d: [108, 151]
+    ensyue_n: [100, 0]
+    battle_n: [139, 172]
+    battle_d: [139, 172]
+    wed_a: [220, -7]
+    wed_b: [133, 196]
   wiki_id: "040a"
   chinese_name: 多摩改
   can_drop: false

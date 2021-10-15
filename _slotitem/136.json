@@ -32,5 +32,51 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [60, 0, 900, 30]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [20, 30]
+            -
+              id: 4
+              amount: [4, 5]
+          -
+            -
+              id: 3
+              amount: [-1, -1]
+            -
+              id: 4
+              amount: [-1, -1]
+        slotitem:
+          -
+            id: 73
+            amount: 1
+          - 
+      upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 879
+        -
+          -
+            ship_id: 441
+          -
+            ship_id: 446
+        -
+          -
+            ship_id: 441
+          -
+            ship_id: 446
+        -
+          -
+            ship_id: 441
+          -
+            ship_id: 446
+        - false
+        - false
   chinese_name: 普列塞式水中防御隔壁
 ---

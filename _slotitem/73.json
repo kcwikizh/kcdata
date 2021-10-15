@@ -139,5 +139,74 @@ data:
             ship_id: 143
           -
             ship_id: 148
+    -
+      consume:
+        resource: [80, 0, 880, 0]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [8, 10]
+            -
+              id: 4
+              amount: [4, 5]
+          -
+            -
+              id: 3
+              amount: [-1, -1]
+            -
+              id: 4
+              amount: [-1, -1]
+        slotitem:
+          -
+            id: 72
+            amount: 2
+          - 
+      upgrade:
+        id: 136
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [40, 50]
+            -
+              id: 4
+              amount: [7, 11]
+          slotitem:
+            id: 133
+            amount: 1
+      day:
+        - false
+        -
+          -
+            ship_id: 877
+          -
+            ship_id: 878
+          -
+            ship_id: 879
+        -
+          -
+            ship_id: 877
+          -
+            ship_id: 878
+          -
+            ship_id: 879
+        -
+          -
+            ship_id: 877
+          -
+            ship_id: 878
+          -
+            ship_id: 879
+        -
+          -
+            ship_id: 877
+          -
+            ship_id: 878
+          -
+            ship_id: 879
+        - false
+        - false
   chinese_name: 增设装甲(大型舰)
 ---

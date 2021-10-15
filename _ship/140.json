@@ -14,7 +14,7 @@ data:
   get_mes: ぴゃん♪　阿賀野型軽巡四番艦、酒匂です！<br>司令、よろしくね！
   voice_f: 3
   filename: vrtbgpzuepqx
-  file_version: ["17", "9", "928"]
+  file_version: ["17", "9", "1015"]
   book_table_id: [140, 5370, 5506]
   book_sinfo: 阿賀野型軽巡姉妹の末っ子、四番艦の酒匂だよ。<br>生まれるのが遅すぎたかな、あまりお外にはいけな<br>かった。矢矧ちゃんと一緒に行きたかったけど…舞鶴<br>でお留守番したの。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [168, 168]
   wiki_id: "140"
   chinese_name: 酒匂
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---
