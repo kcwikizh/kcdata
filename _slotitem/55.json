@@ -46,15 +46,17 @@ data:
           -
             -
               id: 3
-              amount: [-1, -1]
+              amount: [8, 10]
             -
               id: 4
-              amount: [-1, -1]
+              amount: [5, 7]
         slotitem:
           -
             id: 55
             amount: 1
-          - 
+          -
+            id: 55
+            amount: 2
       upgrade:
         id: 271
         level: 0

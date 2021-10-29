@@ -46,15 +46,17 @@ data:
           -
             -
               id: 3
-              amount: [-1, -1]
+              amount: [32, 48]
             -
               id: 4
-              amount: [-1, -1]
+              amount: [6, 7]
         slotitem:
           -
             id: 73
             amount: 1
-          - 
+          -
+            id: 136
+            amount: 1
       upgrade:
       day:
         - false
@@ -66,16 +68,22 @@ data:
             ship_id: 441
           -
             ship_id: 446
+          -
+            ship_id: 879
         -
           -
             ship_id: 441
           -
             ship_id: 446
+          -
+            ship_id: 879
         -
           -
             ship_id: 441
           -
             ship_id: 446
+          -
+            ship_id: 879
         - false
         - false
   chinese_name: 普列塞式水中防御隔壁

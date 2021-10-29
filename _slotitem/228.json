@@ -32,5 +32,39 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [80, 70, 0, 190]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [3, 5]
+            -
+              id: 4
+              amount: [2, 4]
+        slotitem:
+          -
+            id: 19
+            amount: 2
+          -
+            id: 20
+            amount: 2
+      upgrade:
+      day:
+        - false
+        - false
+        - false
+        - false
+        - false
+        - true
+        - true
   chinese_name: 九六式舰战改
 ---

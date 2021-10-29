@@ -100,8 +100,6 @@ data:
           -
             ship_id: 148
           -
-            ship_id: 546
-          -
             ship_id: 81
           -
             ship_id: 276
@@ -153,15 +151,17 @@ data:
           -
             -
               id: 3
-              amount: [-1, -1]
+              amount: [20, 30]
             -
               id: 4
-              amount: [-1, -1]
+              amount: [6, 9]
         slotitem:
           -
             id: 72
             amount: 2
-          - 
+          -
+            id: 73
+            amount: 1
       upgrade:
         id: 136
         level: 0
