@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: bihiglbhbdbh
-  file_version: ["53", "2", "1015"]
+  file_version: ["54", "2", "1029"]
   book_table_id: [883, 5555]
   book_sinfo: 潜水母艦改装空母の龍鳳です。<br>機関の換装の影響で速度は計画通りには出なかったけ<br>れど、このクラスの軽空母としては充実の飛行甲板と<br>兵装なんです。<br>空母龍鳳、精一杯頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 3]
     build_time: 160
   graph:
-    boko_n: [66, 198]
-    boko_d: [90, 247]
+    boko_n: [204, 210]
+    boko_d: [198, 204]
     kaisyu_n: [34, 16]
     kaisyu_d: [57, 7]
-    kaizo_n: [58, 79]
-    kaizo_d: [102, 58]
-    map_n: [87, 178]
-    map_d: [118, 190]
-    ensyuf_n: [94, 168]
-    ensyuf_d: [118, 169]
-    ensyue_n: [70, 0]
-    battle_n: [151, 196]
-    battle_d: [172, 187]
-    wed_a: [238, -7]
-    wed_b: [115, 181]
+    kaizo_n: [96, 108]
+    kaizo_d: [114, 96]
+    map_n: [144, 174]
+    map_d: [156, 168]
+    ensyuf_n: [114, 192]
+    ensyuf_d: [144, 180]
+    ensyue_n: [90, 0]
+    battle_n: [144, 192]
+    battle_d: [168, 174]
+    wed_a: [210, 12]
+    wed_b: [144, 180]
   wiki_id: "483"
   chinese_name: 龙凤改二戊
   can_drop: false

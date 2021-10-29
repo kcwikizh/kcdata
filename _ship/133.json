@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型一番艦、夕雲、着任しました。<br>提督、甘えてくれても、いいんですよ？
   voice_f: 3
   filename: jtfihmyrvmiw
-  file_version: ["73", "6", "1015"]
+  file_version: ["75", "6", "1029"]
   book_table_id: [133, 5243, 5169, 5122, 5391, 5517]
   book_sinfo: 最終量産型艦隊駆逐艦の一番艦。舞鶴生まれよ。惨敗のミッドウェー海戦が初陣よ。いいじゃない、別に。あの島への鼠輸送やケ号作戦、南太平洋海戦、キスカ撤退作戦などで奮戦したわ。ふう。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [-36, 123]
-    boko_d: [-141, 153]
+    boko_n: [174, 186]
+    boko_d: [102, 258]
     kaisyu_n: [9, 9]
     kaisyu_d: [42, 10]
-    kaizo_n: [-73, 6]
-    kaizo_d: [-96, 9]
-    map_n: [-30, 78]
-    map_d: [-75, 108]
-    ensyuf_n: [0, 105]
-    ensyuf_d: [-90, 60]
-    ensyue_n: [-30, 0]
-    battle_n: [-30, 96]
-    battle_d: [-60, 165]
-    wed_a: [406, 70]
-    wed_b: [187, 217]
+    kaizo_n: [108, 90]
+    kaizo_d: [12, 156]
+    map_n: [168, 156]
+    map_d: [48, 210]
+    ensyuf_n: [120, 150]
+    ensyuf_d: [0, 192]
+    ensyue_n: [120, 0]
+    battle_n: [168, 162]
+    battle_d: [48, 228]
+    wed_a: [192, 30]
+    wed_b: [156, 168]
   wiki_id: "133"
   chinese_name: 夕云
   can_drop: true

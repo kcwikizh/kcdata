@@ -14,7 +14,7 @@ data:
   get_mes: はいはーい！白露型駆逐艦「村雨」だよ。<br>みんな、よろしくね！
   voice_f: 0
   filename: fhaelooubkbi
-  file_version: ["60", "70", "1015"]
+  file_version: ["63", "71", "1029"]
   book_table_id: [44, 244, 5191, 5201, 5226, 5309, 5478]
   book_sinfo: 白露型駆逐艦３番艦、村雨よ。<br>雨の名前の駆逐艦群なんてお洒落よね？<br>姉妹艦の夕立たちと一緒に第２駆逐隊を編成したの。<br>鼠輸送ですって？　失礼しちゃう、ガダルカナル島輸<br>送作戦でも活躍したわ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 22
   graph:
-    boko_n: [169, 114]
-    boko_d: [163, 109]
+    boko_n: [150, 78]
+    boko_d: [168, 180]
     kaisyu_n: [4, 25]
     kaisyu_d: [22, 10]
-    kaizo_n: [87, 31]
-    kaizo_d: [82, -13]
-    map_n: [69, 105]
-    map_d: [19, 94]
-    ensyuf_n: [151, 102]
-    ensyuf_d: [94, 31]
-    ensyue_n: [151, 0]
-    battle_n: [76, 79]
-    battle_d: [96, 79]
-    wed_a: [202, 94]
-    wed_b: [177, 214]
+    kaizo_n: [72, -12]
+    kaizo_d: [72, 48]
+    map_n: [84, 72]
+    map_d: [96, 132]
+    ensyuf_n: [84, 66]
+    ensyuf_d: [120, 126]
+    ensyue_n: [72, 0]
+    battle_n: [96, 72]
+    battle_d: [108, 144]
+    wed_a: [240, 150]
+    wed_b: [177, 150]
   wiki_id: "081"
   chinese_name: 村雨
   can_drop: true

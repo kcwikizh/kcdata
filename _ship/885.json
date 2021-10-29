@@ -14,9 +14,9 @@ data:
   get_mes: 私がAircraft Carrier HMS Victorious。お前が提督か。<br>よかろう。お前と征こうか。この海を！
   voice_f: 1
   filename: kqoobdjpsppb
-  file_version: ["52", "2", "1015"]
-  book_table_id: [885]
-  book_sinfo: Illustrious　class Aircraft Carrier<br>HMS Victorious。装甲甲板を持つ英正規空母よ。<br>数々の戦いを乗り越え、戦後はジェット艦載機も運用<br>可能に改装されたわ。よろしくね。
+  file_version: ["53", "2", "1029"]
+  book_table_id: [885, 5584]
+  book_sinfo: Illustrious　class Aircraft Carrier<br>HMS Victorious。装甲甲板を持つ英正規空母よ。数々の戦いを乗り越え、戦後はジェット艦載機も運用可能に改装されたわ。よろしくね。
   stats:
     taik: [59, 85]
     souk: [38, 80]
@@ -38,20 +38,20 @@ data:
     pow_up: [0, 0, 4, 5]
     build_time: 250
   graph:
-    boko_n: [175, 196]
-    boko_d: [121, 208]
+    boko_n: [124, 196]
+    boko_d: [63, 208]
     kaisyu_n: [61, -15]
     kaisyu_d: [96, 1]
-    kaizo_n: [183, 76]
-    kaizo_d: [117, 48]
-    map_n: [195, 169]
-    map_d: [166, 189]
-    ensyuf_n: [186, 175]
-    ensyuf_d: [160, 174]
-    ensyue_n: [189, 0]
-    battle_n: [229, 195]
-    battle_d: [196, 202]
-    wed_a: [168, -21]
+    kaizo_n: [132, 76]
+    kaizo_d: [58, 48]
+    map_n: [144, 169]
+    map_d: [108, 189]
+    ensyuf_n: [135, 175]
+    ensyuf_d: [102, 174]
+    ensyue_n: [138, 0]
+    battle_n: [178, 195]
+    battle_d: [138, 202]
+    wed_a: [219, -21]
     wed_b: [94, 169]
   wiki_id: "485"
   chinese_name: 胜利

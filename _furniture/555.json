@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 555
+  type: 3
+  no: 122
+  title: 二一式大漁旗
+  description: 頑張りましたね！大湊から<br>出撃し、三陸沖、そして…<br>北海道根室沖での新秋刀魚<br>奇跡の大漁、おめでとう…<br>ございますっ！大漁です！
+  rarity: 6
+  price: 0
+  saleflg: 0
+  season: 44
+  filename: "123"
+  file_version: "1"
+---

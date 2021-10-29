@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: dyewlqqgctjx
-  file_version: ["52", "2", "1015"]
+  file_version: ["53", "2", "1029"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,20 +38,20 @@ data:
     pow_up: [0, 0, 5, 5]
     build_time: 250
   graph:
-    boko_n: [175, 196]
-    boko_d: [121, 208]
+    boko_n: [124, 196]
+    boko_d: [63, 208]
     kaisyu_n: [61, -15]
     kaisyu_d: [96, 1]
-    kaizo_n: [183, 76]
-    kaizo_d: [117, 48]
-    map_n: [195, 169]
-    map_d: [166, 189]
-    ensyuf_n: [186, 175]
-    ensyuf_d: [160, 174]
-    ensyue_n: [189, 0]
-    battle_n: [229, 195]
-    battle_d: [196, 202]
-    wed_a: [168, -21]
+    kaizo_n: [132, 76]
+    kaizo_d: [58, 48]
+    map_n: [144, 169]
+    map_d: [108, 189]
+    ensyuf_n: [135, 175]
+    ensyuf_d: [102, 174]
+    ensyue_n: [138, 0]
+    battle_n: [178, 195]
+    battle_d: [138, 202]
+    wed_a: [219, -21]
     wed_b: [94, 169]
   wiki_id: "485a"
   chinese_name: 胜利改
