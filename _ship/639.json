@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: cokndlimiunf
-  file_version: ["64", "7", "1015"]
+  file_version: ["64", "7", "1029"]
   book_table_id: [639, 5489, 5525]
   book_sinfo: 迅鯨型潜水母艦一番艦、迅鯨です。八八艦隊計画の流れの中で生まれました。潜水戦隊の旗艦としてはもちろん、練習艦や輸送任務でも活躍しました。日本初の本格的な設計の潜水母艦、妹の長鯨共々、どうぞよろしくお願いします。
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: grmdtyheocuc
-  file_version: ["17", "21", "1015"]
+  file_version: ["17", "21", "1029"]
   book_table_id: [463, 1083]
   book_sinfo: 朝潮型駆逐艦のネームシップ、朝潮よ。<br>バランスのとれた量産型駆逐艦として建造され、戦線<br>を支えたの。<br>私の進化改良型が陽炎型になるわね。
   stats:
