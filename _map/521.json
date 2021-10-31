@@ -1,0 +1,174 @@
+---
+layout: json
+order: 521
+data:
+  id: 521
+  name: 三陸沖/北海道根室半島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: I
+      to: K
+    12:
+      from: G
+      to: L
+    13:
+      from: J
+      to: M
+    14:
+      from: I
+      to: N
+    15:
+      from: D
+      to: E
+    16:
+      from: E
+      to: F
+    17:
+      from: H
+      to: I
+    18:
+      from: L
+      to: O
+    19:
+      from: O
+      to: P
+    20:
+      from: P
+      to: Q
+    21:
+      from: P
+      to: R
+    22:
+      from: L
+      to: P
+  cells:
+    1:
+      name: 
+      type:
+      boss: false
+      routes: [0]
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海北方任務群 空母艦載機群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海北方任務群 前衛偵察隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海潜水艦隊 津軽海峡侵入群
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海北方任務群 哨戒水雷戦隊
+      type:
+      boss: false
+      routes: [5, 15]
+    F:
+      name: 深海潜水艦隊 三陸沖哨戒群
+      type:
+      boss: false
+      routes: [6, 16]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海北方任務群 空母艦載機群
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 深海北方任務群 前衛空母集団
+      type:
+      boss: false
+      routes: [9, 17]
+    J:
+      name: 深海北方任務群 重巡戦隊
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 深海北方任務群 空母艦載機群
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 深海北方任務群 水産物調査集団
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海北方任務群 戦艦戦隊
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 深海潜水艦隊 北海道沖展開群
+      type:
+      boss: false
+      routes: [18]
+    P:
+      name: 深海北方任務群 機動部隊随伴
+      type:
+      boss: false
+      routes: [19, 22]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    R:
+      name: 深海北方任務群 機動部隊本隊
+      type:
+      boss: true
+      routes: [21]
+  image: MapHDE-1Autumn2021.png
+---
