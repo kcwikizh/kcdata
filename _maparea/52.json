@@ -1,0 +1,11 @@
+---
+layout: json
+order: 52
+data:
+  id: 52
+  name: 帰ってきた鎮守府秋刀魚祭り
+  maps:
+    - 521
+  event: true
+  level: 4
+---
