@@ -11,5 +11,5 @@ data:
   saleflg: 0
   season: 44
   filename: "123"
-  file_version: "1"
+  file_version: 1
 ---
