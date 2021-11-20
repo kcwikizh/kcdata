@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: kombecutehdl
-  file_version: ["64", "3", "1029"]
+  file_version: ["65", "3", "1119"]
   book_table_id: [619]
   book_sinfo: イタリア海軍マエストラーレ級駆逐艦の次女、グレカ<br>ーレよ。なーに、あんまりジロジロみないでよ。姉妹<br>たちとの第10駆逐隊で結構頑張ったのよ。みんな、<br>逝ってしまったけれど、あたしは戦い抜けた。そし<br>て、戦いの後も海の護りについたの。主武装を撤去し<br>た司令艦として。覚えておいて。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 23
   graph:
-    boko_n: [22, 217]
-    boko_d: [133, 345]
+    boko_n: [-28, 193]
+    boko_d: [10, 300]
     kaisyu_n: [1, -21]
     kaisyu_d: [33, -49]
-    kaizo_n: [6, 69]
-    kaizo_d: [133, 144]
-    map_n: [64, 139]
-    map_d: [211, 286]
-    ensyuf_n: [-1, 135]
-    ensyuf_d: [202, 199]
-    ensyue_n: [-15, 0]
-    battle_n: [67, 160]
-    battle_d: [231, 258]
-    wed_a: [333, 21]
-    wed_b: [169, 181]
+    kaizo_n: [-31, 58]
+    kaizo_d: [24, 82]
+    map_n: [13, 129]
+    map_d: [108, 202]
+    ensyuf_n: [-43, 111]
+    ensyuf_d: [55, 196]
+    ensyue_n: [-75, 0]
+    battle_n: [4, 136]
+    battle_d: [102, 222]
+    wed_a: [400, 33]
+    wed_b: [184, 196]
   wiki_id: "419"
   chinese_name: 东北风改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: jqqkmitxodgw
-  file_version: ["19", "21", "1029"]
+  file_version: ["20", "21", "1119"]
   book_table_id: [199, 1076]
   book_sinfo: 朝潮型駆逐艦の２番艦、大潮です！<br>各戦線で活躍した後、あのガダルカナル島撤収作戦に<br>も3回出動しました。<br>支えてみせます！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [145, 76]
-    boko_d: [168, 256]
+    boko_n: [177, 186]
+    boko_d: [228, 234]
     kaisyu_n: [18, 24]
     kaisyu_d: [36, 48]
-    kaizo_n: [129, -43]
-    kaizo_d: [136, 103]
-    map_n: [150, 55]
-    map_d: [205, 237]
-    ensyuf_n: [135, 40]
-    ensyuf_d: [177, 204]
-    ensyue_n: [120, 0]
-    battle_n: [190, 91]
-    battle_d: [226, 264]
-    wed_a: [223, 145]
-    wed_b: [97, 145]
+    kaizo_n: [120, 102]
+    kaizo_d: [156, 138]
+    map_n: [120, 168]
+    map_d: [150, 204]
+    ensyuf_n: [132, 156]
+    ensyuf_d: [150, 198]
+    ensyue_n: [126, 0]
+    battle_n: [156, 174]
+    battle_d: [192, 216]
+    wed_a: [186, 24]
+    wed_b: [162, 180]
   wiki_id: "199"
   chinese_name: 大潮改二
   can_drop: false

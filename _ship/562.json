@@ -14,8 +14,8 @@ data:
   get_mes: Hi! あたしがフレッチャー級、USS ジョンストンよ！<br>I’m going to be a fighting ship！ 文字通り弾が尽きるまで<br>守ってみせる！　今度もね！
   voice_f: 1
   filename: xhybbhhnqpyv
-  file_version: ["66", "1", "1029"]
-  book_table_id: [562, 689, 5407, 5408, 5440, 5510]
+  file_version: ["67", "1", "1119"]
+  book_table_id: [562, 689, 5407, 5408, 5440, 5510, 5595]
   book_sinfo: Hi！　あたしがフレッチャー級、ジョンストンよ！<br>太平洋狭しと駆け抜けたの。ソロモン、マーシャル、<br>そしてレイテの戦いに参加したのよ。サマール沖では<br>サム達と一緒にTaffyⅢで巨大な艦隊に立ち向かった<br>わ！フレッチャー級、ジョンストン、覚えていてね！
   stats:
     taik: [17, 35]
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 2, 1]
     build_time: 23
   graph:
-    boko_n: [144, 241]
-    boko_d: [-136, 313]
+    boko_n: [-36, 183]
+    boko_d: [136, 255]
     kaisyu_n: [16, -19]
     kaisyu_d: [63, 3]
-    kaizo_n: [139, 120]
-    kaizo_d: [-148, 121]
-    map_n: [211, 217]
-    map_d: [-39, 246]
-    ensyuf_n: [222, 192]
-    ensyuf_d: [-28, 211]
-    ensyue_n: [211, 0]
-    battle_n: [268, 235]
-    battle_d: [4, 270]
-    wed_a: [159, -43]
-    wed_b: [118, 154]
+    kaizo_n: [-31, 58]
+    kaizo_d: [120, 85]
+    map_n: [12, 147]
+    map_d: [207, 210]
+    ensyuf_n: [-15, 139]
+    ensyuf_d: [156, 214]
+    ensyue_n: [-19, 0]
+    battle_n: [43, 166]
+    battle_d: [216, 232]
+    wed_a: [373, 30]
+    wed_b: [103, 154]
   wiki_id: "362"
   chinese_name: 约翰斯顿
   can_drop: true

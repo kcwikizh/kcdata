@@ -14,8 +14,8 @@ data:
   get_mes: Aloha、提督！　あたしが、ニューヨーク生まれ、<br>ハワイ育ちのHonoluluだ！　あ～っノーザも居ンだ…！<br>そっか！いいね！　あたしの事も、よろしく頼むよっ！
   voice_f: 1
   filename: nmjwixriholz
-  file_version: ["54", "2", "1029"]
-  book_table_id: [598, 711, 5565]
+  file_version: ["55", "3", "1119"]
+  book_table_id: [598, 711, 5565, 5585]
   book_sinfo: あたし、Brooklyn級軽巡洋艦、Honolulu。ニュー<br>ヨーク生まれのハワイ育ち。よろしくねっ！戦いの始<br>まった日もあの真珠湾にいたんだ。ソロモンでは東京<br>急行を阻止するため、日本水雷戦隊のエースたちとガ<br>チでやりあったんだ。戦い抜いたよ！　覚えておいて<br>ね！
   stats:
     taik: [38, 56]
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 0, 2, 2]
     build_time: 70
   graph:
-    boko_n: [150, 196]
-    boko_d: [96, 249]
+    boko_n: [49, 211]
+    boko_d: [169, 271]
     kaisyu_n: [40, 1]
     kaisyu_d: [73, 22]
-    kaizo_n: [150, 73]
-    kaizo_d: [100, 70]
-    map_n: [169, 183]
-    map_d: [133, 214]
-    ensyuf_n: [154, 183]
-    ensyuf_d: [132, 202]
-    ensyue_n: [162, 0]
-    battle_n: [213, 202]
-    battle_d: [183, 217]
-    wed_a: [178, -24]
-    wed_b: [109, 199]
+    kaizo_n: [46, 88]
+    kaizo_d: [177, 87]
+    map_n: [97, 187]
+    map_d: [217, 214]
+    ensyuf_n: [64, 180]
+    ensyuf_d: [205, 187]
+    ensyue_n: [49, 0]
+    battle_n: [112, 211]
+    battle_d: [246, 232]
+    wed_a: [301, -16]
+    wed_b: [109, 180]
   wiki_id: "398"
   chinese_name: 火奴鲁鲁
   can_drop: false

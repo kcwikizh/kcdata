@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 895
-  sort_no: 0
-  name: 梅雨千代田
-  yomi: ちよだ
-  stype: 16
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: cufrrldmalji
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 495
+  name: 昭南
+  yomi: しょうなん
+  stype: 1
+  ctype: 85
+  cnum: 3
+  backs: 4
+  after_lv: 37
+  after_ship_id: 714
+  get_mes: 私、日振型海防艦、その三番艦、昭南です。<br>提督、海上護衛、ますます厳しい…頑張りましょう。
+  voice_f: 1
+  filename: bpspwdhjcbdn
+  file_version: ["51", "1", "1119"]
+  book_table_id: [895]
+  book_sinfo: 日振型海防艦、その三番艦、昭南です。佐世保工廠で<br>最終整備され、第一海上護衛隊に配属されました。<br>悪化する戦況の中で、本土とシンガポール(昭南)間の<br>シーレーン防衛に務めました。数次に渡る厳しく哀し<br>いヒ船団の護衛…私の最期も…ヒ船団の護衛艦として<br>の任務中でした。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 10
-    leng: 
-    kaih: 
-    tais: 
+    taik: [9, 18]
+    souk: [4, 17]
+    houg: [4, 18]
+    raig: [0, 0]
+    tyku: [10, 38]
+    luck: [9, 57]
+    soku: 5
+    leng: 1
+    kaih: 39
+    tais: 38
     slot_num: 2
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 45
+    after_bull: 95
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 0, 0]
+    build_time: 9
   graph:
-    boko_n: [258, 126]
-    boko_d: [192, 264]
-    kaisyu_n: [15, 7]
-    kaisyu_d: [39, 22]
-    kaizo_n: [138, 60]
-    kaizo_d: [84, 144]
-    map_n: [156, 96]
-    map_d: [78, 210]
-    ensyuf_n: [156, 84]
-    ensyuf_d: [66, 204]
-    ensyue_n: [150, 0]
-    battle_n: [204, 126]
-    battle_d: [108, 216]
-    wed_a: [162, 120]
-    wed_b: [150, 144]
+    boko_n: [217, 88]
+    boko_d: [217, 88]
+    kaisyu_n: [27, -61]
+    kaisyu_d: [51, -46]
+    kaizo_n: [220, -34]
+    kaizo_d: [205, -70]
+    map_n: [225, 51]
+    map_d: [225, 51]
+    ensyuf_n: [232, 33]
+    ensyuf_d: [232, 33]
+    ensyue_n: [214, 0]
+    battle_n: [244, 69]
+    battle_d: [244, 69]
+    wed_a: [124, 124]
+    wed_b: [103, 183]
   wiki_id: 
   chinese_name: 
   can_drop: false

@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 714
+  sort_no: 1714
+  name: 昭南改
+  yomi: しょうなん
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: xbkkwyjtmmji
+  file_version: ["51", "1", "1119"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [18, 29]
+    souk: [7, 34]
+    houg: [5, 37]
+    raig: [0, 0]
+    tyku: [18, 63]
+    luck: [12, 67]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 1, 0]
+    build_time: 9
+  graph:
+    boko_n: [217, 88]
+    boko_d: [217, 88]
+    kaisyu_n: [27, -61]
+    kaisyu_d: [51, -46]
+    kaizo_n: [220, -34]
+    kaizo_d: [205, -70]
+    map_n: [225, 51]
+    map_d: [225, 51]
+    ensyuf_n: [232, 33]
+    ensyuf_d: [232, 33]
+    ensyue_n: [214, 0]
+    battle_n: [244, 69]
+    battle_d: [244, 69]
+    wed_a: [124, 124]
+    wed_b: [103, 183]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

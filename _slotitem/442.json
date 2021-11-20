@@ -1,0 +1,36 @@
+---
+layout: json
+order: 442
+data:
+  id: 442
+  sort_no: 442
+  name: 潜水艦後部魚雷発射管4門(初期型)
+  type: [2, 3, 32, 5, 0]
+  rare: 2
+  broken: [2, 2, 3, 2]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 6
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name:
+---

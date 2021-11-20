@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 299
+  sort_no: 493
+  name: Scamp
+  yomi: スキャンプ
+  stype: 13
+  ctype: 114
+  cnum: 277
+  backs: 6
+  after_lv: 50
+  after_ship_id: 715
+  get_mes: あんたがAdmiral？　ふーん。そっか！<br>あたいは、Gato級潜水艦、Scampさ。<br>割と……できるよ？　ま、よろしく。
+  voice_f: 1
+  filename: etovtoqifpql
+  file_version: ["51", "1", "1119"]
+  book_table_id: [299]
+  book_sinfo: あたいがGato級潜水艦、Scampだ。そうさ、大戦で<br>最も活躍した艦級の一つとも評価されるあのGato級<br>だよ。何度も敵の奥深くに出撃したさ。数えきれない<br>戦功を挙げたが、最期は日本海防艦につかまっちまっ<br>た。油断は大敵さ。
+  stats:
+    taik: [13, 18]
+    souk: [4, 20]
+    houg: [1, 11]
+    raig: [35, 73]
+    tyku: [0, 0]
+    luck: [11, 55]
+    soku: 5
+    leng: 1
+    kaih: 17
+    tais: 0
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 140
+    after_bull: 200
+    fuel_max: 10
+    bull_max: 20
+    broken: [1, 2, 2, 2]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [133, 216]
+    boko_d: [-184, 295]
+    kaisyu_n: [75, 15]
+    kaisyu_d: [31, -39]
+    kaizo_n: [133, 96]
+    kaizo_d: [-88, 63]
+    map_n: [168, 187]
+    map_d: [-135, 204]
+    ensyuf_n: [160, 178]
+    ensyuf_d: [-138, 192]
+    ensyue_n: [156, 0]
+    battle_n: [195, 220]
+    battle_d: [-72, 226]
+    wed_a: [166, -34]
+    wed_b: [139, 196]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

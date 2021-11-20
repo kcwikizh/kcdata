@@ -14,7 +14,7 @@ data:
   get_mes: Buon Giornov！ ザラ級重巡、一番艦ザラです！<br>粘り強さが信条です。提督、よろしくね！
   voice_f: 1
   filename: spmuptretooz
-  file_version: ["11", "2", "1029"]
+  file_version: ["12", "2", "1119"]
   book_table_id: [448, 857]
   book_sinfo: ザラ級重巡洋艦、その一番艦、ザラです。巡洋艦同士の昼間水上砲戦なら、誰にも負けない自負はあります。妹のポーラが少し心配だけど、この艦隊なら！提督、頑張りましょう！<br>重巡ザラ、艦隊に参加します！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 0, 0, 2]
     build_time: 70
   graph:
-    boko_n: [168, 204]
-    boko_d: [240, 204]
+    boko_n: [90, 210]
+    boko_d: [84, 267]
     kaisyu_n: [33, -18]
     kaisyu_d: [22, -6]
-    kaizo_n: [132, 120]
-    kaizo_d: [192, 108]
-    map_n: [180, 186]
-    map_d: [222, 204]
-    ensyuf_n: [138, 174]
-    ensyuf_d: [216, 186]
-    ensyue_n: [102, 0]
-    battle_n: [180, 198]
-    battle_d: [270, 204]
-    wed_a: [174, 12]
-    wed_b: [138, 186]
+    kaizo_n: [-6, 120]
+    kaizo_d: [-24, 132]
+    map_n: [-12, 186]
+    map_d: [-48, 192]
+    ensyuf_n: [-6, 198]
+    ensyuf_d: [-24, 192]
+    ensyue_n: [0, 0]
+    battle_n: [30, 204]
+    battle_d: [-6, 204]
+    wed_a: [294, -12]
+    wed_b: [192, 168]
   wiki_id: "248"
   chinese_name: 扎拉
   can_drop: true

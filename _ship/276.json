@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: hujriolkmhzy
-  file_version: ["57", "10", "1029"]
+  file_version: ["58", "10", "1119"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [5, 0, 2, 5]
     build_time: 300
   graph:
-    boko_n: [240, 192]
-    boko_d: [318, 198]
+    boko_n: [39, 118]
+    boko_d: [37, 121]
     kaisyu_n: [18, 24]
     kaisyu_d: [51, -7]
-    kaizo_n: [228, 102]
-    kaizo_d: [252, 102]
-    map_n: [258, 156]
-    map_d: [270, 174]
-    ensyuf_n: [240, 156]
-    ensyuf_d: [240, 168]
-    ensyue_n: [192, 0]
-    battle_n: [258, 174]
-    battle_d: [300, 186]
-    wed_a: [96, 12]
-    wed_b: [150, 192]
+    kaizo_n: [-45, 46]
+    kaizo_d: [-46, -6]
+    map_n: [-58, 117]
+    map_d: [-97, 100]
+    ensyuf_n: [4, 88]
+    ensyuf_d: [-33, 18]
+    ensyue_n: [4, 0]
+    battle_n: [-48, 69]
+    battle_d: [-55, 156]
+    wed_a: [352, 93]
+    wed_b: [162, 162]
   wiki_id: "002a"
   chinese_name: 陆奥改
   can_drop: false

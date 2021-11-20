@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: wnibjvejengh
-  file_version: ["22", "12", "1029"]
+  file_version: ["22", "12", "1119"]
   book_table_id: [436, 796]
   book_sinfo: ドイツ海軍のUボート、U-511を日本海軍式に改装して運用した、呂号第500潜水艦です。<br>舞鶴を母港として運用されました。実戦には出なかったんだけど、対潜部隊の訓練などで活躍しました、はい！
   stats:

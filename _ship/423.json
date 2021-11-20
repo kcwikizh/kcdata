@@ -14,7 +14,7 @@ data:
   get_mes: 秋月型駆逐艦、その四番艦、初月だ。<br>お前が提督か。いいだろう。僕が行こう。
   voice_f: 1
   filename: uscckqoguchc
-  file_version: ["8", "3", "1029"]
+  file_version: ["9", "3", "1119"]
   book_table_id: [423, 1077]
   book_sinfo: 秋月型防空駆逐艦、四番艦の初月だ。<br>舞鶴で生まれた。姉さんたちと共に、第六十一駆逐隊<br>を編成、マリアナ沖海戦や、レイテ沖海戦に参加し<br>た。防空戦闘、空母救援を実施した後、艦隊の殿とし<br>て僕は敵艦隊に向かった。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 3, 1]
     build_time: 30
   graph:
-    boko_n: [184, 223]
-    boko_d: [118, 240]
+    boko_n: [87, 216]
+    boko_d: [120, 228]
     kaisyu_n: [18, 18]
     kaisyu_d: [30, -6]
-    kaizo_n: [165, 88]
-    kaizo_d: [82, 69]
-    map_n: [207, 183]
-    map_d: [136, 199]
-    ensyuf_n: [196, 193]
-    ensyuf_d: [127, 210]
-    ensyue_n: [168, 0]
-    battle_n: [232, 207]
-    battle_d: [165, 219]
-    wed_a: [163, -15]
-    wed_b: [91, 150]
+    kaizo_n: [6, 114]
+    kaizo_d: [-24, 84]
+    map_n: [30, 168]
+    map_d: [18, 186]
+    ensyuf_n: [6, 186]
+    ensyuf_d: [30, 168]
+    ensyue_n: [18, 0]
+    battle_n: [48, 186]
+    battle_d: [60, 192]
+    wed_a: [306, 0]
+    wed_b: [138, 180]
   wiki_id: "223"
   chinese_name: 初月
   can_drop: false
