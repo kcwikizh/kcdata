@@ -1,0 +1,340 @@
+---
+layout: json
+order: 523
+data:
+  id: 523
+  name: 八丈島沖/房総半島東方沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: H
+      to: D
+    5:
+      from: A
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: C
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: E
+      to: B
+    11:
+      from: B
+      to: E
+    12:
+      from: G
+      to: H
+    13:
+      from: 2
+      to: J
+    14:
+      from: J
+      to: K
+    15:
+      from: E
+      to: L
+    16:
+      from: L
+      to: M
+    17:
+      from: M
+      to: N
+    18:
+      from: S1
+      to: O1
+    19:
+      from: O1
+      to: O2
+    20:
+      from: O1
+      to: O
+    21:
+      from: N
+      to: P
+    22:
+      from: P
+      to: Q
+    23:
+      from: P
+      to: R
+    24:
+      from: L
+      to: S1
+    25:
+      from: M
+      to: S2
+    26:
+      from: M
+      to: S3
+    27:
+      from: O1
+      to: S4
+    28:
+      from: S2
+      to: N
+    29:
+      from: O2
+      to: O
+    30:
+      from: O
+      to: P
+    31:
+      from: S3
+      to: P
+    32:
+      from: S4
+      to: P
+    33:
+      from: J
+      to: B
+    34:
+      from: K
+      to: B
+    35:
+      from: null
+      to: 2
+    36:
+      from: N
+      to: R1
+    37:
+      from: R1
+      to: R2
+    38:
+      from: T
+      to: S
+    39:
+      from: A
+      to: T
+    40:
+      from: S
+      to: U
+    41:
+      from: U
+      to: V
+    42:
+      from: U
+      to: W
+    43:
+      from: U
+      to: X
+    44:
+      from: V
+      to: Y
+    45:
+      from: X
+      to: Z
+    46:
+      from: T
+      to: U
+    47:
+      from: V
+      to: W
+    48:
+      from: W
+      to: X
+    49:
+      from: X
+      to: Y
+  cells:
+    1:
+      name: 
+      type:
+      boss: false
+      routes: [0]
+    2:
+      name: 
+      type:
+      boss: false
+      routes: [35]
+    A:
+      name: 深海潜水艦隊 浸透哨戒群 A集団
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [2, 10, 33, 34]
+    C:
+      name: 深海腐食任務部隊 前衛警戒I群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [5, 11]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8, 12]
+    I:
+      name: 深海腐食任務部隊 八丈島砲撃群
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    M:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [16]
+    N:
+      name: 深海任務部隊 巡洋艦戦隊
+      type:
+      boss: false
+      routes: [17, 28]
+    O1:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    O2:
+      name: 
+      type:
+      boss: false
+      routes: [19]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [20, 29]
+    P:
+      name: 深海任務部隊 前衛高速戦艦戦隊
+      type:
+      boss: false
+      routes: [21, 30, 31, 32]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [22]
+    R:
+      name: 深海任務部隊 空母機動部隊 旗艦
+      type:
+      boss: false
+      routes: [23]
+    S1:
+      name: 
+      type:
+      boss: false
+      routes: [24]
+    S2:
+      name: 
+      type:
+      boss: false
+      routes: [25]
+    S3:
+      name: 
+      type:
+      boss: false
+      routes: [26]
+    S4:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    R1:
+      name: 深海潜水艦隊 群狼増援精鋭集団
+      type:
+      boss: false
+      routes: [36]
+    R2:
+      name: 深海任務部隊 増援艦隊
+      type:
+      boss: false
+      routes: [37]
+    S:
+      name: 深海潜水艦隊 房総沖精鋭潜水艦
+      type:
+      boss: false
+      routes: [38]
+    T:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [39]
+    U:
+      name: 深海任務部隊 突出偵察警戒群
+      type:
+      boss: false
+      routes: [40, 46]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [41]
+    W:
+      name: 深海潜水艦隊 八丈島沖侵入哨戒
+      type:
+      boss: false
+      routes: [42, 47]
+    X:
+      name: 深海任務部隊 八丈島空襲群
+      type:
+      boss: false
+      routes: [43, 48]
+    Y:
+      name: 
+      type:
+      boss: false
+      routes: [44, 49]
+    Z:
+      name: 深海鮫潜水艦隊 八丈島沖哨戒艦
+      type:
+      boss: true
+      routes: [45]
+  image: MapHDE-3Autumn2021.png
+---

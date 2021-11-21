@@ -6,6 +6,8 @@ data:
   name: 帰ってきた鎮守府秋刀魚祭り
   maps:
     - 521
+    - 522
+    - 523
   event: true
   level: 4
 ---

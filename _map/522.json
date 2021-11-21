@@ -1,0 +1,198 @@
+---
+layout: json
+order: 522
+data:
+  id: 522
+  name: 昭南方面～本土航路
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: D
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: A
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: I
+      to: H
+    9:
+      from: E
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: E
+      to: B
+    14:
+      from: H
+      to: F
+    15:
+      from: H
+      to: J
+    16:
+      from: G
+      to: M
+    17:
+      from: O
+      to: N
+    18:
+      from: M
+      to: O
+    19:
+      from: L
+      to: P
+    20:
+      from: O
+      to: Q
+    21:
+      from: C
+      to: R
+    22:
+      from: R
+      to: S
+    23:
+      from: S
+      to: T
+    24:
+      from: R
+      to: U
+    25:
+      from: S
+      to: U
+  cells:
+    1:
+      name: 
+      type:
+      boss: false
+      routes: [0]
+    A:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 輸送航路襲撃III群
+      type:
+      boss: false
+      routes: [2, 13]
+    C:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6, 14]
+    G:
+      name: 深海潜水艦隊 輸送航路襲撃I群
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海潜水艦隊 輸送航路襲撃II群
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 南シナ海侵入 深海任務部隊 III群
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10, 15]
+    K:
+      name: 深海潜水艦隊 航路襲撃司令群
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 南シナ海侵入 深海任務部隊 II群
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 深海通商破壊 深海水雷部隊
+      type:
+      boss: false
+      routes: [16]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    P:
+      name: 南シナ海侵入 深海任務部隊 旗艦
+      type:
+      boss: false
+      routes: [19]
+    Q:
+      name: 南シナ海侵入 深海任務部隊 I群
+      type:
+      boss: false
+      routes: [20]
+    R:
+      name: 深海任務部隊 前衛警戒群
+      type:
+      boss: false
+      routes: [21]
+    S:
+      name: 深海任務部隊付属 随伴部隊
+      type:
+      boss: false
+      routes: [22]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [23]
+    U:
+      name: 南シナ海侵入 深海任務部隊 旗艦
+      type:
+      boss: true
+      routes: [24, 25]
+  image: MapHDE-2Autumn2021.png
+---
