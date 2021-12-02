@@ -64,10 +64,10 @@ data:
           useitem:
             -
               id: 3
-              amount: [-1, 20]
+              amount: [13, 20]
             -
               id: 4
-              amount: [-1, 9]
+              amount: [7, 9]
             -
               id: 70
               amount: 1
