@@ -14,7 +14,7 @@ data:
   get_mes: Buon Giornov～。<br>ザラ級重巡の三番艦～、ポーラです～。<br>何にでも挑戦したいお年頃。頑張ります～。
   voice_f: 1
   filename: zbwwxnwyxhps
-  file_version: ["7", "1", "1119"]
+  file_version: ["8", "1", "1228"]
   book_table_id: [449, 828]
   book_sinfo: ザラ級重巡洋艦の三番艦、ポーラです～。皆さん、覚えてくださいね～。装甲と防御重視の優れた重巡さんなんです～。水上戦闘にちゃんと出撃したんですよ～。でも～、戦艦には勝てません～。飲むしかないです～。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 0, 0, 2]
     build_time: 70
   graph:
-    boko_n: [132, 216]
-    boko_d: [108, 240]
+    boko_n: [222, 204]
+    boko_d: [150, 228]
     kaisyu_n: [72, -18]
     kaisyu_d: [48, -18]
-    kaizo_n: [84, 150]
-    kaizo_d: [42, 138]
-    map_n: [108, 180]
-    map_d: [30, 186]
-    ensyuf_n: [108, 180]
-    ensyuf_d: [24, 192]
-    ensyue_n: [84, 0]
-    battle_n: [162, 198]
-    battle_d: [72, 210]
-    wed_a: [168, 0]
-    wed_b: [144, 186]
+    kaizo_n: [198, 114]
+    kaizo_d: [72, 108]
+    map_n: [216, 168]
+    map_d: [144, 174]
+    ensyuf_n: [204, 168]
+    ensyuf_d: [120, 189]
+    ensyue_n: [192, 0]
+    battle_n: [234, 180]
+    battle_d: [132, 198]
+    wed_a: [114, -12]
+    wed_b: [150, 198]
   wiki_id: "249"
   chinese_name: 波拉
   can_drop: true

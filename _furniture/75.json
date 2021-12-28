@@ -8,7 +8,7 @@ data:
   description: 鎮守府や泊地の新年を祝う<br>ための新年飾り。門松はも<br>ちろん、新春を艦娘たちと<br>楽しく迎えるための大切な<br>家具です。よいお年を！
   rarity: 3
   price: 2000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

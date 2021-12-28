@@ -14,7 +14,7 @@ data:
   get_mes: Hoi ！　貴方が噂のこの艦隊の提督ね！<br>私は、オランダ軽巡 De Ruyter！　 わかる？<br>わかるわかる？　そ、結構、いいから、私！　任せて。
   voice_f: 1
   filename: kskvawgvqhmy
-  file_version: ["59", "1", "1119"]
+  file_version: ["61", "1", "1228"]
   book_table_id: [604, 5415, 5423]
   book_sinfo: オランダ生まれの軽巡洋艦、De Ruyterよ。<br>新型主砲と強力な対空機銃座を集中配備した新しいコ<br>ンセプトの軽巡として、当時のオランダ領東インドに<br>配備されたの。ABDA艦隊の旗艦として戦ったけど…<br>日本の重巡、あれはやばいわ…わかるわかる！
   stats:

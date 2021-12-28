@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: lucqlupwpmvi
-  file_version: ["51", "1", "1119"]
+  file_version: ["51", "1", "1228"]
   book_table_id: [506]
   book_sinfo: 最上型重巡洋艦、一番艦。航空艤装もある程度残しな<br>がら、再び主砲を装備した火力型重改装のボク。<br>どうだろう！<br>夜の撃ち合いもボクに任せて！
   stats:

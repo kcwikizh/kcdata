@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 382
+  sort_no: 1462
+  name: 雲鷹改
+  yomi: うんよう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 85
+  after_ship_id: 889
+  get_mes: <br>
+  voice_f: 3
+  filename: wmftljyobwxn
+  file_version: ["51", "1", "1228"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [47, 72]
+    souk: [21, 52]
+    houg: [0, 24]
+    raig: [0, 0]
+    tyku: [17, 46]
+    luck: [10, 56]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [14, 19, 2, 2, 0]
+    after_fuel: 740
+    after_bull: 980
+    fuel_max: 30
+    bull_max: 30
+    broken: [2, 2, 16, 3]
+    pow_up: [0, 0, 2, 2]
+    build_time: 160
+  graph:
+    boko_n: [226, 220]
+    boko_d: [123, 231]
+    kaisyu_n: [30, 4]
+    kaisyu_d: [36, 6]
+    kaizo_n: [235, 93]
+    kaizo_d: [103, 70]
+    map_n: [250, 205]
+    map_d: [112, 214]
+    ensyuf_n: [244, 189]
+    ensyuf_d: [136, 196]
+    ensyue_n: [252, 0]
+    battle_n: [277, 213]
+    battle_d: [142, 229]
+    wed_a: [88, -25]
+    wed_b: [115, 163]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

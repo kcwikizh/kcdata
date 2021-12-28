@@ -3,6 +3,6 @@ layout: json
 data:
   id: 25
   name: オートジャイロ
-  show_flg: 1
+  show_flg: 0
   chinese_name: 
 ---

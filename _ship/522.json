@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 522
+  sort_no: 322
+  name: 八幡丸
+  yomi: うんよう
+  stype: 7
+  ctype: 
+  cnum: 
+  backs: 4
+  after_lv: 33
+  after_ship_id: 884
+  get_mes: 特設航空母艦、八幡丸です。<br>そう、元は新田丸級貨客船よ。<br>妹がお世話になっているわね、私も……よろしく。
+  voice_f: 1
+  filename: cifeeskojdom
+  file_version: ["51", "1", "1228"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [36, 58]
+    souk: [14, 32]
+    houg: [0, 10]
+    raig: [0, 0]
+    tyku: [13, 25]
+    luck: [6, 44]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [14, 9, 0, 0, 0]
+    after_fuel: 350
+    after_bull: 200
+    fuel_max: 25
+    bull_max: 25
+    broken: [2, 1, 16, 3]
+    pow_up: [0, 0, 1, 2]
+    build_time: 160
+  graph:
+    boko_n: [226, 220]
+    boko_d: [123, 231]
+    kaisyu_n: [30, 4]
+    kaisyu_d: [36, 6]
+    kaizo_n: [235, 93]
+    kaizo_d: [103, 70]
+    map_n: [250, 205]
+    map_d: [112, 214]
+    ensyuf_n: [244, 189]
+    ensyuf_d: [136, 196]
+    ensyue_n: [252, 0]
+    battle_n: [277, 213]
+    battle_d: [142, 229]
+    wed_a: [88, -25]
+    wed_b: [115, 163]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

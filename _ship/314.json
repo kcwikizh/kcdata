@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 7
   filename: kbdewgsfrkra
-  file_version: ["17", "9", "1119"]
+  file_version: ["19", "9", "1228"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -22,7 +22,7 @@ data:
     souk: [31, 69]
     houg: [27, 67]
     raig: [23, 78]
-    tyku: [19, 73]
+    tyku: [19, 74]
     luck: [30, 74]
     soku: 10
     leng: 2
