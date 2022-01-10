@@ -1,0 +1,36 @@
+---
+layout: json
+order: 621
+data:
+  id: 621
+  sort_no: 0
+  name: 深海戦爆複座鷹改
+  type: [3, 5, 7, 7, 0]
+  rare: 5
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 3
+    houg: 6
+    raig: 0
+    soku: 0
+    baku: 16
+    tyku: 11
+    tais: 24
+    atap: 0
+    houm: 12
+    raim: 0
+    houk: 5
+    raik: 0
+    bakk: 0
+    saku: 3
+    sakb: 0
+    luck: 0
+    leng: 4
+  improvement: 
+  chinese_name:
+---

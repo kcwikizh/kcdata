@@ -32,5 +32,88 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [0, 10, 10, 10]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [0, 1]
+            -
+              id: 4
+              amount: [1, 1]
+          -
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 1]
+        slotitem:
+          - 
+          -
+            id: 37
+            amount: 1
+      upgrade:
+        id: 38
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [1, 2]
+            -
+              id: 4
+              amount: [1, 2]
+          slotitem:
+      day:
+        -
+          -
+            ship_id: 474
+          -
+            ship_id: 371
+        -
+          -
+            ship_id: 474
+          -
+            ship_id: 371
+        -
+          -
+            ship_id: 472
+          -
+            ship_id: 370
+          -
+            ship_id: 474
+          -
+            ship_id: 371
+        -
+          -
+            ship_id: 472
+          -
+            ship_id: 370
+        -
+          -
+            ship_id: 472
+          -
+            ship_id: 370
+        -
+          -
+            ship_id: 472
+          -
+            ship_id: 370
+          -
+            ship_id: 474
+          -
+            ship_id: 371
+        -
+          -
+            ship_id: 472
+          -
+            ship_id: 370
+          -
+            ship_id: 474
+          -
+            ship_id: 371
   chinese_name: 7.7mm机铳
 ---

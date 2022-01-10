@@ -73,8 +73,6 @@ data:
             ship_id: 151
         - false
         - false
-        -
-          -
-            ship_id: 151
+        - false
   chinese_name: 35.6cm连装炮(迷彩)
 ---

@@ -13,8 +13,8 @@ data:
   after_ship_id: 254
   get_mes: 睦月です。<br>はりきって、まいりましょー！
   voice_f: 0
-  filename: snohitatusbk
-  file_version: ["31", "19", "1228"]
+  filename: snohitatusys
+  file_version: ["32", "19", "101"]
   book_table_id: [1, 5185, 5497]
   book_sinfo: 帝国海軍の駆逐艦で初めて大型で強力な61cm魚雷を搭載しました、睦月です！<br>旧式ながら、第一線で頑張ったのです！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [187, 36]
-    boko_d: [124, 37]
+    boko_n: [214, 229]
+    boko_d: [214, 229]
     kaisyu_n: [42, 10]
     kaisyu_d: [42, 10]
-    kaizo_n: [105, -46]
-    kaizo_d: [43, -48]
-    map_n: [43, 36]
-    map_d: [-19, 22]
-    ensyuf_n: [193, 27]
-    ensyuf_d: [-4, -48]
-    ensyue_n: [193, 0]
-    battle_n: [109, 40]
-    battle_d: [43, 31]
-    wed_a: [168, 162]
-    wed_b: [217, 229]
+    kaizo_n: [187, 102]
+    kaizo_d: [172, 67]
+    map_n: [205, 192]
+    map_d: [205, 192]
+    ensyuf_n: [202, 180]
+    ensyuf_d: [202, 180]
+    ensyue_n: [213, 0]
+    battle_n: [253, 216]
+    battle_d: [253, 216]
+    wed_a: [138, -28]
+    wed_b: [111, 183]
   wiki_id: "031"
   chinese_name: 睦月
   can_drop: true

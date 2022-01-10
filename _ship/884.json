@@ -6,17 +6,17 @@ data:
   name: 雲鷹
   yomi: うんよう
   stype: 7
-  ctype: 
-  cnum: 
+  ctype: 76
+  cnum: 2
   backs: 5
   after_lv: 62
   after_ship_id: 382
   get_mes: <br>
   voice_f: 3
   filename: gebxmctzdbjn
-  file_version: ["51", "1", "1228"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "101"]
+  book_table_id: [884, 382]
+  book_sinfo: 航空母艦、雲鷹よ。優秀船舶建造助成施設によって建<br>造された新田丸級、真ん中の次女。春日丸の姉です。<br>空母に改装、ほどなくして雲鷹の名を頂きました。<br>敵潜は本当に嫌いよ。空母が船団の中で同じ速度で運<br>動するのも嫌い。ダメだからね！これだけは覚えてお<br>いて！
   stats:
     taik: [39, 59]
     souk: [14, 35]
@@ -26,8 +26,8 @@ data:
     luck: [8, 48]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 23
+    tais: 34
     slot_num: 3
     max_eq: [14, 11, 2, 0, 0]
     after_fuel: 390

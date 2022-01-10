@@ -13,8 +13,8 @@ data:
   after_ship_id: 251
   get_mes: あら。自己紹介まだでしたかー。<br>私、荒潮です。
   voice_f: 0
-  filename: vksjkggcuvik
-  file_version: ["15", "21", "1228"]
+  filename: vksjkggcuvys
+  file_version: ["16", "21", "101"]
   book_table_id: [98, 1101]
   book_sinfo: 神戸娘の駆逐艦よ？そう、名前は荒潮。<br>姉妹達とけっこう色々頑張ったのよ。<br>でも、私の煙突に爆弾落とすのだけは、ちょっとやめ<br>てほしいわ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 22
   graph:
-    boko_n: [148, 178]
-    boko_d: [129, 195]
+    boko_n: [160, 232]
+    boko_d: [193, 238]
     kaisyu_n: [18, 39]
     kaisyu_d: [42, 12]
-    kaizo_n: [66, 96]
-    kaizo_d: [63, 28]
-    map_n: [37, 180]
-    map_d: [-15, 180]
-    ensyuf_n: [78, 172]
-    ensyuf_d: [67, 88]
-    ensyue_n: [78, 0]
-    battle_n: [15, 174]
-    battle_d: [15, 174]
-    wed_a: [231, 21]
-    wed_b: [163, 205]
+    kaizo_n: [154, 85]
+    kaizo_d: [172, 67]
+    map_n: [208, 195]
+    map_d: [229, 205]
+    ensyuf_n: [159, 186]
+    ensyuf_d: [177, 187]
+    ensyue_n: [145, 0]
+    battle_n: [214, 222]
+    battle_d: [232, 229]
+    wed_a: [169, -31]
+    wed_b: [127, 184]
   wiki_id: "088"
   chinese_name: 荒潮
   can_drop: true

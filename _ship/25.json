@@ -14,7 +14,7 @@ data:
   get_mes: アタシは軽巡、北上。<br>まーよろしく。
   voice_f: 1
   filename: oxqlrctsmegi
-  file_version: ["13", "21", "1228"]
+  file_version: ["13", "21", "101"]
   book_table_id: [25]
   book_sinfo: 球磨型軽巡洋艦の３番艦、北上だよー。<br>んあ？そう、大井っちとは親友。<br>酸素魚雷を打ちまくる重雷装巡洋艦にステップアップできるってさ。<br>やってみる？
   stats:

@@ -1,0 +1,102 @@
+---
+layout: json
+order: 445
+data:
+  id: 445
+  sort_no: 445
+  name: 二式複戦 屠龍
+  type: [22, 39, 48, 44, 47]
+  rare: 2
+  broken: [2, 4, 0, 12]
+  info: 
+  usebull: 0
+  cost: 8
+  distance: 3
+  stats:
+    taik: 0
+    souk: 1
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 3
+    tais: 0
+    atap: 0
+    houm: 4
+    raim: 0
+    houk: 1
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+    -
+      consume:
+        resource: [140, 180, 0, 370]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 6]
+            -
+              id: 4
+              amount: [2, 2]
+          -
+            -
+              id: 3
+              amount: [6, 9]
+            -
+              id: 4
+              amount: [3, 4]
+        slotitem:
+          - 
+          -
+            id: 445
+            amount: 1
+      upgrade:
+        id: 446
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [8, 12]
+            -
+              id: 4
+              amount: [4, 6]
+            -
+              id: 77
+              amount: 1
+          slotitem:
+            id: 221
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 621
+          -
+            ship_id: 626
+        -
+          -
+            ship_id: 699
+        -
+          -
+            ship_id: 699
+        -
+          -
+            ship_id: 699
+        - false
+        -
+          -
+            ship_id: 621
+          -
+            ship_id: 626
+        -
+          -
+            ship_id: 621
+          -
+            ship_id: 626
+  chinese_name:
+---

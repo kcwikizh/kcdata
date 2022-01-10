@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: gixbrtnuabge
-  file_version: ["58", "15", "1228"]
+  filename: gixbrtnuabys
+  file_version: ["59", "15", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
