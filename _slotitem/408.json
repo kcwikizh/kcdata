@@ -59,14 +59,6 @@ data:
             amount: 1
       upgrade:
       day:
-        -
-          -
-            ship_id: 621
-          -
-            ship_id: 626
-        - false
-        - false
-        - false
         - false
         -
           -
@@ -78,5 +70,13 @@ data:
             ship_id: 621
           -
             ship_id: 626
+        -
+          -
+            ship_id: 621
+          -
+            ship_id: 626
+        - false
+        - false
+        - false
   chinese_name: 
 ---

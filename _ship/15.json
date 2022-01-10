@@ -13,8 +13,8 @@ data:
   after_ship_id: 231
   get_mes: 特型駆逐艦「曙」よ。<br>って、こっち見んな！　この糞提督！
   voice_f: 0
-  filename: fwptxiocqkye
-  file_version: ["77", "35", "1228"]
+  filename: fwptxiocqkys
+  file_version: ["78", "35", "101"]
   book_table_id: [15, 231, 5179, 5194, 5223, 5257, 5159, 5141, 5140, 5350, 5437, 5443]
   book_sinfo: 特型駆逐艦１８番艦、綾波型の８番艦、曙よ。<br>お相撲さんではないわ。覚えておいて。<br>初の空母戦、珊瑚海海戦にも参加したわ！<br>けど、何気に潜水艦は苦手かな…。
   stats:

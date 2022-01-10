@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
-  filename: soujslbigbye
-  file_version: ["79", "1", "1228"]
+  filename: soujslbigbys
+  file_version: ["80", "1", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,20 +38,20 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [174, 174]
-    boko_d: [114, 132]
+    boko_n: [324, 267]
+    boko_d: [144, 318]
     kaisyu_n: [30, -39]
     kaisyu_d: [90, -18]
-    kaizo_n: [102, 66]
-    kaizo_d: [36, -18]
-    map_n: [138, 138]
-    map_d: [96, 66]
-    ensyuf_n: [114, 132]
-    ensyuf_d: [60, 66]
-    ensyue_n: [126, 0]
-    battle_n: [150, 150]
-    battle_d: [78, 96]
-    wed_a: [216, 48]
+    kaizo_n: [252, 159]
+    kaizo_d: [66, 168]
+    map_n: [288, 231]
+    map_d: [126, 252]
+    ensyuf_n: [264, 225]
+    ensyuf_d: [90, 252]
+    ensyue_n: [276, 0]
+    battle_n: [300, 243]
+    battle_d: [108, 282]
+    wed_a: [54, -48]
     wed_b: [126, 192]
   wiki_id: "340a"
   chinese_name: 对马改

@@ -13,8 +13,8 @@ data:
   after_ship_id: 599
   get_mes: <br>
   voice_f: 1
-  filename: fihwdgptjcrf
-  file_version: ["56", "1", "1228"]
+  filename: fihwdgptjcys
+  file_version: ["57", "1", "101"]
   book_table_id: [594]
   book_sinfo: 航空母艦、赤城です。<br>空母機動部隊の主力として快進撃を支えます。<br>日頃鍛錬を積んだ自慢の艦載機との組み合わせは、無<br>敵艦隊とも言われたんです。慢心…ですって？<br>ううん、そうかなあ……気をつけますね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 6, 5]
     build_time: 270
   graph:
-    boko_n: [43, 204]
-    boko_d: [46, -30]
+    boko_n: [103, 211]
+    boko_d: [103, 211]
     kaisyu_n: [13, -6]
     kaisyu_d: [46, 9]
-    kaizo_n: [33, 90]
-    kaizo_d: [-22, -160]
-    map_n: [16, 198]
-    map_d: [7, -39]
-    ensyuf_n: [48, 181]
-    ensyuf_d: [31, -61]
-    ensyue_n: [27, 0]
-    battle_n: [43, 193]
-    battle_d: [36, -34]
-    wed_a: [337, -27]
-    wed_b: [102, 132]
+    kaizo_n: [106, 73]
+    kaizo_d: [91, 37]
+    map_n: [132, 169]
+    map_d: [132, 169]
+    ensyuf_n: [105, 172]
+    ensyuf_d: [105, 172]
+    ensyue_n: [105, 0]
+    battle_n: [150, 192]
+    battle_d: [150, 192]
+    wed_a: [225, -25]
+    wed_b: [133, 151]
   wiki_id: "404"
   chinese_name: 赤城改二
   can_drop: false

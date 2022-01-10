@@ -1,0 +1,36 @@
+---
+layout: json
+order: 446
+data:
+  id: 446
+  sort_no: 446
+  name: 二式複戦 屠龍 丙型
+  type: [22, 39, 48, 44, 47]
+  rare: 3
+  broken: [2, 5, 0, 12]
+  info: 
+  usebull: 0
+  cost: 9
+  distance: 3
+  stats:
+    taik: 0
+    souk: 2
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 3
+    tais: 0
+    atap: 0
+    houm: 6
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

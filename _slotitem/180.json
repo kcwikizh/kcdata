@@ -32,5 +32,79 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [430, 420, 0, 540]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [4, 4]
+          -
+            -
+              id: 3
+              amount: [8, 9]
+            -
+              id: 4
+              amount: [5, 6]
+        slotitem:
+          -
+            id: 20
+            amount: 2
+          -
+            id: 372
+            amount: 2
+      upgrade:
+        id: 186
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [10, -1]
+            -
+              id: 4
+              amount: [7, -1]
+            -
+              id: 77
+              amount: 2
+          slotitem:
+            id: 169
+            amount: 1
+      day:
+        -
+          -
+            ship_id: 85
+          -
+            ship_id: 212
+          -
+            ship_id: 152
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 85
+          -
+            ship_id: 212
+          -
+            ship_id: 152
+        -
+          -
+            ship_id: 85
+          -
+            ship_id: 212
+          -
+            ship_id: 152
+        -
+          -
+            ship_id: 85
+          -
+            ship_id: 212
+          -
+            ship_id: 152
   chinese_name: 一式陆攻二二型甲
 ---
