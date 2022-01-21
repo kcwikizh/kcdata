@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 561
+  type: 5
+  no: 99
+  title: 提督と護衛空母の机
+  description: 提督と護衛空母の秘書艦の<br>ために特注職人が作り上げ<br>たペアの執務机です。護衛<br>空母らが執務に就くと少し<br>机上の様子が変わるかも？
+  rarity: 5
+  price: 178000
+  saleflg: 1
+  season: 0
+  filename: "100"
+  file_version: "1"
+---

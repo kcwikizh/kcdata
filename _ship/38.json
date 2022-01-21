@@ -14,7 +14,7 @@ data:
   get_mes: わらわが初春じゃ。<br>よろしく頼みますぞ。
   voice_f: 0
   filename: nlobofyxzvku
-  file_version: ["14", "18", "101"]
+  file_version: ["14", "18", "120"]
   book_table_id: [38]
   book_sinfo: 初春型駆逐艦、１番艦の初春じゃ。<br>わらわは、北方部隊に所属。戦雲渦巻くアッツやキスカなどの北方海域で活躍したぞ。<br>北海道周辺も好きな海域じゃな。マニラ湾やオルモック…？ああ、熱いところは苦手じゃ。
   stats:

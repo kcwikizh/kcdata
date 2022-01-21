@@ -8,7 +8,7 @@ data:
   description: 鎮守府に備え付けの基本的<br>なデザインの赤いカーテン<br>と窓。母港の様子が一望で<br>きます。
   rarity: 0
   price: 0
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

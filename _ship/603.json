@@ -14,7 +14,7 @@ data:
   get_mes: そう、貴方が噂の提督なの。よろしくね。<br>私は USS CV8 Hornet!　I’m looking forward to you.
   voice_f: 1
   filename: hncspqqriwwj
-  file_version: ["51", "1", "101"]
+  file_version: ["51", "1", "120"]
   book_table_id: [603]
   book_sinfo: Yorktown 級航空母艦3番艦、USS Hornet よ。<br>ミッドウェー、そしてサンタ・クルーズ諸島沖で全盛<br>期の日本機動部隊と真正面から対決したわ。飛龍、そ<br>して翔鶴瑞鶴も強かった。シャングリラ伝説も私よ？<br>覚えておきなさい。
   stats:

@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: drdaipjrohys
-  file_version: ["36", "8", "101"]
+  filename: drdaipjrohfl
+  file_version: ["37", "8", "120"]
   book_table_id: [136, 1030]
   book_sinfo: 大和型戦艦一番艦、大和です。<br>艦隊決戦の切り札として、呉海軍工廠で極秘建造されました。当時の最高技術の粋を結集されたこの体、二番艦の武蔵と共に、連合艦隊の中枢戦力として頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [6, 0, 3, 6]
     build_time: 480
   graph:
-    boko_n: [153, 105]
-    boko_d: [183, 105]
+    boko_n: [-24, 88]
+    boko_d: [-24, 210]
     kaisyu_n: [30, 0]
     kaisyu_d: [66, 0]
-    kaizo_n: [144, 24]
-    kaizo_d: [159, -9]
-    map_n: [168, 84]
-    map_d: [198, 84]
-    ensyuf_n: [132, 99]
-    ensyuf_d: [162, 99]
-    ensyue_n: [120, 0]
-    battle_n: [174, 114]
-    battle_d: [204, 114]
-    wed_a: [198, 84]
-    wed_b: [126, 168]
+    kaizo_n: [-15, -18]
+    kaizo_d: [-16, 24]
+    map_n: [-33, 72]
+    map_d: [-73, 138]
+    ensyuf_n: [48, 63]
+    ensyuf_d: [30, 120]
+    ensyue_n: [-4, 0]
+    battle_n: [-21, 57]
+    battle_d: [-21, 144]
+    wed_a: [334, 139]
+    wed_b: [151, 144]
   wiki_id: "136"
   chinese_name: 大和改
   can_drop: false

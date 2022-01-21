@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: xvelofmpcaga
-  file_version: ["46", "1", "101"]
+  file_version: ["47", "1", "120"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [222, 114]
-    boko_d: [180, 114]
+    boko_n: [159, 229]
+    boko_d: [150, 232]
     kaisyu_n: [18, -12]
     kaisyu_d: [54, -21]
-    kaizo_n: [114, 12]
-    kaizo_d: [72, -54]
-    map_n: [132, 72]
-    map_d: [96, 60]
-    ensyuf_n: [120, 78]
-    ensyuf_d: [96, 66]
-    ensyue_n: [132, 0]
-    battle_n: [168, 96]
-    battle_d: [138, 84]
-    wed_a: [204, 120]
-    wed_b: [108, 174]
+    kaizo_n: [148, 76]
+    kaizo_d: [109, 46]
+    map_n: [205, 196]
+    map_d: [171, 193]
+    ensyuf_n: [183, 180]
+    ensyuf_d: [142, 172]
+    ensyue_n: [181, 0]
+    battle_n: [207, 211]
+    battle_d: [181, 210]
+    wed_a: [151, -21]
+    wed_b: [124, 171]
   wiki_id: "280a"
   chinese_name: 狭雾改
   can_drop: false

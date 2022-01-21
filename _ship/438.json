@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: wmebertagnxm
-  file_version: ["2", "1", "101"]
+  file_version: ["2", "1", "120"]
   book_table_id: [438]
   book_sinfo: Hello！ アメリカ生まれの大型正規空母Saratogaです。<br>歴史深い由緒ある名前を頂いています。あの大きな戦いでは、最初から最後まで頑張ったんです。戦いの終わったあと、Nagatoさんたちと一緒にある実験に参加しました。<br>これからSaraも皆さんと同じ艦隊で、頑張らせてくださいね！
   stats:

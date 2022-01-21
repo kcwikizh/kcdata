@@ -14,7 +14,7 @@ data:
   get_mes: 自分、あきつ丸であります。<br>艦隊にお世話になります。
   voice_f: 3
   filename: nvnwjedsdgcl
-  file_version: ["13", "1", "101"]
+  file_version: ["13", "1", "120"]
   book_table_id: [161, 853]
   book_sinfo: 自分は、陸軍の特種船…その丙型の「あきつ丸」であります。<br>輸送や上陸戦ならお任せ頂きたいのであります。<br>自慢はこの大発であります。ネズミやモグラな輸送とは訳が違うのであります。
   stats:

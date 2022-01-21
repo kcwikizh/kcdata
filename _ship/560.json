@@ -13,8 +13,8 @@ data:
   after_ship_id: 555
   get_mes: <br>
   voice_f: 3
-  filename: heurfaqfuvys
-  file_version: ["58", "21", "101"]
+  filename: heurfaqfuvok
+  file_version: ["59", "21", "120"]
   book_table_id: [560]
   book_sinfo: 祥鳳型軽空母、瑞鳳です。<br>元々は高速給油艦として計画され、次に潜水母艦、最終的に軽空母として完成しました。小柄なボディだけれど、機動部隊最後の日まで敢闘しました！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 3]
     build_time: 160
   graph:
-    boko_n: [306, 234]
-    boko_d: [306, 234]
+    boko_n: [63, 192]
+    boko_d: [90, 228]
     kaisyu_n: [72, -27]
     kaisyu_d: [30, -15]
-    kaizo_n: [168, 108]
-    kaizo_d: [168, 108]
-    map_n: [192, 198]
-    map_d: [192, 198]
-    ensyuf_n: [192, 198]
-    ensyuf_d: [192, 198]
-    ensyue_n: [204, 0]
-    battle_n: [216, 204]
-    battle_d: [216, 204]
-    wed_a: [132, -12]
-    wed_b: [168, 186]
+    kaizo_n: [39, 78]
+    kaizo_d: [48, 96]
+    map_n: [96, 156]
+    map_d: [120, 204]
+    ensyuf_n: [48, 168]
+    ensyuf_d: [54, 204]
+    ensyue_n: [54, 0]
+    battle_n: [96, 192]
+    battle_d: [96, 210]
+    wed_a: [288, 0]
+    wed_b: [126, 204]
   wiki_id: "360"
   chinese_name: 瑞凤改二乙
   can_drop: false

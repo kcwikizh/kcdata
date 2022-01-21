@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: kexcbmpnmmys
-  file_version: ["24", "13", "101"]
+  filename: kexcbmpnmmwv
+  file_version: ["25", "13", "120"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 2, 1]
     build_time: 70
   graph:
-    boko_n: [198, 234]
-    boko_d: [258, 276]
+    boko_n: [180, 180]
+    boko_d: [144, 180]
     kaisyu_n: [18, -12]
     kaisyu_d: [48, 6]
-    kaizo_n: [90, 120]
-    kaizo_d: [180, 180]
-    map_n: [120, 186]
-    map_d: [186, 210]
-    ensyuf_n: [120, 192]
-    ensyuf_d: [180, 210]
+    kaizo_n: [96, 96]
+    kaizo_d: [72, 48]
+    map_n: [96, 168]
+    map_d: [120, 144]
+    ensyuf_n: [144, 144]
+    ensyuf_d: [120, 120]
     ensyue_n: [96, 0]
-    battle_n: [132, 204]
-    battle_d: [216, 240]
-    wed_a: [216, -6]
-    wed_b: [144, 174]
+    battle_n: [120, 168]
+    battle_d: [120, 168]
+    wed_a: [192, 36]
+    wed_b: [216, 156]
   wiki_id: "154a"
   chinese_name: 香取改
   can_drop: false

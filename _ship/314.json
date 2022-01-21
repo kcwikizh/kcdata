@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 7
   filename: kbdewgsfrkra
-  file_version: ["19", "9", "101"]
+  file_version: ["20", "9", "120"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [-48, 156]
-    boko_d: [60, 192]
+    boko_n: [90, 201]
+    boko_d: [90, 201]
     kaisyu_n: [24, 24]
     kaisyu_d: [48, 48]
-    kaizo_n: [-96, 72]
-    kaizo_d: [-36, 60]
-    map_n: [-96, 144]
-    map_d: [-12, 192]
-    ensyuf_n: [-12, 168]
-    ensyuf_d: [48, 144]
-    ensyue_n: [-96, 0]
-    battle_n: [-48, 144]
-    battle_d: [48, 144]
-    wed_a: [384, 48]
-    wed_b: [168, 168]
+    kaizo_n: [79, 73]
+    kaizo_d: [64, 39]
+    map_n: [85, 171]
+    map_d: [85, 171]
+    ensyuf_n: [118, 157]
+    ensyuf_d: [118, 157]
+    ensyue_n: [103, 0]
+    battle_n: [121, 195]
+    battle_d: [121, 195]
+    wed_a: [249, -4]
+    wed_b: [132, 151]
   wiki_id: "140a"
   chinese_name: 酒匂改
   can_drop: false

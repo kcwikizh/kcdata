@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 908
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: xfvfvoryqbyi
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 508
+  name: 天霧改二丁
+  yomi: あまぎり
+  stype: 2
+  ctype: 1
+  cnum: 5
+  backs: 7
+  after_lv: 89
+  after_ship_id: 903
+  get_mes: <br>
+  voice_f: 3
+  filename: hucfmvekvgbb
+  file_version: ["51", "1", "120"]
+  book_table_id: [908]
+  book_sinfo: 綾波型駆逐艦、五番艦の天霧だ。そう、重武装の特型<br>駆逐艦だぜ。微妙に旧式だって？馬鹿いうな。各作戦<br>やソロモンの夜を駆け抜けたあたしだよ？そうさ、大<br>統領になる男を水もしたたるいい男にしてやったこと<br>もある。出逢いってのは面白いな！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [31, 54]
+    souk: [13, 53]
+    houg: [13, 58]
+    raig: [18, 84]
+    tyku: [14, 65]
+    luck: [33, 88]
+    soku: 10
+    leng: 1
+    kaih: 53
+    tais: 25
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 330
+    after_bull: 480
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
   graph:
-    boko_n: [48, -120]
-    boko_d: [144, 120]
-    kaisyu_n: [51, 12]
-    kaisyu_d: [60, -12]
-    kaizo_n: [-12, -216]
-    kaizo_d: [96, -48]
-    map_n: [-12, -144]
-    map_d: [120, 96]
-    ensyuf_n: [48, -144]
-    ensyuf_d: [144, 84]
-    ensyue_n: [-48, 0]
-    battle_n: [60, -120]
-    battle_d: [108, 108]
-    wed_a: [288, 324]
-    wed_b: [204, 192]
+    boko_n: [-19, 36]
+    boko_d: [171, -24]
+    kaisyu_n: [31, -70]
+    kaisyu_d: [49, -16]
+    kaizo_n: [-10, -73]
+    kaizo_d: [177, -151]
+    map_n: [27, -10]
+    map_d: [175, -67]
+    ensyuf_n: [31, -24]
+    ensyuf_d: [193, -67]
+    ensyue_n: [-4, 0]
+    battle_n: [87, 25]
+    battle_d: [232, -33]
+    wed_a: [312, 178]
+    wed_b: [106, 181]
   wiki_id: 
   chinese_name: 
   can_drop: false
