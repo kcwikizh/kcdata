@@ -7,5 +7,6 @@ data:
   maps:
     - 71
     - 72
+    - 73
   event: false
 ---
