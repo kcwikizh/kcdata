@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: xflykwfogqjb
-  file_version: ["65", "27", "120"]
+  file_version: ["67", "27", "209"]
   book_table_id: [558]
   book_sinfo: 浜風です。数々の激戦に参加しました。<br>レイテでは金剛を中心とした輪形陣。そして、武蔵や金剛、あの信濃の最期もこの目に焼き付けることになりました。運命の坊ノ岬では、雪風らと共に大和を護って奮闘します。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 2, 1]
     build_time: 24
   graph:
-    boko_n: [96, 138]
-    boko_d: [120, 177]
+    boko_n: [216, 204]
+    boko_d: [96, 264]
     kaisyu_n: [27, -6]
     kaisyu_d: [39, -45]
-    kaizo_n: [72, 63]
-    kaizo_d: [96, 63]
-    map_n: [87, 123]
-    map_d: [87, 132]
-    ensyuf_n: [60, 120]
-    ensyuf_d: [90, 120]
-    ensyue_n: [60, 0]
-    battle_n: [96, 138]
-    battle_d: [120, 138]
-    wed_a: [270, 66]
-    wed_b: [123, 168]
+    kaizo_n: [229, 66]
+    kaizo_d: [61, 106]
+    map_n: [240, 168]
+    map_d: [96, 204]
+    ensyuf_n: [247, 160]
+    ensyuf_d: [84, 187]
+    ensyue_n: [241, 0]
+    battle_n: [277, 169]
+    battle_d: [111, 217]
+    wed_a: [58, 16]
+    wed_b: [193, 189]
   wiki_id: "358"
   chinese_name: 滨风乙改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 7
   filename: cmpqwemjahur
-  file_version: ["16", "17", "120"]
+  file_version: ["18", "18", "209"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [115, 214]
-    boko_d: [162, 226]
+    boko_n: [-96, 114]
+    boko_d: [-48, 204]
     kaisyu_n: [12, 12]
     kaisyu_d: [30, 18]
-    kaizo_n: [88, 81]
-    kaizo_d: [159, 49]
-    map_n: [136, 178]
-    map_d: [184, 187]
-    ensyuf_n: [127, 181]
-    ensyuf_d: [189, 186]
-    ensyue_n: [109, 0]
-    battle_n: [169, 202]
-    battle_d: [228, 210]
-    wed_a: [208, -13]
-    wed_b: [142, 169]
+    kaizo_n: [-126, 24]
+    kaizo_d: [-96, 48]
+    map_n: [-108, 72]
+    map_d: [-60, 168]
+    ensyuf_n: [-48, 108]
+    ensyuf_d: [-72, 126]
+    ensyue_n: [-120, 0]
+    battle_n: [-180, 90]
+    battle_d: [-96, 180]
+    wed_a: [435, 90]
+    wed_b: [177, 189]
   wiki_id: "137a"
   chinese_name: 阿贺野改
   can_drop: false

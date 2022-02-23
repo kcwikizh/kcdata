@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 643
+  sort_no: 443
+  name: 梅
+  yomi: うめ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 52
+  after_ship_id: 716
+  get_mes: 第四十三駆逐隊、丁型駆逐艦、梅、着任しました！<br>提督、艦隊の皆さん、どうぞよろしくお願い致します。<br>梅、少しでもお役に立てるよう、務めます！
+  voice_f: 1
+  filename: qbrnnraauawh
+  file_version: ["51", "1", "209"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [14, 27]
+    souk: [5, 22]
+    houg: [5, 24]
+    raig: [16, 56]
+    tyku: [16, 64]
+    luck: [11, 49]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 190
+    after_bull: 170
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [214, 37]
+    boko_d: [169, 205]
+    kaisyu_n: [21, -43]
+    kaisyu_d: [49, -21]
+    kaizo_n: [226, -82]
+    kaizo_d: [160, 52]
+    map_n: [223, 0]
+    map_d: [172, 172]
+    ensyuf_n: [241, -12]
+    ensyuf_d: [183, 160]
+    ensyue_n: [240, 0]
+    battle_n: [289, 19]
+    battle_d: [235, 195]
+    wed_a: [82, 168]
+    wed_b: [141, 181]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

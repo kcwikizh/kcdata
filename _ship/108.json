@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: wlvvcpnulyer
-  file_version: ["36", "24", "120"]
+  file_version: ["36", "24", "209"]
   book_table_id: [108]
   book_sinfo: 水上機母艦から空母に改装された千歳です。<br>ダイエットして体も絞って、脚も速くなったのよ。これなら機動部隊の一翼を担えるわ！頑張ります！
   stats:

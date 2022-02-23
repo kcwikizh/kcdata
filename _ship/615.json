@@ -14,7 +14,7 @@ data:
   get_mes: My name is Helena.<br>St. Louis class 軽巡洋艦二番艦 USS CL50 Helena<br>よろしくね！
   voice_f: 1
   filename: vpnkotekxrwk
-  file_version: ["54", "1", "120"]
+  file_version: ["54", "1", "209"]
   book_table_id: [615, 5523]
   book_sinfo: USS CL50 Helena です。<br>St. Louis class 軽巡２番艦として建造されました。<br>真珠湾空襲を経験、エスペランス岬沖海戦、第三次ソ<br>ロモン海戦、そしてクラ湾の夜戦で日本海軍の精鋭と<br>激しく戦いました。
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: Buon giorno！<br>Mi chiamo Conte di Cavour　あんたが提督？<br>ふーん。ジャ、よろしく頼むわ！
   voice_f: 1
   filename: ixllqmqsmfdi
-  file_version: ["55", "3", "120"]
+  file_version: ["55", "3", "209"]
   book_table_id: [877, 5582, 5618]
   book_sinfo: Conte di Cavour級戦艦、一番艦、Conte di Cavourよ。<br>そう、第一次大戦中に建造された弩級戦艦。何？小さ<br>いからって舐めないでよ。<br>近代化改装で、今風の高速戦艦になったんだから！<br>第二次改装も予定していたし！
   stats:

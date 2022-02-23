@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 563
+  type: 1
+  no: 94
+  title: ホワイト&ビターチョコ壁
+  description: 甘いホワイトチョコレート<br>とビターなチョコレートが<br>混ざりあった、まるでマー<br>ブル模様のような壁です。<br>食べれそうな雰囲気！
+  rarity: 3
+  price: 1400
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

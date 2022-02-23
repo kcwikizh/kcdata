@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: ojkgkujsenly
-  file_version: ["65", "27", "120"]
+  file_version: ["67", "27", "209"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [24, 180]
-    boko_d: [96, 228]
+    boko_n: [216, 204]
+    boko_d: [96, 264]
     kaisyu_n: [36, 12]
     kaisyu_d: [60, 12]
-    kaizo_n: [24, 72]
-    kaizo_d: [84, 84]
-    map_n: [48, 144]
-    map_d: [96, 168]
-    ensyuf_n: [72, 144]
-    ensyuf_d: [96, 60]
-    ensyue_n: [12, 0]
-    battle_n: [0, 120]
-    battle_d: [96, 120]
-    wed_a: [264, 84]
-    wed_b: [168, 168]
+    kaizo_n: [229, 66]
+    kaizo_d: [61, 106]
+    map_n: [240, 168]
+    map_d: [96, 204]
+    ensyuf_n: [247, 160]
+    ensyuf_d: [84, 187]
+    ensyue_n: [241, 0]
+    battle_n: [277, 169]
+    battle_d: [111, 217]
+    wed_a: [58, 16]
+    wed_b: [193, 189]
   wiki_id: "170a"
   chinese_name: 浜风改
   can_drop: false
