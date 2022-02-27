@@ -1,0 +1,13 @@
+---
+layout: json
+order: 53
+data:
+  id: 53
+  name: 発令！「捷三号作戦警戒」
+  maps:
+    - 531
+    - 532
+    - 533
+  event: true
+  level: 4
+---

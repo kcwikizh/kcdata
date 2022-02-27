@@ -1,0 +1,257 @@
+---
+layout: json
+order: 532
+data:
+  id: 532
+  name: 高雄警備府～比島北部沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: B
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: 1
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: D
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: J
+      to: J1
+    12:
+      from: J
+      to: J2
+    13:
+      from: B
+      to: C
+    14:
+      from: G
+      to: E
+    15:
+      from: E
+      to: F
+    16:
+      from: H
+      to: F
+    17:
+      from: I
+      to: F
+    18:
+      from: G
+      to: H
+    19:
+      from: H
+      to: I
+    20:
+      from: 2
+      to: K
+    21:
+      from: P
+      to: L
+    22:
+      from: K
+      to: M
+    23:
+      from: M
+      to: N
+    24:
+      from: A
+      to: O
+    25:
+      from: Q
+      to: P
+    26:
+      from: N
+      to: Q
+    27:
+      from: V
+      to: R
+    28:
+      from: F
+      to: S
+    29:
+      from: S
+      to: T
+    30:
+      from: R
+      to: U
+    31:
+      from: S
+      to: V
+    32:
+      from: V
+      to: W
+    33:
+      from: P
+      to: O
+    34:
+      from: V
+      to: U
+    35:
+      from: P
+      to: A
+    36:
+      from: Q
+      to: C
+    37:
+      from: null
+      to: 2
+    38:
+      from: F
+      to: X
+  cells:
+    A:
+      name: 深海潜水艦隊 バシー海峡哨戒
+      type:
+      boss: false
+      routes: [1, 35]
+    B:
+      name: 深海ルソン島方面 基地航空隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海任務群 エンガノ沖強襲戦隊
+      type:
+      boss: false
+      routes: [3, 13, 36]
+    D:
+      name: 深海潜水艦隊 高雄沖前衛哨戒
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海偵察任務群 先遣哨戒戦隊
+      type:
+      boss: false
+      routes: [5, 14]
+    F:
+      name: 深海任務群 増援輸送阻止線
+      type:
+      boss: false
+      routes: [6, 15, 16, 17]
+    G:
+      name: 深海ルソン島方面 基地航空隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海潜水艦隊 ルソン北部哨戒
+      type:
+      boss: false
+      routes: [8, 18]
+    I:
+      name: 深海高速魚雷艇部隊
+      type:
+      boss: false
+      routes: [9, 19]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    J1:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    J2:
+      name: 深海任務群 増援地点強襲部隊
+      type:
+      boss: false
+      routes: [12]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    M:
+      name: 深海潜水艦隊 エンガノ沖哨戒
+      type:
+      boss: false
+      routes: [22]
+    N:
+      name: 深海任務群 空母艦載機
+      type:
+      boss: false
+      routes: [23]
+    O:
+      name: 深海任務群 護衛空母集団
+      type:
+      boss: false
+      routes: [24, 33]
+    P:
+      name: 深海任務群 前衛巡洋艦戦隊
+      type:
+      boss: false
+      routes: [25]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [26]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [28]
+    T:
+      name: 深海侵攻部隊 攻撃物資集積地
+      type:
+      boss: false
+      routes: [29]
+    U:
+      name: 深海潜水艦隊 司令潜水艦
+      type:
+      boss: false
+      routes: [30, 34]
+    V:
+      name: 深海ルソン島方面 基地航空隊
+      type:
+      boss: false
+      routes: [31]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [32]
+    X:
+      name: バシー海峡輸送任務深海駆逐艦
+      type:
+      boss: true
+      routes: [38]
+  image: MapHDE-2Winter2022.png
+---

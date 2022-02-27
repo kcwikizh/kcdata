@@ -1,0 +1,162 @@
+---
+layout: json
+order: 74
+data:
+  id: 74
+  name: 昭南本土航路
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: E
+      to: J
+    11:
+      from: H
+      to: K
+    12:
+      from: G
+      to: L
+    13:
+      from: K
+      to: M
+    14:
+      from: M
+      to: N
+    15:
+      from: M
+      to: O
+    16:
+      from: J
+      to: P
+    17:
+      from: C
+      to: E
+    18:
+      from: F
+      to: J
+    19:
+      from: J
+      to: K
+    20:
+      from: J
+      to: L
+    21:
+      from: K
+      to: P
+    22:
+      from: L
+      to: P
+    23:
+      from: M
+      to: P
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 哨戒集団 B群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海潜水艦隊 哨戒集団 C群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [5, 17]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海任務部隊 空母機動部隊
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海艦隊 特殊任務部隊
+      type:
+      boss: false
+      routes: [10, 18]
+    K:
+      name: 深海潜水艦隊 哨戒集団 旗艦群
+      type:
+      boss: false
+      routes: [11, 19]
+    L:
+      name: 深海任務部隊 船団攻撃集団
+      type:
+      boss: false
+      routes: [12, 20]
+    M:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 深海 ヒ船団棲姫船団
+      type:
+      boss: true
+      routes: [16, 21, 22, 23]
+  image: MapHD7-4.png
+---
