@@ -49,8 +49,8 @@ data:
     ensyuf_n: 
     ensyuf_d: 
     ensyue_n: 
-    battle_n: [-150, 150]
-    battle_d: [-150, 150]
+    battle_n: [31, 82]
+    battle_d: [31, 82]
     wed_a: 
     wed_b: 
   wiki_id: 

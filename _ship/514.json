@@ -14,7 +14,7 @@ data:
   get_mes: HMS Sheffield 着任します。<br>君がAdmiral？ ふうん、ちょっといいね。<br>よろしく。
   voice_f: 1
   filename: zgnfeyueapri
-  file_version: ["53", "3", "209"]
+  file_version: ["53", "3", "302"]
   book_table_id: [514, 5606]
   book_sinfo: Town級軽巡洋艦、HMS Sheffield。<br>軽巡といっても、実際は重巡クラスの規模と火力を持<br>つ重武装艦です。北極海での対ソ援助物資輸送船団の<br>護衛、ビスマルクの追撃戦など数々の戦いに参加しま<br>した。バレンツ海の戦いでは独艦隊を撃破、船団護衛<br>に成功しています。
   stats:

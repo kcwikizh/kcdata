@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: tciiyagxjjpu
-  file_version: ["73", "1", "209"]
+  filename: tciiyagxjjss
+  file_version: ["74", "1", "302"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 3, 0, 0]
     build_time: 22
   graph:
-    boko_n: [133, 213]
-    boko_d: [-13, 220]
+    boko_n: [63, 208]
+    boko_d: [22, 276]
     kaisyu_n: [-15, 18]
     kaisyu_d: [-22, -27]
-    kaizo_n: [136, 96]
-    kaizo_d: [-49, 72]
-    map_n: [151, 177]
-    map_d: [-15, 187]
-    ensyuf_n: [154, 172]
-    ensyuf_d: [-19, 178]
-    ensyue_n: [159, 0]
-    battle_n: [208, 214]
-    battle_d: [4, 223]
-    wed_a: [169, -22]
-    wed_b: [123, 199]
+    kaizo_n: [60, 82]
+    kaizo_d: [-9, 76]
+    map_n: [108, 160]
+    map_d: [33, 181]
+    ensyuf_n: [69, 177]
+    ensyuf_d: [6, 175]
+    ensyue_n: [100, 0]
+    battle_n: [102, 187]
+    battle_d: [40, 219]
+    wed_a: [232, 1]
+    wed_b: [181, 159]
   wiki_id: "436a"
   chinese_name: 伊47改
   can_drop: false

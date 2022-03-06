@@ -13,8 +13,8 @@ data:
   after_ship_id: 618
   get_mes: How are you?<br>私は、Perth級軽巡洋艦Perth。HMAS Perth！<br>イギリス生まれ、オーストラリア育ちよ。
   voice_f: 1
-  filename: jcixsqhnwjqb
-  file_version: ["57", "1", "209"]
+  filename: jcixsqhnwjss
+  file_version: ["58", "1", "302"]
   book_table_id: [613, 5509, 5560]
   book_sinfo: Perth級軽巡洋艦Perth、英国生まれ、オーストラリ<br>ア育ちです。<br>連合軍ABDA艦隊の一翼として、南方作戦で南下する<br>日本艦隊を迎撃しました。重巡Houstonと共に最後<br>の一撃を図りましたが…。護る気持ちは…一緒です。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [256, 220]
-    boko_d: [235, 210]
+    boko_n: [120, 219]
+    boko_d: [160, 244]
     kaisyu_n: [58, -4]
     kaisyu_d: [46, -43]
-    kaizo_n: [255, 94]
-    kaizo_d: [217, 49]
-    map_n: [276, 187]
-    map_d: [255, 177]
-    ensyuf_n: [265, 181]
-    ensyuf_d: [243, 172]
-    ensyue_n: [259, 0]
-    battle_n: [295, 211]
-    battle_d: [273, 201]
-    wed_a: [61, -19]
-    wed_b: [126, 166]
+    kaizo_n: [117, 81]
+    kaizo_d: [142, 73]
+    map_n: [174, 168]
+    map_d: [220, 181]
+    ensyuf_n: [136, 172]
+    ensyuf_d: [183, 166]
+    ensyue_n: [163, 0]
+    battle_n: [207, 193]
+    battle_d: [214, 204]
+    wed_a: [196, -24]
+    wed_b: [121, 163]
   wiki_id: "413"
   chinese_name: 珀斯
   can_drop: true

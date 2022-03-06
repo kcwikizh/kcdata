@@ -6,17 +6,17 @@ data:
   name: 梅
   yomi: うめ
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 101
+  cnum: 3
   backs: 5
   after_lv: 52
   after_ship_id: 716
   get_mes: 第四十三駆逐隊、丁型駆逐艦、梅、着任しました！<br>提督、艦隊の皆さん、どうぞよろしくお願い致します。<br>梅、少しでもお役に立てるよう、務めます！
   voice_f: 1
   filename: qbrnnraauawh
-  file_version: ["51", "1", "209"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "302"]
+  book_table_id: [643]
+  book_sinfo: 丁型駆逐艦、松型三番艦の梅です。苦しい戦局の下で<br>生まれ、姉妹と共に第四十三駆逐隊の一翼として活動<br>しました。艦隊の護衛や輸送作戦などに従事、最期は<br>敵の空襲で被弾、短い艦歴に幕を閉じました。<br>提督、梅もどうぞお忘れなく！
   stats:
     taik: [14, 27]
     souk: [5, 22]
@@ -26,8 +26,8 @@ data:
     luck: [11, 49]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 33
+    tais: 26
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 190

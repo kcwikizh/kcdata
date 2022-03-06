@@ -14,7 +14,7 @@ data:
   get_mes: North Carolina class. USS Battleship Washington、着任。<br>貴方が私の提督って訳か…しっかりした指揮をお願いね。
   voice_f: 1
   filename: pfduewnoehik
-  file_version: ["53", "1", "209"]
+  file_version: ["53", "1", "302"]
   book_table_id: [654, 5569]
   book_sinfo: North Carolina　class.　USS Battleship<br>Washingtonです。欧州方面に展開し、イギリス本国<br>艦隊と共に北極海での作戦に備えたわ。太平洋戦線で<br>は、あのIronbottom Soundで戦艦同士の激しい夜<br>戦を戦ったの。
   stats:

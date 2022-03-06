@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 533
+  sort_no: 333
+  name: 冬月
+  yomi: ふゆつき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 40
+  after_ship_id: 538
+  get_mes: 秋月型防空駆逐艦、八番艦、冬月。参る。<br>涼、随分と待たせたな。提督、共に護ろう。<br>大切な……ものを。
+  voice_f: 1
+  filename: ytcgdjgfcglk
+  file_version: ["51", "1", "302"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [20, 40]
+    souk: [9, 27]
+    houg: [16, 48]
+    raig: [16, 48]
+    tyku: [70, 104]
+    luck: [10, 59]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 170
+    after_bull: 270
+    fuel_max: 20
+    bull_max: 25
+    broken: [1, 2, 13, 1]
+    pow_up: [0, 1, 3, 1]
+    build_time: 30
+  graph:
+    boko_n: [-31, 201]
+    boko_d: [-79, 210]
+    kaisyu_n: [28, -1]
+    kaisyu_d: [7, 52]
+    kaizo_n: [-4, 79]
+    kaizo_d: [-52, 39]
+    map_n: [7, 171]
+    map_d: [-49, 166]
+    ensyuf_n: [1, 166]
+    ensyuf_d: [-37, 157]
+    ensyue_n: [6, 0]
+    battle_n: [55, 195]
+    battle_d: [25, 202]
+    wed_a: [337, -7]
+    wed_b: [121, 183]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

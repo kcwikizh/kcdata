@@ -8,13 +8,13 @@ data:
   stype: 22
   ctype: 
   cnum: 
-  backs: 5
+  backs: 6
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: ccuyfhwwjoho
-  file_version: ["51", "1", "209"]
+  file_version: ["51", "1", "302"]
   book_table_id: 
   book_sinfo: 
   stats:

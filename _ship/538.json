@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 538
+  sort_no: 338
+  name: 冬月改
+  yomi: ふゆつき
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: sullpopastgr
+  file_version: ["51", "1", "302"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [37, 57]
+    souk: [16, 53]
+    houg: [24, 57]
+    raig: [24, 54]
+    tyku: [80, 116]
+    luck: [12, 69]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 20
+    bull_max: 25
+    broken: [1, 2, 13, 1]
+    pow_up: [1, 1, 3, 1]
+    build_time: 30
+  graph:
+    boko_n: [-31, 201]
+    boko_d: [-79, 210]
+    kaisyu_n: [28, -1]
+    kaisyu_d: [7, 52]
+    kaizo_n: [-4, 79]
+    kaizo_d: [-52, 39]
+    map_n: [7, 171]
+    map_d: [-49, 166]
+    ensyuf_n: [1, 166]
+    ensyuf_d: [-37, 157]
+    ensyue_n: [6, 0]
+    battle_n: [55, 195]
+    battle_d: [25, 202]
+    wed_a: [337, -7]
+    wed_b: [121, 183]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

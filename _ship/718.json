@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 718
+  sort_no: 1718
+  name: 玉波改
+  yomi: たまなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: atgbqwzndpsg
+  file_version: ["51", "1", "302"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [12, 51]
+    raig: [27, 78]
+    tyku: [18, 58]
+    luck: [10, 56]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [123, 205]
+    boko_d: [70, 199]
+    kaisyu_n: [7, -1]
+    kaisyu_d: [106, -40]
+    kaizo_n: [126, 78]
+    kaizo_d: [49, 9]
+    map_n: [147, 178]
+    map_d: [96, 166]
+    ensyuf_n: [139, 163]
+    ensyuf_d: [108, 127]
+    ensyue_n: [145, 0]
+    battle_n: [187, 196]
+    battle_d: [160, 166]
+    wed_a: [202, -7]
+    wed_b: [111, 181]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

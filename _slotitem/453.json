@@ -1,0 +1,36 @@
+---
+layout: json
+order: 453
+data:
+  id: 453
+  sort_no: 453
+  name: キ102乙
+  type: [22, 38, 47, 44, 47]
+  rare: 4
+  broken: [4, 7, 0, 15]
+  info: 
+  usebull: 0
+  cost: 9
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 4
+    raig: 11
+    soku: 0
+    baku: 19
+    tyku: 4
+    tais: 4
+    atap: 0
+    houm: 4
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

@@ -6,17 +6,17 @@ data:
   name: 山汐丸
   yomi: やましおまる
   stype: 22
-  ctype: 
-  cnum: 
+  ctype: 115
+  cnum: 2
   backs: 5
   after_lv: 48
   after_ship_id: 717
   get_mes: 戦時大型タンカーとして計画され、特2TL型<br>特設輸送空母として建造が進められた山汐丸であります。<br>提督殿、自分も何卒ご活用を……お願いしたい……です。
   voice_f: 1
   filename: rlqgnglcevfl
-  file_version: ["51", "1", "209"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "302"]
+  book_table_id: [900]
+  book_sinfo: TL型戦標船として計画された量産型タンカー、その改<br>装により建造された特2TL型陸軍輸送護衛空母、山汐<br>丸です。低速のため第一線の艦隊への随伴は困難です<br>が、ある程度の対潜戦闘が可能な戦力として期待され<br>ました。出撃することなく横浜の港で大破着底、終戦<br>の時を迎えました。
   stats:
     taik: [36, 48]
     souk: [7, 19]
@@ -26,8 +26,8 @@ data:
     luck: [3, 33]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 14
+    tais: 23
     slot_num: 2
     max_eq: [6, 2, 0, 0, 0]
     after_fuel: 280

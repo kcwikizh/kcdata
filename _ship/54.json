@@ -13,8 +13,8 @@ data:
   after_ship_id: 222
   get_mes: 川内、参上。<br>夜戦なら任せておいて！
   voice_f: 0
-  filename: nehcyhpiviue
-  file_version: ["21", "7", "209"]
+  filename: nehcyhpiviss
+  file_version: ["24", "7", "302"]
   book_table_id: [54, 765]
   book_sinfo: 5500トン級の軽巡洋艦の最終タイプ、それが私、川内型よ。<br>熟成された軽巡の魅力、たっぷり教えてあげるから。<br>もちろん、夜戦でね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 2]
     build_time: 60
   graph:
-    boko_n: [258, 210]
-    boko_d: [264, 222]
+    boko_n: [43, 97]
+    boko_d: [108, 34]
     kaisyu_n: [30, 36]
     kaisyu_d: [42, 10]
-    kaizo_n: [192, 120]
-    kaizo_d: [186, 96]
-    map_n: [222, 204]
-    map_d: [228, 222]
-    ensyuf_n: [198, 204]
-    ensyuf_d: [210, 204]
-    ensyue_n: [186, 0]
-    battle_n: [240, 216]
-    battle_d: [246, 228]
-    wed_a: [126, -12]
-    wed_b: [150, 180]
+    kaizo_n: [-39, 15]
+    kaizo_d: [18, -51]
+    map_n: [-33, 88]
+    map_d: [34, 79]
+    ensyuf_n: [15, 102]
+    ensyuf_d: [37, -6]
+    ensyue_n: [15, 0]
+    battle_n: [-45, 49]
+    battle_d: [12, 13]
+    wed_a: [354, 102]
+    wed_b: [166, 178]
   wiki_id: "046"
   chinese_name: 川内
   can_drop: true

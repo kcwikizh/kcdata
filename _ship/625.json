@@ -13,8 +13,8 @@ data:
   after_ship_id: 695
   get_mes: うちが夕雲型駆逐艦、その十八番艦「秋霜」よ。<br>秋霜烈日、そんな言葉のような厳しい戦局を駆け抜けたの。<br>うちのことも覚えておいてね。忘れないでね。
   voice_f: 1
-  filename: fbxrcuyvvtot
-  file_version: ["57", "1", "209"]
+  filename: fbxrcuyvvtss
+  file_version: ["58", "1", "302"]
   book_table_id: [625, 5427]
   book_sinfo: 夕雲型駆逐艦十八番艦「秋霜」よ。知っててくれた？<br>先輩方の二駆を継ぐ、夕雲型で編成された新編二駆を<br>「早霜」「清霜」と共に編成したの。大きな負け戦は<br>しっかり経験済み。最期は多号作戦。うちらのことも<br>…覚えていてね。
   stats:
