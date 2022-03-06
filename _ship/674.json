@@ -54,7 +54,7 @@ data:
     wed_a: [202, -7]
     wed_b: [111, 181]
   wiki_id: "474"
-  chinese_name:
+  chinese_name: 玉波
   can_drop: false
   can_construct: false
 ---
