@@ -1,0 +1,370 @@
+---
+layout: json
+order: 534
+data:
+  id: 534
+  name: 昭南～マニラ航路
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: C
+      to: C1
+    5:
+      from: C
+      to: C2
+    6:
+      from: C2
+      to: C3
+    7:
+      from: A
+      to: D
+    8:
+      from: D
+      to: E
+    9:
+      from: E
+      to: E1
+    10:
+      from: E1
+      to: E2
+    11:
+      from: E1
+      to: E3
+    12:
+      from: C2
+      to: F
+    13:
+      from: D
+      to: A
+    14:
+      from: D
+      to: B
+    15:
+      from: E1
+      to: C
+    16:
+      from: C1
+      to: C2
+    17:
+      from: E2
+      to: C3
+    18:
+      from: B
+      to: D
+    19:
+      from: E
+      to: D
+    20:
+      from: E3
+      to: E2
+    21:
+      from: E2
+      to: F
+    22:
+      from: 2
+      to: G
+    23:
+      from: 2
+      to: H
+    24:
+      from: G
+      to: I
+    25:
+      from: H
+      to: J
+    26:
+      from: G
+      to: K
+    27:
+      from: H
+      to: L
+    28:
+      from: I
+      to: M
+    29:
+      from: K
+      to: N
+    30:
+      from: K
+      to: N1
+    31:
+      from: N1
+      to: N2
+    32:
+      from: N2
+      to: O
+    33:
+      from: O
+      to: O1
+    34:
+      from: O
+      to: O2
+    35:
+      from: L
+      to: J
+    36:
+      from: M
+      to: N
+    37:
+      from: N
+      to: N1
+    38:
+      from: N
+      to: A
+    39:
+      from: L
+      to: D
+    40:
+      from: J
+      to: E
+    41:
+      from: A
+      to: O
+    42:
+      from: null
+      to: 2
+    43:
+      from: G
+      to: P
+    44:
+      from: P
+      to: P1
+    45:
+      from: P1
+      to: P2
+    46:
+      from: P2
+      to: Q
+    47:
+      from: Q
+      to: R
+    48:
+      from: Q
+      to: S
+    49:
+      from: S
+      to: T
+    50:
+      from: S
+      to: U
+    51:
+      from: P2
+      to: I
+    52:
+      from: P1
+      to: L
+    53:
+      from: H
+      to: P
+    54:
+      from: D
+      to: V
+    55:
+      from: V
+      to: W
+    56:
+      from: V
+      to: X
+    57:
+      from: W
+      to: X
+    58:
+      from: V
+      to: T
+    59:
+      from: U
+      to: V
+  cells:
+    A:
+      name: 深海潜水艦隊 マニラ封鎖群
+      type:
+      boss: false
+      routes: [1, 13, 38]
+    B:
+      name: 深海侵攻部隊 高速魚雷艇A集団
+      type:
+      boss: false
+      routes: [2, 14]
+    C:
+      name: 深海侵攻部隊 重巡戦隊
+      type:
+      boss: false
+      routes: [3, 15]
+    C1:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    C2:
+      name: 深海侵攻部隊 水雷戦隊
+      type:
+      boss: false
+      routes: [5, 16]
+    C3:
+      name: 
+      type:
+      boss: false
+      routes: [6, 17]
+    D:
+      name: 深海任務部隊 高速遊撃戦隊
+      type:
+      boss: false
+      routes: [7, 18, 19, 39]
+    E:
+      name: 深海侵攻部隊 高速魚雷艇B集団
+      type:
+      boss: false
+      routes: [8, 40]
+    E1:
+      name: 深海潜水艦隊 通商破壊集団 C群
+      type:
+      boss: false
+      routes: [9]
+    E2:
+      name: 深海侵攻部隊 支援護衛空母群
+      type:
+      boss: false
+      routes: [10, 20]
+    E3:
+      name: 深海侵攻部隊 支援空母艦載機群
+      type:
+      boss: false
+      routes: [11]
+    F:
+      name: 深海侵攻部隊 上陸兵站集積地
+      type:
+      boss: false
+      routes: [12, 21]
+    G:
+      name: 深海潜水艦隊 通商破壊集団 A群
+      type:
+      boss: false
+      routes: [22]
+    H:
+      name: 深海潜水艦隊 通商破壊集団 B群
+      type:
+      boss: false
+      routes: [23]
+    I:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [24, 51]
+    J:
+      name: 深海任務部隊 南部哨戒戦隊
+      type:
+      boss: false
+      routes: [25, 35]
+    K:
+      name: 深海任務部隊 北部哨戒戦隊
+      type:
+      boss: false
+      routes: [26]
+    L:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [27, 52]
+    M:
+      name: 深海任務部隊 中部哨戒戦隊
+      type:
+      boss: false
+      routes: [28]
+    N:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [29, 36]
+    N1:
+      name: 深海潜水艦隊 通商破壊集団 D群
+      type:
+      boss: false
+      routes: [30, 37]
+    N2:
+      name: 深海任務部隊 支援護衛空母群
+      type:
+      boss: false
+      routes: [31]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [32, 41]
+    O1:
+      name: 
+      type:
+      boss: false
+      routes: [33]
+    O2:
+      name: 深海任務部隊 群狼集団
+      type:
+      boss: false
+      routes: [34]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [43, 53]
+    P1:
+      name: 
+      type:
+      boss: false
+      routes: [44]
+    P2:
+      name: 
+      type:
+      boss: false
+      routes: [45]
+    Q:
+      name: 深海任務部隊 中部哨戒遊撃部隊
+      type:
+      boss: false
+      routes: [46]
+    R:
+      name: 深海任務部隊 哨戒遊撃艦隊旗艦
+      type:
+      boss: false
+      routes: [47]
+    S:
+      name: 深海任務部隊 高速戦艦戦隊
+      type:
+      boss: false
+      routes: [48]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [49, 58]
+    U:
+      name: 深海潜水艦隊 通商破壊司令集団
+      type:
+      boss: false
+      routes: [50]
+    V:
+      name: 深海任務部隊 空母打撃前衛集団
+      type:
+      boss: false
+      routes: [54, 59]
+    W:
+      name: 深海任務部隊 空母打撃群主力
+      type:
+      boss: false
+      routes: [55]
+    X:
+      name: 深海任務部隊 通商破壊集団旗艦
+      type:
+      boss: true
+      routes: [56, 57]
+  image: MapHDE-4Winter2022.png
+---
