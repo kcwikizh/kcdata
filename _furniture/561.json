@@ -8,8 +8,8 @@ data:
   description: 提督と護衛空母の秘書艦の<br>ために特注職人が作り上げ<br>たペアの執務机です。護衛<br>空母らが執務に就くと少し<br>机上の様子が変わるかも？
   rarity: 5
   price: 178000
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: "100"
-  file_version: 1
+  file_version: 2
 ---

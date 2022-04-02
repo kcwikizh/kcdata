@@ -14,7 +14,7 @@ data:
   get_mes: My name is Helena.<br>St. Louis class 軽巡洋艦二番艦 USS CL50 Helena<br>よろしくね！
   voice_f: 1
   filename: vpnkotekxrwk
-  file_version: ["54", "1", "302"]
+  file_version: ["55", "1", "401"]
   book_table_id: [615, 5523]
   book_sinfo: USS CL50 Helena です。<br>St. Louis class 軽巡２番艦として建造されました。<br>真珠湾空襲を経験、エスペランス岬沖海戦、第三次ソ<br>ロモン海戦、そしてクラ湾の夜戦で日本海軍の精鋭と<br>激しく戦いました。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 0, 2, 2]
     build_time: 70
   graph:
-    boko_n: [48, 109]
-    boko_d: [48, 109]
+    boko_n: [181, 226]
+    boko_d: [-12, 256]
     kaisyu_n: [45, -25]
     kaisyu_d: [70, -10]
-    kaizo_n: [61, -31]
-    kaizo_d: [45, -64]
-    map_n: [123, 58]
-    map_d: [123, 58]
-    ensyuf_n: [109, 49]
-    ensyuf_d: [109, 49]
-    ensyue_n: [78, 0]
-    battle_n: [142, 79]
-    battle_d: [142, 79]
-    wed_a: [252, 109]
-    wed_b: [124, 166]
+    kaizo_n: [183, 105]
+    kaizo_d: [-37, 70]
+    map_n: [240, 196]
+    map_d: [16, 214]
+    ensyuf_n: [210, 183]
+    ensyuf_d: [-7, 199]
+    ensyue_n: [196, 0]
+    battle_n: [268, 222]
+    battle_d: [46, 228]
+    wed_a: [109, -28]
+    wed_b: [130, 174]
   wiki_id: "415"
   chinese_name: 海伦娜
   can_drop: false

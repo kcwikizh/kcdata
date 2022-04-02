@@ -13,8 +13,8 @@ data:
   after_ship_id: 215
   get_mes: クマー。<br>よろしくだクマ。
   voice_f: 0
-  filename: zrmviexnupss
-  file_version: ["60", "11", "302"]
+  filename: zrmviexnupjy
+  file_version: ["61", "11", "401"]
   book_table_id: [99, 946, 837, 730]
   book_sinfo: 球磨型軽巡洋艦の１番艦、球磨だクマ。<br>佐世保生まれだクマ。ちょっと古いところもあるけど、頑張るクマー。
   stats:

@@ -13,8 +13,8 @@ data:
   after_ship_id: 639
   get_mes: 私、迅鯨型潜水母艦一番艦、迅鯨と申します。<br>提督、貴方に会えて……良かった。<br>一緒に頑張っていきましょう！
   voice_f: 1
-  filename: ugieenlacpss
-  file_version: ["72", "13", "302"]
+  filename: ugieenlacpcu
+  file_version: ["73", "13", "401"]
   book_table_id: [634, 5470, 5488, 5503, 5507, 5524, 5558, 5574, 5610]
   book_sinfo: 迅鯨型潜水母艦一番艦、迅鯨です。八八艦隊計画の流<br>れの中で生まれました。潜水戦隊の旗艦としてはもち<br>ろん、練習艦や輸送任務でも活躍しました。日本初の<br>本格的な設計の潜水母艦、妹の長鯨共々、どうぞよろ<br>しくお願いします。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 1]
     build_time: 150
   graph:
-    boko_n: [124, 208]
-    boko_d: [28, 153]
+    boko_n: [226, 208]
+    boko_d: [109, 280]
     kaisyu_n: [24, 22]
     kaisyu_d: [58, -6]
-    kaizo_n: [115, 78]
-    kaizo_d: [12, 22]
-    map_n: [168, 168]
-    map_d: [91, 106]
-    ensyuf_n: [124, 175]
-    ensyuf_d: [45, 103]
-    ensyue_n: [144, 0]
-    battle_n: [177, 202]
-    battle_d: [91, 139]
-    wed_a: [177, -13]
-    wed_b: [181, 148]
+    kaizo_n: [193, 85]
+    kaizo_d: [76, 96]
+    map_n: [216, 186]
+    map_d: [105, 184]
+    ensyuf_n: [232, 178]
+    ensyuf_d: [100, 166]
+    ensyue_n: [205, 0]
+    battle_n: [241, 214]
+    battle_d: [133, 208]
+    wed_a: [133, -24]
+    wed_b: [117, 174]
   wiki_id: "434"
   chinese_name: 迅鲸
   can_drop: true

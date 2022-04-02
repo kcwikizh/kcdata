@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: mskpesmkwqss
-  file_version: ["70", "1", "302"]
+  filename: mskpesmkwqym
+  file_version: ["71", "1", "401"]
   book_table_id: 
   book_sinfo: 
   stats:

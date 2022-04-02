@@ -1,0 +1,36 @@
+---
+layout: json
+order: 454
+data:
+  id: 454
+  sort_no: 454
+  name: キ102乙改+イ号一型乙 誘導弾
+  type: [22, 38, 47, 48, 47]
+  rare: 5
+  broken: [6, 12, 0, 16]
+  info: 
+  usebull: 0
+  cost: 12
+  distance: 3
+  stats:
+    taik: 0
+    souk: 0
+    houg: 4
+    raig: 14
+    soku: 0
+    baku: 20
+    tyku: 3
+    tais: 4
+    atap: 0
+    houm: 3
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

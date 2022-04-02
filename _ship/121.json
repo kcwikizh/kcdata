@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: yyvxfxdusxlx
-  file_version: ["21", "4", "302"]
+  file_version: ["22", "4", "401"]
   book_table_id: [121]
   book_sinfo: 最上型１番艦のモガミンとは、とっても仲がいいのだけれど、仲が良すぎて彼女とは衝突することも多いの…ええ、そう…物理的に…私はちゃんと前見てるのよ？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 3, 2]
     build_time: 100
   graph:
-    boko_n: [24, -24]
-    boko_d: [24, -6]
+    boko_n: [259, 208]
+    boko_d: [259, 208]
     kaisyu_n: [27, 10]
     kaisyu_d: [42, 10]
-    kaizo_n: [24, -102]
-    kaizo_d: [24, -142]
-    map_n: [45, -16]
-    map_d: [0, -24]
-    ensyuf_n: [30, -21]
-    ensyuf_d: [30, -88]
-    ensyue_n: [30, 0]
-    battle_n: [48, -39]
-    battle_d: [48, -39]
-    wed_a: [387, 208]
-    wed_b: [124, 159]
+    kaizo_n: [235, 88]
+    kaizo_d: [220, 54]
+    map_n: [288, 193]
+    map_d: [289, 193]
+    ensyuf_n: [234, 181]
+    ensyuf_d: [234, 181]
+    ensyue_n: [223, 0]
+    battle_n: [283, 214]
+    battle_d: [283, 214]
+    wed_a: [103, -18]
+    wed_b: [109, 133]
   wiki_id: "117"
   chinese_name: 三隈改
   can_drop: false

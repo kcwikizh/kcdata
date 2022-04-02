@@ -5,7 +5,7 @@ data:
   id: 453
   sort_no: 453
   name: キ102乙
-  type: [22, 38, 47, 44, 47]
+  type: [22, 38, 47, 48, 47]
   rare: 4
   broken: [4, 7, 0, 15]
   info: 
@@ -32,5 +32,5 @@ data:
     luck: 0
     leng: 0
   improvement: 
-  chinese_name:
+  chinese_name: 
 ---

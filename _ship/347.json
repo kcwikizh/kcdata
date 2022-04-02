@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: rgfuelwdntss
-  file_version: ["50", "10", "302"]
+  filename: rgfuelwdntub
+  file_version: ["51", "10", "401"]
   book_table_id: 
   book_sinfo: 
   stats:
