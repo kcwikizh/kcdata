@@ -13,8 +13,8 @@ data:
   after_ship_id: 420
   get_mes: <br>
   voice_f: 3
-  filename: rmcvsljwdyss
-  file_version: ["31", "17", "302"]
+  filename: rmcvsljwdyur
+  file_version: ["32", "17", "401"]
   book_table_id: 
   book_sinfo: 
   stats:

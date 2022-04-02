@@ -8,7 +8,7 @@ data:
   description: 壁紙ではなく、壁材自身を<br>木材に換装した逸品。自然<br>の素材ならではの落ち着い<br>た雰囲気が、鎮守府を優し<br>く包み込みます。
   rarity: 2
   price: 1000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

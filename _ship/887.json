@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: mobumsgesgim
-  file_version: ["60", "1", "302"]
+  file_version: ["60", "1", "401"]
   book_table_id: [887]
   book_sinfo: 水中での圧倒的な機動性を追求した、伊号潜水艦の新<br>型高速潜水艦、伊２０１型潜水艦の三番艦、伊２０３<br>です。<br>実戦には出ませんでしたが、出撃準備は完了していま<br>す。提督、よろしく。私、水中で本当に速いから。<br>見てて。
   stats:

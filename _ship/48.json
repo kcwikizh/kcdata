@@ -14,7 +14,7 @@ data:
   get_mes: 霰です…<br>んちゃ…とかはいいません…よろしく…
   voice_f: 0
   filename: oiknslickotp
-  file_version: ["19", "21", "302"]
+  file_version: ["19", "21", "401"]
   book_table_id: [48, 744]
   book_sinfo: 霰は、マル２計画で建造された最後の駆逐艦…。<br>朝潮型シリーズの…最終艦でも…あるの…。<br>この後は…陽炎型だから…
   stats:

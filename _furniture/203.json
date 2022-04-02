@@ -8,7 +8,7 @@ data:
   description: 鎮守府で戦術や航海の講義<br>をする際に用いる教室セッ<br>ト。その必需品の黒板一式<br>です。チョークや黒板消し<br>も完備。落書き禁止です！
   rarity: 4
   price: 50000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

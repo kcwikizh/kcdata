@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 647
+  sort_no: 447
+  name: 浦波改二
+  yomi: うらなみ
+  stype: 2
+  ctype: 12
+  cnum: 10
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: kjuakdnegxkz
+  file_version: ["51", "1", "401"]
+  book_table_id: [647]
+  book_sinfo: 吹雪型駆逐艦十番艦、特改Ｉ型、浦波です。<br>佐世保生まれです。磯波姉さんや、綾波、敷波と共<br>に、第十九駆逐隊を編成しました。緒戦からミッド<br>ウェー、南方へも出動しました。<br>第十九駆逐隊……覚えていてくださいね。
+  stats:
+    taik: [31, 49]
+    souk: [14, 51]
+    houg: [14, 59]
+    raig: [28, 85]
+    tyku: [28, 72]
+    luck: [29, 99]
+    soku: 10
+    leng: 1
+    kaih: 47
+    tais: 25
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 22
+  graph:
+    boko_n: [151, 133]
+    boko_d: [229, 112]
+    kaisyu_n: [15, -12]
+    kaisyu_d: [46, -4]
+    kaizo_n: [177, 1]
+    kaizo_d: [241, -55]
+    map_n: [192, 96]
+    map_d: [268, 76]
+    ensyuf_n: [178, 70]
+    ensyuf_d: [253, 51]
+    ensyue_n: [174, 0]
+    battle_n: [207, 106]
+    battle_d: [274, 85]
+    wed_a: [157, 73]
+    wed_b: [124, 168]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

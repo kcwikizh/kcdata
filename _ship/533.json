@@ -6,32 +6,32 @@ data:
   name: 冬月
   yomi: ふゆつき
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 54
+  cnum: 8
   backs: 6
-  after_lv: 40
+  after_lv: 55
   after_ship_id: 538
   get_mes: 秋月型防空駆逐艦、八番艦、冬月。参る。<br>涼、随分と待たせたな。提督、共に護ろう。<br>大切な……ものを。
   voice_f: 1
   filename: ytcgdjgfcglk
-  file_version: ["51", "1", "302"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "401"]
+  book_table_id: [533]
+  book_sinfo: 秋月型防空駆逐艦、その八番艦、冬月だ。戦いの後半<br>に就役して、姉妹艦と第四十一駆逐隊を編成、大型艦<br>や艦隊の護衛を務めたな。最後の出撃は、第二水雷戦<br>隊の一翼として、涼月と共に大和の護衛に就いた。そ<br>して今も、僚艦涼月と北九州の防波堤の一部として皆<br>を護っている。
   stats:
-    taik: [20, 40]
-    souk: [9, 27]
-    houg: [16, 48]
-    raig: [16, 48]
-    tyku: [70, 104]
-    luck: [10, 59]
+    taik: [21, 41]
+    souk: [10, 29]
+    houg: [16, 47]
+    raig: [16, 45]
+    tyku: [70, 101]
+    luck: [38, 88]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 44
+    tais: 24
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 170
-    after_bull: 270
+    after_fuel: 270
+    after_bull: 430
     fuel_max: 20
     bull_max: 25
     broken: [1, 2, 13, 1]

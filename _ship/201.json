@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: dufziinsornt
-  file_version: ["37", "20", "302"]
+  file_version: ["39", "20", "401"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [9, 88]
-    boko_d: [7, 88]
+    boko_n: [172, 229]
+    boko_d: [172, 229]
     kaisyu_n: [15, 15]
     kaisyu_d: [42, 10]
-    kaizo_n: [-73, 6]
-    kaizo_d: [-16, -51]
-    map_n: [-33, 72]
-    map_d: [-73, 75]
-    ensyuf_n: [-4, 63]
-    ensyuf_d: [-112, 1]
-    ensyue_n: [-4, 0]
-    battle_n: [-21, 57]
-    battle_d: [-21, 57]
-    wed_a: [351, 120]
-    wed_b: [199, 187]
+    kaizo_n: [138, 105]
+    kaizo_d: [123, 70]
+    map_n: [198, 199]
+    map_d: [199, 199]
+    ensyuf_n: [145, 187]
+    ensyuf_d: [145, 187]
+    ensyue_n: [141, 0]
+    battle_n: [163, 214]
+    battle_d: [163, 214]
+    wed_a: [190, -27]
+    wed_b: [132, 150]
   wiki_id: "011a"
   chinese_name: 吹雪改
   can_drop: false
