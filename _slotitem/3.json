@@ -32,5 +32,64 @@ data:
     luck: 0
     leng: 1
   improvement: 
+    -
+      consume:
+        resource: [0, 0, 80, 70]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 5]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [5, 6]
+            -
+              id: 4
+              amount: [4, 5]
+        slotitem:
+          -
+            id: 3
+            amount: 1
+          -
+            id: 3
+            amount: 1
+      upgrade:
+        id: 122
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [8, 12]
+            -
+              id: 4
+              amount: [6, 10]
+          slotitem:
+            id: 121
+            amount: 1
+      day:
+        -
+          -
+            ship_id: 533
+          -
+            ship_id: 538
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 533
+          -
+            ship_id: 538
+        -
+          -
+            ship_id: 533
+          -
+            ship_id: 538
   chinese_name: 10cm连装高角炮
 ---

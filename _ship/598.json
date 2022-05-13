@@ -14,7 +14,7 @@ data:
   get_mes: Aloha、提督！　あたしが、ニューヨーク生まれ、<br>ハワイ育ちのHonoluluだ！　あ～っノーザも居ンだ…！<br>そっか！いいね！　あたしの事も、よろしく頼むよっ！
   voice_f: 1
   filename: nmjwixriholz
-  file_version: ["55", "3", "401"]
+  file_version: ["55", "3", "513"]
   book_table_id: [598, 711, 5565, 5585]
   book_sinfo: あたし、Brooklyn級軽巡洋艦、Honolulu。ニュー<br>ヨーク生まれのハワイ育ち。よろしくねっ！戦いの始<br>まった日もあの真珠湾にいたんだ。ソロモンでは東京<br>急行を阻止するため、日本水雷戦隊のエースたちとガ<br>チでやりあったんだ。戦い抜いたよ！　覚えておいて<br>ね！
   stats:

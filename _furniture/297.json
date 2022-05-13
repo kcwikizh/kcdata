@@ -8,7 +8,7 @@ data:
   description: 床面にガラスを敷き、その<br>下に水面を配するという技<br>巧的な藤の季節の床です。<br>家具コイン長者向けですが<br>ダイナミック職人支援可！
   rarity: 5
   price: 160000
-  saleflg: 0
+  saleflg: 1
   season: 19
   filename: "042"
   file_version: 1

@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 666
+  sort_no: 466
+  name: 磯波改二
+  yomi: いそなみ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: fvxesdzpvygw
+  file_version: ["51", "1", "513"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 49]
+    souk: [14, 50]
+    houg: [13, 58]
+    raig: [28, 84]
+    tyku: [29, 76]
+    luck: [15, 79]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 2, 2, 1]
+    build_time: 20
+  graph:
+    boko_n: [202, 106]
+    boko_d: [204, 124]
+    kaisyu_n: [22, -16]
+    kaisyu_d: [34, -15]
+    kaizo_n: [199, -22]
+    kaizo_d: [159, -40]
+    map_n: [228, 73]
+    map_d: [184, 90]
+    ensyuf_n: [229, 54]
+    ensyuf_d: [196, 67]
+    ensyue_n: [210, 0]
+    battle_n: [232, 88]
+    battle_d: [231, 111]
+    wed_a: [108, 88]
+    wed_b: [132, 190]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

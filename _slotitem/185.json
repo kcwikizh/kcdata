@@ -32,5 +32,59 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [140, 250, 0, 380]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [7, 9]
+            -
+              id: 4
+              amount: [3, 3]
+          -
+            -
+              id: 3
+              amount: [9, 12]
+            -
+              id: 4
+              amount: [4, 6]
+        slotitem:
+          -
+            id: 176
+            amount: 1
+          -
+            id: 445
+            amount: 1
+      upgrade:
+        id: 177
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [12, 18]
+            -
+              id: 4
+              amount: [9, 16]
+            -
+              id: 77
+              amount: 1
+          slotitem:
+            id: 185
+            amount: 2
+      day:
+        - false
+        - false
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 699
+        -
+          -
+            ship_id: 699
   chinese_name: 三式战 飞燕一型丁
 ---

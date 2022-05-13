@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 567
+  type: 3
+  no: 125
+  title: 「九周年記念」掛け軸
+  description: 三隻の潜水母艦と第六艦隊<br>で九周年！ということで、<br>艦隊の九周年を記念して、<br>第六艦隊のある潜水母艦に<br>よる提督への掛け軸です！
+  rarity: 6
+  price: 0
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

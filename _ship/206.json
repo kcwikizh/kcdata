@@ -9,12 +9,12 @@ data:
   ctype: 
   cnum: 
   backs: 4
-  after_lv: 
-  after_ship_id: 
+  after_lv: 82
+  after_ship_id: 666
   get_mes: <br>
-  voice_f: 0
+  voice_f: 1
   filename: olkahitypycq
-  file_version: ["14", "11", "401"]
+  file_version: ["14", "12", "513"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 410
+    after_bull: 340
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]

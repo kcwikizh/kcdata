@@ -80,5 +80,69 @@ data:
         -
           -
             ship_id: 426
+    -
+      consume:
+        resource: [10, 40, 70, 10]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 3]
+            -
+              id: 4
+              amount: [2, 2]
+          -
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          -
+            id: 297
+            amount: 2
+          -
+            id: 3
+            amount: 2
+      upgrade:
+        id: 455
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [9, 17]
+            -
+              id: 4
+              amount: [8, 9]
+            -
+              id: 75
+              amount: 1
+          slotitem:
+            id: 294
+            amount: 1
+      day:
+        -
+          -
+            ship_id: 647
+        -
+          -
+            ship_id: 647
+        -
+          -
+            ship_id: 647
+        -
+          -
+            ship_id: 647
+        -
+          -
+            ship_id: 647
+        -
+          -
+            ship_id: 647
+        -
+          -
+            ship_id: 647
   chinese_name: 
 ---
