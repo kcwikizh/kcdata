@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: tedevipdbvdr
-  file_version: ["14", "18", "513"]
+  file_version: ["14", "18", "527"]
   book_table_id: 
   book_sinfo: 
   stats:

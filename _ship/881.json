@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 881
-  sort_no: 0
-  name: 夏龍鳳
-  yomi: たいげい・りゅうほう
-  stype: 7
+  sort_no: 481
+  name: 伊201
+  yomi: い201
+  stype: 13
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: kxgbybnierzw
-  file_version: ["1", "1", "1"]
+  backs: 6
+  after_lv: 55
+  after_ship_id: 719
+  get_mes: 私が潜高型の長女、伊２０１よ。妹がお世話になって<br>いるようね。私のことは…そう、フレイでいいわ。<br>提督、やってみましょう？
+  voice_f: 1
+  filename: lujkrodiubhv
+  file_version: ["51", "1", "527"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
+    taik: [12, 22]
+    souk: [4, 16]
+    houg: [1, 3]
+    raig: [20, 63]
+    tyku: [0, 5]
+    luck: [24, 79]
     soku: 5
-    leng: 
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 3
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 150
+    after_bull: 250
+    fuel_max: 15
+    bull_max: 15
+    broken: [2, 1, 2, 1]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
   graph:
-    boko_n: [234, 222]
-    boko_d: [252, 234]
-    kaisyu_n: [12, 12]
-    kaisyu_d: [36, 24]
-    kaizo_n: [144, 138]
-    kaizo_d: [150, 120]
-    map_n: [144, 174]
-    map_d: [144, 186]
-    ensyuf_n: [138, 168]
-    ensyuf_d: [138, 168]
-    ensyue_n: [138, 0]
-    battle_n: [174, 192]
-    battle_d: [180, 210]
-    wed_a: [180, -6]
-    wed_b: [132, 210]
+    boko_n: [99, 243]
+    boko_d: [139, 310]
+    kaisyu_n: [7, -1]
+    kaisyu_d: [72, -67]
+    kaizo_n: [111, 103]
+    kaizo_d: [180, 136]
+    map_n: [114, 217]
+    map_d: [199, 243]
+    ensyuf_n: [120, 187]
+    ensyuf_d: [211, 204]
+    ensyue_n: [102, 0]
+    battle_n: [150, 229]
+    battle_d: [264, 249]
+    wed_a: [247, -25]
+    wed_b: [108, 169]
   wiki_id: 
   chinese_name: 
   can_drop: false

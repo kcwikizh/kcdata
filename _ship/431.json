@@ -14,7 +14,7 @@ data:
   get_mes: ドイツ海軍所属、潜水艦U-511です。<br>ユーとお呼びください。<br>少し遠出してきました。よろしくお願い致します……。
   voice_f: 1
   filename: ksvosfducgbe
-  file_version: ["22", "4", "513"]
+  file_version: ["22", "4", "527"]
   book_table_id: [431, 795]
   book_sinfo: ドイツ海軍のUボート、潜水艦U-511……です。<br>頑張って、ここまで来ました。<br>皆と仲良くなれたら…いいなって…ここの文化に馴染めたらいいなって…思います。
   stats:

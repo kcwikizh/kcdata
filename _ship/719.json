@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 719
+  sort_no: 1719
+  name: 伊201改
+  yomi: い201
+  stype: 13
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: nzzizyhcylvr
+  file_version: ["51", "1", "527"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [13, 23]
+    souk: [4, 18]
+    houg: [1, 4]
+    raig: [22, 68]
+    tyku: [0, 5]
+    luck: [24, 87]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 20
+    bull_max: 20
+    broken: [2, 1, 2, 1]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
+  graph:
+    boko_n: [99, 243]
+    boko_d: [139, 310]
+    kaisyu_n: [7, -1]
+    kaisyu_d: [72, -67]
+    kaizo_n: [111, 103]
+    kaizo_d: [180, 136]
+    map_n: [114, 217]
+    map_d: [199, 243]
+    ensyuf_n: [120, 187]
+    ensyuf_d: [211, 204]
+    ensyue_n: [102, 0]
+    battle_n: [150, 229]
+    battle_d: [264, 249]
+    wed_a: [247, -25]
+    wed_b: [108, 169]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

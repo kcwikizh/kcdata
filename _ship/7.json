@@ -14,7 +14,7 @@ data:
   get_mes: あなたが司令官ですね。三日月です。<br>どうぞお手柔らかにお願いします。
   voice_f: 0
   filename: ujhxqqlcorxv
-  file_version: ["11", "11", "513"]
+  file_version: ["11", "11", "527"]
   book_table_id: [7]
   book_sinfo: 軽空母のエスコートや船団護衛に従事した睦月型駆逐艦三日月です。<br>激戦のソロモン海域にも出撃しました。<br>旧式だけど速力を生かして強行輸送任務も奮闘しました。
   stats:

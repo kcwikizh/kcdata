@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: vqdgxtrgintc
-  file_version: ["38", "16", "513"]
+  file_version: ["38", "16", "527"]
   book_table_id: [416]
   book_sinfo: 重巡洋艦、古鷹です。<br>三川提督率いる第８艦隊の一員として、第一次ソロモン海戦では敵艦多数を撃破したんですよ！<br>これが、重巡なんです！
   stats:

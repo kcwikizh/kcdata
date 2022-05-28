@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 886
-  sort_no: 0
-  name: 夏Z3
-  yomi: マックス・シュルツ
+  sort_no: 486
+  name: 早潮
+  yomi: はやしお
   stype: 2
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: wpiwudgdjvcu
-  file_version: ["1", "1", "1"]
+  backs: 5
+  after_lv: 37
+  after_ship_id: 720
+  get_mes: はい！　あたしが陽炎型駆逐艦五番艦、早潮！<br>浦賀生まれ！　提督！　よろしくね！<br>ねえ、提督ってば！　聞いてる？
+  voice_f: 1
+  filename: gbnxrpoysmhw
+  file_version: ["51", "1", "527"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
+    taik: [16, 34]
+    souk: [6, 19]
+    houg: [10, 29]
+    raig: [24, 69]
+    tyku: [8, 38]
+    luck: [9, 48]
     soku: 10
-    leng: 
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 3
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 110
+    after_bull: 190
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 6, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 24
   graph:
-    boko_n: [186, 234]
-    boko_d: [150, 234]
-    kaisyu_n: [24, 0]
-    kaisyu_d: [36, 12]
-    kaizo_n: [138, 132]
-    kaizo_d: [60, 132]
-    map_n: [138, 180]
-    map_d: [78, 198]
-    ensyuf_n: [138, 186]
-    ensyuf_d: [60, 192]
-    ensyue_n: [120, 0]
-    battle_n: [168, 198]
-    battle_d: [96, 216]
-    wed_a: [192, -6]
-    wed_b: [138, 180]
+    boko_n: [12, 229]
+    boko_d: [94, 238]
+    kaisyu_n: [13, 1]
+    kaisyu_d: [37, 6]
+    kaizo_n: [12, 96]
+    kaizo_d: [73, 63]
+    map_n: [16, 202]
+    map_d: [73, 208]
+    ensyuf_n: [15, 178]
+    ensyuf_d: [112, 192]
+    ensyue_n: [25, 0]
+    battle_n: [54, 220]
+    battle_d: [181, 225]
+    wed_a: [310, -30]
+    wed_b: [138, 183]
   wiki_id: 
   chinese_name: 
   can_drop: false

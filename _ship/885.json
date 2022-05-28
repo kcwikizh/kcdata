@@ -14,7 +14,7 @@ data:
   get_mes: 私がAircraft Carrier HMS Victorious。お前が提督か。<br>よかろう。お前と征こうか。この海を！
   voice_f: 1
   filename: kqoobdjpsppb
-  file_version: ["54", "3", "513"]
+  file_version: ["54", "3", "527"]
   book_table_id: [885, 5584, 5601]
   book_sinfo: Illustrious　class Aircraft Carrier<br>HMS Victorious。装甲甲板を持つ英正規空母よ。<br>数々の戦いを乗り越え、戦後はジェット艦載機も運用<br>可能に改装されたわ。よろしくね。
   stats:

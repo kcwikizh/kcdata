@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 720
+  sort_no: 1720
+  name: 早潮改
+  yomi: はやしお
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: rcssufdjlvbp
+  file_version: ["51", "1", "527"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [32, 49]
+    souk: [14, 49]
+    houg: [13, 48]
+    raig: [28, 79]
+    tyku: [14, 50]
+    luck: [12, 63]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
+  graph:
+    boko_n: [12, 229]
+    boko_d: [94, 238]
+    kaisyu_n: [13, 1]
+    kaisyu_d: [37, 6]
+    kaizo_n: [12, 96]
+    kaizo_d: [73, 63]
+    map_n: [16, 202]
+    map_d: [73, 208]
+    ensyuf_n: [15, 178]
+    ensyuf_d: [112, 192]
+    ensyue_n: [25, 0]
+    battle_n: [54, 220]
+    battle_d: [181, 225]
+    wed_a: [310, -30]
+    wed_b: [138, 183]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

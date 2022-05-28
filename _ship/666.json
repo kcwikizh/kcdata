@@ -6,17 +6,17 @@ data:
   name: 磯波改二
   yomi: いそなみ
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 12
+  cnum: 9
   backs: 7
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
   filename: fvxesdzpvygw
-  file_version: ["51", "1", "513"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "527"]
+  book_table_id: [666]
+  book_sinfo: 特型駆逐艦９番艦の磯波です。<br>数々の作戦に参加したんですけど、中破してからは、<br>後方で海上護衛や哨戒活動に従事していました。<br>頑張ります。
   stats:
     taik: [30, 49]
     souk: [14, 50]
@@ -26,8 +26,8 @@ data:
     luck: [15, 79]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 45
+    tais: 28
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
