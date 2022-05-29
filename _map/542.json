@@ -1,0 +1,283 @@
+---
+layout: json
+order: 542
+data:
+  id: 542
+  name: ショートランド沖/レカタ沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: A
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: F
+      to: M
+    14:
+      from: M
+      to: N
+    15:
+      from: M
+      to: O
+    16:
+      from: D
+      to: F
+    17:
+      from: E
+      to: F
+    18:
+      from: H
+      to: J
+    19:
+      from: I
+      to: J
+    20:
+      from: K
+      to: L
+    21:
+      from: L
+      to: M
+    22:
+      from: 2
+      to: P
+    23:
+      from: P
+      to: Q
+    24:
+      from: Q
+      to: R
+    25:
+      from: Q
+      to: S
+    26:
+      from: S
+      to: S1
+    27:
+      from: S1
+      to: S2
+    28:
+      from: S1
+      to: S3
+    29:
+      from: S1
+      to: T
+    30:
+      from: T
+      to: T1
+    31:
+      from: T
+      to: T2
+    32:
+      from: S2
+      to: S3
+    33:
+      from: S3
+      to: T
+    34:
+      from: null
+      to: 2
+    35:
+      from: R
+      to: U
+    36:
+      from: U
+      to: V
+    37:
+      from: U
+      to: W
+    38:
+      from: W
+      to: W1
+    39:
+      from: W
+      to: W2
+    40:
+      from: V
+      to: W
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海基地航空隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海潜水艦隊 前衛哨戒 III群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海基地航空隊
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海任務部隊 巡洋艦戦隊
+      type:
+      boss: false
+      routes: [6, 16, 17]
+    G:
+      name: 深海潜水艦隊 前衛哨戒 II群
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海基地航空隊
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海任務部隊 水上打撃集団前衛
+      type:
+      boss: false
+      routes: [10, 18, 19]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 深海任務部隊 水上打撃集団
+      type:
+      boss: false
+      routes: [12, 20]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [13, 21]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 深海任務部隊 前衛群主力戦隊
+      type:
+      boss: false
+      routes: [15]
+    P:
+      name: 深海潜水艦隊 南方哨戒警戒群
+      type:
+      boss: false
+      routes: [22]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [23]
+    R:
+      name: 深海任務部隊 哨戒駆逐隊 I群
+      type:
+      boss: false
+      routes: [24]
+    S:
+      name: 深海任務部隊 哨戒駆逐隊 II群
+      type:
+      boss: false
+      routes: [25]
+    S1:
+      name: 深海任務部隊 増援部隊前衛集団
+      type:
+      boss: false
+      routes: [26]
+    S2:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    S3:
+      name: 深海任務部隊 戦闘哨戒艦載機群
+      type:
+      boss: false
+      routes: [28, 32]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [29, 33]
+    T1:
+      name: 
+      type:
+      boss: false
+      routes: [30]
+    T2:
+      name: 深海任務部隊 増援部隊本隊
+      type:
+      boss: false
+      routes: [31]
+    U:
+      name: 深海基地航空隊 戦爆連合部隊
+      type:
+      boss: false
+      routes: [35]
+    V:
+      name: 深海任務部隊 南方戦域防備隊
+      type:
+      boss: false
+      routes: [36]
+    W:
+      name: 深海任務部隊 突撃重水雷戦隊
+      type:
+      boss: false
+      routes: [37, 40]
+    W1:
+      name: 
+      type:
+      boss: false
+      routes: [38]
+    W2:
+      name: 深海任務部隊 南方旗艦艦隊
+      type:
+      boss: true
+      routes: [39]
+  image: MapHDE-2Spring2022.png
+---

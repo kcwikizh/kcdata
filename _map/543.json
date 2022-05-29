@@ -1,0 +1,295 @@
+---
+layout: json
+order: 543
+data:
+  id: 543
+  name: ビスマルク海/ダンピール海峡沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: 1
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: C
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: G
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: K
+      to: L
+    13:
+      from: B
+      to: D
+    14:
+      from: H
+      to: J
+    15:
+      from: I
+      to: J
+    16:
+      from: 2
+      to: M
+    17:
+      from: M
+      to: M1
+    18:
+      from: M1
+      to: M2
+    19:
+      from: M
+      to: N
+    20:
+      from: N
+      to: O
+    21:
+      from: O
+      to: P
+    22:
+      from: P
+      to: Q
+    23:
+      from: P
+      to: Q'
+    24:
+      from: H
+      to: R
+    25:
+      from: M1
+      to: N
+    26:
+      from: M2
+      to: N
+    27:
+      from: G
+      to: H
+    28:
+      from: R
+      to: L
+    29:
+      from: null
+      to: 2
+    30:
+      from: L
+      to: S
+    31:
+      from: S
+      to: T
+    32:
+      from: T
+      to: U
+    33:
+      from: T
+      to: U'
+    34:
+      from: L
+      to: V
+    35:
+      from: L
+      to: W
+    36:
+      from: V
+      to: X
+    37:
+      from: X
+      to: Y
+    38:
+      from: X
+      to: Y'
+    39:
+      from: W
+      to: X
+    40:
+      from: S
+      to: V
+    41:
+      from: 3
+      to: F
+    42:
+      from: 3
+      to: G
+    43:
+      from: 3
+      to: H
+    44:
+      from: null
+      to: 3
+  cells:
+    A:
+      name: 深海潜水艦隊 偵察前衛哨戒 I線
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海潜水艦隊 偵察前衛哨戒 II線
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4, 13]
+    E:
+      name: 深海基地航空隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海基地航空隊
+      type:
+      boss: false
+      routes: [6, 41]
+    G:
+      name: 深海潜水艦隊 偵察前衛哨戒 III線
+      type:
+      boss: false
+      routes: [7, 42]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8, 27, 43]
+    I:
+      name: 深海基地航空隊
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海潜水艦隊 遊撃群狼A集団
+      type:
+      boss: false
+      routes: [10, 14, 15]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 深海基地航空隊 (主力部隊A編隊)
+      type:
+      boss: false
+      routes: [12, 28]
+    M:
+      name: 深海潜水艦隊 偵察前衛哨戒 IV線
+      type:
+      boss: false
+      routes: [16]
+    M1:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [17]
+    M2:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    N:
+      name: 深海急派増援群 前衛偵察部隊
+      type:
+      boss: false
+      routes: [19, 25, 26]
+    O:
+      name: 深海基地航空隊 (主力部隊B編隊)
+      type:
+      boss: false
+      routes: [20]
+    P:
+      name: 深海急派増援群 先遣機動部隊
+      type:
+      boss: false
+      routes: [21]
+    Q:
+      name: 深海急派増援群 空母機動部隊
+      type:
+      boss: false
+      routes: [22]
+    Q':
+      name: 
+      type:
+      boss: false
+      routes: [23]
+    R:
+      name: 海峡配備 深海魚雷艇部隊
+      type:
+      boss: false
+      routes: [24]
+    S:
+      name: 深海任務部隊 ラエ輸送阻止線
+      type:
+      boss: false
+      routes: [30]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [31]
+    U:
+      name: 深海任務部隊 輸送阻止強襲群
+      type:
+      boss: false
+      routes: [32]
+    U':
+      name: 
+      type:
+      boss: false
+      routes: [33]
+    V:
+      name: 深海基地航空隊 (主力部隊C編隊)
+      type:
+      boss: false
+      routes: [34, 40]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [35]
+    X:
+      name: 深海急派増援群 残存再編部隊
+      type:
+      boss: false
+      routes: [36, 39]
+    Y:
+      name: 深海任務部隊 沈没輸送船団
+      type:
+      boss: true
+      routes: [37]
+    Y':
+      name: 
+      type:
+      boss: false
+      routes: [38]
+  image: MapHDE-3Spring2022.png
+---

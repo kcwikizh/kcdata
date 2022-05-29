@@ -1,0 +1,13 @@
+---
+layout: json
+order: 54
+data:
+  id: 54
+  name: 激闘！R方面作戦
+  maps:
+    - 541
+    - 542
+    - 543
+  event: true
+  level: 4
+---

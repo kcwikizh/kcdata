@@ -1,0 +1,175 @@
+---
+layout: json
+order: 541
+data:
+  id: 541
+  name: ニューブリテン島ラバウル沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: 1
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: F
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: H
+      to: J
+    11:
+      from: I
+      to: K
+    12:
+      from: C
+      to: D
+    13:
+      from: A
+      to: F
+    14:
+      from: G
+      to: H
+    15:
+      from: H
+      to: I
+    16:
+      from: J
+      to: L
+    17:
+      from: L
+      to: M
+    18:
+      from: J
+      to: N
+    19:
+      from: N
+      to: O
+    20:
+      from: O
+      to: P
+    21:
+      from: O
+      to: Q
+    22:
+      from: Q
+      to: R
+    23:
+      from: L
+      to: N
+    24:
+      from: J
+      to: O
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 偵察哨戒B線
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海基地航空隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海任務部隊 巡洋艦戦隊
+      type:
+      boss: false
+      routes: [4, 12]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 深海潜水艦隊 偵察哨戒A線
+      type:
+      boss: false
+      routes: [6, 13]
+    G:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [8, 14]
+    I:
+      name: 深海任務部隊 先遣機動部隊
+      type:
+      boss: false
+      routes: [9, 15]
+    J:
+      name: 深海任務部隊 哨戒駆逐隊
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 深海潜水艦隊 増援阻止哨戒線
+      type:
+      boss: false
+      routes: [16]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    N:
+      name: 深海基地航空隊
+      type:
+      boss: false
+      routes: [18, 23]
+    O:
+      name: 深海任務部隊 突撃水雷戦隊
+      type:
+      boss: false
+      routes: [19, 24]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    R:
+      name: 深海任務部隊 増援阻止群旗艦
+      type:
+      boss: true
+      routes: [22]
+  image: MapHDE-1Spring2022.png
+---
