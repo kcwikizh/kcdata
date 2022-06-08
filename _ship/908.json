@@ -13,8 +13,8 @@ data:
   after_ship_id: 903
   get_mes: <br>
   voice_f: 3
-  filename: hucfmvekvgbb
-  file_version: ["53", "1", "527"]
+  filename: hucfmvekvgrs
+  file_version: ["54", "1", "608"]
   book_table_id: [908]
   book_sinfo: 綾波型駆逐艦、五番艦の天霧だ。そう、重武装の特型<br>駆逐艦だぜ。微妙に旧式だって？馬鹿いうな。各作戦<br>やソロモンの夜を駆け抜けたあたしだよ？そうさ、大<br>統領になる男を水もしたたるいい男にしてやったこと<br>もある。出逢いってのは面白いな！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 20
   graph:
-    boko_n: [-19, 36]
-    boko_d: [171, -24]
+    boko_n: [231, 205]
+    boko_d: [121, 205]
     kaisyu_n: [31, -70]
     kaisyu_d: [49, -16]
-    kaizo_n: [-10, -73]
-    kaizo_d: [177, -151]
-    map_n: [27, -10]
-    map_d: [175, -67]
-    ensyuf_n: [31, -24]
-    ensyuf_d: [193, -67]
-    ensyue_n: [-4, 0]
-    battle_n: [87, 25]
-    battle_d: [232, -33]
-    wed_a: [312, 178]
-    wed_b: [106, 181]
+    kaizo_n: [223, 81]
+    kaizo_d: [70, 72]
+    map_n: [258, 195]
+    map_d: [121, 190]
+    ensyuf_n: [226, 186]
+    ensyuf_d: [105, 196]
+    ensyue_n: [244, 0]
+    battle_n: [240, 195]
+    battle_d: [118, 204]
+    wed_a: [91, -9]
+    wed_b: [160, 150]
   wiki_id: "508"
   chinese_name: 天雾改二丁
   can_drop: false

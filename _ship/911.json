@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 911
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: wodfmwagpixg
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 511
+  name: 大和改二
+  yomi: やまと
+  stype: 8
+  ctype: 37
+  cnum: 1
+  backs: 8
+  after_lv: 93
+  after_ship_id: 916
+  get_mes: <br>
+  voice_f: 3
+  filename: dqsrxxfdqbhq
+  file_version: ["51", "9", "608"]
+  book_table_id: [911]
+  book_sinfo: 大和型戦艦一番艦、大和です。<br>艦隊決戦の切り札として、呉海軍工廠で極秘建造され<br>ました。当時の最高技術の粋を結集されたこの体、二<br>番艦の武蔵と共に、連合艦隊の中枢戦力として頑張り<br>ます！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [98, 110]
+    souk: [92, 122]
+    houg: [100, 144]
+    raig: [0, 0]
+    tyku: [65, 108]
+    luck: [18, 108]
+    soku: 10
+    leng: 4
+    kaih: 28
+    tais: 0
+    slot_num: 5
+    max_eq: [4, 4, 4, 8, 2]
+    after_fuel: 3300
+    after_bull: 3600
+    fuel_max: 290
+    bull_max: 350
+    broken: [40, 55, 115, 24]
+    pow_up: [7, 0, 4, 7]
+    build_time: 480
   graph:
-    boko_n: [-60, 162]
-    boko_d: [84, 216]
-    kaisyu_n: [18, 24]
-    kaisyu_d: [36, 24]
-    kaizo_n: [-120, 72]
-    kaizo_d: [-12, 96]
-    map_n: [-72, 156]
-    map_d: [12, 204]
-    ensyuf_n: [-36, 120]
-    ensyuf_d: [96, 192]
-    ensyue_n: [-144, 0]
-    battle_n: [-36, 132]
-    battle_d: [24, 192]
-    wed_a: [432, 60]
-    wed_b: [168, 168]
+    boko_n: [-349, 43]
+    boko_d: [76, 262]
+    kaisyu_n: [18, -12]
+    kaisyu_d: [91, -70]
+    kaizo_n: [-360, -58]
+    kaizo_d: [88, 100]
+    map_n: [-372, 25]
+    map_d: [85, 208]
+    ensyuf_n: [-340, 22]
+    ensyuf_d: [133, 187]
+    ensyue_n: [-337, 0]
+    battle_n: [-360, 52]
+    battle_d: [154, 228]
+    wed_a: [688, 135]
+    wed_b: [106, 166]
   wiki_id: 
   chinese_name: 
   can_drop: false

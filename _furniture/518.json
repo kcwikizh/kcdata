@@ -8,8 +8,8 @@ data:
   description: 潜水母艦と伊号潜水艦によ<br>る潜水艦隊専用の窓です。<br>季節ごとに潜水母艦や伊号<br>による模様替えがある特殊<br>な窓です。
   rarity: 6
   price: 5000
-  saleflg: 1
+  saleflg: 0
   season: 42
   filename: "076"
-  file_version: 18
+  file_version: 19
 ---

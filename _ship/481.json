@@ -13,8 +13,8 @@ data:
   after_ship_id: 366
   get_mes: 睦月型駆逐艦、その六番艦、水無月だよ。<br>遅れてごめん。司令官、よろしくね！……えへへ。
   voice_f: 1
-  filename: xzuthqfclfmp
-  file_version: ["17", "1", "527"]
+  filename: xzuthqfclfrs
+  file_version: ["18", "1", "608"]
   book_table_id: [481, 5088, 5546]
   book_sinfo: 睦月型駆逐艦、その六番艦、水無月だよ。<br>横須賀の近く、浦賀で生まれたんだ。睦月型の姉や妹<br>達と共に、緒戦の戦いに参加したんだ。船団護衛も何<br>度も務めたよ。<br>ん？潜水艦？あれはやっかいな相手だよね。うん、わ<br>かるよ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [276, 216]
-    boko_d: [174, 234]
+    boko_n: [102, 199]
+    boko_d: [102, 199]
     kaisyu_n: [9, -27]
     kaisyu_d: [54, 6]
-    kaizo_n: [174, 108]
-    kaizo_d: [72, 126]
-    map_n: [210, 186]
-    map_d: [120, 204]
-    ensyuf_n: [156, 174]
-    ensyuf_d: [90, 192]
-    ensyue_n: [180, 0]
-    battle_n: [216, 192]
-    battle_d: [144, 216]
-    wed_a: [120, 18]
-    wed_b: [180, 168]
+    kaizo_n: [100, 82]
+    kaizo_d: [85, 46]
+    map_n: [123, 148]
+    map_d: [123, 148]
+    ensyuf_n: [123, 160]
+    ensyuf_d: [123, 160]
+    ensyue_n: [118, 0]
+    battle_n: [165, 187]
+    battle_d: [165, 187]
+    wed_a: [208, 15]
+    wed_b: [121, 169]
   wiki_id: "281"
   chinese_name: 水无月
   can_drop: true

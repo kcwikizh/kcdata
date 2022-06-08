@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: jhefpwucyxiq
-  file_version: ["36", "24", "527"]
+  filename: jhefpwucyxrs
+  file_version: ["37", "24", "608"]
   book_table_id: [297]
   book_sinfo: 水上機母艦から大改装を受けて、航空母艦にジョブチェンジした千代田です。結構ちゃんとした空母でしょ？千歳お姉と一緒に敵機動部隊と戦うわ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 3]
     build_time: 190
   graph:
-    boko_n: [-66, 75]
-    boko_d: [-54, 82]
+    boko_n: [258, 126]
+    boko_d: [192, 264]
     kaisyu_n: [27, 0]
     kaisyu_d: [51, 15]
-    kaizo_n: [-120, -16]
-    kaizo_d: [-81, -45]
-    map_n: [-109, 61]
-    map_d: [-127, 67]
-    ensyuf_n: [-88, 28]
-    ensyuf_d: [-88, -19]
-    ensyue_n: [-93, 0]
-    battle_n: [-72, 31]
-    battle_d: [-73, 31]
-    wed_a: [447, 151]
-    wed_b: [153, 166]
+    kaizo_n: [138, 60]
+    kaizo_d: [84, 144]
+    map_n: [156, 96]
+    map_d: [78, 210]
+    ensyuf_n: [156, 84]
+    ensyuf_d: [66, 204]
+    ensyue_n: [150, 0]
+    battle_n: [204, 126]
+    battle_d: [108, 216]
+    wed_a: [162, 120]
+    wed_b: [150, 144]
   wiki_id: "122"
   chinese_name: 千代田航改二
   can_drop: false

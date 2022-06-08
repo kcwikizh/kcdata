@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
-  filename: numjsnomjspr
-  file_version: ["35", "16", "527"]
+  filename: numjsnomjsrs
+  file_version: ["36", "16", "608"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 2]
     build_time: 160
   graph:
-    boko_n: [-12, 210]
-    boko_d: [276, 258]
+    boko_n: [144, 132]
+    boko_d: [192, 240]
     kaisyu_n: [6, 24]
     kaisyu_d: [36, 24]
-    kaizo_n: [-120, 144]
-    kaizo_d: [192, 84]
-    map_n: [-96, 192]
-    map_d: [240, 234]
-    ensyuf_n: [-72, 192]
-    ensyuf_d: [264, 192]
-    ensyue_n: [-96, 0]
-    battle_n: [-96, 192]
-    battle_d: [216, 192]
-    wed_a: [408, -12]
-    wed_b: [174, 186]
+    kaizo_n: [48, 48]
+    kaizo_d: [144, 120]
+    map_n: [84, 96]
+    map_d: [144, 192]
+    ensyuf_n: [96, 72]
+    ensyuf_d: [192, 192]
+    ensyue_n: [60, 0]
+    battle_n: [96, 72]
+    battle_d: [168, 192]
+    wed_a: [252, 96]
+    wed_b: [192, 168]
   wiki_id: "094a"
   chinese_name: 祥凤改
   can_drop: false

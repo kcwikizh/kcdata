@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
-  filename: riiwaegupstv
-  file_version: ["17", "8", "527"]
+  filename: riiwaegupsrs
+  file_version: ["18", "8", "608"]
   book_table_id: [417]
   book_sinfo: 古鷹型重巡洋艦の２番艦、加古だよぉ。<br>第一次ソロモン海戦で大活躍したんだからね！<br>あ、帰り道？ホント、行きはよいよい、帰りは怖い～ってね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [-48, 156]
-    boko_d: [132, 120]
+    boko_n: [64, 58]
+    boko_d: [64, 58]
     kaisyu_n: [18, -18]
     kaisyu_d: [36, -24]
-    kaizo_n: [-144, 72]
-    kaizo_d: [48, 24]
-    map_n: [-72, 144]
-    map_d: [72, 72]
-    ensyuf_n: [-48, 120]
-    ensyuf_d: [96, 48]
-    ensyue_n: [-96, 0]
-    battle_n: [-72, 144]
-    battle_d: [96, 96]
-    wed_a: [384, 54]
-    wed_b: [192, 144]
+    kaizo_n: [46, -61]
+    kaizo_d: [31, -97]
+    map_n: [34, 22]
+    map_d: [34, 22]
+    ensyuf_n: [40, 28]
+    ensyuf_d: [40, 28]
+    ensyue_n: [33, 0]
+    battle_n: [81, 49]
+    battle_d: [81, 49]
+    wed_a: [265, 114]
+    wed_b: [138, 196]
   wiki_id: "217"
   chinese_name: 加古改二
   can_drop: false

@@ -8,7 +8,7 @@ data:
   description: 雨の季節はレインコートや<br>傘も大事です。お出掛けの<br>際は忘れずに！提督と秘書<br>艦娘のレインコートも常備<br>しています。
   rarity: 3
   price: 1800
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 
