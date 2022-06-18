@@ -1,0 +1,36 @@
+---
+layout: json
+order: 466
+data:
+  id: 466
+  sort_no: 466
+  name: 流星改(熟練)
+  type: [3, 5, 8, 8, 33]
+  rare: 5
+  broken: [2, 6, 0, 11]
+  info: 
+  usebull: 0
+  cost: 9
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 13
+    soku: 0
+    baku: 0
+    tyku: 3
+    tais: 6
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 5
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 918
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 518
+  name: Maryland改
+  yomi: メリーランド
+  stype: 9
   ctype: 
   cnum: 
-  backs: 
+  backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: vdtwxormhevo
-  file_version: ["1", "1", "1"]
+  get_mes: <br>
+  voice_f: 3
+  filename: tucouxihqsdm
+  file_version: ["51", "1", "608"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [91, 98]
+    souk: [83, 99]
+    houg: [80, 105]
+    raig: [0, 0]
+    tyku: [36, 100]
+    luck: [40, 110]
+    soku: 5
+    leng: 3
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
+    slot_num: 4
+    max_eq: [1, 1, 1, 2, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 95
+    bull_max: 165
+    broken: [18, 31, 48, 4]
+    pow_up: [5, 0, 3, 4]
+    build_time: 300
   graph:
-    boko_n: [144, 132]
-    boko_d: [192, 240]
-    kaisyu_n: [36, -15]
-    kaisyu_d: [24, 40]
-    kaizo_n: [48, 48]
-    kaizo_d: [144, 120]
-    map_n: [84, 96]
-    map_d: [144, 192]
-    ensyuf_n: [96, 72]
-    ensyuf_d: [192, 192]
-    ensyue_n: [60, 0]
-    battle_n: [96, 72]
-    battle_d: [168, 192]
-    wed_a: [252, 96]
-    wed_b: [192, 168]
+    boko_n: [-46, 103]
+    boko_d: [100, 259]
+    kaisyu_n: [19, -22]
+    kaisyu_d: [31, -67]
+    kaizo_n: [-34, -16]
+    kaizo_d: [85, 79]
+    map_n: [-48, 79]
+    map_d: [82, 198]
+    ensyuf_n: [-27, 78]
+    ensyuf_d: [105, 162]
+    ensyue_n: [-25, 0]
+    battle_n: [4, 96]
+    battle_d: [157, 196]
+    wed_a: [379, 82]
+    wed_b: [109, 186]
   wiki_id: 
   chinese_name: 
   can_drop: false
