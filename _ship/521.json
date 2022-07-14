@@ -14,7 +14,7 @@ data:
   get_mes: 特設航空母艦、春日丸と申します。<br>不束者ですが、務めを果したいと思います。
   voice_f: 1
   filename: ycfrigxehfwt
-  file_version: ["51", "1", "608"]
+  file_version: ["52", "1", "713"]
   book_table_id: [521]
   book_sinfo: 特設航空母艦、春日丸です。<br>優秀船舶建造助成施設によって建造された客船でしたが、戦いに臨み、空母へと改装されました。航空機の輸送などに務めた後、大鷹と名前を変えて、海上護衛の任に就きました。夜の潜水艦は…怖いですね……。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 2]
     build_time: 160
   graph:
-    boko_n: [234, 210]
-    boko_d: [204, 210]
+    boko_n: [282, 217]
+    boko_d: [282, 217]
     kaisyu_n: [54, 3]
     kaisyu_d: [39, 18]
-    kaizo_n: [228, 108]
-    kaizo_d: [96, 96]
-    map_n: [246, 204]
-    map_d: [126, 210]
-    ensyuf_n: [228, 192]
-    ensyuf_d: [108, 198]
-    ensyue_n: [228, 0]
-    battle_n: [264, 204]
-    battle_d: [144, 234]
-    wed_a: [102, -24]
-    wed_b: [120, 156]
+    kaizo_n: [282, 94]
+    kaizo_d: [267, 60]
+    map_n: [298, 211]
+    map_d: [298, 211]
+    ensyuf_n: [289, 183]
+    ensyuf_d: [289, 183]
+    ensyue_n: [283, 0]
+    battle_n: [327, 223]
+    battle_d: [327, 223]
+    wed_a: [42, -46]
+    wed_b: [103, 198]
   wiki_id: "321"
   chinese_name: 春日丸
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: 提督、ごきげんよう。潜特型二番艦伊401です。<br>しおいって呼んでね。
   voice_f: 3
   filename: hmiwrqvijwvv
-  file_version: ["25", "3", "608"]
+  file_version: ["26", "3", "713"]
   book_table_id: [155, 982, 794]
   book_sinfo: 伊４００型潜水艦二番艦、伊４０１です。<br>地球をぐるっと一周以上余裕で航行できる長大な航続力と、特殊攻撃機「晴嵐」を３機搭載する潜水空母なんです。そう、戦略的秘密兵器…秘密なんだからっ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 1, 1]
     build_time: 200
   graph:
-    boko_n: [-48, 192]
-    boko_d: [-48, 192]
+    boko_n: [204, 216]
+    boko_d: [252, 216]
     kaisyu_n: [36, 12]
     kaisyu_d: [60, 36]
-    kaizo_n: [24, 96]
-    kaizo_d: [24, 96]
-    map_n: [48, 168]
-    map_d: [48, 168]
-    ensyuf_n: [72, 168]
-    ensyuf_d: [72, 108]
-    ensyue_n: [24, 0]
-    battle_n: [24, 144]
-    battle_d: [48, 144]
-    wed_a: [255, 12]
-    wed_b: [171, 184]
+    kaizo_n: [144, 120]
+    kaizo_d: [174, 84]
+    map_n: [192, 180]
+    map_d: [237, 180]
+    ensyuf_n: [198, 192]
+    ensyuf_d: [240, 192]
+    ensyue_n: [180, 0]
+    battle_n: [198, 198]
+    battle_d: [240, 198]
+    wed_a: [138, 18]
+    wed_b: [144, 180]
   wiki_id: "155"
   chinese_name: 伊401
   can_drop: true

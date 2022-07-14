@@ -9,12 +9,12 @@ data:
   ctype: 
   cnum: 
   backs: 6
-  after_lv: 
-  after_ship_id: 
+  after_lv: 75
+  after_ship_id: 915
   get_mes: <br>
   voice_f: 3
   filename: rcssufdjlvbp
-  file_version: ["51", "1", "608"]
+  file_version: ["51", "1", "713"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 380
+    after_bull: 460
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]
@@ -50,7 +50,7 @@ data:
     ensyuf_d: [112, 192]
     ensyue_n: [25, 0]
     battle_n: [54, 220]
-    battle_d: [181, 225]
+    battle_d: [145, 217]
     wed_a: [310, -30]
     wed_b: [138, 183]
   wiki_id: "486a"

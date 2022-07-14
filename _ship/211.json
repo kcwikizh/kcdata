@@ -13,8 +13,8 @@ data:
   after_ship_id: 151
   get_mes: <br>
   voice_f: 3
-  filename: nolhhoujolrs
-  file_version: ["41", "27", "608"]
+  filename: nolhhoujolpc
+  file_version: ["42", "27", "713"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 3]
     build_time: 240
   graph:
-    boko_n: [-22, 97]
-    boko_d: [-55, 211]
+    boko_n: [139, 100]
+    boko_d: [156, 82]
     kaisyu_n: [60, 1]
     kaisyu_d: [78, -24]
-    kaizo_n: [-18, -22]
-    kaizo_d: [-55, 61]
-    map_n: [-21, 64]
-    map_d: [-76, 190]
-    ensyuf_n: [1, 60]
-    ensyuf_d: [-52, 181]
-    ensyue_n: [-4, 0]
-    battle_n: [42, 93]
-    battle_d: [13, 214]
-    wed_a: [334, 93]
-    wed_b: [124, 159]
+    kaizo_n: [64, 19]
+    kaizo_d: [75, -3]
+    map_n: [102, 97]
+    map_d: [156, 108]
+    ensyuf_n: [115, 84]
+    ensyuf_d: [55, 42]
+    ensyue_n: [79, 0]
+    battle_n: [99, 63]
+    battle_d: [97, 63]
+    wed_a: [112, 114]
+    wed_b: [204, 210]
   wiki_id: "023a"
   chinese_name: 榛名改
   can_drop: false

@@ -6,17 +6,17 @@ data:
   name: 倉橋
   yomi: くらはし
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 94
+  cnum: 5
   backs: 4
   after_lv: 45
   after_ship_id: 910
   get_mes: 提督、海防艦、倉橋です。<br>御蔵型の五番艦です。ヒ船団、そして台湾方面の<br>護衛、頑張りました！　はい！　力の限り！
   voice_f: 1
   filename: epdmhftmunjb
-  file_version: ["51", "1", "608"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "713"]
+  book_table_id: [905]
+  book_sinfo: 御蔵型海防艦、その五番艦、倉橋です。マル急計画に<br>より建造され、緊迫する海上護衛戦で大切な輸送船団<br>の護りにつきました。ヒ船団、そしてタモ船団、モタ<br>船団など台湾方面の船団護衛、辛い戦いでしたが、で<br>きる事を力の限り最後まで頑張りました。
   stats:
     taik: [9, 18]
     souk: [4, 16]
@@ -26,8 +26,8 @@ data:
     luck: [18, 78]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 40
+    tais: 40
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 90

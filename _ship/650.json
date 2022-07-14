@@ -13,8 +13,8 @@ data:
   after_ship_id: 699
   get_mes: <br>
   voice_f: 1
-  filename: mocupknxdhrs
-  file_version: ["57", "1", "608"]
+  filename: mocupknxdhri
+  file_version: ["58", "1", "713"]
   book_table_id: [650, 5549, 5564, 5613]
   book_sinfo: 耐氷型貨物船として生まれた宗谷です。海軍特務艦と<br>して、MI作戦などの様々な作戦に参加、激戦のソロ<br>モン方面へも展開。測量や揚陸、輸送などの任務に就<br>きました。戦後は、皆さんの帰還、そして灯台補給<br>船。さらに大改装され、南極観測船として、昭和とい<br>う時代と、その海を駆け抜けました。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 0, 3]
     build_time: 60
   graph:
-    boko_n: [112, 202]
-    boko_d: [112, 202]
+    boko_n: [202, 198]
+    boko_d: [202, 198]
     kaisyu_n: [30, 16]
     kaisyu_d: [49, 15]
-    kaizo_n: [100, 79]
-    kaizo_d: [85, 45]
-    map_n: [115, 181]
-    map_d: [115, 181]
-    ensyuf_n: [120, 175]
-    ensyuf_d: [120, 175]
-    ensyue_n: [105, 0]
-    battle_n: [145, 208]
-    battle_d: [145, 208]
-    wed_a: [223, -7]
-    wed_b: [112, 156]
+    kaizo_n: [202, 75]
+    kaizo_d: [187, 40]
+    map_n: [208, 181]
+    map_d: [208, 181]
+    ensyuf_n: [211, 169]
+    ensyuf_d: [211, 169]
+    ensyue_n: [216, 0]
+    battle_n: [247, 196]
+    battle_d: [247, 196]
+    wed_a: [130, -16]
+    wed_b: [112, 166]
   wiki_id: "450"
   chinese_name: 宗谷
   can_drop: true

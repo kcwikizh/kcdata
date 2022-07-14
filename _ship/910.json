@@ -6,17 +6,17 @@ data:
   name: 倉橋改
   yomi: くらはし
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 94
+  cnum: 5
   backs: 5
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
   filename: eqnoxhfvioea
-  file_version: ["51", "1", "608"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "713"]
+  book_table_id: [910]
+  book_sinfo: 御蔵型海防艦、その五番艦、倉橋です。マル急計画に<br>より建造され、緊迫する海上護衛戦で大切な輸送船団<br>の護りにつきました。ヒ船団、そしてタモ船団、モタ<br>船団など台湾方面の船団護衛、辛い戦いでしたが、で<br>きる事を力の限り最後まで頑張りました。
   stats:
     taik: [17, 28]
     souk: [7, 33]
@@ -26,8 +26,8 @@ data:
     luck: [23, 93]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 54
+    tais: 40
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 

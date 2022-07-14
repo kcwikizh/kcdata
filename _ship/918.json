@@ -6,28 +6,28 @@ data:
   name: Maryland改
   yomi: メリーランド
   stype: 9
-  ctype: 
-  cnum: 
+  ctype: 93
+  cnum: 2
   backs: 8
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: tucouxihqsdm
-  file_version: ["51", "1", "608"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "713"]
+  book_table_id: [918]
+  book_sinfo: Colorado級戦艦、二番艦、USS Marylandよ。<br>そうよ、もちろん、Big7って訳。真珠湾で損傷した<br>けど、すぐに復帰して、色々と働いたわ。最後は戦闘<br>ではないけれど、大切な作戦、やり遂げたわ。
   stats:
     taik: [91, 98]
-    souk: [83, 99]
-    houg: [80, 105]
+    souk: [83, 98]
+    houg: [80, 106]
     raig: [0, 0]
-    tyku: [36, 100]
-    luck: [40, 110]
+    tyku: [37, 102]
+    luck: [38, 108]
     soku: 5
     leng: 3
-    kaih: 
-    tais: 
+    kaih: 22
+    tais: 0
     slot_num: 4
     max_eq: [1, 1, 1, 2, 0]
     after_fuel: 

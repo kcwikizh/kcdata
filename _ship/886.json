@@ -14,7 +14,7 @@ data:
   get_mes: はい！　あたしが陽炎型駆逐艦五番艦、早潮！<br>浦賀生まれ！　提督！　よろしくね！<br>ねえ、提督ってば！　聞いてる？
   voice_f: 1
   filename: gbnxrpoysmhw
-  file_version: ["51", "1", "608"]
+  file_version: ["51", "1", "713"]
   book_table_id: [886]
   book_sinfo: はい！陽炎型駆逐艦の五番艦、早潮よ！浦賀生まれ！<br>親潮姉達と一緒に第十五駆逐隊を編成して、中盤まで<br>の主要な作戦に参加したわ！<br>二水戦のあたしのことも、忘れないでよ？
   stats:
@@ -50,7 +50,7 @@ data:
     ensyuf_d: [112, 192]
     ensyue_n: [25, 0]
     battle_n: [54, 220]
-    battle_d: [181, 225]
+    battle_d: [145, 217]
     wed_a: [310, -30]
     wed_b: [138, 183]
   wiki_id: "486"

@@ -13,8 +13,8 @@ data:
   after_ship_id: 291
   get_mes: <br>
   voice_f: 3
-  filename: wlvvcpnulyrs
-  file_version: ["37", "24", "608"]
+  filename: wlvvcpnulyer
+  file_version: ["38", "24", "713"]
   book_table_id: [108]
   book_sinfo: 水上機母艦から空母に改装された千歳です。<br>ダイエットして体も絞って、脚も速くなったのよ。これなら機動部隊の一翼を担えるわ！頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 2]
     build_time: 190
   graph:
-    boko_n: [276, 228]
-    boko_d: [210, 246]
+    boko_n: [76, 105]
+    boko_d: [66, 123]
     kaisyu_n: [24, -9]
     kaisyu_d: [48, 6]
-    kaizo_n: [162, 156]
-    kaizo_d: [96, 138]
-    map_n: [192, 198]
-    map_d: [108, 198]
-    ensyuf_n: [174, 192]
-    ensyuf_d: [108, 198]
-    ensyue_n: [168, 0]
-    battle_n: [204, 216]
-    battle_d: [144, 228]
-    wed_a: [144, -6]
-    wed_b: [114, 162]
+    kaizo_n: [-6, 22]
+    kaizo_d: [-72, -43]
+    map_n: [42, 109]
+    map_d: [-78, 108]
+    ensyuf_n: [24, 84]
+    ensyuf_d: [27, 12]
+    ensyue_n: [24, 0]
+    battle_n: [-67, 75]
+    battle_d: [-82, 75]
+    wed_a: [357, 97]
+    wed_b: [165, 174]
   wiki_id: "104"
   chinese_name: 千岁航
   can_drop: false

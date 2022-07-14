@@ -14,7 +14,7 @@ data:
   get_mes: Buon giorno♪　マエストラーレ級駆逐艦！<br>長女のマエストラーレです。　提督ぅ、私もどうぞ！<br>よろしくお願いしますね！　頑張りまーす！
   voice_f: 1
   filename: qygdvlmlhjhn
-  file_version: ["69", "1", "608"]
+  file_version: ["70", "1", "713"]
   book_table_id: [575, 5368, 5459, 5512]
   book_sinfo: イタリア海軍マエストラーレ級駆逐艦、ネームシップ<br>のマエストラーレです。<br>結構一杯働いたのよ。船団護衛はもちろんだけど、水<br>上艦隊戦力としても頑張ったんだから！　最後はね、<br>ちょっと修理が間に合わなくって……。えへへ。ま<br>あ、仕方ない、です！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 23
   graph:
-    boko_n: [54, 180]
-    boko_d: [66, 276]
+    boko_n: [42, 213]
+    boko_d: [-49, 436]
     kaisyu_n: [9, -6]
     kaisyu_d: [76, -16]
-    kaizo_n: [55, 66]
-    kaizo_d: [120, 94]
-    map_n: [72, 153]
-    map_d: [141, 207]
-    ensyuf_n: [54, 147]
-    ensyuf_d: [117, 195]
-    ensyue_n: [63, 0]
-    battle_n: [108, 174]
-    battle_d: [174, 222]
-    wed_a: [252, 34]
-    wed_b: [145, 187]
+    kaizo_n: [34, 67]
+    kaizo_d: [-16, 196]
+    map_n: [78, 163]
+    map_d: [-22, 286]
+    ensyuf_n: [73, 165]
+    ensyuf_d: [-13, 220]
+    ensyue_n: [88, 0]
+    battle_n: [99, 186]
+    battle_d: [13, 283]
+    wed_a: [253, 18]
+    wed_b: [181, 166]
   wiki_id: "375"
   chinese_name: 西北风
   can_drop: true

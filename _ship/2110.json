@@ -24,7 +24,7 @@ data:
     raig: 
     tyku: 
     luck: 
-    soku: 0
+    soku: 5
     leng: 
     kaih: 
     tais: 
@@ -53,8 +53,8 @@ data:
     battle_d: [-97, 28]
     wed_a: 
     wed_b: 
-  wiki_id:
-  chinese_name:
+  wiki_id: 
+  chinese_name: 
   can_drop: false
   can_construct: false
 ---
