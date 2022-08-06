@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: nkrohrcrhfkk
-  file_version: ["55", "1", "713"]
+  file_version: ["56", "1", "804"]
   book_table_id: [627]
   book_sinfo: 特Ⅱ型駆逐艦２番艦の敷波。よろしく。<br>ミッドウェーやソロモンの海戦に参加した後、船団護<br>衛を務めたよ。<br>海上護衛戦は結構大変だよ…大事だし…。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [93, 40]
-    boko_d: [87, 87]
+    boko_n: [306, 204]
+    boko_d: [306, 204]
     kaisyu_n: [43, -46]
     kaisyu_d: [43, 22]
-    kaizo_n: [118, -76]
-    kaizo_d: [61, -46]
-    map_n: [175, 3]
-    map_d: [79, 51]
-    ensyuf_n: [171, -7]
-    ensyuf_d: [76, 43]
-    ensyue_n: [148, 0]
-    battle_n: [205, 25]
-    battle_d: [103, 82]
-    wed_a: [136, 169]
-    wed_b: [103, 168]
+    kaizo_n: [186, 114]
+    kaizo_d: [168, 84]
+    map_n: [198, 180]
+    map_d: [198, 180]
+    ensyuf_n: [216, 192]
+    ensyuf_d: [216, 192]
+    ensyue_n: [204, 0]
+    battle_n: [234, 198]
+    battle_d: [234, 198]
+    wed_a: [150, -6]
+    wed_b: [126, 192]
   wiki_id: "427"
   chinese_name: 敷波改二
   can_drop: false

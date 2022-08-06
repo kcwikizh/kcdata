@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 920
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 520
+  name: Samuel B.Roberts Mk.II
+  yomi: サミュエル・B・ロバーツ
+  stype: 2
+  ctype: 87
+  cnum: 413
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: uhmnbrdfrxjx
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: vdhgqjugfjxm
+  file_version: ["51", "1", "804"]
+  book_table_id: [920]
+  book_sinfo: 護衛駆逐艦、ジョン・C・バトラー級、サミュエル・B・ロバーツです。姉妹はもの凄く多いんだ。船団護衛や対潜哨戒、結構万能なんだよ！で、私はね、TaffyⅢって任務部隊で、護衛空母を守って戦ったんだ。自分より大きくて強い艦たちと。私のことも覚えておいてね。Thanks！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [29, 45]
+    souk: [13, 47]
+    houg: [10, 52]
+    raig: [24, 70]
+    tyku: [29, 68]
+    luck: [40, 87]
+    soku: 10
+    leng: 1
+    kaih: 48
+    tais: 51
+    slot_num: 3
+    max_eq: [1, 1, 1, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 8, 1]
+    pow_up: [1, 2, 2, 0]
+    build_time: 9
   graph:
-    boko_n: [96, 102]
-    boko_d: [168, 192]
-    kaisyu_n: [72, 6]
-    kaisyu_d: [72, 12]
-    kaizo_n: [42, 63]
-    kaizo_d: [108, 96]
-    map_n: [48, 102]
-    map_d: [132, 174]
-    ensyuf_n: [72, 72]
-    ensyuf_d: [168, 156]
-    ensyue_n: [72, 0]
-    battle_n: [96, 96]
-    battle_d: [174, 174]
-    wed_a: [240, 108]
-    wed_b: [204, 168]
+    boko_n: [106, 223]
+    boko_d: [10, 291]
+    kaisyu_n: [31, -10]
+    kaisyu_d: [85, -40]
+    kaizo_n: [114, 103]
+    kaizo_d: [-4, 129]
+    map_n: [111, 181]
+    map_d: [60, 261]
+    ensyuf_n: [132, 177]
+    ensyuf_d: [64, 202]
+    ensyue_n: [121, 0]
+    battle_n: [166, 199]
+    battle_d: [93, 271]
+    wed_a: [214, -25]
+    wed_b: [111, 193]
   wiki_id: 
   chinese_name: 
   can_drop: false
