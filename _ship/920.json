@@ -53,8 +53,8 @@ data:
     battle_d: [93, 271]
     wed_a: [214, -25]
     wed_b: [111, 193]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "520"
+  chinese_name: 塞缪尔·B·罗伯茨 Mk.II
   can_drop: false
   can_construct: false
 ---
