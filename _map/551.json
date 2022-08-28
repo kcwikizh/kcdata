@@ -1,0 +1,191 @@
+---
+layout: json
+order: 551
+data:
+  id: 551
+  name: インド洋/アラビア海
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: C
+      to: E
+    6:
+      from: A
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: E
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: I
+      to: J
+    11:
+      from: H
+      to: K
+    12:
+      from: D
+      to: E
+    13:
+      from: F
+      to: H
+    14:
+      from: G
+      to: H
+    15:
+      from: K
+      to: K1
+    16:
+      from: K
+      to: K2
+    17:
+      from: K1
+      to: L
+    18:
+      from: L
+      to: M
+    19:
+      from: K2
+      to: N
+    20:
+      from: M
+      to: O
+    21:
+      from: K1
+      to: P
+    22:
+      from: P
+      to: Q
+    23:
+      from: P
+      to: R
+    24:
+      from: M
+      to: P
+    25:
+      from: N
+      to: P
+    26:
+      from: O
+      to: P
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海任務部隊 極東哨戒駆逐隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海潜水艦隊 インド洋北哨戒線
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海インド洋方面 港湾泊地
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海任務部隊 極東巡洋艦戦隊
+      type:
+      boss: false
+      routes: [5, 12]
+    F:
+      name: 深海任務部隊 極東偵察水雷戦隊
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海潜水艦隊 インド洋南哨戒線
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8, 13, 14]
+    I:
+      name: 深海任務部隊 極東軽空母戦隊
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海インド洋方面 港湾泊地
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    K1:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    K2:
+      name: 
+      type:
+      boss: false
+      routes: [16]
+    L:
+      name: 深海潜水艦隊 アラビア海哨戒線
+      type:
+      boss: false
+      routes: [17]
+    M:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [18]
+    N:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [19]
+    O:
+      name: 深海潜水艦隊 機動部隊随伴戦隊
+      type:
+      boss: false
+      routes: [20]
+    P:
+      name: 深海アラビア海方面 戦艦戦隊
+      type:
+      boss: false
+      routes: [21, 24, 25, 26]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [22]
+    R:
+      name: 深海アラビア海方面 空母機動部隊
+      type:
+      boss: true
+      routes: [23]
+  image: MapHDE-1Summer2022.png
+---

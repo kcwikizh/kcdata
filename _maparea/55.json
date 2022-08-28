@@ -1,0 +1,13 @@
+---
+layout: json
+order: 55
+data:
+  id: 55
+  name: 大規模反攻上陸！トーチ作戦！
+  maps:
+    - 551
+    - 552
+    - 553
+  event: true
+  level: 4
+---

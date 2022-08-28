@@ -1,0 +1,294 @@
+---
+layout: json
+order: 553
+data:
+  id: 553
+  name: スエズ湾/地中海
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: A1
+    3:
+      from: A1
+      to: A2
+    4:
+      from: A
+      to: B
+    5:
+      from: B
+      to: C
+    6:
+      from: C
+      to: C1
+    7:
+      from: C
+      to: C2
+    8:
+      from: C1
+      to: D
+    9:
+      from: C1
+      to: E
+    10:
+      from: A1
+      to: A
+    11:
+      from: A2
+      to: A
+    12:
+      from: D
+      to: E
+    13:
+      from: 2
+      to: F
+    14:
+      from: F
+      to: F1
+    15:
+      from: F
+      to: F2
+    16:
+      from: F2
+      to: G
+    17:
+      from: F2
+      to: H
+    18:
+      from: F2
+      to: H1
+    19:
+      from: H1
+      to: H2
+    20:
+      from: H
+      to: I
+    21:
+      from: H
+      to: J
+    22:
+      from: I
+      to: K
+    23:
+      from: I
+      to: L
+    24:
+      from: F1
+      to: F2
+    25:
+      from: H1
+      to: H
+    26:
+      from: H2
+      to: H
+    27:
+      from: null
+      to: 2
+    28:
+      from: J
+      to: M
+    29:
+      from: M
+      to: M1
+    30:
+      from: M
+      to: M2
+    31:
+      from: M
+      to: N
+    32:
+      from: J
+      to: O
+    33:
+      from: K
+      to: P
+    34:
+      from: M1
+      to: M2
+    35:
+      from: M2
+      to: N
+    36:
+      from: O
+      to: Q
+    37:
+      from: Q
+      to: R
+    38:
+      from: Q
+      to: S
+    39:
+      from: Q
+      to: T
+    40:
+      from: Q
+      to: U
+    41:
+      from: S
+      to: U
+    42:
+      from: T
+      to: U
+  cells:
+    A:
+      name: 深海任務部隊 スエズ湾阻止線
+      type:
+      boss: false
+      routes: [1, 10, 11]
+    A1:
+      name: 紅海阻止線 深海挺身突撃隊
+      type:
+      boss: false
+      routes: [2]
+    A2:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    C1:
+      name: 深海地中海艦隊 軽空母戦隊
+      type:
+      boss: false
+      routes: [6]
+    C2:
+      name: 深海上陸橋頭堡 物資集積地
+      type:
+      boss: false
+      routes: [7]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    E:
+      name: 深海地中海艦隊 前衛偵察艦隊
+      type:
+      boss: false
+      routes: [9, 12]
+    F:
+      name: 深海地中海艦隊 強行偵察戦隊
+      type:
+      boss: false
+      routes: [13]
+    F1:
+      name: 深海地中海方面 基地航空隊
+      type:
+      boss: false
+      routes: [14]
+    F2:
+      name: 深海潜水艦隊 地中海哨戒線
+      type:
+      boss: false
+      routes: [15, 24]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [16]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [17, 25, 26]
+    H1:
+      name: 深海地中海方面 基地航空隊
+      type:
+      boss: false
+      routes: [18]
+    H2:
+      name: 
+      type:
+      boss: false
+      routes: [19]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    K:
+      name: 深海地中海艦隊 低速戦艦戦隊
+      type:
+      boss: false
+      routes: [22]
+    L:
+      name: 深海地中海艦隊 マルタ島迎撃線
+      type:
+      boss: false
+      routes: [23]
+    M:
+      name: 深海地中海艦隊 高速戦艦戦隊
+      type:
+      boss: false
+      routes: [28]
+    M1:
+      name: 地中海配備 深海魚雷艇戦隊
+      type:
+      boss: false
+      routes: [29]
+    M2:
+      name: 深海潜水艦隊 タラント沖哨戒線
+      type:
+      boss: false
+      routes: [30, 34]
+    N:
+      name: 深海地中海艦隊 タラント軍港
+      type:
+      boss: false
+      routes: [31, 35]
+    O:
+      name: 深海潜水艦隊 マルタ島沖防衛線
+      type:
+      boss: false
+      routes: [32]
+    P:
+      name: 深海北アフリカ物資集積地
+      type:
+      boss: false
+      routes: [33]
+    Q:
+      name: 深海地中海艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [36]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [37]
+    S:
+      name: 深海空母機動部隊 前衛護衛戦隊
+      type:
+      boss: false
+      routes: [38]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [39]
+    U:
+      name: 深海地中海艦隊 高速機動部隊
+      type:
+      boss: true
+      routes: [40, 41, 42]
+  image: MapHDE-3Summer2022.png
+---
