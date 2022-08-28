@@ -32,5 +32,63 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [10, 0, 200, 150]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [12, 15]
+            -
+              id: 4
+              amount: [5, 6]
+          -
+            -
+              id: 3
+              amount: [16, 28]
+            -
+              id: 4
+              amount: [7, 10]
+        slotitem:
+          -
+            id: 30
+            amount: 2
+          -
+            id: 89
+            amount: 1
+      upgrade:
+        id: 460
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [30, 45]
+            -
+              id: 4
+              amount: [9, 13]
+            -
+              id: 94
+              amount: 2
+          slotitem:
+            id: 129
+            amount: 4
+      day:
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 911
+          -
+            ship_id: 916
+        -
+          -
+            ship_id: 911
+          -
+            ship_id: 916
+        - false
+        - false
   chinese_name: 15m二重测距仪+21号电探改二
 ---

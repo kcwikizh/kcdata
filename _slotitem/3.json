@@ -77,10 +77,30 @@ data:
             ship_id: 533
           -
             ship_id: 538
-        - false
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 533
+          -
+            ship_id: 538
+        -
+          -
+            ship_id: 533
+          -
+            ship_id: 538
+          -
+            ship_id: 426
+        -
+          -
+            ship_id: 533
+          -
+            ship_id: 538
+          -
+            ship_id: 426
+        -
+          -
+            ship_id: 533
+          -
+            ship_id: 538
         -
           -
             ship_id: 533

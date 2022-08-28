@@ -56,32 +56,61 @@ data:
             id: 13
             amount: 1
       upgrade:
-        id: 15
+        id: 285
         level: 5
         consume:
           useitem:
             -
               id: 3
-              amount: [4, 8]
+              amount: [9, 16]
             -
               id: 4
-              amount: [3, 6]
+              amount: [6, 9]
+            -
+              id: 94
+              amount: 2
           slotitem:
-            id: 14
-            amount: 2
+            id: 125
+            amount: 3
       day:
-        - false
-        - false
-        - false
-        - false
+        -
+          -
+            ship_id: 195
+          -
+            ship_id: 627
+        -
+          -
+            ship_id: 666
+          -
+            ship_id: 647
+        -
+          -
+            ship_id: 666
+          -
+            ship_id: 647
+        -
+          -
+            ship_id: 666
+          -
+            ship_id: 647
         -
           -
             ship_id: 426
+          -
+            ship_id: 195
         -
           -
             ship_id: 426
+          -
+            ship_id: 195
+          -
+            ship_id: 627
         -
           -
             ship_id: 426
+          -
+            ship_id: 195
+          -
+            ship_id: 627
   chinese_name: 61cm三连装(酸素)鱼雷
 ---

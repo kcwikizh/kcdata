@@ -14,7 +14,7 @@ data:
   get_mes: Hi! Colorado級戦艦、二番艦、USS Marylandよ。<br>そうよ、Big7ってわけ！貴方がAdmiralなの？<br>ふうん……そっか…。
   voice_f: 1
   filename: gezfhtbmbtsz
-  file_version: ["51", "1", "804"]
+  file_version: ["51", "1", "826"]
   book_table_id: [913]
   book_sinfo: Colorado級戦艦、二番艦、USS Marylandよ。<br>そうよ、もちろん、Big7って訳。真珠湾で損傷した<br>けど、すぐに復帰して、色々と働いたわ。最後は戦闘<br>ではないけれど、大切な作戦、やり遂げたわ。
   stats:

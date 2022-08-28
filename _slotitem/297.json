@@ -168,6 +168,8 @@ data:
             ship_id: 368
           -
             ship_id: 206
+          -
+            ship_id: 666
         -
           -
             ship_id: 486
@@ -175,6 +177,8 @@ data:
             ship_id: 368
           -
             ship_id: 206
+          -
+            ship_id: 666
         - false
         - false
         - false
@@ -185,6 +189,8 @@ data:
             ship_id: 368
           -
             ship_id: 206
+          -
+            ship_id: 666
         -
           -
             ship_id: 486
@@ -192,5 +198,7 @@ data:
             ship_id: 368
           -
             ship_id: 206
+          -
+            ship_id: 666
   chinese_name: 
 ---

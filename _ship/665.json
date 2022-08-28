@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: ontbbraptnwh
-  file_version: ["88", "36", "804"]
+  file_version: ["88", "36", "826"]
   book_table_id: [665, 5520, 5533, 5553, 5599, 5641]
   book_sinfo: 特型駆逐艦１８番艦、綾波型の８番艦、曙よ。<br>お相撲さんではないわ。覚えておいて。<br>初の空母戦、珊瑚海海戦にも参加したわ！<br>けど、何気に潜水艦は苦手かな…。
   stats:

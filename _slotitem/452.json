@@ -77,16 +77,16 @@ data:
       day:
         -
           -
-            ship_id: 699
+            ship_id: 717
         - false
         - false
         - false
         - false
         -
           -
-            ship_id: 699
+            ship_id: 717
         -
           -
-            ship_id: 699
+            ship_id: 717
   chinese_name: 
 ---

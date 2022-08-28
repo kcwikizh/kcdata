@@ -65,8 +65,12 @@ data:
         - false
         - false
         - false
-        - false
-        - false
+        -
+          -
+            ship_id: 647
+        -
+          -
+            ship_id: 647
         -
           -
             ship_id: 647

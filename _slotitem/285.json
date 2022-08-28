@@ -63,11 +63,17 @@ data:
           -
             ship_id: 195
         - false
-        - false
-        - false
+        -
+          -
+            ship_id: 666
+        -
+          -
+            ship_id: 666
         -
           -
             ship_id: 419
+          -
+            ship_id: 666
         -
           -
             ship_id: 419

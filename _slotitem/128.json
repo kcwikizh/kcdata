@@ -58,6 +58,52 @@ data:
             id: 9
             amount: 3
       upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 136
+          -
+            ship_id: 911
+          -
+            ship_id: 916
+        -
+          -
+            ship_id: 136
+          -
+            ship_id: 911
+          -
+            ship_id: 916
+        - false
+        - false
+        - false
+        - false
+    -
+      consume:
+        resource: [50, 490, 860, 80]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [8, 9]
+            -
+              id: 4
+              amount: [5, 6]
+          -
+            -
+              id: 3
+              amount: [9, 16]
+            -
+              id: 4
+              amount: [8, 9]
+        slotitem:
+          -
+            id: 40
+            amount: 3
+          -
+            id: 9
+            amount: 3
+      upgrade:
         id: 281
         level: 0
         consume:
@@ -67,23 +113,19 @@ data:
               amount: [26, 51]
             -
               id: 4
-              amount: [15, 18]
+              amount: [13, 17]
             -
               id: 75
               amount: 3
           slotitem:
-            id: 276
-            amount: 1
+            id: 9
+            amount: 6
       day:
         - false
         -
           -
-            ship_id: 136
-          -
             ship_id: 148
         -
-          -
-            ship_id: 136
           -
             ship_id: 546
         -

@@ -218,6 +218,7 @@ data:
             id: 166
             amount: 1
       day:
+        - false
         -
           -
             ship_id: 621
@@ -238,20 +239,11 @@ data:
             ship_id: 621
           -
             ship_id: 626
+          -
+            ship_id: 647
         -
           -
-            ship_id: 621
-          -
-            ship_id: 626
-        -
-          -
-            ship_id: 621
-          -
-            ship_id: 626
-        -
-          -
-            ship_id: 621
-          -
-            ship_id: 626
+            ship_id: 647
+        - false
   chinese_name: 大发动艇
 ---

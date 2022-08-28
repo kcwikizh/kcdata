@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 582
+  sort_no: 382
+  name: 夏雲
+  yomi: なつぐも
+  stype: 2
+  ctype: 18
+  cnum: 7
+  backs: 4
+  after_lv: 38
+  after_ship_id: 721
+  get_mes: はい？　あ、はい……朝潮型駆逐艦、夏雲です。<br>提督、あの……どうぞよろしく…お願い致します。
+  voice_f: 1
+  filename: fhntrxfvgdmw
+  file_version: ["51", "1", "826"]
+  book_table_id: [582]
+  book_sinfo: 朝潮型駆逐艦、７番艦、夏雲です。姉妹で第九駆逐隊を編成して、四水戦の一翼を担いました。太平洋の様々な作戦に従事、ソロモンの戦いにも多く参加しました。最後は味方の救援中に敵機が……。<br>忘れないで…くださいね。
+  stats:
+    taik: [16, 33]
+    souk: [6, 19]
+    houg: [10, 31]
+    raig: [24, 68]
+    tyku: [9, 39]
+    luck: [6, 43]
+    soku: 10
+    leng: 1
+    kaih: 40
+    tais: 21
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 130
+    after_bull: 180
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 1, 5, 0]
+    pow_up: [0, 1, 0, 1]
+    build_time: 22
+  graph:
+    boko_n: [18, 172]
+    boko_d: [196, 283]
+    kaisyu_n: [22, -4]
+    kaisyu_d: [49, -42]
+    kaizo_n: [27, 49]
+    kaizo_d: [193, 88]
+    map_n: [34, 151]
+    map_d: [205, 211]
+    ensyuf_n: [58, 133]
+    ensyuf_d: [217, 183]
+    ensyue_n: [39, 0]
+    battle_n: [81, 171]
+    battle_d: [271, 219]
+    wed_a: [294, 15]
+    wed_b: [118, 157]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

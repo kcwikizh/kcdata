@@ -77,6 +77,22 @@ data:
             ship_id: 205
           -
             ship_id: 420
+          -
+            ship_id: 11
+          -
+            ship_id: 204
+          -
+            ship_id: 12
+          -
+            ship_id: 206
+          -
+            ship_id: 14
+          -
+            ship_id: 208
+          -
+            ship_id: 627
+          -
+            ship_id: 666
         -
           -
             ship_id: 33
@@ -84,6 +100,28 @@ data:
             ship_id: 205
           -
             ship_id: 420
+          -
+            ship_id: 11
+          -
+            ship_id: 204
+          -
+            ship_id: 12
+          -
+            ship_id: 206
+          -
+            ship_id: 14
+          -
+            ship_id: 208
+          -
+            ship_id: 627
+          -
+            ship_id: 666
+          -
+            ship_id: 13
+          -
+            ship_id: 207
+          -
+            ship_id: 195
         -
           -
             ship_id: 33
@@ -91,21 +129,113 @@ data:
             ship_id: 205
           -
             ship_id: 420
-        - false
+          -
+            ship_id: 11
+          -
+            ship_id: 204
+          -
+            ship_id: 12
+          -
+            ship_id: 206
+          -
+            ship_id: 14
+          -
+            ship_id: 208
+          -
+            ship_id: 627
+          -
+            ship_id: 666
+          -
+            ship_id: 13
+          -
+            ship_id: 207
+          -
+            ship_id: 195
+        -
+          -
+            ship_id: 11
+          -
+            ship_id: 204
+          -
+            ship_id: 12
+          -
+            ship_id: 206
+          -
+            ship_id: 14
+          -
+            ship_id: 208
+          -
+            ship_id: 627
+          -
+            ship_id: 666
+          -
+            ship_id: 13
+          -
+            ship_id: 207
+          -
+            ship_id: 195
         -
           -
             ship_id: 9
           -
             ship_id: 201
+          -
+            ship_id: 11
+          -
+            ship_id: 204
+          -
+            ship_id: 12
+          -
+            ship_id: 206
+          -
+            ship_id: 14
+          -
+            ship_id: 208
+          -
+            ship_id: 627
+          -
+            ship_id: 13
+          -
+            ship_id: 207
+          -
+            ship_id: 195
         -
           -
             ship_id: 9
           -
             ship_id: 201
+          -
+            ship_id: 11
+          -
+            ship_id: 204
+          -
+            ship_id: 12
+          -
+            ship_id: 206
+          -
+            ship_id: 14
+          -
+            ship_id: 208
+          -
+            ship_id: 627
         -
           -
             ship_id: 9
           -
             ship_id: 201
+          -
+            ship_id: 11
+          -
+            ship_id: 204
+          -
+            ship_id: 12
+          -
+            ship_id: 206
+          -
+            ship_id: 14
+          -
+            ship_id: 208
+          -
+            ship_id: 627
   chinese_name: 61cm三连装鱼雷
 ---

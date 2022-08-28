@@ -75,11 +75,15 @@ data:
             id: 185
             amount: 2
       day:
+        -
+          -
+            ship_id: 699
         - false
         - false
         - false
-        - false
-        - false
+        -
+          -
+            ship_id: 699
         -
           -
             ship_id: 699

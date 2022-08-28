@@ -14,7 +14,7 @@ data:
   get_mes: 駆逐艦、若葉だ。
   voice_f: 0
   filename: ihuijkvksqky
-  file_version: ["10", "14", "804"]
+  file_version: ["10", "14", "826"]
   book_table_id: [40]
   book_sinfo: 初春型駆逐艦３番艦、若葉だ。<br>アッツ島沖海戦やキスカ島撤退作戦などに参加した。<br>そうだ、北方海域だ。<br>ああ、濃霧には注意が必要だ。ぶつかりやすい。<br>特に「初霜」、お前は要注意だ。
   stats:

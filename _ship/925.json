@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 925
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: ojdsvkgrgyun
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 525
+  name: Langley
+  yomi: ラングレー
+  stype: 7
+  ctype: 116
+  cnum: 6
+  backs: 5
+  after_lv: 50
+  after_ship_id: 930
+  get_mes: インディペンデンス級航空母艦、Langleyだ。<br>ああん？　そっちのラングレーじゃねーよ！<br>誰が給炭艦じゃ！　Meのベースは新鋭軽巡だぜ！
+  voice_f: 1
+  filename: wqgjbrsicuxk
+  file_version: ["51", "1", "826"]
+  book_table_id: [925]
+  book_sinfo: インディペンデンス級航空母艦、Langleyだ。そう<br>だ、CV-1ではない、その名を継いだCVL-27の方だ。<br>小柄な体だが太平洋、あの大和の最後、そして魔法の<br>絨毯作戦、さらにフランス海軍としても戦った。<br>忘れるな。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [31, 41]
+    souk: [14, 30]
+    houg: [14, 32]
+    raig: [0, 0]
+    tyku: [32, 52]
+    luck: [27, 87]
+    soku: 10
+    leng: 2
+    kaih: 22
+    tais: 16
+    slot_num: 3
+    max_eq: [23, 7, 2, 0, 0]
+    after_fuel: 480
+    after_bull: 1080
+    fuel_max: 35
+    bull_max: 40
+    broken: [3, 4, 14, 4]
+    pow_up: [0, 0, 3, 2]
+    build_time: 70
   graph:
-    boko_n: [288, 192]
-    boko_d: [96, 144]
-    kaisyu_n: [12, 12]
-    kaisyu_d: [30, -36]
-    kaizo_n: [216, 96]
-    kaizo_d: [0, 0]
-    map_n: [216, 168]
-    map_d: [36, 108]
-    ensyuf_n: [240, 132]
-    ensyuf_d: [72, 48]
-    ensyue_n: [192, 0]
-    battle_n: [216, 192]
-    battle_d: [48, 108]
-    wed_a: [72, 60]
-    wed_b: [192, 174]
+    boko_n: [52, 7]
+    boko_d: [-37, 148]
+    kaisyu_n: [36, -25]
+    kaisyu_d: [42, -22]
+    kaizo_n: [40, -118]
+    kaizo_d: [-51, -19]
+    map_n: [33, -24]
+    map_d: [-76, 85]
+    ensyuf_n: [52, -31]
+    ensyuf_d: [-39, 88]
+    ensyue_n: [46, 0]
+    battle_n: [105, 1]
+    battle_d: [-18, 139]
+    wed_a: [262, 181]
+    wed_b: [120, 186]
   wiki_id: 
   chinese_name: 
   can_drop: false
