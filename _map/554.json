@@ -1,0 +1,301 @@
+---
+layout: json
+order: 554
+data:
+  id: 554
+  name: 大西洋/ジブラルタル沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: F
+      to: F1
+    8:
+      from: F
+      to: F2
+    9:
+      from: A
+      to: G
+    10:
+      from: G
+      to: G1
+    11:
+      from: D
+      to: H
+    12:
+      from: H
+      to: I
+    13:
+      from: I
+      to: J
+    14:
+      from: I
+      to: K
+    15:
+      from: C
+      to: G
+    16:
+      from: F1
+      to: H
+    17:
+      from: G
+      to: H
+    18:
+      from: G1
+      to: G2
+    19:
+      from: F2
+      to: L
+    20:
+      from: L
+      to: L1
+    21:
+      from: L
+      to: L2
+    22:
+      from: 2
+      to: M
+    23:
+      from: M
+      to: N
+    24:
+      from: N
+      to: N1
+    25:
+      from: N1
+      to: N2
+    26:
+      from: N
+      to: O
+    27:
+      from: O
+      to: O1
+    28:
+      from: O1
+      to: O2
+    29:
+      from: O
+      to: P
+    30:
+      from: O1
+      to: Q
+    31:
+      from: P
+      to: R
+    32:
+      from: P
+      to: S
+    33:
+      from: P
+      to: T
+    34:
+      from: N2
+      to: O
+    35:
+      from: P
+      to: Q
+    36:
+      from: R
+      to: S
+    37:
+      from: S
+      to: T
+    38:
+      from: null
+      to: 2
+    39:
+      from: T
+      to: U
+    40:
+      from: U
+      to: V
+    41:
+      from: U
+      to: W
+  cells:
+    A:
+      name: 深海潜水艦隊 大西洋哨戒線 II群
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 大西洋哨戒線 III群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海大西洋艦隊 前衛偵察C群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海大西洋艦隊 前衛偵察B群
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海大西洋艦隊 前衛偵察A群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    F1:
+      name: 深海潜水艦隊 大西洋哨戒線 IV群
+      type:
+      boss: false
+      routes: [7]
+    F2:
+      name: 深海大西洋艦隊 哨戒航空集団
+      type:
+      boss: false
+      routes: [8]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [9, 15]
+    G1:
+      name: 深海大西洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [10]
+    H:
+      name: 深海大西洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [11, 16, 17]
+    I:
+      name: 深海大西洋艦隊 遊撃警戒 I部隊
+      type:
+      boss: false
+      routes: [12]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    K:
+      name: 深海潜水艦隊 阻止迎撃線旗艦
+      type:
+      boss: false
+      routes: [14]
+    G2:
+      name: 深海潜水艦隊 大西洋哨戒線 I群
+      type:
+      boss: false
+      routes: [18]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [19]
+    L1:
+      name: 深海潜水艦隊 東海岸哨戒線 I群
+      type:
+      boss: false
+      routes: [20]
+    L2:
+      name: 深海潜水艦隊 東海岸哨戒線 II群
+      type:
+      boss: false
+      routes: [21]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [22]
+    N:
+      name: 深海潜水艦隊 大西洋阻止線 I群
+      type:
+      boss: false
+      routes: [23]
+    N1:
+      name: 深海潜水艦隊 大西洋阻止線 II群
+      type:
+      boss: false
+      routes: [24]
+    N2:
+      name: 深海大西洋艦隊 遊撃警戒 II部隊
+      type:
+      boss: false
+      routes: [25]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [26, 34]
+    O1:
+      name: 深海大西洋艦隊 空母艦載機群
+      type:
+      boss: false
+      routes: [27]
+    O2:
+      name: 深海大西洋艦隊 航空集団本隊
+      type:
+      boss: false
+      routes: [28]
+    P:
+      name: 深海潜水艦隊 大西洋最終阻止線
+      type:
+      boss: false
+      routes: [29]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [30, 35]
+    R:
+      name: 深海大西洋艦隊 低速戦艦戦隊
+      type:
+      boss: false
+      routes: [31]
+    S:
+      name: 深海大西洋方面 基地航空隊
+      type:
+      boss: false
+      routes: [32, 36]
+    T:
+      name: 深海大西洋艦隊 阻止迎撃集団
+      type:
+      boss: false
+      routes: [33, 37]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [39]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [40]
+    W:
+      name: 深海大西洋艦隊 上陸地強襲部隊
+      type:
+      boss: true
+      routes: [41]
+  image: MapHDE-4Summer2022.png
+---

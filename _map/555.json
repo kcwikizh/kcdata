@@ -1,0 +1,261 @@
+---
+layout: json
+order: 555
+data:
+  id: 555
+  name: ジブラルタル沖/北アフリカ沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: E
+      to: G1
+    8:
+      from: G
+      to: G2
+    9:
+      from: E
+      to: G
+    10:
+      from: G
+      to: H
+    11:
+      from: B
+      to: C
+    12:
+      from: G1
+      to: E
+    13:
+      from: F
+      to: G1
+    14:
+      from: G1
+      to: G
+    15:
+      from: G1
+      to: I
+    16:
+      from: F
+      to: J
+    17:
+      from: J
+      to: K
+    18:
+      from: K
+      to: L
+    19:
+      from: K
+      to: M
+    20:
+      from: L
+      to: N
+    21:
+      from: N
+      to: N1
+    22:
+      from: N1
+      to: N2
+    23:
+      from: N1
+      to: O
+    24:
+      from: M
+      to: P
+    25:
+      from: J
+      to: Q
+    26:
+      from: Q
+      to: R
+    27:
+      from: Q
+      to: S
+    28:
+      from: R
+      to: T
+    29:
+      from: T
+      to: U
+    30:
+      from: S
+      to: V
+    31:
+      from: R
+      to: W
+    32:
+      from: R
+      to: X
+    33:
+      from: R
+      to: S
+    34:
+      from: S
+      to: X
+    35:
+      from: T
+      to: X
+    36:
+      from: U
+      to: X
+  cells:
+    A:
+      name: 深海潜水艦隊 ジブラルタル警戒線
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海地中海艦隊 東部管区駆逐隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海地中海艦隊 東部管区警戒隊
+      type:
+      boss: false
+      routes: [3, 11]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海地中海方面 基地航空隊
+      type:
+      boss: false
+      routes: [5, 12]
+    F:
+      name: 深海地中海方面 基地航空隊
+      type:
+      boss: false
+      routes: [6]
+    G1:
+      name: 深海地中海艦隊 東部管区防備隊
+      type:
+      boss: false
+      routes: [7, 13]
+    G2:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [9, 14]
+    H:
+      name: 深海地中海方面 沿岸警備集団
+      type:
+      boss: false
+      routes: [10]
+    I:
+      name: 深海北アフリカ 沿岸物資集積地
+      type:
+      boss: false
+      routes: [15]
+    J:
+      name: 深海潜水艦隊 地中海阻止哨戒線
+      type:
+      boss: false
+      routes: [16]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    L:
+      name: 深海地中海方面 基地航空隊
+      type:
+      boss: false
+      routes: [18]
+    M:
+      name: 深海地中海艦隊 水上打撃部隊
+      type:
+      boss: false
+      routes: [19]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    N1:
+      name: 北アフリカ配備 深海魚雷艇集団
+      type:
+      boss: false
+      routes: [21]
+    N2:
+      name: 
+      type:
+      boss: false
+      routes: [22]
+    O:
+      name: 深海地中海艦隊 中央機動反撃群
+      type:
+      boss: false
+      routes: [23]
+    P:
+      name: 深海北アフリカ方面 重要戦力拠点
+      type:
+      boss: false
+      routes: [24]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [25]
+    R:
+      name: 深海地中海艦隊 艦載機群
+      type:
+      boss: false
+      routes: [26]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [27, 33]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [28]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [29]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [30]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [31]
+    X:
+      name: 深海地中海艦隊 主力機動部隊
+      type:
+      boss: true
+      routes: [32, 34, 35, 36]
+  image: MapHDE-5Summer2022.png
+---

@@ -1,0 +1,303 @@
+---
+layout: json
+order: 556
+data:
+  id: 556
+  name: カサブランカ沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: B1
+    4:
+      from: B1
+      to: B2
+    5:
+      from: B
+      to: C
+    6:
+      from: B1
+      to: C
+    7:
+      from: B2
+      to: C
+    8:
+      from: C
+      to: D
+    9:
+      from: D
+      to: D1
+    10:
+      from: D
+      to: D2
+    11:
+      from: D1
+      to: D3
+    12:
+      from: D2
+      to: E
+    13:
+      from: D2
+      to: F
+    14:
+      from: F
+      to: G
+    15:
+      from: E
+      to: F
+    16:
+      from: 2
+      to: H
+    17:
+      from: H
+      to: I
+    18:
+      from: I
+      to: J
+    19:
+      from: J
+      to: K
+    20:
+      from: I
+      to: L
+    21:
+      from: L
+      to: M
+    22:
+      from: J
+      to: N
+    23:
+      from: N
+      to: O
+    24:
+      from: O
+      to: P
+    25:
+      from: O
+      to: Q
+    26:
+      from: Q
+      to: R
+    27:
+      from: Q
+      to: S
+    28:
+      from: K
+      to: N
+    29:
+      from: L
+      to: N
+    30:
+      from: M
+      to: N
+    31:
+      from: null
+      to: 2
+    32:
+      from: O
+      to: T
+    33:
+      from: P
+      to: U
+    34:
+      from: P
+      to: V
+    35:
+      from: U
+      to: W
+    36:
+      from: V
+      to: W
+    37:
+      from: T
+      to: P
+    38:
+      from: M
+      to: X
+    39:
+      from: X
+      to: Y
+    40:
+      from: Y
+      to: Z
+    41:
+      from: M
+      to: O
+    42:
+      from: O
+      to: X
+    43:
+      from: Y
+      to: R
+    44:
+      from: I
+      to: N
+    45:
+      from: O
+      to: Y
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 大西洋警戒線 I群
+      type:
+      boss: false
+      routes: [2]
+    B1:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    B2:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    C:
+      name: 深海大西洋艦隊 哨戒軽空母A群
+      type:
+      boss: false
+      routes: [5, 6, 7]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    D1:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    D2:
+      name: 深海カサブランカ防衛 水雷戦隊
+      type:
+      boss: false
+      routes: [10]
+    D3:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [12]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [13, 15]
+    G:
+      name: 深海カサブランカ南部 陸上戦闘群
+      type:
+      boss: false
+      routes: [14]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [16]
+    I:
+      name: 深海潜水艦隊 大西洋警戒線 II群
+      type:
+      boss: false
+      routes: [17]
+    J:
+      name: 深海潜水艦隊 大西洋警戒線 III群
+      type:
+      boss: false
+      routes: [18]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [19]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    M:
+      name: 深海大西洋艦隊 哨戒軽空母B群
+      type:
+      boss: false
+      routes: [21]
+    N:
+      name: 深海大西洋方面集団 基地航空隊
+      type:
+      boss: false
+      routes: [22, 28, 29, 30, 44]
+    O:
+      name: 深海大西洋艦隊 精鋭重巡戦隊
+      type:
+      boss: false
+      routes: [23, 41]
+    P:
+      name: 深海大西洋艦隊 精鋭戦艦戦隊
+      type:
+      boss: false
+      routes: [24, 37]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [25]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [26, 43]
+    S:
+      name: 深海カサブランカ方面 上陸阻止群
+      type:
+      boss: false
+      routes: [27]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [32]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [33]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [34]
+    W:
+      name: 深海カサブランカ北部 戦略拠点群
+      type:
+      boss: false
+      routes: [35, 36]
+    X:
+      name: 深海機動部隊旗艦艦隊 艦載機群
+      type:
+      boss: false
+      routes: [38, 42]
+    Y:
+      name: 深海カサブランカ 機動部隊旗艦群
+      type:
+      boss: false
+      routes: [39, 45]
+    Z:
+      name: 深海カサブランカ要塞 在泊艦隊
+      type:
+      boss: true
+      routes: [40]
+  image: MapHDE-6Summer2022.png
+---
