@@ -1,0 +1,36 @@
+---
+layout: json
+order: 476
+data:
+  id: 476
+  sort_no: 476
+  name: F4U-7
+  type: [3, 5, 7, 7, 50]
+  rare: 7
+  broken: [3, 9, 0, 11]
+  info: 
+  usebull: 0
+  cost: 11
+  distance: 6
+  stats:
+    taik: 0
+    souk: 0
+    houg: 3
+    raig: 8
+    soku: 0
+    baku: 11
+    tyku: 10
+    tais: 4
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 2
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

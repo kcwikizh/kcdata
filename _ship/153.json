@@ -14,7 +14,7 @@ data:
   get_mes: そう…私が大鳳。<br>出迎え、ありがとうございます。<br>提督…貴方と機動部隊に勝利を！
   voice_f: 3
   filename: ysidnchjxvfc
-  file_version: ["1", "1", "826"]
+  file_version: ["1", "1", "910"]
   book_table_id: [153]
   book_sinfo: 航空母艦「大鳳」です。<br>飛行甲板まで十分な防御を施された最新鋭の正規空母です。密閉型の格納庫も素敵でしょ？　え？　ガスが溜りやすい…ですって…失礼しちゃう。こ、今度は絶対に大丈夫！
   stats:

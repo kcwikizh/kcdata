@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: obrycurlqqwb
-  file_version: ["58", "1", "826"]
+  file_version: ["59", "1", "910"]
   book_table_id: [573]
   book_sinfo: 長門型戦艦の２番艦として生まれた陸奥よ。<br>もちろん、世界のビッグ７の一艦になるわね。<br>え？主砲火薬庫爆発事故？<br>まあ、隠してもしょうがないわね。今度は大丈夫よ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [6, 0, 2, 6]
     build_time: 300
   graph:
-    boko_n: [-121, 153]
-    boko_d: [-73, 178]
+    boko_n: [240, 192]
+    boko_d: [318, 198]
     kaisyu_n: [18, -42]
     kaisyu_d: [19, -55]
-    kaizo_n: [-163, 61]
-    kaizo_d: [-118, 34]
-    map_n: [-205, 151]
-    map_d: [-129, 142]
-    ensyuf_n: [-160, 118]
-    ensyuf_d: [-117, 108]
-    ensyue_n: [-139, 0]
-    battle_n: [-154, 144]
-    battle_d: [-91, 157]
-    wed_a: [490, 49]
-    wed_b: [165, 163]
+    kaizo_n: [228, 102]
+    kaizo_d: [252, 102]
+    map_n: [258, 156]
+    map_d: [270, 174]
+    ensyuf_n: [240, 156]
+    ensyuf_d: [240, 168]
+    ensyue_n: [192, 0]
+    battle_n: [258, 174]
+    battle_d: [300, 186]
+    wed_a: [96, 12]
+    wed_b: [150, 192]
   wiki_id: "373"
   chinese_name: 陆奥改二
   can_drop: false

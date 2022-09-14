@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 933
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: xgsjrrdbdkep
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 533
+  name: Massachusetts
+  yomi: マサチューセッツ
+  stype: 8
+  ctype: 102
+  cnum: 3
+  backs: 7
+  after_lv: 48
+  after_ship_id: 938
+  get_mes: Nice to meet you？<br>My name is Massachusetts<br>よろしく、提督さん！
+  voice_f: 1
+  filename: kpbvtvmnztfd
+  file_version: ["51", "1", "910"]
+  book_table_id: [933]
+  book_sinfo: South Dakota class USS Battleship <br>Massachusettsだ。就役してまもなく、大西洋から<br>トーチ作戦に参加、当時枢軸側だった仏戦艦らと撃<br>ち合ったさ。いつか…いつか会いに来てくれよな。<br>Come see me！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [79, 92]
+    souk: [77, 92]
+    houg: [80, 101]
+    raig: [0, 0]
+    tyku: [40, 90]
+    luck: [18, 88]
+    soku: 10
+    leng: 3
+    kaih: 27
+    tais: 0
+    slot_num: 4
+    max_eq: [0, 0, 3, 3, 0]
+    after_fuel: 2700
+    after_bull: 2400
+    fuel_max: 150
+    bull_max: 190
+    broken: [18, 32, 50, 10]
+    pow_up: [5, 0, 2, 5]
+    build_time: 400
   graph:
-    boko_n: [186, 210]
-    boko_d: [198, 210]
-    kaisyu_n: [36, -18]
-    kaisyu_d: [36, -6]
-    kaizo_n: [144, 120]
-    kaizo_d: [144, 96]
-    map_n: [192, 204]
-    map_d: [204, 192]
-    ensyuf_n: [174, 168]
-    ensyuf_d: [216, 168]
-    ensyue_n: [108, 0]
-    battle_n: [162, 192]
-    battle_d: [204, 192]
-    wed_a: [108, -12]
-    wed_b: [204, 168]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [-238, 57]
+    boko_d: [-232, 186]
+    kaisyu_n: [16, -40]
+    kaisyu_d: [58, -34]
+    kaizo_n: [-238, -49]
+    kaizo_d: [-217, 45]
+    map_n: [-271, 10]
+    map_d: [-226, 126]
+    ensyuf_n: [-244, 16]
+    ensyuf_d: [-186, 106]
+    ensyue_n: [-225, 0]
+    battle_n: [-199, 36]
+    battle_d: [-139, 153]
+    wed_a: [592, 136]
+    wed_b: [124, 196]
+  wiki_id: "533"
+  chinese_name: 马萨诸塞
   can_drop: false
   can_construct: false
 ---

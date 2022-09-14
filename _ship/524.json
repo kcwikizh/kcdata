@@ -14,7 +14,7 @@ data:
   get_mes: 司令、おはようございます！<br>択捉型海防艦一番艦、択捉です。<br>今日も頑張ります！
   voice_f: 1
   filename: lupcrslexuxo
-  file_version: ["97", "1", "826"]
+  file_version: ["98", "1", "910"]
   book_table_id: [524, 383, 5054, 5319, 5324, 5325, 5337, 5377, 5397, 5414, 5438]
   book_sinfo: 択捉型海防艦の一番艦、択捉です。先輩の占守型の改<br>良型です。生産性と爆雷装備数などが向上している<br>の。とても多くの姉妹が建造され、船団護衛の任など<br>に就きました。最後まで戦えた艦は多くはなかったけ<br>れど、後方の海を最後まで護って戦いました。戦いが<br>終わった後も、少し頑張らせて頂きました。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 0, 0]
     build_time: 14
   graph:
-    boko_n: [276, 84]
-    boko_d: [264, 72]
+    boko_n: [144, 114]
+    boko_d: [324, 156]
     kaisyu_n: [63, -21]
     kaisyu_d: [63, -21]
-    kaizo_n: [204, -36]
-    kaizo_d: [216, -42]
-    map_n: [228, 54]
-    map_d: [246, 48]
-    ensyuf_n: [228, 54]
-    ensyuf_d: [252, 42]
-    ensyue_n: [228, 0]
-    battle_n: [228, 66]
-    battle_d: [270, 66]
-    wed_a: [108, 144]
-    wed_b: [150, 168]
+    kaizo_n: [96, 24]
+    kaizo_d: [258, 6]
+    map_n: [114, 78]
+    map_d: [300, 108]
+    ensyuf_n: [96, 78]
+    ensyuf_d: [282, 90]
+    ensyue_n: [96, 0]
+    battle_n: [156, 114]
+    battle_d: [300, 132]
+    wed_a: [240, 138]
+    wed_b: [132, 168]
   wiki_id: "334"
   chinese_name: 择捉
   can_drop: true

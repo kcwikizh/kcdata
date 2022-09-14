@@ -14,7 +14,7 @@ data:
   get_mes: 御蔵型海防艦、六番艦、屋代。参ります。<br>どんなに困難な状況でも、屋代、頑張り抜きます。<br>皆さんを護る、それが勤めですから。
   voice_f: 1
   filename: kjofgeionllq
-  file_version: ["58", "2", "826"]
+  file_version: ["59", "2", "910"]
   book_table_id: [612, 5471, 5634]
   book_sinfo: 御蔵型海防艦六番艦、屋代です。マル急計画で生まれ<br>ました。苦しいヒ船団の護衛や対潜掃蕩、戦後は機雷<br>掃海任務、そして、引渡し後は正安として、対馬と共<br>に戦いました。屋代、覚えていてください。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 0, 0]
     build_time: 14
   graph:
-    boko_n: [118, 210]
-    boko_d: [109, 232]
+    boko_n: [121, 268]
+    boko_d: [120, 345]
     kaisyu_n: [16, -19]
     kaisyu_d: [55, -1]
-    kaizo_n: [100, 58]
-    kaizo_d: [118, 52]
-    map_n: [136, 142]
-    map_d: [154, 177]
-    ensyuf_n: [103, 136]
-    ensyuf_d: [132, 157]
-    ensyue_n: [102, 0]
-    battle_n: [142, 187]
-    battle_d: [178, 214]
-    wed_a: [208, 16]
-    wed_b: [141, 193]
+    kaizo_n: [117, 106]
+    kaizo_d: [97, 141]
+    map_n: [153, 208]
+    map_d: [181, 262]
+    ensyuf_n: [147, 196]
+    ensyuf_d: [168, 211]
+    ensyue_n: [142, 0]
+    battle_n: [175, 228]
+    battle_d: [174, 264]
+    wed_a: [187, -40]
+    wed_b: [118, 184]
   wiki_id: "412"
   chinese_name: 屋代
   can_drop: false

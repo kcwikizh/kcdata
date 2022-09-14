@@ -6,17 +6,17 @@ data:
   name: Langley改
   yomi: ラングレー
   stype: 7
-  ctype: 
-  cnum: 
+  ctype: 116
+  cnum: 6
   backs: 6
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: frxnjxjjyicr
-  file_version: ["51", "1", "826"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "910"]
+  book_table_id: [930]
+  book_sinfo: インディペンデンス級航空母艦、Langleyだ。そう<br>だ、CV-1ではない、その名を継いだCVL-27の方だ。<br>小柄な体だが太平洋、あの大和の最後、そして魔法の<br>絨毯作戦、さらにフランス海軍としても戦った。<br>忘れるな。
   stats:
     taik: [44, 70]
     souk: [22, 60]
@@ -26,8 +26,8 @@ data:
     luck: [35, 97]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 30
+    tais: 18
     slot_num: 4
     max_eq: [24, 16, 4, 1, 0]
     after_fuel: 
@@ -54,7 +54,7 @@ data:
     wed_a: [262, 181]
     wed_b: [120, 186]
   wiki_id: "530"
-  chinese_name: 兰利改 
+  chinese_name: 兰利改
   can_drop: false
   can_construct: false
 ---

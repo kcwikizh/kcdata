@@ -1,0 +1,36 @@
+---
+layout: json
+order: 481
+data:
+  id: 481
+  sort_no: 481
+  name: Mosquito TR Mk.33
+  type: [3, 5, 8, 8, 51]
+  rare: 4
+  broken: [9, 12, 0, 5]
+  info: 
+  usebull: 0
+  cost: 14
+  distance: 7
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 8
+    soku: 0
+    baku: 0
+    tyku: 5
+    tais: 6
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 6
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

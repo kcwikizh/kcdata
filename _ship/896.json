@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 896
-  sort_no: 0
-  name: 携帯白露
-  yomi: しらつゆ
-  stype: 2
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: bhmozmwplsrx
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 497
+  name: Brooklyn
+  yomi: ブルックリン
+  stype: 3
+  ctype: 110
+  cnum: 1
+  backs: 5
+  after_lv: 45
+  after_ship_id: 722
+  get_mes: It’s lovely to meet you<br>あたしが、Brooklyn級のnameship、<br>Brooklynよ！　何？　文句……ないよね！
+  voice_f: 1
+  filename: xacidcgdaopv
+  file_version: ["51", "1", "910"]
+  book_table_id: [896]
+  book_sinfo: 条約下で建造された大型の軽巡洋艦、Brooklyn級の<br>ネームシップ、Brooklynよ。<br>日本海軍の最上型に対抗する、6inch砲15門を備え<br>る大型軽巡。大西洋での船団護衛、北アフリカや地中<br>海の作戦でも活躍したわ。覚えておきなさい！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
+    taik: [38, 56]
+    souk: [16, 39]
+    houg: [29, 59]
+    raig: [0, 33]
+    tyku: [26, 70]
+    luck: [17, 77]
     soku: 10
-    leng: 
-    kaih: 
-    tais: 
+    leng: 2
+    kaih: 31
+    tais: 0
     slot_num: 3
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    max_eq: [0, 1, 3, 0, 0]
+    after_fuel: 480
+    after_bull: 400
+    fuel_max: 35
+    bull_max: 55
+    broken: [3, 3, 13, 2]
+    pow_up: [2, 0, 2, 2]
+    build_time: 70
   graph:
-    boko_n: [318, 192]
-    boko_d: [240, 210]
-    kaisyu_n: [-24, -18]
-    kaisyu_d: [-7, 10]
-    kaizo_n: [210, 102]
-    kaizo_d: [120, 108]
-    map_n: [216, 168]
-    map_d: [126, 180]
-    ensyuf_n: [198, 168]
-    ensyuf_d: [132, 168]
-    ensyue_n: [192, 0]
-    battle_n: [258, 192]
-    battle_d: [186, 198]
-    wed_a: [72, 30]
-    wed_b: [138, 162]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [-73, 208]
+    boko_d: [55, 159]
+    kaisyu_n: [1, -1]
+    kaisyu_d: [49, 13]
+    kaizo_n: [-61, 94]
+    kaizo_d: [48, 7]
+    map_n: [-75, 180]
+    map_d: [48, 130]
+    ensyuf_n: [-49, 171]
+    ensyuf_d: [70, 118]
+    ensyue_n: [-54, 0]
+    battle_n: [18, 198]
+    battle_d: [118, 156]
+    wed_a: [391, -24]
+    wed_b: [127, 189]
+  wiki_id: "497"
+  chinese_name: 布鲁克林
   can_drop: false
   can_construct: false
 ---

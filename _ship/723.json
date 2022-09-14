@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 723
+  sort_no: 1723
+  name: Ranger改
+  yomi: レンジャー
+  stype: 11
+  ctype: 
+  cnum: 
+  backs: 7
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: ydfuahbogfso
+  file_version: ["51", "1", "910"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [64, 84]
+    souk: [18, 58]
+    houg: [0, 47]
+    raig: [0, 0]
+    tyku: [30, 82]
+    luck: [32, 92]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [28, 30, 24, 4, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 65
+    bull_max: 70
+    broken: [10, 14, 27, 11]
+    pow_up: [0, 0, 4, 3]
+    build_time: 250
+  graph:
+    boko_n: [-46, 214]
+    boko_d: [139, 220]
+    kaisyu_n: [16, 13]
+    kaisyu_d: [103, 28]
+    kaizo_n: [-22, 109]
+    kaizo_d: [138, 64]
+    map_n: [-31, 201]
+    map_d: [156, 205]
+    ensyuf_n: [-33, 184]
+    ensyuf_d: [160, 180]
+    ensyue_n: [-22, 0]
+    battle_n: [21, 220]
+    battle_d: [198, 219]
+    wed_a: [361, -40]
+    wed_b: [114, 172]
+  wiki_id: "531a"
+  chinese_name: 突击者改
+  can_drop: false
+  can_construct: false
+---

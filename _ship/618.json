@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: iewosubexfsp
-  file_version: ["60", "1", "826"]
+  file_version: ["61", "1", "910"]
   book_table_id: [618]
   book_sinfo: Perth級軽巡洋艦Perth、英国生まれ、オーストラリ<br>ア育ちです。<br>連合軍ABDA艦隊の一翼として、南方作戦で南下する<br>日本艦隊を迎撃しました。重巡Houstonと共に最後<br>の一撃を図りましたが…。護る気持ちは…一緒です。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [102, 214]
-    boko_d: [102, 214]
+    boko_n: [120, 219]
+    boko_d: [160, 244]
     kaisyu_n: [58, -4]
     kaisyu_d: [46, -43]
-    kaizo_n: [112, 91]
-    kaizo_d: [97, 55]
-    map_n: [133, 178]
-    map_d: [133, 178]
-    ensyuf_n: [121, 174]
-    ensyuf_d: [121, 174]
-    ensyue_n: [124, 0]
-    battle_n: [172, 207]
-    battle_d: [172, 207]
-    wed_a: [202, -21]
-    wed_b: [127, 183]
+    kaizo_n: [117, 81]
+    kaizo_d: [142, 73]
+    map_n: [174, 168]
+    map_d: [220, 181]
+    ensyuf_n: [136, 172]
+    ensyuf_d: [183, 166]
+    ensyue_n: [163, 0]
+    battle_n: [207, 193]
+    battle_d: [214, 204]
+    wed_a: [196, -24]
+    wed_b: [121, 163]
   wiki_id: "418"
   chinese_name: 珀斯改
   can_drop: false

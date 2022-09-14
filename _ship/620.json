@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: otpgrdspsxso
-  file_version: ["57", "1", "826"]
-  book_table_id: [620]
+  file_version: ["58", "1", "910"]
+  book_table_id: [620, 5653]
   book_sinfo: USS CL50 Helena です。<br>St. Louis class 軽巡２番艦として建造されました。<br>真珠湾空襲を経験、エスペランス岬沖海戦、第三次ソ<br>ロモン海戦、そしてクラ湾の夜戦で日本海軍の精鋭と<br>激しく戦いました。
   stats:
     taik: [53, 67]
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 0, 2, 2]
     build_time: 70
   graph:
-    boko_n: [151, 237]
-    boko_d: [40, 318]
+    boko_n: [48, 109]
+    boko_d: [-40, 129]
     kaisyu_n: [45, -25]
     kaisyu_d: [7, -115]
-    kaizo_n: [169, 109]
-    kaizo_d: [58, 151]
-    map_n: [199, 219]
-    map_d: [81, 262]
-    ensyuf_n: [220, 184]
-    ensyuf_d: [81, 232]
-    ensyue_n: [202, 0]
-    battle_n: [247, 220]
-    battle_d: [106, 271]
-    wed_a: [109, -37]
-    wed_b: [120, 169]
+    kaizo_n: [61, -31]
+    kaizo_d: [-10, -25]
+    map_n: [123, 58]
+    map_d: [-70, 1]
+    ensyuf_n: [109, 49]
+    ensyuf_d: [-43, -15]
+    ensyue_n: [78, 0]
+    battle_n: [142, 79]
+    battle_d: [31, 60]
+    wed_a: [252, 109]
+    wed_b: [124, 166]
   wiki_id: "420"
   chinese_name: 海伦娜改
   can_drop: false

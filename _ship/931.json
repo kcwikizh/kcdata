@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 931
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: khkhnfcvzhlh
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 531
+  name: Ranger
+  yomi: レンジャー
+  stype: 11
+  ctype: 118
+  cnum: 1
+  backs: 6
+  after_lv: 55
+  after_ship_id: 723
+  get_mes: Nice to meet you. <br>Admiral?  お会いできて光栄です。<br>私 CV4 USS Ranger と申します。
+  voice_f: 1
+  filename: uodemjpojthc
+  file_version: ["51", "1", "910"]
+  book_table_id: [931]
+  book_sinfo: USS CV4 Rangerです。<br>アメリカ海軍初の最初から航空母艦として設計された<br>純然たる正規空母です。大西洋艦隊に配属され、トー<br>チ作戦などに参加しました。正規空母の純粋なプロト<br>タイプ、私の事も、どうぞ覚えていてくださいね。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [48, 78]
+    souk: [17, 39]
+    houg: [0, 27]
+    raig: [0, 0]
+    tyku: [28, 70]
+    luck: [20, 72]
+    soku: 10
+    leng: 1
+    kaih: 28
+    tais: 0
+    slot_num: 4
+    max_eq: [24, 24, 24, 4, 0]
+    after_fuel: 1000
+    after_bull: 480
+    fuel_max: 50
+    bull_max: 55
+    broken: [6, 11, 23, 7]
+    pow_up: [0, 0, 4, 3]
+    build_time: 250
   graph:
-    boko_n: [138, 192]
-    boko_d: [168, 216]
-    kaisyu_n: [-13, -34]
-    kaisyu_d: [16, -24]
-    kaizo_n: [60, 96]
-    kaizo_d: [60, 72]
-    map_n: [72, 156]
-    map_d: [96, 168]
-    ensyuf_n: [108, 144]
-    ensyuf_d: [96, 156]
-    ensyue_n: [60, 0]
-    battle_n: [96, 168]
-    battle_d: [96, 192]
-    wed_a: [240, 36]
-    wed_b: [180, 156]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [-46, 214]
+    boko_d: [139, 220]
+    kaisyu_n: [16, 13]
+    kaisyu_d: [103, 28]
+    kaizo_n: [-22, 109]
+    kaizo_d: [138, 64]
+    map_n: [-31, 201]
+    map_d: [156, 205]
+    ensyuf_n: [-33, 184]
+    ensyuf_d: [160, 180]
+    ensyue_n: [-22, 0]
+    battle_n: [21, 220]
+    battle_d: [198, 219]
+    wed_a: [361, -40]
+    wed_b: [114, 172]
+  wiki_id: "531"
+  chinese_name: 突击者
   can_drop: false
   can_construct: false
 ---

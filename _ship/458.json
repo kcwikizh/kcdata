@@ -14,7 +14,7 @@ data:
   get_mes: 白露型駆逐艦七番艦、<br>そして改白露型一番艦となる、海風です。<br>提督、どうぞよろしくお願いします！
   voice_f: 1
   filename: rnmsjjndxlgj
-  file_version: ["65", "13", "826"]
+  file_version: ["66", "13", "910"]
   book_table_id: [458, 790, 1122]
   book_sinfo: 白露型駆逐艦七番艦、改白露型としては一番艦となる<br>海風です。<br>マル２計画によって建造されました。第二水雷戦隊の<br>一翼として、ソロモン海の戦いにも参加しました。提<br>督、どうぞよろしくお願い致します。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 22
   graph:
-    boko_n: [126, 150]
-    boko_d: [126, 204]
+    boko_n: [198, 198]
+    boko_d: [192, 168]
     kaisyu_n: [48, -6]
     kaisyu_d: [60, -6]
-    kaizo_n: [48, 42]
-    kaizo_d: [96, 60]
-    map_n: [60, 114]
-    map_d: [120, 156]
-    ensyuf_n: [60, 132]
-    ensyuf_d: [120, 174]
-    ensyue_n: [48, 0]
-    battle_n: [84, 132]
-    battle_d: [144, 168]
-    wed_a: [294, 66]
-    wed_b: [126, 180]
+    kaizo_n: [96, 120]
+    kaizo_d: [120, 24]
+    map_n: [144, 168]
+    map_d: [120, 120]
+    ensyuf_n: [144, 168]
+    ensyuf_d: [168, 108]
+    ensyue_n: [108, 0]
+    battle_n: [156, 168]
+    battle_d: [144, 120]
+    wed_a: [180, 18]
+    wed_b: [192, 168]
   wiki_id: "258"
   chinese_name: 海风
   can_drop: true

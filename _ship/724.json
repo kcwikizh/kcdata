@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 724
+  sort_no: 1724
+  name: Jean Bart改
+  yomi: ジャン・バール
+  stype: 8
+  ctype: 
+  cnum: 
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: ihxtuallivwo
+  file_version: ["51", "1", "910"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [88, 98]
+    souk: [77, 96]
+    houg: [70, 97]
+    raig: [0, 0]
+    tyku: [24, 76]
+    luck: [22, 94]
+    soku: 10
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [3, 3, 3, 3, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 100
+    bull_max: 130
+    broken: [12, 19, 39, 4]
+    pow_up: [4, 0, 2, 4]
+    build_time: 300
+  graph:
+    boko_n: [-135, 208]
+    boko_d: [70, 238]
+    kaisyu_n: [21, -9]
+    kaisyu_d: [52, 6]
+    kaizo_n: [-142, 100]
+    kaizo_d: [97, 70]
+    map_n: [-157, 189]
+    map_d: [103, 202]
+    ensyuf_n: [-129, 175]
+    ensyuf_d: [136, 175]
+    ensyue_n: [-138, 0]
+    battle_n: [-66, 205]
+    battle_d: [187, 220]
+    wed_a: [469, -25]
+    wed_b: [124, 169]
+  wiki_id: "535a"
+  chinese_name: 让·巴尔改
+  can_drop: false
+  can_construct: false
+---

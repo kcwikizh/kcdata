@@ -14,7 +14,7 @@ data:
   get_mes: Hi！ MeがIowa級戦艦、Iowaよ。<br>Youがこの艦隊のAdmiralなの？ いいじゃない！<br>私たちのこともよろしく！
   voice_f: 1
   filename: tgknyzwyexxt
-  file_version: ["13", "1", "826"]
+  file_version: ["13", "1", "910"]
   book_table_id: [440, 825]
   book_sinfo: Hi！　Iowa級戦艦Name Ship、Iowaよ。高速戦艦で、この重兵装。Battle shipの最終形ともいえる完成度。USAが生んだ最後の戦艦級として、この艦隊でも頑張るわ。よろしくね！
   stats:

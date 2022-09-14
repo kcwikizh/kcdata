@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 722
+  sort_no: 1722
+  name: Brooklyn改
+  yomi: ブルックリン
+  stype: 3
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: hbbpfodwvfop
+  file_version: ["51", "1", "910"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [53, 67]
+    souk: [26, 67]
+    houg: [33, 77]
+    raig: [0, 39]
+    tyku: [36, 80]
+    luck: [37, 97]
+    soku: 10
+    leng: 2
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [0, 0, 2, 4, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 35
+    bull_max: 60
+    broken: [4, 7, 17, 2]
+    pow_up: [2, 0, 2, 2]
+    build_time: 70
+  graph:
+    boko_n: [-73, 208]
+    boko_d: [55, 159]
+    kaisyu_n: [1, -1]
+    kaisyu_d: [49, 13]
+    kaizo_n: [-61, 94]
+    kaizo_d: [48, 7]
+    map_n: [-75, 180]
+    map_d: [48, 130]
+    ensyuf_n: [-49, 171]
+    ensyuf_d: [70, 118]
+    ensyue_n: [-54, 0]
+    battle_n: [18, 198]
+    battle_d: [118, 156]
+    wed_a: [391, -24]
+    wed_b: [127, 189]
+  wiki_id: "497a"
+  chinese_name: 布鲁克林改
+  can_drop: false
+  can_construct: false
+---
