@@ -1,0 +1,36 @@
+---
+layout: json
+order: 1616
+data:
+  id: 1616
+  sort_no: 0
+  name: 地中海12.6inch/44 三連装砲
+  type: [1, 1, 3, 3, 0]
+  rare: 4
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 3
+    houg: 19
+    raig: 7
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 11
+    raim: 0
+    houk: 4
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 3
+  improvement: 
+  chinese_name:
+---

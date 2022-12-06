@@ -59,21 +59,21 @@ data:
             amount: 1
       upgrade:
       day:
-        - false
-        - false
         -
           -
             ship_id: 545
+        -
+          -
+            ship_id: 545
+        -
+          -
+            ship_id: 550
+          -
+            ship_id: 545
+        -
           -
             ship_id: 550
         -
-          -
-            ship_id: 545
-          -
-            ship_id: 550
-        -
-          -
-            ship_id: 545
           -
             ship_id: 550
         - false

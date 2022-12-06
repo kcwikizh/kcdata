@@ -32,5 +32,63 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [10, 0, 170, 130]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 7]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [6, 9]
+            -
+              id: 4
+              amount: [4, 6]
+        slotitem:
+          -
+            id: 46
+            amount: 1
+          -
+            id: 47
+            amount: 1
+      upgrade:
+      day:
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 86
+          -
+            ship_id: 210
+          -
+            ship_id: 150
+          -
+            ship_id: 592
+        -
+          -
+            ship_id: 86
+          -
+            ship_id: 210
+          -
+            ship_id: 150
+          -
+            ship_id: 592
+        -
+          -
+            ship_id: 86
+          -
+            ship_id: 210
+          -
+            ship_id: 150
+          -
+            ship_id: 592
+        - false
   chinese_name: 零式水中听音机
 ---

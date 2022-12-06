@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 578
+  type: 3
+  no: 129
+  title: 二二式大漁旗
+  description: 獲れない秋刀魚は…ない！<br>そんな意気込みで参加した<br>鎮守府秋刀魚祭り及び同秋<br>刀魚漁支援成功を祝うある<br>部隊による大漁旗です！
+  rarity: 6
+  price: 194400
+  saleflg: 0
+  season: 46
+  filename: "130"
+  file_version: "1"
+---

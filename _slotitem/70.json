@@ -32,5 +32,83 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [60, 30, 10, 170]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 5]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [3, 4]
+        slotitem:
+          -
+            id: 16
+            amount: 1
+          -
+            id: 70
+            amount: 1
+      upgrade:
+        id: 451
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [7, 9]
+            -
+              id: 4
+              amount: [4, 6]
+            -
+              id: 77
+              amount: 1
+          slotitem:
+            id: 69
+            amount: 2
+      day:
+        -
+          -
+            ship_id: 900
+          -
+            ship_id: 717
+        -
+          -
+            ship_id: 900
+          -
+            ship_id: 717
+        -
+          -
+            ship_id: 900
+          -
+            ship_id: 717
+        -
+          -
+            ship_id: 900
+          -
+            ship_id: 717
+        -
+          -
+            ship_id: 900
+          -
+            ship_id: 717
+        -
+          -
+            ship_id: 900
+          -
+            ship_id: 717
+        -
+          -
+            ship_id: 900
+          -
+            ship_id: 717
   chinese_name: 三式指挥连絡机(对潜)
 ---

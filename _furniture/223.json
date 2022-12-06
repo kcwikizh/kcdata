@@ -8,7 +8,7 @@ data:
   description: 艦娘達が忙しい提督のため<br>に一生懸命手作りの飾り付<br>けをしてくれました。素敵<br>なパーティーしましょう！<br>※特殊BGM家具です。
   rarity: 3
   price: 1200
-  saleflg: 0
+  saleflg: 1
   season: 4
   filename: 
   file_version: 

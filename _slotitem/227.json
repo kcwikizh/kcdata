@@ -32,5 +32,69 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [10, 110, 10, 80]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 5]
+            -
+              id: 4
+              amount: [2, 2]
+          -
+            -
+              id: 3
+              amount: [5, 6]
+            -
+              id: 4
+              amount: [3, 4]
+        slotitem:
+          -
+            id: 226
+            amount: 1
+          -
+            id: 227
+            amount: 1
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 617
+          -
+            ship_id: 679
+        -
+          -
+            ship_id: 678
+          -
+            ship_id: 679
+        -
+          -
+            ship_id: 678
+          -
+            ship_id: 679
+        -
+          -
+            ship_id: 616
+          -
+            ship_id: 678
+        -
+          -
+            ship_id: 616
+          -
+            ship_id: 910
+        -
+          -
+            ship_id: 616
+          -
+            ship_id: 617
+          -
+            ship_id: 910
+        -
+          -
+            ship_id: 617
+          -
+            ship_id: 910
   chinese_name: 二式爆雷
 ---

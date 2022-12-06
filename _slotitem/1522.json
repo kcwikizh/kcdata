@@ -1,0 +1,36 @@
+---
+layout: json
+order: 1522
+data:
+  id: 1522
+  sort_no: 0
+  name: 飛び魚艦戦
+  type: [3, 5, 6, 6, 0]
+  rare: 3
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 13
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 7
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

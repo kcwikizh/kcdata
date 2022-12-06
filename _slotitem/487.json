@@ -1,0 +1,36 @@
+---
+layout: json
+order: 487
+data:
+  id: 487
+  sort_no: 487
+  name: 零式艦戦64型(熟練爆戦)
+  type: [3, 5, 7, 7, 12]
+  rare: 4
+  broken: [2, 4, 0, 5]
+  info: 
+  usebull: 0
+  cost: 6
+  distance: 5
+  stats:
+    taik: 0
+    souk: 0
+    houg: 1
+    raig: 0
+    soku: 0
+    baku: 6
+    tyku: 7
+    tais: 3
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 2
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

@@ -8,7 +8,7 @@ data:
   description: 小さな駆逐艦娘たちを喜ば<br>せるために提督が用意した<br>ツリーとプレゼントたち。<br>大きな艦娘たちも少し羨ま<br>しそうに見ています！
   rarity: 4
   price: 3000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

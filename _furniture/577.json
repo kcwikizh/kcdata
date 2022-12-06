@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 577
+  type: 1
+  no: 97
+  title: フランス生まれの壁
+  description: 欧州遠征帰りの艦娘たちが<br>運び込んだフランス製の壁<br>です。落ち着いた雰囲気と<br>格調高いレリーフ、さらに<br>トリコロールもアピール。
+  rarity: 3
+  price: 1300
+  saleflg: 0
+  season: 0
+  filename: 
+  file_version: ""
+---

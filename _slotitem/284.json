@@ -58,6 +58,19 @@ data:
             id: 91
             amount: 2
       upgrade:
+        id: 313
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [12, 18]
+            -
+              id: 4
+              amount: [8, 10]
+          slotitem:
+            id: 229
+            amount: 1
       day:
         -
           -
@@ -65,6 +78,64 @@ data:
           -
             ship_id: 681
           -
+            ship_id: 920
+          -
+            ship_id: 562
+          -
+            ship_id: 689
+          -
+            ship_id: 596
+          -
+            ship_id: 692
+          -
+            ship_id: 628
+          -
+            ship_id: 629
+        -
+          -
+            ship_id: 561
+          -
+            ship_id: 681
+          -
+            ship_id: 920
+          -
+            ship_id: 596
+          -
+            ship_id: 692
+          -
+            ship_id: 628
+          -
+            ship_id: 629
+        -
+          -
+            ship_id: 561
+          -
+            ship_id: 681
+          -
+            ship_id: 920
+          -
+            ship_id: 596
+          -
+            ship_id: 692
+          -
+            ship_id: 628
+          -
+            ship_id: 629
+        -
+          -
+            ship_id: 561
+          -
+            ship_id: 681
+          -
+            ship_id: 920
+        -
+          -
+            ship_id: 561
+          -
+            ship_id: 681
+          -
+            ship_id: 920
+          -
             ship_id: 562
           -
             ship_id: 689
@@ -73,21 +144,8 @@ data:
             ship_id: 561
           -
             ship_id: 681
-        -
           -
-            ship_id: 561
-          -
-            ship_id: 681
-        -
-          -
-            ship_id: 561
-          -
-            ship_id: 681
-        -
-          -
-            ship_id: 561
-          -
-            ship_id: 681
+            ship_id: 920
           -
             ship_id: 562
           -
@@ -98,17 +156,18 @@ data:
           -
             ship_id: 681
           -
-            ship_id: 562
-          -
-            ship_id: 689
-        -
-          -
-            ship_id: 561
-          -
-            ship_id: 681
+            ship_id: 920
           -
             ship_id: 562
           -
             ship_id: 689
+          -
+            ship_id: 596
+          -
+            ship_id: 692
+          -
+            ship_id: 628
+          -
+            ship_id: 629
   chinese_name: 
 ---

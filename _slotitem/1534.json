@@ -1,0 +1,36 @@
+---
+layout: json
+order: 1534
+data:
+  id: 1534
+  sort_no: 0
+  name: 強化型深海缶
+  type: [6, 9, 17, 19, 0]
+  rare: 1
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 0
+    raim: 4
+    houk: 15
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

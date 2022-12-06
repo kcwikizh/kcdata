@@ -65,15 +65,23 @@ data:
         -
           -
             ship_id: 145
+          -
+            ship_id: 670
         -
           -
             ship_id: 145
+          -
+            ship_id: 670
         -
           -
             ship_id: 145
+          -
+            ship_id: 670
         -
           -
             ship_id: 543
+          -
+            ship_id: 670
         -
           -
             ship_id: 543

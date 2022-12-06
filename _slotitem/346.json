@@ -80,8 +80,20 @@ data:
             ship_id: 471
           -
             ship_id: 476
-        - false
-        - false
+          -
+            ship_id: 900
+          -
+            ship_id: 717
+        -
+          -
+            ship_id: 900
+          -
+            ship_id: 717
+        -
+          -
+            ship_id: 900
+          -
+            ship_id: 717
         -
           -
             ship_id: 581

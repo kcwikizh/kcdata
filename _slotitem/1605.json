@@ -1,0 +1,36 @@
+---
+layout: json
+order: 1605
+data:
+  id: 1605
+  sort_no: 0
+  name: 深海潜水艦搭載電子兵装
+  type: [24, 42, 51, 42, 0]
+  rare: 5
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 6
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 22
+    raim: 0
+    houk: 6
+    raik: 0
+    bakk: 0
+    saku: 6
+    sakb: 0
+    luck: 0
+    leng: 1
+  improvement: 
+  chinese_name:
+---

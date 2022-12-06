@@ -1,0 +1,36 @@
+---
+layout: json
+order: 1559
+data:
+  id: 1559
+  sort_no: 0
+  name: 深海FCS+CIC
+  type: [7, 10, 14, 18, 0]
+  rare: 3
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 6
+    tais: 20
+    atap: 0
+    houm: 5
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 3
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

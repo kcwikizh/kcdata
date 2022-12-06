@@ -1,0 +1,36 @@
+---
+layout: json
+order: 1536
+data:
+  id: 1536
+  sort_no: 0
+  name: 劣化徹甲弾
+  type: [4, 25, 19, 13, 0]
+  rare: 1
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 15
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 0
+    atap: 0
+    houm: 5
+    raim: 8
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---
