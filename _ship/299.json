@@ -14,7 +14,7 @@ data:
   get_mes: あんたがAdmiral？　ふーん。そっか！<br>あたいは、Gato級潜水艦、Scampさ。<br>割と……できるよ？　ま、よろしく。
   voice_f: 1
   filename: etovtoqifpql
-  file_version: ["51", "1", "910"]
+  file_version: ["51", "1", "1206"]
   book_table_id: [299]
   book_sinfo: あたいがGato級潜水艦、Scampだ。そうさ、大戦で<br>最も活躍した艦級の一つとも評価されるあのGato級<br>だよ。何度も敵の奥深くに出撃したさ。数えきれない<br>戦功を挙げたが、最期は日本海防艦につかまっちまっ<br>た。油断は大敵さ。
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: How is everything?<br>あたしは、Atlanta級防空巡洋艦、Atlanta。<br>Brooklyn生まれ。貴方、提督さん？　よろしくね。
   voice_f: 1
   filename: jzyxyckwrlww
-  file_version: ["51", "1", "910"]
+  file_version: ["51", "1", "1206"]
   book_table_id: [597]
   book_sinfo: あたし、Atlanta級軽巡、その一番艦、Atlanta。<br>防空巡洋艦Atlantaのほうが通りがいいかなあ。<br>そう。防空巡の代名詞的な対空火力で艦隊防空<br>やっちゃうから！…って、あ、ごめん、夜戦とかは<br>ちょっといいかな。ま、いいじゃない。よろしくね。
   stats:

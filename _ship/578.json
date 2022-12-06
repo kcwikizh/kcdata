@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: zzahenrypate
-  file_version: ["67", "12", "910"]
-  book_table_id: [578, 5540]
+  file_version: ["70", "12", "1206"]
+  book_table_id: [578, 5540, 5670, 5693]
   book_sinfo: あたいは夕雲型駆逐艦、その十六番艦、朝霜さ。よー<br>く覚えとおくんだよ。<br>戦況が悪化した頃にデビューしたんだ。でも、その末<br>期の戦線を、文字通り縦横無尽に駆けまわったぜ。や<br>るだけ…やったさ！
   stats:
     taik: [33, 57]
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [166, 181]
-    boko_d: [166, 186]
+    boko_n: [4, 150]
+    boko_d: [51, 217]
     kaisyu_n: [10, -10]
     kaisyu_d: [61, 3]
-    kaizo_n: [93, 91]
-    kaizo_d: [82, 60]
-    map_n: [100, 151]
-    map_d: [100, 156]
-    ensyuf_n: [100, 181]
-    ensyuf_d: [100, 186]
-    ensyue_n: [88, 0]
-    battle_n: [136, 193]
-    battle_d: [136, 198]
-    wed_a: [235, 34]
-    wed_b: [144, 168]
+    kaizo_n: [-13, 27]
+    kaizo_d: [22, 37]
+    map_n: [9, 114]
+    map_d: [60, 148]
+    ensyuf_n: [-6, 90]
+    ensyuf_d: [66, 118]
+    ensyue_n: [-10, 0]
+    battle_n: [60, 144]
+    battle_d: [115, 186]
+    wed_a: [286, 57]
+    wed_b: [145, 180]
   wiki_id: "378"
   chinese_name: 朝霜改二
   can_drop: false

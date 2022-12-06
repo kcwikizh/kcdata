@@ -13,8 +13,8 @@ data:
   after_ship_id: 435
   get_mes: <br>
   voice_f: 1
-  filename: lwlmcwxyvcyz
-  file_version: ["41", "20", "910"]
+  filename: lwlmcwxyvcxs
+  file_version: ["42", "20", "1206"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [195, 102]
-    boko_d: [171, 88]
+    boko_n: [133, 225]
+    boko_d: [133, 225]
     kaisyu_n: [28, 12]
     kaisyu_d: [42, 10]
-    kaizo_n: [112, 19]
-    kaizo_d: [90, 3]
-    map_n: [51, 102]
-    map_d: [27, 73]
-    ensyuf_n: [189, 99]
-    ensyuf_d: [48, 16]
-    ensyue_n: [189, 0]
-    battle_n: [118, 94]
-    battle_d: [99, 76]
-    wed_a: [159, 94]
-    wed_b: [208, 171]
+    kaizo_n: [139, 94]
+    kaizo_d: [124, 60]
+    map_n: [202, 199]
+    map_d: [202, 199]
+    ensyuf_n: [172, 178]
+    ensyuf_d: [172, 178]
+    ensyue_n: [160, 0]
+    battle_n: [195, 199]
+    battle_d: [195, 199]
+    wed_a: [165, -28]
+    wed_b: [106, 186]
   wiki_id: "032a"
   chinese_name: 如月改
   can_drop: false

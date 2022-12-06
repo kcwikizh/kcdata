@@ -14,7 +14,7 @@ data:
   get_mes: やっと会えた！　陽炎よ。<br>よろしくねっ！
   voice_f: 0
   filename: nkvvrszimkre
-  file_version: ["13", "13", "910"]
+  file_version: ["13", "13", "1206"]
   book_table_id: [17]
   book_sinfo: 第四次軍備充実計画で建造された陽炎型駆逐艦、ネームシップの陽炎よ。<br>新鋭の主力駆逐艦として、ハワイ攻撃機動部隊を始め、様々な作戦に参加したわ！<br>よろしくね！
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦、巻雲といいます。<br>夕雲姉さんを見習って、頑張ります！
   voice_f: 3
   filename: piobwloefpcz
-  file_version: ["67", "5", "910"]
+  file_version: ["67", "5", "1206"]
   book_table_id: [134, 972, 1058]
   book_sinfo: 夕雲型駆逐艦二番艦、巻雲です。<br>ホーネットの後始末、事情許さば拿捕曳航されたし<br>…って云われても、結構無理ゲーだし…って、秋雲が<br>こっち指差して笑ってるし。本当にもうなんなの？
   stats:

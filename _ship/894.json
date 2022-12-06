@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 894
-  sort_no: 0
-  name: 梅雨千歳
-  yomi: ちとせ
-  stype: 16
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: pflzecdbyzxj
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 494
+  name: 鳳翔改二
+  yomi: ほうしょう
+  stype: 7
+  ctype: 27
+  cnum: 1
+  backs: 7
+  after_lv: 92
+  after_ship_id: 899
+  get_mes: <br>
+  voice_f: 1
+  filename: wiypusnbialc
+  file_version: ["51", "1", "1206"]
+  book_table_id: [894]
+  book_sinfo: 航空母艦、鳳翔と申します。<br>最初から空母として建造された、世界で初めての航空<br>母艦なんです。<br>小さな艦ですが、頑張りますね。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 10
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 2
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [57, 73]
+    souk: [33, 67]
+    houg: [0, 53]
+    raig: [0, 0]
+    tyku: [24, 71]
+    luck: [50, 120]
+    soku: 5
+    leng: 1
+    kaih: 36
+    tais: 33
+    slot_num: 4
+    max_eq: [17, 18, 13, 1, 0]
+    after_fuel: 800
+    after_bull: 170
+    fuel_max: 35
+    bull_max: 40
+    broken: [3, 7, 20, 6]
+    pow_up: [0, 0, 2, 2]
+    build_time: 120
   graph:
-    boko_n: [276, 228]
-    boko_d: [210, 246]
-    kaisyu_n: [15, 30]
-    kaisyu_d: [39, 43]
-    kaizo_n: [162, 156]
-    kaizo_d: [96, 138]
-    map_n: [192, 198]
-    map_d: [108, 198]
-    ensyuf_n: [174, 192]
-    ensyuf_d: [108, 198]
-    ensyue_n: [168, 0]
-    battle_n: [204, 216]
-    battle_d: [144, 228]
-    wed_a: [144, -6]
-    wed_b: [114, 162]
+    boko_n: [-52, 204]
+    boko_d: [175, 165]
+    kaisyu_n: [-1, 24]
+    kaisyu_d: [33, 25]
+    kaizo_n: [-55, 93]
+    kaizo_d: [183, 19]
+    map_n: [-61, 190]
+    map_d: [202, 154]
+    ensyuf_n: [-49, 172]
+    ensyuf_d: [232, 127]
+    ensyue_n: [-49, 0]
+    battle_n: [0, 193]
+    battle_d: [223, 157]
+    wed_a: [390, -27]
+    wed_b: [109, 175]
   wiki_id: 
   chinese_name: 
   can_drop: false

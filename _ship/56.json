@@ -13,8 +13,8 @@ data:
   after_ship_id: 224
   get_mes: 艦隊のアイドル、那珂（なか）ちゃんだよー！<br>よっろしくぅ！
   voice_f: 0
-  filename: vopfxipptsrt
-  file_version: ["24", "12", "910"]
+  filename: vopfxipptsxs
+  file_version: ["25", "12", "1206"]
   book_table_id: [56, 901]
   book_sinfo: 第４水雷戦隊のセンターも務めた那珂だよ！<br>お仕事沢山入ってて、輸送船の護衛任務や、トラック島から南方への輸送任務とか…<br>…え、地方巡業じゃんって？ そんなことないしっ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 60
   graph:
-    boko_n: [61, 102]
-    boko_d: [36, 106]
+    boko_n: [66, 144]
+    boko_d: [108, 180]
     kaisyu_n: [13, 42]
     kaisyu_d: [42, 10]
-    kaizo_n: [42, 25]
-    kaizo_d: [37, -49]
+    kaizo_n: [42, 66]
+    kaizo_d: [120, 96]
     map_n: [30, 91]
-    map_d: [-43, 73]
-    ensyuf_n: [96, 96]
-    ensyuf_d: [19, 24]
+    map_d: [144, 108]
+    ensyuf_n: [108, 111]
+    ensyuf_d: [120, 36]
     ensyue_n: [108, 0]
-    battle_n: [9, 63]
-    battle_d: [27, 46]
-    wed_a: [279, 109]
-    wed_b: [138, 163]
+    battle_n: [96, 120]
+    battle_d: [120, 108]
+    wed_a: [214, 97]
+    wed_b: [141, 175]
   wiki_id: "048"
   chinese_name: 那珂
   can_drop: true

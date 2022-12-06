@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: kgykxxmonxbh
-  file_version: ["82", "4", "910"]
+  filename: kgykxxmonxxs
+  file_version: ["85", "4", "1206"]
   book_table_id: [630, 5466, 5557, 5597, 5624]
   book_sinfo: スウェーデン生まれの航空巡洋艦、ゴトランドです。<br>皆さん、よろしくお願いしますね。<br>軽巡クラスなんです、私！　だから、あまり搭載機も<br>多くはないし、カタパルトも一基。…予算がね。うう<br>ん、いいの！　艤装は最高よ。現代にも繋がる我がス<br>ウェーデンの兵装技術、ね、覚えてて。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 3, 1]
     build_time: 60
   graph:
-    boko_n: [-57, 172]
-    boko_d: [-6, 247]
+    boko_n: [138, 213]
+    boko_d: [106, 262]
     kaisyu_n: [24, -46]
     kaisyu_d: [4, -43]
-    kaizo_n: [-93, 60]
-    kaizo_d: [-33, 88]
-    map_n: [-31, 139]
-    map_d: [-7, 204]
-    ensyuf_n: [-49, 129]
-    ensyuf_d: [-21, 187]
-    ensyue_n: [-64, 0]
-    battle_n: [-13, 160]
-    battle_d: [40, 222]
-    wed_a: [406, 28]
-    wed_b: [106, 169]
+    kaizo_n: [135, 76]
+    kaizo_d: [63, 109]
+    map_n: [174, 181]
+    map_d: [148, 199]
+    ensyuf_n: [147, 181]
+    ensyuf_d: [106, 189]
+    ensyue_n: [118, 0]
+    battle_n: [199, 208]
+    battle_d: [145, 241]
+    wed_a: [189, -10]
+    wed_b: [121, 139]
   wiki_id: "430"
   chinese_name: 哥特兰改二
   can_drop: false

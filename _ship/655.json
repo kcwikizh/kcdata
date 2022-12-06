@@ -14,7 +14,7 @@ data:
   get_mes: Nice meeting you.<br>Northampton級一番艦、Northampton、ここに。<br>あなたが Admiral?　ご一緒にまいりましょう！
   voice_f: 1
   filename: mfimczjhffyx
-  file_version: ["54", "4", "910"]
+  file_version: ["55", "5", "1206"]
   book_table_id: [655, 5580]
   book_sinfo: ノーザンプトン級重巡洋艦一番艦、ノーザンプトンで<br>す。あのエンタープライズの機動部隊、護衛の中核と<br>して、さらにホーネットの護衛にも就きました。<br>そして、運命のアイアンボトムサウンドへ突入しまし<br>た。鼠輸送を阻止するために。日本の水雷戦隊、あの<br>夜のその力、それは驚異です。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 85
   graph:
-    boko_n: [-9, 15]
-    boko_d: [46, 285]
+    boko_n: [-129, 204]
+    boko_d: [43, 247]
     kaisyu_n: [27, 22]
     kaisyu_d: [82, 10]
-    kaizo_n: [4, -105]
-    kaizo_d: [78, 117]
-    map_n: [25, -21]
-    map_d: [46, 207]
-    ensyuf_n: [18, -22]
-    ensyuf_d: [45, 187]
-    ensyue_n: [25, 0]
-    battle_n: [58, 10]
-    battle_d: [79, 232]
-    wed_a: [337, 160]
-    wed_b: [100, 180]
+    kaizo_n: [-112, 85]
+    kaizo_d: [46, 78]
+    map_n: [-79, 177]
+    map_d: [150, 214]
+    ensyuf_n: [-97, 178]
+    ensyuf_d: [148, 184]
+    ensyue_n: [-112, 0]
+    battle_n: [-79, 219]
+    battle_d: [184, 229]
+    wed_a: [454, -18]
+    wed_b: [99, 181]
   wiki_id: "455"
   chinese_name: 北安普敦
   can_drop: false

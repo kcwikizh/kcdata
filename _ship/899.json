@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 899
-  sort_no: 0
-  name: 記念日春雨改
-  yomi: はるさめ
-  stype: 2
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: dcxttaunyqpg
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 499
+  name: 鳳翔改二戦
+  yomi: ほうしょう
+  stype: 7
+  ctype: 27
+  cnum: 1
+  backs: 8
+  after_lv: 92
+  after_ship_id: 894
+  get_mes: <br>
+  voice_f: 1
+  filename: elndkdkuomih
+  file_version: ["51", "1", "1206"]
+  book_table_id: [899]
+  book_sinfo: 航空母艦、鳳翔と申します。<br>最初から空母として建造された、世界で初めての航空<br>母艦なんです。<br>小さな艦ですが、頑張りますね。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 10
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 2
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [57, 73]
+    souk: [35, 69]
+    houg: [0, 50]
+    raig: [0, 0]
+    tyku: [24, 70]
+    luck: [50, 120]
+    soku: 5
+    leng: 1
+    kaih: 33
+    tais: 34
+    slot_num: 4
+    max_eq: [17, 18, 4, 0, 0]
+    after_fuel: 300
+    after_bull: 230
+    fuel_max: 35
+    bull_max: 40
+    broken: [3, 7, 20, 6]
+    pow_up: [0, 0, 2, 2]
+    build_time: 120
   graph:
-    boko_n: [192, 216]
-    boko_d: [156, 96]
-    kaisyu_n: [36, 18]
-    kaisyu_d: [72, -30]
-    kaizo_n: [144, 120]
-    kaizo_d: [96, -54]
-    map_n: [120, 192]
-    map_d: [96, 60]
-    ensyuf_n: [168, 168]
-    ensyuf_d: [168, 24]
-    ensyue_n: [144, 0]
-    battle_n: [144, 192]
-    battle_d: [120, 48]
-    wed_a: [120, 0]
-    wed_b: [192, 168]
+    boko_n: [-52, 204]
+    boko_d: [175, 165]
+    kaisyu_n: [-1, 24]
+    kaisyu_d: [33, 25]
+    kaizo_n: [-55, 93]
+    kaizo_d: [183, 19]
+    map_n: [-61, 190]
+    map_d: [202, 154]
+    ensyuf_n: [-49, 172]
+    ensyuf_d: [232, 127]
+    ensyue_n: [-49, 0]
+    battle_n: [0, 193]
+    battle_d: [223, 157]
+    wed_a: [390, -27]
+    wed_b: [109, 175]
   wiki_id: 
   chinese_name: 
   can_drop: false

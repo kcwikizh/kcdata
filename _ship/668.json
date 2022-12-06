@@ -13,8 +13,8 @@ data:
   after_ship_id: 663
   get_mes: <br>
   voice_f: 7
-  filename: yizetqxpvltq
-  file_version: ["51", "15", "910"]
+  filename: yizetqxpvlxs
+  file_version: ["52", "15", "1206"]
   book_table_id: [668]
   book_sinfo: 阿賀野型軽巡の三番艦、矢矧よ。<br>マリアナ、レイテ、坊ノ岬と、後半の大きな海戦には<br>殆ど参加したわ。そうよ、最後の最後まで暴れてみせ<br>たの。私の記憶の途切れた後、大和はどうなったのか<br>しら。ま、いいわ…今度は全てを護りきるから！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 2, 3]
     build_time: 60
   graph:
-    boko_n: [-181, 114]
-    boko_d: [13, 258]
+    boko_n: [45, 196]
+    boko_d: [123, 249]
     kaisyu_n: [25, -51]
     kaisyu_d: [51, 10]
-    kaizo_n: [-189, 16]
-    kaizo_d: [-4, 82]
-    map_n: [-172, 84]
-    map_d: [25, 195]
-    ensyuf_n: [-184, 79]
-    ensyuf_d: [25, 166]
-    ensyue_n: [-174, 0]
-    battle_n: [-112, 109]
-    battle_d: [90, 216]
-    wed_a: [513, 82]
-    wed_b: [115, 175]
+    kaizo_n: [51, 82]
+    kaizo_d: [136, 102]
+    map_n: [55, 169]
+    map_d: [145, 190]
+    ensyuf_n: [76, 171]
+    ensyuf_d: [156, 178]
+    ensyue_n: [69, 0]
+    battle_n: [133, 190]
+    battle_d: [205, 207]
+    wed_a: [261, -21]
+    wed_b: [118, 193]
   wiki_id: "468"
   chinese_name: 矢矧改二乙
   can_drop: false

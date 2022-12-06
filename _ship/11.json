@@ -13,8 +13,8 @@ data:
   after_ship_id: 204
   get_mes: 深雪だよ。<br>よろしくな！
   voice_f: 0
-  filename: cdidanqovcfr
-  file_version: ["18", "11", "910"]
+  filename: cdidanqovcxs
+  file_version: ["19", "11", "1206"]
   book_table_id: [11, 5416, 5622]
   book_sinfo: 特型駆逐艦４番艦の深雪さまだよ！<br>演習中に他の駆逐艦とぶつかって事故っちゃったこと<br>もあるんだ。<br>まー、でもやるときゃやるぜ。みてなって！
   stats:

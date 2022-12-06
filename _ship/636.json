@@ -13,8 +13,8 @@ data:
   after_ship_id: 607
   get_mes: 伊号潜水艦、巡潜丙型の七番艦、伊四十七。<br>ヨナって、呼んでくださいな。　ヨナですよ？<br>うふふ、提督、いいですか？
   voice_f: 1
-  filename: fkctbjiyyefn
-  file_version: ["76", "1", "910"]
+  filename: fkctbjiyyexs
+  file_version: ["81", "1", "1206"]
   book_table_id: [636, 5446, 5474, 5490, 5505, 5529, 5592, 5615, 5627]
   book_sinfo: 佐世保生まれの伊号第四十七潜水艦、伊四十七です。<br>後期の主力潜水艦の例に漏れず、あの兵装を主力とし<br>て、ウルシー泊地襲撃やホーランディア、沖縄方面に<br>出撃、終戦まで戦いました。今は五島列島沖の海底で<br>眠っています。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [63, 208]
-    boko_d: [22, 276]
+    boko_n: [27, 210]
+    boko_d: [-54, 318]
     kaisyu_n: [-15, 18]
     kaisyu_d: [-22, -27]
-    kaizo_n: [60, 82]
-    kaizo_d: [-9, 76]
-    map_n: [108, 160]
-    map_d: [33, 181]
-    ensyuf_n: [69, 177]
-    ensyuf_d: [6, 175]
-    ensyue_n: [100, 0]
-    battle_n: [102, 187]
-    battle_d: [40, 219]
-    wed_a: [232, 1]
-    wed_b: [181, 159]
+    kaizo_n: [22, 88]
+    kaizo_d: [-72, 135]
+    map_n: [52, 196]
+    map_d: [-25, 225]
+    ensyuf_n: [43, 178]
+    ensyuf_d: [-16, 213]
+    ensyue_n: [40, 0]
+    battle_n: [90, 223]
+    battle_d: [16, 267]
+    wed_a: [265, -19]
+    wed_b: [211, 181]
   wiki_id: "436"
   chinese_name: 伊47
   can_drop: false

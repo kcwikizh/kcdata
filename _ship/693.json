@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: vgaiehegpply
-  file_version: ["52", "1", "910"]
+  filename: vgaiehegppxs
+  file_version: ["53", "1", "1206"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 1, 2]
     build_time: 70
   graph:
-    boko_n: [-33, 222]
-    boko_d: [-31, 262]
+    boko_n: [132, 219]
+    boko_d: [187, 283]
     kaisyu_n: [19, -7]
     kaisyu_d: [30, -54]
-    kaizo_n: [-30, 78]
-    kaizo_d: [-12, 61]
-    map_n: [-12, 196]
-    map_d: [40, 189]
-    ensyuf_n: [1, 183]
-    ensyuf_d: [-19, 190]
-    ensyue_n: [1, 0]
-    battle_n: [24, 199]
-    battle_d: [28, 190]
-    wed_a: [324, -9]
-    wed_b: [150, 129]
+    kaizo_n: [135, 100]
+    kaizo_d: [192, 67]
+    map_n: [154, 198]
+    map_d: [225, 228]
+    ensyuf_n: [172, 184]
+    ensyuf_d: [232, 192]
+    ensyue_n: [157, 0]
+    battle_n: [220, 214]
+    battle_d: [261, 226]
+    wed_a: [180, -31]
+    wed_b: [118, 169]
   wiki_id: "389a"
   chinese_name: 阿布鲁齐改
   can_drop: false

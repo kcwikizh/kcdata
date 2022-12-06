@@ -13,8 +13,8 @@ data:
   after_ship_id: 362
   get_mes: 陽炎型駆逐艦四番艦、親潮です。<br>司令、第十五駆逐隊、どうぞよろしく<br>ご指導ください。お願いいたします！
   voice_f: 1
-  filename: dvcslbfkmdsy
-  file_version: ["5", "1", "910"]
+  filename: dvcslbfkmdxs
+  file_version: ["54", "1", "1206"]
   book_table_id: [456, 5417]
   book_sinfo: 陽炎型駆逐艦、第四番艦、親潮です。舞鶴生まれで<br>す。僚艦の黒潮さんらと共に、第十五駆逐隊を編成し<br>ました。攻略作戦や航空母艦の護衛、鼠輸送も何度も<br>経験しました。<br>最期の出撃も……黒潮さんと一緒です。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [264, 240]
-    boko_d: [252, 234]
+    boko_n: [126, 231]
+    boko_d: [67, 240]
     kaisyu_n: [6, -12]
     kaisyu_d: [24, 12]
-    kaizo_n: [156, 144]
-    kaizo_d: [138, 150]
+    kaizo_n: [132, 82]
+    kaizo_d: [45, 58]
     map_n: [168, 198]
-    map_d: [120, 210]
-    ensyuf_n: [156, 198]
-    ensyuf_d: [144, 198]
-    ensyue_n: [168, 0]
-    battle_n: [198, 216]
-    battle_d: [186, 228]
-    wed_a: [150, -12]
-    wed_b: [138, 144]
+    map_d: [99, 199]
+    ensyuf_n: [144, 193]
+    ensyuf_d: [58, 193]
+    ensyue_n: [130, 0]
+    battle_n: [172, 208]
+    battle_d: [88, 214]
+    wed_a: [190, -37]
+    wed_b: [151, 166]
   wiki_id: "256"
   chinese_name: 亲潮
   can_drop: true

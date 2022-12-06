@@ -13,8 +13,8 @@ data:
   after_ship_id: 469
   get_mes: <br>
   voice_f: 3
-  filename: litugbpkilsf
-  file_version: ["37", "11", "910"]
+  filename: litugbpkilxs
+  file_version: ["38", "11", "1206"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [108, 192]
-    boko_d: [120, 84]
+    boko_n: [126, 204]
+    boko_d: [102, 108]
     kaisyu_n: [36, -12]
     kaisyu_d: [60, -18]
-    kaizo_n: [72, 96]
-    kaizo_d: [60, -60]
-    map_n: [72, 144]
-    map_d: [96, 48]
-    ensyuf_n: [84, 138]
-    ensyuf_d: [108, 36]
-    ensyue_n: [60, 0]
-    battle_n: [96, 156]
-    battle_d: [108, 48]
-    wed_a: [228, 48]
-    wed_b: [192, 168]
+    kaizo_n: [12, 96]
+    kaizo_d: [0, 12]
+    map_n: [24, 192]
+    map_d: [12, 72]
+    ensyuf_n: [30, 192]
+    ensyuf_d: [0, 72]
+    ensyue_n: [18, 0]
+    battle_n: [48, 204]
+    battle_d: [24, 96]
+    wed_a: [300, 6]
+    wed_b: [174, 192]
   wiki_id: "259a"
   chinese_name: 江风改
   can_drop: false

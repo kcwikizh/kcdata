@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: nolhhoujolpc
-  file_version: ["42", "27", "910"]
+  file_version: ["44", "27", "1206"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 3]
     build_time: 240
   graph:
-    boko_n: [139, 100]
-    boko_d: [156, 82]
+    boko_n: [246, 207]
+    boko_d: [120, 204]
     kaisyu_n: [60, 1]
     kaisyu_d: [78, -24]
-    kaizo_n: [64, 19]
-    kaizo_d: [75, -3]
-    map_n: [102, 97]
-    map_d: [156, 108]
-    ensyuf_n: [115, 84]
-    ensyuf_d: [55, 42]
-    ensyue_n: [79, 0]
-    battle_n: [99, 63]
-    battle_d: [97, 63]
-    wed_a: [112, 114]
-    wed_b: [204, 210]
+    kaizo_n: [162, 114]
+    kaizo_d: [24, 90]
+    map_n: [192, 180]
+    map_d: [72, 186]
+    ensyuf_n: [168, 192]
+    ensyuf_d: [60, 192]
+    ensyue_n: [168, 0]
+    battle_n: [204, 198]
+    battle_d: [96, 198]
+    wed_a: [156, -6]
+    wed_b: [144, 168]
   wiki_id: "023a"
   chinese_name: 榛名改
   can_drop: false

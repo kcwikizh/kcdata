@@ -13,8 +13,8 @@ data:
   after_ship_id: 609
   get_mes: Hoi ！　貴方が噂のこの艦隊の提督ね！<br>私は、オランダ軽巡 De Ruyter！　 わかる？<br>わかるわかる？　そ、結構、いいから、私！　任せて。
   voice_f: 1
-  filename: kskvawgvqhmy
-  file_version: ["65", "1", "910"]
+  filename: kskvawgvqhxs
+  file_version: ["66", "1", "1206"]
   book_table_id: [604, 5415, 5423]
   book_sinfo: オランダ生まれの軽巡洋艦、De Ruyterよ。<br>新型主砲と強力な対空機銃座を集中配備した新しいコ<br>ンセプトの軽巡として、当時のオランダ領東インドに<br>配備されたの。ABDA艦隊の旗艦として戦ったけど…<br>日本の重巡、あれはやばいわ…わかるわかる！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 2]
     build_time: 60
   graph:
-    boko_n: [4, 205]
-    boko_d: [85, 232]
+    boko_n: [40, 232]
+    boko_d: [162, 213]
     kaisyu_n: [46, -31]
     kaisyu_d: [81, -18]
-    kaizo_n: [1, 69]
-    kaizo_d: [79, 79]
-    map_n: [37, 181]
-    map_d: [153, 214]
+    kaizo_n: [46, 91]
+    kaizo_d: [154, 90]
+    map_n: [37, 189]
+    map_d: [187, 207]
     ensyuf_n: [48, 172]
-    ensyuf_d: [172, 193]
+    ensyuf_d: [178, 193]
     ensyue_n: [34, 0]
-    battle_n: [39, 204]
-    battle_d: [130, 226]
-    wed_a: [325, 4]
-    wed_b: [73, 147]
+    battle_n: [69, 204]
+    battle_d: [204, 237]
+    wed_a: [325, -1]
+    wed_b: [73, 153]
   wiki_id: "399"
   chinese_name: 德·鲁伊特
   can_drop: false

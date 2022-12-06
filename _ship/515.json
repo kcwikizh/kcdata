@@ -14,7 +14,7 @@ data:
   get_mes: 私は、Her Majesty’s Ship Ark Royal。<br>Admiral…貴方が……。……よろしく。
   voice_f: 1
   filename: ohxbfeywubre
-  file_version: ["52", "8", "910"]
+  file_version: ["52", "10", "1206"]
   book_table_id: [515]
   book_sinfo: Her Majesty’s Ship Ark Royal。本格的な艦隊型航空母艦として就役し、大西洋や地中海まで数々の作戦に参加した。あの戦艦Bismarck追撃戦では、この必殺のSwordfishを放ったな。U-boatか……あれは危険だ。水面下の敵には気をつける。
   stats:

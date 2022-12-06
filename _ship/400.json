@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: fggcskrfkpnr
-  file_version: ["18", "11", "910"]
+  filename: fggcskrfkpxs
+  file_version: ["19", "11", "1206"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 0]
     build_time: 22
   graph:
-    boko_n: [96, 156]
-    boko_d: [96, 156]
+    boko_n: [165, 222]
+    boko_d: [300, 234]
     kaisyu_n: [24, -12]
     kaisyu_d: [36, 12]
-    kaizo_n: [84, 48]
-    kaizo_d: [84, 48]
-    map_n: [48, 96]
-    map_d: [48, 96]
-    ensyuf_n: [84, 108]
-    ensyuf_d: [84, 30]
-    ensyue_n: [-72, 0]
-    battle_n: [72, 120]
-    battle_d: [72, 120]
-    wed_a: [241, 118]
-    wed_b: [208, 196]
+    kaizo_n: [96, 120]
+    kaizo_d: [252, 96]
+    map_n: [132, 192]
+    map_d: [288, 204]
+    ensyuf_n: [96, 210]
+    ensyuf_d: [270, 210]
+    ensyue_n: [108, 0]
+    battle_n: [144, 222]
+    battle_d: [294, 222]
+    wed_a: [234, -24]
+    wed_b: [150, 180]
   wiki_id: "128a"
   chinese_name: 伊8改
   can_drop: false

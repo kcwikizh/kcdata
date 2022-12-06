@@ -14,9 +14,9 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: qjkjyqhsvcpx
-  file_version: ["17", "16", "910"]
-  book_table_id: [200, 1015]
-  book_sinfo: 長良型軽巡洋艦の阿武隈です。<br>はい…正直いって、北上さんは苦手です。なに、あの人…でも、艦首もきれいに直して頑張りました！<br>潮ちゃんも…ありがとね…。
+  file_version: ["19", "16", "1206"]
+  book_table_id: [200, 5287, 5674]
+  book_sinfo: 長良型軽巡洋艦の阿武隈です。<br>はい…正直いって、北上さんは苦手です。なに、あの<br>人…でも、艦首もきれいに直して頑張りました！<br>潮ちゃんも…ありがとね…。
   stats:
     taik: [45, 61]
     souk: [29, 68]

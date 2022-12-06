@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
-  filename: ilnimhfcivpt
-  file_version: ["25", "12", "910"]
+  filename: ilnimhfcivxs
+  file_version: ["26", "12", "1206"]
   book_table_id: [189, 834]
   book_sinfo: 筑摩です。<br>連装主砲4基を前甲板に集中させ、充実した索敵水偵を搭載した利根型重巡洋艦２番艦です。<br>生まれは長崎よ。利根姉さんと一緒に、あの南雲機動部隊の、大切な眼の役目を務めたの。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 3, 2]
     build_time: 90
   graph:
-    boko_n: [72, 192]
-    boko_d: [168, 216]
+    boko_n: [198, 198]
+    boko_d: [258, 204]
     kaisyu_n: [12, 24]
     kaisyu_d: [96, -12]
-    kaizo_n: [0, 120]
-    kaizo_d: [84, 72]
-    map_n: [48, 192]
-    map_d: [120, 192]
-    ensyuf_n: [96, 168]
-    ensyuf_d: [144, 168]
-    ensyue_n: [24, 0]
-    battle_n: [54, 168]
-    battle_d: [120, 168]
-    wed_a: [276, 0]
-    wed_b: [168, 168]
+    kaizo_n: [150, 96]
+    kaizo_d: [204, 66]
+    map_n: [192, 174]
+    map_d: [234, 150]
+    ensyuf_n: [156, 162]
+    ensyuf_d: [210, 156]
+    ensyue_n: [132, 0]
+    battle_n: [168, 198]
+    battle_d: [246, 180]
+    wed_a: [222, 60]
+    wed_b: [132, 204]
   wiki_id: "189"
   chinese_name: 筑摩改二
   can_drop: false

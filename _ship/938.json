@@ -6,17 +6,17 @@ data:
   name: Massachusetts改
   yomi: マサチューセッツ
   stype: 8
-  ctype: 
-  cnum: 
+  ctype: 102
+  cnum: 3
   backs: 8
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: whirydyatrog
-  file_version: ["51", "1", "910"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "1206"]
+  book_table_id: [938]
+  book_sinfo: South Dakota class USS Battleship <br>Massachusettsだ。就役してまもなく、大西洋から<br>トーチ作戦に参加、当時枢軸側だった仏戦艦らと撃<br>ち合ったさ。いつか…いつか会いに来てくれよな。<br>Come see me！
   stats:
     taik: [91, 101]
     souk: [86, 109]
@@ -26,8 +26,8 @@ data:
     luck: [45, 125]
     soku: 10
     leng: 3
-    kaih: 
-    tais: 
+    kaih: 35
+    tais: 0
     slot_num: 4
     max_eq: [0, 2, 3, 3, 0]
     after_fuel: 
@@ -54,7 +54,7 @@ data:
     wed_a: [592, 136]
     wed_b: [124, 196]
   wiki_id: "538"
-  chinese_name: 马萨诸塞改 
+  chinese_name: 马萨诸塞改
   can_drop: false
   can_construct: false
 ---

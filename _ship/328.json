@@ -13,16 +13,16 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: pyfdxrfqwldn
-  file_version: ["39", "9", "910"]
+  filename: pyfdxrfqwlxs
+  file_version: ["41", "9", "1206"]
   book_table_id: 
   book_sinfo: 
   stats:
     taik: [31, 49]
     souk: [14, 48]
     houg: [12, 49]
-    raig: [28, 79]
-    tyku: [16, 49]
+    raig: [28, 80]
+    tyku: [16, 50]
     luck: [11, 58]
     soku: 10
     leng: 1
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [180, 84]
-    boko_d: [120, 192]
+    boko_n: [78, 126]
+    boko_d: [204, 156]
     kaisyu_n: [18, -12]
     kaisyu_d: [60, -12]
-    kaizo_n: [120, -12]
-    kaizo_d: [72, 12]
-    map_n: [132, 72]
-    map_d: [96, 144]
-    ensyuf_n: [144, 48]
-    ensyuf_d: [120, 120]
-    ensyue_n: [132, 0]
-    battle_n: [168, 72]
-    battle_d: [96, 156]
-    wed_a: [168, 132]
-    wed_b: [168, 192]
+    kaizo_n: [0, 42]
+    kaizo_d: [114, 36]
+    map_n: [0, 90]
+    map_d: [120, 126]
+    ensyuf_n: [-12, 90]
+    ensyuf_d: [114, 132]
+    ensyue_n: [12, 0]
+    battle_n: [12, 120]
+    battle_d: [144, 162]
+    wed_a: [360, 78]
+    wed_b: [126, 174]
   wiki_id: "214a"
   chinese_name: 山云改
   can_drop: false

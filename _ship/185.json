@@ -13,8 +13,8 @@ data:
   after_ship_id: 318
   get_mes: <br>
   voice_f: 3
-  filename: bfsrsnqivpms
-  file_version: ["61", "3", "910"]
+  filename: bfsrsnqivpxs
+  file_version: ["63", "3", "1206"]
   book_table_id: [185, 5153, 5128, 5483, 5499]
   book_sinfo: 潜水母艦改装空母の龍鳳です。<br>機関の換装の影響で速度は計画通りには出なかったけ<br>れど、このクラスの軽空母としては充実の飛行甲板と<br>兵装なんです。<br>空母龍鳳、精一杯頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 2, 2]
     build_time: 160
   graph:
-    boko_n: [-24, 192]
-    boko_d: [60, 240]
+    boko_n: [196, 205]
+    boko_d: [127, 210]
     kaisyu_n: [12, 12]
     kaisyu_d: [54, 24]
-    kaizo_n: [-96, 96]
-    kaizo_d: [24, 48]
-    map_n: [-48, 168]
-    map_d: [48, 192]
-    ensyuf_n: [-24, 168]
-    ensyuf_d: [96, 192]
-    ensyue_n: [-48, 0]
-    battle_n: [-48, 168]
-    battle_d: [48, 168]
-    wed_a: [312, 12]
-    wed_b: [240, 216]
+    kaizo_n: [186, 90]
+    kaizo_d: [94, 66]
+    map_n: [237, 168]
+    map_d: [153, 165]
+    ensyuf_n: [196, 171]
+    ensyuf_d: [106, 168]
+    ensyue_n: [223, 0]
+    battle_n: [244, 196]
+    battle_d: [154, 181]
+    wed_a: [114, -6]
+    wed_b: [168, 151]
   wiki_id: "185"
   chinese_name: 龙凤
   can_drop: false
