@@ -8,7 +8,7 @@ data:
   description: 謹賀新年です！新たな年を<br>迎える鎮守府に配置される<br>大型の門松です。配置場所<br>は…もちろん鎮守府の門に<br>も配備されているのです！
   rarity: 4
   price: 5000
-  saleflg: 0
+  saleflg: 1
   season: 11
   filename: 
   file_version: 

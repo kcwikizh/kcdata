@@ -8,7 +8,7 @@ data:
   description: 一部提督の熱い支持により<br>鎮守府に持ち込まれること<br>になった麻雀卓。艦隊勤務<br>中には使用せず、非番の時<br>に楽しんでいる…ハズ。
   rarity: 4
   price: 3000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "023"
   file_version: 23

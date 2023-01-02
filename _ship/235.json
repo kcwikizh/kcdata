@@ -14,15 +14,15 @@ data:
   get_mes: <br>
   voice_f: 0
   filename: wpaqzeclspdr
-  file_version: ["3", "3", "1206"]
+  file_version: ["3", "3", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
     taik: [30, 49]
     souk: [13, 49]
-    houg: [12, 49]
+    houg: [12, 50]
     raig: [28, 79]
-    tyku: [15, 49]
+    tyku: [15, 51]
     luck: [12, 59]
     soku: 10
     leng: 1

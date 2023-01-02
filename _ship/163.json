@@ -13,8 +13,8 @@ data:
   after_ship_id: 402
   get_mes: 初めまして…まるゆ着任しました。<br>え？聞いてないって…そんなあ！
   voice_f: 3
-  filename: joaeulumcgxs
-  file_version: ["15", "1", "1206"]
+  filename: joaeulumcgbh
+  file_version: ["16", "1", "101"]
   book_table_id: [163, 836]
   book_sinfo: まるゆは海軍工廠出身じゃないので、同郷のお友達がいないんです。皆さんとちょっと違うっていうか…木曾さんには第一声で「何だお前、潜れるのか？」なんて言われちゃうし…まるゆ、ここで上手くやっていけるのかなあ…。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 0, 1]
     build_time: 17
   graph:
-    boko_n: [258, 246]
-    boko_d: [300, 246]
+    boko_n: [192, 192]
+    boko_d: [192, 252]
     kaisyu_n: [36, 0]
     kaisyu_d: [108, -12]
-    kaizo_n: [246, 150]
-    kaizo_d: [234, 144]
-    map_n: [264, 204]
-    map_d: [258, 204]
-    ensyuf_n: [246, 198]
-    ensyuf_d: [252, 204]
-    ensyue_n: [234, 0]
-    battle_n: [288, 234]
-    battle_d: [288, 234]
-    wed_a: [66, -6]
-    wed_b: [156, 192]
+    kaizo_n: [192, 108]
+    kaizo_d: [168, 144]
+    map_n: [192, 192]
+    map_d: [216, 192]
+    ensyuf_n: [252, 180]
+    ensyuf_d: [216, 108]
+    ensyue_n: [192, 0]
+    battle_n: [216, 168]
+    battle_d: [216, 192]
+    wed_a: [72, 0]
+    wed_b: [222, 208]
   wiki_id: "163"
   chinese_name: 丸输
   can_drop: true

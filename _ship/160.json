@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: lvjcqqulblxs
-  file_version: ["25", "12", "1206"]
+  filename: lvjcqqulbluo
+  file_version: ["26", "12", "101"]
   book_table_id: [160, 902]
   book_sinfo: 第４水雷戦隊のセンターも務めた那珂だよ！<br>お仕事沢山入ってて、輸送船の護衛任務や、トラック島から南方への輸送任務とか…<br>…え、地方巡業じゃんって？ そんなことないしっ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [-12, 192]
-    boko_d: [18, 84]
+    boko_n: [96, 168]
+    boko_d: [168, 216]
     kaisyu_n: [9, 18]
     kaisyu_d: [48, 12]
-    kaizo_n: [-48, 60]
-    kaizo_d: [-48, -72]
-    map_n: [-84, 156]
-    map_d: [-36, 36]
-    ensyuf_n: [-48, 156]
-    ensyuf_d: [-24, -24]
-    ensyue_n: [-72, 0]
-    battle_n: [-36, 168]
-    battle_d: [12, 36]
-    wed_a: [432, 72]
-    wed_b: [156, 120]
+    kaizo_n: [96, 96]
+    kaizo_d: [168, 66]
+    map_n: [72, 108]
+    map_d: [156, 168]
+    ensyuf_n: [120, 120]
+    ensyuf_d: [168, 144]
+    ensyue_n: [96, 0]
+    battle_n: [96, 120]
+    battle_d: [180, 168]
+    wed_a: [228, 61]
+    wed_b: [163, 183]
   wiki_id: "160"
   chinese_name: 那珂改二
   can_drop: false

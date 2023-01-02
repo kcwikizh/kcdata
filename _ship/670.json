@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 陽炎型駆逐艦四番艦、親潮です。<br>司令、第十五駆逐隊、どうぞよろしく<br>ご指導ください。お願いいたします！
   voice_f: 3
-  filename: rsnurramjsxs
-  file_version: ["54", "1", "1206"]
+  filename: rsnurramjswd
+  file_version: ["55", "1", "101"]
   book_table_id: [670]
   book_sinfo: 陽炎型駆逐艦、第四番艦、親潮です。舞鶴生まれで<br>す。僚艦の黒潮さんらと共に、第十五駆逐隊を編成し<br>ました。攻略作戦や航空母艦の護衛、鼠輸送も何度も<br>経験しました。<br>最期の出撃も……黒潮さんと一緒です。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [126, 231]
-    boko_d: [67, 240]
+    boko_n: [30, 220]
+    boko_d: [97, 229]
     kaisyu_n: [30, 10]
     kaisyu_d: [51, -34]
-    kaizo_n: [132, 82]
-    kaizo_d: [45, 58]
-    map_n: [168, 198]
-    map_d: [99, 199]
-    ensyuf_n: [144, 193]
-    ensyuf_d: [58, 193]
-    ensyue_n: [130, 0]
-    battle_n: [172, 208]
-    battle_d: [88, 214]
-    wed_a: [190, -37]
-    wed_b: [151, 166]
+    kaizo_n: [43, 108]
+    kaizo_d: [99, 79]
+    map_n: [40, 195]
+    map_d: [127, 207]
+    ensyuf_n: [46, 187]
+    ensyuf_d: [120, 189]
+    ensyue_n: [52, 0]
+    battle_n: [105, 217]
+    battle_d: [169, 214]
+    wed_a: [286, -39]
+    wed_b: [115, 172]
   wiki_id: "470"
   chinese_name: 親潮改二
   can_drop: false

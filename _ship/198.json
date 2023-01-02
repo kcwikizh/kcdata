@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
-  filename: wewrcinqshxs
-  file_version: ["20", "23", "1206"]
+  filename: wewrcinqshhk
+  file_version: ["21", "23", "101"]
   book_table_id: [198]
   book_sinfo: 霰は、マル２計画で建造された最後の駆逐艦…。<br>朝潮型シリーズの…最終艦でも…あるの…。<br>この後は…陽炎型だから…
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [300, 210]
-    boko_d: [288, 210]
+    boko_n: [177, 210]
+    boko_d: [189, 135]
     kaisyu_n: [30, 18]
     kaisyu_d: [60, 6]
-    kaizo_n: [246, 108]
-    kaizo_d: [216, 84]
-    map_n: [276, 198]
-    map_d: [246, 204]
-    ensyuf_n: [240, 198]
-    ensyuf_d: [240, 204]
-    ensyue_n: [240, 0]
-    battle_n: [294, 204]
-    battle_d: [270, 204]
-    wed_a: [72, -12]
-    wed_b: [147, 192]
+    kaizo_n: [123, 114]
+    kaizo_d: [135, 12]
+    map_n: [168, 186]
+    map_d: [180, 120]
+    ensyuf_n: [138, 192]
+    ensyuf_d: [162, 108]
+    ensyue_n: [138, 0]
+    battle_n: [204, 210]
+    battle_d: [198, 135]
+    wed_a: [186, -12]
+    wed_b: [126, 186]
   wiki_id: "198"
   chinese_name: 霰改二
   can_drop: false

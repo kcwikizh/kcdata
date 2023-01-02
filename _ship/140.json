@@ -13,8 +13,8 @@ data:
   after_ship_id: 314
   get_mes: ぴゃん♪　阿賀野型軽巡四番艦、酒匂です！<br>司令、よろしくね！
   voice_f: 3
-  filename: vrtbgpzuepxs
-  file_version: ["23", "9", "1206"]
+  filename: vrtbgpzuepqx
+  file_version: ["24", "9", "101"]
   book_table_id: [140, 5370, 5506]
   book_sinfo: 阿賀野型軽巡姉妹の末っ子、四番艦の酒匂だよ。<br>生まれるのが遅すぎたかな、あまりお外にはいけな<br>かった。矢矧ちゃんと一緒に行きたかったけど…舞鶴<br>でお留守番したの。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [151, 198]
-    boko_d: [175, 222]
+    boko_n: [-48, 156]
+    boko_d: [60, 192]
     kaisyu_n: [24, 24]
     kaisyu_d: [48, 48]
-    kaizo_n: [166, 70]
-    kaizo_d: [157, 64]
-    map_n: [205, 163]
-    map_d: [195, 172]
-    ensyuf_n: [183, 168]
-    ensyuf_d: [184, 171]
-    ensyue_n: [154, 0]
-    battle_n: [231, 172]
-    battle_d: [232, 177]
-    wed_a: [139, 1]
-    wed_b: [118, 157]
+    kaizo_n: [-96, 72]
+    kaizo_d: [-36, 60]
+    map_n: [-96, 144]
+    map_d: [-12, 192]
+    ensyuf_n: [-12, 168]
+    ensyuf_d: [48, 144]
+    ensyue_n: [-96, 0]
+    battle_n: [-48, 144]
+    battle_d: [48, 144]
+    wed_a: [384, 48]
+    wed_b: [168, 168]
   wiki_id: "140"
   chinese_name: 酒匂
   can_drop: true

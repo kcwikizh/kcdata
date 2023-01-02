@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
-  filename: bziextvlyhxs
-  file_version: ["60", "17", "1206"]
+  filename: bziextvlyhwr
+  file_version: ["61", "17", "101"]
   book_table_id: [559]
   book_sinfo: 谷風さんだよ。<br>あのミッドウェー海戦では、飛龍を助けようとしてた<br>ら、くそ敵機から雨あられの集中爆撃…。あんと<br>きゃ、まいったけど、勝見艦長がすげえんだ、マジ<br>で。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [138, 192]
-    boko_d: [144, 138]
+    boko_n: [48, 124]
+    boko_d: [91, 216]
     kaisyu_n: [36, -12]
     kaisyu_d: [42, -1]
-    kaizo_n: [72, 96]
-    kaizo_d: [120, 0]
-    map_n: [84, 168]
-    map_d: [144, 108]
-    ensyuf_n: [72, 192]
-    ensyuf_d: [138, 102]
-    ensyue_n: [54, 0]
-    battle_n: [96, 198]
-    battle_d: [144, 132]
-    wed_a: [222, 0]
-    wed_b: [180, 216]
+    kaizo_n: [64, 22]
+    kaizo_d: [67, 27]
+    map_n: [144, 91]
+    map_d: [151, 132]
+    ensyuf_n: [108, 90]
+    ensyuf_d: [117, 111]
+    ensyue_n: [94, 0]
+    battle_n: [160, 117]
+    battle_d: [171, 147]
+    wed_a: [214, 109]
+    wed_b: [111, 156]
   wiki_id: "359"
   chinese_name: 谷风丁改
   can_drop: false

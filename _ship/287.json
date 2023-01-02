@@ -13,8 +13,8 @@ data:
   after_ship_id: 412
   get_mes: <br>
   voice_f: 1
-  filename: bnbdxfioqxtt
-  file_version: ["47", "21", "1206"]
+  filename: bnbdxfioqxys
+  file_version: ["48", "21", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 4]
     build_time: 260
   graph:
-    boko_n: [-120, 120]
-    boko_d: [-67, 138]
+    boko_n: [144, 231]
+    boko_d: [204, 222]
     kaisyu_n: [16, -10]
     kaisyu_d: [48, 42]
-    kaizo_n: [-156, 27]
-    kaizo_d: [-124, 6]
-    map_n: [-160, 58]
-    map_d: [-100, 88]
-    ensyuf_n: [-106, 48]
-    ensyuf_d: [12, 42]
-    ensyue_n: [-118, 0]
-    battle_n: [-133, 120]
-    battle_d: [-129, 120]
-    wed_a: [439, 73]
-    wed_b: [169, 187]
+    kaizo_n: [84, 144]
+    kaizo_d: [144, 84]
+    map_n: [54, 186]
+    map_d: [138, 156]
+    ensyuf_n: [96, 210]
+    ensyuf_d: [144, 180]
+    ensyue_n: [72, 0]
+    battle_n: [138, 216]
+    battle_d: [174, 174]
+    wed_a: [168, -12]
+    wed_b: [162, 192]
   wiki_id: "027a"
   chinese_name: 山城改
   can_drop: false

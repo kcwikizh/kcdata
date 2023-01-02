@@ -13,8 +13,8 @@ data:
   after_ship_id: 508
   get_mes: <br>
   voice_f: 3
-  filename: zkiopeqgwlxs
-  file_version: ["64", "1", "1206"]
+  filename: zkiopeqgwlog
+  file_version: ["65", "1", "101"]
   book_table_id: [503, 1018]
   book_sinfo: 鈴谷は、最上型重巡洋艦の３番艦。横須賀海軍工廠生まれなんだよ～、ふふ～ん。巡洋艦の名前は川由来なんだけど、鈴谷は樺太の鈴谷川がその由来なの。知ってた？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 3, 2]
     build_time: 100
   graph:
-    boko_n: [264, 222]
-    boko_d: [108, 252]
+    boko_n: [42, 216]
+    boko_d: [234, 246]
     kaisyu_n: [18, -9]
     kaisyu_d: [78, -12]
-    kaizo_n: [222, 144]
-    kaizo_d: [0, 132]
-    map_n: [216, 198]
-    map_d: [36, 216]
-    ensyuf_n: [216, 192]
-    ensyuf_d: [18, 216]
-    ensyue_n: [186, 0]
-    battle_n: [246, 222]
-    battle_d: [42, 240]
-    wed_a: [108, -18]
-    wed_b: [138, 156]
+    kaizo_n: [6, 120]
+    kaizo_d: [168, 102]
+    map_n: [24, 186]
+    map_d: [180, 210]
+    ensyuf_n: [12, 192]
+    ensyuf_d: [180, 204]
+    ensyue_n: [12, 0]
+    battle_n: [54, 210]
+    battle_d: [216, 234]
+    wed_a: [318, -12]
+    wed_b: [138, 150]
   wiki_id: "303"
   chinese_name: 铃谷改二
   can_drop: false

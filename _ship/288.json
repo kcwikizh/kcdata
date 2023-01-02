@@ -13,8 +13,8 @@ data:
   after_ship_id: 461
   get_mes: <br>
   voice_f: 3
-  filename: vcftaofxkvxs
-  file_version: ["26", "19", "1206"]
+  filename: vcftaofxkvys
+  file_version: ["28", "19", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 3]
     build_time: 360
   graph:
-    boko_n: [126, 198]
-    boko_d: [138, 243]
+    boko_n: [208, 196]
+    boko_d: [120, 217]
     kaisyu_n: [16, 34]
     kaisyu_d: [22, 37]
-    kaizo_n: [72, 114]
-    kaizo_d: [72, 102]
-    map_n: [108, 168]
-    map_d: [120, 192]
-    ensyuf_n: [66, 198]
-    ensyuf_d: [84, 198]
-    ensyue_n: [48, 0]
-    battle_n: [126, 198]
-    battle_d: [144, 210]
-    wed_a: [276, -12]
-    wed_b: [132, 180]
+    kaizo_n: [199, 67]
+    kaizo_d: [91, 60]
+    map_n: [220, 174]
+    map_d: [114, 187]
+    ensyuf_n: [205, 172]
+    ensyuf_d: [106, 184]
+    ensyue_n: [208, 0]
+    battle_n: [244, 196]
+    battle_d: [154, 211]
+    wed_a: [133, -16]
+    wed_b: [129, 178]
   wiki_id: "106a"
   chinese_name: 翔鹤改
   can_drop: false

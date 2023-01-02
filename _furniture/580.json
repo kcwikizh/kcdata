@@ -8,7 +8,7 @@ data:
   description: クリスマスシーズンを盛り<br>上げる新作の赤い壁です。<br>暖かい冬用のマットと組み<br>合わせて、素敵な鎮守府の<br>クリスマスを！
   rarity: 3
   price: 1400
-  saleflg: 1
+  saleflg: 0
   season: 22
   filename: 
   file_version: 

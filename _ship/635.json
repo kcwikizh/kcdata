@@ -13,9 +13,9 @@ data:
   after_ship_id: 640
   get_mes: 提督、迅鯨型潜水母艦二番艦、長鯨です！<br>いつも姉が大変お世話になっています！<br>はいっ！　潜水艦のお世話はあたしにお任せですよ？
   voice_f: 1
-  filename: xnelpbkqncxs
-  file_version: ["60", "7", "1206"]
-  book_table_id: [635, 5579, 5629, 5664, 5665]
+  filename: xnelpbkqncys
+  file_version: ["62", "8", "101"]
+  book_table_id: [635, 5579, 5629, 5664, 5665, 5695]
   book_sinfo: 迅鯨型潜水母艦の二番艦、長鯨。<br>迅鯨姉さんの妹です。少しだけ旧式ですが、最新潜水<br>母艦が空母に改装されたので、最前線の潜水母艦に再<br>配備されました！潜水母艦として、さらに輸送任務や<br>対空戦闘、戦いが終わった後も大切なお仕事、頑張り<br>ました！姉さん共々、忘れないでね。
   stats:
     taik: [31, 49]
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 1]
     build_time: 150
   graph:
-    boko_n: [124, 190]
-    boko_d: [147, 160]
+    boko_n: [28, 223]
+    boko_d: [43, 273]
     kaisyu_n: [-7, 16]
     kaisyu_d: [58, -19]
-    kaizo_n: [121, 85]
-    kaizo_d: [141, 7]
-    map_n: [126, 160]
-    map_d: [172, 126]
-    ensyuf_n: [144, 160]
-    ensyuf_d: [181, 103]
-    ensyue_n: [124, 0]
-    battle_n: [148, 190]
-    battle_d: [219, 147]
-    wed_a: [184, -4]
-    wed_b: [142, 181]
+    kaizo_n: [46, 100]
+    kaizo_d: [43, 82]
+    map_n: [37, 196]
+    map_d: [70, 196]
+    ensyuf_n: [37, 183]
+    ensyuf_d: [76, 171]
+    ensyue_n: [39, 0]
+    battle_n: [64, 220]
+    battle_d: [100, 208]
+    wed_a: [295, -34]
+    wed_b: [115, 166]
   wiki_id: "435"
   chinese_name: 长鲸
   can_drop: true

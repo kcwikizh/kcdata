@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: cokndlimiuxs
-  file_version: ["78", "15", "1206"]
+  filename: cokndlimiuys
+  file_version: ["80", "15", "101"]
   book_table_id: [639, 5489, 5525]
   book_sinfo: 迅鯨型潜水母艦一番艦、迅鯨です。八八艦隊計画の流れの中で生まれました。潜水戦隊の旗艦としてはもちろん、練習艦や輸送任務でも活躍しました。日本初の本格的な設計の潜水母艦、妹の長鯨共々、どうぞよろしくお願いします。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 2]
     build_time: 150
   graph:
-    boko_n: [43, 210]
-    boko_d: [73, 162]
+    boko_n: [73, 214]
+    boko_d: [-22, 382]
     kaisyu_n: [24, 22]
     kaisyu_d: [58, -6]
-    kaizo_n: [21, 87]
-    kaizo_d: [52, 22]
-    map_n: [85, 172]
-    map_d: [93, 124]
-    ensyuf_n: [31, 181]
-    ensyuf_d: [94, 133]
-    ensyue_n: [16, 0]
-    battle_n: [76, 210]
-    battle_d: [139, 163]
-    wed_a: [280, -16]
-    wed_b: [162, 163]
+    kaizo_n: [88, 99]
+    kaizo_d: [-19, 136]
+    map_n: [112, 211]
+    map_d: [106, 297]
+    ensyuf_n: [115, 190]
+    ensyuf_d: [97, 244]
+    ensyue_n: [120, 0]
+    battle_n: [156, 213]
+    battle_d: [106, 288]
+    wed_a: [226, -34]
+    wed_b: [109, 175]
   wiki_id: "439"
   chinese_name: 迅鲸改
   can_drop: false

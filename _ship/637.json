@@ -13,8 +13,8 @@ data:
   after_ship_id: 701
   get_mes: マル戦計画で生まれた丁型海防艦、その二番艦<br>第四号海防艦でっすー。そうね～ぇ、よつ……って<br>呼んでくれていいよぉ？　ていとく、よろしくねぇ！
   voice_f: 1
-  filename: zhnvmyoxuexs
-  file_version: ["73", "1", "1206"]
+  filename: zhnvmyoxueys
+  file_version: ["75", "1", "101"]
   book_table_id: [637, 5481, 5518, 5577, 5589, 5600, 5609, 5619, 5631, 5671]
   book_sinfo: マル戦計画で生まれた丁型海防艦、その二番艦、第四<br>号海防艦でっすー。ちっちゃいけれど、ものすごく頑<br>張りました！横須賀の防備や、マリアナや小笠原、敵<br>の潜水艦だって負けません！最後は伊勢湾…松にも<br>らった命、頑張りました！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [247, 244]
-    boko_d: [214, 265]
+    boko_n: [58, 298]
+    boko_d: [97, 274]
     kaisyu_n: [52, -15]
     kaisyu_d: [61, -1]
-    kaizo_n: [231, 126]
-    kaizo_d: [172, 88]
-    map_n: [270, 208]
-    map_d: [220, 208]
-    ensyuf_n: [258, 199]
-    ensyuf_d: [204, 201]
-    ensyue_n: [244, 0]
-    battle_n: [271, 232]
-    battle_d: [232, 244]
-    wed_a: [55, -36]
-    wed_b: [123, 165]
+    kaizo_n: [94, 163]
+    kaizo_d: [99, 115]
+    map_n: [109, 259]
+    map_d: [139, 249]
+    ensyuf_n: [132, 259]
+    ensyuf_d: [127, 247]
+    ensyue_n: [39, 0]
+    battle_n: [147, 298]
+    battle_d: [178, 283]
+    wed_a: [229, -64]
+    wed_b: [162, 189]
   wiki_id: "437"
   chinese_name: 第四号海防舰
   can_drop: true

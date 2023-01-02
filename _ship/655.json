@@ -14,7 +14,7 @@ data:
   get_mes: Nice meeting you.<br>Northampton級一番艦、Northampton、ここに。<br>あなたが Admiral?　ご一緒にまいりましょう！
   voice_f: 1
   filename: mfimczjhffyx
-  file_version: ["55", "5", "1206"]
+  file_version: ["55", "5", "101"]
   book_table_id: [655, 5580]
   book_sinfo: ノーザンプトン級重巡洋艦一番艦、ノーザンプトンで<br>す。あのエンタープライズの機動部隊、護衛の中核と<br>して、さらにホーネットの護衛にも就きました。<br>そして、運命のアイアンボトムサウンドへ突入しまし<br>た。鼠輸送を阻止するために。日本の水雷戦隊、あの<br>夜のその力、それは驚異です。
   stats:

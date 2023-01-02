@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: vccipwaytjxq
-  file_version: ["56", "27", "1206"]
+  filename: vccipwaytjys
+  file_version: ["57", "27", "101"]
   book_table_id: [592, 5492]
   book_sinfo: 井上提督も愛した巡洋戦艦、比叡です。<br>ぴかぴかに肌を磨いて、御召艦としても活躍したの。<br>大和型のテスト艦にもなったのよ、知ってた？<br>え？ソロモン海戦？そうよ、奮闘したわ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 1, 2, 4]
     build_time: 240
   graph:
-    boko_n: [-216, 208]
-    boko_d: [-16, 204]
+    boko_n: [-22, 204]
+    boko_d: [70, 211]
     kaisyu_n: [7, -52]
     kaisyu_d: [88, -25]
-    kaizo_n: [-193, 85]
-    kaizo_d: [34, 49]
-    map_n: [-181, 183]
-    map_d: [79, 175]
-    ensyuf_n: [-198, 175]
-    ensyuf_d: [66, 165]
-    ensyue_n: [-211, 0]
-    battle_n: [-127, 213]
-    battle_d: [90, 196]
-    wed_a: [537, -19]
-    wed_b: [127, 178]
+    kaizo_n: [-1, 81]
+    kaizo_d: [85, 52]
+    map_n: [13, 177]
+    map_d: [108, 192]
+    ensyuf_n: [15, 183]
+    ensyuf_d: [91, 189]
+    ensyue_n: [-10, 0]
+    battle_n: [67, 205]
+    battle_d: [150, 213]
+    wed_a: [328, -21]
+    wed_b: [133, 165]
   wiki_id: "392"
   chinese_name: 比睿改二丙
   can_drop: false

@@ -13,9 +13,9 @@ data:
   after_ship_id: 693
   get_mes: Buongiorno！ イタリア生まれの新鋭軽巡洋艦ルイージ・<br>ディ・サヴォイア・ドゥーカ・デッリ・アブルッツィです。<br>長いですよね？私、アブルッツィで構いません。提督、妹共々、<br>どうぞよろしくご指導ください。
   voice_f: 1
-  filename: ewjpnwmufzxs
-  file_version: ["53", "1", "1206"]
-  book_table_id: [589]
+  filename: ewjpnwmufzve
+  file_version: ["54", "1", "101"]
+  book_table_id: [589, 5698]
   book_sinfo: ルイージ・ディ・サヴォイア・ドゥーカ・デッリ・ア<br>ブルッツィ級軽巡洋艦、アブルッツィです。ごめんな<br>さい、名前が長くって。最新鋭のこの体、火力も演技<br>も自信があるんです、私。戦いが終わった後、女優と<br>して映画にも出演したんです。観てくれました？<br>提督、どうぞよろしくお願いしますね。
   stats:
     taik: [37, 55]
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 70
   graph:
-    boko_n: [132, 219]
-    boko_d: [187, 283]
+    boko_n: [-33, 222]
+    boko_d: [-31, 262]
     kaisyu_n: [19, -7]
     kaisyu_d: [30, -54]
-    kaizo_n: [135, 100]
-    kaizo_d: [192, 67]
-    map_n: [154, 198]
-    map_d: [225, 228]
-    ensyuf_n: [172, 184]
-    ensyuf_d: [232, 192]
-    ensyue_n: [157, 0]
-    battle_n: [220, 214]
-    battle_d: [261, 226]
-    wed_a: [180, -31]
-    wed_b: [118, 169]
+    kaizo_n: [-30, 78]
+    kaizo_d: [-12, 61]
+    map_n: [-12, 196]
+    map_d: [40, 189]
+    ensyuf_n: [1, 183]
+    ensyuf_d: [-19, 190]
+    ensyue_n: [1, 0]
+    battle_n: [24, 199]
+    battle_d: [28, 190]
+    wed_a: [324, -9]
+    wed_b: [150, 129]
   wiki_id: "389"
   chinese_name: 阿布鲁齐
   can_drop: true

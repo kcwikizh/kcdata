@@ -13,8 +13,8 @@ data:
   after_ship_id: 705
   get_mes: HMS Sheffield 着任します。<br>君がAdmiral？ ふうん、ちょっといいね。<br>よろしく。
   voice_f: 1
-  filename: zgnfeyueapxs
-  file_version: ["55", "5", "1206"]
+  filename: zgnfeyueapri
+  file_version: ["56", "5", "101"]
   book_table_id: [514, 5606]
   book_sinfo: Town級軽巡洋艦、HMS Sheffield。<br>軽巡といっても、実際は重巡クラスの規模と火力を持<br>つ重武装艦です。北極海での対ソ援助物資輸送船団の<br>護衛、ビスマルクの追撃戦など数々の戦いに参加しま<br>した。バレンツ海の戦いでは独艦隊を撃破、船団護衛<br>に成功しています。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 2, 2]
     build_time: 70
   graph:
-    boko_n: [103, 169]
-    boko_d: [81, 189]
+    boko_n: [66, 186]
+    boko_d: [115, 235]
     kaisyu_n: [25, 10]
     kaisyu_d: [60, -4]
-    kaizo_n: [103, 61]
-    kaizo_d: [63, 43]
-    map_n: [120, 144]
-    map_d: [97, 168]
-    ensyuf_n: [106, 145]
-    ensyuf_d: [90, 168]
-    ensyue_n: [106, 0]
-    battle_n: [145, 175]
-    battle_d: [130, 192]
-    wed_a: [232, 7]
-    wed_b: [112, 183]
+    kaizo_n: [36, 70]
+    kaizo_d: [96, 58]
+    map_n: [85, 159]
+    map_d: [144, 181]
+    ensyuf_n: [49, 154]
+    ensyuf_d: [112, 178]
+    ensyue_n: [37, 0]
+    battle_n: [93, 174]
+    battle_d: [124, 210]
+    wed_a: [291, 13]
+    wed_b: [130, 160]
   wiki_id: "314"
   chinese_name: 谢菲尔德
   can_drop: true

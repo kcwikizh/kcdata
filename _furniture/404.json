@@ -8,7 +8,7 @@ data:
   description: 冬の北方海域作戦エリアを<br>描いた作戦地図です。季節<br>の飾りやよく分らない玩具<br>等も配備。家具コイン長者<br>提督にお贈りします！
   rarity: 5
   price: 30000
-  saleflg: 0
+  saleflg: 1
   season: 36
   filename: 
   file_version: 

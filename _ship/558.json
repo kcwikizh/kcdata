@@ -14,13 +14,13 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: xflykwfogqjb
-  file_version: ["71", "27", "1206"]
+  file_version: ["71", "27", "101"]
   book_table_id: [558]
   book_sinfo: 浜風です。数々の激戦に参加しました。<br>レイテでは金剛を中心とした輪形陣。そして、武蔵や金剛、あの信濃の最期もこの目に焼き付けることになりました。運命の坊ノ岬では、雪風らと共に大和を護って奮闘します。
   stats:
     taik: [33, 54]
     souk: [14, 54]
-    houg: [10, 60]
+    houg: [10, 63]
     raig: [24, 83]
     tyku: [32, 93]
     luck: [20, 88]

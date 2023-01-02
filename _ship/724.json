@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: ihxtuallivxs
-  file_version: ["52", "1", "1206"]
+  filename: ihxtuallivwo
+  file_version: ["53", "1", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 4]
     build_time: 300
   graph:
-    boko_n: [193, 214]
-    boko_d: [66, 231]
+    boko_n: [-135, 208]
+    boko_d: [70, 238]
     kaisyu_n: [21, -9]
     kaisyu_d: [52, 6]
-    kaizo_n: [189, 97]
-    kaizo_d: [90, 73]
-    map_n: [181, 202]
-    map_d: [79, 205]
-    ensyuf_n: [205, 187]
-    ensyuf_d: [97, 186]
-    ensyue_n: [195, 0]
-    battle_n: [274, 214]
-    battle_d: [145, 219]
-    wed_a: [124, -34]
-    wed_b: [112, 168]
+    kaizo_n: [-142, 100]
+    kaizo_d: [97, 70]
+    map_n: [-157, 189]
+    map_d: [103, 202]
+    ensyuf_n: [-129, 175]
+    ensyuf_d: [136, 175]
+    ensyue_n: [-138, 0]
+    battle_n: [-66, 205]
+    battle_d: [187, 220]
+    wed_a: [469, -25]
+    wed_b: [124, 169]
   wiki_id: "535a"
   chinese_name: 让·巴尔改
   can_drop: false

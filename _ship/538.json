@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: sullpopastgr
-  file_version: ["51", "1", "1206"]
+  file_version: ["51", "1", "101"]
   book_table_id: [538]
   book_sinfo: 秋月型防空駆逐艦、その八番艦、冬月だ。戦いの後半<br>に就役して、姉妹艦と第四十一駆逐隊を編成、大型艦<br>や艦隊の護衛を務めたな。最後の出撃は、第二水雷戦<br>隊の一翼として、涼月と共に大和の護衛に就いた。そ<br>して今も、僚艦涼月と北九州の防波堤の一部として皆<br>を護っている。
   stats:
@@ -22,7 +22,7 @@ data:
     souk: [16, 53]
     houg: [22, 57]
     raig: [22, 53]
-    tyku: [82, 115]
+    tyku: [82, 116]
     luck: [38, 98]
     soku: 10
     leng: 1

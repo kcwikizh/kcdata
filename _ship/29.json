@@ -14,7 +14,7 @@ data:
   get_mes: あたし、文月っていうの。<br>よろしくぅ～。
   voice_f: 0
   filename: pjkwpxniwgge
-  file_version: ["12", "12", "1206"]
+  file_version: ["12", "12", "101"]
   book_table_id: [29]
   book_sinfo: 睦月型駆逐艦７番艦の文月だよ。<br>数々の海戦に参加したんだ。<br>船団護衛中に大型船と衝突して大破…したこともあったっけ。<br>あれはやばかったなー。
   stats:

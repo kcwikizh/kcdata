@@ -13,8 +13,8 @@ data:
   after_ship_id: 707
   get_mes: <br>
   voice_f: 1
-  filename: hhffnryhkveu
-  file_version: ["86", "17", "1206"]
+  filename: hhffnryhkvys
+  file_version: ["87", "17", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 2, 1]
     build_time: 30
   graph:
-    boko_n: [78, 207]
-    boko_d: [156, 246]
+    boko_n: [37, 190]
+    boko_d: [58, 256]
     kaisyu_n: [-12, 0]
     kaisyu_d: [42, -60]
-    kaizo_n: [36, 69]
-    kaizo_d: [102, 102]
-    map_n: [54, 171]
-    map_d: [138, 204]
-    ensyuf_n: [18, 180]
-    ensyuf_d: [120, 192]
-    ensyue_n: [30, 0]
-    battle_n: [48, 186]
-    battle_d: [138, 210]
-    wed_a: [312, -6]
-    wed_b: [132, 168]
+    kaizo_n: [21, 64]
+    kaizo_d: [18, 45]
+    map_n: [51, 153]
+    map_d: [88, 175]
+    ensyuf_n: [25, 157]
+    ensyuf_d: [85, 169]
+    ensyue_n: [25, 0]
+    battle_n: [52, 187]
+    battle_d: [63, 208]
+    wed_a: [310, -6]
+    wed_b: [126, 171]
   wiki_id: "344a"
   chinese_name: 甘比尔湾改
   can_drop: false
