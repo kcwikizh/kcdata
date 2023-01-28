@@ -1,0 +1,188 @@
+---
+layout: json
+order: 75
+data:
+  id: 75
+  name: ジャワ島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: H
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: H
+      to: K
+    12:
+      from: C
+      to: D
+    13:
+      from: E
+      to: F
+    14:
+      from: I
+      to: L
+    15:
+      from: I
+      to: M
+    16:
+      from: J
+      to: N
+    17:
+      from: N
+      to: O
+    18:
+      from: O
+      to: P
+    19:
+      from: O
+      to: Q
+    20:
+      from: L
+      to: M
+    21:
+      from: J
+      to: O
+    22:
+      from: P
+      to: R
+    23:
+      from: P
+      to: S
+    24:
+      from: P
+      to: T
+    25:
+      from: R
+      to: T
+  cells:
+    A:
+      name: 深海基地航空隊　ジャワ展開部隊
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: マカッサル海峡 深海哨戒群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海連合混成艦隊 駆逐隊
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海連合混成艦隊 前衛戦隊
+      type:
+      boss: false
+      routes: [4, 12]
+    E:
+      name: 深海連合混成艦隊 哨戒艇部隊
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6, 13]
+    G:
+      name: 深海連合混成艦隊 警戒隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    J:
+      name: 深海連合混成艦隊 ジャワ防衛線
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 深海連合混成艦隊 主力艦隊
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 深海連合混成艦隊 遊撃戦力
+      type:
+      boss: false
+      routes: [14]
+    M:
+      name: 深海連合混成艦隊 脱出残存部隊
+      type:
+      boss: false
+      routes: [15, 20]
+    N:
+      name: 深海潜水艦隊 ジャワ海哨戒群
+      type:
+      boss: false
+      routes: [16]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [17, 21]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    Q:
+      name: 深海連合混成艦隊 クラガン陣地
+      type:
+      boss: false
+      routes: [19]
+    R:
+      name: 深海連合混成艦隊 増援機動部隊
+      type:
+      boss: false
+      routes: [22]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [23]
+    T:
+      name: 深海連合混成艦隊 残存部隊旗艦
+      type:
+      boss: true
+      routes: [24, 25]
+  image: MapHD7-5.png
+---
