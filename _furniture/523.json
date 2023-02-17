@@ -8,7 +8,7 @@ data:
   description: 家具職人たちが魂を込めて<br>作り上げたバレンタインの<br>鎮守府に向けた特注仕上げ<br>チェストです。置いてある<br>何か…が少し変わるかも？
   rarity: 5
   price: 144000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "074"
   file_version: 1

@@ -137,8 +137,16 @@ data:
         -
           -
             ship_id: 546
-        - false
-        - false
+        -
+          -
+            ship_id: 911
+          -
+            ship_id: 916
+        -
+          -
+            ship_id: 911
+          -
+            ship_id: 916
         -
           -
             ship_id: 911

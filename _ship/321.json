@@ -13,17 +13,17 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: gixbrtnuabys
-  file_version: ["67", "15", "101"]
+  filename: gixbrtnuabge
+  file_version: ["69", "15", "214"]
   book_table_id: 
   book_sinfo: 
   stats:
     taik: [47, 64]
-    souk: [32, 68]
-    houg: [32, 70]
+    souk: [32, 69]
+    houg: [32, 71]
     raig: [0, 49]
-    tyku: [22, 74]
-    luck: [30, 79]
+    tyku: [22, 77]
+    luck: [30, 84]
     soku: 10
     leng: 2
     kaih: 

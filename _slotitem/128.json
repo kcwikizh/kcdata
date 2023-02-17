@@ -80,26 +80,26 @@ data:
         - false
     -
       consume:
-        resource: [50, 490, 860, 80]
+        resource: [50, 550, 950, 80]
         useitem:
           -
             -
               id: 3
-              amount: [8, 9]
+              amount: [7, 9]
             -
               id: 4
-              amount: [5, 6]
+              amount: [5, 7]
           -
             -
               id: 3
-              amount: [9, 16]
+              amount: [10, 15]
             -
               id: 4
-              amount: [8, 9]
+              amount: [7, 10]
         slotitem:
           -
-            id: 40
-            amount: 3
+            id: 9
+            amount: 2
           -
             id: 9
             amount: 3
@@ -113,12 +113,12 @@ data:
               amount: [26, 51]
             -
               id: 4
-              amount: [13, 17]
+              amount: [15, 18]
             -
               id: 75
               amount: 3
           slotitem:
-            id: 9
+            id: 276
             amount: 6
       day:
         - false

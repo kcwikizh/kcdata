@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: mnqveismubcz
-  file_version: ["19", "1", "101"]
+  file_version: ["20", "1", "214"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 18
   graph:
-    boko_n: [276, 216]
-    boko_d: [174, 234]
+    boko_n: [264, 234]
+    boko_d: [270, 234]
     kaisyu_n: [9, -27]
     kaisyu_d: [54, 6]
-    kaizo_n: [174, 108]
-    kaizo_d: [72, 126]
-    map_n: [210, 186]
-    map_d: [120, 204]
-    ensyuf_n: [156, 174]
-    ensyuf_d: [90, 192]
-    ensyue_n: [180, 0]
-    battle_n: [216, 192]
-    battle_d: [144, 216]
-    wed_a: [120, 18]
-    wed_b: [180, 168]
+    kaizo_n: [216, 114]
+    kaizo_d: [186, 84]
+    map_n: [234, 186]
+    map_d: [216, 186]
+    ensyuf_n: [228, 192]
+    ensyuf_d: [210, 192]
+    ensyue_n: [216, 0]
+    battle_n: [258, 204]
+    battle_d: [240, 204]
+    wed_a: [96, -18]
+    wed_b: [150, 186]
   wiki_id: "281a"
   chinese_name: 水无月改
   can_drop: false

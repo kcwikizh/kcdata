@@ -65,6 +65,10 @@ data:
           -
             ship_id: 136
           -
+            ship_id: 911
+          -
+            ship_id: 916
+          -
             ship_id: 143
           -
             ship_id: 148
@@ -84,5 +88,9 @@ data:
             ship_id: 131
           -
             ship_id: 136
+          -
+            ship_id: 911
+          -
+            ship_id: 916
   chinese_name: 舰本新设计 增设装甲板(大型舰)
 ---

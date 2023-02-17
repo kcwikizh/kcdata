@@ -13,8 +13,8 @@ data:
   after_ship_id: 275
   get_mes: 私が、戦艦長門だ。よろしく頼むぞ。<br>敵戦艦との殴り合いなら任せておけ。
   voice_f: 0
-  filename: jnxoytktolys
-  file_version: ["57", "16", "101"]
+  filename: jnxoytktolbb
+  file_version: ["58", "16", "214"]
   book_table_id: [80, 5299, 5616]
   book_sinfo: 八八艦隊計画の第一号艦として生まれた、長門型戦艦<br>のネームシップ、長門だ。<br>大和型が就役するまで、連合艦隊旗艦も務めていた<br>さ。<br>世界のビッグ７と云われてもいたな。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [5, 0, 1, 4]
     build_time: 300
   graph:
-    boko_n: [76, 178]
-    boko_d: [76, 178]
+    boko_n: [13, 117]
+    boko_d: [70, 127]
     kaisyu_n: [18, 0]
     kaisyu_d: [42, 25]
-    kaizo_n: [94, 61]
-    kaizo_d: [79, 25]
-    map_n: [103, 157]
-    map_d: [103, 157]
-    ensyuf_n: [114, 154]
-    ensyuf_d: [114, 154]
-    ensyue_n: [96, 0]
-    battle_n: [157, 187]
-    battle_d: [157, 187]
-    wed_a: [232, 1]
-    wed_b: [124, 166]
+    kaizo_n: [-58, 34]
+    kaizo_d: [-10, 1]
+    map_n: [-45, 115]
+    map_d: [-36, 109]
+    ensyuf_n: [-7, 103]
+    ensyuf_d: [-9, 46]
+    ensyue_n: [-7, 0]
+    battle_n: [-54, 85]
+    battle_d: [0, 91]
+    wed_a: [360, 90]
+    wed_b: [135, 144]
   wiki_id: "001"
   chinese_name: 长门
   can_drop: true

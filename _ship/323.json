@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: cispmgxqaedk
-  file_version: ["49", "6", "101"]
+  file_version: ["50", "6", "214"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [192, 216]
-    boko_d: [156, 96]
+    boko_n: [156, 210]
+    boko_d: [198, 126]
     kaisyu_n: [36, 18]
     kaisyu_d: [72, -30]
-    kaizo_n: [144, 120]
-    kaizo_d: [96, -54]
-    map_n: [120, 192]
-    map_d: [96, 60]
-    ensyuf_n: [168, 168]
-    ensyuf_d: [168, 24]
-    ensyue_n: [144, 0]
+    kaizo_n: [108, 108]
+    kaizo_d: [120, 30]
+    map_n: [96, 168]
+    map_d: [132, 96]
+    ensyuf_n: [108, 168]
+    ensyuf_d: [114, 90]
+    ensyue_n: [84, 0]
     battle_n: [144, 192]
-    battle_d: [120, 48]
-    wed_a: [120, 0]
-    wed_b: [192, 168]
+    battle_d: [144, 120]
+    wed_a: [192, 0]
+    wed_b: [162, 192]
   wiki_id: "205a"
   chinese_name: 春雨改
   can_drop: false

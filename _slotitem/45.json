@@ -62,11 +62,7 @@ data:
             ship_id: 552
           -
             ship_id: 679
-        -
-          -
-            ship_id: 551
-          -
-            ship_id: 678
+        - false
         -
           -
             ship_id: 551
@@ -77,10 +73,6 @@ data:
             ship_id: 141
           -
             ship_id: 568
-          -
-            ship_id: 551
-          -
-            ship_id: 678
         -
           -
             ship_id: 141

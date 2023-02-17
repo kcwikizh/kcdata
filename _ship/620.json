@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: otpgrdspsxso
-  file_version: ["58", "1", "101"]
+  file_version: ["58", "1", "214"]
   book_table_id: [620, 5653]
   book_sinfo: USS CL50 Helena です。<br>St. Louis class 軽巡２番艦として建造されました。<br>真珠湾空襲を経験、エスペランス岬沖海戦、第三次ソ<br>ロモン海戦、そしてクラ湾の夜戦で日本海軍の精鋭と<br>激しく戦いました。
   stats:

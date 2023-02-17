@@ -64,6 +64,12 @@ data:
             ship_id: 491
           -
             ship_id: 372
+          -
+            ship_id: 162
+          -
+            ship_id: 499
+          -
+            ship_id: 500
         -
           -
             ship_id: 574
@@ -71,6 +77,12 @@ data:
             ship_id: 579
           -
             ship_id: 630
+          -
+            ship_id: 162
+          -
+            ship_id: 499
+          -
+            ship_id: 500
         -
           -
             ship_id: 574
@@ -78,46 +90,28 @@ data:
             ship_id: 579
           -
             ship_id: 630
-        -
           -
             ship_id: 162
           -
             ship_id: 499
           -
             ship_id: 500
-        -
-          -
-            ship_id: 491
-          -
-            ship_id: 372
-          -
-            ship_id: 162
-          -
-            ship_id: 499
-          -
-            ship_id: 500
+        - false
         -
           -
             ship_id: 491
           -
             ship_id: 372
-          -
-            ship_id: 162
-          -
-            ship_id: 499
-          -
-            ship_id: 500
         -
           -
             ship_id: 491
           -
             ship_id: 372
+        -
           -
-            ship_id: 162
+            ship_id: 491
           -
-            ship_id: 499
-          -
-            ship_id: 500
+            ship_id: 372
     -
       consume:
         resource: [90, 280, 0, 240]

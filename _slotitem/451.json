@@ -5,13 +5,13 @@ data:
   id: 451
   sort_no: 451
   name: 三式指揮連絡機改
-  type: [3, 16, 26, 22, 0]
+  type: [3, 16, 26, 22, 54]
   rare: 3
   broken: [2, 2, 0, 3]
   info: 
   usebull: 0
-  cost: 
-  distance: 
+  cost: 4
+  distance: 2
   stats:
     taik: 0
     souk: 0

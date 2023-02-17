@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 588
+  type: 2
+  no: 88
+  title: Valentine Window
+  description: 甘いもの好きな提督と艦娘<br>のために、とんでもない窓<br>が完成してしまいました！<br>しかも、ストロベリー味と<br>ビター、切替可能ですっ！
+  rarity: 6
+  price: 121400
+  saleflg: 0
+  season: 47
+  filename: "089"
+  file_version: "1"
+---

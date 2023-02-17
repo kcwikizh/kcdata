@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: kjmmeaxfbmys
-  file_version: ["57", "2", "101"]
+  filename: kjmmeaxfbmhx
+  file_version: ["58", "2", "214"]
   book_table_id: [541, 1020]
   book_sinfo: 八八艦隊計画の第一号艦として生まれた、長門型戦艦のネームシップ、長門だ。<br>大和型が就役するまで、連合艦隊旗艦も務めていたさ。<br>世界のビッグ７と云われてもいたな。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [6, 0, 2, 6]
     build_time: 300
   graph:
-    boko_n: [76, 178]
-    boko_d: [76, 178]
+    boko_n: [-81, 186]
+    boko_d: [108, 180]
     kaisyu_n: [36, -24]
     kaisyu_d: [9, -21]
-    kaizo_n: [94, 61]
-    kaizo_d: [79, 25]
-    map_n: [103, 157]
-    map_d: [103, 157]
-    ensyuf_n: [114, 154]
-    ensyuf_d: [114, 154]
-    ensyue_n: [96, 0]
-    battle_n: [157, 187]
-    battle_d: [157, 187]
-    wed_a: [232, 1]
-    wed_b: [124, 166]
+    kaizo_n: [-120, 84]
+    kaizo_d: [12, 48]
+    map_n: [-102, 156]
+    map_d: [42, 162]
+    ensyuf_n: [-102, 174]
+    ensyuf_d: [48, 156]
+    ensyue_n: [-96, 0]
+    battle_n: [-102, 180]
+    battle_d: [84, 186]
+    wed_a: [450, 6]
+    wed_b: [114, 144]
   wiki_id: "341"
   chinese_name: 长门改二
   can_drop: false

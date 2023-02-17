@@ -57,7 +57,7 @@ data:
             amount: 1
       upgrade:
         id: 285
-        level: 5
+        level: 0
         consume:
           useitem:
             -
@@ -106,8 +106,6 @@ data:
           -
             ship_id: 627
         -
-          -
-            ship_id: 426
           -
             ship_id: 195
           -

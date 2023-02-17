@@ -82,7 +82,13 @@ data:
         - false
         - false
         - false
-        - false
+        -
+          -
+            ship_id: 27
+          -
+            ship_id: 287
+          -
+            ship_id: 412
         -
           -
             ship_id: 27

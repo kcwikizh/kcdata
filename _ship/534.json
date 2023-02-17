@@ -13,10 +13,10 @@ data:
   after_ship_id: 381
   get_mes: Guten Tag…いえ、こんにちは。<br>私、神鷹って名前…その…航空母艦です。まだ色々と<br>慣れなくてごめんなさい。でも頑張ります。
   voice_f: 1
-  filename: qjwulcrymrys
-  file_version: ["60", "1", "101"]
-  book_table_id: [534, 381, 5496, 5598]
-  book_sinfo: 航空母艦、神鷹です。神戸に避難していたドイツの客<br>船でしたが、帰国は困難でした。後に日本海軍に譲渡<br>され、空母へと改装されました。船団航路を護る海上<br>護衛総隊に所属し、対潜掃蕩任務に就きました。姉た<br>ちの敵に一矢報いたかった…けれど…。夜…夜の海は<br>…嫌…怖いです…。
+  filename: qjwulcrymrvr
+  file_version: ["62", "1", "214"]
+  book_table_id: [534, 381, 5496, 5598, 5730]
+  book_sinfo: 航空母艦、神鷹です。神戸に避難していたドイツの客船でしたが、帰国は困難でした。後に日本海軍に譲渡され、空母へと改装されました。船団航路を護る海上護衛総隊に所属し、対潜掃蕩任務に就きました。姉たちの敵に一矢報いたかった…けれど…。夜…夜の海は…嫌…怖いです…。
   stats:
     taik: [38, 59]
     souk: [15, 35]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 2]
     build_time: 160
   graph:
-    boko_n: [159, 216]
-    boko_d: [159, 216]
+    boko_n: [175, 211]
+    boko_d: [253, 331]
     kaisyu_n: [21, 0]
     kaisyu_d: [91, 4]
-    kaizo_n: [123, 85]
-    kaizo_d: [108, 51]
-    map_n: [124, 190]
-    map_d: [124, 190]
-    ensyuf_n: [153, 180]
-    ensyuf_d: [153, 180]
-    ensyue_n: [159, 0]
-    battle_n: [181, 211]
-    battle_d: [181, 211]
-    wed_a: [192, -22]
-    wed_b: [109, 172]
+    kaizo_n: [166, 97]
+    kaizo_d: [232, 181]
+    map_n: [148, 201]
+    map_d: [219, 261]
+    ensyuf_n: [153, 193]
+    ensyuf_d: [222, 205]
+    ensyue_n: [222, 0]
+    battle_n: [190, 201]
+    battle_d: [289, 283]
+    wed_a: [180, -1]
+    wed_b: [106, 135]
   wiki_id: "324"
   chinese_name: 神鹰
   can_drop: true

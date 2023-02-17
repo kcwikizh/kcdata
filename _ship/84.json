@@ -13,8 +13,8 @@ data:
   after_ship_id: 278
   get_mes: 航空母艦、加賀です。<br>貴方が私の提督なの？　それなりに期待はしているわ。
   voice_f: 1
-  filename: oeimwwkynzys
-  file_version: ["57", "12", "101"]
+  filename: oeimwwkynzlt
+  file_version: ["58", "12", "214"]
   book_table_id: [84, 1102]
   book_sinfo: 私、加賀は、八八艦隊三番艦として建造されました。<br>様々な運命のいたずらもあって、最終的に大型航空母<br>艦として完成しました。<br>赤城さんと共に、栄光の第一航空戦隊、その主力を担<br>います。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 5, 3]
     build_time: 260
   graph:
-    boko_n: [208, 193]
-    boko_d: [208, 193]
+    boko_n: [-132, -1]
+    boko_d: [-118, 9]
     kaisyu_n: [18, 31]
     kaisyu_d: [42, 10]
-    kaizo_n: [181, 64]
-    kaizo_d: [166, 30]
-    map_n: [231, 145]
-    map_d: [231, 145]
-    ensyuf_n: [186, 169]
-    ensyuf_d: [186, 169]
-    ensyue_n: [181, 0]
-    battle_n: [258, 178]
-    battle_d: [258, 178]
-    wed_a: [147, -4]
-    wed_b: [103, 165]
+    kaizo_n: [-178, -84]
+    kaizo_d: [-180, -118]
+    map_n: [-139, 7]
+    map_d: [-231, -1]
+    ensyuf_n: [-103, -24]
+    ensyuf_d: [-130, -66]
+    ensyue_n: [-103, 0]
+    battle_n: [-198, -42]
+    battle_d: [-198, -42]
+    wed_a: [487, 196]
+    wed_b: [139, 160]
   wiki_id: "007"
   chinese_name: 加贺
   can_drop: true

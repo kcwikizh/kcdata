@@ -32,5 +32,69 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [140, 240, 0, 300]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [2, 4]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [3, 6]
+            -
+              id: 4
+              amount: [2, 4]
+        slotitem:
+          - 
+          -
+            id: 16
+            amount: 1
+      upgrade:
+        id: 256
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [6, 12]
+            -
+              id: 4
+              amount: [6, 8]
+            -
+              id: 77
+              amount: 1
+          slotitem:
+            id: 197
+            amount: 1
+      day:
+        -
+          -
+            ship_id: 931
+          -
+            ship_id: 723
+        -
+          -
+            ship_id: 931
+          -
+            ship_id: 723
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 931
+          -
+            ship_id: 723
+        -
+          -
+            ship_id: 931
+          -
+            ship_id: 723
   chinese_name: TBD
 ---

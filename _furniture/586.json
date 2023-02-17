@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 586
+  type: 1
+  no: 99
+  title: Chocolateアソート壁
+  description: 遂に鎮守府の壁はここまで<br>来てしまった……。職人の<br>技を借りて実現した、艦娘<br>から提督へのチョコレート<br>アソート。美味しいです！
+  rarity: 4
+  price: 2080
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

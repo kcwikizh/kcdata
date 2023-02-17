@@ -5,13 +5,13 @@ data:
   id: 324
   sort_no: 324
   name: オ号観測機改
-  type: [3, 15, 25, 21, 0]
+  type: [3, 15, 25, 21, 53]
   rare: 4
   broken: [1, 2, 0, 4]
   info: 陸軍で開発、運用されていたオートジャイロ。その対潜戦闘力を強化したif強化型改修機です。<br>現代の艦載ヘリコプターの先祖ともいえる、回転翼の艦載対潜哨戒機、全通甲板を持つ強襲揚陸艦や軽空母、改装航空戦艦、航空甲板を持つ航空巡洋艦などで運用可能です。
   usebull: 0
-  cost: 
-  distance: 
+  cost: 3
+  distance: 1
   stats:
     taik: 0
     souk: 0
@@ -66,6 +66,9 @@ data:
             -
               id: 4
               amount: [7, 14]
+            -
+              id: 77
+              amount: 1
           slotitem:
             id: 69
             amount: 1

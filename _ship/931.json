@@ -13,9 +13,9 @@ data:
   after_ship_id: 723
   get_mes: Nice to meet you. <br>Admiral? お会いできて光栄です。<br>私 CV4 USS Ranger と申します。
   voice_f: 1
-  filename: uodemjpojtys
-  file_version: ["55", "1", "101"]
-  book_table_id: [931, 5689, 5700]
+  filename: uodemjpojthc
+  file_version: ["57", "1", "214"]
+  book_table_id: [931, 5689, 5700, 5717, 5727]
   book_sinfo: USS CV4 Rangerです。<br>アメリカ海軍初の最初から航空母艦として設計された<br>純然たる正規空母です。大西洋艦隊に配属され、トー<br>チ作戦などに参加しました。正規空母の純粋なプロト<br>タイプ、私の事も、どうぞ覚えていてくださいね。
   stats:
     taik: [48, 78]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 4, 3]
     build_time: 250
   graph:
-    boko_n: [66, 208]
-    boko_d: [64, 220]
+    boko_n: [-46, 214]
+    boko_d: [139, 220]
     kaisyu_n: [16, 13]
     kaisyu_d: [103, 28]
-    kaizo_n: [67, 88]
-    kaizo_d: [67, 70]
-    map_n: [87, 195]
-    map_d: [60, 211]
-    ensyuf_n: [99, 190]
-    ensyuf_d: [91, 186]
-    ensyue_n: [76, 0]
-    battle_n: [130, 217]
-    battle_d: [121, 219]
-    wed_a: [235, -37]
-    wed_b: [127, 184]
+    kaizo_n: [-22, 109]
+    kaizo_d: [138, 64]
+    map_n: [-31, 201]
+    map_d: [156, 205]
+    ensyuf_n: [-33, 184]
+    ensyuf_d: [160, 180]
+    ensyue_n: [-22, 0]
+    battle_n: [21, 220]
+    battle_d: [198, 219]
+    wed_a: [361, -40]
+    wed_b: [114, 172]
   wiki_id: "531"
   chinese_name: 突击者
   can_drop: false

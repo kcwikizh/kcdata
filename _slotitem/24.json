@@ -72,6 +72,28 @@ data:
             id: 24
             amount: 1
       day:
+        - false
+        -
+          -
+            ship_id: 153
+          -
+            ship_id: 156
+        -
+          -
+            ship_id: 153
+          -
+            ship_id: 156
+        -
+          -
+            ship_id: 153
+          -
+            ship_id: 156
+        -
+          -
+            ship_id: 153
+          -
+            ship_id: 156
+        - false
         -
           -
             ship_id: 110
@@ -81,55 +103,5 @@ data:
             ship_id: 461
           -
             ship_id: 466
-          -
-            ship_id: 153
-          -
-            ship_id: 156
-        -
-          -
-            ship_id: 153
-          -
-            ship_id: 156
-        -
-          -
-            ship_id: 153
-          -
-            ship_id: 156
-        -
-          -
-            ship_id: 153
-          -
-            ship_id: 156
-        -
-          -
-            ship_id: 153
-          -
-            ship_id: 156
-        -
-          -
-            ship_id: 110
-          -
-            ship_id: 288
-          -
-            ship_id: 461
-          -
-            ship_id: 466
-          -
-            ship_id: 153
-          -
-            ship_id: 156
-        -
-          -
-            ship_id: 110
-          -
-            ship_id: 288
-          -
-            ship_id: 461
-          -
-            ship_id: 466
-          -
-            ship_id: 153
-          -
-            ship_id: 156
   chinese_name: 彗星
 ---

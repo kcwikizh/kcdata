@@ -71,16 +71,8 @@ data:
             ship_id: 439
           -
             ship_id: 364
-        -
-          -
-            ship_id: 439
-          -
-            ship_id: 364
-        -
-          -
-            ship_id: 439
-          -
-            ship_id: 364
+        - false
+        - false
         - false
   chinese_name: 38.1cm Mk.I/N连装炮改
 ---

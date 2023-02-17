@@ -74,6 +74,8 @@ data:
       day:
         -
           -
+            ship_id: 183
+          -
             ship_id: 321
         - false
         - false
@@ -81,8 +83,12 @@ data:
         - false
         -
           -
+            ship_id: 183
+          -
             ship_id: 321
         -
+          -
+            ship_id: 183
           -
             ship_id: 321
   chinese_name: 15.5cm三连装炮改

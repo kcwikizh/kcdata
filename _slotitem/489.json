@@ -1,0 +1,36 @@
+---
+layout: json
+order: 489
+data:
+  id: 489
+  sort_no: 489
+  name: 一式戦 隼II型改(20戦隊)
+  type: [3, 16, 26, 22, 52]
+  rare: 4
+  broken: [2, 2, 0, 4]
+  info: 
+  usebull: 0
+  cost: 4
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 4
+    tyku: 6
+    tais: 8
+    atap: 0
+    houm: 0
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

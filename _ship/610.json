@@ -13,8 +13,8 @@ data:
   after_ship_id: 646
   get_mes: <br>
   voice_f: 3
-  filename: hynqrgutrmys
-  file_version: ["57", "1", "101"]
+  filename: hynqrgutrmmp
+  file_version: ["58", "1", "214"]
   book_table_id: [610]
   book_sinfo: 航空母艦、加賀です。八八艦隊三番艦戦艦として建造<br>されました。様々な運命のいたずらもあって、大型航<br>空母艦として完成、赤城さんと共に、栄光の第一航空<br>戦隊、その主力を担いました。<br>ここは、譲れません。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 6, 5]
     build_time: 260
   graph:
-    boko_n: [208, 193]
-    boko_d: [208, 193]
+    boko_n: [-154, -39]
+    boko_d: [0, -175]
     kaisyu_n: [15, -34]
     kaisyu_d: [43, -6]
-    kaizo_n: [181, 64]
-    kaizo_d: [166, 30]
-    map_n: [231, 145]
-    map_d: [231, 145]
-    ensyuf_n: [186, 169]
-    ensyuf_d: [186, 169]
-    ensyue_n: [181, 0]
-    battle_n: [258, 178]
-    battle_d: [258, 178]
-    wed_a: [147, -4]
-    wed_b: [103, 165]
+    kaizo_n: [-171, -147]
+    kaizo_d: [-13, -333]
+    map_n: [-129, -46]
+    map_d: [64, -210]
+    ensyuf_n: [-139, -67]
+    ensyuf_d: [57, -234]
+    ensyue_n: [-166, 0]
+    battle_n: [-138, -45]
+    battle_d: [93, -205]
+    wed_a: [496, 223]
+    wed_b: [112, 148]
   wiki_id: "410"
   chinese_name: 加贺改二戊
   can_drop: false

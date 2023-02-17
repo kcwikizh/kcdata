@@ -13,8 +13,8 @@ data:
   after_ship_id: 600
   get_mes: 私の名前は、Houston。<br>太平洋方面の戦力の要石として、アジア艦隊の旗艦も務めたわ。<br>提督、よろしく頼むわね。
   voice_f: 1
-  filename: hdmffrgvrgys
-  file_version: ["66", "1", "101"]
+  filename: hdmffrgvrgmm
+  file_version: ["67", "1", "214"]
   book_table_id: [595, 5452, 5498, 5608]
   book_sinfo: アジア艦隊に配備されたNorthampton級重巡、<br>Houstonよ。<br>Perth、De Ruyter…彼女達と共にABDA艦隊として<br>戦ったの。私の記憶はバタビア沖が最後だけど……<br>その魂と名は、新型軽巡に継承されたわ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 85
   graph:
-    boko_n: [235, 204]
-    boko_d: [187, 210]
+    boko_n: [61, 193]
+    boko_d: [9, 253]
     kaisyu_n: [63, -37]
     kaisyu_d: [88, -75]
-    kaizo_n: [201, 78]
-    kaizo_d: [150, 51]
-    map_n: [231, 175]
-    map_d: [172, 181]
-    ensyuf_n: [244, 180]
-    ensyuf_d: [171, 183]
-    ensyue_n: [241, 0]
-    battle_n: [258, 204]
-    battle_d: [198, 208]
-    wed_a: [124, -25]
-    wed_b: [94, 181]
+    kaizo_n: [10, 72]
+    kaizo_d: [-21, 64]
+    map_n: [133, 162]
+    map_d: [87, 178]
+    ensyuf_n: [82, 180]
+    ensyuf_d: [49, 187]
+    ensyue_n: [73, 0]
+    battle_n: [94, 220]
+    battle_d: [58, 220]
+    wed_a: [243, -15]
+    wed_b: [129, 162]
   wiki_id: "395"
   chinese_name: 休斯敦
   can_drop: false

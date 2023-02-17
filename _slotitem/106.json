@@ -110,5 +110,63 @@ data:
             ship_id: 320
           -
             ship_id: 419
+    -
+      consume:
+        resource: [10, 0, 30, 40]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 7]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [7, 9]
+            -
+              id: 4
+              amount: [4, 8]
+        slotitem:
+          -
+            id: 27
+            amount: 1
+          -
+            id: 27
+            amount: 1
+      upgrade:
+        id: 450
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [9, 13]
+            -
+              id: 4
+              amount: [6, 9]
+            -
+              id: 94
+              amount: 1
+          slotitem:
+            id: 106
+            amount: 1
+      day:
+        - false
+        -
+          -
+            ship_id: 716
+        -
+          -
+            ship_id: 716
+        -
+          -
+            ship_id: 716
+        -
+          -
+            ship_id: 716
+        - false
+        - false
   chinese_name: 13号对空电探改
 ---

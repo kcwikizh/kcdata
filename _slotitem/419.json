@@ -70,7 +70,7 @@ data:
               amount: [7, 10]
             -
               id: 77
-              amount: 2
+              amount: 3
           slotitem:
             id: 205
             amount: 1

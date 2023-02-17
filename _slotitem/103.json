@@ -66,12 +66,8 @@ data:
         - false
         -
           -
-            ship_id: 149
-          -
             ship_id: 411
         -
-          -
-            ship_id: 149
           -
             ship_id: 151
           -
@@ -146,10 +142,14 @@ data:
             ship_id: 592
         -
           -
+            ship_id: 149
+          -
             ship_id: 150
           -
             ship_id: 592
-        - false
+        -
+          -
+            ship_id: 149
         - false
         - false
   chinese_name: 试制35.6cm三连装炮

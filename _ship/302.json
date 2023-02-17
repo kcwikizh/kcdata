@@ -13,8 +13,8 @@ data:
   after_ship_id: 542
   get_mes: <br>
   voice_f: 3
-  filename: bbgkikxppkys
-  file_version: ["88", "6", "101"]
+  filename: bbgkikxppksy
+  file_version: ["89", "6", "214"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [162, 186]
-    boko_d: [120, 216]
+    boko_n: [-36, 123]
+    boko_d: [-141, 153]
     kaisyu_n: [9, 9]
     kaisyu_d: [42, 10]
-    kaizo_n: [72, 96]
-    kaizo_d: [12, 114]
-    map_n: [120, 150]
-    map_d: [24, 168]
-    ensyuf_n: [48, 144]
-    ensyuf_d: [12, 156]
-    ensyue_n: [48, 0]
-    battle_n: [96, 156]
-    battle_d: [48, 198]
-    wed_a: [264, 36]
-    wed_b: [153, 180]
+    kaizo_n: [-73, 6]
+    kaizo_d: [-96, 9]
+    map_n: [-30, 78]
+    map_d: [-75, 108]
+    ensyuf_n: [0, 105]
+    ensyuf_d: [-90, 60]
+    ensyue_n: [-30, 0]
+    battle_n: [-30, 96]
+    battle_d: [-60, 165]
+    wed_a: [406, 70]
+    wed_b: [187, 217]
   wiki_id: "133a"
   chinese_name: 夕云改
   can_drop: false

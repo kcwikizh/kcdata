@@ -14,7 +14,7 @@ data:
   get_mes: 古鷹と言います。<br>重巡洋艦のいいところ、たくさん知ってもらえると嬉しいです。
   voice_f: 0
   filename: sfbwblstvfmw
-  file_version: ["41", "15", "101"]
+  file_version: ["42", "15", "214"]
   book_table_id: [59, 5049, 5383, 5666]
   book_sinfo: 重巡洋艦、古鷹です。<br>三川提督率いる第８艦隊の一員として、第一次ソロモン海戦では敵艦多数を撃破したんですよ！<br>これが、重巡なんです！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 60
   graph:
-    boko_n: [10, 129]
-    boko_d: [3, 141]
+    boko_n: [163, 210]
+    boko_d: [163, 210]
     kaisyu_n: [21, 24]
     kaisyu_d: [42, 10]
-    kaizo_n: [-7, 49]
-    kaizo_d: [-18, -7]
-    map_n: [-19, 126]
-    map_d: [-69, 126]
-    ensyuf_n: [-6, 130]
-    ensyuf_d: [4, 76]
-    ensyue_n: [-6, 0]
-    battle_n: [-24, 106]
-    battle_d: [-24, 106]
-    wed_a: [295, 60]
-    wed_b: [196, 214]
+    kaizo_n: [148, 81]
+    kaizo_d: [133, 46]
+    map_n: [193, 193]
+    map_d: [195, 193]
+    ensyuf_n: [169, 178]
+    ensyuf_d: [169, 178]
+    ensyue_n: [144, 0]
+    battle_n: [202, 222]
+    battle_d: [202, 222]
+    wed_a: [205, -22]
+    wed_b: [100, 147]
   wiki_id: "052"
   chinese_name: 古鹰
   can_drop: true

@@ -82,6 +82,14 @@ data:
             ship_id: 381
           -
             ship_id: 536
+          -
+            ship_id: 522
+          -
+            ship_id: 884
+          -
+            ship_id: 382
+          -
+            ship_id: 889
         -
           -
             ship_id: 521
@@ -91,6 +99,14 @@ data:
             ship_id: 380
           -
             ship_id: 529
+          -
+            ship_id: 522
+          -
+            ship_id: 884
+          -
+            ship_id: 382
+          -
+            ship_id: 889
         -
           -
             ship_id: 521
@@ -100,6 +116,14 @@ data:
             ship_id: 380
           -
             ship_id: 529
+          -
+            ship_id: 522
+          -
+            ship_id: 884
+          -
+            ship_id: 382
+          -
+            ship_id: 889
         -
           -
             ship_id: 521
@@ -138,5 +162,13 @@ data:
             ship_id: 381
           -
             ship_id: 536
+          -
+            ship_id: 522
+          -
+            ship_id: 884
+          -
+            ship_id: 382
+          -
+            ship_id: 889
   chinese_name: 九七式舰攻(九三一空)
 ---
