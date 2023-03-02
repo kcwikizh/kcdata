@@ -53,8 +53,8 @@ data:
     battle_d: [253, 214]
     wed_a: [217, -27]
     wed_b: [121, 195]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "541"
+  chinese_name: 海伍德·L·爱德华兹
   can_drop: false
   can_construct: false
 ---
