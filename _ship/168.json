@@ -14,7 +14,7 @@ data:
   get_mes: うち、浦風じゃ、よろしくね！
   voice_f: 0
   filename: cmupwurocdpn
-  file_version: ["61", "24", "214"]
+  file_version: ["61", "24", "228"]
   book_table_id: [168, 938]
   book_sinfo: 生まれは大阪、所属は呉。真珠湾からガダルカナルまで駆けまわったんじゃ。<br>最期は金剛姉さんを護衛して台湾海峡…<br>まぁ、もうどうにもならんなぁ……。
   stats:

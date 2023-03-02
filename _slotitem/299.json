@@ -34,7 +34,7 @@ data:
   improvement: 
     -
       consume:
-        resource: [90, 400, 510, 0]
+        resource: [90, 400, 510, 60]
         useitem:
           -
             -
@@ -70,7 +70,7 @@ data:
               amount: [14, 18]
             -
               id: 75
-              amount: 0
+              amount: 1
           slotitem:
             id: 301
             amount: 2
@@ -79,11 +79,17 @@ data:
         - false
         -
           -
-            ship_id: 576
-        -
+            ship_id: 571
           -
             ship_id: 576
         -
+          -
+            ship_id: 571
+          -
+            ship_id: 576
+        -
+          -
+            ship_id: 571
           -
             ship_id: 576
         - false

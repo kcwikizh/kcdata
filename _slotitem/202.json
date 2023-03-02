@@ -46,15 +46,17 @@ data:
           -
             -
               id: 3
-              amount: [-1, -1]
+              amount: [9, 11]
             -
               id: 4
-              amount: [-1, -1]
+              amount: [6, 8]
         slotitem:
           -
             id: 55
             amount: 1
-          - 
+          -
+            id: 201
+            amount: 1
       upgrade:
         id: 263
         level: 0
@@ -62,14 +64,18 @@ data:
           useitem:
             -
               id: 3
-              amount: [0, 0]
+              amount: [28, 34]
             -
               id: 4
-              amount: [0, 0]
+              amount: [13, 17]
+            -
+              id: 78
+              amount: 1
           slotitem:
+            id: 202
+            amount: 2
       day:
         - false
-        - false
         -
           -
             ship_id: 79
@@ -82,8 +88,11 @@ data:
             ship_id: 79
           -
             ship_id: 211
+        -
           -
-            ship_id: 151
+            ship_id: 79
+          -
+            ship_id: 211
         - false
         - false
         - false

@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 725
+  sort_no: 1725
+  name: 夕暮改
+  yomi: ゆうぐれ
+  stype: 2
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: sroekpkecpjk
+  file_version: ["51", "1", "228"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [30, 48]
+    souk: [12, 49]
+    houg: [7, 47]
+    raig: [20, 79]
+    tyku: [12, 59]
+    luck: [12, 58]
+    soku: 10
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
+  graph:
+    boko_n: [223, 202]
+    boko_d: [124, 238]
+    kaisyu_n: [40, -16]
+    kaisyu_d: [61, -45]
+    kaizo_n: [220, 79]
+    kaizo_d: [145, 73]
+    map_n: [247, 175]
+    map_d: [165, 193]
+    ensyuf_n: [235, 156]
+    ensyuf_d: [163, 165]
+    ensyue_n: [243, 0]
+    battle_n: [274, 192]
+    battle_d: [193, 196]
+    wed_a: [115, -4]
+    wed_b: [97, 183]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

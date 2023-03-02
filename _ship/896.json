@@ -14,7 +14,7 @@ data:
   get_mes: It’s lovely to meet you<br>あたしが、Brooklyn級のnameship、<br>Brooklynよ！　何？　文句……ないよね！
   voice_f: 1
   filename: xacidcgdaopv
-  file_version: ["53", "1", "214"]
+  file_version: ["53", "1", "228"]
   book_table_id: [896, 722, 5676, 5686]
   book_sinfo: 条約下で建造された大型の軽巡洋艦、Brooklyn級の<br>ネームシップ、Brooklynよ。<br>日本海軍の最上型に対抗する、6inch砲15門を備え<br>る大型軽巡。大西洋での船団護衛、北アフリカや地中<br>海の作戦でも活躍したわ。覚えておきなさい！
   stats:

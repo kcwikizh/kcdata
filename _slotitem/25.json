@@ -107,5 +107,110 @@ data:
             ship_id: 106
           -
             ship_id: 450
+    -
+      consume:
+        resource: [90, 20, 0, 300]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [4, 6]
+            -
+              id: 4
+              amount: [2, 3]
+          -
+            -
+              id: 3
+              amount: [5, 8]
+            -
+              id: 4
+              amount: [3, 5]
+        slotitem:
+          - 
+          -
+            id: 25
+            amount: 2
+      upgrade:
+        id: 59
+        level: 2
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [11, 15]
+            -
+              id: 4
+              amount: [4, 7]
+          slotitem:
+            id: 19
+            amount: 3
+      day:
+        -
+          -
+            ship_id: 71
+          -
+            ship_id: 273
+          -
+            ship_id: 188
+        -
+          -
+            ship_id: 71
+          -
+            ship_id: 273
+          -
+            ship_id: 188
+        -
+          -
+            ship_id: 71
+          -
+            ship_id: 273
+          -
+            ship_id: 188
+          -
+            ship_id: 72
+          -
+            ship_id: 274
+          -
+            ship_id: 189
+        -
+          -
+            ship_id: 72
+          -
+            ship_id: 274
+          -
+            ship_id: 189
+        -
+          -
+            ship_id: 72
+          -
+            ship_id: 274
+          -
+            ship_id: 189
+        -
+          -
+            ship_id: 71
+          -
+            ship_id: 273
+          -
+            ship_id: 188
+          -
+            ship_id: 72
+          -
+            ship_id: 274
+          -
+            ship_id: 189
+        -
+          -
+            ship_id: 71
+          -
+            ship_id: 273
+          -
+            ship_id: 188
+          -
+            ship_id: 72
+          -
+            ship_id: 274
+          -
+            ship_id: 189
   chinese_name: 零式水上侦察机
 ---

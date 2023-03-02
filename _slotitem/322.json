@@ -72,5 +72,65 @@ data:
             ship_id: 554
         - false
         - false
+    -
+      consume:
+        resource: [240, 280, 0, 630]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [10, 12]
+            -
+              id: 4
+              amount: [8, 8]
+          -
+            -
+              id: 3
+              amount: [15, 30]
+            -
+              id: 4
+              amount: [9, 12]
+        slotitem:
+          -
+            id: 26
+            amount: 2
+          -
+            id: 55
+            amount: 2
+      upgrade:
+        id: 490
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [32, 48]
+            -
+              id: 4
+              amount: [10, 17]
+            -
+              id: 77
+              amount: 4
+          slotitem:
+            id: 344
+            amount: 1
+      day:
+        - false
+        - false
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
+        -
+          -
+            ship_id: 501
+          -
+            ship_id: 506
+        -
+          -
+            ship_id: 501
+        - false
+        - false
   chinese_name: 
 ---

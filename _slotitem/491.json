@@ -1,0 +1,36 @@
+---
+layout: json
+order: 491
+data:
+  id: 491
+  sort_no: 491
+  name: 一式戦 隼III型改(熟練/20戦隊)
+  type: [3, 16, 26, 22, 52]
+  rare: 5
+  broken: [2, 3, 0, 5]
+  info: 
+  usebull: 0
+  cost: 4
+  distance: 4
+  stats:
+    taik: 0
+    souk: 0
+    houg: 2
+    raig: 0
+    soku: 0
+    baku: 5
+    tyku: 7
+    tais: 8
+    atap: 0
+    houm: 1
+    raim: 0
+    houk: 3
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

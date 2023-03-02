@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: hmmjohpnurdc
-  file_version: ["55", "1", "214"]
+  file_version: ["56", "1", "228"]
   book_table_id: [926, 5682]
   book_sinfo: 高い生産性と戦力のバランスを図った鵜来型の一番<br>艦、鵜来です。なるべく直線部を多用、さらに三式爆<br>雷投射機を集中配備するなど工数を削減しつつ、むし<br>ろ戦闘力は向上させています。厳しい戦局を生き残り<br>戦後おじか型巡視船として再就役、静かな海でも活躍<br>しています。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 9
   graph:
-    boko_n: [217, 232]
-    boko_d: [171, 273]
+    boko_n: [111, 219]
+    boko_d: [58, 262]
     kaisyu_n: [31, -24]
     kaisyu_d: [37, -7]
-    kaizo_n: [216, 108]
-    kaizo_d: [139, 103]
-    map_n: [219, 193]
-    map_d: [181, 219]
-    ensyuf_n: [231, 175]
-    ensyuf_d: [190, 198]
-    ensyue_n: [220, 0]
-    battle_n: [270, 214]
-    battle_d: [217, 240]
-    wed_a: [97, -19]
-    wed_b: [148, 211]
+    kaizo_n: [115, 100]
+    kaizo_d: [34, 91]
+    map_n: [112, 178]
+    map_d: [46, 208]
+    ensyuf_n: [130, 169]
+    ensyuf_d: [79, 193]
+    ensyue_n: [115, 0]
+    battle_n: [165, 199]
+    battle_d: [90, 226]
+    wed_a: [219, -15]
+    wed_b: [115, 202]
   wiki_id: "526"
   chinese_name: 鹈来改
   can_drop: false

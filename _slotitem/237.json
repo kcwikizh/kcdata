@@ -64,19 +64,69 @@ data:
             ship_id: 88
         - false
         - false
-        -
-          -
-            ship_id: 554
-        -
-          -
-            ship_id: 554
+        - false
+        - false
         -
           -
             ship_id: 88
+        -
+          -
+            ship_id: 88
+    -
+      consume:
+        resource: [190, 190, 0, 490]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [8, 10]
+            -
+              id: 4
+              amount: [6, 7]
+          -
+            -
+              id: 3
+              amount: [10, 16]
+            -
+              id: 4
+              amount: [7, 9]
+        slotitem:
+          -
+            id: 26
+            amount: 2
+          -
+            id: 26
+            amount: 3
+      upgrade:
+        id: 322
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [24, 40]
+            -
+              id: 4
+              amount: [9, 16]
+            -
+              id: 77
+              amount: 3
+          slotitem:
+            id: 81
+            amount: 2
+      day:
+        - false
+        - false
+        - false
+        -
           -
             ship_id: 554
         -
           -
-            ship_id: 88
+            ship_id: 554
+        -
+          -
+            ship_id: 554
+        - false
   chinese_name: 瑞云(六三四空/熟练)
 ---

@@ -32,5 +32,93 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [0, 15, 10, 10]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [0, 1]
+            -
+              id: 4
+              amount: [1, 1]
+          -
+            -
+              id: 3
+              amount: [1, 1]
+            -
+              id: 4
+              amount: [1, 2]
+        slotitem:
+          - 
+          -
+            id: 38
+            amount: 1
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 37
+          -
+            ship_id: 237
+        -
+          -
+            ship_id: 36
+          -
+            ship_id: 236
+        -
+          -
+            ship_id: 34
+          -
+            ship_id: 234
+          -
+            ship_id: 437
+          -
+            ship_id: 36
+          -
+            ship_id: 236
+        -
+          -
+            ship_id: 34
+          -
+            ship_id: 234
+          -
+            ship_id: 437
+          -
+            ship_id: 36
+          -
+            ship_id: 236
+        -
+          -
+            ship_id: 35
+          -
+            ship_id: 235
+          -
+            ship_id: 147
+          -
+            ship_id: 36
+          -
+            ship_id: 236
+          -
+            ship_id: 37
+          -
+            ship_id: 237
+        -
+          -
+            ship_id: 35
+          -
+            ship_id: 235
+          -
+            ship_id: 147
+          -
+            ship_id: 37
+          -
+            ship_id: 237
+        -
+          -
+            ship_id: 37
+          -
+            ship_id: 237
   chinese_name: 12.7mm单装机铳
 ---

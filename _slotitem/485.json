@@ -60,7 +60,9 @@ data:
       upgrade:
       day:
         - false
-        - false
+        -
+          -
+            ship_id: 501
         -
           -
             ship_id: 501

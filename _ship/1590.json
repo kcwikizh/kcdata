@@ -14,7 +14,7 @@ data:
   get_mes: 
   voice_f: 
   filename: xsjvtttdqhwy
-  file_version: ["85", "1", "1"]
+  file_version: ["86", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -49,8 +49,8 @@ data:
     ensyuf_n: [0, 0]
     ensyuf_d: [0, 0]
     ensyue_n: [0, 0]
-    battle_n: [12, 120]
-    battle_d: [12, 120]
+    battle_n: [-48, 108]
+    battle_d: [-48, 108]
     wed_a: [0, 0]
     wed_b: [0, 0]
   wiki_id: 

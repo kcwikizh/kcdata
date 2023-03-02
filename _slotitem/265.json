@@ -1,0 +1,36 @@
+---
+layout: json
+order: 265
+data:
+  id: 265
+  sort_no: 265
+  name: 紫電改(三四三空) 戦闘407
+  type: [22, 39, 48, 38, 12]
+  rare: 4
+  broken: [2, 4, 0, 8]
+  info: 
+  usebull: 0
+  cost: 6
+  distance: 4
+  stats:
+    taik: 0
+    souk: 2
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 11
+    tais: 0
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 4
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 0
+  improvement: 
+  chinese_name:
+---

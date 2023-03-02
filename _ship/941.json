@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 941
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 541
+  name: Heywood L.E.
+  yomi: ヘイウッド
+  stype: 2
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: kwduknmgsaex
-  file_version: ["1", "1", "1"]
+  backs: 5
+  after_lv: 55
+  after_ship_id: 726
+  get_mes: My name is Heywood L.Edwards.<br>着任します。そうね。提督、共に頑張りましょう？
+  voice_f: 1
+  filename: ilmsrpndwyyr
+  file_version: ["51", "1", "228"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [17, 35]
+    souk: [7, 20]
+    houg: [12, 30]
+    raig: [20, 61]
+    tyku: [32, 62]
+    luck: [18, 77]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 180
+    after_bull: 270
+    fuel_max: 20
+    bull_max: 20
+    broken: [1, 2, 7, 2]
+    pow_up: [1, 1, 2, 1]
+    build_time: 23
   graph:
-    boko_n: [180, 210]
-    boko_d: [228, 228]
-    kaisyu_n: [24, 0]
-    kaisyu_d: [36, 12]
-    kaizo_n: [120, 138]
-    kaizo_d: [156, 144]
-    map_n: [108, 186]
-    map_d: [216, 204]
-    ensyuf_n: [114, 192]
-    ensyuf_d: [228, 204]
-    ensyue_n: [72, 0]
-    battle_n: [108, 204]
-    battle_d: [216, 204]
-    wed_a: [210, -12]
-    wed_b: [204, 168]
+    boko_n: [54, 217]
+    boko_d: [97, 256]
+    kaisyu_n: [25, -3]
+    kaisyu_d: [73, -75]
+    kaizo_n: [87, 102]
+    kaizo_d: [145, 100]
+    map_n: [85, 177]
+    map_d: [202, 213]
+    ensyuf_n: [100, 177]
+    ensyuf_d: [202, 178]
+    ensyue_n: [85, 0]
+    battle_n: [156, 198]
+    battle_d: [253, 214]
+    wed_a: [217, -27]
+    wed_b: [121, 195]
   wiki_id: 
   chinese_name: 
   can_drop: false

@@ -142,5 +142,71 @@ data:
             ship_id: 280
           -
             ship_id: 196
+    -
+      consume:
+        resource: [200, 300, 0, 360]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [3, 4]
+            -
+              id: 4
+              amount: [2, 2]
+          -
+            -
+              id: 3
+              amount: [4, 7]
+            -
+              id: 4
+              amount: [3, 4]
+        slotitem:
+          -
+            id: 16
+            amount: 1
+          -
+            id: 16
+            amount: 2
+      upgrade:
+        id: 98
+        level: 6
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [3, 6]
+            -
+              id: 4
+              amount: [2, 3]
+            -
+              id: 70
+              amount: 1
+          slotitem:
+            id: 16
+            amount: 2
+      day:
+        - false
+        - false
+        - false
+        -
+          -
+            ship_id: 89
+          -
+            ship_id: 285
+          -
+            ship_id: 894
+          -
+            ship_id: 899
+        -
+          -
+            ship_id: 89
+          -
+            ship_id: 285
+          -
+            ship_id: 894
+          -
+            ship_id: 899
+        - false
+        - false
   chinese_name: 九七式舰攻
 ---

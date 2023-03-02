@@ -58,20 +58,36 @@ data:
             id: 7
             amount: 2
       upgrade:
+        id: 289
+        level: 0
+        consume:
+          useitem:
+            -
+              id: 3
+              amount: [9, 17]
+            -
+              id: 4
+              amount: [8, 13]
+            -
+              id: 75
+              amount: 1
+          slotitem:
+            id: 7
+            amount: 3
       day:
-        -
-          -
-            ship_id: 151
-        -
-          -
-            ship_id: 151
-        -
-          -
-            ship_id: 151
-        -
-          -
-            ship_id: 151
         - false
+        -
+          -
+            ship_id: 151
+        -
+          -
+            ship_id: 151
+        -
+          -
+            ship_id: 151
+        -
+          -
+            ship_id: 151
         - false
         - false
   chinese_name: 35.6cm连装炮(迷彩)
