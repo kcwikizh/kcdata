@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 943
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 543
+  name: 熊野丸
+  yomi: くまのまる
+  stype: 17
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: obicookwhnpj
-  file_version: ["1", "1", "1"]
+  backs: 5
+  after_lv: 50
+  after_ship_id: 948
+  get_mes: 日本陸軍特種船、揚陸母艦、熊野丸だ。<br>貴様が提督か。成程……そうか。貴官の指揮下に入ろう。<br>よろしいか！
+  voice_f: 1
+  filename: alynfzinygxw
+  file_version: ["52", "1", "303"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [38, 49]
+    souk: [11, 34]
+    houg: [4, 24]
+    raig: [0, 0]
+    tyku: [15, 32]
+    luck: [17, 57]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [8, 2, 0, 0, 0]
+    after_fuel: 180
+    after_bull: 370
+    fuel_max: 40
+    bull_max: 15
+    broken: [2, 2, 12, 2]
+    pow_up: [0, 0, 1, 1]
+    build_time: 150
   graph:
-    boko_n: [168, 240]
-    boko_d: [144, 252]
-    kaisyu_n: [9, 6]
-    kaisyu_d: [42, 10]
-    kaizo_n: [108, 132]
-    kaizo_d: [72, 96]
-    map_n: [120, 204]
-    map_d: [96, 192]
-    ensyuf_n: [150, 192]
-    ensyuf_d: [96, 174]
-    ensyue_n: [108, 0]
-    battle_n: [132, 204]
-    battle_d: [108, 192]
-    wed_a: [186, 0]
-    wed_b: [198, 168]
+    boko_n: [-25, 199]
+    boko_d: [130, 189]
+    kaisyu_n: [-30, -10]
+    kaisyu_d: [33, -66]
+    kaizo_n: [-21, 73]
+    kaizo_d: [94, 45]
+    map_n: [-40, 157]
+    map_d: [109, 157]
+    ensyuf_n: [-30, 139]
+    ensyuf_d: [82, 124]
+    ensyue_n: [-43, 0]
+    battle_n: [7, 196]
+    battle_d: [139, 171]
+    wed_a: [366, -16]
+    wed_b: [106, 202]
   wiki_id: 
   chinese_name: 
   can_drop: false

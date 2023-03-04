@@ -8,7 +8,7 @@ data:
   description: 心からチョコレートを愛す<br>る提督に贈るチョコレート<br>フォンデュタワー！流れる<br>チョコレートの謎の魅力。<br>職人ダイナミック割引可！
   rarity: 5
   price: 121400
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: "058"
   file_version: 1

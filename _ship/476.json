@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: osxrcrtldvru
-  file_version: ["16", "1", "228"]
+  file_version: ["16", "1", "303"]
   book_table_id: [476]
   book_sinfo: 神風型駆逐艦一番艦、神風です。八八艦隊計画の時代に建造された艦隊型駆逐艦、そのネームシップです。<br>睦月型の前級にあたる私達だけれど、あの戦いを最後まで駆け抜けたのよ。<br>私達のことも、覚えていてね。
   stats:

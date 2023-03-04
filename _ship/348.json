@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ycgllqsxwdgy
-  file_version: ["110", "10", "228"]
+  file_version: ["111", "10", "303"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,8 +38,8 @@ data:
     pow_up: [1, 2, 1, 2]
     build_time: 140
   graph:
-    boko_n: [0, 132]
-    boko_d: [0, 156]
+    boko_n: [18, 126]
+    boko_d: [18, 150]
     kaisyu_n: [18, -12]
     kaisyu_d: [36, -6]
     kaizo_n: [-72, 36]
