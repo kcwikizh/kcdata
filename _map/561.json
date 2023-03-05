@@ -1,0 +1,236 @@
+---
+layout: json
+order: 561
+data:
+  id: 561
+  name: 日本本土近海哨戒圏
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: C
+      to: C1
+    5:
+      from: C1
+      to: C2
+    6:
+      from: C
+      to: C3
+    7:
+      from: C1
+      to: D
+    8:
+      from: A
+      to: E
+    9:
+      from: E
+      to: F
+    10:
+      from: F
+      to: G
+    11:
+      from: G
+      to: G1
+    12:
+      from: G
+      to: G2
+    13:
+      from: F
+      to: H
+    14:
+      from: H
+      to: H1
+    15:
+      from: H
+      to: H2
+    16:
+      from: H2
+      to: I
+    17:
+      from: H1
+      to: J
+    18:
+      from: C3
+      to: C1
+    19:
+      from: G1
+      to: G2
+    20:
+      from: H1
+      to: H2
+    21:
+      from: H2
+      to: K
+    22:
+      from: K
+      to: L
+    23:
+      from: K
+      to: M
+    24:
+      from: L
+      to: M
+    25:
+      from: C3
+      to: N
+    26:
+      from: C3
+      to: O
+    27:
+      from: O
+      to: P
+    28:
+      from: P
+      to: Q
+    29:
+      from: Q
+      to: R
+    30:
+      from: P
+      to: S
+    31:
+      from: Q
+      to: S
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 侵入哨戒 I群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    C1:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [4, 18]
+    C2:
+      name: 深海潜水艦隊 第二哨戒線 A群
+      type:
+      boss: false
+      routes: [5]
+    C3:
+      name: 深海任務部隊 前衛ピケット線 A群
+      type:
+      boss: false
+      routes: [6]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    F:
+      name: 深海潜水艦隊 侵入哨戒 II群
+      type:
+      boss: false
+      routes: [9]
+    G:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [10]
+    G1:
+      name: 深海任務部隊 前衛偵察機動部隊
+      type:
+      boss: false
+      routes: [11]
+    G2:
+      name: 深海潜水艦隊 第二哨戒線 B群
+      type:
+      boss: false
+      routes: [12, 19]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    H1:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [14]
+    H2:
+      name: 深海潜水艦隊・深海航空支援
+      type:
+      boss: false
+      routes: [15, 20]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [16]
+    J:
+      name: 深海潜水艦隊 第二哨戒線 C群
+      type:
+      boss: false
+      routes: [17]
+    K:
+      name: 深海任務部隊 機動部隊随伴護衛
+      type:
+      boss: false
+      routes: [21]
+    L:
+      name: 深海潜水艦隊 第二哨戒線 D群
+      type:
+      boss: false
+      routes: [22]
+    M:
+      name: 深海任務部隊 前衛空襲機動部隊
+      type:
+      boss: false
+      routes: [23, 24]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [25]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [26]
+    P:
+      name: 深海潜水艦隊・深海航空支援
+      type:
+      boss: false
+      routes: [27]
+    Q:
+      name: 深海潜水艦隊・深海航空支援
+      type:
+      boss: false
+      routes: [28]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [29]
+    S:
+      name: 深海任務部隊 前衛指揮潜水艦
+      type:
+      boss: true
+      routes: [30, 31]
+  image: MapHDE-1Spring2023.png
+---

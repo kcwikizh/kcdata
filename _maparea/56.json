@@ -1,0 +1,13 @@
+---
+layout: json
+order: 56
+data:
+  id: 56
+  name: 絶対防衛線！「小笠原兵団」救援
+  maps:
+    - 561
+    - 562
+    - 563
+  event: true
+  level: 4
+---
