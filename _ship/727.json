@@ -53,8 +53,8 @@ data:
     battle_d: [286, 178]
     wed_a: [162, -7]
     wed_b: [109, 193]
-  wiki_id:
-  chinese_name:
+  wiki_id: "545a"
+  chinese_name: 第百一号输送舰改
   can_drop: false
   can_construct: false
 ---
