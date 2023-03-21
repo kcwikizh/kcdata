@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: fsgwccpesgfh
-  file_version: ["95", "41", "303"]
+  file_version: ["95", "41", "314"]
   book_table_id: [407, 5197, 5225, 5241, 5084, 5477, 5487, 5535, 5643]
   book_sinfo: 綾波型１０番艦の潮です。<br>レイテ沖海戦などの激戦を潜り抜け、運命のあの日、<br>横須賀で御役目を終えるまで戦い抜きました。<br>あ、あの…沈めた敵艦の皆さんも…ホントはお助けし<br>たいのです。ホントです！
   stats:

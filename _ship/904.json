@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 904
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: qzsmwrrbnefu
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 504
+  name: 能美
+  yomi: のうみ
+  stype: 1
+  ctype: 94
+  cnum: 4
+  backs: 4
+  after_lv: 45
+  after_ship_id: 909
+  get_mes: 提督、よろしくお願い致します。海防艦、能美です。<br>御蔵型の四番艦です。マル急計画で整備されました。<br>この海……共にまいりましょう。
+  voice_f: 1
+  filename: pbxaffqftmeb
+  file_version: ["51", "1", "314"]
+  book_table_id: [904]
+  book_sinfo: 御蔵型海防艦、四番艦、能美と申します。消耗と苛烈<br>な海上護衛戦に対応するため、マル急計画で整備され<br>ました。松輸送や大湊方面の北の護り、そしてヒ船団<br>やモシ船団の護衛、敵潜水艦と激しい戦いを続けまし<br>た。最期は泊地に侵入した敵潜に……。今度は……静<br>かな海で。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [9, 18]
+    souk: [4, 16]
+    houg: [4, 16]
+    raig: [0, 0]
+    tyku: [9, 36]
+    luck: [13, 67]
+    soku: 5
+    leng: 1
+    kaih: 41
+    tais: 38
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 90
+    after_bull: 125
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 0, 0]
+    build_time: 14
   graph:
-    boko_n: [216, 204]
-    boko_d: [216, 204]
-    kaisyu_n: [15, 0]
-    kaisyu_d: [42, 10]
-    kaizo_n: [192, 108]
-    kaizo_d: [192, 108]
-    map_n: [216, 168]
-    map_d: [216, 168]
-    ensyuf_n: [216, 192]
-    ensyuf_d: [216, 192]
-    ensyue_n: [168, 0]
-    battle_n: [168, 192]
-    battle_d: [168, 192]
-    wed_a: [48, 18]
-    wed_b: [204, 192]
+    boko_n: [1, 226]
+    boko_d: [-70, 358]
+    kaisyu_n: [3, -4]
+    kaisyu_d: [-4, -82]
+    kaizo_n: [3, 97]
+    kaizo_d: [-40, 174]
+    map_n: [21, 184]
+    map_d: [-37, 262]
+    ensyuf_n: [9, 165]
+    ensyuf_d: [-40, 211]
+    ensyue_n: [12, 0]
+    battle_n: [48, 214]
+    battle_d: [-4, 283]
+    wed_a: [316, -13]
+    wed_b: [124, 199]
   wiki_id: 
   chinese_name: 
   can_drop: false

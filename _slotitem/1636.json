@@ -1,0 +1,36 @@
+---
+layout: json
+order: 1636
+data:
+  id: 1636
+  sort_no: 0
+  name: 深海突破襲撃機Ace
+  type: [3, 5, 8, 8, 0]
+  rare: 4
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 9
+    raig: 13
+    soku: 0
+    baku: 16
+    tyku: 6
+    tais: 0
+    atap: 0
+    houm: 6
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 5
+  improvement: 
+  chinese_name:
+---

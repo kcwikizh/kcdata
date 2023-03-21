@@ -6,17 +6,17 @@ data:
   name: Heywood L.E.
   yomi: ヘイウッド
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 91
+  cnum: 663
   backs: 5
   after_lv: 55
   after_ship_id: 726
   get_mes: My name is Heywood L.Edwards.<br>着任します。そうね。提督、共に頑張りましょう？
   voice_f: 1
   filename: ilmsrpndwyyr
-  file_version: ["51", "1", "303"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "314"]
+  book_table_id: [941, 726]
+  book_sinfo: Fletcher級駆逐艦、Heywood L.Edwardsです。<br>あの大戦の後半に就役し、あの海峡の夜戦や、島々の<br>攻略戦支援に参加しました。戦後は、日本海上自衛隊<br>初期の護衛艦「ありあけ」として、護衛艦隊の育成に<br>務めました。
   stats:
     taik: [17, 35]
     souk: [7, 20]
@@ -26,8 +26,8 @@ data:
     luck: [18, 77]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 43
+    tais: 49
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 180

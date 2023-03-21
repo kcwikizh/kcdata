@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 945
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: mcfmpizxyhiu
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 545
+  name: 第百一号輸送艦
+  yomi: だいひゃくいちごう
+  stype: 17
+  ctype: 120
+  cnum: 1
+  backs: 5
+  after_lv: 50
+  after_ship_id: 727
+  get_mes: 第百一号型輸送艦、えっと、そうだ、二等輸送艦の方が<br>わかりやすいですよね！一番艦、第百一号輸送艦です！<br>戦時急造ですが、私、結構よくできてますよ！　はい！
+  voice_f: 1
+  filename: qtzvitspnted
+  file_version: ["51", "1", "314"]
+  book_table_id: [945]
+  book_sinfo: 最前線への戦車や陸上部隊の強行輸送のために、陸海<br>共同プロジェクトで開発建造された新型の輸送艦、そ<br>れが私、第百一型輸送艦こと二等輸送艦です。硫黄島<br>への強行輸送や多号作戦などで成果を挙げつつ、消耗<br>していきました。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [11, 19]
+    souk: [5, 19]
+    houg: [2, 9]
+    raig: [0, 0]
+    tyku: [7, 26]
+    luck: [8, 58]
+    soku: 5
+    leng: 1
+    kaih: 29
+    tais: 0
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 170
+    after_bull: 60
+    fuel_max: 15
+    bull_max: 5
+    broken: [1, 0, 1, 0]
+    pow_up: [0, 0, 0, 1]
+    build_time: 14
   graph:
-    boko_n: [168, 216]
-    boko_d: [12, 300]
-    kaisyu_n: [31, 30]
-    kaisyu_d: [42, 10]
-    kaizo_n: [72, 108]
-    kaizo_d: [0, 144]
-    map_n: [72, 192]
-    map_d: [-96, 216]
-    ensyuf_n: [96, 192]
-    ensyuf_d: [-36, 192]
-    ensyue_n: [60, 0]
-    battle_n: [96, 204]
-    battle_d: [-24, 240]
-    wed_a: [216, -12]
-    wed_b: [198, 168]
+    boko_n: [130, 202]
+    boko_d: [229, 201]
+    kaisyu_n: [49, 4]
+    kaisyu_d: [58, 7]
+    kaizo_n: [160, 82]
+    kaizo_d: [229, 43]
+    map_n: [168, 160]
+    map_d: [232, 160]
+    ensyuf_n: [178, 154]
+    ensyuf_d: [262, 139]
+    ensyue_n: [162, 0]
+    battle_n: [219, 190]
+    battle_d: [286, 178]
+    wed_a: [162, -7]
+    wed_b: [109, 193]
   wiki_id: 
   chinese_name: 
   can_drop: false

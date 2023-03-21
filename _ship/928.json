@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 928
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 528
+  name: Tuscaloosa改
+  yomi: タスカルーサ
+  stype: 5
   ctype: 
   cnum: 
-  backs: 
+  backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: iakggseprkmv
-  file_version: ["1", "1", "1"]
+  get_mes: <br>
+  voice_f: 3
+  filename: jjfmynxxuonk
+  file_version: ["51", "1", "314"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [53, 65]
+    souk: [41, 75]
+    houg: [45, 77]
+    raig: [0, 62]
+    tyku: [32, 79]
+    luck: [20, 90]
+    soku: 10
+    leng: 2
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
+    slot_num: 4
+    max_eq: [1, 1, 2, 5, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 40
+    bull_max: 65
+    broken: [2, 6, 18, 3]
+    pow_up: [2, 1, 1, 2]
+    build_time: 85
   graph:
-    boko_n: [186, 168]
-    boko_d: [204, 138]
-    kaisyu_n: [51, 12]
-    kaisyu_d: [60, -12]
-    kaizo_n: [120, 60]
-    kaizo_d: [120, 0]
-    map_n: [144, 144]
-    map_d: [120, 96]
-    ensyuf_n: [168, 120]
-    ensyuf_d: [168, 72]
-    ensyue_n: [120, 0]
-    battle_n: [168, 144]
-    battle_d: [120, 96]
-    wed_a: [168, 72]
-    wed_b: [168, 132]
+    boko_n: [-40, 211]
+    boko_d: [55, 220]
+    kaisyu_n: [21, 6]
+    kaisyu_d: [69, 25]
+    kaizo_n: [-24, 90]
+    kaizo_d: [75, 57]
+    map_n: [-16, 190]
+    map_d: [81, 199]
+    ensyuf_n: [-6, 180]
+    ensyuf_d: [105, 181]
+    ensyue_n: [-10, 0]
+    battle_n: [24, 208]
+    battle_d: [147, 213]
+    wed_a: [343, -37]
+    wed_b: [112, 184]
   wiki_id: 
   chinese_name: 
   can_drop: false

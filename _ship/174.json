@@ -14,7 +14,7 @@ data:
   get_mes: Guten Morgen.<br>僕の名前はレーベレヒト・マース。<br>レーベでいいよ…うん。
   voice_f: 1
   filename: pvhdtbuddjhb
-  file_version: ["29", "4", "303"]
+  file_version: ["29", "4", "314"]
   book_table_id: [174, 941, 789]
   book_sinfo: ドイツ生まれの駆逐艦、その本格的な大型駆逐艦の一番艦だよ。<br>高温高圧缶や機関部のシフト配置など、技術の国ならではの設計になっているんだ。あまり外洋での艦隊戦は得意じゃないけど…頑張るよ！
   stats:

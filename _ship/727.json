@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 727
+  sort_no: 1727
+  name: 第百一号輸送艦改
+  yomi: だいひゃくいちごう
+  stype: 17
+  ctype: 
+  cnum: 
+  backs: 6
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 1
+  filename: pmheltnkuklh
+  file_version: ["51", "1", "314"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [19, 29]
+    souk: [9, 39]
+    houg: [3, 18]
+    raig: [0, 0]
+    tyku: [10, 32]
+    luck: [10, 63]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 15
+    bull_max: 10
+    broken: [1, 0, 2, 0]
+    pow_up: [0, 0, 1, 1]
+    build_time: 14
+  graph:
+    boko_n: [130, 202]
+    boko_d: [229, 201]
+    kaisyu_n: [49, 4]
+    kaisyu_d: [58, 7]
+    kaizo_n: [160, 82]
+    kaizo_d: [229, 43]
+    map_n: [168, 160]
+    map_d: [232, 160]
+    ensyuf_n: [178, 154]
+    ensyuf_d: [262, 139]
+    ensyue_n: [162, 0]
+    battle_n: [219, 190]
+    battle_d: [286, 178]
+    wed_a: [162, -7]
+    wed_b: [109, 193]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---
