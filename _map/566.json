@@ -1,0 +1,326 @@
+---
+layout: json
+order: 566
+data:
+  id: 566
+  name: 硫黄島沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: E
+      to: F
+    7:
+      from: E
+      to: G
+    8:
+      from: B
+      to: C
+    9:
+      from: C
+      to: E
+    10:
+      from: D
+      to: E
+    11:
+      from: 2
+      to: H
+    12:
+      from: H
+      to: H1
+    13:
+      from: H
+      to: H2
+    14:
+      from: H1
+      to: I
+    15:
+      from: H2
+      to: J
+    16:
+      from: J
+      to: K
+    17:
+      from: K
+      to: L
+    18:
+      from: K
+      to: M
+    19:
+      from: M
+      to: N
+    20:
+      from: M
+      to: O
+    21:
+      from: H1
+      to: H2
+    22:
+      from: I
+      to: J
+    23:
+      from: L
+      to: M
+    24:
+      from: D
+      to: I
+    25:
+      from: null
+      to: 2
+    26:
+      from: 3
+      to: P
+    27:
+      from: 3
+      to: Q
+    28:
+      from: P
+      to: R
+    29:
+      from: R
+      to: S
+    30:
+      from: R
+      to: T
+    31:
+      from: T
+      to: U
+    32:
+      from: Q
+      to: R
+    33:
+      from: S
+      to: T
+    34:
+      from: null
+      to: 3
+    35:
+      from: T
+      to: V
+    36:
+      from: V
+      to: W
+    37:
+      from: V
+      to: X
+    38:
+      from: U
+      to: V
+    39:
+      from: R
+      to: Y
+    40:
+      from: Y
+      to: Y1
+    41:
+      from: Y1
+      to: Y2
+    42:
+      from: Y
+      to: Z
+    43:
+      from: Z
+      to: Z1
+    44:
+      from: Z1
+      to: Z2
+    45:
+      from: Y1
+      to: Z
+    46:
+      from: Y2
+      to: Z
+    47:
+      from: 4
+      to: Q
+    48:
+      from: Z
+      to: W
+    49:
+      from: null
+      to: 4
+    50:
+      from: 4
+      to: R
+    51:
+      from: Z
+      to: Z2
+  cells:
+    A:
+      name: 深海潜水艦隊 硫黄島哨戒線A群
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 硫黄島哨戒線B群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海任務部隊 船影ピケット艦隊
+      type:
+      boss: false
+      routes: [3, 8]
+    D:
+      name: 深海任務部隊 高速支援空母群
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海任務部隊 偵察巡洋艦戦隊
+      type:
+      boss: false
+      routes: [5, 9, 10]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海任務部隊 高速支援空母群
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [11]
+    H1:
+      name: 
+      type:
+      boss: false
+      routes: [12]
+    H2:
+      name: 深海任務部隊 硫黄島前衛警戒隊
+      type:
+      boss: false
+      routes: [13, 21]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [14, 24]
+    J:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [15, 22]
+    K:
+      name: 深海任務部隊 硫黄島揚陸阻止線
+      type:
+      boss: false
+      routes: [16]
+    L:
+      name: 深海任務部隊 硫黄島攻略支援群
+      type:
+      boss: false
+      routes: [17]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [18, 23]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [19]
+    O:
+      name: 深海硫黄島攻略支援 旗艦艦隊
+      type:
+      boss: false
+      routes: [20]
+    P:
+      name: 深海潜水艦隊 硫黄島哨戒線E群
+      type:
+      boss: false
+      routes: [26]
+    Q:
+      name: 深海潜水艦隊 硫黄島哨戒線D群
+      type:
+      boss: false
+      routes: [27, 47]
+    R:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [28, 32, 50]
+    S:
+      name: 深海任務部隊 レーダー射撃戦隊
+      type:
+      boss: false
+      routes: [29]
+    T:
+      name: 深海任務部隊 夜間突入警戒線
+      type:
+      boss: false
+      routes: [30, 33]
+    U:
+      name: 深海硫黄島攻略 火力支援部隊
+      type:
+      boss: false
+      routes: [31]
+    V:
+      name: 深海硫黄島攻略支援 機動部隊群
+      type:
+      boss: false
+      routes: [35, 38]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [36, 48]
+    X:
+      name: 深海硫黄島 上陸攻略部隊
+      type:
+      boss: false
+      routes: [37]
+    Y:
+      name: 硫黄島攻略部隊直轄 潜水戦隊I群
+      type:
+      boss: false
+      routes: [39]
+    Y1:
+      name: 深海任務部隊 快速警戒遊撃戦隊
+      type:
+      boss: false
+      routes: [40]
+    Y2:
+      name: 硫黄島攻略部隊直轄 潜水戦隊II群
+      type:
+      boss: false
+      routes: [41]
+    Z:
+      name: 深海硫黄島攻略部隊 随伴艦隊
+      type:
+      boss: false
+      routes: [42, 45, 46]
+    Z1:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [43]
+    Z2:
+      name: 深海硫黄島攻略部隊 主力艦隊
+      type:
+      boss: true
+      routes: [44, 51]
+  image: MapHDE-6Spring2023.png
+---
