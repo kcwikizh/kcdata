@@ -14,7 +14,7 @@ data:
   get_mes: いい風きてる？<br>次世代型駆逐艦のプロトタイプ、<br>あたし、天津風の出番ね。
   voice_f: 1
   filename: fdpybckruodj
-  file_version: ["6", "1", "314"]
+  file_version: ["7", "1", "423"]
   book_table_id: [181, 316, 5519]
   book_sinfo: 陽炎型駆逐艦九番艦の天津風です。<br>次世代の艦隊型駆逐艦のための新型高温高圧缶のテス<br>トベッドを務めたのよ。データはしっかりとって、島<br>風に渡したわ。幾多のピンチも頑張って乗り越えたの<br>よ。大変だったんだから！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 30
   graph:
-    boko_n: [144, 204]
-    boko_d: [96, 216]
+    boko_n: [174, 220]
+    boko_d: [174, 220]
     kaisyu_n: [12, 12]
     kaisyu_d: [36, 0]
-    kaizo_n: [108, 96]
-    kaizo_d: [48, 96]
-    map_n: [96, 144]
-    map_d: [72, 192]
-    ensyuf_n: [108, 168]
-    ensyuf_d: [72, 168]
-    ensyue_n: [72, 0]
-    battle_n: [96, 156]
-    battle_d: [96, 168]
-    wed_a: [216, 12]
-    wed_b: [216, 216]
+    kaizo_n: [184, 87]
+    kaizo_d: [169, 52]
+    map_n: [247, 181]
+    map_d: [247, 181]
+    ensyuf_n: [244, 165]
+    ensyuf_d: [244, 165]
+    ensyue_n: [231, 0]
+    battle_n: [277, 202]
+    battle_d: [277, 202]
+    wed_a: [97, -7]
+    wed_b: [109, 181]
   wiki_id: "181"
   chinese_name: 天津风
   can_drop: true

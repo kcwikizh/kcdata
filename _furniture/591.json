@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 591
+  type: 1
+  no: 100
+  title: 菖蒲の壁
+  description: 菖蒲の季節を前面に押し出<br>した菖蒲の壁です。薬用や<br>お風呂、そして菖蒲の形が<br>刀に見えることやショウブ<br>＝勝負で魔除けの意味も！
+  rarity: 4
+  price: 2000
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

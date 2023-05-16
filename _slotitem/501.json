@@ -3,11 +3,11 @@ layout: json
 order: 501
 data:
   id: 501
-  sort_no: 0
-  name: 5inch単装砲
-  type: [1, 1, 1, 1, 0]
-  rare: 0
-  broken: [0, 0, 0, 0]
+  sort_no: 501
+  name: 発煙装置改(煙幕)
+  type: [28, 49, 54, 54, 0]
+  rare: 2
+  broken: [2, 0, 0, 2]
   info: 
   usebull: 0
   cost: 9
@@ -15,7 +15,7 @@ data:
   stats:
     taik: 0
     souk: 0
-    houg: 1
+    houg: 0
     raig: 0
     soku: 0
     baku: 0
@@ -24,13 +24,13 @@ data:
     atap: 0
     houm: 0
     raim: 0
-    houk: 0
+    houk: 3
     raik: 0
     bakk: 0
     saku: 0
     sakb: 0
     luck: 0
-    leng: 1
+    leng: 0
   improvement: 
   chinese_name: 5英寸单装炮
 ---

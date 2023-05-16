@@ -6,17 +6,17 @@ data:
   name: 能美改
   yomi: のうみ
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 94
+  cnum: 4
   backs: 5
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
   filename: kyqajbdvlhxw
-  file_version: ["51", "1", "314"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "423"]
+  book_table_id: [909]
+  book_sinfo: 御蔵型海防艦、四番艦、能美と申します。消耗と苛烈<br>な海上護衛戦に対応するため、マル急計画で整備され<br>ました。松輸送や大湊方面の北の護り、そしてヒ船団<br>やモシ船団の護衛、敵潜水艦と激しい戦いを続けまし<br>た。最期は泊地に侵入した敵潜に……。今度は……静<br>かな海で。
   stats:
     taik: [17, 28]
     souk: [7, 33]
@@ -26,8 +26,8 @@ data:
     luck: [16, 76]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 52
+    tais: 39
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
