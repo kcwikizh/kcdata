@@ -14,7 +14,7 @@ data:
   get_mes: フッ、随分待たせたようだな……。<br>大和型戦艦二番艦、武蔵。参る！
   voice_f: 3
   filename: ilxnmfogntbo
-  file_version: ["11", "14", "314"]
+  file_version: ["11", "14", "423"]
   book_table_id: [143, 1022]
   book_sinfo: 大和型戦艦二番艦、武蔵だ。<br>長崎生まれだ。よろしく頼むぞ。<br>姉妹艦の大和や信濃と同じく、極秘裏に建造されたのさ。ああ、この主砲を存分に撃ち合いたかったな。今度は頼めるか…ありがたい！
   stats:

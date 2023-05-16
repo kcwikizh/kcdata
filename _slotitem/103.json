@@ -195,8 +195,12 @@ data:
         - false
         - false
         - false
-        - true
-        - true
+        -
+          -
+            ship_id: 151
+        -
+          -
+            ship_id: 151
         - false
   chinese_name: 试制35.6cm三连装炮
 ---

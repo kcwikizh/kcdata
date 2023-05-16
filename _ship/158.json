@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: qpnrcirsvqcr
-  file_version: ["29", "9", "314"]
+  file_version: ["30", "9", "423"]
   book_table_id: [158, 5501]
   book_sinfo: 5500トン級の軽巡洋艦の最終タイプ、それが私、川<br>内型よ。<br>熟成された軽巡の魅力、たっぷり教えてあげるから。<br>もちろん、夜戦でね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [258, 210]
-    boko_d: [264, 222]
+    boko_n: [96, 204]
+    boko_d: [144, 228]
     kaisyu_n: [30, 24]
     kaisyu_d: [60, 12]
-    kaizo_n: [192, 120]
-    kaizo_d: [186, 96]
-    map_n: [222, 204]
-    map_d: [228, 222]
-    ensyuf_n: [198, 204]
-    ensyuf_d: [210, 204]
-    ensyue_n: [186, 0]
-    battle_n: [240, 216]
-    battle_d: [246, 228]
-    wed_a: [126, -12]
-    wed_b: [150, 180]
+    kaizo_n: [60, 96]
+    kaizo_d: [72, 108]
+    map_n: [72, 168]
+    map_d: [120, 192]
+    ensyuf_n: [120, 180]
+    ensyuf_d: [144, 180]
+    ensyue_n: [72, 0]
+    battle_n: [132, 192]
+    battle_d: [132, 192]
+    wed_a: [228, 0]
+    wed_b: [168, 156]
   wiki_id: "158"
   chinese_name: 川内改二
   can_drop: false

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 589
+  type: 3
+  no: 132
+  title: 「十周年記念」掛け軸
+  description: 遂に遂に艦隊は、十周年！<br>艦隊の十周年を記念して、<br>主力オブ主力の駆逐艦たち<br>第十駆逐隊の面々が用意し<br>た記念の掛け軸です！
+  rarity: 6
+  price: 180000
+  saleflg: 0
+  season: 48
+  filename: "133"
+  file_version: "1"
+---

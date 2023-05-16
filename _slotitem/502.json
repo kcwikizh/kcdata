@@ -3,34 +3,34 @@ layout: json
 order: 502
 data:
   id: 502
-  sort_no: 0
-  name: 5inch連装砲
-  type: [1, 1, 1, 1, 0]
-  rare: 0
-  broken: [0, 0, 0, 0]
+  sort_no: 502
+  name: 35.6cm連装砲改三(ダズル迷彩仕様)
+  type: [1, 1, 3, 3, 0]
+  rare: 5
+  broken: [0, 20, 24, 12]
   info: 
   usebull: 0
   cost: 9
   distance: 8
   stats:
     taik: 0
-    souk: 0
-    houg: 2
+    souk: 2
+    houg: 20
     raig: 0
     soku: 0
     baku: 0
-    tyku: 0
+    tyku: 6
     tais: 0
     atap: 0
-    houm: 0
+    houm: 4
     raim: 0
-    houk: 0
+    houk: 3
     raik: 0
     bakk: 0
     saku: 0
     sakb: 0
     luck: 0
-    leng: 1
+    leng: 3
   improvement: 
   chinese_name: 5英寸连装炮
 ---

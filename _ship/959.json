@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 959
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 559
+  name: 深雪改二
+  yomi: みゆき
+  stype: 2
+  ctype: 12
+  cnum: 4
+  backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: yfcyhhkhwigb
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: jqpswubshyxm
+  file_version: ["51", "12", "423"]
+  book_table_id: [959]
+  book_sinfo: 特型駆逐艦４番艦の深雪さまだよ！<br>演習中に他の駆逐艦とぶつかって事故っちゃったこと<br>もあるんだ。<br>まー、でもやるときゃやるぜ。みてなって！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [31, 48]
+    souk: [14, 52]
+    houg: [14, 60]
+    raig: [30, 82]
+    tyku: [33, 82]
+    luck: [15, 74]
+    soku: 10
+    leng: 1
+    kaih: 48
+    tais: 25
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 22
   graph:
-    boko_n: [204, 228]
-    boko_d: [132, 216]
-    kaisyu_n: [36, -18]
-    kaisyu_d: [0, -6]
-    kaizo_n: [120, 120]
-    kaizo_d: [48, 72]
-    map_n: [156, 192]
-    map_d: [60, 168]
-    ensyuf_n: [144, 180]
-    ensyuf_d: [60, 168]
-    ensyue_n: [144, 0]
-    battle_n: [168, 192]
-    battle_d: [48, 192]
-    wed_a: [156, 12]
-    wed_b: [180, 156]
+    boko_n: [124, 117]
+    boko_d: [46, 225]
+    kaisyu_n: [19, -37]
+    kaisyu_d: [34, -3]
+    kaizo_n: [124, 0]
+    kaizo_d: [46, 79]
+    map_n: [111, 79]
+    map_d: [64, 198]
+    ensyuf_n: [124, 67]
+    ensyuf_d: [66, 169]
+    ensyue_n: [127, 0]
+    battle_n: [175, 102]
+    battle_d: [127, 210]
+    wed_a: [204, 85]
+    wed_b: [109, 177]
   wiki_id: 
   chinese_name: 
   can_drop: false

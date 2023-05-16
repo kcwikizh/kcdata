@@ -14,7 +14,7 @@ data:
   get_mes: 余がNelsonだ。貴様が余のAdmiralという訳か。<br>フッ……。なるほどな。　……いいだろう。<br>見せてもらおう、貴様の采配を、な。　愉しみだ。
   voice_f: 1
   filename: cdhgwlkagknq
-  file_version: ["52", "1", "314"]
+  file_version: ["52", "1", "423"]
   book_table_id: [571]
   book_sinfo: 余がNelson級戦艦一番艦、Nelsonだ。そうだ、三連<br>装主砲三基九門を全て艦前方に集中配置したこの独創<br>的なデザイン、ビックセブンの一角として、そして我<br>が本国艦隊の旗艦として存在感を放ったものだ。何?<br>この主砲配置には課題がある…だと?ブリティッシュ<br>ジョークも休み休み言え。今回だけは許してやろう。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [103, 156]
   wiki_id: "371"
   chinese_name: 纳尔逊
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

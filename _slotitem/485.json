@@ -59,10 +59,6 @@ data:
             amount: 1
       upgrade:
       day:
-        - false
-        -
-          -
-            ship_id: 501
         -
           -
             ship_id: 501
@@ -73,10 +69,14 @@ data:
             ship_id: 501
           -
             ship_id: 506
+        - false
+        - false
+        - false
         -
           -
             ship_id: 501
-        - false
-        - false
+        -
+          -
+            ship_id: 501
   chinese_name: 
 ---

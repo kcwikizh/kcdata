@@ -6,17 +6,17 @@ data:
   name: Tuscaloosa改
   yomi: タスカルーサ
   stype: 5
-  ctype: 
-  cnum: 
+  ctype: 121
+  cnum: 4
   backs: 6
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: jjfmynxxuonk
-  file_version: ["51", "1", "314"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "423"]
+  book_table_id: [928]
+  book_sinfo: USS Tuscaloosa。New Orleans classその四番<br>艦。重巡洋艦としては、最新鋭って訳じゃないけど、<br>大西洋で戦い、そして太平洋戦線、後半の島々の戦い<br>にも参加。もちろん戦いはあってはならない事だけ<br>ど、戦う事が必要な時も……あります。難しいね。本<br>当に。
   stats:
     taik: [53, 65]
     souk: [41, 75]
@@ -26,8 +26,8 @@ data:
     luck: [20, 90]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 37
+    tais: 0
     slot_num: 4
     max_eq: [1, 1, 2, 5, 0]
     after_fuel: 

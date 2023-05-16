@@ -8,7 +8,7 @@ data:
   description: 一部艦娘に絶賛されている<br>ピンクのコンクリート壁。<br>打ちっぱなし壁面なのに、<br>キュートな独特の雰囲気。
   rarity: 2
   price: 250
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
   file_version: 

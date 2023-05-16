@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: sbxjrrwenuzq
-  file_version: ["90", "6", "314"]
+  file_version: ["92", "6", "423"]
   book_table_id: [542, 1055, 1123]
   book_sinfo: 最終量産型艦隊駆逐艦の一番艦。舞鶴生まれよ。惨敗<br>のミッドウェー海戦が初陣よ。いいじゃない、別に。<br>あの島への鼠輸送やケ号作戦、南太平洋海戦、キスカ<br>撤退作戦などで奮戦したわ。ふう。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [34, 198]
-    boko_d: [159, 204]
+    boko_n: [187, 124]
+    boko_d: [76, 211]
     kaisyu_n: [58, -13]
     kaisyu_d: [58, -13]
-    kaizo_n: [19, 73]
-    kaizo_d: [141, 34]
-    map_n: [36, 166]
-    map_d: [163, 168]
-    ensyuf_n: [45, 154]
-    ensyuf_d: [177, 145]
-    ensyue_n: [31, 0]
-    battle_n: [64, 190]
-    battle_d: [211, 190]
-    wed_a: [298, 0]
-    wed_b: [121, 166]
+    kaizo_n: [166, 36]
+    kaizo_d: [66, 90]
+    map_n: [199, 118]
+    map_d: [91, 205]
+    ensyuf_n: [178, 111]
+    ensyuf_d: [75, 190]
+    ensyue_n: [169, 0]
+    battle_n: [229, 127]
+    battle_d: [120, 217]
+    wed_a: [147, 70]
+    wed_b: [126, 142]
   wiki_id: "342"
   chinese_name: 夕云改二
   can_drop: false

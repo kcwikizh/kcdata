@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 954
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: htxwmiwimiwl
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 554
+  name: 榛名改二丙
+  yomi: はるな
+  stype: 8
+  ctype: 6
+  cnum: 3
+  backs: 8
+  after_lv: 90
+  after_ship_id: 593
+  get_mes: <br>
+  voice_f: 3
+  filename: yzlukkewigbp
+  file_version: ["51", "29", "423"]
+  book_table_id: [954]
+  book_sinfo: 高速の巡洋戦艦、榛名です。<br>国産の四一式36センチ砲を装備しました。<br>呉鎮守府の江田島で最後まで空を睨んで奮戦したわ。<br>高速戦艦四姉妹で最期まで、戦い抜いた榛名のこと、<br>覚えていてね。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [85, 98]
+    souk: [70, 93]
+    houg: [75, 96]
+    raig: [18, 43]
+    tyku: [44, 91]
+    luck: [32, 100]
+    soku: 10
+    leng: 3
+    kaih: 38
+    tais: 0
+    slot_num: 4
+    max_eq: [1, 2, 4, 3, 0]
+    after_fuel: 1700
+    after_bull: 1300
+    fuel_max: 100
+    bull_max: 160
+    broken: [14, 19, 38, 4]
+    pow_up: [4, 1, 3, 4]
+    build_time: 240
   graph:
-    boko_n: [150, 78]
-    boko_d: [168, 180]
-    kaisyu_n: [4, 25]
-    kaisyu_d: [22, 10]
-    kaizo_n: [72, -12]
-    kaizo_d: [72, 48]
-    map_n: [84, 72]
-    map_d: [96, 132]
-    ensyuf_n: [84, 66]
-    ensyuf_d: [120, 126]
-    ensyue_n: [72, 0]
-    battle_n: [96, 72]
-    battle_d: [108, 144]
-    wed_a: [240, 150]
-    wed_b: [177, 150]
+    boko_n: [-193, 211]
+    boko_d: [21, 244]
+    kaisyu_n: [31, 22]
+    kaisyu_d: [49, -76]
+    kaizo_n: [-178, 97]
+    kaizo_d: [36, 88]
+    map_n: [-168, 190]
+    map_d: [34, 202]
+    ensyuf_n: [-130, 187]
+    ensyuf_d: [22, 184]
+    ensyue_n: [-142, 0]
+    battle_n: [-88, 214]
+    battle_d: [79, 223]
+    wed_a: [481, -33]
+    wed_b: [118, 195]
   wiki_id: 
   chinese_name: 
   can_drop: false

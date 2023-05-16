@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: algyyokhbnwz
-  file_version: ["64", "13", "314"]
+  file_version: ["65", "13", "423"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [318, 216]
-    boko_d: [240, 246]
+    boko_n: [-25, 159]
+    boko_d: [-4, 160]
     kaisyu_n: [6, -13]
     kaisyu_d: [42, -16]
-    kaizo_n: [270, 150]
-    kaizo_d: [162, 126]
-    map_n: [288, 216]
-    map_d: [198, 222]
-    ensyuf_n: [264, 216]
-    ensyuf_d: [174, 222]
-    ensyue_n: [258, 0]
-    battle_n: [300, 228]
-    battle_d: [216, 246]
-    wed_a: [72, -12]
-    wed_b: [126, 180]
+    kaizo_n: [-108, 76]
+    kaizo_d: [-24, 3]
+    map_n: [-57, 159]
+    map_d: [-148, 145]
+    ensyuf_n: [-12, 127]
+    ensyuf_d: [-40, 69]
+    ensyue_n: [-12, 0]
+    battle_n: [-43, 129]
+    battle_d: [-43, 129]
+    wed_a: [363, 57]
+    wed_b: [244, 178]
   wiki_id: "092a"
   chinese_name: 不知火改
   can_drop: false
