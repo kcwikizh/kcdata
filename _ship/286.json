@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: mnkjkgammeds
-  file_version: ["65", "21", "423"]
+  file_version: ["66", "21", "614"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 4]
     build_time: 260
   graph:
-    boko_n: [-126, 18]
-    boko_d: [-39, 49]
+    boko_n: [-30, 120]
+    boko_d: [108, 198]
     kaisyu_n: [16, -10]
     kaisyu_d: [48, 27]
-    kaizo_n: [-135, -43]
-    kaizo_d: [12, -72]
-    map_n: [-84, -28]
-    map_d: [15, 9]
-    ensyuf_n: [-13, -4]
-    ensyuf_d: [60, -36]
-    ensyue_n: [-54, 0]
-    battle_n: [0, 51]
-    battle_d: [-7, 25]
-    wed_a: [436, 186]
-    wed_b: [147, 163]
+    kaizo_n: [-108, 30]
+    kaizo_d: [84, 48]
+    map_n: [-72, 78]
+    map_d: [120, 156]
+    ensyuf_n: [-108, 84]
+    ensyuf_d: [126, 156]
+    ensyue_n: [-108, 0]
+    battle_n: [-60, 114]
+    battle_d: [138, 186]
+    wed_a: [450, 96]
+    wed_b: [108, 174]
   wiki_id: "026a"
   chinese_name: 扶桑改
   can_drop: false

@@ -9,12 +9,12 @@ data:
   ctype: 23
   cnum: 2
   backs: 6
-  after_lv: 
-  after_ship_id: 
+  after_lv: 97
+  after_ship_id: 961
   get_mes: <br>
   voice_f: 3
   filename: ogkwigciybxf
-  file_version: ["83", "77", "423"]
+  file_version: ["84", "78", "614"]
   book_table_id: [145, 903, 916, 927, 995, 854, 758]
   book_sinfo: 僕は白露型駆逐艦２番艦の時雨だよ。<br>あのレイテ沖海戦では、西村艦隊に所属して、運命のスリガオ海峡に突入したんだ。<br>扶桑も山城も凄かったよ……。<br>皆が忘れても、僕だけはずっと覚えているから……。
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 30
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 390
+    after_bull: 470
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]

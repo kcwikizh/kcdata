@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ellemgzdcxmy
-  file_version: ["63", "2", "423"]
+  file_version: ["65", "2", "614"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 3, 1]
     build_time: 23
   graph:
-    boko_n: [64, 229]
-    boko_d: [-34, 232]
+    boko_n: [19, 241]
+    boko_d: [103, 304]
     kaisyu_n: [19, -27]
     kaisyu_d: [49, -16]
-    kaizo_n: [70, 103]
-    kaizo_d: [-25, 67]
-    map_n: [91, 193]
-    map_d: [1, 199]
-    ensyuf_n: [99, 186]
-    ensyuf_d: [-15, 184]
-    ensyue_n: [76, 0]
-    battle_n: [108, 217]
-    battle_d: [33, 223]
-    wed_a: [261, -37]
-    wed_b: [123, 187]
+    kaizo_n: [6, 106]
+    kaizo_d: [88, 151]
+    map_n: [4, 213]
+    map_d: [118, 214]
+    ensyuf_n: [34, 196]
+    ensyuf_d: [150, 207]
+    ensyue_n: [40, 0]
+    battle_n: [67, 216]
+    battle_d: [163, 235]
+    wed_a: [289, -4]
+    wed_b: [165, 145]
   wiki_id: "396a"
   chinese_name: 弗莱彻改
   can_drop: false

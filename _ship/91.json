@@ -14,7 +14,7 @@ data:
   get_mes: 航空母艦、飛龍です。<br>空母戦ならお任せ！どんな苦境でも戦えます！
   voice_f: 1
   filename: gobumojesgfi
-  file_version: ["15", "16", "423"]
+  file_version: ["15", "16", "614"]
   book_table_id: [91]
   book_sinfo: 飛龍型航空母艦、飛龍です。<br>…ん？蒼龍型改じゃないかって？いいじゃん、そんなこと。それより、索敵は大切にねッ。<br>空母戦は先手必勝！慢心はダメ、ゼッタイ。<br>慎重に、そして、大胆に戦い抜こうよ！
   stats:

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 594
+  type: 5
+  no: 103
+  title: 紫陽花のお茶会テーブル
+  description: 紫陽花が綺麗な季節、水辺<br>の波紋をガラステーブルで<br>表現した、梅雨のお茶会家<br>具です。冷した緑茶をグラ<br>スで頂くのもいいですね。
+  rarity: 3
+  price: 1300
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

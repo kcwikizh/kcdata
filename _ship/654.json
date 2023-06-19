@@ -14,9 +14,9 @@ data:
   get_mes: North Carolina class. USS Battleship Washington、着任。<br>貴方が私の提督って訳か…しっかりした指揮をお願いね。
   voice_f: 1
   filename: pfduewnoehik
-  file_version: ["56", "1", "423"]
-  book_table_id: [654, 5569]
-  book_sinfo: North Carolina　class.　USS Battleship<br>Washingtonです。欧州方面に展開し、イギリス本国<br>艦隊と共に北極海での作戦に備えたわ。太平洋戦線で<br>は、あのIronbottom Soundで戦艦同士の激しい夜<br>戦を戦ったの。
+  file_version: ["57", "1", "614"]
+  book_table_id: [654, 5569, 5735]
+  book_sinfo: North Carolina　class.　USS Battleship Washingtonです。欧州方面に展開し、イギリス本国艦隊と共に北極海での作戦に備えたわ。太平洋戦線では、あのIronbottom Soundで戦艦同士の激しい夜戦を戦ったの。
   stats:
     taik: [81, 93]
     souk: [74, 91]
@@ -38,21 +38,21 @@ data:
     pow_up: [5, 0, 2, 5]
     build_time: 400
   graph:
-    boko_n: [135, 171]
-    boko_d: [109, 210]
+    boko_n: [-214, 166]
+    boko_d: [126, 189]
     kaisyu_n: [36, -28]
     kaisyu_d: [82, -40]
-    kaizo_n: [132, 64]
-    kaizo_d: [96, 40]
-    map_n: [124, 142]
-    map_d: [97, 171]
-    ensyuf_n: [136, 142]
-    ensyuf_d: [126, 165]
-    ensyue_n: [132, 0]
-    battle_n: [187, 172]
-    battle_d: [169, 210]
-    wed_a: [195, -4]
-    wed_b: [109, 187]
+    kaizo_n: [-264, 67]
+    kaizo_d: [106, 6]
+    map_n: [-225, 142]
+    map_d: [165, 141]
+    ensyuf_n: [-213, 148]
+    ensyuf_d: [184, 117]
+    ensyue_n: [-246, 0]
+    battle_n: [-184, 165]
+    battle_d: [193, 150]
+    wed_a: [550, 16]
+    wed_b: [157, 166]
   wiki_id: "454"
   chinese_name: 华盛顿
   can_drop: true

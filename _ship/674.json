@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦、その九番艦、玉波です。<br>十一水雷戦隊所属となります。<br>戦力となれるよう努めます。
   voice_f: 1
   filename: mcxasnlfgafn
-  file_version: ["51", "1", "423"]
+  file_version: ["52", "1", "614"]
   book_table_id: [674]
   book_sinfo: 夕雲型駆逐艦、九番艦、玉波です。栄光ある二水戦に<br>配属され、ラバウルなどの最前線に向かいました。<br>藤波さんたちと共にマリアナ沖決戦にも参加。既に前<br>線の崩壊した海上の輸送船団護衛にも従事しました。<br>潜水艦の脅威、忘れてはいけません。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [123, 205]
-    boko_d: [70, 199]
+    boko_n: [265, 231]
+    boko_d: [265, 231]
     kaisyu_n: [7, -1]
     kaisyu_d: [106, -40]
-    kaizo_n: [126, 78]
-    kaizo_d: [49, 9]
-    map_n: [147, 178]
-    map_d: [96, 166]
-    ensyuf_n: [139, 163]
-    ensyuf_d: [108, 127]
-    ensyue_n: [145, 0]
-    battle_n: [187, 196]
-    battle_d: [160, 166]
-    wed_a: [202, -7]
-    wed_b: [111, 181]
+    kaizo_n: [265, 106]
+    kaizo_d: [250, 70]
+    map_n: [268, 205]
+    map_d: [268, 205]
+    ensyuf_n: [268, 190]
+    ensyuf_d: [268, 190]
+    ensyue_n: [282, 0]
+    battle_n: [307, 228]
+    battle_d: [307, 228]
+    wed_a: [67, -49]
+    wed_b: [109, 204]
   wiki_id: "474"
   chinese_name: 玉波
   can_drop: false

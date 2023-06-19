@@ -14,7 +14,7 @@ data:
   get_mes: 給油艦、神威と申します。<br>はい、北海道神威岬由来の名前を頂いています。<br>できる限り、頑張りますね。
   voice_f: 1
   filename: jqvoyyolpqgv
-  file_version: ["38", "1", "423"]
+  file_version: ["39", "1", "614"]
   book_table_id: [162, 807, 779, 748]
   book_sinfo: 給油艦として建造された「神威」です。<br>米国で生まれ、その後水上機母艦に改装されました。水上機収容用ハイン式マットは思ったより便利ではなかったけれど……。最終的に飛行艇母艦となり、輸送作戦に従事しました。戦いの前は、米艦と共に女性飛行家の捜索も頑張りました。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 0, 1]
     build_time: 140
   graph:
-    boko_n: [126, 192]
+    boko_n: [198, 18]
     boko_d: [168, 174]
     kaisyu_n: [42, -9]
     kaisyu_d: [90, 3]
-    kaizo_n: [90, 84]
+    kaizo_n: [168, -66]
     kaizo_d: [126, 60]
-    map_n: [96, 168]
+    map_n: [174, -18]
     map_d: [192, 162]
-    ensyuf_n: [108, 168]
+    ensyuf_n: [180, -12]
     ensyuf_d: [210, 150]
-    ensyue_n: [72, 0]
-    battle_n: [138, 192]
+    ensyue_n: [180, 0]
+    battle_n: [216, 36]
     battle_d: [216, 168]
-    wed_a: [216, 12]
-    wed_b: [138, 162]
+    wed_a: [150, 192]
+    wed_b: [132, 156]
   wiki_id: "162"
   chinese_name: 神威
   can_drop: true

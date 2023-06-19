@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: fsgwccpesgfh
-  file_version: ["97", "41", "423"]
+  file_version: ["98", "41", "614"]
   book_table_id: [407, 5197, 5225, 5241, 5084, 5477, 5487, 5535, 5643]
   book_sinfo: 綾波型１０番艦の潮です。<br>レイテ沖海戦などの激戦を潜り抜け、運命のあの日、<br>横須賀で御役目を終えるまで戦い抜きました。<br>あ、あの…沈めた敵艦の皆さんも…ホントはお助けし<br>たいのです。ホントです！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 2, 1]
     build_time: 20
   graph:
-    boko_n: [252, 222]
-    boko_d: [252, 222]
+    boko_n: [99, 223]
+    boko_d: [124, 210]
     kaisyu_n: [12, 12]
     kaisyu_d: [30, -36]
-    kaizo_n: [241, 97]
-    kaizo_d: [226, 63]
-    map_n: [276, 192]
-    map_d: [276, 192]
-    ensyuf_n: [256, 180]
-    ensyuf_d: [256, 180]
-    ensyue_n: [262, 0]
-    battle_n: [295, 216]
-    battle_d: [295, 216]
-    wed_a: [61, -27]
-    wed_b: [148, 180]
+    kaizo_n: [97, 103]
+    kaizo_d: [145, 48]
+    map_n: [103, 195]
+    map_d: [180, 190]
+    ensyuf_n: [121, 178]
+    ensyuf_d: [189, 175]
+    ensyue_n: [112, 0]
+    battle_n: [160, 205]
+    battle_d: [231, 189]
+    wed_a: [213, -22]
+    wed_b: [153, 178]
   wiki_id: "207"
   chinese_name: 潮改二
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: Hello！　航空母艦、Saratogaです。<br>提督、サラとお呼びくださいね。よろしくお願い致します。
   voice_f: 1
   filename: qtuuhjmqmvfh
-  file_version: ["2", "1", "423"]
+  file_version: ["2", "1", "614"]
   book_table_id: [433]
   book_sinfo: Hello！ アメリカ生まれの大型正規空母Saratogaです。<br>歴史深い由緒ある名前を頂いています。あの大きな戦いでは、最初から最後まで頑張ったんです。戦いの終わったあと、Nagatoさんたちと一緒にある実験に参加しました。<br>これからSaraも皆さんと同じ艦隊で、頑張らせてくださいね！
   stats:
