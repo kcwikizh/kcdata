@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 593
+  type: 2
+  no: 89
+  title: 時雨の蜜柑窓
+  description: ある白露型駆逐艦達が妙に<br>好きな果物、蜜柑。美味し<br>い佐世保の蜜柑がいつでも<br>補充されている不思議な窓<br>です。ビタミン補給大切！
+  rarity: 4
+  price: 1980
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

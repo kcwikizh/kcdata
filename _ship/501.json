@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: nvooracdznoz
-  file_version: ["55", "1", "423"]
+  file_version: ["55", "1", "614"]
   book_table_id: [501, 5644, 5684]
   book_sinfo: 最上型重巡洋艦１番艦。<br>最上の後部主砲を全て取り払って、代わりに水上機を<br>運用する航空甲板を設置した、航空巡洋艦だよ。<br>水上機母艦並の航空力と火力、どうよ！
   stats:

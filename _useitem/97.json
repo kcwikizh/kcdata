@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 97
+  usetype: 0
+  category: 0
+  name: てるてる坊主
+  description:
+    - "艦娘が集めたり、作ったりした<br>「てるてる坊主」です。　　　<br>複数集めると梅雨明け頃に何か<br>少しいいコトあるかも！　　　<br>※夏本格到来時に消滅します。"
+    - ""
+  price: 0
+  chinese_name:
+  chinese_description:
+---

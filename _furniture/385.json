@@ -8,8 +8,8 @@ data:
   description: 梅雨は、傘も大切な季節。<br>各艦娘たちがそれぞれ用意<br>した傘立てです。秘書艦に<br>よって色々と変わります。<br>雨の日も…楽しいですね！
   rarity: 5
   price: 4000
-  saleflg: 0
+  saleflg: 1
   season: 19
   filename: "054"
-  file_version: 10
+  file_version: 11
 ---

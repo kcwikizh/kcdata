@@ -14,7 +14,7 @@ data:
   get_mes: 千歳です。<br>日本では初めての水上機母艦なのよ。よろしくね！
   voice_f: 0
   filename: dkmxevqgbxmr
-  file_version: ["40", "26", "423"]
+  file_version: ["41", "26", "614"]
   book_table_id: [102, 955, 894]
   book_sinfo: 水上機母艦千歳です。<br>水上機を沢山運用できる優れものですが、給油艦として重油を他の艦に補給もできちゃうの。<br>後期には、航空母艦に改装され、第一線で戦ったのよ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 2]
     build_time: 140
   graph:
-    boko_n: [58, 151]
-    boko_d: [-24, 172]
+    boko_n: [276, 228]
+    boko_d: [210, 246]
     kaisyu_n: [15, 30]
     kaisyu_d: [39, 43]
-    kaizo_n: [-24, 69]
-    kaizo_d: [-126, 7]
-    map_n: [-51, 150]
-    map_d: [-168, 157]
-    ensyuf_n: [-12, 127]
-    ensyuf_d: [-126, 70]
-    ensyue_n: [-12, 0]
-    battle_n: [-36, 120]
-    battle_d: [-136, 123]
-    wed_a: [325, 54]
-    wed_b: [165, 177]
+    kaizo_n: [162, 156]
+    kaizo_d: [96, 138]
+    map_n: [192, 198]
+    map_d: [108, 198]
+    ensyuf_n: [174, 192]
+    ensyuf_d: [108, 198]
+    ensyue_n: [168, 0]
+    battle_n: [204, 216]
+    battle_d: [144, 228]
+    wed_a: [144, -6]
+    wed_b: [114, 162]
   wiki_id: "049"
   chinese_name: 千岁
   can_drop: true

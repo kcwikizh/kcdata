@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: pjbmgnhmdomg
-  file_version: ["71", "1", "423"]
+  file_version: ["72", "1", "614"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [238, 279]
-    boko_d: [66, 325]
+    boko_n: [151, 226]
+    boko_d: [94, 202]
     kaisyu_n: [12, -58]
     kaisyu_d: [31, -61]
-    kaizo_n: [253, 150]
-    kaizo_d: [76, 118]
-    map_n: [258, 226]
-    map_d: [120, 255]
-    ensyuf_n: [259, 205]
-    ensyuf_d: [121, 217]
-    ensyue_n: [255, 0]
-    battle_n: [318, 250]
-    battle_d: [156, 259]
-    wed_a: [79, -42]
-    wed_b: [112, 181]
+    kaizo_n: [142, 105]
+    kaizo_d: [133, 48]
+    map_n: [163, 165]
+    map_d: [153, 132]
+    ensyuf_n: [160, 166]
+    ensyuf_d: [166, 118]
+    ensyue_n: [163, 0]
+    battle_n: [205, 217]
+    battle_d: [181, 163]
+    wed_a: [183, -4]
+    wed_b: [88, 223]
   wiki_id: "438a"
   chinese_name: 第三〇号海防舰改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: Nice to meet you. <br>Admiral? お会いできて光栄です。<br>私 CV4 USS Ranger と申します。
   voice_f: 1
   filename: uodemjpojthc
-  file_version: ["57", "1", "423"]
+  file_version: ["57", "1", "614"]
   book_table_id: [931, 5689, 5700, 5717, 5727]
   book_sinfo: USS CV4 Rangerです。<br>アメリカ海軍初の最初から航空母艦として設計された<br>純然たる正規空母です。大西洋艦隊に配属され、トー<br>チ作戦などに参加しました。正規空母の純粋なプロト<br>タイプ、私の事も、どうぞ覚えていてくださいね。
   stats:

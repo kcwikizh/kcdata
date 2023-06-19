@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 961
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 561
+  name: 時雨改三
+  yomi: しぐれ
+  stype: 2
+  ctype: 23
+  cnum: 2
+  backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: qbimnqxrfjtd
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: xgkywfhkphjf
+  file_version: ["51", "78", "614"]
+  book_table_id: [961]
+  book_sinfo: 僕は白露型駆逐艦２番艦の時雨だよ。<br>あのレイテ沖海戦では、西村艦隊に所属して、運命の<br>スリガオ海峡に突入したんだ。<br>扶桑も山城も凄かったよ……。<br>皆が忘れても、僕だけはずっと覚えているから……。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [34, 54]
+    souk: [15, 57]
+    houg: [16, 67]
+    raig: [31, 91]
+    tyku: [31, 87]
+    luck: [55, 97]
+    soku: 10
+    leng: 1
+    kaih: 63
+    tais: 39
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 25
+    broken: [2, 4, 11, 2]
+    pow_up: [2, 2, 3, 2]
+    build_time: 22
   graph:
-    boko_n: [60, 144]
-    boko_d: [6, 222]
-    kaisyu_n: [48, 6]
-    kaisyu_d: [60, 12]
-    kaizo_n: [0, 72]
-    kaizo_d: [-48, 114]
-    map_n: [6, 144]
-    map_d: [-36, 216]
-    ensyuf_n: [-12, 126]
-    ensyuf_d: [-36, 210]
-    ensyue_n: [0, 0]
-    battle_n: [48, 144]
-    battle_d: [-6, 216]
-    wed_a: [282, 48]
-    wed_b: [144, 174]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [199, 211]
+    boko_d: [84, 271]
+    kaisyu_n: [25, 16]
+    kaisyu_d: [25, -45]
+    kaizo_n: [205, 97]
+    kaizo_d: [64, 91]
+    map_n: [214, 183]
+    map_d: [88, 222]
+    ensyuf_n: [210, 166]
+    ensyuf_d: [82, 184]
+    ensyue_n: [223, 0]
+    battle_n: [244, 201]
+    battle_d: [112, 232]
+    wed_a: [130, -25]
+    wed_b: [105, 199]
+  wiki_id: "561"
+  chinese_name: 时雨改三
   can_drop: false
   can_construct: false
 ---

@@ -8,7 +8,7 @@ data:
   description: 紫陽花の生花をふんだんに<br>使った豪華な生花壁飾り。<br>てるてる坊主もアレンジさ<br>れています。紫陽花には毒<br>があるかも？ないかも？
   rarity: 3
   price: 1700
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 
