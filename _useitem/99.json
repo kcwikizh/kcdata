@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 99
+  usetype: 4
+  category: 0
+  name: 白たすき
+  description:
+    - "旗艦に付与されます(既に同様 <br>のものが付与されている場合は<br>上書きして付与されます)。　 <br>※艦娘戦闘力が微上昇します。"
+    - ""
+  price: 0
+  chinese_name:
+  chinese_description:
+---

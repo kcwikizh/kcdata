@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: wnibjvejengh
-  file_version: ["24", "12", "614"]
+  file_version: ["25", "12", "707"]
   book_table_id: [436, 796]
   book_sinfo: ドイツ海軍のUボート、U-511を日本海軍式に改装して運用した、呂号第500潜水艦です。<br>舞鶴を母港として運用されました。実戦には出なかったんだけど、対潜部隊の訓練などで活躍しました、はい！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [156, 240]
-    boko_d: [192, 234]
+    boko_n: [228, 252]
+    boko_d: [348, 246]
     kaisyu_n: [0, -18]
     kaisyu_d: [36, -6]
-    kaizo_n: [84, 132]
-    kaizo_d: [108, 96]
-    map_n: [84, 216]
-    map_d: [120, 216]
-    ensyuf_n: [96, 192]
-    ensyuf_d: [144, 192]
-    ensyue_n: [72, 0]
-    battle_n: [144, 204]
-    battle_d: [144, 216]
-    wed_a: [216, -18]
-    wed_b: [192, 168]
+    kaizo_n: [156, 156]
+    kaizo_d: [246, 120]
+    map_n: [180, 210]
+    map_d: [276, 210]
+    ensyuf_n: [156, 216]
+    ensyuf_d: [270, 216]
+    ensyue_n: [156, 0]
+    battle_n: [180, 234]
+    battle_d: [300, 252]
+    wed_a: [186, -36]
+    wed_b: [138, 168]
   wiki_id: "236"
   chinese_name: 吕500
   can_drop: false

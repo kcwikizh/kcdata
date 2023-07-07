@@ -14,9 +14,9 @@ data:
   get_mes: どうも！夕雲型の最終艦、清霜です。<br>到着遅れました、よろしくお願いです！
   voice_f: 1
   filename: gdbwncyaopob
-  file_version: ["35", "3", "614"]
-  book_table_id: [410, 983, 889, 1007]
-  book_sinfo: 夕雲型駆逐艦のラスト、十九番艦の清霜です。<br>浦賀生まれですよ。もう、そうとう辛い戦局の中で生まれたの。短い間だったけど、縦横無尽に活躍したわ。凄惨だったレイテはもちろん、あの礼号作戦にも参加したのよ！どう？
+  file_version: ["36", "3", "707"]
+  book_table_id: [410, 5255, 5161, 5279, 5747]
+  book_sinfo: 夕雲型駆逐艦のラスト、十九番艦の清霜です。<br>浦賀生まれですよ。もう、そうとう辛い戦局の中で生<br>まれたの。短い間だったけど、縦横無尽に活躍した<br>わ。凄惨だったレイテはもちろん、あの礼号作戦にも<br>参加したのよ！どう？
   stats:
     taik: [16, 34]
     souk: [6, 19]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [162, 204]
-    boko_d: [162, 204]
+    boko_n: [-36, 162]
+    boko_d: [48, 240]
     kaisyu_n: [0, 0]
     kaisyu_d: [36, -12]
-    kaizo_n: [60, 114]
-    kaizo_d: [48, 81]
-    map_n: [90, 150]
-    map_d: [90, 150]
-    ensyuf_n: [90, 156]
-    ensyuf_d: [90, 156]
-    ensyue_n: [72, 0]
-    battle_n: [108, 180]
-    battle_d: [108, 180]
-    wed_a: [234, 42]
-    wed_b: [153, 168]
+    kaizo_n: [-84, 108]
+    kaizo_d: [-24, 84]
+    map_n: [-48, 144]
+    map_d: [12, 216]
+    ensyuf_n: [-36, 138]
+    ensyuf_d: [36, 192]
+    ensyue_n: [-72, 0]
+    battle_n: [-24, 144]
+    battle_d: [48, 216]
+    wed_a: [384, 72]
+    wed_b: [180, 168]
   wiki_id: "210"
   chinese_name: 清霜
   can_drop: true

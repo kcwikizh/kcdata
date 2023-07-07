@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: hbbpfodwvfop
-  file_version: ["53", "1", "614"]
+  file_version: ["54", "2", "707"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 0, 2, 2]
     build_time: 70
   graph:
-    boko_n: [-73, 208]
-    boko_d: [55, 159]
+    boko_n: [-40, 231]
+    boko_d: [208, 232]
     kaisyu_n: [1, -1]
     kaisyu_d: [49, 13]
-    kaizo_n: [-61, 94]
-    kaizo_d: [48, 7]
-    map_n: [-75, 180]
-    map_d: [48, 130]
-    ensyuf_n: [-49, 171]
-    ensyuf_d: [70, 118]
-    ensyue_n: [-54, 0]
-    battle_n: [18, 198]
-    battle_d: [118, 156]
-    wed_a: [391, -24]
-    wed_b: [127, 189]
+    kaizo_n: [-34, 115]
+    kaizo_d: [216, 75]
+    map_n: [-7, 199]
+    map_d: [247, 199]
+    ensyuf_n: [-13, 181]
+    ensyuf_d: [244, 186]
+    ensyue_n: [-7, 0]
+    battle_n: [15, 220]
+    battle_d: [271, 216]
+    wed_a: [352, -39]
+    wed_b: [112, 184]
   wiki_id: "497a"
   chinese_name: 布鲁克林改
   can_drop: false

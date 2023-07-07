@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: vdhgqjugfjxm
-  file_version: ["67", "2", "614"]
+  file_version: ["68", "10", "707"]
   book_table_id: [920, 5712]
   book_sinfo: 護衛駆逐艦、ジョン・C・バトラー級、サミュエル・<br>B・ロバーツです。姉妹はもの凄く多いんだ。船団護<br>衛や対潜哨戒、結構万能なんだよ！で、私はね、<br>TaffyⅢって任務部隊で、護衛空母を守って戦ったん<br>だ。自分より大きくて強い艦たちと。私のことも覚え<br>ておいてね。Thanks！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 2, 0]
     build_time: 9
   graph:
-    boko_n: [106, 223]
-    boko_d: [10, 291]
+    boko_n: [181, 192]
+    boko_d: [1, 270]
     kaisyu_n: [31, -10]
     kaisyu_d: [85, -40]
-    kaizo_n: [114, 103]
-    kaizo_d: [-4, 129]
-    map_n: [111, 181]
-    map_d: [60, 261]
-    ensyuf_n: [132, 177]
-    ensyuf_d: [64, 202]
-    ensyue_n: [121, 0]
-    battle_n: [166, 199]
-    battle_d: [93, 271]
-    wed_a: [214, -25]
-    wed_b: [111, 193]
+    kaizo_n: [202, 70]
+    kaizo_d: [-43, 132]
+    map_n: [204, 169]
+    map_d: [19, 214]
+    ensyuf_n: [195, 169]
+    ensyuf_d: [15, 214]
+    ensyue_n: [166, 0]
+    battle_n: [229, 183]
+    battle_d: [46, 238]
+    wed_a: [91, 22]
+    wed_b: [180, 184]
   wiki_id: "520"
   chinese_name: 塞缪尔·B·罗伯茨 Mk.II
   can_drop: false

@@ -14,16 +14,16 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: xyqotgpmnjih
-  file_version: ["27", "11", "614"]
+  file_version: ["28", "11", "707"]
   book_table_id: [159, 949]
   book_sinfo: 神通です。近代化改装を受け、<br>第２水雷戦隊の旗艦を務めました。<br>コロンバンガラ島沖海戦では先頭に立って奮戦します。<br>でも、みんな私の事狙うんですもの…ひどいわ……。
   stats:
     taik: [51, 63]
     souk: [29, 69]
-    houg: [27, 73]
-    raig: [38, 98]
+    houg: [27, 74]
+    raig: [38, 99]
     tyku: [18, 68]
-    luck: [13, 79]
+    luck: [13, 81]
     soku: 10
     leng: 2
     kaih: 41
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [96, 192]
-    boko_d: [144, 210]
+    boko_n: [300, 198]
+    boko_d: [168, 240]
     kaisyu_n: [12, 24]
     kaisyu_d: [84, 0]
-    kaizo_n: [66, 66]
-    kaizo_d: [66, 66]
-    map_n: [72, 168]
-    map_d: [192, 192]
-    ensyuf_n: [132, 180]
-    ensyuf_d: [192, 120]
-    ensyue_n: [120, 0]
-    battle_n: [108, 156]
-    battle_d: [144, 168]
-    wed_a: [240, 36]
-    wed_b: [168, 156]
+    kaizo_n: [204, 96]
+    kaizo_d: [96, 84]
+    map_n: [216, 156]
+    map_d: [120, 192]
+    ensyuf_n: [216, 168]
+    ensyuf_d: [132, 186]
+    ensyue_n: [168, 0]
+    battle_n: [204, 180]
+    battle_d: [120, 198]
+    wed_a: [84, 12]
+    wed_b: [216, 192]
   wiki_id: "159"
   chinese_name: 神通改二
   can_drop: false
