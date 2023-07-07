@@ -14,7 +14,7 @@ data:
   get_mes: 軽巡、長良です。<br>よろしくお願いします！
   voice_f: 0
   filename: debsnofmttkx
-  file_version: ["18", "3", "614"]
+  file_version: ["18", "3", "707"]
   book_table_id: [21, 218, 944]
   book_sinfo: 5500トン級軽巡洋艦、長良型の１番艦、長良よ。<br>ちょっとモデルは古いけど、高速・魚雷発射主兵装・水雷戦隊指揮能力と、駆逐艦仕切るにはバッチリでしょ？<br>ソロモン海での激闘でも奮戦したんだから！
   stats:

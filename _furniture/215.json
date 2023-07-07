@@ -8,7 +8,7 @@ data:
   description: 夏の夜の風物詩といえば…<br>花火！夜のある時間になる<br>と鎮守府港外で花火が打ち<br>上げられます。その時間ま<br>では…普通の窓ですね！
   rarity: 3
   price: 1800
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "034"
   file_version: 5

@@ -14,7 +14,7 @@ data:
   get_mes: 戦時大型タンカーとして計画され、特2TL型<br>特設輸送空母として建造が進められた山汐丸であります。<br>提督殿、自分も何卒ご活用を……お願いしたい……です。
   voice_f: 1
   filename: rlqgnglcevfl
-  file_version: ["64", "1", "614"]
+  file_version: ["65", "1", "707"]
   book_table_id: [900, 5633, 5651, 5680, 5687, 5694, 5715, 5740, 5741]
   book_sinfo: TL型戦標船として計画された量産型タンカー、その改<br>装により建造された特2TL型陸軍輸送護衛空母、山汐<br>丸です。低速のため第一線の艦隊への随伴は困難です<br>が、ある程度の対潜戦闘が可能な戦力として期待され<br>ました。出撃することなく横浜の港で大破着底、終戦<br>の時を迎えました。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 12
   graph:
-    boko_n: [85, 217]
-    boko_d: [115, 271]
+    boko_n: [154, 205]
+    boko_d: [82, 291]
     kaisyu_n: [61, -25]
     kaisyu_d: [67, -31]
-    kaizo_n: [57, 96]
-    kaizo_d: [93, 90]
-    map_n: [84, 178]
-    map_d: [136, 216]
-    ensyuf_n: [84, 166]
-    ensyuf_d: [136, 192]
-    ensyue_n: [85, 0]
-    battle_n: [126, 196]
-    battle_d: [177, 237]
-    wed_a: [232, -16]
-    wed_b: [127, 196]
+    kaizo_n: [160, 81]
+    kaizo_d: [91, 76]
+    map_n: [172, 184]
+    map_d: [100, 199]
+    ensyuf_n: [175, 157]
+    ensyuf_d: [114, 174]
+    ensyue_n: [177, 0]
+    battle_n: [222, 198]
+    battle_d: [154, 223]
+    wed_a: [145, -12]
+    wed_b: [133, 196]
   wiki_id: "500"
   chinese_name: 山汐丸
   can_drop: true

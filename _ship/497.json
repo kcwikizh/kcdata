@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: zeebmcpibdkn
-  file_version: ["57", "59", "614"]
+  file_version: ["58", "60", "707"]
   book_table_id: [497, 5359, 5447]
   book_sinfo: 初春型駆逐艦の次に開発された白露型の１番艦、白露<br>だよ！　そう、１番艦だよ、１番艦。<br>色々と改良された艦隊型駆逐艦なんだから！<br>え？慌ててタンカーと衝突しないようにって？大丈<br>夫！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [108, 189]
-    boko_d: [174, 229]
+    boko_n: [153, 202]
+    boko_d: [120, 262]
     kaisyu_n: [15, -12]
     kaisyu_d: [24, -16]
-    kaizo_n: [76, 102]
-    kaizo_d: [81, 58]
-    map_n: [117, 169]
-    map_d: [108, 166]
-    ensyuf_n: [73, 160]
-    ensyuf_d: [106, 151]
-    ensyue_n: [82, 0]
-    battle_n: [127, 181]
-    battle_d: [139, 172]
-    wed_a: [256, 30]
-    wed_b: [138, 159]
+    kaizo_n: [142, 76]
+    kaizo_d: [96, 61]
+    map_n: [199, 160]
+    map_d: [144, 184]
+    ensyuf_n: [186, 168]
+    ensyuf_d: [129, 165]
+    ensyue_n: [162, 0]
+    battle_n: [229, 201]
+    battle_d: [180, 199]
+    wed_a: [157, -18]
+    wed_b: [133, 192]
   wiki_id: "297"
   chinese_name: 白露改二
   can_drop: false

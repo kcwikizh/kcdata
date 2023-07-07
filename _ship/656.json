@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: ybnetkofnuja
-  file_version: ["55", "25", "614"]
+  file_version: ["56", "26", "707"]
   book_table_id: [656, 5576]
   book_sinfo: 陽炎型駆逐艦８番艦の雪風です。<br>私たち主力艦隊型駆逐艦の中で、十数回以上の主要海<br>戦に参加しながらも、唯一ほとんど無傷で終戦まで生<br>き残りました。<br>奇跡の駆逐艦って？ううん、奇跡じゃないですっ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 3, 2]
     build_time: 24
   graph:
-    boko_n: [175, 198]
-    boko_d: [96, 181]
+    boko_n: [166, 199]
+    boko_d: [151, 247]
     kaisyu_n: [54, 27]
     kaisyu_d: [28, 1]
-    kaizo_n: [130, 82]
-    kaizo_d: [61, 52]
-    map_n: [190, 175]
-    map_d: [87, 166]
-    ensyuf_n: [156, 175]
-    ensyuf_d: [94, 162]
-    ensyue_n: [115, 0]
-    battle_n: [157, 201]
-    battle_d: [115, 181]
-    wed_a: [159, -6]
-    wed_b: [190, 148]
+    kaizo_n: [121, 55]
+    kaizo_d: [109, 82]
+    map_n: [168, 169]
+    map_d: [169, 220]
+    ensyuf_n: [136, 163]
+    ensyuf_d: [118, 199]
+    ensyue_n: [136, 0]
+    battle_n: [145, 189]
+    battle_d: [154, 223]
+    wed_a: [172, 6]
+    wed_b: [145, 150]
   wiki_id: "456"
   chinese_name: 雪风改二
   can_drop: false

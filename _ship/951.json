@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 951
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 551
+  name: 天津風改二
+  yomi: あまつかぜ
+  stype: 2
+  ctype: 30
+  cnum: 9
+  backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: nexgeqpuskju
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: uocopczppbln
+  file_version: ["51", "1", "707"]
+  book_table_id: [951]
+  book_sinfo: 陽炎型駆逐艦九番艦の天津風です。<br>次世代の艦隊型駆逐艦のための新型高温高圧缶のテス<br>トベッドを務めたのよ。データはしっかりとって、島<br>風に渡したわ。幾多のピンチも頑張って乗り越えたの<br>よ。大変だったんだから！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [35, 55]
+    souk: [15, 63]
+    houg: [16, 65]
+    raig: [30, 89]
+    tyku: [26, 72]
+    luck: [19, 91]
+    soku: 10
+    leng: 1
+    kaih: 56
+    tais: 29
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 20
+    bull_max: 20
+    broken: [3, 3, 11, 2]
+    pow_up: [2, 2, 2, 2]
+    build_time: 24
   graph:
-    boko_n: [108, -276]
-    boko_d: [162, -408]
-    kaisyu_n: [27, -39]
-    kaisyu_d: [51, -24]
-    kaizo_n: [36, -348]
-    kaizo_d: [72, -540]
-    map_n: [36, -288]
-    map_d: [96, -432]
-    ensyuf_n: [78, -294]
-    ensyuf_d: [120, -438]
-    ensyue_n: [60, 0]
-    battle_n: [66, -297]
-    battle_d: [108, -432]
-    wed_a: [276, 480]
-    wed_b: [192, 180]
+    boko_n: [28, 157]
+    boko_d: [-87, 255]
+    kaisyu_n: [28, 9]
+    kaisyu_d: [0, -66]
+    kaizo_n: [31, 64]
+    kaizo_d: [-94, 60]
+    map_n: [52, 118]
+    map_d: [-52, 193]
+    ensyuf_n: [52, 114]
+    ensyuf_d: [-57, 154]
+    ensyue_n: [66, 0]
+    battle_n: [73, 139]
+    battle_d: [-34, 189]
+    wed_a: [286, 22]
+    wed_b: [118, 201]
   wiki_id: 
   chinese_name: 
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: Bonjour？ Enchantée 私がRichelieuの妹、<br>Jean Bart！ Pardon……聞いてる？<br>まあ……いいか。
   voice_f: 1
   filename: aeltexuflkrs
-  file_version: ["55", "1", "614"]
+  file_version: ["55", "1", "707"]
   book_table_id: [935, 5697]
   book_sinfo: Richelieu級戦艦二番艦、Jean Bart。<br>そうね、カサブランカではアメリカ海軍さんに大変お<br>世話になったわ。でも、大戦の後浮揚して、正式に再<br>就役したのよ？<br>トーチ作戦、そして私。覚えていて。<br>C’est la vie！
   stats:
