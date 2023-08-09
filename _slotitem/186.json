@@ -66,6 +66,10 @@ data:
             ship_id: 211
           -
             ship_id: 151
+          -
+            ship_id: 593
+          -
+            ship_id: 954
         - false
         - false
         - false
@@ -77,6 +81,10 @@ data:
             ship_id: 211
           -
             ship_id: 151
+          -
+            ship_id: 593
+          -
+            ship_id: 954
         -
           -
             ship_id: 79
@@ -84,5 +92,9 @@ data:
             ship_id: 211
           -
             ship_id: 151
+          -
+            ship_id: 593
+          -
+            ship_id: 954
   chinese_name: 一式陆攻 三四型
 ---

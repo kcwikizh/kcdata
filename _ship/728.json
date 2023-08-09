@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 728
+  sort_no: 1728
+  name: 第二十二号海防艦改
+  yomi: だいにじゅうにごう
+  stype: 1
+  ctype: 
+  cnum: 
+  backs: 5
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 0
+  filename: oiljlmohefcx
+  file_version: ["51", "1", "808"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [17, 25]
+    souk: [5, 30]
+    houg: [4, 27]
+    raig: [0, 0]
+    tyku: [10, 40]
+    luck: [22, 88]
+    soku: 5
+    leng: 1
+    kaih: 
+    tais: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [1, 0, 1, 0]
+    build_time: 14
+  graph:
+    boko_n: [121, 244]
+    boko_d: [169, 298]
+    kaisyu_n: [31, -25]
+    kaisyu_d: [61, -49]
+    kaizo_n: [132, 123]
+    kaizo_d: [151, 136]
+    map_n: [169, 211]
+    map_d: [210, 249]
+    ensyuf_n: [162, 190]
+    ensyuf_d: [207, 217]
+    ensyue_n: [169, 0]
+    battle_n: [189, 235]
+    battle_d: [229, 262]
+    wed_a: [187, -42]
+    wed_b: [84, 216]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

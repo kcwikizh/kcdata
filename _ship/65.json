@@ -14,7 +14,7 @@ data:
   get_mes: 羽黒です。妙高型重巡洋艦姉妹の末っ娘です。<br>あ、あの…ごめんなさいっ！
   voice_f: 0
   filename: lvfswfzywnql
-  file_version: ["14", "15", "707"]
+  file_version: ["14", "15", "808"]
   book_table_id: [65]
   book_sinfo: 長崎で生まれたの。<br>スラバヤ沖海戦、珊瑚海海戦、ミッドウェー海戦、第二次ソロモン海戦、マリアナ海戦など数々の海戦に参加しました。<br>あの…頑張ります！
   stats:

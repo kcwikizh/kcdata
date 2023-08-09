@@ -1,0 +1,36 @@
+---
+layout: json
+order: 1639
+data:
+  id: 1639
+  sort_no: 0
+  name: 深海水中探信儀 & 深海調整電探
+  type: [7, 10, 12, 18, 0]
+  rare: 3
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 3
+    tais: 16
+    atap: 0
+    houm: 13
+    raim: 0
+    houk: 8
+    raik: 0
+    bakk: 0
+    saku: 5
+    sakb: 0
+    luck: 0
+    leng: 2
+  improvement: 
+  chinese_name:
+---

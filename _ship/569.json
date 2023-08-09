@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: gjbesgkiczwy
-  file_version: ["70", "7", "707"]
+  file_version: ["71", "8", "808"]
   book_table_id: [569, 5539, 5449, 5521]
   book_sinfo: 夕雲型駆逐艦、その十四番艦の沖波です。<br>マル急計画で建造されました。はい、生まれ故郷は舞<br>鶴です。もうその頃前線は崩れ始めていて……それで<br>も、主力艦隊の護衛や船団護衛に、私、頑張りました<br>…はい！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [40, 160]
-    boko_d: [72, 184]
+    boko_n: [199, 153]
+    boko_d: [160, 148]
     kaisyu_n: [9, -16]
     kaisyu_d: [45, 1]
-    kaizo_n: [27, 58]
-    kaizo_d: [52, 49]
-    map_n: [39, 129]
-    map_d: [97, 154]
-    ensyuf_n: [28, 126]
-    ensyuf_d: [94, 145]
-    ensyue_n: [37, 0]
-    battle_n: [79, 165]
-    battle_d: [138, 183]
-    wed_a: [315, 27]
-    wed_b: [126, 175]
+    kaizo_n: [121, 85]
+    kaizo_d: [61, 36]
+    map_n: [151, 115]
+    map_d: [100, 114]
+    ensyuf_n: [123, 105]
+    ensyuf_d: [70, 100]
+    ensyue_n: [112, 0]
+    battle_n: [156, 141]
+    battle_d: [94, 136]
+    wed_a: [192, 48]
+    wed_b: [156, 174]
   wiki_id: "369"
   chinese_name: 冲波改二
   can_drop: false

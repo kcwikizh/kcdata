@@ -32,5 +32,51 @@ data:
     luck: 0
     leng: 3
   improvement: 
+    -
+      consume:
+        resource: [70, 380, 530, 190]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [10, 12]
+            -
+              id: 4
+              amount: [6, 7]
+          -
+            -
+              id: 3
+              amount: [16, 24]
+            -
+              id: 4
+              amount: [8, 11]
+        slotitem:
+          -
+            id: 7
+            amount: 3
+          -
+            id: 40
+            amount: 2
+      upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 593
+          -
+            ship_id: 954
+        -
+          -
+            ship_id: 593
+          -
+            ship_id: 954
+        -
+          -
+            ship_id: 593
+          -
+            ship_id: 954
+        - false
+        - false
+        - false
   chinese_name: 5英寸连装炮
 ---

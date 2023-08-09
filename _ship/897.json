@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 897
-  sort_no: 0
-  name: 記念日夕雲
-  yomi: ゆうぐも
-  stype: 2
+  sort_no: 496
+  name: Salmon改
+  yomi: サーモン
+  stype: 13
   ctype: 
   cnum: 
-  backs: 
+  backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: ldlsycgpqyyt
-  file_version: ["1", "1", "1"]
+  get_mes: <br>
+  voice_f: 3
+  filename: qowfirmqdsal
+  file_version: ["51", "1", "808"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 10
-    leng: 
+    taik: [15, 21]
+    souk: [5, 22]
+    houg: [2, 13]
+    raig: [34, 75]
+    tyku: [0, 0]
+    luck: [17, 96]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
     slot_num: 2
-    max_eq: 
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 10
+    bull_max: 15
+    broken: [1, 1, 2, 2]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
   graph:
-    boko_n: [282, 192]
-    boko_d: [204, 228]
-    kaisyu_n: [9, 9]
-    kaisyu_d: [42, 10]
-    kaizo_n: [168, 120]
-    kaizo_d: [78, 144]
-    map_n: [174, 162]
-    map_d: [78, 192]
-    ensyuf_n: [162, 162]
-    ensyuf_d: [78, 192]
-    ensyue_n: [180, 0]
-    battle_n: [204, 174]
-    battle_d: [120, 210]
-    wed_a: [162, 30]
-    wed_b: [126, 150]
+    boko_n: [124, 121]
+    boko_d: [124, 228]
+    kaisyu_n: [55, -1]
+    kaisyu_d: [40, -25]
+    kaizo_n: [145, 1]
+    kaizo_d: [117, 70]
+    map_n: [132, 103]
+    map_d: [145, 192]
+    ensyuf_n: [165, 102]
+    ensyuf_d: [148, 186]
+    ensyue_n: [169, 0]
+    battle_n: [202, 127]
+    battle_d: [171, 231]
+    wed_a: [156, 58]
+    wed_b: [121, 199]
   wiki_id: 
   chinese_name: 
   can_drop: false
