@@ -32,5 +32,45 @@ data:
     luck: 0
     leng: 0
   improvement: 
+    -
+      consume:
+        resource: [490, 530, 0, 590]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [8, 9]
+            -
+              id: 4
+              amount: [5, 6]
+          -
+            -
+              id: 3
+              amount: [10, 15]
+            -
+              id: 4
+              amount: [7, 8]
+        slotitem:
+          -
+            id: 168
+            amount: 1
+          -
+            id: 169
+            amount: 1
+      upgrade:
+      day:
+        - false
+        -
+          -
+            ship_id: 699
+        -
+          -
+            ship_id: 699
+        -
+          -
+            ship_id: 699
+        - false
+        - false
+        - false
   chinese_name: 一式陆攻(野中队)
 ---

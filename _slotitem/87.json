@@ -62,12 +62,7 @@ data:
         - false
         -
           -
-            ship_id: 50
-          -
-            ship_id: 229
-        -
-          -
-            ship_id: 316
+            ship_id: 951
           -
             ship_id: 50
           -
@@ -75,9 +70,22 @@ data:
         -
           -
             ship_id: 316
+          -
+            ship_id: 951
+          -
+            ship_id: 50
+          -
+            ship_id: 229
         -
           -
             ship_id: 316
+          -
+            ship_id: 951
+        -
+          -
+            ship_id: 316
+          -
+            ship_id: 951
         -
           -
             ship_id: 50

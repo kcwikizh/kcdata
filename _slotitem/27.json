@@ -72,9 +72,15 @@ data:
       day:
         -
           -
+            ship_id: 141
+          -
+            ship_id: 43
+          -
+            ship_id: 243
+          -
             ship_id: 145
           -
-            ship_id: 141
+            ship_id: 961
         -
           -
             ship_id: 141
@@ -107,13 +113,23 @@ data:
             ship_id: 330
         -
           -
-            ship_id: 145
-          -
             ship_id: 141
+          -
+            ship_id: 43
+          -
+            ship_id: 243
+          -
+            ship_id: 145
         -
           -
+            ship_id: 141
+          -
+            ship_id: 43
+          -
+            ship_id: 243
+          -
             ship_id: 145
           -
-            ship_id: 141
+            ship_id: 961
   chinese_name: 13号对空电探
 ---

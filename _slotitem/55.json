@@ -75,20 +75,44 @@ data:
             id: 22
             amount: 2
       day:
-        - false
+        -
+          -
+            ship_id: 662
+          -
+            ship_id: 663
+          -
+            ship_id: 314
         -
           -
             ship_id: 508
+          -
+            ship_id: 662
+          -
+            ship_id: 314
         -
           -
             ship_id: 508
+          -
+            ship_id: 662
         -
           -
             ship_id: 508
+          -
+            ship_id: 662
         -
           -
             ship_id: 508
-        - false
-        - false
+          -
+            ship_id: 662
+        -
+          -
+            ship_id: 663
+          -
+            ship_id: 314
+        -
+          -
+            ship_id: 663
+          -
+            ship_id: 314
   chinese_name: 紫电改二
 ---

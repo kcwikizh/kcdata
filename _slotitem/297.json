@@ -183,7 +183,9 @@ data:
           -
             ship_id: 647
         - false
-        - false
+        -
+          -
+            ship_id: 666
         -
           -
             ship_id: 486
