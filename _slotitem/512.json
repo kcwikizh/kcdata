@@ -3,11 +3,11 @@ layout: json
 order: 512
 data:
   id: 512
-  sort_no: 0
-  name: 12.5inch連装副砲
-  type: [1, 2, 4, 4, 0]
-  rare: 1
-  broken: [0, 0, 0, 0]
+  sort_no: 512
+  name: 21inch艦首魚雷発射管4門(後期型)
+  type: [2, 3, 32, 5, 0]
+  rare: 3
+  broken: [2, 3, 2, 2]
   info: 
   usebull: 0
   cost: 9
@@ -15,22 +15,22 @@ data:
   stats:
     taik: 0
     souk: 0
-    houg: 7
-    raig: 0
+    houg: 0
+    raig: 12
     soku: 0
     baku: 0
-    tyku: 3
+    tyku: 0
     tais: 0
     atap: 0
-    houm: 0
-    raim: 3
-    houk: 0
+    houm: 3
+    raim: 0
+    houk: 5
     raik: 0
     bakk: 0
     saku: 0
     sakb: 0
     luck: 0
-    leng: 2
+    leng: 1
   improvement: 
   chinese_name: 12.5英寸连装副炮
 ---

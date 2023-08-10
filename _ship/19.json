@@ -14,7 +14,7 @@ data:
   get_mes: 黒潮や、よろしゅうな。
   voice_f: 0
   filename: ihengpjwmfrt
-  file_version: ["13", "13", "707"]
+  file_version: ["13", "13", "808"]
   book_table_id: [19]
   book_sinfo: 大阪の民間造船所で建造された、陽炎型駆逐艦の３番艦、黒潮や。<br>こう見えても、スラバヤ沖海戦、南太平洋海戦、第三次ソロモン海戦などの激戦に参加したんやで。
   stats:

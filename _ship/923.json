@@ -14,7 +14,7 @@ data:
   get_mes: Hi！ Good to see you.　あたしが、そうさ。<br>重巡Tuscaloosa！ン、New Orleans classだ。<br>よろしく！
   voice_f: 1
   filename: urkmcvixqwbf
-  file_version: ["53", "1", "707"]
+  file_version: ["53", "1", "808"]
   book_table_id: [923, 5746]
   book_sinfo: USS Tuscaloosa。New Orleans classその四番<br>艦。重巡洋艦としては、最新鋭って訳じゃないけど、<br>大西洋で戦い、そして太平洋戦線、後半の島々の戦い<br>にも参加。もちろん戦いはあってはならない事だけ<br>ど、戦う事が必要な時も……あります。難しいね。本<br>当に。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [112, 184]
   wiki_id: "523"
   chinese_name: 塔斯卡卢萨
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

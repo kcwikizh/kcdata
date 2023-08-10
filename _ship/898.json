@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 898
-  sort_no: 0
-  name: 記念日長波
-  yomi: ながなみ
-  stype: 2
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: tiwxjjqhslev
-  file_version: ["3", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 498
+  name: 第二十二号海防艦
+  yomi: だいにじゅうにごう
+  stype: 1
+  ctype: 104
+  cnum: 11
+  backs: 4
+  after_lv: 35
+  after_ship_id: 728
+  get_mes: 私、丁型海防艦、第二十二号！<br>呼び方ですか？　じゃ、ふーふ、でどう？<br>ちっちゃくたって……私、結構やっちゃうよ！
+  voice_f: 0
+  filename: ezqrkocbmcql
+  file_version: ["51", "1", "808"]
+  book_table_id: [898]
+  book_sinfo: 長崎生まれの丁型海防艦、第二十二号海防艦だよ！厳<br>しい戦局の中で、船団護衛や対潜掃蕩、頑張ったよ？<br>マモ船団もタマ船団も、大変だった…敵潜水艦はホン<br>トに危険…とにかく見つけたら、全力で何とかしない<br>と！最後まで戦い抜いた私たちの事…きっと覚えてい<br>てね。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 10
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 2
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [8, 16]
+    souk: [4, 15]
+    houg: [3, 14]
+    raig: [0, 0]
+    tyku: [4, 18]
+    luck: [19, 85]
+    soku: 5
+    leng: 1
+    kaih: 39
+    tais: 30
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 60
+    after_bull: 110
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 1, 0]
+    pow_up: [0, 0, 1, 0]
+    build_time: 14
   graph:
-    boko_n: [156, 159]
-    boko_d: [186, 162]
-    kaisyu_n: [30, -9]
-    kaisyu_d: [60, -12]
-    kaizo_n: [78, 63]
-    kaizo_d: [90, 18]
-    map_n: [135, 135]
-    map_d: [135, 126]
-    ensyuf_n: [126, 144]
-    ensyuf_d: [144, 126]
-    ensyue_n: [114, 0]
-    battle_n: [162, 150]
-    battle_d: [156, 150]
-    wed_a: [216, 42]
-    wed_b: [132, 162]
+    boko_n: [121, 244]
+    boko_d: [169, 298]
+    kaisyu_n: [31, -25]
+    kaisyu_d: [61, -49]
+    kaizo_n: [132, 123]
+    kaizo_d: [151, 136]
+    map_n: [169, 211]
+    map_d: [210, 249]
+    ensyuf_n: [162, 190]
+    ensyuf_d: [207, 217]
+    ensyue_n: [169, 0]
+    battle_n: [189, 235]
+    battle_d: [229, 262]
+    wed_a: [187, -42]
+    wed_b: [84, 216]
   wiki_id: 
   chinese_name: 
   can_drop: false

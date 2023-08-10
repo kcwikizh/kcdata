@@ -149,9 +149,15 @@ data:
       day:
         -
           -
+            ship_id: 343
+          -
+            ship_id: 43
+          -
+            ship_id: 243
+          -
             ship_id: 145
           -
-            ship_id: 343
+            ship_id: 961
         - false
         - false
         - false
@@ -159,18 +165,36 @@ data:
           -
             ship_id: 141
           -
+            ship_id: 43
+          -
+            ship_id: 243
+          -
             ship_id: 145
+          -
+            ship_id: 961
         -
           -
             ship_id: 141
           -
+            ship_id: 343
+          -
+            ship_id: 43
+          -
+            ship_id: 243
+          -
             ship_id: 145
           -
-            ship_id: 343
+            ship_id: 961
         -
           -
+            ship_id: 343
+          -
+            ship_id: 43
+          -
+            ship_id: 243
+          -
             ship_id: 145
           -
-            ship_id: 343
+            ship_id: 961
   chinese_name: 九三式水中听音机
 ---

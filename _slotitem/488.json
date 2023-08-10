@@ -59,18 +59,28 @@ data:
             amount: 2
       upgrade:
       day:
-        -
-          -
-            ship_id: 145
-        - false
-        - false
-        - false
         - false
         -
           -
             ship_id: 145
+          -
+            ship_id: 961
         -
           -
             ship_id: 145
+          -
+            ship_id: 961
+        -
+          -
+            ship_id: 145
+          -
+            ship_id: 961
+        -
+          -
+            ship_id: 145
+          -
+            ship_id: 961
+        - false
+        - false
   chinese_name: 
 ---

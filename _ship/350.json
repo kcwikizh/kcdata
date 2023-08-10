@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: djszrxlnhbuv
-  file_version: ["68", "13", "707"]
+  file_version: ["70", "13", "808"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 22
   graph:
-    boko_n: [198, 198]
-    boko_d: [192, 168]
+    boko_n: [126, 150]
+    boko_d: [126, 204]
     kaisyu_n: [48, -6]
     kaisyu_d: [60, -6]
-    kaizo_n: [96, 120]
-    kaizo_d: [120, 24]
-    map_n: [144, 168]
-    map_d: [120, 120]
-    ensyuf_n: [144, 168]
-    ensyuf_d: [168, 108]
-    ensyue_n: [108, 0]
-    battle_n: [156, 168]
-    battle_d: [144, 120]
-    wed_a: [180, 18]
-    wed_b: [192, 168]
+    kaizo_n: [48, 42]
+    kaizo_d: [96, 60]
+    map_n: [60, 114]
+    map_d: [120, 156]
+    ensyuf_n: [60, 132]
+    ensyuf_d: [120, 174]
+    ensyue_n: [48, 0]
+    battle_n: [84, 132]
+    battle_d: [144, 168]
+    wed_a: [294, 66]
+    wed_b: [126, 180]
   wiki_id: "258a"
   chinese_name: 海风改
   can_drop: false

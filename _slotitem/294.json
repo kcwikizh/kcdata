@@ -123,7 +123,7 @@ data:
               amount: [9, 17]
             -
               id: 4
-              amount: [8, 9]
+              amount: [6, 8]
             -
               id: 75
               amount: 1
@@ -134,9 +134,17 @@ data:
         -
           -
             ship_id: 647
-        - false
-        - false
-        - false
+          -
+            ship_id: 959
+        -
+          -
+            ship_id: 959
+        -
+          -
+            ship_id: 959
+        -
+          -
+            ship_id: 959
         - false
         - false
         -

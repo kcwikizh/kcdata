@@ -32,5 +32,79 @@ data:
     luck: 0
     leng: 1
   improvement: 
+    -
+      consume:
+        resource: [90, 180, 60, 60]
+        useitem:
+          -
+            -
+              id: 3
+              amount: [5, 6]
+            -
+              id: 4
+              amount: [3, 4]
+          -
+            -
+              id: 3
+              amount: [6, 8]
+            -
+              id: 4
+              amount: [5, 6]
+        slotitem:
+          -
+            id: 13
+            amount: 3
+          -
+            id: 125
+            amount: 2
+      upgrade:
+      day:
+        -
+          -
+            ship_id: 494
+          -
+            ship_id: 374
+          -
+            ship_id: 495
+          -
+            ship_id: 375
+        -
+          -
+            ship_id: 399
+          -
+            ship_id: 495
+          -
+            ship_id: 375
+        -
+          -
+            ship_id: 399
+          -
+            ship_id: 495
+          -
+            ship_id: 375
+        -
+          -
+            ship_id: 399
+          -
+            ship_id: 495
+          -
+            ship_id: 375
+        -
+          -
+            ship_id: 399
+          -
+            ship_id: 494
+          -
+            ship_id: 374
+        -
+          -
+            ship_id: 494
+          -
+            ship_id: 374
+        -
+          -
+            ship_id: 494
+          -
+            ship_id: 374
   chinese_name: 后期型舰首鱼雷(6门)
 ---

@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 922
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 522
+  name: 稲木
+  yomi: いなぎ
+  stype: 1
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: rqxbjmdizgzp
-  file_version: ["1", "1", "1"]
+  backs: 4
+  after_lv: 45
+  after_ship_id: 730
+  get_mes: 海防艦、稲木！　鵜来型海防艦、十二番艦です。<br>町も、人も……私が守ります。この身に代えてもッ！
+  voice_f: 1
+  filename: elrfpomtfblt
+  file_version: ["51", "1", "808"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [9, 17]
+    souk: [4, 18]
+    houg: [4, 17]
+    raig: [0, 0]
+    tyku: [9, 41]
+    luck: [9, 59]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 50
+    after_bull: 130
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 2, 0]
+    pow_up: [0, 0, 1, 1]
+    build_time: 9
   graph:
-    boko_n: [108, 228]
-    boko_d: [-48, 282]
-    kaisyu_n: [27, -39]
-    kaisyu_d: [51, -24]
-    kaizo_n: [24, 144]
-    kaizo_d: [-60, 132]
-    map_n: [72, 192]
-    map_d: [-120, 216]
-    ensyuf_n: [72, 168]
-    ensyuf_d: [-72, 168]
-    ensyue_n: [24, 0]
-    battle_n: [84, 192]
-    battle_d: [-48, 216]
-    wed_a: [264, -12]
-    wed_b: [198, 168]
+    boko_n: [102, 207]
+    boko_d: [45, 292]
+    kaisyu_n: [16, -18]
+    kaisyu_d: [22, -61]
+    kaizo_n: [112, 85]
+    kaizo_d: [28, 126]
+    map_n: [109, 168]
+    map_d: [49, 244]
+    ensyuf_n: [112, 153]
+    ensyuf_d: [49, 213]
+    ensyue_n: [123, 0]
+    battle_n: [150, 189]
+    battle_d: [70, 241]
+    wed_a: [219, -4]
+    wed_b: [136, 195]
   wiki_id: 
   chinese_name: 
   can_drop: false
