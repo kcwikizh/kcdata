@@ -1,0 +1,307 @@
+---
+layout: json
+order: 572
+data:
+  id: 572
+  name: 南沙諸島沖/カムラン湾沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: B1
+    4:
+      from: B
+      to: B2
+    5:
+      from: B2
+      to: C
+    6:
+      from: C
+      to: C1
+    7:
+      from: C
+      to: C2
+    8:
+      from: A
+      to: D
+    9:
+      from: B2
+      to: E
+    10:
+      from: E
+      to: F
+    11:
+      from: F
+      to: F1
+    12:
+      from: F
+      to: F2
+    13:
+      from: D
+      to: G
+    14:
+      from: D
+      to: H
+    15:
+      from: H
+      to: I
+    16:
+      from: F1
+      to: J
+    17:
+      from: I
+      to: J1
+    18:
+      from: I
+      to: J2
+    19:
+      from: B1
+      to: B2
+    20:
+      from: F1
+      to: F2
+    21:
+      from: I
+      to: J
+    22:
+      from: J1
+      to: J2
+    23:
+      from: 2
+      to: K
+    24:
+      from: 2
+      to: L
+    25:
+      from: L
+      to: M
+    26:
+      from: K
+      to: N
+    27:
+      from: K
+      to: O
+    28:
+      from: N
+      to: P
+    29:
+      from: P
+      to: Q
+    30:
+      from: Q
+      to: R
+    31:
+      from: Q
+      to: S
+    32:
+      from: M
+      to: N
+    33:
+      from: N
+      to: O
+    34:
+      from: O
+      to: P
+    35:
+      from: null
+      to: 2
+    36:
+      from: G
+      to: T
+    37:
+      from: T
+      to: U
+    38:
+      from: T
+      to: V
+    39:
+      from: V
+      to: V1
+    40:
+      from: V1
+      to: V2
+    41:
+      from: V
+      to: W
+    42:
+      from: U
+      to: V
+    43:
+      from: V1
+      to: W
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [2]
+    B1:
+      name: 深海潜水艦隊 南沙哨戒線 IV群
+      type:
+      boss: false
+      routes: [3]
+    B2:
+      name: 
+      type:
+      boss: false
+      routes: [4, 19]
+    C:
+      name: 深海任務部隊 南沙護衛空母A群
+      type:
+      boss: false
+      routes: [5]
+    C1:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    C2:
+      name: 深海潜水艦隊 南沙哨戒線 III群
+      type:
+      boss: false
+      routes: [7]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    E:
+      name: 深海潜水艦隊 南沙哨戒線 II群
+      type:
+      boss: false
+      routes: [9]
+    F:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [10]
+    F1:
+      name: 深海潜水艦隊 南沙哨戒線 I群
+      type:
+      boss: false
+      routes: [11]
+    F2:
+      name: 深海任務部隊 重巡洋艦戦隊
+      type:
+      boss: false
+      routes: [12, 20]
+    G:
+      name: 深海偵察ピケット駆逐艦戦隊 II群
+      type:
+      boss: false
+      routes: [13]
+    H:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [14]
+    I:
+      name: 深海任務部隊 南沙護衛空母B群
+      type:
+      boss: false
+      routes: [15]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [16, 21]
+    J1:
+      name: 深海潜水艦隊群・深海航空支援
+      type:
+      boss: false
+      routes: [17]
+    J2:
+      name: 深海潜水艦隊 南沙哨戒線 旗艦
+      type:
+      boss: false
+      routes: [18, 22]
+    K:
+      name: 深海潜水艦隊 群狼集団 A群
+      type:
+      boss: false
+      routes: [23]
+    L:
+      name: 深海偵察ピケット駆逐艦戦隊 I群
+      type:
+      boss: false
+      routes: [24]
+    M:
+      name: 深海潜水艦隊 群狼集団 B群
+      type:
+      boss: false
+      routes: [25]
+    N:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [26, 32]
+    O:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [27, 33]
+    P:
+      name: 深海任務部隊 高速通商破壊艦隊
+      type:
+      boss: false
+      routes: [28, 34]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [29]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [30]
+    S:
+      name: 深海任務部隊 高速巡洋艦戦隊
+      type:
+      boss: false
+      routes: [31]
+    T:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [36]
+    U:
+      name: 深海潜水艦隊群・深海航空支援
+      type:
+      boss: false
+      routes: [37]
+    V:
+      name: 深海任務部隊 南沙哨戒巡洋戦隊
+      type:
+      boss: false
+      routes: [38, 42]
+    V1:
+      name: 深海任務部隊 軽空母戦闘集団
+      type:
+      boss: false
+      routes: [39]
+    V2:
+      name: 
+      type:
+      boss: false
+      routes: [40]
+    W:
+      name: 深海任務部隊 夏季水上打撃艦隊
+      type:
+      boss: true
+      routes: [41, 43]
+  image: MapHDE-2Summer2023.png
+---

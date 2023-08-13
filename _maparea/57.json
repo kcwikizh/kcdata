@@ -1,0 +1,14 @@
+---
+layout: json
+order: 57
+data:
+  id: 57
+  name: 船団護衛！輸送航路防衛戦
+  maps:
+    - 571
+    - 572
+    - 573
+    - 574
+  event: true
+  level: 4
+---
