@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 0
   filename: efpfrkdoamqz
-  file_version: ["51", "1", "808"]
+  file_version: ["51", "1", "824"]
   book_table_id: [553]
   book_sinfo: 洋上航空戦力強化のために、主砲を一部外して、かわりに飛行甲板を設置、軽空母並の航空戦力を運用可能な航空戦艦、伊勢です。<br>海自の新鋭ＤＤＨにもその名は受け継がれているわ。
   stats:

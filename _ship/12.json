@@ -14,7 +14,7 @@ data:
   get_mes: あ、あの…磯波と申します。<br>よろしくお願いいたします。
   voice_f: 0
   filename: ljesxnctkmmf
-  file_version: ["14", "12", "808"]
+  file_version: ["14", "12", "824"]
   book_table_id: [12, 998]
   book_sinfo: 特型駆逐艦９番艦の磯波です。<br>数々の作戦に参加したんですけど、中破してからは、後方で海上護衛や哨戒活動に従事していました。<br>頑張ります。
   stats:

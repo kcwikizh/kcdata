@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 731
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 1731
+  name: C.Cappellini改
+  yomi: コマンダンテ・カッペリーニ
+  stype: 13
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: npjkwqcelxps
-  file_version: ["51", "1", "1"]
+  backs: 5
+  after_lv: 40
+  after_ship_id: 939
+  get_mes: <br>
+  voice_f: 3
+  filename: tvsykrlsriet
+  file_version: ["51", "1", "824"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [11, 21]
+    souk: [5, 19]
+    houg: [0, 2]
+    raig: [0, 33]
+    tyku: [0, 18]
+    luck: [35, 77]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 160
+    after_bull: 300
+    fuel_max: 10
+    bull_max: 15
+    broken: [1, 2, 2, 1]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
   graph:
-    boko_n: [255, 213]
-    boko_d: [330, 228]
-    kaisyu_n: [39, -1]
-    kaisyu_d: [63, 16]
-    kaizo_n: [192, 114]
-    kaizo_d: [240, 96]
-    map_n: [234, 186]
-    map_d: [288, 186]
-    ensyuf_n: [192, 186]
-    ensyuf_d: [276, 174]
-    ensyue_n: [186, 0]
-    battle_n: [234, 213]
-    battle_d: [288, 213]
-    wed_a: [144, -12]
-    wed_b: [144, 192]
+    boko_n: [76, 235]
+    boko_d: [142, 225]
+    kaisyu_n: [40, -43]
+    kaisyu_d: [40, -21]
+    kaizo_n: [82, 109]
+    kaizo_d: [160, 64]
+    map_n: [106, 192]
+    map_d: [175, 190]
+    ensyuf_n: [99, 175]
+    ensyuf_d: [169, 168]
+    ensyue_n: [82, 0]
+    battle_n: [130, 208]
+    battle_d: [186, 214]
+    wed_a: [238, -30]
+    wed_b: [118, 211]
   wiki_id: 
   chinese_name: 
   can_drop: false

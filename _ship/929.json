@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 929
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 529
+  name: Nevada改
+  yomi: ネヴァダ
+  stype: 9
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: syrrbygrimvl
-  file_version: ["1", "1", "1"]
+  backs: 7
+  after_lv: 60
+  after_ship_id: 936
+  get_mes: <br>
+  voice_f: 3
+  filename: zilekooohvfi
+  file_version: ["51", "1", "824"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [89, 95]
+    souk: [78, 95]
+    houg: [77, 97]
+    raig: [0, 0]
+    tyku: [33, 90]
+    luck: [40, 112]
+    soku: 5
+    leng: 3
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 4
+    max_eq: [0, 1, 2, 1, 0]
+    after_fuel: 2500
+    after_bull: 1700
+    fuel_max: 90
+    bull_max: 150
+    broken: [16, 30, 46, 4]
+    pow_up: [5, 0, 3, 4]
+    build_time: 300
   graph:
-    boko_n: [216, 204]
-    boko_d: [96, 120]
-    kaisyu_n: [24, 0]
-    kaisyu_d: [48, -48]
-    kaizo_n: [168, 120]
-    kaizo_d: [48, -24]
-    map_n: [168, 168]
-    map_d: [48, 72]
-    ensyuf_n: [192, 144]
-    ensyuf_d: [60, 48]
-    ensyue_n: [144, 0]
-    battle_n: [192, 180]
-    battle_d: [48, 96]
-    wed_a: [126, 24]
-    wed_b: [204, 168]
+    boko_n: [-162, 112]
+    boko_d: [-70, 262]
+    kaisyu_n: [16, 28]
+    kaisyu_d: [30, -79]
+    kaizo_n: [-151, -10]
+    kaizo_d: [-90, 94]
+    map_n: [-144, 102]
+    map_d: [-46, 199]
+    ensyuf_n: [-120, 91]
+    ensyuf_d: [-58, 178]
+    ensyue_n: [-118, 0]
+    battle_n: [-82, 123]
+    battle_d: [-27, 211]
+    wed_a: [463, 51]
+    wed_b: [112, 193]
   wiki_id: 
   chinese_name: 
   can_drop: false

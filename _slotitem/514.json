@@ -3,11 +3,11 @@ layout: json
 order: 514
 data:
   id: 514
-  sort_no: 0
-  name: 21inch魚雷後期型
-  type: [2, 3, 5, 5, 0]
-  rare: 0
-  broken: [0, 0, 0, 0]
+  sort_no: 514
+  name: 特大発動艇+Ⅲ号戦車J型
+  type: [8, 14, 24, 20, 0]
+  rare: 5
+  broken: [2, 5, 5, 2]
   info: 
   usebull: 0
   cost: 9
@@ -15,22 +15,22 @@ data:
   stats:
     taik: 0
     souk: 0
-    houg: 0
-    raig: 5
+    houg: 2
+    raig: 0
     soku: 0
     baku: 0
-    tyku: 0
+    tyku: 1
     tais: 0
     atap: 0
-    houm: 0
-    raim: 6
+    houm: 1
+    raim: 0
     houk: 0
     raik: 0
     bakk: 0
     saku: 0
     sakb: 0
     luck: 0
-    leng: 1
+    leng: 0
   improvement: 
   chinese_name: 21英寸鱼雷后期型
 ---

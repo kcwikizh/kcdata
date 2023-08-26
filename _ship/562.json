@@ -14,7 +14,7 @@ data:
   get_mes: Hi! あたしがフレッチャー級、USS ジョンストンよ！<br>I’m going to be a fighting ship！ 文字通り弾が尽きるまで<br>守ってみせる！　今度もね！
   voice_f: 1
   filename: xhybbhhnqpyv
-  file_version: ["85", "1", "808"]
+  file_version: ["85", "1", "824"]
   book_table_id: [562, 689, 5407, 5408, 5440, 5510, 5595, 5719, 5728, 5729]
   book_sinfo: Hi！　あたしがフレッチャー級、ジョンストンよ！　太平洋狭しと駆け抜けたの。ソロモン、マーシャル、そしてレイテの戦いに参加したのよ。サマール沖ではサム達と一緒にTaffyⅢで巨大な艦隊に立ち向かったわ！フレッチャー級、ジョンストン、覚えていてね！
   stats:

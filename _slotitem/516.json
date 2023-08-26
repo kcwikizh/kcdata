@@ -3,31 +3,31 @@ layout: json
 order: 516
 data:
   id: 516
-  sort_no: 0
-  name: 深海棲艦攻
-  type: [3, 5, 8, 8, 0]
-  rare: 0
-  broken: [0, 0, 0, 0]
+  sort_no: 516
+  name: Me 262 A-1a/R1
+  type: [22, 39, 48, 56, 55]
+  rare: 6
+  broken: [7, 4, 11, 15]
   info: 
   usebull: 0
-  cost: 9
-  distance: 8
+  cost: 13
+  distance: 3
   stats:
     taik: 0
     souk: 0
     houg: 0
-    raig: 4
+    raig: 0
     soku: 0
-    baku: 0
-    tyku: 0
-    tais: 2
+    baku: 3
+    tyku: 15
+    tais: 0
     atap: 0
-    houm: 0
+    houm: 6
     raim: 0
-    houk: 0
+    houk: 1
     raik: 0
     bakk: 0
-    saku: 5
+    saku: 0
     sakb: 0
     luck: 0
     leng: 0

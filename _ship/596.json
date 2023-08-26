@@ -14,7 +14,7 @@ data:
   get_mes: お疲れさまです。Fletcher級駆逐艦ネームシップ、<br>Fletcher、着任しました。マザー、ですか？ いえいえ<br>そんな……。皆さんのお役に立てるよう、頑張ります！
   voice_f: 1
   filename: civubdsppvpf
-  file_version: ["66", "2", "808"]
+  file_version: ["66", "2", "824"]
   book_table_id: [596, 692, 5455, 5456, 5636, 5637]
   book_sinfo: 最も成功し、量産された駆逐艦、そのネームシップ<br>が私、Fletcher class destroyer USS Fletcherです。<br>姉妹の数は170隻を超えているの。まさにデファクト<br>スタンダード。<br>後に海上自衛隊にも配備されました。
   stats:

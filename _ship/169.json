@@ -14,7 +14,7 @@ data:
   get_mes: 提督、谷風だよ。<br>これからお世話になるね！
   voice_f: 0
   filename: gsrzkautnghc
-  file_version: ["61", "17", "808"]
+  file_version: ["61", "17", "824"]
   book_table_id: [169, 962]
   book_sinfo: 谷風さんだよ。<br>あのミッドウェー海戦では、飛龍を助けようとしてたら、くそ敵機から雨あられの集中爆撃…。あんときゃ、まいったけど、勝見艦長がすげえんだ、マジで。
   stats:

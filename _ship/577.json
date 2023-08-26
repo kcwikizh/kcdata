@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 577
+  sort_no: 377
+  name: Rodney改
+  yomi: ロドニー
+  stype: 9
+  ctype: 
+  cnum: 
+  backs: 8
+  after_lv: 
+  after_ship_id: 
+  get_mes: <br>
+  voice_f: 3
+  filename: ttpbnvxufxjt
+  file_version: ["51", "1", "824"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: [93, 98]
+    souk: [84, 104]
+    houg: [81, 114]
+    raig: [0, 0]
+    tyku: [30, 92]
+    luck: [28, 98]
+    soku: 5
+    leng: 3
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: [1, 1, 2, 2, 0]
+    after_fuel: 
+    after_bull: 
+    fuel_max: 95
+    bull_max: 175
+    broken: [16, 33, 52, 3]
+    pow_up: [5, 0, 2, 4]
+    build_time: 300
+  graph:
+    boko_n: [-208, 130]
+    boko_d: [15, 231]
+    kaisyu_n: [18, 6]
+    kaisyu_d: [31, -54]
+    kaizo_n: [-183, 19]
+    kaizo_d: [30, 67]
+    map_n: [-184, 111]
+    map_d: [58, 196]
+    ensyuf_n: [-162, 108]
+    ensyuf_d: [55, 181]
+    ensyue_n: [-181, 0]
+    battle_n: [-133, 135]
+    battle_d: [97, 241]
+    wed_a: [531, 49]
+    wed_b: [117, 180]
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

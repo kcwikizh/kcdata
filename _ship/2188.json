@@ -1,0 +1,60 @@
+---
+layout: json
+data:
+  id: 2188
+  sort_no: 
+  name: トーチカ要塞棲姫
+  yomi: 
+  stype: 9
+  ctype: 
+  cnum: 
+  backs: 
+  after_lv: 
+  after_ship_id: 
+  get_mes: 
+  voice_f: 
+  filename: ljgdodwqckuy
+  file_version: ["1", "1", "1"]
+  book_table_id: 
+  book_sinfo: 
+  stats:
+    taik: 
+    souk: 
+    houg: 
+    raig: 
+    tyku: 
+    luck: 
+    soku: 0
+    leng: 
+    kaih: 
+    tais: 
+    slot_num: 4
+    max_eq: 
+    after_fuel: 
+    after_bull: 
+    fuel_max: 
+    bull_max: 
+    broken: 
+    pow_up: 
+    build_time: 
+  graph:
+    boko_n: 
+    boko_d: 
+    kaisyu_n: 
+    kaisyu_d: 
+    kaizo_n: 
+    kaizo_d: 
+    map_n: 
+    map_d: 
+    ensyuf_n: 
+    ensyuf_d: 
+    ensyue_n: 
+    battle_n: [-316, 103]
+    battle_d: [-316, 103]
+    wed_a: 
+    wed_b: 
+  wiki_id:
+  chinese_name:
+  can_drop: false
+  can_construct: false
+---

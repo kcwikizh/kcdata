@@ -8,7 +8,7 @@ data:
   description: 夏を楽しむための小道具を<br>艦隊の駆逐艦娘達が集めて<br>くれました！これをもって<br>海に繰り出すもよし、家庭<br>用プールで楽しむもよし！
   rarity: 2
   price: 800
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
   file_version: 
