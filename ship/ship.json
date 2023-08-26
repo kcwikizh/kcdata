@@ -1,6 +1,6 @@
 ---
 ---
 [
-  {% for ship in site.ship %}{% if ship.data.sort_no > 0 %}{{ ship.data | jsonify }}{% unless forloop.last %},
-  {% endunless %}{% endif %}{% endfor %}
+  {% assign ships = site.ship | where_exp: "item", "item.data.sort_no > 0" | sort: "data.id" %}{% for ship in ships %}{{ ship.data | jsonify }}{% unless forloop.last %},
+  {% endunless %}{% endfor %}
 ]
