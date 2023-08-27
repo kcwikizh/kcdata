@@ -3,11 +3,11 @@ layout: json
 order: 513
 data:
   id: 513
-  sort_no: 0
-  name: 21inch魚雷前期型
-  type: [2, 3, 5, 5, 0]
-  rare: 0
-  broken: [0, 0, 0, 0]
+  sort_no: 513
+  name: 阻塞気球
+  type: [29, 50, 54, 55, 0]
+  rare: 2
+  broken: [1, 0, 0, 1]
   info: 
   usebull: 0
   cost: 9
@@ -16,21 +16,21 @@ data:
     taik: 0
     souk: 0
     houg: 0
-    raig: 2
+    raig: 0
     soku: 0
     baku: 0
     tyku: 0
     tais: 0
     atap: 0
     houm: 0
-    raim: 8
-    houk: 0
+    raim: 0
+    houk: 1
     raik: 0
     bakk: 0
     saku: 0
     sakb: 0
     luck: 0
-    leng: 1
+    leng: 0
   improvement: 
   chinese_name: 21英寸鱼雷前期型
 ---

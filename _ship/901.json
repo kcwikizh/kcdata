@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 901
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 501
+  name: Javelin
+  yomi: ジャヴェリン
+  stype: 2
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: rrbdyhfiywqg
-  file_version: ["1", "1", "1"]
+  backs: 6
+  after_lv: 50
+  after_ship_id: 906
+  get_mes: Are you alright?<br>そうよ。私がJ級駆逐艦のネームシップ、Javelin。<br>覚えておいてね？ ……ん！よろしい。
+  voice_f: 1
+  filename: mblmkiwvsotl
+  file_version: ["51", "1", "824"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [15, 33]
+    souk: [7, 18]
+    houg: [12, 34]
+    raig: [30, 83]
+    tyku: [22, 41]
+    luck: [30, 80]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 390
+    after_bull: 330
+    fuel_max: 15
+    bull_max: 25
+    broken: [1, 1, 6, 1]
+    pow_up: [1, 1, 1, 1]
+    build_time: 24
   graph:
-    boko_n: [66, 144]
-    boko_d: [108, 180]
-    kaisyu_n: [13, 42]
-    kaisyu_d: [42, 10]
-    kaizo_n: [42, 66]
-    kaizo_d: [120, 96]
-    map_n: [30, 91]
-    map_d: [144, 108]
-    ensyuf_n: [108, 111]
-    ensyuf_d: [120, 36]
-    ensyue_n: [108, 0]
-    battle_n: [96, 120]
-    battle_d: [120, 108]
-    wed_a: [214, 97]
-    wed_b: [141, 175]
+    boko_n: [127, 225]
+    boko_d: [52, 240]
+    kaisyu_n: [48, 1]
+    kaisyu_d: [58, 4]
+    kaizo_n: [142, 109]
+    kaizo_d: [69, 82]
+    map_n: [183, 195]
+    map_d: [118, 205]
+    ensyuf_n: [196, 189]
+    ensyuf_d: [112, 196]
+    ensyue_n: [189, 0]
+    battle_n: [231, 217]
+    battle_d: [139, 237]
+    wed_a: [139, -34]
+    wed_b: [108, 196]
   wiki_id: 
   chinese_name: 
   can_drop: false

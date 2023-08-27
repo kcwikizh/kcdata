@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 934
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 534
+  name: C.Cappellini
+  yomi: コマンダンテ・カッペリーニ
+  stype: 13
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: pmqlugofbygx
-  file_version: ["1", "1", "1"]
+  backs: 4
+  after_lv: 30
+  after_ship_id: 731
+  get_mes: Buon giorno！あたい、マルチェロ級外洋型潜水艦だお～！<br>Mi chiamo Comandante Cappellini！<br>カッペリーニでいいお。よっろしく！
+  voice_f: 1
+  filename: ffwiclskhxkd
+  file_version: ["51", "1", "824"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [10, 20]
+    souk: [5, 18]
+    houg: [5, 19]
+    raig: [19, 65]
+    tyku: [0, 15]
+    luck: [33, 73]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 190
+    after_bull: 50
+    fuel_max: 10
+    bull_max: 20
+    broken: [1, 2, 2, 1]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
   graph:
-    boko_n: [186, 210]
-    boko_d: [198, 210]
-    kaisyu_n: [36, -18]
-    kaisyu_d: [36, -6]
-    kaizo_n: [144, 120]
-    kaizo_d: [144, 96]
-    map_n: [192, 204]
-    map_d: [204, 192]
-    ensyuf_n: [174, 168]
-    ensyuf_d: [216, 168]
-    ensyue_n: [108, 0]
-    battle_n: [162, 192]
-    battle_d: [204, 192]
-    wed_a: [108, -12]
-    wed_b: [204, 168]
+    boko_n: [76, 235]
+    boko_d: [142, 225]
+    kaisyu_n: [40, -43]
+    kaisyu_d: [40, -21]
+    kaizo_n: [82, 109]
+    kaizo_d: [160, 64]
+    map_n: [106, 192]
+    map_d: [175, 190]
+    ensyuf_n: [99, 175]
+    ensyuf_d: [169, 168]
+    ensyue_n: [82, 0]
+    battle_n: [130, 208]
+    battle_d: [186, 214]
+    wed_a: [238, -30]
+    wed_b: [118, 211]
   wiki_id: 
   chinese_name: 
   can_drop: false

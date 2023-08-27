@@ -6,17 +6,17 @@ data:
   name: 朝日改
   yomi: あさひ
   stype: 19
-  ctype: 
-  cnum: 
+  ctype: 123
+  cnum: 2
   backs: 6
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: zsnmjonjfpan
-  file_version: ["51", "1", "808"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "824"]
+  book_table_id: [958]
+  book_sinfo: あの戦いの一つ前の時代の主力戦艦、朝日です。<br>敷島型戦艦の一隻として、日本海海戦などに参加しま<br>した。時代は変わり、近代戦に対応できなくなった私<br>は、練習特務艦、そして貴重な後方戦力、工作艦に改<br>装され、あの大戦に参加します。軌跡と最後、覚えて<br>いてくださいませね。
   stats:
     taik: [37, 45]
     souk: [23, 34]
@@ -26,8 +26,8 @@ data:
     luck: [18, 33]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 5
+    tais: 0
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 

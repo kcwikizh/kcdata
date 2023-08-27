@@ -6,17 +6,17 @@ data:
   name: 白雲
   yomi: しらくも
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 12
+  cnum: 8
   backs: 4
   after_lv: 40
   after_ship_id: 729
   get_mes: 吹雪型駆逐艦、八番艦、白雲と申します。<br>提督様……不束者ではありますが、<br>宜しくお願い申し上げ奉ります。
   voice_f: 1
   filename: spkzxcbffmcl
-  file_version: ["51", "1", "808"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "824"]
+  book_table_id: [964]
+  book_sinfo: 特型駆逐艦、その八番艦として生まれました、吹雪型駆逐艦白雲です。姉妹たちと第十二駆逐隊を編成、第三水雷戦隊の一翼として南方作戦やソロモンの戦いに従事しました。第一水雷戦隊に転属後、北方の海へ。北方の各作戦や船団護衛に務めました。白雲の事、どうか覚えていて……下さいね。
   stats:
     taik: [15, 29]
     souk: [5, 19]
@@ -26,8 +26,8 @@ data:
     luck: [8, 53]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 37
+    tais: 19
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 160

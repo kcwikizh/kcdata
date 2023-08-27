@@ -6,17 +6,17 @@ data:
   name: Salmon改
   yomi: サーモン
   stype: 13
-  ctype: 
-  cnum: 
+  ctype: 122
+  cnum: 182
   backs: 6
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: qowfirmqdsal
-  file_version: ["51", "1", "808"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "824"]
+  book_table_id: [897]
+  book_sinfo: サーモン級のネームシップ、Salmonよ。ちょっとだ<br>け旧式かもだけど、私達姉妹は、全艦無事、あの戦い<br>を戦い抜いたンだから！　凄いでしょ？　アタシなん<br>か、すっごい大金星もあげてんだから！覚えといて！
   stats:
     taik: [15, 21]
     souk: [5, 22]
@@ -26,8 +26,8 @@ data:
     luck: [17, 96]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 16
+    tais: 0
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 

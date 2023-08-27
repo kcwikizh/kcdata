@@ -6,17 +6,17 @@ data:
   name: Salmon
   yomi: サーモン
   stype: 13
-  ctype: 
-  cnum: 
+  ctype: 122
+  cnum: 1
   backs: 5
   after_lv: 45
   after_ship_id: 897
   get_mes: アタシがサーモン級ネームシップ、Salmon！<br>ガトー級と比べれば旧型だけど、実は活躍したんだ！<br>Admiral？　よろしくね！
   voice_f: 1
   filename: vnxcefjoqdqu
-  file_version: ["51", "1", "808"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "824"]
+  book_table_id: [891]
+  book_sinfo: サーモン級のネームシップ、Salmonよ。ちょっとだ<br>け旧式かもだけど、私達姉妹は、全艦無事、あの戦い<br>を戦い抜いたンだから！　凄いでしょ？　アタシなん<br>か、すっごい大金星もあげてんだから！覚えといて！
   stats:
     taik: [12, 17]
     souk: [3, 18]
@@ -26,8 +26,8 @@ data:
     luck: [16, 86]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 15
+    tais: 0
     slot_num: 1
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 130

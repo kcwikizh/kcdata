@@ -6,17 +6,17 @@ data:
   name: 稲木
   yomi: いなぎ
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 117
+  cnum: 12
   backs: 4
   after_lv: 45
   after_ship_id: 730
   get_mes: 海防艦、稲木！　鵜来型海防艦、十二番艦です。<br>町も、人も……私が守ります。この身に代えてもッ！
   voice_f: 1
   filename: elrfpomtfblt
-  file_version: ["51", "1", "808"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "824"]
+  book_table_id: [922]
+  book_sinfo: 鵜来型海防艦、十二番艦、稲木だ。生まれた時にはもう戦局は大きく傾いていたが、生き残った航路の海上護衛任務に務めた。北海道そして東北方面の船団護衛の後に八戸に仮停泊中、敵機動部隊の艦載機と交戦した。もう味方の戦闘機は空に無く、後に「八戸の盾」という人達もいると聞く。
   stats:
     taik: [9, 17]
     souk: [4, 18]
@@ -26,8 +26,8 @@ data:
     luck: [9, 59]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 37
+    tais: 41
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 50
