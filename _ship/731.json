@@ -53,8 +53,8 @@ data:
     battle_d: [186, 214]
     wed_a: [238, -30]
     wed_b: [118, 211]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "534a"
+  chinese_name: C.卡佩里尼改
   can_drop: false
   can_construct: false
 ---
