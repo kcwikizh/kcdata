@@ -6,8 +6,8 @@ data:
   name: C.Cappellini
   yomi: コマンダンテ・カッペリーニ
   stype: 13
-  ctype: 
-  cnum: 
+  ctype: 124
+  cnum: 10
   backs: 4
   after_lv: 30
   after_ship_id: 731
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: ffwiclskhxkd
   file_version: ["51", "1", "824"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [934]
+  book_sinfo: あたい、マルチェロ級外洋型潜水艦、Comandante <br>Cappellini！まあ、冒険と経験は豊富だお！色々あっ<br>てUIT24って名前になって極東へ。最後は日本で、伊<br>503になったんだ！　伊号潜水艦だお！<br>あの苛烈な時代を駆け抜けた潜水艦、あたいのことも<br>覚えておいてな！
   stats:
     taik: [10, 20]
     souk: [5, 18]
@@ -26,8 +26,8 @@ data:
     luck: [33, 73]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 17
+    tais: 0
     slot_num: 1
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 190

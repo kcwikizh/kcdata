@@ -3,9 +3,9 @@ layout: json
 data:
   id: 2203
   sort_no: 
-  name: #E7新敵-壊
+  name: 欧州妹姫-壊
   yomi: 
-  stype: 2
+  stype: 9
   ctype: 
   cnum: 
   backs: 
@@ -24,7 +24,7 @@ data:
     raig: 
     tyku: 
     luck: 
-    soku: 10
+    soku: 5
     leng: 
     kaih: 
     tais: 
@@ -49,12 +49,12 @@ data:
     ensyuf_n: 
     ensyuf_d: 
     ensyue_n: 
-    battle_n: [85, 205]
-    battle_d: [85, 205]
+    battle_n: [-90, 193]
+    battle_d: [-90, 193]
     wed_a: 
     wed_b: 
-  wiki_id:
-  chinese_name:
+  wiki_id: 
+  chinese_name: 
   can_drop: false
   can_construct: false
 ---

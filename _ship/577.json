@@ -18,12 +18,12 @@ data:
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [93, 98]
-    souk: [84, 104]
+    taik: [92, 98]
+    souk: [83, 105]
     houg: [81, 114]
     raig: [0, 0]
-    tyku: [30, 92]
-    luck: [28, 98]
+    tyku: [30, 94]
+    luck: [27, 97]
     soku: 5
     leng: 3
     kaih: 
@@ -53,8 +53,8 @@ data:
     battle_d: [97, 241]
     wed_a: [531, 49]
     wed_b: [117, 180]
-  wiki_id:
-  chinese_name:
+  wiki_id: 
+  chinese_name: 
   can_drop: false
   can_construct: false
 ---

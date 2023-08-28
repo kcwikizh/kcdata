@@ -11,19 +11,19 @@ data:
   backs: 7
   after_lv: 50
   after_ship_id: 577
-  get_mes: ※
+  get_mes: 私がRodneyよ。ちょっとだけ……待った？<br>Admiral、姉が随分お世話になっているみたい？<br>でも、私が来たからには、もう大丈夫よ！
   voice_f: 1
   filename: mjwisgqfvunx
   file_version: ["51", "1", "824"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [82, 92]
-    souk: [74, 92]
+    taik: [81, 92]
+    souk: [73, 93]
     houg: [72, 102]
     raig: [0, 0]
-    tyku: [24, 82]
-    luck: [24, 89]
+    tyku: [24, 83]
+    luck: [23, 87]
     soku: 5
     leng: 3
     kaih: 
@@ -53,8 +53,8 @@ data:
     battle_d: [97, 241]
     wed_a: [531, 49]
     wed_b: [117, 180]
-  wiki_id:
-  chinese_name:
+  wiki_id: 
+  chinese_name: 
   can_drop: false
   can_construct: false
 ---
