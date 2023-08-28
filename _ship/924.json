@@ -6,8 +6,8 @@ data:
   name: Nevada
   yomi: ネヴァダ
   stype: 9
-  ctype: 
-  cnum: 
+  ctype: 125
+  cnum: 1
   backs: 6
   after_lv: 40
   after_ship_id: 929
@@ -15,8 +15,8 @@ data:
   voice_f: 1
   filename: pxnlfmyssyoi
   file_version: ["51", "1", "824"]
-  book_table_id: 
-  book_sinfo: 
+  book_table_id: [924]
+  book_sinfo: Nevada級戦艦ネームシップ、Nevada！主力戦艦のスタンダード、標準型戦艦として誕生し、数々の主力艦の雛形になったんだから！　真珠湾で南雲機動部隊の大空襲にあって大破したけど、見事に復旧、改修を重ね、戦列に再び参加したわ！ノルマンディー上陸作戦、そして再び太平洋にも！
   stats:
     taik: [74, 87]
     souk: [71, 87]
@@ -26,8 +26,8 @@ data:
     luck: [33, 103]
     soku: 5
     leng: 3
-    kaih: 
-    tais: 
+    kaih: 20
+    tais: 0
     slot_num: 4
     max_eq: [0, 0, 1, 1, 0]
     after_fuel: 2300
