@@ -1,0 +1,329 @@
+---
+layout: json
+order: 576
+data:
+  id: 576
+  name: ポートランド島沖/ライム湾
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A2
+    2:
+      from: 1
+      to: A1
+    3:
+      from: 1
+      to: A
+    4:
+      from: A
+      to: B
+    5:
+      from: A
+      to: C
+    6:
+      from: C
+      to: C1
+    7:
+      from: C1
+      to: C2
+    8:
+      from: A2
+      to: A1
+    9:
+      from: A1
+      to: A
+    10:
+      from: B
+      to: D
+    11:
+      from: D
+      to: E
+    12:
+      from: E
+      to: F
+    13:
+      from: F
+      to: G
+    14:
+      from: F
+      to: H
+    15:
+      from: B
+      to: E
+    16:
+      from: B
+      to: F
+    17:
+      from: 2
+      to: I
+    18:
+      from: I
+      to: J1
+    19:
+      from: J1
+      to: J2
+    20:
+      from: I
+      to: J
+    21:
+      from: J
+      to: K
+    22:
+      from: K
+      to: L
+    23:
+      from: K
+      to: M
+    24:
+      from: J1
+      to: J
+    25:
+      from: J2
+      to: J
+    26:
+      from: null
+      to: 2
+    27:
+      from: M
+      to: N
+    28:
+      from: M
+      to: O
+    29:
+      from: O
+      to: P
+    30:
+      from: O
+      to: Q
+    31:
+      from: 3
+      to: R
+    32:
+      from: R
+      to: S
+    33:
+      from: R
+      to: T
+    34:
+      from: T
+      to: U
+    35:
+      from: U
+      to: V
+    36:
+      from: P
+      to: Q
+    37:
+      from: S
+      to: T
+    38:
+      from: null
+      to: 3
+    39:
+      from: J1
+      to: W
+    40:
+      from: U
+      to: X
+    41:
+      from: X
+      to: Y
+    42:
+      from: X
+      to: Z
+    43:
+      from: X
+      to: V
+    44:
+      from: V
+      to: Z
+    45:
+      from: J2
+      to: W
+    46:
+      from: L
+      to: J1
+    47:
+      from: L
+      to: J2
+  cells:
+    1:
+      name: 
+      type:
+      boss: false
+      routes: [0]
+    2:
+      name: 
+      type:
+      boss: false
+      routes: [26]
+    3:
+      name: 
+      type:
+      boss: false
+      routes: [38]
+    A2:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [1]
+    A1:
+      name: 深海潜水艦隊 警戒哨戒A群
+      type:
+      boss: false
+      routes: [2, 8]
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [3, 9]
+    B:
+      name: 深海潜水艦隊 警戒哨戒B群
+      type:
+      boss: false
+      routes: [4]
+    C:
+      name: 深海潜水艦隊 警戒哨戒C群
+      type:
+      boss: false
+      routes: [5]
+    C1:
+      name: 深海大西洋艦隊 要塞港守備戦隊
+      type:
+      boss: false
+      routes: [6]
+    C2:
+      name: 深海大西洋艦隊 再建中要塞
+      type:
+      boss: false
+      routes: [7]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    E:
+      name: 深海大西洋艦隊 前方警戒駆逐隊
+      type:
+      boss: false
+      routes: [11, 15]
+    F:
+      name: 深海大西洋艦隊 機動部隊護衛隊
+      type:
+      boss: false
+      routes: [12, 16]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    H:
+      name: 深海大西洋艦隊 空母機動部隊
+      type:
+      boss: false
+      routes: [14]
+    I:
+      name: 深海潜水艦隊 北方警戒哨戒線
+      type:
+      boss: false
+      routes: [17]
+    J1:
+      name: 深海潜水艦隊群・深海航空支援
+      type:
+      boss: false
+      routes: [18, 46]
+    J2:
+      name: 深海空母機動部隊 艦載機群
+      type:
+      boss: false
+      routes: [19, 47]
+    J:
+      name: 深海任務部隊 軽空母航空集団
+      type:
+      boss: false
+      routes: [20, 24, 25]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    L:
+      name: 深海潜水艦隊 北方警戒部隊旗艦
+      type:
+      boss: false
+      routes: [22]
+    M:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [23]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    O:
+      name: 深海任務部隊 戦艦戦隊
+      type:
+      boss: false
+      routes: [28]
+    P:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [29]
+    Q:
+      name: 深海大西洋方面 沿岸要塞陣地
+      type:
+      boss: false
+      routes: [30, 36]
+    R:
+      name: 深海潜水艦隊 前衛哨戒遊撃集団
+      type:
+      boss: false
+      routes: [31]
+    S:
+      name: 深海潜水艦隊群・深海航空支援
+      type:
+      boss: false
+      routes: [32]
+    T:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [33, 37]
+    U:
+      name: 深海大西洋艦隊 輸送護衛集団
+      type:
+      boss: false
+      routes: [34]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [35, 43]
+    W:
+      name: 深海大西洋艦隊 増援機動部隊群
+      type:
+      boss: false
+      routes: [39, 45]
+    X:
+      name: 深海任務部隊 増援阻止線前衛
+      type:
+      boss: false
+      routes: [40]
+    Y:
+      name: 
+      type:
+      boss: false
+      routes: [41]
+    Z:
+      name: 深海特殊戦隊 タイガー演習強襲隊
+      type:
+      boss: true
+      routes: [42, 44]
+  image: MapHDE-6Summer2023.png
+---

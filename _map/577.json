@@ -1,0 +1,389 @@
+---
+layout: json
+order: 577
+data:
+  id: 577
+  name: ノルマンディー沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: A1
+    3:
+      from: A
+      to: A2
+    4:
+      from: A2
+      to: A3
+    5:
+      from: A3
+      to: A4
+    6:
+      from: A3
+      to: A5
+    7:
+      from: A1
+      to: B
+    8:
+      from: B
+      to: B1
+    9:
+      from: B
+      to: B2
+    10:
+      from: B2
+      to: B3
+    11:
+      from: B2
+      to: B4
+    12:
+      from: 1
+      to: C
+    13:
+      from: C
+      to: C1
+    14:
+      from: C1
+      to: C2
+    15:
+      from: C2
+      to: C3
+    16:
+      from: A1
+      to: A2
+    17:
+      from: C
+      to: A3
+    18:
+      from: A2
+      to: B
+    19:
+      from: C2
+      to: D
+    20:
+      from: D
+      to: E
+    21:
+      from: D
+      to: F
+    22:
+      from: F
+      to: G
+    23:
+      from: G
+      to: H
+    24:
+      from: E
+      to: F
+    25:
+      from: F
+      to: H
+    26:
+      from: 2
+      to: I
+    27:
+      from: I
+      to: J
+    28:
+      from: J
+      to: K
+    29:
+      from: J
+      to: L
+    30:
+      from: K
+      to: M
+    31:
+      from: K
+      to: N
+    32:
+      from: N
+      to: O
+    33:
+      from: O
+      to: P
+    34:
+      from: M
+      to: N
+    35:
+      from: null
+      to: 2
+    36:
+      from: 3
+      to: Q
+    37:
+      from: O
+      to: R
+    38:
+      from: R
+      to: S
+    39:
+      from: Q
+      to: N
+    40:
+      from: Q
+      to: O
+    41:
+      from: S
+      to: P
+    42:
+      from: null
+      to: 3
+    43:
+      from: L
+      to: T
+    44:
+      from: T
+      to: U
+    45:
+      from: U
+      to: V
+    46:
+      from: U
+      to: X
+    47:
+      from: X
+      to: W
+    48:
+      from: C2
+      to: L
+    49:
+      from: N
+      to: T
+    50:
+      from: V
+      to: X
+    51:
+      from: L
+      to: N
+    52:
+      from: X
+      to: Y
+    53:
+      from: X
+      to: Z
+    54:
+      from: Y
+      to: Z
+    55:
+      from: L
+      to: U
+    56:
+      from: L
+      to: V
+    57:
+      from: L
+      to: X
+  cells:
+    1:
+      name: 
+      type:
+      boss: false
+      routes: [0]
+    2:
+      name: 
+      type:
+      boss: false
+      routes: [35]
+    3:
+      name: 
+      type:
+      boss: false
+      routes: [42]
+    A:
+      name: 深海潜水艦隊 先行偵察哨戒群
+      type:
+      boss: false
+      routes: [1]
+    A1:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [2]
+    A2:
+      name: 
+      type:
+      boss: false
+      routes: [3, 16]
+    A3:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [4, 17]
+    A4:
+      name: 深海潜水艦隊 遊撃迎撃戦隊A群
+      type:
+      boss: false
+      routes: [5]
+    A5:
+      name: 深海大西洋方面 離島砲台群
+      type:
+      boss: false
+      routes: [6]
+    B:
+      name: 深海大西洋艦隊 南部残存部隊
+      type:
+      boss: false
+      routes: [7, 18]
+    B1:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    B2:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    B3:
+      name: 深海潜水艦隊 遊撃迎撃戦隊B群
+      type:
+      boss: false
+      routes: [10]
+    B4:
+      name: 深海潜水艦隊 遊撃迎撃戦隊旗艦
+      type:
+      boss: false
+      routes: [11]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [12]
+    C1:
+      name: 深海大西洋艦隊 突撃巡洋艦戦隊
+      type:
+      boss: false
+      routes: [13]
+    C2:
+      name: 深海潜水艦隊 イギリス海峡阻止線
+      type:
+      boss: false
+      routes: [14]
+    C3:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    D:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [19]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    F:
+      name: 深海要塞群 防衛支援空母群
+      type:
+      boss: false
+      routes: [21, 24]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [22]
+    H:
+      name: 深海要塞群 オマハ地区陣地
+      type:
+      boss: false
+      routes: [23, 25]
+    I:
+      name: 深海潜水艦隊 増援阻止哨戒線
+      type:
+      boss: false
+      routes: [26]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    K:
+      name: 深海大西洋艦隊 警戒任務部隊
+      type:
+      boss: false
+      routes: [28]
+    L:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [29, 48]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [30]
+    N:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [31, 34, 39, 51]
+    O:
+      name: 深海要塞群 直掩巡洋艦戦隊
+      type:
+      boss: false
+      routes: [32, 40]
+    P:
+      name: 深海要塞群 東部地区陣地正面
+      type:
+      boss: false
+      routes: [33, 41]
+    Q:
+      name: 深海潜水艦隊 前衛哨戒遊撃集団
+      type:
+      boss: false
+      routes: [36]
+    R:
+      name: 深海要塞群 防衛突撃隊
+      type:
+      boss: false
+      routes: [37]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [38]
+    T:
+      name: 深海潜水艦隊 遊撃群狼集団
+      type:
+      boss: false
+      routes: [43, 49]
+    U:
+      name: 深海要塞群 後方補給兵站基地
+      type:
+      boss: false
+      routes: [44, 55]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [45, 56]
+    X:
+      name: 深海大西洋艦隊 最終阻止線
+      type:
+      boss: false
+      routes: [46, 50, 57]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [47]
+    Y:
+      name: 
+      type:
+      boss: false
+      routes: [52]
+    Z:
+      name: 深海大西洋方面 要塞守備旗艦
+      type:
+      boss: true
+      routes: [53, 54]
+  image: MapHDE-7Summer2023.png
+---
