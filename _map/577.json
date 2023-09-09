@@ -276,7 +276,7 @@ data:
       boss: false
       routes: [19]
     E:
-      name: 
+      name: 深海潜水艦隊群・深海航空支援
       type:
       boss: false
       routes: [20]
@@ -361,7 +361,7 @@ data:
       boss: false
       routes: [44, 55]
     V:
-      name: 
+      name: 深海潜水艦隊 最終絶対阻止線
       type:
       boss: false
       routes: [45, 56]
