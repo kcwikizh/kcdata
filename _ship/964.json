@@ -14,7 +14,7 @@ data:
   get_mes: 吹雪型駆逐艦、八番艦、白雲と申します。<br>提督様……不束者ではありますが、<br>宜しくお願い申し上げ奉ります。
   voice_f: 1
   filename: spkzxcbffmcl
-  file_version: ["51", "1", "824"]
+  file_version: ["52", "2", "1011"]
   book_table_id: [964]
   book_sinfo: 特型駆逐艦、その八番艦として生まれました、吹雪型駆逐艦白雲です。姉妹たちと第十二駆逐隊を編成、第三水雷戦隊の一翼として南方作戦やソロモンの戦いに従事しました。第一水雷戦隊に転属後、北方の海へ。北方の各作戦や船団護衛に務めました。白雲の事、どうか覚えていて……下さいね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [190, 130]
-    boko_d: [96, 190]
+    boko_n: [196, 231]
+    boko_d: [196, 231]
     kaisyu_n: [34, -10]
     kaisyu_d: [82, 7]
-    kaizo_n: [204, 10]
-    kaizo_d: [100, 34]
-    map_n: [223, 100]
-    map_d: [156, 160]
-    ensyuf_n: [219, 82]
-    ensyuf_d: [145, 142]
-    ensyue_n: [231, 0]
-    battle_n: [240, 118]
-    battle_d: [160, 172]
-    wed_a: [129, 63]
-    wed_b: [102, 184]
+    kaizo_n: [220, 105]
+    kaizo_d: [205, 70]
+    map_n: [229, 205]
+    map_d: [229, 205]
+    ensyuf_n: [223, 187]
+    ensyuf_d: [223, 187]
+    ensyue_n: [232, 0]
+    battle_n: [246, 229]
+    battle_d: [244, 229]
+    wed_a: [121, -46]
+    wed_b: [94, 193]
   wiki_id: "564"
   chinese_name: 白云
   can_drop: false

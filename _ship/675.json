@@ -14,7 +14,7 @@ data:
   get_mes: お疲れっ！　あたし、涼波。夕雲型の十番艦よ！<br>藤波、早波、待たせたわね！　提督、スズでいいよ。<br>これからよろしくお願いね！
   voice_f: 1
   filename: ofgtclrhbaqs
-  file_version: ["56", "1", "824"]
+  file_version: ["57", "1", "1011"]
   book_table_id: [675, 5559]
   book_sinfo: 夕雲型駆逐艦十番艦、涼波さ！同じ夕雲型の藤波、早<br>波、そして玉波と、最初の第三二駆逐隊を編成した<br>よ。最新鋭艦隊型駆逐艦として、栄光の二水戦に配属<br>されたんだ。ラバウルねー、あそこは…うちらの縄張<br>りだけどさ、危ないね。
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [82, 181]
-    boko_d: [195, 160]
+    boko_n: [46, 199]
+    boko_d: [46, 199]
     kaisyu_n: [0, 12]
     kaisyu_d: [28, -37]
-    kaizo_n: [84, 60]
-    kaizo_d: [178, 13]
-    map_n: [109, 165]
-    map_d: [211, 139]
-    ensyuf_n: [97, 139]
-    ensyuf_d: [196, 118]
-    ensyue_n: [111, 0]
-    battle_n: [133, 186]
-    battle_d: [238, 157]
-    wed_a: [250, 19]
-    wed_b: [115, 189]
+    kaizo_n: [28, 76]
+    kaizo_d: [27, 28]
+    map_n: [63, 172]
+    map_d: [49, 153]
+    ensyuf_n: [39, 151]
+    ensyuf_d: [28, 133]
+    ensyue_n: [39, 0]
+    battle_n: [79, 177]
+    battle_d: [75, 160]
+    wed_a: [277, 1]
+    wed_b: [132, 162]
   wiki_id: "475"
   chinese_name: 凉波
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: tuzbqjvyptyt
-  file_version: ["60", "26", "824"]
+  file_version: ["61", "26", "1011"]
   book_table_id: [623, 5462]
   book_sinfo: コンパクトボディに充実の重武装を施した実験艦的存<br>在の軽巡、夕張です。私の残したデータが、様々な重<br>武装新鋭艦開発の元になったんだから！<br>機関室に一発？何いってんの？<br>ほんと…失礼しちゃうわ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 2, 1]
     build_time: 82
   graph:
-    boko_n: [82, 172]
-    boko_d: [67, 184]
+    boko_n: [-16, 196]
+    boko_d: [64, 211]
     kaisyu_n: [40, -40]
     kaisyu_d: [64, -61]
-    kaizo_n: [73, 67]
-    kaizo_d: [61, 48]
-    map_n: [115, 157]
-    map_d: [109, 153]
-    ensyuf_n: [88, 135]
-    ensyuf_d: [55, 135]
-    ensyue_n: [94, 0]
-    battle_n: [135, 175]
-    battle_d: [115, 178]
-    wed_a: [238, 9]
-    wed_b: [115, 175]
+    kaizo_n: [-37, 76]
+    kaizo_d: [28, 69]
+    map_n: [22, 162]
+    map_d: [111, 187]
+    ensyuf_n: [-12, 156]
+    ensyuf_d: [75, 159]
+    ensyue_n: [-19, 0]
+    battle_n: [49, 199]
+    battle_d: [121, 201]
+    wed_a: [349, 4]
+    wed_b: [120, 172]
   wiki_id: "423"
   chinese_name: 夕张改二特
   can_drop: false

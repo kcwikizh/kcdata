@@ -6,17 +6,17 @@ data:
   name: Javelin
   yomi: ジャヴェリン
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 82
+  cnum: 6
   backs: 6
   after_lv: 50
   after_ship_id: 906
   get_mes: Are you alright?<br>そうよ。私がJ級駆逐艦のネームシップ、Javelin。<br>覚えておいてね？ ……ん！よろしい。
   voice_f: 1
   filename: mblmkiwvsotl
-  file_version: ["51", "1", "824"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "1011"]
+  book_table_id: [901]
+  book_sinfo: J級駆逐艦、ネームシップ、Javelinよ。ダンケルクから地中海まで、縦横無尽に活躍したわ！そうよ、嚮導艦こそJervisに譲ったものの、J級のネームシップはこの私なんだから！大破損傷を乗り越えて、Jervisと共に、あの戦いを最後まで戦い切ったわ！<br>J級駆逐艦、貴方も覚えていてね。
   stats:
     taik: [15, 33]
     souk: [7, 18]
@@ -26,8 +26,8 @@ data:
     luck: [30, 80]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 44
+    tais: 40
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 390
@@ -55,6 +55,6 @@ data:
     wed_b: [108, 196]
   wiki_id: "501"
   chinese_name: 标枪
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

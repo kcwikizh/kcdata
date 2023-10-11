@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: odxrohdddcnx
-  file_version: ["56", "26", "824"]
+  file_version: ["57", "27", "1011"]
   book_table_id: [651, 5575]
   book_sinfo: 艦隊旗艦、丹陽です！<br>し・れ・え！　雪風、<br>今は、丹陽っていいます！<br><br>よろしく……お願いします！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 0, 3, 2]
     build_time: 24
   graph:
-    boko_n: [145, 214]
-    boko_d: [270, 297]
+    boko_n: [112, 196]
+    boko_d: [144, 208]
     kaisyu_n: [10, 21]
     kaisyu_d: [46, 1]
-    kaizo_n: [100, 70]
-    kaizo_d: [240, 114]
-    map_n: [147, 184]
-    map_d: [252, 228]
-    ensyuf_n: [115, 178]
-    ensyuf_d: [250, 198]
-    ensyue_n: [115, 0]
-    battle_n: [123, 205]
-    battle_d: [286, 238]
-    wed_a: [196, -7]
-    wed_b: [145, 150]
+    kaizo_n: [73, 81]
+    kaizo_d: [109, 79]
+    map_n: [87, 172]
+    map_d: [136, 192]
+    ensyuf_n: [81, 175]
+    ensyuf_d: [142, 189]
+    ensyue_n: [94, 0]
+    battle_n: [133, 201]
+    battle_d: [165, 208]
+    wed_a: [261, -6]
+    wed_b: [190, 148]
   wiki_id: "451"
   chinese_name: 丹阳
   can_drop: false

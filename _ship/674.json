@@ -14,7 +14,7 @@ data:
   get_mes: 夕雲型駆逐艦、その九番艦、玉波です。<br>十一水雷戦隊所属となります。<br>戦力となれるよう努めます。
   voice_f: 1
   filename: mcxasnlfgafn
-  file_version: ["53", "1", "824"]
+  file_version: ["53", "1", "1011"]
   book_table_id: [674, 5745]
   book_sinfo: 夕雲型駆逐艦、九番艦、玉波です。栄光ある二水戦に<br>配属され、ラバウルなどの最前線に向かいました。<br>藤波さんたちと共にマリアナ沖決戦にも参加。既に前<br>線の崩壊した海上の輸送船団護衛にも従事しました。<br>潜水艦の脅威、忘れてはいけません。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [111, 181]
   wiki_id: "474"
   chinese_name: 玉波
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

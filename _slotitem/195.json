@@ -83,6 +83,8 @@ data:
             ship_id: 550
         -
           -
+            ship_id: 603
+          -
             ship_id: 704
           -
             ship_id: 433
@@ -94,15 +96,21 @@ data:
             ship_id: 550
         -
           -
-            ship_id: 704
-          -
-            ship_id: 433
-        -
+            ship_id: 603
           -
             ship_id: 704
           -
             ship_id: 433
         -
+          -
+            ship_id: 603
+          -
+            ship_id: 704
+          -
+            ship_id: 433
+        -
+          -
+            ship_id: 603
           -
             ship_id: 704
           -

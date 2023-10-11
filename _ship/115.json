@@ -14,7 +14,7 @@ data:
   get_mes: はーい、お待たせ？<br>兵装実験軽巡、夕張、到着いたしました！
   voice_f: 3
   filename: hieimxbtcqrt
-  file_version: ["61", "26", "824"]
+  file_version: ["61", "26", "1011"]
   book_table_id: [115, 893]
   book_sinfo: コンパクトボディに充実の重武装を施した実験艦的存在の軽巡、夕張です。私の残したデータが、様々な重武装新鋭艦開発の元になったんだから！<br>機関室に一発？何いってんの？<br>ほんと…失礼しちゃうわ。
   stats:

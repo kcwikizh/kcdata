@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: jqkvvuiubfdq
-  file_version: ["62", "1", "824"]
+  file_version: ["63", "1", "1011"]
   book_table_id: [536]
   book_sinfo: 航空母艦、神鷹です。神戸に避難していたドイツの客<br>船でしたが、帰国は困難でした。後に日本海軍に譲渡<br>され、空母へと改装されました。船団航路を護る海上<br>護衛総隊に所属し、対潜掃蕩任務に就きました。姉た<br>ちの敵に一矢報いたかった…けれど…。夜…夜の海は<br>…嫌…怖いです…。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 2]
     build_time: 160
   graph:
-    boko_n: [193, 211]
-    boko_d: [253, 331]
+    boko_n: [237, 205]
+    boko_d: [237, 205]
     kaisyu_n: [10, 0]
     kaisyu_d: [91, 4]
-    kaizo_n: [184, 97]
-    kaizo_d: [232, 181]
-    map_n: [166, 201]
-    map_d: [219, 261]
-    ensyuf_n: [171, 193]
-    ensyuf_d: [222, 205]
-    ensyue_n: [240, 0]
-    battle_n: [208, 201]
-    battle_d: [289, 283]
-    wed_a: [159, 0]
-    wed_b: [103, 132]
+    kaizo_n: [255, 91]
+    kaizo_d: [240, 57]
+    map_n: [283, 193]
+    map_d: [283, 193]
+    ensyuf_n: [265, 199]
+    ensyuf_d: [265, 199]
+    ensyue_n: [262, 0]
+    battle_n: [315, 225]
+    battle_d: [315, 225]
+    wed_a: [67, -39]
+    wed_b: [123, 181]
   wiki_id: "336"
   chinese_name: 神鹰改二
   can_drop: false

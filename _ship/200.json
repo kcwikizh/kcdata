@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: qjkjyqhsvcpx
-  file_version: ["19", "16", "824"]
+  file_version: ["20", "16", "1011"]
   book_table_id: [200, 5287, 5674]
   book_sinfo: 長良型軽巡洋艦の阿武隈です。<br>はい…正直いって、北上さんは苦手です。なに、あの<br>人…でも、艦首もきれいに直して頑張りました！<br>潮ちゃんも…ありがとね…。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 2, 2]
     build_time: 75
   graph:
-    boko_n: [132, 186]
-    boko_d: [48, 216]
+    boko_n: [175, 210]
+    boko_d: [175, 210]
     kaisyu_n: [18, -6]
     kaisyu_d: [24, 0]
-    kaizo_n: [72, 96]
-    kaizo_d: [-24, 96]
-    map_n: [96, 168]
-    map_d: [12, 192]
-    ensyuf_n: [96, 168]
-    ensyuf_d: [24, 192]
-    ensyue_n: [72, 0]
-    battle_n: [120, 168]
-    battle_d: [36, 192]
-    wed_a: [216, 36]
-    wed_b: [150, 138]
+    kaizo_n: [147, 105]
+    kaizo_d: [132, 70]
+    map_n: [172, 184]
+    map_d: [172, 184]
+    ensyuf_n: [169, 174]
+    ensyuf_d: [169, 174]
+    ensyue_n: [175, 0]
+    battle_n: [205, 202]
+    battle_d: [205, 202]
+    wed_a: [187, -28]
+    wed_b: [105, 181]
   wiki_id: "200"
   chinese_name: 阿武隈改二
   can_drop: false

@@ -154,35 +154,21 @@ data:
             ship_id: 70
           -
             ship_id: 73
-          -
-            ship_id: 501
-          -
-            ship_id: 506
         -
           -
             ship_id: 70
           -
             ship_id: 73
-          -
-            ship_id: 501
-          -
-            ship_id: 506
         -
           -
             ship_id: 70
           -
             ship_id: 73
-          -
-            ship_id: 501
-          -
-            ship_id: 506
         -
           -
             ship_id: 70
           -
             ship_id: 73
-          -
-            ship_id: 501
           -
             ship_id: 506
         - false

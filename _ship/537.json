@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: yjgylyotzuwn
-  file_version: ["62", "2", "824"]
+  file_version: ["63", "2", "1011"]
   book_table_id: [537, 1064]
   book_sinfo: 乙型駆逐艦、秋月型、その三番艦、涼月です。<br>艦隊防空のために生まれました。何度か大きな損傷を<br>受けましたが、最後の二水戦の一員として大和と共に<br>出撃します。満身創痍ではありますが、港に戻りまし<br>た。ずっと…皆さんを護り続けたい……そう願ってい<br>ます。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 3, 1]
     build_time: 30
   graph:
-    boko_n: [112, 210]
-    boko_d: [216, 307]
+    boko_n: [108, 216]
+    boko_d: [201, 240]
     kaisyu_n: [42, -15]
     kaisyu_d: [66, 6]
-    kaizo_n: [93, 82]
-    kaizo_d: [141, 144]
-    map_n: [129, 205]
-    map_d: [193, 225]
-    ensyuf_n: [81, 195]
-    ensyuf_d: [144, 226]
-    ensyue_n: [130, 0]
-    battle_n: [151, 216]
-    battle_d: [216, 235]
-    wed_a: [244, -6]
-    wed_b: [106, 138]
+    kaizo_n: [39, 102]
+    kaizo_d: [135, 114]
+    map_n: [78, 180]
+    map_d: [147, 210]
+    ensyuf_n: [48, 186]
+    ensyuf_d: [129, 204]
+    ensyue_n: [36, 0]
+    battle_n: [84, 192]
+    battle_d: [153, 234]
+    wed_a: [300, 0]
+    wed_b: [132, 156]
   wiki_id: "337"
   chinese_name: 凉月改
   can_drop: false

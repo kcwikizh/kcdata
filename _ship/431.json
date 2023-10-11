@@ -14,7 +14,7 @@ data:
   get_mes: ドイツ海軍所属、潜水艦U-511です。<br>ユーとお呼びください。<br>少し遠出してきました。よろしくお願い致します……。
   voice_f: 1
   filename: ksvosfducgbe
-  file_version: ["25", "4", "824"]
+  file_version: ["26", "4", "1011"]
   book_table_id: [431, 795]
   book_sinfo: ドイツ海軍のUボート、潜水艦U-511……です。<br>頑張って、ここまで来ました。<br>皆と仲良くなれたら…いいなって…ここの文化に馴染めたらいいなって…思います。
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [228, 226]
-    boko_d: [349, 226]
+    boko_n: [150, 150]
+    boko_d: [-48, 312]
     kaisyu_n: [24, -12]
     kaisyu_d: [36, 0]
-    kaizo_n: [156, 130]
-    kaizo_d: [246, 99]
-    map_n: [180, 184]
-    map_d: [277, 190]
-    ensyuf_n: [157, 190]
-    ensyuf_d: [271, 196]
-    ensyue_n: [156, 0]
-    battle_n: [180, 208]
-    battle_d: [300, 231]
-    wed_a: [186, -12]
-    wed_b: [138, 168]
+    kaizo_n: [96, 84]
+    kaizo_d: [-72, 120]
+    map_n: [96, 144]
+    map_d: [-120, 216]
+    ensyuf_n: [120, 120]
+    ensyuf_d: [-72, 216]
+    ensyue_n: [72, 0]
+    battle_n: [120, 144]
+    battle_d: [-60, 240]
+    wed_a: [216, 60]
+    wed_b: [216, 204]
   wiki_id: "231"
   chinese_name: U-511
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

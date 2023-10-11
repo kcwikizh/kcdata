@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: tdextuaybvpj
-  file_version: ["83", "6", "824"]
+  file_version: ["84", "6", "1011"]
   book_table_id: [543, 5328, 5282, 5314, 5738]
   book_sinfo: マル4計画で建造されて戦時就航した夕雲型四番艦、<br>長波だ。栄光の第二水雷戦隊で縦横無尽の活躍した<br>ぞ。ガダルカナル島では、田中頼三少将の名指揮で、<br>敵の待ち伏せを完膚なきまでに蹴散らしてやったぜ。
   stats:
@@ -22,7 +22,7 @@ data:
     souk: [15, 55]
     houg: [18, 69]
     raig: [30, 89]
-    tyku: [20, 66]
+    tyku: [20, 67]
     luck: [30, 80]
     soku: 10
     leng: 1

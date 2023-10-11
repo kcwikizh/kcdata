@@ -134,7 +134,7 @@ data:
             amount: 1
           -
             id: 27
-            amount: 1
+            amount: 2
       upgrade:
         id: 450
         level: 0
