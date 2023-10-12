@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: lucqlupwpmvi
-  file_version: ["58", "1", "824"]
+  file_version: ["60", "1", "1011"]
   book_table_id: [506, 5645, 5685]
   book_sinfo: 最上型重巡洋艦、一番艦。航空艤装もある程度残しな<br>がら、再び主砲を装備した火力型重改装のボク。<br>どうだろう！<br>夜の撃ち合いもボクに任せて！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 3, 2]
     build_time: 100
   graph:
-    boko_n: [216, 228]
-    boko_d: [216, 228]
+    boko_n: [37, 211]
+    boko_d: [37, 211]
     kaisyu_n: [33, -3]
     kaisyu_d: [120, -25]
-    kaizo_n: [144, 156]
-    kaizo_d: [126, 120]
-    map_n: [174, 198]
-    map_d: [174, 198]
-    ensyuf_n: [168, 204]
-    ensyuf_d: [168, 204]
-    ensyue_n: [156, 0]
-    battle_n: [198, 219]
-    battle_d: [198, 219]
-    wed_a: [204, -18]
-    wed_b: [126, 150]
+    kaizo_n: [37, 103]
+    kaizo_d: [22, 69]
+    map_n: [48, 177]
+    map_d: [48, 177]
+    ensyuf_n: [58, 175]
+    ensyuf_d: [58, 175]
+    ensyue_n: [51, 0]
+    battle_n: [102, 196]
+    battle_d: [102, 196]
+    wed_a: [283, -31]
+    wed_b: [124, 187]
   wiki_id: "306"
   chinese_name: 最上改二特
   can_drop: false

@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 602
+  type: 0
+  no: 84
+  title: Halloweenの床
+  description: Happy!<br>Fleet!<br>Halloween!<br>ハロウィンを楽しむ艦娘<br>のための専用床板です。
+  rarity: 3
+  price: 1300
+  saleflg: 1
+  season: 0
+  filename: 
+  file_version: ""
+---

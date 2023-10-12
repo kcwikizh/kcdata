@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: fjdsybpwtaws
-  file_version: ["69", "10", "824"]
+  file_version: ["71", "12", "1011"]
   book_table_id: [697, 5469, 5572]
   book_sinfo: South Dakota class USS Battleship South Dakota<br>だ。高速空母機動部隊の護衛、南方ソロモンで水上艦<br>隊の殴り合いなど前線で活躍した戦艦だ。<br>Black Princeなどとも呼ばれたな。何？疫病神だと？<br>知らんな。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [5, 0, 3, 5]
     build_time: 400
   graph:
-    boko_n: [126, 216]
-    boko_d: [81, 97]
+    boko_n: [132, 169]
+    boko_d: [13, 181]
     kaisyu_n: [22, -75]
     kaisyu_d: [60, -67]
-    kaizo_n: [124, 103]
-    kaizo_d: [73, -36]
-    map_n: [130, 187]
-    map_d: [69, 64]
-    ensyuf_n: [121, 183]
-    ensyuf_d: [76, 54]
-    ensyue_n: [109, 0]
-    battle_n: [166, 214]
-    battle_d: [105, 91]
-    wed_a: [229, -28]
-    wed_b: [132, 178]
+    kaizo_n: [120, 58]
+    kaizo_d: [-7, 24]
+    map_n: [163, 151]
+    map_d: [52, 160]
+    ensyuf_n: [148, 135]
+    ensyuf_d: [28, 153]
+    ensyue_n: [145, 0]
+    battle_n: [193, 166]
+    battle_d: [46, 177]
+    wed_a: [192, 16]
+    wed_b: [79, 178]
   wiki_id: "407"
   chinese_name: 南达科他改
   can_drop: false

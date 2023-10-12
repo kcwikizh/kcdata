@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 955
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: ttbyunrlgtlx
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 555
+  name: 清霜改二
+  yomi: きよしも
+  stype: 2
+  ctype: 38
+  cnum: 19
+  backs: 7
+  after_lv: 86
+  after_ship_id: 960
+  get_mes: <br>
+  voice_f: 3
+  filename: sxrrtdjcfwwl
+  file_version: ["51", "1", "1011"]
+  book_table_id: [955]
+  book_sinfo: 夕雲型駆逐艦のラスト、十九番艦の清霜です。<br>浦賀生まれですよ。もう、そうとう辛い戦局の中で生<br>まれたの。短い間だったけど、縦横無尽に活躍した<br>わ。凄惨だったレイテはもちろん、あの礼号作戦にも<br>参加したのよ！どう？
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [33, 56]
+    souk: [15, 53]
+    houg: [18, 69]
+    raig: [29, 86]
+    tyku: [20, 75]
+    luck: [27, 89]
+    soku: 10
+    leng: 1
+    kaih: 45
+    tais: 28
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 330
+    after_bull: 170
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 24
   graph:
-    boko_n: [132, 222]
-    boko_d: [138, 222]
-    kaisyu_n: [15, 30]
-    kaisyu_d: [39, 43]
-    kaizo_n: [72, 144]
-    kaizo_d: [-60, 90]
-    map_n: [84, 186]
-    map_d: [84, 192]
-    ensyuf_n: [84, 192]
-    ensyuf_d: [72, 192]
-    ensyue_n: [72, 0]
-    battle_n: [96, 210]
-    battle_d: [48, 216]
-    wed_a: [222, -12]
-    wed_b: [192, 168]
+    boko_n: [13, 127]
+    boko_d: [-169, 187]
+    kaisyu_n: [27, -28]
+    kaisyu_d: [-6, -60]
+    kaizo_n: [28, 22]
+    kaizo_d: [-160, 70]
+    map_n: [36, 100]
+    map_d: [-157, 187]
+    ensyuf_n: [40, 97]
+    ensyuf_d: [-157, 154]
+    ensyue_n: [52, 0]
+    battle_n: [61, 120]
+    battle_d: [-85, 201]
+    wed_a: [280, 49]
+    wed_b: [145, 204]
   wiki_id: 
   chinese_name: 
   can_drop: false

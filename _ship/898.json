@@ -14,7 +14,7 @@ data:
   get_mes: 私、丁型海防艦、第二十二号！<br>呼び方ですか？　じゃ、ふーふ、でどう？<br>ちっちゃくたって……私、結構やっちゃうよ！
   voice_f: 0
   filename: ezqrkocbmcql
-  file_version: ["51", "1", "824"]
+  file_version: ["52", "2", "1011"]
   book_table_id: [898]
   book_sinfo: 長崎生まれの丁型海防艦、第二十二号海防艦だよ！厳<br>しい戦局の中で、船団護衛や対潜掃蕩、頑張ったよ？<br>マモ船団もタマ船団も、大変だった…敵潜水艦はホン<br>トに危険…とにかく見つけたら、全力で何とかしない<br>と！最後まで戦い抜いた私たちの事…きっと覚えてい<br>てね。
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [0, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [121, 244]
-    boko_d: [169, 298]
+    boko_n: [58, 258]
+    boko_d: [118, 273]
     kaisyu_n: [31, -25]
     kaisyu_d: [61, -49]
-    kaizo_n: [132, 123]
-    kaizo_d: [151, 136]
-    map_n: [169, 211]
-    map_d: [210, 249]
-    ensyuf_n: [162, 190]
-    ensyuf_d: [207, 217]
-    ensyue_n: [169, 0]
-    battle_n: [189, 235]
-    battle_d: [229, 262]
-    wed_a: [187, -42]
-    wed_b: [84, 216]
+    kaizo_n: [76, 124]
+    kaizo_d: [150, 93]
+    map_n: [79, 217]
+    map_d: [175, 237]
+    ensyuf_n: [90, 192]
+    ensyuf_d: [165, 196]
+    ensyue_n: [70, 0]
+    battle_n: [112, 235]
+    battle_d: [204, 250]
+    wed_a: [280, -42]
+    wed_b: [103, 201]
   wiki_id: "498"
   chinese_name: 第二十二号海防舰
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

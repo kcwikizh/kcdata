@@ -14,15 +14,15 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: axbpvhmurnxm
-  file_version: ["72", "1", "824"]
+  file_version: ["73", "1", "1011"]
   book_table_id: [563, 5538, 5450]
   book_sinfo: 夕雲型駆逐艦二番艦、巻雲です。<br>ホーネットの後始末、事情許さば拿捕曳航されたし<br>…って云われても、結構無理ゲーだし…って、秋雲が<br>こっち指差して笑ってるし。本当にもうなんなの？
   stats:
     taik: [33, 56]
     souk: [15, 54]
-    houg: [18, 64]
+    houg: [18, 65]
     raig: [30, 90]
-    tyku: [20, 67]
+    tyku: [20, 68]
     luck: [16, 70]
     soku: 10
     leng: 1
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [199, 153]
-    boko_d: [241, 160]
+    boko_n: [93, 166]
+    boko_d: [126, 195]
     kaisyu_n: [42, -7]
     kaisyu_d: [48, -4]
-    kaizo_n: [100, 40]
-    kaizo_d: [163, 15]
-    map_n: [187, 109]
-    map_d: [226, 114]
-    ensyuf_n: [130, 127]
-    ensyuf_d: [169, 130]
-    ensyue_n: [177, 0]
-    battle_n: [193, 126]
-    battle_d: [235, 130]
-    wed_a: [172, 48]
-    wed_b: [130, 165]
+    kaizo_n: [76, 63]
+    kaizo_d: [102, 25]
+    map_n: [105, 130]
+    map_d: [175, 135]
+    ensyuf_n: [75, 121]
+    ensyuf_d: [129, 108]
+    ensyue_n: [88, 0]
+    battle_n: [144, 157]
+    battle_d: [193, 138]
+    wed_a: [249, 45]
+    wed_b: [132, 151]
   wiki_id: "363"
   chinese_name: 卷云改二
   can_drop: false

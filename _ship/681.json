@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: xuwacqygfvpt
-  file_version: ["68", "10", "824"]
+  file_version: ["69", "11", "1011"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 1, 0]
     build_time: 9
   graph:
-    boko_n: [181, 192]
-    boko_d: [1, 270]
+    boko_n: [24, 204]
+    boko_d: [51, 279]
     kaisyu_n: [9, 0]
     kaisyu_d: [60, -18]
-    kaizo_n: [202, 70]
-    kaizo_d: [-43, 132]
-    map_n: [204, 169]
-    map_d: [19, 214]
-    ensyuf_n: [195, 169]
-    ensyuf_d: [15, 214]
-    ensyue_n: [166, 0]
-    battle_n: [229, 183]
-    battle_d: [46, 238]
-    wed_a: [91, 22]
-    wed_b: [180, 184]
+    kaizo_n: [27, 90]
+    kaizo_d: [48, 93]
+    map_n: [72, 180]
+    map_d: [102, 216]
+    ensyuf_n: [36, 192]
+    ensyuf_d: [72, 216]
+    ensyue_n: [30, 0]
+    battle_n: [96, 204]
+    battle_d: [114, 228]
+    wed_a: [294, 6]
+    wed_b: [114, 186]
   wiki_id: "361a"
   chinese_name: 塞缪尔·B·罗伯茨改
   can_drop: false

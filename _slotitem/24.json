@@ -93,7 +93,6 @@ data:
             ship_id: 153
           -
             ship_id: 156
-        - false
         -
           -
             ship_id: 110
@@ -103,5 +102,6 @@ data:
             ship_id: 461
           -
             ship_id: 466
+        - false
   chinese_name: 彗星
 ---

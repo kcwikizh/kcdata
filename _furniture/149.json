@@ -8,7 +8,7 @@ data:
   description: 所属する艦娘の大雑把な性<br>格が見事に表現された折り<br>畳み机！とりあえずここに<br>かけとこっと！
   rarity: 1
   price: 150
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

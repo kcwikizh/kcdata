@@ -6,17 +6,17 @@ data:
   name: Javelin改
   yomi: ジャヴェリン
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 82
+  cnum: 6
   backs: 7
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: drtppyclxnyn
-  file_version: ["51", "1", "824"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "1011"]
+  book_table_id: [906]
+  book_sinfo: J級駆逐艦、ネームシップ、Javelinよ。ダンケルクか<br>ら地中海まで、縦横無尽に活躍したわ！そうよ、嚮導<br>艦こそJervisに譲ったものの、J級のネームシップはこ<br>の私なんだから！大破損傷を乗り越えて、Jervisと共<br>に、あの戦いを最後まで戦い切ったわ！<br>J級駆逐艦、貴方も覚えていてね。
   stats:
     taik: [31, 47]
     souk: [15, 50]
@@ -26,8 +26,8 @@ data:
     luck: [39, 91]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 47
+    tais: 53
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 

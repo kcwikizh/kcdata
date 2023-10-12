@@ -6,17 +6,17 @@ data:
   name: Rodney改
   yomi: ロドニー
   stype: 9
-  ctype: 
-  cnum: 
+  ctype: 88
+  cnum: 2
   backs: 8
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: ttpbnvxufxjt
-  file_version: ["51", "1", "824"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "1011"]
+  book_table_id: [577]
+  book_sinfo: Nelson級戦艦、二番艦、Rodneyよ。ものすっごい<br>働いたわ。本国艦隊勤務からあのドイツ戦艦の捜索追<br>撃戦、地中海、北アフリカ、ノルマンディー上陸作戦<br>まで、ずっと働き詰めだったんだから！ビックセブン<br>の中でも相当なもんでしょ？私のことも、きっと覚え<br>ていてね。
   stats:
     taik: [92, 98]
     souk: [83, 105]
@@ -26,8 +26,8 @@ data:
     luck: [27, 97]
     soku: 5
     leng: 3
-    kaih: 
-    tais: 
+    kaih: 22
+    tais: 0
     slot_num: 4
     max_eq: [1, 1, 2, 2, 0]
     after_fuel: 

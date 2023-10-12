@@ -14,7 +14,7 @@ data:
   get_mes: Hi！　私の名前はJanus！　そうよ、あのJervisの僚艦の…<br>……え？　知らない？　完っ全にモグリね。いい？<br>しっかり覚えておきなさい！
   voice_f: 1
   filename: ewoqvtkoqtmm
-  file_version: ["51", "1", "824"]
+  file_version: ["51", "1", "1011"]
   book_table_id: [520]
   book_sinfo: J級駆逐艦、私がJanusよ。そうね、Jervis達と一緒に<br>本国艦隊や地中海艦隊で色々なことを頑張ったわ。<br>フランスの艦艇と戦ったことも。あのシングル作戦で<br>は、Jervisと一緒にアンツィオの戦いを支援して…<br>そこであれを…。Jervisは軽傷だったみたい。<br>不思議っていうか…なんていうか。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [162, 138]
   wiki_id: "320"
   chinese_name: 雅努斯
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

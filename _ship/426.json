@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: rtkekdbkqrkg
-  file_version: ["44", "22", "824"]
+  file_version: ["45", "22", "1011"]
   book_table_id: [426, 848]
   book_sinfo: ワシントン条約制限下で設計された、世界中を驚愕させたクラスを超えた特型駆逐艦の１番艦、吹雪です。<br>私たちは、後の艦隊型駆逐艦のベースとなりました。<br>はいっ、頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 20
   graph:
-    boko_n: [144, 30]
-    boko_d: [144, 30]
+    boko_n: [216, 123]
+    boko_d: [246, 144]
     kaisyu_n: [60, 24]
     kaisyu_d: [84, 36]
-    kaizo_n: [108, -66]
-    kaizo_d: [96, -102]
-    map_n: [120, 12]
-    map_d: [120, 12]
-    ensyuf_n: [132, 12]
-    ensyuf_d: [132, 12]
-    ensyue_n: [96, 0]
-    battle_n: [144, 0]
-    battle_d: [144, 0]
-    wed_a: [144, 180]
-    wed_b: [204, 204]
+    kaizo_n: [162, 15]
+    kaizo_d: [162, 57]
+    map_n: [180, 87]
+    map_d: [216, 105]
+    ensyuf_n: [180, 87]
+    ensyuf_d: [150, 99]
+    ensyue_n: [150, 0]
+    battle_n: [198, 99]
+    battle_d: [198, 135]
+    wed_a: [126, 96]
+    wed_b: [144, 168]
   wiki_id: "226"
   chinese_name: 吹雪改二
   can_drop: false
