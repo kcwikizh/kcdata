@@ -10,6 +10,6 @@ data:
   price: 2000
   saleflg: 0
   season: 0
-  filename: 
-  file_version: 
+  filename: "015"
+  file_version: 3
 ---

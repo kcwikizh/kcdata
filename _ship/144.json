@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: lngqiqvigduj
-  file_version: ["76", "63", "1011"]
+  filename: lngqiqvigdys
+  file_version: ["78", "67", "101"]
   book_table_id: [144, 5180, 5200, 5163, 5135, 5412]
   book_sinfo: 白露型駆逐艦の４番艦、夕立です。<br>第三次ソロモン海戦では、けっこう頑張ったっぽい？<br>でも、何気に「アイアンボトム・サウンド」って、ホ<br>ントに怖い言葉よね？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [156, 205]
-    boko_d: [145, 234]
+    boko_n: [48, -120]
+    boko_d: [144, 120]
     kaisyu_n: [51, 12]
     kaisyu_d: [60, -12]
-    kaizo_n: [151, 70]
-    kaizo_d: [108, 75]
-    map_n: [190, 150]
-    map_d: [169, 180]
-    ensyuf_n: [162, 145]
-    ensyuf_d: [151, 163]
-    ensyue_n: [162, 0]
-    battle_n: [228, 168]
-    battle_d: [193, 217]
-    wed_a: [157, -9]
-    wed_b: [126, 202]
+    kaizo_n: [-12, -216]
+    kaizo_d: [96, -48]
+    map_n: [-12, -144]
+    map_d: [120, 96]
+    ensyuf_n: [48, -144]
+    ensyuf_d: [144, 84]
+    ensyue_n: [-48, 0]
+    battle_n: [60, -120]
+    battle_d: [108, 108]
+    wed_a: [288, 324]
+    wed_b: [204, 192]
   wiki_id: "144"
   chinese_name: 夕立改二
   can_drop: false

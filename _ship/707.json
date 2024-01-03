@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
-  filename: mloskuljwgtb
-  file_version: ["92", "18", "1011"]
+  filename: mloskuljwgys
+  file_version: ["95", "20", "101"]
   book_table_id: [707, 5659]
   book_sinfo: It’s　a pleasure to meet you. 　　私、護衛空母<br>Gambier Bayです。ジープ空母とも呼ばれた量産型<br>護衛空母姉妹の一隻です。レイテ沖海戦では日本海軍<br>主力の栗田艦隊と遭遇、有視界水上戦での戦いとなり<br>ました。でも私、できるだけの事、頑張ったんです！<br>Gambier Bayの名前、きっと覚えてくださいね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 2, 2]
     build_time: 30
   graph:
-    boko_n: [49, 183]
-    boko_d: [93, 187]
+    boko_n: [37, 190]
+    boko_d: [58, 256]
     kaisyu_n: [33, 6]
     kaisyu_d: [48, 25]
-    kaizo_n: [46, 73]
-    kaizo_d: [112, 21]
-    map_n: [69, 169]
-    map_d: [180, 159]
-    ensyuf_n: [52, 156]
-    ensyuf_d: [160, 118]
-    ensyue_n: [63, 0]
-    battle_n: [84, 183]
-    battle_d: [190, 177]
-    wed_a: [289, -1]
-    wed_b: [126, 168]
+    kaizo_n: [21, 64]
+    kaizo_d: [18, 45]
+    map_n: [51, 153]
+    map_d: [88, 175]
+    ensyuf_n: [25, 157]
+    ensyuf_d: [85, 169]
+    ensyue_n: [25, 0]
+    battle_n: [52, 187]
+    battle_d: [63, 208]
+    wed_a: [310, -6]
+    wed_b: [126, 171]
   wiki_id: "458"
   chinese_name: 甘比尔湾Mk.II
   can_drop: false

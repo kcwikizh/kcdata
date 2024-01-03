@@ -14,7 +14,7 @@ data:
   get_mes: 私が潜高型の長女、伊２０１よ。妹がお世話になって<br>いるようね。私のことは…そう、フレイでいいわ。<br>提督、やってみましょう？
   voice_f: 1
   filename: lujkrodiubhv
-  file_version: ["56", "1", "1011"]
+  file_version: ["57", "1", "101"]
   book_table_id: [881, 5654, 5675]
   book_sinfo: 水中での高速機動性を追求した次世代の高速伊号潜水<br>艦、伊２０１型。その一番艦です。色々と課題はあり<br>ましたが、舞鶴で訓練を進めていました。出撃は叶い<br>ませんでしたが、そのノウハウの一部は戦後の海自国<br>産潜水艦へと受け継がれていきます。
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [36, 210]
-    boko_d: [36, 210]
+    boko_n: [99, 243]
+    boko_d: [139, 310]
     kaisyu_n: [7, -1]
     kaisyu_d: [72, -67]
-    kaizo_n: [39, 76]
-    kaizo_d: [24, 42]
-    map_n: [52, 190]
-    map_d: [52, 190]
-    ensyuf_n: [49, 177]
-    ensyuf_d: [49, 177]
-    ensyue_n: [49, 0]
-    battle_n: [99, 207]
-    battle_d: [99, 207]
-    wed_a: [283, -6]
-    wed_b: [117, 175]
+    kaizo_n: [111, 103]
+    kaizo_d: [180, 136]
+    map_n: [114, 217]
+    map_d: [199, 243]
+    ensyuf_n: [120, 187]
+    ensyuf_d: [211, 204]
+    ensyue_n: [102, 0]
+    battle_n: [150, 229]
+    battle_d: [264, 249]
+    wed_a: [247, -25]
+    wed_b: [108, 169]
   wiki_id: "481"
   chinese_name: 伊201
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

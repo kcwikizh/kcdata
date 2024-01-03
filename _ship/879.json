@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: xsbjffwhqttb
-  file_version: ["61", "7", "1011"]
+  filename: xsbjffwhqtys
+  file_version: ["63", "8", "101"]
   book_table_id: [879, 5583]
   book_sinfo: Conte di Cavour級戦艦、一番艦、Conte di Cavourよ。<br>そう、第一次大戦中に建造された弩級戦艦。何？小さ<br>いからって舐めないでよ。<br>近代化改装で、今風の高速戦艦になったんだから！<br>第二次改装も予定していたし！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 3, 3]
     build_time: 240
   graph:
-    boko_n: [123, 198]
-    boko_d: [19, 303]
+    boko_n: [55, 139]
+    boko_d: [195, 321]
     kaisyu_n: [18, -52]
     kaisyu_d: [39, -21]
-    kaizo_n: [112, 76]
-    kaizo_d: [-6, 127]
-    map_n: [133, 186]
-    map_d: [31, 231]
-    ensyuf_n: [133, 171]
-    ensyuf_d: [31, 205]
-    ensyue_n: [127, 0]
-    battle_n: [157, 210]
-    battle_d: [70, 253]
-    wed_a: [208, -15]
-    wed_b: [121, 187]
+    kaizo_n: [61, 16]
+    kaizo_d: [196, 105]
+    map_n: [81, 114]
+    map_d: [208, 232]
+    ensyuf_n: [60, 99]
+    ensyuf_d: [196, 193]
+    ensyue_n: [64, 0]
+    battle_n: [126, 130]
+    battle_d: [238, 225]
+    wed_a: [259, 57]
+    wed_b: [118, 184]
   wiki_id: "479"
   chinese_name: 加富尔伯爵nuovo
   can_drop: false

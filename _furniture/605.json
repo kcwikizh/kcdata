@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 605
+  type: 3
+  no: 136
+  title: 鎮守府お芋備蓄の祭壇
+  description: 某白露型の一番艦が収穫<br>の秋に備えて密かに準備<br>したお芋備蓄棚です。<br>祭壇仕様になっており、<br>何故かその秋冬私服も…
+  rarity: 4
+  price: 3800
+  saleflg: 0
+  season: 0
+  filename: "137"
+  file_version: "1"
+---

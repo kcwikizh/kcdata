@@ -13,9 +13,9 @@ data:
   after_ship_id: 958
   get_mes: 提督、お疲れさまです。私、練習特務艦、<br>朝日です。はい、そうです。かつては戦艦、敷島型です。<br>いえ、昔の事です。よろしくお願い申し上げます。
   voice_f: 1
-  filename: clserrivjodl
-  file_version: ["52", "1", "1011"]
-  book_table_id: [953]
+  filename: clserrivjoys
+  file_version: ["56", "1", "101"]
+  book_table_id: [953, 5756, 5782]
   book_sinfo: あの戦いの一つ前の時代の主力戦艦、朝日です。<br>敷島型戦艦の一隻として、日本海海戦などに参加しま<br>した。時代は変わり、近代戦に対応できなくなった私<br>は、練習特務艦、そして貴重な後方戦力、工作艦に改<br>装され、あの大戦に参加します。軌跡と最後、覚えて<br>いてくださいませね。
   stats:
     taik: [36, 44]
@@ -38,23 +38,23 @@ data:
     pow_up: [0, 0, 0, 3]
     build_time: 220
   graph:
-    boko_n: [166, 177]
-    boko_d: [4, 223]
+    boko_n: [180, 100]
+    boko_d: [84, 255]
     kaisyu_n: [70, -10]
     kaisyu_d: [22, -37]
-    kaizo_n: [178, 60]
-    kaizo_d: [7, 70]
-    map_n: [201, 156]
-    map_d: [55, 201]
-    ensyuf_n: [201, 136]
-    ensyuf_d: [49, 178]
+    kaizo_n: [177, -15]
+    kaizo_d: [78, 91]
+    map_n: [189, 100]
+    map_d: [102, 220]
+    ensyuf_n: [193, 70]
+    ensyuf_d: [96, 193]
     ensyue_n: [208, 0]
-    battle_n: [223, 166]
-    battle_d: [72, 211]
-    wed_a: [148, -7]
-    wed_b: [102, 201]
+    battle_n: [211, 106]
+    battle_d: [117, 229]
+    wed_a: [150, 67]
+    wed_b: [124, 211]
   wiki_id: "553"
   chinese_name: 朝日
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

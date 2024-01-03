@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: ulleoqzomsfl
-  file_version: ["73", "10", "1011"]
+  filename: ulleoqzomsys
+  file_version: ["78", "13", "101"]
   book_table_id: [648, 5679, 5703, 5705, 5706, 5707, 5708, 5709]
   book_sinfo: 横須賀生まれ横須賀育ちの秋雲さんだよ！陽炎型の中<br>でも航続距離は南雲さんの目にも留まって、一航戦に<br>入ったんだ。ていうか、自分では夕雲型だと思ってた<br>んだけどな...ブツブツ...ま、いいや。その後、五航戦<br>の護衛を務めたよ。翔鶴瑞鶴も描き残したかったな。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [234, 226]
-    boko_d: [234, 226]
+    boko_n: [234, 237]
+    boko_d: [180, 237]
     kaisyu_n: [18, 4]
     kaisyu_d: [52, -55]
-    kaizo_n: [225, 109]
-    kaizo_d: [210, 75]
-    map_n: [238, 196]
-    map_d: [240, 196]
-    ensyuf_n: [240, 184]
-    ensyuf_d: [240, 184]
-    ensyue_n: [235, 0]
-    battle_n: [268, 216]
-    battle_d: [268, 216]
-    wed_a: [79, -34]
-    wed_b: [133, 177]
+    kaizo_n: [174, 153]
+    kaizo_d: [108, 117]
+    map_n: [204, 207]
+    map_d: [150, 207]
+    ensyuf_n: [198, 201]
+    ensyuf_d: [144, 201]
+    ensyue_n: [192, 0]
+    battle_n: [234, 237]
+    battle_d: [180, 237]
+    wed_a: [132, -24]
+    wed_b: [138, 171]
   wiki_id: "448"
   chinese_name: 秋云改二
   can_drop: false

@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: 
   voice_f: 
-  filename: bcvjduazbvue
-  file_version: ["89", "1", "1"]
+  filename: bcvjduazbvys
+  file_version: ["94", "1", "1"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -49,8 +49,8 @@ data:
     ensyuf_n: [0, 0]
     ensyuf_d: [0, 0]
     ensyue_n: [0, 0]
-    battle_n: [112, 210]
-    battle_d: [112, 210]
+    battle_n: [-48, 132]
+    battle_d: [-48, 132]
     wed_a: [0, 0]
     wed_b: [0, 0]
   wiki_id: 

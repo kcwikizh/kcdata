@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: jnkficpdhomx
-  file_version: ["71", "1", "1011"]
+  file_version: ["72", "1", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,20 +38,20 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 23
   graph:
-    boko_n: [15, 261]
-    boko_d: [108, 286]
+    boko_n: [103, 174]
+    boko_d: [73, 342]
     kaisyu_n: [21, -28]
     kaisyu_d: [43, 16]
-    kaizo_n: [33, 138]
-    kaizo_d: [132, 33]
-    map_n: [60, 222]
-    map_d: [157, 189]
-    ensyuf_n: [70, 199]
-    ensyuf_d: [172, 172]
-    ensyue_n: [39, 0]
-    battle_n: [109, 240]
-    battle_d: [204, 204]
-    wed_a: [255, -43]
+    kaizo_n: [96, 43]
+    kaizo_d: [34, 124]
+    map_n: [115, 112]
+    map_d: [87, 255]
+    ensyuf_n: [120, 124]
+    ensyuf_d: [75, 193]
+    ensyue_n: [99, 0]
+    battle_n: [141, 148]
+    battle_d: [102, 241]
+    wed_a: [223, 42]
     wed_b: [151, 181]
   wiki_id: "453a"
   chinese_name: 东南风改

@@ -14,7 +14,7 @@ data:
   get_mes: 秋月型防空駆逐艦、二番艦の照月よ。<br>秋月姉さん同様、どうぞよろしくお願いします。
   voice_f: 1
   filename: fvcfdjvmxlko
-  file_version: ["9", "9", "1011"]
+  file_version: ["9", "9", "101"]
   book_table_id: [422]
   book_sinfo: 秋月型防空駆逐艦二番艦、照月よ。<br>秋月姉と第61駆逐隊を編成しました。ソロモンの激戦では、比叡さんや霧島さんと共に戦ったのよ！え？ドラム缶による鼠輸送？ああ、あれは…あれはね…。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [204, 168]
   wiki_id: "222"
   chinese_name: 照月
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

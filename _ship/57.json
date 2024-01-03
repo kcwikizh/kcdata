@@ -13,8 +13,8 @@ data:
   after_ship_id: 118
   get_mes: <br>
   voice_f: 3
-  filename: gonohkjynpmb
-  file_version: ["28", "25", "1011"]
+  filename: gonohkjynpys
+  file_version: ["29", "25", "101"]
   book_table_id: [57]
   book_sinfo: 重雷装艦バージョンの大井です。<br>圧倒的な水雷戦力を期待されたけど、<br>出番がなかなかなかったの。<br>今度は活躍してみせるわ。見ていてね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 4, 0, 1]
     build_time: 75
   graph:
-    boko_n: [135, -21]
-    boko_d: [106, -1]
+    boko_n: [163, 208]
+    boko_d: [163, 208]
     kaisyu_n: [42, 12]
     kaisyu_d: [42, 10]
-    kaizo_n: [106, -102]
-    kaizo_d: [75, -154]
-    map_n: [58, -31]
-    map_d: [6, -18]
-    ensyuf_n: [145, -6]
-    ensyuf_d: [123, -91]
-    ensyue_n: [145, 0]
-    battle_n: [70, -40]
-    battle_d: [70, -40]
-    wed_a: [207, 225]
-    wed_b: [138, 162]
+    kaizo_n: [151, 97]
+    kaizo_d: [136, 63]
+    map_n: [142, 199]
+    map_d: [142, 199]
+    ensyuf_n: [187, 187]
+    ensyuf_d: [187, 187]
+    ensyue_n: [184, 0]
+    battle_n: [198, 214]
+    battle_d: [198, 214]
+    wed_a: [169, -40]
+    wed_b: [106, 181]
   wiki_id: "097"
   chinese_name: 大井改
   can_drop: false

@@ -13,8 +13,8 @@ data:
   after_ship_id: 142
   get_mes: <br>
   voice_f: 3
-  filename: qgkmjgfbanxl
-  file_version: ["43", "4", "1011"]
+  filename: qgkmjgfbanys
+  file_version: ["46", "4", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 60
   graph:
-    boko_n: [64, 70]
-    boko_d: [156, 82]
+    boko_n: [73, 151]
+    boko_d: [120, 220]
     kaisyu_n: [15, 1]
     kaisyu_d: [78, 6]
-    kaizo_n: [64, 19]
-    kaizo_d: [90, -3]
-    map_n: [12, 52]
-    map_d: [42, 84]
-    ensyuf_n: [25, 54]
-    ensyuf_d: [55, 42]
-    ensyue_n: [79, 0]
-    battle_n: [99, 63]
-    battle_d: [97, 63]
-    wed_a: [282, 142]
-    wed_b: [172, 186]
+    kaizo_n: [43, 58]
+    kaizo_d: [75, 22]
+    map_n: [54, 138]
+    map_d: [100, 138]
+    ensyuf_n: [66, 127]
+    ensyuf_d: [112, 127]
+    ensyue_n: [63, 0]
+    battle_n: [99, 160]
+    battle_d: [145, 160]
+    wed_a: [259, 22]
+    wed_b: [114, 175]
   wiki_id: "120a"
   chinese_name: 衣笠改
   can_drop: false

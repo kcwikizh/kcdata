@@ -14,7 +14,7 @@ data:
   get_mes: 第百一号型輸送艦、えっと、そうだ、二等輸送艦の方が<br>わかりやすいですよね！一番艦、第百一号輸送艦です！<br>戦時急造ですが、私、結構よくできてますよ！　はい！
   voice_f: 1
   filename: qtzvitspnted
-  file_version: ["51", "1", "1011"]
+  file_version: ["51", "1", "101"]
   book_table_id: [945]
   book_sinfo: 最前線への戦車や陸上部隊の強行輸送のために、陸海<br>共同プロジェクトで開発建造された新型の輸送艦、そ<br>れが私、第百一型輸送艦こと二等輸送艦です。硫黄島<br>への強行輸送や多号作戦などで成果を挙げつつ、消耗<br>していきました。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [109, 193]
   wiki_id: "545"
   chinese_name: 第百一号输送舰
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

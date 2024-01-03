@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 607
+  type: 3
+  no: 137
+  title: 二三式大漁旗
+  description: 艦隊十周年の秋刀魚祭り！<br>第十駆逐隊の面々と歴史と<br>経験を誇る艦娘による大漁<br>と鎮守府秋刀魚祭り成功を<br>祝うめでたき大漁旗です！
+  rarity: 6
+  price: 202300
+  saleflg: 0
+  season: 48
+  filename: "138"
+  file_version: "1"
+---

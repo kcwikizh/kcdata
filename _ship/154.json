@@ -13,8 +13,8 @@ data:
   after_ship_id: 343
   get_mes: 練習巡洋艦、香取です。<br>心配しないで…。色々と優しく、指導させて頂きますから。
   voice_f: 1
-  filename: jtyqmhgstese
-  file_version: ["27", "12", "1011"]
+  filename: jtyqmhgsteys
+  file_version: ["28", "12", "101"]
   book_table_id: [154, 974]
   book_sinfo: 香取型練習巡洋艦一番艦の香取です。<br>はい、練習遠洋航海の指揮は、お任せください。必ずや艦隊の練度向上にお力添えできると思います。え、戦艦との砲撃戦…ですか？それは用兵的にどうなのでしょうか。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 70
   graph:
-    boko_n: [180, 180]
-    boko_d: [144, 180]
+    boko_n: [198, 234]
+    boko_d: [258, 276]
     kaisyu_n: [18, -12]
     kaisyu_d: [48, 6]
-    kaizo_n: [96, 96]
-    kaizo_d: [72, 48]
-    map_n: [96, 168]
-    map_d: [120, 144]
-    ensyuf_n: [144, 144]
-    ensyuf_d: [120, 120]
+    kaizo_n: [90, 120]
+    kaizo_d: [180, 180]
+    map_n: [120, 186]
+    map_d: [186, 210]
+    ensyuf_n: [120, 192]
+    ensyuf_d: [180, 210]
     ensyue_n: [96, 0]
-    battle_n: [120, 168]
-    battle_d: [120, 168]
-    wed_a: [192, 36]
-    wed_b: [216, 156]
+    battle_n: [132, 204]
+    battle_d: [216, 240]
+    wed_a: [216, -6]
+    wed_b: [144, 174]
   wiki_id: "154"
   chinese_name: 香取
   can_drop: true

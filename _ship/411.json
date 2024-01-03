@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 1
-  filename: gmnsxwkdssmj
-  file_version: ["69", "21", "1011"]
+  filename: gmnsxwkdssys
+  file_version: ["72", "21", "101"]
   book_table_id: [411]
   book_sinfo: 初の日本独自設計による超弩級戦艦、扶桑です。<br>妹の山城ともどもよろしくお願いしますね。<br>レイテ沖？　そうね、いつか突入してみたいわ。ホントよ？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [5, 0, 3, 4]
     build_time: 260
   graph:
-    boko_n: [-24, 156]
-    boko_d: [-96, 204]
+    boko_n: [186, 225]
+    boko_d: [36, 228]
     kaisyu_n: [36, -12]
     kaisyu_d: [48, -24]
-    kaizo_n: [-60, 90]
-    kaizo_d: [-168, 84]
-    map_n: [-60, 132]
-    map_d: [-156, 192]
-    ensyuf_n: [-12, 138]
-    ensyuf_d: [-96, 180]
-    ensyue_n: [-48, 0]
-    battle_n: [0, 144]
-    battle_d: [-108, 144]
-    wed_a: [348, 48]
-    wed_b: [180, 168]
+    kaizo_n: [168, 114]
+    kaizo_d: [-36, 126]
+    map_n: [156, 180]
+    map_d: [-36, 186]
+    ensyuf_n: [180, 192]
+    ensyuf_d: [-24, 168]
+    ensyue_n: [150, 0]
+    battle_n: [234, 192]
+    battle_d: [24, 204]
+    wed_a: [78, -12]
+    wed_b: [174, 180]
   wiki_id: "211"
   chinese_name: 扶桑改二
   can_drop: false

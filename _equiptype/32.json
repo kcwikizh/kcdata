@@ -3,6 +3,6 @@ layout: json
 data:
   id: 32
   name: 潜水艦魚雷
-  show_flg: 1
+  show_flg: 0
   chinese_name: 
 ---

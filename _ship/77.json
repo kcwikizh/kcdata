@@ -14,7 +14,7 @@ data:
   get_mes: 超弩級戦艦、伊勢型の１番艦、伊勢。<br>参ります！
   voice_f: 0
   filename: skgpomqtcedb
-  file_version: ["13", "17", "1011"]
+  file_version: ["13", "17", "101"]
   book_table_id: [77]
   book_sinfo: 扶桑型戦艦を再設計した、強力な超弩級戦艦として完成しました。<br>戦艦、伊勢です。<br>主砲を多少とっちゃって、有名な航空戦艦モードに改造可能よ。楽しみね！
   stats:
