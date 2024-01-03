@@ -8,7 +8,7 @@ data:
   description: いつも頑張ってくれる艦娘<br>を労うために、年末年始は<br>ご馳走したい！この日のた<br>めに貯めた家具コインを大<br>奮発して提督室に出前を！
   rarity: 4
   price: 20160
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "058"
   file_version: 32

@@ -8,7 +8,7 @@ data:
   description: 天然の石を職人さんが丁寧<br>に仕上げた特注床、そして<br>カーペット。ナチュラルな<br>雰囲気が、暖炉やストーブ<br>とも絶妙に馴染みますね！
   rarity: 3
   price: 2200
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

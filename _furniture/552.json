@@ -8,7 +8,7 @@ data:
   description: 艦娘たちがそれぞれ作って<br>くれた自家製ケーキです。<br>ホールからプリンまで国内<br>海外出身の艦娘たちが腕に<br>よりをかけて作りました。
   rarity: 5
   price: 110000
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
   file_version: 

@@ -14,7 +14,7 @@ data:
   get_mes: 響だよ。<br>その活躍ぶりから不死鳥の通り名もあるよ。
   voice_f: 0
   filename: nfzmalhtwved
-  file_version: ["3", "3", "1011"]
+  file_version: ["3", "3", "101"]
   book_table_id: [35]
   book_sinfo: 数ある特型駆逐艦の中で、最後まで生き残ったのが、響。転戦の後、あの大和水上特攻時には修理で同行できなかったんだ。<br>賠償艦としてソ連に引き渡され「信頼できる」という意味の艦名になったんだ。
   stats:

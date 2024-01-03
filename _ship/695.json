@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: qkkwxjiyhskr
-  file_version: ["61", "1", "1011"]
+  filename: qkkwxjiyhsys
+  file_version: ["62", "1", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [181, 187]
-    boko_d: [72, 280]
+    boko_n: [88, 228]
+    boko_d: [88, 228]
     kaisyu_n: [27, 22]
     kaisyu_d: [99, -43]
-    kaizo_n: [154, 58]
-    kaizo_d: [64, 103]
-    map_n: [193, 163]
-    map_d: [148, 240]
-    ensyuf_n: [171, 154]
-    ensyuf_d: [141, 220]
-    ensyue_n: [172, 0]
-    battle_n: [220, 178]
-    battle_d: [169, 238]
-    wed_a: [178, 13]
-    wed_b: [124, 154]
+    kaizo_n: [108, 111]
+    kaizo_d: [93, 76]
+    map_n: [112, 204]
+    map_d: [112, 204]
+    ensyuf_n: [103, 195]
+    ensyuf_d: [103, 195]
+    ensyue_n: [112, 0]
+    battle_n: [157, 223]
+    battle_d: [157, 223]
+    wed_a: [211, -42]
+    wed_b: [138, 208]
   wiki_id: "425a"
   chinese_name: 秋霜改
   can_drop: false

@@ -14,8 +14,8 @@ data:
   get_mes: インディペンデンス級航空母艦、Langleyだ。<br>ああん？　そっちのラングレーじゃねーよ！<br>誰が給炭艦じゃ！　Meのベースは新鋭軽巡だぜ！
   voice_f: 1
   filename: wqgjbrsicuxk
-  file_version: ["51", "1", "1011"]
-  book_table_id: [925]
+  file_version: ["53", "1", "101"]
+  book_table_id: [925, 5794]
   book_sinfo: インディペンデンス級航空母艦、Langleyだ。そう<br>だ、CV-1ではない、その名を継いだCVL-27の方だ。<br>小柄な体だが太平洋、あの大和の最後、そして魔法の<br>絨毯作戦、さらにフランス海軍としても戦った。<br>忘れるな。
   stats:
     taik: [31, 41]
@@ -55,6 +55,6 @@ data:
     wed_b: [120, 186]
   wiki_id: "525"
   chinese_name: 兰利
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

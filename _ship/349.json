@@ -13,8 +13,8 @@ data:
   after_ship_id: 564
   get_mes: <br>
   voice_f: 3
-  filename: gykqxdkfpzih
-  file_version: ["84", "9", "1011"]
+  filename: gykqxdkfpzys
+  file_version: ["86", "9", "101"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [48, 168]
-    boko_d: [96, 228]
+    boko_n: [208, 222]
+    boko_d: [208, 222]
     kaisyu_n: [-6, 6]
     kaisyu_d: [24, -6]
-    kaizo_n: [-48, 120]
-    kaizo_d: [-24, 108]
-    map_n: [-24, 168]
-    map_d: [24, 216]
-    ensyuf_n: [-18, 156]
-    ensyuf_d: [30, 192]
-    ensyue_n: [-60, 0]
-    battle_n: [-48, 168]
-    battle_d: [36, 216]
-    wed_a: [366, 24]
-    wed_b: [180, 168]
+    kaizo_n: [192, 84]
+    kaizo_d: [178, 49]
+    map_n: [250, 205]
+    map_d: [250, 205]
+    ensyuf_n: [199, 190]
+    ensyuf_d: [199, 190]
+    ensyue_n: [225, 0]
+    battle_n: [247, 232]
+    battle_d: [247, 232]
+    wed_a: [115, -22]
+    wed_b: [145, 136]
   wiki_id: "253a"
   chinese_name: 风云改
   can_drop: false

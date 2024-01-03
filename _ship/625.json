@@ -13,8 +13,8 @@ data:
   after_ship_id: 695
   get_mes: うちが夕雲型駆逐艦、その十八番艦「秋霜」よ。<br>秋霜烈日、そんな言葉のような厳しい戦局を駆け抜けたの。<br>うちのことも覚えておいてね。忘れないでね。
   voice_f: 1
-  filename: fbxrcuyvvtot
-  file_version: ["61", "1", "1011"]
+  filename: fbxrcuyvvtys
+  file_version: ["62", "1", "101"]
   book_table_id: [625, 5427]
   book_sinfo: 夕雲型駆逐艦十八番艦「秋霜」よ。知っててくれた？<br>先輩方の二駆を継ぐ、夕雲型で編成された新編二駆を<br>「早霜」「清霜」と共に編成したの。大きな負け戦は<br>しっかり経験済み。最期は多号作戦。うちらのことも<br>…覚えていてね。
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [181, 187]
-    boko_d: [72, 280]
+    boko_n: [88, 228]
+    boko_d: [88, 228]
     kaisyu_n: [27, 22]
     kaisyu_d: [99, -43]
-    kaizo_n: [154, 58]
-    kaizo_d: [64, 103]
-    map_n: [193, 163]
-    map_d: [148, 240]
-    ensyuf_n: [171, 154]
-    ensyuf_d: [141, 220]
-    ensyue_n: [172, 0]
-    battle_n: [220, 178]
-    battle_d: [169, 238]
-    wed_a: [178, 13]
-    wed_b: [124, 154]
+    kaizo_n: [108, 111]
+    kaizo_d: [93, 76]
+    map_n: [112, 204]
+    map_d: [112, 204]
+    ensyuf_n: [103, 195]
+    ensyuf_d: [103, 195]
+    ensyue_n: [112, 0]
+    battle_n: [157, 223]
+    battle_d: [157, 223]
+    wed_a: [211, -42]
+    wed_b: [138, 208]
   wiki_id: "425"
   chinese_name: 秋霜
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

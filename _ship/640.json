@@ -13,8 +13,8 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: lurkxlyovqkf
-  file_version: ["68", "10", "1011"]
+  filename: lurkxlyovqys
+  file_version: ["72", "12", "101"]
   book_table_id: [640, 5630, 5696]
   book_sinfo: 迅鯨型潜水母艦の二番艦、長鯨。<br>迅鯨姉さんの妹です。少しだけ旧式ですが、最新潜水<br>母艦が空母に改装されたので、最前線の潜水母艦に再<br>配備されました！潜水母艦として、さらに輸送任務や<br>対空戦闘、戦いが終わった後も大切なお仕事、頑張り<br>ました！姉さん共々、忘れないでね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 2]
     build_time: 150
   graph:
-    boko_n: [216, 219]
-    boko_d: [49, 199]
+    boko_n: [28, 223]
+    boko_d: [43, 273]
     kaisyu_n: [-7, 16]
     kaisyu_d: [58, -19]
-    kaizo_n: [196, 91]
-    kaizo_d: [55, 28]
-    map_n: [240, 193]
-    map_d: [109, 153]
-    ensyuf_n: [225, 193]
-    ensyuf_d: [88, 147]
-    ensyue_n: [223, 0]
-    battle_n: [255, 222]
-    battle_d: [133, 172]
-    wed_a: [118, -34]
-    wed_b: [112, 171]
+    kaizo_n: [46, 100]
+    kaizo_d: [43, 82]
+    map_n: [37, 196]
+    map_d: [70, 196]
+    ensyuf_n: [37, 183]
+    ensyuf_d: [76, 171]
+    ensyue_n: [39, 0]
+    battle_n: [64, 220]
+    battle_d: [100, 208]
+    wed_a: [295, -34]
+    wed_b: [115, 166]
   wiki_id: "440"
   chinese_name: 长鲸改
   can_drop: false

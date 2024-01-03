@@ -8,7 +8,7 @@ data:
   description: 家具コイン長者に贈る北方<br>迷彩な桐箪笥。箪笥上部に<br>は北方迷彩の5,500t級軽巡<br>の精密模型が鎮座していて<br>いい感じがするニャ……。
   rarity: 5
   price: 55000
-  saleflg: 0
+  saleflg: 1
   season: 22
   filename: 
   file_version: 

@@ -14,7 +14,7 @@ data:
   get_mes: My name is Heywood L.Edwards.<br>着任します。そうね。提督、共に頑張りましょう？
   voice_f: 1
   filename: ilmsrpndwyyr
-  file_version: ["51", "1", "1011"]
+  file_version: ["51", "1", "101"]
   book_table_id: [941, 726]
   book_sinfo: Fletcher級駆逐艦、Heywood L.Edwardsです。<br>あの大戦の後半に就役し、あの海峡の夜戦や、島々の<br>攻略戦支援に参加しました。戦後は、日本海上自衛隊<br>初期の護衛艦「ありあけ」として、護衛艦隊の育成に<br>務めました。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [121, 195]
   wiki_id: "541"
   chinese_name: 海伍德·L·爱德华兹
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

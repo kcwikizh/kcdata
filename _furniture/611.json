@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 611
+  type: 0
+  no: 86
+  title: 謎のXmasカーペット
+  description: 一見普通のクリスマス色の<br>カーペットに見えて、旗艦<br>によっては謎のペットたち<br>が徘徊するという噂のある<br>レアな謎カーペットです。
+  rarity: 5
+  price: 112240
+  saleflg: 0
+  season: 0
+  filename: "087"
+  file_version: "1"
+---

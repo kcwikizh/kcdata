@@ -14,9 +14,9 @@ data:
   get_mes: 海防艦、稲木！　鵜来型海防艦、十二番艦です。<br>町も、人も……私が守ります。この身に代えてもッ！
   voice_f: 1
   filename: elrfpomtfblt
-  file_version: ["52", "1", "1011"]
-  book_table_id: [922]
-  book_sinfo: 鵜来型海防艦、十二番艦、稲木だ。生まれた時にはもう戦局は大きく傾いていたが、生き残った航路の海上護衛任務に務めた。北海道そして東北方面の船団護衛の後に八戸に仮停泊中、敵機動部隊の艦載機と交戦した。もう味方の戦闘機は空に無く、後に「八戸の盾」という人達もいると聞く。
+  file_version: ["55", "1", "101"]
+  book_table_id: [922, 5759, 5796]
+  book_sinfo: 鵜来型海防艦、十二番艦、稲木だ。生まれた時にはも<br>う戦局は大きく傾いていたが、生き残った航路の海上<br>護衛任務に務めた。北海道そして東北方面の船団護衛<br>の後に八戸に仮停泊中、敵機動部隊の艦載機と交戦し<br>た。もう味方の戦闘機は空に無く、後に「八戸の盾」<br>という人達もいると聞く。
   stats:
     taik: [9, 17]
     souk: [4, 18]
@@ -38,23 +38,23 @@ data:
     pow_up: [0, 0, 1, 1]
     build_time: 9
   graph:
-    boko_n: [121, 190]
-    boko_d: [82, 195]
+    boko_n: [102, 207]
+    boko_d: [45, 292]
     kaisyu_n: [16, -18]
     kaisyu_d: [22, -61]
-    kaizo_n: [141, 69]
-    kaizo_d: [69, 34]
-    map_n: [175, 151]
-    map_d: [115, 156]
-    ensyuf_n: [171, 124]
-    ensyuf_d: [103, 138]
-    ensyue_n: [172, 0]
-    battle_n: [211, 159]
-    battle_d: [133, 168]
-    wed_a: [159, 13]
-    wed_b: [139, 219]
+    kaizo_n: [112, 85]
+    kaizo_d: [28, 126]
+    map_n: [109, 168]
+    map_d: [49, 244]
+    ensyuf_n: [112, 153]
+    ensyuf_d: [49, 213]
+    ensyue_n: [123, 0]
+    battle_n: [150, 189]
+    battle_d: [70, 241]
+    wed_a: [219, -4]
+    wed_b: [136, 195]
   wiki_id: "522"
   chinese_name: 稻木
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---
