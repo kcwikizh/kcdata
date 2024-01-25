@@ -13,8 +13,8 @@ data:
   after_ship_id: 594
   get_mes: <br>
   voice_f: 1
-  filename: gtmwrbaniays
-  file_version: ["61", "14", "101"]
+  filename: gtmwrbaniaud
+  file_version: ["62", "14", "125"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 5, 4]
     build_time: 270
   graph:
-    boko_n: [103, 211]
-    boko_d: [103, 211]
+    boko_n: [63, 114]
+    boko_d: [58, 120]
     kaisyu_n: [18, 33]
     kaisyu_d: [42, 37]
-    kaizo_n: [106, 73]
-    kaizo_d: [91, 37]
-    map_n: [132, 169]
-    map_d: [132, 169]
-    ensyuf_n: [105, 172]
-    ensyuf_d: [105, 172]
-    ensyue_n: [105, 0]
-    battle_n: [150, 192]
-    battle_d: [150, 192]
-    wed_a: [225, -25]
-    wed_b: [133, 151]
+    kaizo_n: [13, 37]
+    kaizo_d: [54, -24]
+    map_n: [12, 102]
+    map_d: [-52, 96]
+    ensyuf_n: [72, 87]
+    ensyuf_d: [67, 34]
+    ensyue_n: [72, 0]
+    battle_n: [24, 84]
+    battle_d: [24, 84]
+    wed_a: [297, 97]
+    wed_b: [142, 150]
   wiki_id: "006a"
   chinese_name: 赤城改
   can_drop: false

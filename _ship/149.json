@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: wugwvdccggcp
-  file_version: ["23", "33", "101"]
+  file_version: ["23", "33", "125"]
   book_table_id: [149, 865, 1016]
   book_sinfo: 超弩級戦艦として建造技術導入を兼ねて英国ヴィッカース社で建造された、金剛デース！<br>太平洋戦域でも持前の高速力を活かして、大活躍デース！<br>期待してネ！
   stats:

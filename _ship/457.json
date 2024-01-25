@@ -13,8 +13,8 @@ data:
   after_ship_id: 369
   get_mes: あたし…白露型駆逐艦……その八番艦。山風。<br>いいよ……。別に。
   voice_f: 1
-  filename: tvieoobotays
-  file_version: ["64", "3", "101"]
+  filename: tvieoobotato
+  file_version: ["65", "3", "125"]
   book_table_id: [457, 827, 815, 1062]
   book_sinfo: 白露型駆逐艦八番艦、改白露型、山風。<br>浦賀生まれ……。時雨姉や涼風と同じ……。<br>江風たちと第二十四駆逐隊を編成した……。加賀の護<br>衛をしたりね、大きな戦いでも最初の方はね、随分頑<br>張ったよ。そしてね。大湊から柱島にね。行こうとし<br>たの。その後はね……わからない。覚えてないの。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 22
   graph:
-    boko_n: [312, 174]
-    boko_d: [198, 150]
+    boko_n: [111, 177]
+    boko_d: [90, 270]
     kaisyu_n: [12, -27]
     kaisyu_d: [36, 0]
-    kaizo_n: [210, 66]
-    kaizo_d: [150, 12]
-    map_n: [204, 138]
-    map_d: [192, 132]
-    ensyuf_n: [216, 156]
-    ensyuf_d: [180, 108]
-    ensyue_n: [222, 0]
-    battle_n: [246, 168]
-    battle_d: [198, 150]
-    wed_a: [114, 36]
-    wed_b: [120, 186]
+    kaizo_n: [60, 60]
+    kaizo_d: [30, 114]
+    map_n: [84, 138]
+    map_d: [72, 216]
+    ensyuf_n: [54, 150]
+    ensyuf_d: [72, 204]
+    ensyue_n: [54, 0]
+    battle_n: [96, 156]
+    battle_d: [96, 258]
+    wed_a: [258, 48]
+    wed_b: [150, 180]
   wiki_id: "257"
   chinese_name: 山风
   can_drop: true

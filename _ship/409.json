@@ -14,7 +14,7 @@ data:
   get_mes: また…来てしまったのね、この海に。<br>夕雲型駆逐艦、早霜…着任しました。
   voice_f: 1
   filename: kgwxvcnblfjb
-  file_version: ["29", "1", "101"]
+  file_version: ["30", "1", "125"]
   book_table_id: [409, 5160, 5278, 5428]
   book_sinfo: 夕雲型駆逐艦、その十七番目、早霜です。<br>舞鶴海軍工廠生まれ。だいぶ押し迫った頃に生まれま<br>した。レイテ沖海戦にリンガ泊地から出撃して…色々<br>な光景を見ました。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [-115, 130]
-    boko_d: [-132, 153]
+    boko_n: [49, 223]
+    boko_d: [7, 235]
     kaisyu_n: [6, 12]
     kaisyu_d: [24, 24]
-    kaizo_n: [-70, 58]
-    kaizo_d: [-103, 43]
-    map_n: [-24, 144]
-    map_d: [-48, 156]
-    ensyuf_n: [-24, 108]
-    ensyuf_d: [-48, 120]
-    ensyue_n: [-60, 0]
-    battle_n: [0, 144]
-    battle_d: [-48, 156]
-    wed_a: [318, 96]
-    wed_b: [180, 156]
+    kaizo_n: [58, 96]
+    kaizo_d: [-3, 67]
+    map_n: [82, 190]
+    map_d: [31, 202]
+    ensyuf_n: [79, 180]
+    ensyuf_d: [25, 186]
+    ensyue_n: [87, 0]
+    battle_n: [103, 210]
+    battle_d: [46, 217]
+    wed_a: [262, -31]
+    wed_b: [127, 190]
   wiki_id: "209"
   chinese_name: 早霜
   can_drop: true

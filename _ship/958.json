@@ -13,9 +13,9 @@ data:
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
-  filename: zsnmjonjfpys
-  file_version: ["56", "1", "101"]
-  book_table_id: [958, 5783]
+  filename: zsnmjonjfpan
+  file_version: ["57", "1", "125"]
+  book_table_id: [958, 5783, 5799]
   book_sinfo: あの戦いの一つ前の時代の主力戦艦、朝日です。<br>敷島型戦艦の一隻として、日本海海戦などに参加しま<br>した。時代は変わり、近代戦に対応できなくなった私<br>は、練習特務艦、そして貴重な後方戦力、工作艦に改<br>装され、あの大戦に参加します。軌跡と最後、覚えて<br>いてくださいませね。
   stats:
     taik: [37, 45]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 0, 4]
     build_time: 220
   graph:
-    boko_n: [46, 100]
-    boko_d: [-7, 255]
+    boko_n: [-43, 70]
+    boko_d: [28, 54]
     kaisyu_n: [19, -10]
     kaisyu_d: [22, -37]
-    kaizo_n: [43, -15]
-    kaizo_d: [-13, 91]
-    map_n: [55, 100]
-    map_d: [10, 220]
-    ensyuf_n: [60, 70]
-    ensyuf_d: [4, 193]
-    ensyue_n: [75, 0]
-    battle_n: [78, 106]
-    battle_d: [25, 229]
-    wed_a: [283, 67]
-    wed_b: [124, 211]
+    kaizo_n: [-21, -31]
+    kaizo_d: [1, -120]
+    map_n: [-15, 58]
+    map_d: [33, 4]
+    ensyuf_n: [-4, 30]
+    ensyuf_d: [34, -25]
+    ensyue_n: [-4, 0]
+    battle_n: [25, 66]
+    battle_d: [63, 25]
+    wed_a: [346, 103]
+    wed_b: [103, 199]
   wiki_id: "558"
   chinese_name: 朝日改
   can_drop: false

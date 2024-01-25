@@ -14,7 +14,7 @@ data:
   get_mes: Buon giorno！あたい、マルチェロ級外洋型潜水艦だお～！<br>Mi chiamo Comandante Cappellini！<br>カッペリーニでいいお。よっろしく！
   voice_f: 1
   filename: ffwiclskhxkd
-  file_version: ["53", "1", "101"]
+  file_version: ["53", "1", "125"]
   book_table_id: [934, 731, 5763]
   book_sinfo: あたい、マルチェロ級外洋型潜水艦、Comandante <br>Cappellini！まあ、冒険と経験は豊富だお！色々あっ<br>てUIT24って名前になって極東へ。最後は日本で、伊<br>503になったんだ！　伊号潜水艦だお！<br>あの苛烈な時代を駆け抜けた潜水艦、あたいのことも<br>覚えておいてな！
   stats:

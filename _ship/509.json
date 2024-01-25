@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: oqjojspqklln
-  file_version: ["67", "1", "101"]
+  file_version: ["67", "1", "125"]
   book_table_id: [509, 1013]
   book_sinfo: 神戸生まれのお洒落な重巡といえば、わたくし、熊野ですね。マレー、ミッドウェー、ソロモン、マリアナと主要な名所、いえ激戦地に参上いたしましたのよ。最期は日本に帰りたかったけれど……。
   stats:
@@ -23,13 +23,13 @@ data:
     houg: [0, 58]
     raig: [0, 0]
     tyku: [33, 86]
-    luck: [12, 73]
+    luck: [12, 75]
     soku: 10
     leng: 2
     kaih: 41
     tais: 0
     slot_num: 4
-    max_eq: [17, 22, 16, 4, 0]
+    max_eq: [17, 22, 18, 4, 0]
     after_fuel: 4500
     after_bull: 1300
     fuel_max: 60
