@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: jqpswubshyxm
-  file_version: ["51", "13", "101"]
+  file_version: ["56", "13", "125"]
   book_table_id: [959]
   book_sinfo: 特型駆逐艦４番艦の深雪さまだよ！<br>演習中に他の駆逐艦とぶつかって事故っちゃったこと<br>もあるんだ。<br>まー、でもやるときゃやるぜ。みてなって！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 22
   graph:
-    boko_n: [124, 117]
-    boko_d: [46, 225]
+    boko_n: [193, 169]
+    boko_d: [193, 169]
     kaisyu_n: [19, -37]
     kaisyu_d: [34, -3]
-    kaizo_n: [124, 0]
-    kaizo_d: [46, 79]
-    map_n: [111, 79]
-    map_d: [64, 198]
-    ensyuf_n: [124, 67]
-    ensyuf_d: [66, 169]
-    ensyue_n: [127, 0]
-    battle_n: [175, 102]
-    battle_d: [127, 210]
-    wed_a: [204, 85]
-    wed_b: [109, 177]
+    kaizo_n: [198, 40]
+    kaizo_d: [183, 6]
+    map_n: [178, 135]
+    map_d: [180, 135]
+    ensyuf_n: [198, 123]
+    ensyuf_d: [198, 123]
+    ensyue_n: [202, 0]
+    battle_n: [240, 159]
+    battle_d: [240, 159]
+    wed_a: [141, 27]
+    wed_b: [106, 177]
   wiki_id: "559"
   chinese_name: 
   can_drop: false

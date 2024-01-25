@@ -8,7 +8,7 @@ data:
   description: 新年を迎えるのに大切なア<br>イテム、門松。これを小型<br>化、窓中央部に配置。さら<br>に干支モチーフで仕上げ！<br>更新する年も…あるかも！
   rarity: 5
   price: 3600
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: "075"
   file_version: 2

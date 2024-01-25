@@ -9,12 +9,12 @@ data:
   ctype: 9
   cnum: 2
   backs: 6
-  after_lv: 
-  after_ship_id: 
+  after_lv: 82
+  after_ship_id: 502
   get_mes: <br>
   voice_f: 3
   filename: yyvxfxdusxlx
-  file_version: ["28", "6", "101"]
+  file_version: ["28", "6", "125"]
   book_table_id: [121]
   book_sinfo: 最上型１番艦のモガミンとは、とっても仲がいいのだけれど、仲が良すぎて彼女とは衝突することも多いの…ええ、そう…物理的に…私はちゃんと前見てるのよ？
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 0
     slot_num: 4
     max_eq: [5, 6, 6, 9, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 1800
+    after_bull: 2200
     fuel_max: 50
     bull_max: 55
     broken: [2, 2, 13, 4]

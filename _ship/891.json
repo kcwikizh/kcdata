@@ -14,7 +14,7 @@ data:
   get_mes: アタシがサーモン級ネームシップ、Salmon！<br>ガトー級と比べれば旧型だけど、実は活躍したんだ！<br>Admiral？　よろしくね！
   voice_f: 1
   filename: vnxcefjoqdqu
-  file_version: ["53", "1", "101"]
+  file_version: ["53", "1", "125"]
   book_table_id: [891, 5785]
   book_sinfo: サーモン級のネームシップ、Salmonよ。ちょっとだ<br>け旧式かもだけど、私達姉妹は、全艦無事、あの戦い<br>を戦い抜いたンだから！　凄いでしょ？　アタシなん<br>か、すっごい大金星もあげてんだから！覚えといて！
   stats:
