@@ -3,11 +3,11 @@ layout: json
 order: 526
 data:
   id: 526
-  sort_no: 0
-  name: 飛び魚偵察機
-  type: [5, 7, 10, 10, 0]
-  rare: 1
-  broken: [0, 0, 0, 0]
+  sort_no: 526
+  name: 特四式内火艇改
+  type: [20, 37, 46, 36, 0]
+  rare: 5
+  broken: [3, 4, 4, 7]
   info: 
   usebull: 0
   cost: 9
@@ -16,18 +16,18 @@ data:
     taik: 0
     souk: 0
     houg: 0
-    raig: 0
+    raig: 3
     soku: 0
-    baku: 4
+    baku: 0
     tyku: 2
-    tais: 2
+    tais: 0
     atap: 0
-    houm: 0
+    houm: 1
     raim: 0
     houk: 0
     raik: 0
     bakk: 0
-    saku: 10
+    saku: 0
     sakb: 0
     luck: 0
     leng: 0
