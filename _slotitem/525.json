@@ -3,11 +3,11 @@ layout: json
 order: 525
 data:
   id: 525
-  sort_no: 0
-  name: 深海棲艦偵察機
-  type: [5, 7, 10, 10, 0]
-  rare: 0
-  broken: [0, 0, 0, 0]
+  sort_no: 525
+  name: 特四式内火艇
+  type: [20, 37, 46, 36, 0]
+  rare: 4
+  broken: [2, 2, 4, 6]
   info: 
   usebull: 0
   cost: 9
@@ -16,18 +16,18 @@ data:
     taik: 0
     souk: 0
     houg: 0
-    raig: 0
+    raig: 1
     soku: 0
-    baku: 1
+    baku: 0
     tyku: 1
-    tais: 1
+    tais: 0
     atap: 0
     houm: 0
     raim: 0
     houk: 0
     raik: 0
     bakk: 0
-    saku: 5
+    saku: 0
     sakb: 0
     luck: 0
     leng: 0

@@ -1,0 +1,36 @@
+---
+layout: json
+order: 1648
+data:
+  id: 1648
+  sort_no: 0
+  name: 深海対戦回転翼海鴎
+  type: [3, 15, 25, 21, 0]
+  rare: 5
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 8
+    raig: 0
+    soku: 0
+    baku: 18
+    tyku: 0
+    tais: 18
+    atap: 0
+    houm: 18
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 4
+    sakb: 0
+    luck: 0
+    leng: 3
+  improvement: 
+  chinese_name:
+---
