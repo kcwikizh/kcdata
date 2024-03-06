@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 944
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: nrlysgpguqtd
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 544
+  name: 平安丸
+  yomi: へいあんまる
+  stype: 20
+  ctype: 126
+  cnum: 3
+  backs: 4
+  after_lv: 25
+  after_ship_id: 949
+  get_mes: 氷川丸級貨客船、平安丸と申します。　あらやだ……<br>今は改装されて、特設潜水母艦、平安丸で御座います。<br>提督、私の事もどうぞ、お見知りおき下さいね。
+  voice_f: 1
+  filename: mfruqnywdhgk
+  file_version: ["51", "1", "229"]
+  book_table_id: [944]
+  book_sinfo: 氷川丸級貨客船三番船平安丸改め、特設潜水母艦平安<br>丸です。ええ、姉はあの氷川丸。この優しい時代にも<br>横浜の地にその姿が健在と聞いています。提督、潜水<br>母艦となった氷川丸の妹、トラックの地で潜水艦たち<br>の作戦を支えた私の事も、どうか覚えておいて下さい<br>ましね。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [36, 51]
+    souk: [3, 18]
+    houg: [5, 23]
+    raig: [0, 0]
+    tyku: [10, 28]
+    luck: [6, 44]
+    soku: 5
+    leng: 2
+    kaih: 14
+    tais: 0
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 500
+    after_bull: 480
+    fuel_max: 30
+    bull_max: 10
+    broken: [2, 1, 12, 1]
+    pow_up: [1, 0, 1, 1]
+    build_time: 150
   graph:
-    boko_n: [168, 156]
-    boko_d: [54, 90]
-    kaisyu_n: [10, 30]
-    kaisyu_d: [42, 30]
-    kaizo_n: [120, 96]
-    kaizo_d: [-24, -48]
-    map_n: [96, 108]
-    map_d: [-48, 12]
-    ensyuf_n: [108, 120]
-    ensyuf_d: [-36, 18]
-    ensyue_n: [84, 0]
-    battle_n: [120, 120]
-    battle_d: [0, 48]
-    wed_a: [186, 72]
-    wed_b: [192, 180]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [106, 210]
+    boko_d: [-28, 273]
+    kaisyu_n: [12, 33]
+    kaisyu_d: [-13, -22]
+    kaizo_n: [112, 84]
+    kaizo_d: [-49, 73]
+    map_n: [103, 192]
+    map_d: [-63, 223]
+    ensyuf_n: [97, 178]
+    ensyuf_d: [-58, 195]
+    ensyue_n: [112, 0]
+    battle_n: [121, 204]
+    battle_d: [-1, 252]
+    wed_a: [229, -28]
+    wed_b: [139, 196]
+  wiki_id: "544"
+  chinese_name: 平安丸
   can_drop: false
   can_construct: false
 ---

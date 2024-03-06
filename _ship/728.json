@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 0
   filename: oiljlmohefcx
-  file_version: ["57", "3", "125"]
+  file_version: ["59", "3", "229"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [132, 274]
-    boko_d: [112, 262]
+    boko_n: [121, 244]
+    boko_d: [169, 298]
     kaisyu_n: [31, -25]
     kaisyu_d: [61, -49]
-    kaizo_n: [126, 154]
-    kaizo_d: [99, 138]
-    map_n: [145, 226]
-    map_d: [130, 241]
-    ensyuf_n: [139, 196]
-    ensyuf_d: [126, 195]
-    ensyue_n: [132, 0]
-    battle_n: [159, 238]
-    battle_d: [147, 250]
-    wed_a: [220, -43]
-    wed_b: [106, 220]
+    kaizo_n: [132, 123]
+    kaizo_d: [151, 136]
+    map_n: [169, 211]
+    map_d: [210, 249]
+    ensyuf_n: [162, 190]
+    ensyuf_d: [207, 217]
+    ensyue_n: [169, 0]
+    battle_n: [189, 235]
+    battle_d: [229, 262]
+    wed_a: [187, -42]
+    wed_b: [84, 216]
   wiki_id: "498a"
   chinese_name: 第二十二号海防舰改
   can_drop: false

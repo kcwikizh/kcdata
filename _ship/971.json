@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 971
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: lvwknafdsqsn
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 571
+  name: 伊36
+  yomi: い36
+  stype: 14
+  ctype: 39
+  cnum: 17
+  backs: 5
+  after_lv: 50
+  after_ship_id: 976
+  get_mes: 伊号潜、巡潜乙型、伊36です。<br>そう、一番量産された主力オブ主力の伊号潜、です。<br>呼び方ですか？　みぃむ…はどうでしょう……いい？
+  voice_f: 1
+  filename: hfvekwbfjvxq
+  file_version: ["51", "1", "229"]
+  book_table_id: [971]
+  book_sinfo: 伊号潜水艦、主力として量産された巡潜乙型、その<br>17番艦伊36です。太平洋を南へ北へと目一杯奮戦し<br>ました。数々の厳しい作戦に参加しましたが、名艦長<br>の指揮の下、戦いの終わる夏の日まで艦は生き残るこ<br>ととなりました。最期は、伊47たちと共に五島列島沖<br>で眠りにつきます。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [14, 18]
+    souk: [4, 19]
+    houg: [2, 7]
+    raig: [36, 71]
+    tyku: [0, 0]
+    luck: [46, 90]
+    soku: 5
+    leng: 1
+    kaih: 10
+    tais: 0
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 170
+    after_bull: 290
+    fuel_max: 10
+    bull_max: 20
+    broken: [1, 3, 2, 0]
+    pow_up: [0, 2, 1, 0]
+    build_time: 22
   graph:
-    boko_n: [162, 186]
-    boko_d: [120, 216]
-    kaisyu_n: [9, 9]
-    kaisyu_d: [42, 10]
-    kaizo_n: [72, 96]
-    kaizo_d: [12, 114]
-    map_n: [120, 150]
-    map_d: [24, 168]
-    ensyuf_n: [48, 144]
-    ensyuf_d: [12, 156]
-    ensyue_n: [48, 0]
-    battle_n: [96, 156]
-    battle_d: [48, 198]
-    wed_a: [264, 36]
-    wed_b: [153, 180]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [64, 229]
+    boko_d: [55, 214]
+    kaisyu_n: [4, -1]
+    kaisyu_d: [18, 15]
+    kaizo_n: [58, 99]
+    kaizo_d: [24, 57]
+    map_n: [64, 193]
+    map_d: [42, 183]
+    ensyuf_n: [73, 175]
+    ensyuf_d: [43, 163]
+    ensyue_n: [67, 0]
+    battle_n: [106, 219]
+    battle_d: [91, 207]
+    wed_a: [261, -46]
+    wed_b: [130, 214]
+  wiki_id: "571"
+  chinese_name: 伊36
   can_drop: false
   can_construct: false
 ---

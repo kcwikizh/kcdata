@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 972
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 572
+  name: 伊41
+  yomi: い41
+  stype: 14
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: twywnnvjxwdl
-  file_version: ["1", "1", "1"]
+  backs: 5
+  after_lv: 50
+  after_ship_id: 977
+  get_mes: 伊号潜水艦、巡潜乙型改一。その二番艦、伊41、見参！<br>あんたが提督って訳かい？　あの艦長とどっちがすげーかな？<br>ま、見せておくれよ、その采配ってのを！
+  voice_f: 1
+  filename: dmjndywdalef
+  file_version: ["51", "1", "229"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [14, 19]
+    souk: [4, 20]
+    houg: [2, 8]
+    raig: [36, 73]
+    tyku: [0, 0]
+    luck: [18, 71]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [1, 1, 0, 0, 0]
+    after_fuel: 170
+    after_bull: 290
+    fuel_max: 10
+    bull_max: 20
+    broken: [1, 3, 2, 0]
+    pow_up: [0, 2, 1, 0]
+    build_time: 22
   graph:
-    boko_n: [186, 210]
-    boko_d: [228, 240]
-    kaisyu_n: [66, -18]
-    kaisyu_d: [48, -12]
-    kaizo_n: [132, 72]
-    kaizo_d: [138, 108]
-    map_n: [138, 138]
-    map_d: [144, 168]
-    ensyuf_n: [138, 126]
-    ensyuf_d: [126, 168]
-    ensyue_n: [108, 0]
-    battle_n: [150, 156]
-    battle_d: [174, 198]
-    wed_a: [192, 36]
-    wed_b: [168, 192]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [138, 244]
+    boko_d: [249, 235]
+    kaisyu_n: [46, -36]
+    kaisyu_d: [51, 34]
+    kaizo_n: [130, 121]
+    kaizo_d: [238, 81]
+    map_n: [151, 199]
+    map_d: [265, 198]
+    ensyuf_n: [148, 183]
+    ensyuf_d: [262, 181]
+    ensyue_n: [145, 0]
+    battle_n: [169, 228]
+    battle_d: [285, 223]
+    wed_a: [169, -52]
+    wed_b: [139, 220]
+  wiki_id: "572"
+  chinese_name: 伊41
   can_drop: false
   can_construct: false
 ---

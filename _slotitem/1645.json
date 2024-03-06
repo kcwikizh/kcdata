@@ -1,0 +1,36 @@
+---
+layout: json
+order: 1645
+data:
+  id: 1645
+  sort_no: 0
+  name: 深海533mm 5連装魚雷+深海SG
+  type: [2, 3, 5, 5, 0]
+  rare: 5
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 0
+    houg: 0
+    raig: 18
+    soku: 0
+    baku: 0
+    tyku: 0
+    tais: 4
+    atap: 0
+    houm: 12
+    raim: 0
+    houk: 4
+    raik: 0
+    bakk: 0
+    saku: 12
+    sakb: 0
+    luck: 0
+    leng: 2
+  improvement: 
+  chinese_name:
+---

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: cggjgvkbrdby
-  file_version: ["113", "5", "125"]
+  file_version: ["115", "5", "229"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [184, 262]
-    boko_d: [94, 355]
+    boko_n: [106, 204]
+    boko_d: [106, 204]
     kaisyu_n: [48, -18]
     kaisyu_d: [39, -18]
-    kaizo_n: [198, 108]
-    kaizo_d: [109, 175]
-    map_n: [246, 193]
-    map_d: [145, 229]
-    ensyuf_n: [228, 184]
-    ensyuf_d: [126, 190]
-    ensyue_n: [220, 0]
-    battle_n: [259, 214]
-    battle_d: [189, 259]
-    wed_a: [81, -24]
-    wed_b: [126, 196]
+    kaizo_n: [94, 79]
+    kaizo_d: [79, 45]
+    map_n: [117, 163]
+    map_d: [118, 163]
+    ensyuf_n: [106, 151]
+    ensyuf_d: [106, 151]
+    ensyue_n: [103, 0]
+    battle_n: [133, 187]
+    battle_d: [133, 187]
+    wed_a: [210, 10]
+    wed_b: [139, 207]
   wiki_id: "335a"
   chinese_name: 松轮改
   can_drop: false

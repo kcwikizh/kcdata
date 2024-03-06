@@ -14,7 +14,7 @@ data:
   get_mes: 不知火です。<br>ご指導ご鞭撻、よろしくです。
   voice_f: 0
   filename: louolngpmrwj
-  file_version: ["66", "13", "125"]
+  file_version: ["67", "13", "229"]
   book_table_id: [18, 756, 1031]
   book_sinfo: 陽炎型駆逐艦２番艦、不知火です。<br>陽炎らと共にハワイ作戦部隊の護衛も務めました。<br>運命のレイテ沖海戦では志摩艦隊に所属、スリガオ海峡に突入しました。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 1]
     build_time: 24
   graph:
-    boko_n: [318, 216]
-    boko_d: [240, 246]
+    boko_n: [-25, 159]
+    boko_d: [-4, 160]
     kaisyu_n: [6, -13]
     kaisyu_d: [42, -16]
-    kaizo_n: [270, 150]
-    kaizo_d: [162, 126]
-    map_n: [288, 216]
-    map_d: [198, 222]
-    ensyuf_n: [264, 216]
-    ensyuf_d: [174, 222]
-    ensyue_n: [258, 0]
-    battle_n: [300, 228]
-    battle_d: [216, 246]
-    wed_a: [72, -12]
-    wed_b: [126, 180]
+    kaizo_n: [-108, 76]
+    kaizo_d: [-24, 3]
+    map_n: [-57, 159]
+    map_d: [-148, 145]
+    ensyuf_n: [-12, 127]
+    ensyuf_d: [-40, 69]
+    ensyue_n: [-12, 0]
+    battle_n: [-43, 129]
+    battle_d: [-43, 129]
+    wed_a: [363, 57]
+    wed_b: [244, 178]
   wiki_id: "092"
   chinese_name: 不知火
   can_drop: true

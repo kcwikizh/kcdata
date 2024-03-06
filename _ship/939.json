@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: drljoaswgmef
-  file_version: ["53", "1", "125"]
-  book_table_id: [939, 5764]
+  file_version: ["55", "1", "229"]
+  book_table_id: [939, 5764, 5833]
   book_sinfo: あたい、マルチェロ級外洋型潜水艦、Comandante <br>Cappellini！まあ、冒険と経験は豊富だお！色々あっ<br>てUIT24って名前になって極東へ。最後は日本で、伊<br>503になったんだ！　伊号潜水艦だお！<br>あの苛烈な時代を駆け抜けた潜水艦、あたいのことも<br>覚えておいてな！
   stats:
     taik: [12, 22]

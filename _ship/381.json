@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ekhgotryrtbd
-  file_version: ["66", "1", "125"]
+  file_version: ["67", "1", "229"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 2, 2]
     build_time: 160
   graph:
-    boko_n: [210, 202]
-    boko_d: [210, 202]
+    boko_n: [175, 211]
+    boko_d: [253, 331]
     kaisyu_n: [21, 0]
     kaisyu_d: [91, 4]
-    kaizo_n: [195, 82]
-    kaizo_d: [180, 46]
-    map_n: [216, 181]
-    map_d: [216, 181]
-    ensyuf_n: [223, 174]
-    ensyuf_d: [223, 174]
-    ensyue_n: [210, 0]
-    battle_n: [246, 205]
-    battle_d: [246, 205]
-    wed_a: [133, -22]
-    wed_b: [121, 184]
+    kaizo_n: [166, 97]
+    kaizo_d: [232, 181]
+    map_n: [148, 201]
+    map_d: [219, 261]
+    ensyuf_n: [153, 193]
+    ensyuf_d: [222, 205]
+    ensyue_n: [222, 0]
+    battle_n: [190, 201]
+    battle_d: [289, 283]
+    wed_a: [180, -1]
+    wed_b: [106, 135]
   wiki_id: "324a"
   chinese_name: 神鹰改
   can_drop: false

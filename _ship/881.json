@@ -14,8 +14,8 @@ data:
   get_mes: 私が潜高型の長女、伊２０１よ。妹がお世話になって<br>いるようね。私のことは…そう、フレイでいいわ。<br>提督、やってみましょう？
   voice_f: 1
   filename: lujkrodiubhv
-  file_version: ["57", "1", "125"]
-  book_table_id: [881, 5654, 5675]
+  file_version: ["59", "1", "229"]
+  book_table_id: [881, 5654, 5675, 5828, 5829]
   book_sinfo: 水中での高速機動性を追求した次世代の高速伊号潜水<br>艦、伊２０１型。その一番艦です。色々と課題はあり<br>ましたが、舞鶴で訓練を進めていました。出撃は叶い<br>ませんでしたが、そのノウハウの一部は戦後の海自国<br>産潜水艦へと受け継がれていきます。
   stats:
     taik: [12, 22]
@@ -55,6 +55,6 @@ data:
     wed_b: [108, 169]
   wiki_id: "481"
   chinese_name: 伊201
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---
