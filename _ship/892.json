@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 892
-  sort_no: 0
-  name: 梅雨最上
-  yomi: もがみ
-  stype: 5
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: pdgmoqqjpsdy
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 492
+  name: Drum
+  yomi: ドラム
+  stype: 13
+  ctype: 114
+  cnum: 228
+  backs: 6
+  after_lv: 50
+  after_ship_id: 732
+  get_mes: Are you the rumored admiral? I’m honored！<br>あたいがGato級のDrumよ。わざわざ会いに来たの！
+  voice_f: 1
+  filename: vcjxvbwolzcb
+  file_version: ["51", "1", "229"]
+  book_table_id: [892]
+  book_sinfo: あの有名なGato級潜水艦、その一番艦かもしれない<br>のがこのあたい、Drumってわけさ。<br>え？違う？ま、いいじゃん。もちろん、相当の戦果を<br>挙げたぜ。戦いの終わった後はアラバマ州に<br>South Dakota級の戦艦と一緒に保存されているのさ。<br>な、会い来ても……いいんだぜ？
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 10
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 3
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [13, 18]
+    souk: [4, 21]
+    houg: [1, 10]
+    raig: [35, 75]
+    tyku: [0, 0]
+    luck: [33, 90]
+    soku: 5
+    leng: 1
+    kaih: 17
+    tais: 0
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 140
+    after_bull: 200
+    fuel_max: 10
+    bull_max: 20
+    broken: [1, 2, 2, 2]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
   graph:
-    boko_n: [258, 120]
-    boko_d: [192, 168]
-    kaisyu_n: [16, -22]
-    kaisyu_d: [40, -7]
-    kaizo_n: [126, 36]
-    kaizo_d: [96, 72]
-    map_n: [132, 84]
-    map_d: [96, 144]
-    ensyuf_n: [132, 84]
-    ensyuf_d: [96, 132]
-    ensyue_n: [144, 0]
-    battle_n: [168, 102]
-    battle_d: [144, 138]
-    wed_a: [198, 114]
-    wed_b: [120, 156]
+    boko_n: [27, 157]
+    boko_d: [22, 216]
+    kaisyu_n: [37, 31]
+    kaisyu_d: [63, -55]
+    kaizo_n: [0, 43]
+    kaizo_d: [16, 61]
+    map_n: [25, 133]
+    map_d: [46, 178]
+    ensyuf_n: [43, 118]
+    ensyuf_d: [52, 153]
+    ensyue_n: [43, 0]
+    battle_n: [69, 157]
+    battle_d: [79, 199]
+    wed_a: [273, 10]
+    wed_b: [145, 220]
   wiki_id: 
   chinese_name: 
   can_drop: false

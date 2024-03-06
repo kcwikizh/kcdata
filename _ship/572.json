@@ -14,7 +14,7 @@ data:
   get_mes: 私がRodneyよ。ちょっとだけ……待った？<br>Admiral、姉が随分お世話になっているみたい？<br>でも、私が来たからには、もう大丈夫よ！
   voice_f: 1
   filename: mjwisgqfvunx
-  file_version: ["51", "1", "125"]
+  file_version: ["51", "1", "229"]
   book_table_id: [572]
   book_sinfo: Nelson級戦艦、二番艦、Rodneyよ。ものすっごい<br>働いたわ。本国艦隊勤務からあのドイツ戦艦の捜索追<br>撃戦、地中海、北アフリカ、ノルマンディー上陸作戦<br>まで、ずっと働き詰めだったんだから！ビックセブン<br>の中でも相当なもんでしょ？私のことも、きっと覚え<br>ていてね。
   stats:

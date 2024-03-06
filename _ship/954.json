@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: yzlukkewigbp
-  file_version: ["55", "31", "125"]
+  file_version: ["55", "33", "229"]
   book_table_id: [954, 5750]
   book_sinfo: 高速の巡洋戦艦、榛名です。<br>国産の四一式36センチ砲を装備しました。<br>呉鎮守府の江田島で最後まで空を睨んで奮戦したわ。<br>高速戦艦四姉妹で最期まで、戦い抜いた榛名のこと、<br>覚えていてね。
   stats:

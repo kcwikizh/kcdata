@@ -14,7 +14,7 @@ data:
   get_mes: 丁型海防艦、第三〇号、みとです。<br>よろしくお願いします。みとの出来る限り……<br>皆さんをお守りするつもりです。
   voice_f: 1
   filename: nvgghdxdncdj
-  file_version: ["81", "1", "125"]
+  file_version: ["83", "1", "229"]
   book_table_id: [638, 5588, 5603, 5625, 5632, 5646, 5672, 5688, 5714, 5726, 5743]
   book_sinfo: 丁型海防艦、その十五番艦、第三〇号海防艦です。<br>長崎で生まれ佐世保で育ち、第四海上護衛部隊に配備<br>されました。数次のカタ船団等を護衛した後、和歌山<br>由良の守りに就きました。<br>海、港、街…力が尽きるまでお守りします。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [241, 244]
-    boko_d: [145, 262]
+    boko_n: [190, 228]
+    boko_d: [28, 292]
     kaisyu_n: [12, -58]
     kaisyu_d: [31, -61]
-    kaizo_n: [253, 118]
-    kaizo_d: [180, 90]
-    map_n: [262, 216]
-    map_d: [151, 232]
-    ensyuf_n: [277, 195]
-    ensyuf_d: [181, 214]
-    ensyue_n: [261, 0]
-    battle_n: [292, 232]
-    battle_d: [208, 246]
-    wed_a: [84, -37]
-    wed_b: [111, 226]
+    kaizo_n: [196, 88]
+    kaizo_d: [34, 111]
+    map_n: [201, 178]
+    map_d: [58, 232]
+    ensyuf_n: [196, 166]
+    ensyuf_d: [61, 220]
+    ensyue_n: [193, 0]
+    battle_n: [216, 232]
+    battle_d: [105, 253]
+    wed_a: [124, -13]
+    wed_b: [139, 229]
   wiki_id: "438"
   chinese_name: 第三〇号海防舰
   can_drop: true
