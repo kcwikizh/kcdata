@@ -384,7 +384,7 @@ data:
     Z:
       name: 深海任務部隊 決戦艦隊 旗艦集団
       type:
-      boss: false
+      boss: true
       routes: [52]
   image: MapHDE-4Spring2024.png
 ---
