@@ -1,0 +1,14 @@
+---
+layout: json
+order: 58
+data:
+  id: 58
+  name: 発動！竜巻作戦
+  maps:
+    - 581
+    - 582
+    - 583
+    - 584
+  event: true
+  level: 4
+---

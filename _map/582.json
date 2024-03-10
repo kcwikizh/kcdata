@@ -1,0 +1,279 @@
+---
+layout: json
+order: 582
+data:
+  id: 582
+  name: 九州南方沖/マリアナ諸島方面
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: D
+      to: D1
+    6:
+      from: D
+      to: D2
+    7:
+      from: B
+      to: E
+    8:
+      from: C
+      to: F
+    9:
+      from: E
+      to: G
+    10:
+      from: G
+      to: H
+    11:
+      from: H
+      to: I
+    12:
+      from: H
+      to: J
+    13:
+      from: H
+      to: K
+    14:
+      from: E
+      to: F
+    15:
+      from: 2
+      to: L
+    16:
+      from: L
+      to: M
+    17:
+      from: D
+      to: N
+    18:
+      from: N
+      to: O
+    19:
+      from: N
+      to: P
+    20:
+      from: P
+      to: Q
+    21:
+      from: P
+      to: R
+    22:
+      from: O
+      to: P
+    23:
+      from: L
+      to: D
+    24:
+      from: M
+      to: J
+    25:
+      from: J
+      to: N
+    26:
+      from: J
+      to: P
+    27:
+      from: null
+      to: 2
+    28:
+      from: 3
+      to: S
+    29:
+      from: S
+      to: T
+    30:
+      from: T
+      to: U
+    31:
+      from: U
+      to: V
+    32:
+      from: V
+      to: W
+    33:
+      from: V
+      to: X
+    34:
+      from: X
+      to: Y
+    35:
+      from: W
+      to: X
+    36:
+      from: T
+      to: C
+    37:
+      from: U
+      to: H
+    38:
+      from: C
+      to: I
+    39:
+      from: I
+      to: U
+    40:
+      from: H
+      to: V
+    41:
+      from: null
+      to: 3
+    42:
+      from: I
+      to: D3
+  cells:
+    A:
+      name: 深海潜水艦隊 偵察哨戒部隊
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [3, 36]
+    D:
+      name: 深海任務部隊 警戒駆逐隊 II群
+      type:
+      boss: false
+      routes: [4, 23]
+    D1:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    D2:
+      name: 深海任務部隊 高速戦艦戦隊
+      type:
+      boss: false
+      routes: [6]
+    E:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [7]
+    F:
+      name: 深海任務部隊 前衛正規空母群
+      type:
+      boss: false
+      routes: [8, 14]
+    G:
+      name: 深海任務部隊 警戒駆逐隊 I群
+      type:
+      boss: false
+      routes: [9]
+    H:
+      name: 深海任務部隊 環礁泊地哨戒線
+      type:
+      boss: false
+      routes: [10, 37]
+    I:
+      name: 深海任務部隊 警戒護衛空母群
+      type:
+      boss: false
+      routes: [11, 38]
+    J:
+      name: 深海任務部隊 前衛空母集団 I群
+      type:
+      boss: false
+      routes: [12, 24]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    M:
+      name: 深海潜水艦隊 機動部隊阻止線
+      type:
+      boss: false
+      routes: [16]
+    N:
+      name: 深海任務部隊 水上打撃集団
+      type:
+      boss: false
+      routes: [17, 25]
+    O:
+      name: 深海任務部隊 前衛空母集団 II群
+      type:
+      boss: false
+      routes: [18]
+    P:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [19, 22, 26]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    R:
+      name: 深海任務部隊 空母主力集団
+      type:
+      boss: false
+      routes: [21]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [28]
+    T:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [29]
+    U:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [30, 39]
+    V:
+      name: 深海任務部隊 泊地警戒線 II群
+      type:
+      boss: false
+      routes: [31, 40]
+    W:
+      name: 深海任務部隊 泊地警戒線 I群
+      type:
+      boss: false
+      routes: [32]
+    X:
+      name: 深海任務部隊 泊地最終防衛線
+      type:
+      boss: false
+      routes: [33, 35]
+    Y:
+      name: 深海任務部隊 環礁泊地前縁部
+      type:
+      boss: true
+      routes: [34]
+    D3:
+      name: 深海潜水艦隊 哨戒部隊支援群
+      type:
+      boss: false
+      routes: [42]
+  image: MapHDE-2Spring2024.png
+---

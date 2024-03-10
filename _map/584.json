@@ -1,0 +1,390 @@
+---
+layout: json
+order: 584
+data:
+  id: 584
+  name: サイパン沖/マーシャル諸島沖正面
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: A1
+    3:
+      from: A1
+      to: A2
+    4:
+      from: A2
+      to: A3
+    5:
+      from: A
+      to: B
+    6:
+      from: B
+      to: C
+    7:
+      from: B
+      to: D
+    8:
+      from: A
+      to: A1
+    9:
+      from: A1
+      to: B
+    10:
+      from: C
+      to: C1
+    11:
+      from: C
+      to: C2
+    12:
+      from: D
+      to: D1
+    13:
+      from: D
+      to: D2
+    14:
+      from: C1
+      to: E
+    15:
+      from: E
+      to: F
+    16:
+      from: E
+      to: F1
+    17:
+      from: F1
+      to: F2
+    18:
+      from: F1
+      to: G
+    19:
+      from: F
+      to: F1
+    20:
+      from: 2
+      to: H
+    21:
+      from: H
+      to: I
+    22:
+      from: I
+      to: I1
+    23:
+      from: I1
+      to: I2
+    24:
+      from: I1
+      to: I3
+    25:
+      from: H
+      to: J
+    26:
+      from: J
+      to: J1
+    27:
+      from: J1
+      to: J2
+    28:
+      from: I2
+      to: K
+    29:
+      from: I3
+      to: L
+    30:
+      from: J2
+      to: M
+    31:
+      from: M
+      to: N
+    32:
+      from: M
+      to: O
+    33:
+      from: J2
+      to: K
+    34:
+      from: J2
+      to: L
+    35:
+      from: K
+      to: L
+    36:
+      from: L
+      to: M
+    37:
+      from: null
+      to: 2
+    38:
+      from: 1
+      to: P
+    39:
+      from: J1
+      to: Q
+    40:
+      from: Q
+      to: R
+    41:
+      from: R
+      to: S
+    42:
+      from: J1
+      to: R
+    43:
+      from: P
+      to: J
+    44:
+      from: J
+      to: F
+    45:
+      from: F
+      to: J1
+    46:
+      from: 3
+      to: T
+    47:
+      from: T
+      to: U
+    48:
+      from: U
+      to: V
+    49:
+      from: V
+      to: W
+    50:
+      from: V
+      to: X
+    51:
+      from: X
+      to: Y
+    52:
+      from: X
+      to: Z
+    53:
+      from: W
+      to: X
+    54:
+      from: F
+      to: U
+    55:
+      from: J2
+      to: V
+    56:
+      from: L
+      to: V
+    57:
+      from: 3
+      to: F
+    58:
+      from: U
+      to: J2
+    59:
+      from: null
+      to: 3
+  cells:
+    A:
+      name: 深海潜水艦隊 偵察哨戒線 II群
+      type:
+      boss: false
+      routes: [1]
+    A1:
+      name: 深海潜水艦隊 偵察哨戒線 I群
+      type:
+      boss: false
+      routes: [2, 8]
+    A2:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [3]
+    A3:
+      name: 深海任務部隊 前衛偵察部隊 A群
+      type:
+      boss: false
+      routes: [4]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [5, 9]
+    C:
+      name: 深海任務部隊 前衛偵察部隊 C群
+      type:
+      boss: false
+      routes: [6]
+    D:
+      name: 深海任務部隊 前衛偵察部隊 B群
+      type:
+      boss: false
+      routes: [7]
+    C1:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [10]
+    C2:
+      name: 深海任務部隊 サイパン砲撃隊 I群
+      type:
+      boss: false
+      routes: [11]
+    D1:
+      name: 深海潜水艦隊 偵察哨戒線 旗艦
+      type:
+      boss: false
+      routes: [12]
+    D2:
+      name: 深海任務部隊 サイパン砲撃隊 II群
+      type:
+      boss: false
+      routes: [13]
+    E:
+      name: 深海潜水艦隊 偵察哨戒線 III群
+      type:
+      boss: false
+      routes: [14]
+    F:
+      name: 深海任務部隊 支援巡洋艦戦隊
+      type:
+      boss: false
+      routes: [15, 44, 57]
+    F1:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [16, 19]
+    F2:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    G:
+      name: マリアナ方面 深海機動部隊主力
+      type:
+      boss: false
+      routes: [18]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    I:
+      name: 深海潜水艦隊 サイパン哨戒群
+      type:
+      boss: false
+      routes: [21]
+    I1:
+      name: 深海任務部隊 前縁北方哨戒群
+      type:
+      boss: false
+      routes: [22]
+    I2:
+      name: 
+      type:
+      boss: false
+      routes: [23]
+    I3:
+      name: 
+      type:
+      boss: false
+      routes: [24]
+    J:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [25, 43]
+    J1:
+      name: 深海任務部隊 前縁南方哨戒群
+      type:
+      boss: false
+      routes: [26, 45]
+    J2:
+      name: 深海潜水艦隊 マリアナ哨戒線 II群
+      type:
+      boss: false
+      routes: [27, 58]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [28, 33]
+    L:
+      name: 深海任務部隊 迎撃巡洋艦戦隊
+      type:
+      boss: false
+      routes: [29, 34, 35]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [30, 36]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [31]
+    O:
+      name: 深海任務部隊 ウェーキ封鎖艦隊
+      type:
+      boss: false
+      routes: [32]
+    P:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [38]
+    Q:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [39]
+    R:
+      name: 深海マーシャル泊地 警戒阻止線
+      type:
+      boss: false
+      routes: [40, 42]
+    S:
+      name: 深海マーシャル環礁泊地投錨艦隊
+      type:
+      boss: false
+      routes: [41]
+    T:
+      name: 深海潜水艦隊 マリアナ哨戒線 I群
+      type:
+      boss: false
+      routes: [46]
+    U:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [47, 54]
+    V:
+      name: 深海任務部隊 決戦艦隊 前衛集団
+      type:
+      boss: false
+      routes: [48, 55, 56]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [49]
+    X:
+      name: 深海任務部隊 空母艦載機群
+      type:
+      boss: false
+      routes: [50, 53]
+    Y:
+      name: 
+      type:
+      boss: false
+      routes: [51]
+    Z:
+      name: 深海任務部隊 決戦艦隊 旗艦集団
+      type:
+      boss: false
+      routes: [52]
+  image: MapHDE-4Spring2024.png
+---
