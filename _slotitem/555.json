@@ -3,34 +3,34 @@ layout: json
 order: 555
 data:
   id: 555
-  sort_no: 0
-  name: 深海水上攻撃機改
-  type: [5, 7, 11, 10, 0]
-  rare: 4
-  broken: [0, 0, 0, 0]
+  sort_no: 555
+  name: 18cm/57 三連装主砲
+  type: [1, 1, 2, 2, 0]
+  rare: 3
+  broken: [0, 3, 4, 1]
   info: 
   usebull: 0
   cost: 9
   distance: 8
   stats:
     taik: 0
-    souk: 0
-    houg: 0
+    souk: 1
+    houg: 9
     raig: 0
     soku: 0
-    baku: 13
-    tyku: 9
-    tais: 10
+    baku: 0
+    tyku: 2
+    tais: 0
     atap: 0
-    houm: 3
+    houm: 0
     raim: 0
     houk: 0
     raik: 0
     bakk: 0
-    saku: 7
+    saku: 0
     sakb: 0
     luck: 0
-    leng: 0
+    leng: 2
   improvement: 
   chinese_name: 深海水上攻击机改
 ---

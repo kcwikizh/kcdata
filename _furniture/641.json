@@ -11,5 +11,5 @@ data:
   saleflg: 1
   season: 
   filename: 
-  file_version: ""
+  file_version: 
 ---

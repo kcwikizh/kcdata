@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 644
+  type: 3
+  no: 148
+  title: 大井の超私物棚
+  description: 某艦娘の私物棚です。<br>改二改装後の彼女を秘書艦<br>にすると……やや警戒感の<br>強い彼女ですが、少しだけ<br>変化があるとかないとか。
+  rarity: 6
+  price: 255000
+  saleflg: 1
+  season: 
+  filename: 
+  file_version: ""
+---

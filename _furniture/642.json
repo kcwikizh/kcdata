@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 642
+  type: 1
+  no: 111
+  title: Valentine Sweets壁紙
+  description: 鎮守府中に甘い香りが漂う<br>季節にぴったりのスイーツ<br>柄のガーリーな壁紙です。<br>板チョコ型のデスクと組み<br>合わせるのもいいですね！
+  rarity: 2
+  price: 800
+  saleflg: 0
+  season: 
+  filename: 
+  file_version: ""
+---

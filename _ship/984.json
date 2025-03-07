@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 984
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 584
+  name: Wahoo
+  yomi: ワフー
+  stype: 13
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: ekkyjtzklhzq
-  file_version: ["1", "1", "1"]
+  backs: 6
+  after_lv: 50
+  after_ship_id: 989
+  get_mes: Meが潜水艦Wahoo。Gato classだよ。<br>哨戒任務なら任せとけ！狩りは得意さ。 ……え？北海道？<br>んー。Meはやめとくわ。
+  voice_f: 1
+  filename: yyadqhyopvhb
+  file_version: ["51", "19", "228"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [13, 18]
+    souk: [4, 20]
+    houg: [2, 12]
+    raig: [36, 75]
+    tyku: [0, 0]
+    luck: [13, 60]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 140
+    after_bull: 200
+    fuel_max: 10
+    bull_max: 20
+    broken: [1, 2, 2, 2]
+    pow_up: [0, 2, 0, 0]
+    build_time: 22
   graph:
-    boko_n: [0, 132]
-    boko_d: [0, 156]
-    kaisyu_n: [18, -12]
-    kaisyu_d: [36, -6]
-    kaizo_n: [-72, 36]
-    kaizo_d: [-72, 60]
-    map_n: [-48, 108]
-    map_d: [-48, 132]
-    ensyuf_n: [-72, 96]
-    ensyuf_d: [-72, 120]
-    ensyue_n: [-72, 0]
-    battle_n: [-36, 120]
-    battle_d: [-36, 144]
-    wed_a: [384, 60]
-    wed_b: [180, 180]
+    boko_n: [-47, 189]
+    boko_d: [-49, 166]
+    kaisyu_n: [22, 25]
+    kaisyu_d: [27, 53]
+    kaizo_n: [-33, 68]
+    kaizo_d: [-60, 13]
+    map_n: [-20, 158]
+    map_d: [-6, 91]
+    ensyuf_n: [-18, 154]
+    ensyuf_d: [-11, 56]
+    ensyue_n: [-20, 0]
+    battle_n: [11, 182]
+    battle_d: [20, 95]
+    wed_a: [368, -14]
+    wed_b: [104, 205]
   wiki_id: 
   chinese_name: 
   can_drop: false
