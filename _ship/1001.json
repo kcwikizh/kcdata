@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 1001
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 601
+  name: Киров
+  yomi: キーロフ
+  stype: 3
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: dkuhmujnaqtt
-  file_version: ["1", "1", "1"]
+  backs: 6
+  after_lv: 55
+  after_ship_id: 1006
+  get_mes: 貴公がАдмирал。よろしい！<br>Киров級軽巡洋艦キーロフ。<br>我の力も貴公らに貸そう。よろしく……頼む。
+  voice_f: 1
+  filename: sdvkjgofceam
+  file_version: ["51", "1", "228"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [31, 45]
+    souk: [23, 37]
+    houg: [30, 56]
+    raig: [14, 53]
+    tyku: [34, 72]
+    luck: [26, 86]
+    soku: 10
+    leng: 2
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 3
+    max_eq: [1, 1, 2, 0, 0]
+    after_fuel: 390
+    after_bull: 480
+    fuel_max: 30
+    bull_max: 45
+    broken: [3, 3, 13, 2]
+    pow_up: [2, 1, 2, 2]
+    build_time: 70
   graph:
-    boko_n: [42, 210]
-    boko_d: [78, 141]
-    kaisyu_n: [48, 0]
-    kaisyu_d: [48, 6]
-    kaizo_n: [-15, 96]
-    kaizo_d: [6, 42]
-    map_n: [36, 198]
-    map_d: [63, 132]
-    ensyuf_n: [30, 198]
-    ensyuf_d: [54, 129]
-    ensyue_n: [18, 0]
-    battle_n: [48, 213]
-    battle_d: [57, 144]
-    wed_a: [318, -24]
-    wed_b: [132, 168]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [-128, 139]
+    boko_d: [-89, 169]
+    kaisyu_n: [32, -7]
+    kaisyu_d: [32, -13]
+    kaizo_n: [-124, 27]
+    kaizo_d: [-86, 13]
+    map_n: [-104, 104]
+    map_d: [-72, 138]
+    ensyuf_n: [-100, 112]
+    ensyuf_d: [-71, 125]
+    ensyue_n: [-115, 0]
+    battle_n: [-67, 129]
+    battle_d: [-36, 166]
+    wed_a: [445, 19]
+    wed_b: [113, 202]
+  wiki_id: "601"
+  chinese_name: 基洛夫
   can_drop: false
   can_construct: false
 ---

@@ -3,31 +3,31 @@ layout: json
 order: 554
 data:
   id: 554
-  sort_no: 0
-  name: 深海水上攻撃機
-  type: [5, 7, 11, 10, 0]
-  rare: 2
-  broken: [0, 0, 0, 0]
+  sort_no: 554
+  name: 九七式艦攻改(北東海軍航空隊)
+  type: [3, 5, 8, 8, 1]
+  rare: 3
+  broken: [2, 3, 0, 4]
   info: 
   usebull: 0
-  cost: 9
-  distance: 8
+  cost: 5
+  distance: 4
   stats:
     taik: 0
     souk: 0
     houg: 0
-    raig: 0
+    raig: 6
     soku: 0
-    baku: 8
-    tyku: 4
-    tais: 8
+    baku: 0
+    tyku: 0
+    tais: 5
     atap: 0
-    houm: 1
+    houm: 0
     raim: 0
     houk: 0
     raik: 0
     bakk: 0
-    saku: 6
+    saku: 2
     sakb: 0
     luck: 0
     leng: 0

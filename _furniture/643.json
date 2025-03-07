@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 643
+  type: 2
+  no: 94
+  title: Mogadorの窓
+  description: トリコロールの国から来た<br>大型駆逐艦のために提督が<br>職人の力を借りて作った窓<br>です。もしかすると季節で<br>装いが少し…変わるかも？
+  rarity: 4
+  price: 2140
+  saleflg: 1
+  season: 
+  filename: 
+  file_version: ""
+---
