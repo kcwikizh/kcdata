@@ -1,0 +1,13 @@
+---
+layout: json
+order: 60
+data:
+  id: 60
+  name: 北海道防衛作戦/第二次礼号作戦
+  maps:
+    - 601
+    - 602
+    - 603
+  event: true
+  level: 4
+---

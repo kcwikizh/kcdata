@@ -1,0 +1,269 @@
+---
+layout: json
+order: 602
+data:
+  id: 602
+  name: 北海道北東沖/宗谷海峡沖
+  routes:
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: A1
+    3:
+      from: A
+      to: A2
+    4:
+      from: A2
+      to: B
+    5:
+      from: B
+      to: C
+    6:
+      from: B
+      to: D
+    7:
+      from: D
+      to: E
+    8:
+      from: E
+      to: F1
+    9:
+      from: E
+      to: F
+    10:
+      from: F
+      to: F2
+    11:
+      from: A1
+      to: A2
+    12:
+      from: C
+      to: G
+    13:
+      from: G
+      to: H
+    14:
+      from: H
+      to: I
+    15:
+      from: I
+      to: J
+    16:
+      from: I
+      to: K
+    17:
+      from: C
+      to: H
+    18:
+      from: H
+      to: L
+    19:
+      from: L
+      to: M
+    20:
+      from: M
+      to: N
+    21:
+      from: N
+      to: O
+    22:
+      from: N
+      to: P
+    23:
+      from: O
+      to: Q
+    24:
+      from: P
+      to: R
+    25:
+      from: Q
+      to: S
+    26:
+      from: R
+      to: T
+    27:
+      from: T
+      to: U
+    28:
+      from: H
+      to: M
+    29:
+      from: M
+      to: D
+    30:
+      from: P
+      to: F
+    31:
+      from: F
+      to: R
+    32:
+      from: 2
+      to: H
+    33:
+      from: 2
+      to: L
+    35:
+      from: Q
+      to: V
+    36:
+      from: V
+      to: V1
+    37:
+      from: V1
+      to: V2
+    38:
+      from: V1
+      to: W
+    39:
+      from: S
+      to: V
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    A1:
+      name: 深海潜水艦隊 択捉島沖哨戒群
+      type:
+      boss: false
+      routes: [2]
+    A2:
+      name: 深海極東方面 基地航空隊
+      type:
+      boss: false
+      routes: [3, 11]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    C:
+      name: 深海極東艦隊 高速巡洋艦戦隊
+      type:
+      boss: false
+      routes: [5]
+    D:
+      name: 深海極東艦隊 重巡洋艦戦隊
+      type:
+      boss: false
+      routes: [6, 29]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [7]
+    F1:
+      name: 深海極東艦隊 特殊遊撃部隊
+      type:
+      boss: false
+      routes: [8]
+    F:
+      name: 深海極東方面 基地航空隊
+      type:
+      boss: false
+      routes: [9, 30]
+    F2:
+      name: 深海任務部隊 極東艦隊支援 III群
+      type:
+      boss: false
+      routes: [10]
+    G:
+      name: 深海極東方面 基地航空隊
+      type:
+      boss: false
+      routes: [12]
+    H:
+      name: 深海潜水艦隊 千島列島阻止線
+      type:
+      boss: false
+      routes: [13, 17, 32]
+    I:
+      name: 極東艦隊支援 前衛空母群 II群
+      type:
+      boss: false
+      routes: [14]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [15]
+    K:
+      name: 深海任務部隊 極東艦隊支援 II群
+      type:
+      boss: false
+      routes: [16]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [18, 33]
+    M:
+      name: 極東艦隊支援 前衛空母群 I群
+      type:
+      boss: false
+      routes: [19, 28]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    O:
+      name: 深海極東方面 基地航空隊
+      type:
+      boss: false
+      routes: [21]
+    P:
+      name: 深海潜水艦隊 逆上陸警戒阻止線
+      type:
+      boss: false
+      routes: [22]
+    Q:
+      name: 深海潜水艦隊 樺太沖哨戒警戒線
+      type:
+      boss: false
+      routes: [23]
+    R:
+      name: 深海極東艦隊 北海道東部哨戒線
+      type:
+      boss: false
+      routes: [24, 31]
+    S:
+      name: 深海極東艦隊 北海道北部哨戒線
+      type:
+      boss: false
+      routes: [25]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [26]
+    U:
+      name: 深海任務部隊 極東艦隊支援 I群
+      type:
+      boss: false
+      routes: [27]
+    V:
+      name: 深海極東艦隊 宗谷沖機動部隊
+      type:
+      boss: false
+      routes: [35, 39]
+    V1:
+      name: 
+      type:
+      boss: false
+      routes: [36]
+    V2:
+      name: 
+      type:
+      boss: false
+      routes: [37]
+    W:
+      name: 深海極東艦隊 稚内上陸侵攻部隊
+      type:
+      boss: true
+      routes: [38]
+  image: MapHDE-2Spring2025.png
+---
