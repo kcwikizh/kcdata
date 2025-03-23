@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 987
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 587
+  name: 初雪改二
+  yomi: はつゆき
+  stype: 2
+  ctype: 12
+  cnum: 3
+  backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: okeofqfgwouo
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: phrpgbmbkcbo
+  file_version: ["51", "21", "322"]
+  book_table_id: [987]
+  book_sinfo: 特型駆逐艦…３番艦…初雪…です。<br>緒戦の作戦に…いっぱい参加しました…。<br>輸送任務とかも…ん…がんばる……。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [31, 49]
+    souk: [15, 50]
+    houg: [17, 59]
+    raig: [30, 86]
+    tyku: [37, 85]
+    luck: [18, 78]
+    soku: 10
+    leng: 1
+    kaih: 48
+    tais: 27
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 22
   graph:
-    boko_n: [0, 132]
-    boko_d: [0, 156]
-    kaisyu_n: [18, -12]
-    kaisyu_d: [36, -6]
-    kaizo_n: [-72, 36]
-    kaizo_d: [-72, 60]
-    map_n: [-48, 108]
-    map_d: [-48, 132]
-    ensyuf_n: [-72, 96]
-    ensyuf_d: [-72, 120]
-    ensyue_n: [-72, 0]
-    battle_n: [-36, 120]
-    battle_d: [-36, 144]
-    wed_a: [384, 60]
-    wed_b: [180, 180]
+    boko_n: [169, 142]
+    boko_d: [161, 131]
+    kaisyu_n: [118, 25]
+    kaisyu_d: [146, 29]
+    kaizo_n: [184, 34]
+    kaizo_d: [132, -14]
+    map_n: [197, 113]
+    map_d: [163, 106]
+    ensyuf_n: [190, 93]
+    ensyuf_d: [177, 83]
+    ensyue_n: [194, 0]
+    battle_n: [230, 134]
+    battle_d: [192, 125]
+    wed_a: [146, 31]
+    wed_b: [125, 208]
   wiki_id: 
   chinese_name: 
   can_drop: false

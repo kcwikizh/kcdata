@@ -8,7 +8,7 @@ data:
   description: 海軍基地航空隊を指揮する<br>提督のための執務机です。<br>作戦図面や作戦立案のため<br>の道具はもちろん、机上に<br>一式陸攻模型も標準装備。
   rarity: 5
   price: 4800
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "064"
   file_version: 2

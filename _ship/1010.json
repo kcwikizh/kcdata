@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 1010
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 610
+  name: Minneapolis改
+  yomi: ミネアポリス
+  stype: 5
   ctype: 
   cnum: 
-  backs: 
+  backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: cmksbgogwprf
-  file_version: ["1", "1", "1"]
+  get_mes: <br>
+  voice_f: 3
+  filename: jimldgofdvhl
+  file_version: ["51", "1", "313"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [54, 65]
+    souk: [42, 76]
+    houg: [45, 78]
+    raig: [0, 63]
+    tyku: [32, 79]
+    luck: [18, 92]
+    soku: 10
+    leng: 2
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
+    slot_num: 4
+    max_eq: [1, 1, 4, 2, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 40
+    bull_max: 65
+    broken: [2, 6, 18, 3]
+    pow_up: [2, 1, 1, 2]
+    build_time: 85
   graph:
-    boko_n: [48, 120]
-    boko_d: [198, 282]
-    kaisyu_n: [12, -24]
-    kaisyu_d: [120, -48]
-    kaizo_n: [6, 24]
-    kaizo_d: [120, 144]
-    map_n: [66, 108]
-    map_d: [204, 264]
-    ensyuf_n: [0, 108]
-    ensyuf_d: [180, 222]
-    ensyue_n: [6, 0]
-    battle_n: [60, 120]
-    battle_d: [222, 264]
-    wed_a: [312, 78]
-    wed_b: [96, 162]
+    boko_n: [-69, 202]
+    boko_d: [-10, 222]
+    kaisyu_n: [21, 9]
+    kaisyu_d: [45, 97]
+    kaizo_n: [-62, 91]
+    kaizo_d: [-18, 66]
+    map_n: [-45, 177]
+    map_d: [30, 199]
+    ensyuf_n: [-51, 174]
+    ensyuf_d: [23, 171]
+    ensyue_n: [-40, 0]
+    battle_n: [-17, 195]
+    battle_d: [67, 206]
+    wed_a: [397, -30]
+    wed_b: [109, 190]
   wiki_id: 
   chinese_name: 
   can_drop: false

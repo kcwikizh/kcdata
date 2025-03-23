@@ -6,17 +6,17 @@ data:
   name: Wahoo
   yomi: ワフー
   stype: 13
-  ctype: 
-  cnum: 
+  ctype: 114
+  cnum: 238
   backs: 6
   after_lv: 50
   after_ship_id: 989
   get_mes: Meが潜水艦Wahoo。Gato classだよ。<br>哨戒任務なら任せとけ！狩りは得意さ。 ……え？北海道？<br>んー。Meはやめとくわ。
   voice_f: 1
   filename: yyadqhyopvhb
-  file_version: ["51", "19", "228"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "19", "313"]
+  book_table_id: [984]
+  book_sinfo: Gato class潜水艦USS Wahoo。<br>Meのこと、知ってる？あ、そう。ま、いいけどさ。<br>警戒厳重な日本海にも侵入して戦果を何度も上げてい<br>る、こう見えてエースなんだ。宗谷岬…あそこは要塞<br>なんだな…水上機に海防艦も……油断した。<br>宗谷海峡に眠るUSS Wahoo、覚えてくれよ。
   stats:
     taik: [13, 18]
     souk: [4, 20]
@@ -26,8 +26,8 @@ data:
     luck: [13, 60]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 17
+    tais: 0
     slot_num: 1
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 140
@@ -55,6 +55,6 @@ data:
     wed_b: [104, 205]
   wiki_id: "584"
   chinese_name: 刺鲅
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

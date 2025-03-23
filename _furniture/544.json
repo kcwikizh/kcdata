@@ -8,7 +8,7 @@ data:
   description: 米国出身の巡洋艦娘たちが<br>日常的に使用している大型<br>ミラー付属のドレッサー。<br>それぞれの化粧道具や小物<br>が整理…されてはいない。
   rarity: 4
   price: 1980
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

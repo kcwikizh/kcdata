@@ -6,17 +6,17 @@ data:
   name: 大泊
   yomi: おおとまり
   stype: 22
-  ctype: 
-  cnum: 
+  ctype: 130
+  cnum: 1
   backs: 5
   after_lv: 55
   after_ship_id: 1000
   get_mes: ある悲劇をきっかけに日本で初めて建造された本格的な砕氷艦、<br>名前を「大泊」と申します。戦闘を目的とした艦ではありません<br>が、北方の漁業、航行、そして皆さんの生命をお護りします。
   voice_f: 1
   filename: loeakhqyilvu
-  file_version: ["51", "1", "228"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "313"]
+  book_table_id: [995]
+  book_sinfo: 砕氷艦、大泊と申します。北方で起きた悲劇を契機に、<br>北の冷たい氷の海を渡れる砕氷艦として日本で初めて<br>建造されました。大湊を起点に、北方海域で活動する<br>皆さんの支えとして、警備、救難、支援に努めました。<br>戦後はあの宗谷へと繋がっていきます。覚えていてく<br>ださいね。
   stats:
     taik: [20, 30]
     souk: [11, 31]
@@ -26,8 +26,8 @@ data:
     luck: [40, 80]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 14
+    tais: 12
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 330
@@ -55,6 +55,6 @@ data:
     wed_b: [101, 192]
   wiki_id: "595"
   chinese_name: 大泊
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

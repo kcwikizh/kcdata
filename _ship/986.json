@@ -14,14 +14,14 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: gyyynfzpqxbc
-  file_version: ["51", "19", "228"]
+  file_version: ["51", "19", "313"]
   book_table_id: [986]
   book_sinfo: 特型駆逐艦、２番艦、白雪です。<br>緒戦の数々の作戦に参加しました。<br>その後、増援の部隊を輸送する第八十一号作戦に護衛<br>隊旗艦として参加致しました。
   stats:
     taik: [31, 49]
-    souk: [14, 50]
+    souk: [14, 51]
     houg: [15, 58]
-    raig: [30, 86]
+    raig: [30, 87]
     tyku: [36, 83]
     luck: [17, 77]
     soku: 10
