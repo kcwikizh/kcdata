@@ -8,7 +8,7 @@ data:
   description: 第七駆逐隊メンバーの私物<br>や装備の一部を置く特注の<br>棚です。七駆のペットたち<br>もお気に入り？季節ごとに<br>少しだけ変わる…たぶん！
   rarity: 5
   price: 2700
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

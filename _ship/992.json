@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 992
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 592
+  name: 杉
+  yomi: すぎ
+  stype: 2
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: kbqrrlbumtgd
-  file_version: ["1", "1", "1"]
+  backs: 5
+  after_lv: 46
+  after_ship_id: 997
+  get_mes: 提督、丁型の杉、着任したぜ。<br>あたしが来たからには、艦隊はもう万全だな。<br>……なんつってな！　いってみたかったのさ。
+  voice_f: 1
+  filename: rpuupqptsmnz
+  file_version: ["51", "1", "313"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [14, 27]
+    souk: [5, 22]
+    houg: [5, 24]
+    raig: [16, 66]
+    tyku: [22, 63]
+    luck: [16, 73]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 180
+    after_bull: 190
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 1, 0]
+    build_time: 14
   graph:
-    boko_n: [-36, 84]
-    boko_d: [204, 108]
-    kaisyu_n: [72, 0]
-    kaisyu_d: [96, 12]
-    kaizo_n: [0, 48]
-    kaizo_d: [96, 12]
-    map_n: [-48, 96]
-    map_d: [72, 72]
-    ensyuf_n: [-24, 48]
-    ensyuf_d: [168, 48]
-    ensyue_n: [-72, 0]
-    battle_n: [0, 96]
-    battle_d: [96, 84]
-    wed_a: [384, 108]
-    wed_b: [216, 168]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [97, 49]
+    boko_d: [87, 148]
+    kaisyu_n: [66, -30]
+    kaisyu_d: [81, 36]
+    kaizo_n: [93, -61]
+    kaizo_d: [89, -15]
+    map_n: [121, 14]
+    map_d: [90, 110]
+    ensyuf_n: [117, -2]
+    ensyuf_d: [112, 75]
+    ensyue_n: [102, 0]
+    battle_n: [149, 26]
+    battle_d: [137, 121]
+    wed_a: [233, 135]
+    wed_b: [103, 204]
+  wiki_id: "592"
+  chinese_name: 杉
   can_drop: false
   can_construct: false
 ---

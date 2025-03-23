@@ -6,17 +6,17 @@ data:
   name: Киров
   yomi: キーロフ
   stype: 3
-  ctype: 
-  cnum: 
+  ctype: 131
+  cnum: 1
   backs: 6
   after_lv: 55
   after_ship_id: 1006
   get_mes: 貴公がАдмирал。よろしい！<br>Киров級軽巡洋艦キーロフ。<br>我の力も貴公らに貸そう。よろしく……頼む。
   voice_f: 1
   filename: sdvkjgofceam
-  file_version: ["51", "1", "228"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "313"]
+  book_table_id: [1001]
+  book_sinfo: 北の国の海軍でイタリアの技術を導入して建造された、<br>キーロフ級巡洋艦、その一番艦だ。ソ連邦新時代の巡<br>洋艦として建造され、バルチック艦隊に配備、レニン<br>グラード防戦では陸軍を支援して、その防衛に貢献す<br>ることになる。対地砲撃が多かった艦生だったな。
   stats:
     taik: [31, 45]
     souk: [23, 37]
@@ -26,8 +26,8 @@ data:
     luck: [26, 86]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 32
+    tais: 15
     slot_num: 3
     max_eq: [1, 1, 2, 0, 0]
     after_fuel: 390

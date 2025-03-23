@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 1003
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 603
+  name: しまね丸
+  yomi: しまねまる
+  stype: 22
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: ygpdofmolinv
-  file_version: ["1", "1", "1"]
+  backs: 5
+  after_lv: 60
+  after_ship_id: 1008
+  get_mes: 私、1TL型戦時標準船、しまね丸！　じゃなかった……<br>特1TL型特設航空母艦、しまね丸です！　船団護衛用の<br>特別な艦なの！　提督、あたし、働きたい、ですっ！
+  voice_f: 1
+  filename: kvyrbjlicjby
+  file_version: ["51", "1", "313"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [39, 51]
+    souk: [9, 23]
+    houg: [6, 26]
+    raig: [0, 0]
+    tyku: [16, 30]
+    luck: [11, 61]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [10, 4, 0, 0, 0]
+    after_fuel: 280
+    after_bull: 70
+    fuel_max: 40
+    bull_max: 20
+    broken: [1, 1, 11, 2]
+    pow_up: [1, 0, 1, 0]
+    build_time: 12
   graph:
-    boko_n: [63, 171]
-    boko_d: [48, 180]
-    kaisyu_n: [30, -9]
-    kaisyu_d: [60, -12]
-    kaizo_n: [75, 87]
-    kaizo_d: [54, 36]
-    map_n: [60, 105]
-    map_d: [60, 150]
-    ensyuf_n: [153, 147]
-    ensyuf_d: [72, 90]
-    ensyue_n: [84, 0]
-    battle_n: [63, 147]
-    battle_d: [78, 168]
-    wed_a: [228, 30]
-    wed_b: [168, 204]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [14, 221]
+    boko_d: [-12, 195]
+    kaisyu_n: [27, 75]
+    kaisyu_d: [30, 73]
+    kaizo_n: [30, 104]
+    kaizo_d: [-48, 26]
+    map_n: [-25, 188]
+    map_d: [-18, 146]
+    ensyuf_n: [5, 174]
+    ensyuf_d: [-39, 128]
+    ensyue_n: [0, 0]
+    battle_n: [28, 200]
+    battle_d: [-3, 167]
+    wed_a: [311, -45]
+    wed_b: [140, 219]
+  wiki_id: "603"
+  chinese_name: 岛根丸
   can_drop: false
   can_construct: false
 ---

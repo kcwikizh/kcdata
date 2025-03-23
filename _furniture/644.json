@@ -8,8 +8,8 @@ data:
   description: 某艦娘の私物棚です。<br>改二改装後の彼女を秘書艦<br>にすると……やや警戒感の<br>強い彼女ですが、少しだけ<br>変化があるとかないとか。
   rarity: 6
   price: 255000
-  saleflg: 1
+  saleflg: 0
   season: 
   filename: 
-  file_version: ""
+  file_version: 
 ---
