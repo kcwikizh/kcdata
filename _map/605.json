@@ -1,0 +1,377 @@
+---
+layout: json
+order: 605
+data:
+  id: 605
+  name: ミンドロ島沖/キャビテ沖/サンホセ沖
+  routes:
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: B1
+    4:
+      from: B
+      to: B2
+    5:
+      from: 1
+      to: C
+    6:
+      from: C
+      to: D
+    7:
+      from: D
+      to: D1
+    8:
+      from: D1
+      to: D2
+    9:
+      from: D
+      to: E
+    10:
+      from: E
+      to: E1
+    11:
+      from: E
+      to: E2
+    12:
+      from: E2
+      to: F
+    13:
+      from: F
+      to: F1
+    14:
+      from: F
+      to: F2
+    15:
+      from: D1
+      to: E
+    16:
+      from: E1
+      to: E2
+    17:
+      from: B2
+      to: G
+    18:
+      from: G
+      to: H
+    19:
+      from: H
+      to: I
+    20:
+      from: I
+      to: J1
+    21:
+      from: I
+      to: J
+    22:
+      from: J
+      to: J2
+    23:
+      from: J
+      to: K
+    24:
+      from: J1
+      to: J
+    25:
+      from: B1
+      to: H
+    26:
+      from: 2
+      to: L
+    27:
+      from: L
+      to: M
+    28:
+      from: M
+      to: N
+    29:
+      from: N
+      to: O
+    30:
+      from: N
+      to: P
+    31:
+      from: P
+      to: P1
+    32:
+      from: P
+      to: P2
+    33:
+      from: P2
+      to: Q
+    34:
+      from: P2
+      to: R
+    35:
+      from: R
+      to: S
+    36:
+      from: R
+      to: T
+    37:
+      from: O
+      to: P
+    38:
+      from: P1
+      to: P2
+    39:
+      from: Q
+      to: R
+    41:
+      from: M
+      to: U
+    42:
+      from: M
+      to: U1
+    43:
+      from: U1
+      to: U2
+    44:
+      from: U
+      to: U3
+    45:
+      from: U2
+      to: V
+    46:
+      from: V
+      to: W
+    47:
+      from: U3
+      to: X
+    48:
+      from: P2
+      to: Y
+    49:
+      from: R
+      to: Z
+    50:
+      from: U2
+      to: U3
+    51:
+      from: V
+      to: U3
+    52:
+      from: N
+      to: U2
+    53:
+      from: U1
+      to: N
+    54:
+      from: X
+      to: P2
+    55:
+      from: Y
+      to: R
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    B1:
+      name: 深海任務部隊 偵察駆逐戦隊α群
+      type:
+      boss: false
+      routes: [3]
+    B2:
+      name: 深海任務部隊 偵察駆逐戦隊β群
+      type:
+      boss: false
+      routes: [4]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [5]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    D1:
+      name: 深海ミンドロ島 基地航空隊
+      type:
+      boss: false
+      routes: [7]
+    D2:
+      name: 深海任務部隊 前衛警戒戦隊γ群
+      type:
+      boss: false
+      routes: [8]
+    E:
+      name: 深海任務部隊 前衛展開遊撃隊
+      type:
+      boss: false
+      routes: [9, 15]
+    E1:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    E2:
+      name: 深海潜水艦隊 哨戒線 VI群
+      type:
+      boss: false
+      routes: [11, 16]
+    F:
+      name: 深海ミンドロ島 基地航空隊
+      type:
+      boss: false
+      routes: [12]
+    F1:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    F2:
+      name: 深海任務部隊 前衛警戒戦隊δ群
+      type:
+      boss: false
+      routes: [14]
+    G:
+      name: 深海ミンドロ島 基地航空隊
+      type:
+      boss: false
+      routes: [17]
+    H:
+      name: 深海潜水艦隊 哨戒線 I群
+      type:
+      boss: false
+      routes: [18, 25]
+    I:
+      name: 深海任務部隊 キャビテ増援阻止線
+      type:
+      boss: false
+      routes: [19]
+    J1:
+      name: 深海ミンドロ島 基地航空隊
+      type:
+      boss: false
+      routes: [20]
+    J:
+      name: 
+      type:
+      boss: false
+      routes: [21, 24]
+    J2:
+      name: 
+      type:
+      boss: false
+      routes: [22]
+    K:
+      name: 深海任務部隊 キャビテ待伏戦隊
+      type:
+      boss: false
+      routes: [23]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [26]
+    M:
+      name: 深海任務部隊 高速偵察雷撃隊
+      type:
+      boss: false
+      routes: [27]
+    N:
+      name: 深海潜水艦隊 哨戒線 III群
+      type:
+      boss: false
+      routes: [28, 53]
+    O:
+      name: 深海ミンドロ島 基地航空隊
+      type:
+      boss: false
+      routes: [29]
+    P:
+      name: 深海ミンドロ島 基地航空隊
+      type:
+      boss: false
+      routes: [30, 37]
+    P1:
+      name: 深海ミンドロ島 基地航空隊
+      type:
+      boss: false
+      routes: [31]
+    P2:
+      name: 
+      type:
+      boss: false
+      routes: [32, 38, 54]
+    Q:
+      name: 深海ミンドロ島 進出航空隊 飛行場
+      type:
+      boss: false
+      routes: [33]
+    R:
+      name: 深海任務部隊 迎撃緊急出撃集団
+      type:
+      boss: false
+      routes: [34, 39, 55]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [35]
+    T:
+      name: 深海ミンドロ島 輸送船団泊地
+      type:
+      boss: false
+      routes: [36]
+    U:
+      name: 深海潜水艦隊 哨戒線 II群
+      type:
+      boss: false
+      routes: [41]
+    U1:
+      name: 深海ミンドロ島 基地航空隊
+      type:
+      boss: false
+      routes: [42]
+    U2:
+      name: 深海潜水艦隊 哨戒線 IV群
+      type:
+      boss: false
+      routes: [43, 52]
+    U3:
+      name: 深海ミンドロ島 基地航空隊
+      type:
+      boss: false
+      routes: [44, 50, 51]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [45]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [46]
+    X:
+      name: 深海ミンドロ島配備 魚雷艇部隊
+      type:
+      boss: false
+      routes: [47]
+    Y:
+      name: 深海ミンドロ島 基地航空隊
+      type:
+      boss: false
+      routes: [48]
+    Z:
+      name: 深海ミンドロ島 サンホセ集積地
+      type:
+      boss: true
+      routes: [49]
+  image: MapHDE-5Spring2025.png
+---

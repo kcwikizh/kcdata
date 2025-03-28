@@ -1,0 +1,253 @@
+---
+layout: json
+order: 604
+data:
+  id: 604
+  name: カムラン湾沖/昭南方面航路/南シナ海
+  routes:
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: A
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: D
+      to: F
+    7:
+      from: F
+      to: F1
+    8:
+      from: F1
+      to: F2
+    9:
+      from: E
+      to: G
+    10:
+      from: G
+      to: G1
+    11:
+      from: G1
+      to: G2
+    12:
+      from: G
+      to: H
+    13:
+      from: F
+      to: G
+    14:
+      from: G1
+      to: I
+    15:
+      from: I
+      to: J
+    16:
+      from: I
+      to: K
+    17:
+      from: I
+      to: L
+    18:
+      from: J
+      to: L
+    19:
+      from: G2
+      to: I
+    20:
+      from: H
+      to: M
+    21:
+      from: M
+      to: N
+    22:
+      from: M
+      to: O
+    23:
+      from: O
+      to: P
+    24:
+      from: P
+      to: Q
+    25:
+      from: P
+      to: R
+    26:
+      from: N
+      to: O
+    27:
+      from: B
+      to: S
+    28:
+      from: S
+      to: T
+    29:
+      from: T
+      to: U
+    30:
+      from: U
+      to: V
+    31:
+      from: U
+      to: W
+    32:
+      from: D
+      to: S
+    33:
+      from: B
+      to: T
+    34:
+      from: C
+      to: U
+    35:
+      from: C
+      to: W
+    36:
+      from: T
+      to: C
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海潜水艦隊 カムラン湾沖哨戒群
+      type:
+      boss: false
+      routes: [3, 36]
+    D:
+      name: 深海任務部隊 南沙前衛水雷戦隊
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    F1:
+      name: 深海潜水艦隊 南沙諸島哨戒 III群
+      type:
+      boss: false
+      routes: [7]
+    F2:
+      name: 深海任務部隊 南沙前衛偵察戦隊
+      type:
+      boss: false
+      routes: [8]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [9, 13]
+    G1:
+      name: 深海潜水艦隊 南沙諸島哨戒 I群
+      type:
+      boss: false
+      routes: [10]
+    G2:
+      name: 深海潜水艦隊 南沙諸島哨戒 II群
+      type:
+      boss: false
+      routes: [11]
+    H:
+      name: 深海潜水艦隊 通商破壊部隊 I群
+      type:
+      boss: false
+      routes: [12]
+    I:
+      name: 深海任務部隊 機動部隊I群 前衛群
+      type:
+      boss: false
+      routes: [14, 19]
+    J:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [15]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [16]
+    L:
+      name: 深海任務部隊 機動部隊I群
+      type:
+      boss: false
+      routes: [17, 18]
+    M:
+      name: 深海任務部隊 機動部隊II群 前衛群
+      type:
+      boss: false
+      routes: [20]
+    N:
+      name: 深海潜水艦隊 通商破壊部隊 II群
+      type:
+      boss: false
+      routes: [21]
+    O:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [22, 26]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [23]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [24]
+    R:
+      name: 深海任務部隊 機動部隊II群
+      type:
+      boss: false
+      routes: [25]
+    S:
+      name: 深海潜水艦隊 南沙諸島哨戒 IV群
+      type:
+      boss: false
+      routes: [27, 32]
+    T:
+      name: 深海任務部隊 浸透駆逐戦隊
+      type:
+      boss: false
+      routes: [28, 33]
+    U:
+      name: 深海任務部隊 浸透重巡戦隊
+      type:
+      boss: false
+      routes: [29, 34]
+    V:
+      name: 
+      type:
+      boss: false
+      routes: [30]
+    W:
+      name: 深海任務部隊 南沙浸透戦隊主力
+      type:
+      boss: true
+      routes: [31, 35]
+  image: MapHDE-4Spring2025.png
+---

@@ -1,0 +1,336 @@
+---
+layout: json
+order: 606
+data:
+  id: 606
+  name: 南沙諸島沖/カムラン湾沖
+  routes:
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: A
+      to: C
+    4:
+      from: D
+      to: C1
+    5:
+      from: B
+      to: C2
+    6:
+      from: C
+      to: D
+    7:
+      from: D
+      to: E
+    8:
+      from: D
+      to: F
+    9:
+      from: C2
+      to: D
+    10:
+      from: E
+      to: F
+    11:
+      from: 2
+      to: G
+    12:
+      from: G
+      to: H
+    13:
+      from: C2
+      to: I
+    14:
+      from: G
+      to: J
+    15:
+      from: J
+      to: J1
+    16:
+      from: J
+      to: J2
+    17:
+      from: J
+      to: J3
+    18:
+      from: J3
+      to: J4
+    19:
+      from: J2
+      to: K
+    20:
+      from: K
+      to: L
+    21:
+      from: J3
+      to: M
+    22:
+      from: J1
+      to: J2
+    23:
+      from: J2
+      to: J3
+    24:
+      from: K
+      to: J3
+    25:
+      from: J4
+      to: M
+    26:
+      from: D
+      to: C2
+    27:
+      from: E
+      to: C2
+    28:
+      from: H
+      to: C2
+    29:
+      from: E
+      to: D
+    30:
+      from: H
+      to: E
+    32:
+      from: M
+      to: N
+    33:
+      from: N
+      to: O1
+    34:
+      from: N
+      to: O2
+    35:
+      from: N
+      to: O
+    36:
+      from: O1
+      to: O2
+    37:
+      from: O1
+      to: O
+    38:
+      from: J2
+      to: P
+    39:
+      from: L
+      to: Q
+    40:
+      from: P
+      to: R
+    41:
+      from: R
+      to: S
+    42:
+      from: R
+      to: T
+    43:
+      from: T
+      to: U
+    44:
+      from: T
+      to: V
+    45:
+      from: Q
+      to: R
+    46:
+      from: 3
+      to: J
+    48:
+      from: S
+      to: W
+    49:
+      from: W
+      to: X
+    50:
+      from: X
+      to: Y
+    51:
+      from: X
+      to: Z
+    52:
+      from: S
+      to: X
+    53:
+      from: J1
+      to: P
+    54:
+      from: J1
+      to: R
+  cells:
+    A:
+      name: 深海任務部隊 追撃集団 第III群
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海潜水艦隊 南沙沖展開群 A線
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    C1:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    C2:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [5, 26, 27, 28]
+    D:
+      name: 深海任務部隊 追撃集団 第II群
+      type:
+      boss: false
+      routes: [6, 9, 29]
+    E:
+      name: 深海潜水艦隊 南沙沖展開群 B線
+      type:
+      boss: false
+      routes: [7, 30]
+    F:
+      name: 深海任務部隊 追撃集団 第I群
+      type:
+      boss: false
+      routes: [8, 10]
+    G:
+      name: 
+      type:
+      boss: false
+      routes: [11]
+    H:
+      name: 深海任務部隊 先行偵察集団
+      type:
+      boss: false
+      routes: [12]
+    I:
+      name: 深海任務部隊 追撃集団 増援群
+      type:
+      boss: false
+      routes: [13]
+    J:
+      name: 深海潜水艦隊 前方展開哨戒群
+      type:
+      boss: false
+      routes: [14, 46]
+    J1:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [15]
+    J2:
+      name: 深海任務部隊 強行威力偵察集団
+      type:
+      boss: false
+      routes: [16, 22]
+    J3:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [17, 23, 24]
+    J4:
+      name: 
+      type:
+      boss: false
+      routes: [18]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [19]
+    L:
+      name: 深海任務部隊 南方前衛水雷戦隊
+      type:
+      boss: false
+      routes: [20]
+    M:
+      name: 深海任務部隊 随伴護衛空母群
+      type:
+      boss: false
+      routes: [21, 25]
+    N:
+      name: 深海任務部隊 随伴火力支援群
+      type:
+      boss: false
+      routes: [32]
+    O1:
+      name: 
+      type:
+      boss: false
+      routes: [33]
+    O2:
+      name: 
+      type:
+      boss: false
+      routes: [34, 36]
+    O:
+      name: 深海任務部隊 南シナ海制圧艦隊
+      type:
+      boss: false
+      routes: [35, 37]
+    P:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [38, 53]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [39]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [40, 45, 54]
+    S:
+      name: 深海任務部隊 高速火力打撃集団
+      type:
+      boss: false
+      routes: [41]
+    T:
+      name: 深海任務部隊 第二艦隊前衛集団
+      type:
+      boss: false
+      routes: [42]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [43]
+    V:
+      name: 深海任務部隊 追撃集団第二艦隊
+      type:
+      boss: false
+      routes: [44]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [48]
+    X:
+      name: 深海任務部隊 亡霊水雷戦隊
+      type:
+      boss: false
+      routes: [49, 52]
+    Y:
+      name: 
+      type:
+      boss: false
+      routes: [50]
+    Z:
+      name: 深海任務部隊 追撃艦隊旗艦戦隊
+      type:
+      boss: true
+      routes: [51]
+  image: MapHDE-6Spring2025.png
+---
