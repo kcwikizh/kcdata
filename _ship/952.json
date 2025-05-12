@@ -14,7 +14,7 @@ data:
   get_mes: Hi! Brooklyn級のPhoenixさまよ!<br>そう、あたしこそが不死鳥のPhoenixってわけ!<br>あ、ちっこい不死鳥じゃないからね! OK?
   voice_f: 1
   filename: cbrpxngutbud
-  file_version: ["51", "1", "313"]
+  file_version: ["51", "1", "512"]
   book_table_id: [952, 734]
   book_sinfo: Hi! Brooklyn級軽巡のPhoenixさ。真珠湾やあの海峡、<br>太平洋戦域で戦ったよ。マジで。でね、戦いが終わっ<br>て退役した後、売却されてヘネラル・ベルグラノって<br>名前になって…最期はフォークランド諸島の紛争って<br>わけ。あたしのこと、その色々、知っていて。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [119, 204]
   wiki_id: "552"
   chinese_name: 凤凰城
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

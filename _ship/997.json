@@ -6,17 +6,17 @@ data:
   name: 杉改
   yomi: すぎ
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 101
+  cnum: 7
   backs: 6
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: fpqlzkbxlkhs
-  file_version: ["51", "1", "313"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "512"]
+  book_table_id: [997]
+  book_sinfo: 松型…ま、丁型でいっか、駆逐艦、杉だ。あの大戦後<br>期に生まれたけれど、結構いろンな作戦に参加したぜ。<br>中でも礼号作戦、あれは忘れねぇ。戦局はもう最低の<br>最低だったけど、それでも小さな小さな勝利は掴み<br>とった。後は皆、繋いでくれよ？頼んだぜ。
   stats:
     taik: [27, 45]
     souk: [12, 56]
@@ -26,8 +26,8 @@ data:
     luck: [20, 81]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 34
+    tais: 32
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
