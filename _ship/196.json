@@ -14,22 +14,22 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: gbxvfsrqbyxg
-  file_version: ["16", "17", "313"]
+  file_version: ["16", "17", "512"]
   book_table_id: [196]
   book_sinfo: 飛龍型航空母艦、飛龍です。<br>…ん？蒼龍型改じゃないかって？いいじゃん、そんなこと。それより、索敵は大切にねッ。<br>空母戦は先手必勝！慢心はダメ、ゼッタイ。<br>慎重に、そして、大胆に戦い抜こうよ！
   stats:
     taik: [67, 89]
     souk: [37, 76]
-    houg: [0, 67]
+    houg: [0, 69]
     raig: [0, 0]
     tyku: [33, 82]
-    luck: [50, 93]
+    luck: [53, 98]
     soku: 10
     leng: 1
     kaih: 40
     tais: 0
     slot_num: 4
-    max_eq: [18, 36, 23, 4, 0]
+    max_eq: [18, 36, 25, 4, 0]
     after_fuel: 
     after_bull: 
     fuel_max: 70

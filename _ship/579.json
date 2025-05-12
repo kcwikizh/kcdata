@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: qauiuewvdpnz
-  file_version: ["115", "4", "313"]
+  file_version: ["117", "4", "512"]
   book_table_id: [579]
   book_sinfo: スウェーデン生まれの航空巡洋艦、ゴトランドです。<br>皆さん、よろしくお願いしますね。<br>軽巡クラスなんです、私！　だから、あまり搭載機も<br>多くはないし、カタパルトも一基。…予算がね。うう<br>ん、いいの！　艤装は最高よ。現代にも繋がる我がス<br>ウェーデンの兵装技術、ね、覚えてて。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 3, 1]
     build_time: 60
   graph:
-    boko_n: [114, 268]
-    boko_d: [145, 241]
+    boko_n: [180, 226]
+    boko_d: [-67, 251]
     kaisyu_n: [16, -6]
     kaisyu_d: [10, 25]
-    kaizo_n: [127, 91]
-    kaizo_d: [127, 76]
-    map_n: [136, 192]
-    map_d: [160, 195]
-    ensyuf_n: [148, 190]
-    ensyuf_d: [154, 193]
-    ensyue_n: [132, 0]
-    battle_n: [180, 225]
-    battle_d: [207, 222]
-    wed_a: [195, -25]
-    wed_b: [108, 171]
+    kaizo_n: [202, 94]
+    kaizo_d: [-53, 71]
+    map_n: [225, 207]
+    map_d: [-59, 206]
+    ensyuf_n: [231, 187]
+    ensyuf_d: [-36, 185]
+    ensyue_n: [210, 0]
+    battle_n: [257, 220]
+    battle_d: [-4, 223]
+    wed_a: [121, -43]
+    wed_b: [109, 187]
   wiki_id: "379"
   chinese_name: 哥特兰改
   can_drop: false

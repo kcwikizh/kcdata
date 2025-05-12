@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 942
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 542
+  name: Richard P.Leary
+  yomi: リチャード・P・リアリー
+  stype: 2
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: ptdxmthckjut
-  file_version: ["1", "1", "1"]
+  backs: 5
+  after_lv: 55
+  after_ship_id: 737
+  get_mes: Hi！ 待ってた？ 私がFletcher級駆逐艦<br>Richard Phillips Learyよ！<br>Learyでいいわ！ よろしくねっ！
+  voice_f: 1
+  filename: zpotllltncez
+  file_version: ["51", "1", "512"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [17, 35]
+    souk: [7, 20]
+    houg: [12, 30]
+    raig: [20, 62]
+    tyku: [32, 63]
+    luck: [19, 79]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 180
+    after_bull: 270
+    fuel_max: 20
+    bull_max: 20
+    broken: [1, 2, 7, 2]
+    pow_up: [1, 1, 2, 1]
+    build_time: 23
   graph:
-    boko_n: [168, 192]
-    boko_d: [180, 276]
-    kaisyu_n: [25, 22]
-    kaisyu_d: [42, 10]
-    kaizo_n: [96, 84]
-    kaizo_d: [72, 120]
-    map_n: [96, 120]
-    map_d: [132, 216]
-    ensyuf_n: [150, 108]
-    ensyuf_d: [120, 204]
-    ensyue_n: [84, 0]
-    battle_n: [120, 144]
-    battle_d: [144, 216]
-    wed_a: [198, 72]
-    wed_b: [198, 156]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [118, 221]
+    boko_d: [56, 311]
+    kaisyu_n: [105, 70]
+    kaisyu_d: [107, 102]
+    kaizo_n: [138, 99]
+    kaizo_d: [75, 110]
+    map_n: [163, 180]
+    map_d: [179, 215]
+    ensyuf_n: [188, 175]
+    ensyuf_d: [196, 174]
+    ensyue_n: [176, 0]
+    battle_n: [207, 200]
+    battle_d: [217, 231]
+    wed_a: [151, -37]
+    wed_b: [119, 219]
+  wiki_id: "542"
+  chinese_name: 理查德·P·利里
   can_drop: false
   can_construct: false
 ---

@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 983
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 583
+  name: 浜波改二
+  yomi: はまなみ
+  stype: 2
+  ctype: 38
+  cnum: 13
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: ooexvnlcngeq
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: ioplspvwidls
+  file_version: ["51", "1", "512"]
+  book_table_id: [983]
+  book_sinfo: あ、あたし…夕雲型駆逐艦…十三番艦…浜波…です。<br>夕雲型の四隻と…三二駆を編成しました……。戦いの<br>中で…一隻一隻いなくなって…最期はなっちゃん達の<br>三一駆と一緒に…いきました。あの海は…怖い…。敵<br>の飛行機の群れも…こ…怖い…。怖い…です…。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [33, 56]
+    souk: [15, 53]
+    houg: [18, 63]
+    raig: [30, 89]
+    tyku: [28, 80]
+    luck: [22, 89]
+    soku: 10
+    leng: 1
+    kaih: 46
+    tais: 30
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 24
   graph:
-    boko_n: [108, 174]
-    boko_d: [48, 264]
-    kaisyu_n: [0, 0]
-    kaisyu_d: [36, -12]
-    kaizo_n: [54, 78]
-    kaizo_d: [-24, 84]
-    map_n: [72, 114]
-    map_d: [12, 216]
-    ensyuf_n: [78, 114]
-    ensyuf_d: [36, 192]
-    ensyue_n: [54, 0]
-    battle_n: [108, 138]
-    battle_d: [48, 216]
-    wed_a: [234, 72]
-    wed_b: [180, 168]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [152, 165]
+    boko_d: [81, 206]
+    kaisyu_n: [102, 39]
+    kaisyu_d: [87, 83]
+    kaizo_n: [146, 47]
+    kaizo_d: [65, 52]
+    map_n: [175, 134]
+    map_d: [103, 169]
+    ensyuf_n: [173, 125]
+    ensyuf_d: [106, 159]
+    ensyue_n: [177, 0]
+    battle_n: [202, 149]
+    battle_d: [130, 183]
+    wed_a: [174, 20]
+    wed_b: [113, 205]
+  wiki_id: "583"
+  chinese_name: 滨波改二
   can_drop: false
   can_construct: false
 ---

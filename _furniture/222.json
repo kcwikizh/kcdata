@@ -8,7 +8,7 @@ data:
   description: 提督の皆さんに頂いたリク<br>エストで実装された新配置<br>型ジュークボックスです。<br>家具コイン投入で、楽曲の<br>リクエストが可能です。
   rarity: 5
   price: 8000
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: "035"
   file_version: 1
