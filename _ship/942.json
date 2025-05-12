@@ -53,8 +53,8 @@ data:
     battle_d: [217, 231]
     wed_a: [151, -37]
     wed_b: [119, 219]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "542"
+  chinese_name: 理查德·P·利里
   can_drop: false
   can_construct: false
 ---
