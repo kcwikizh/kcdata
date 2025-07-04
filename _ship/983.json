@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ioplspvwidls
-  file_version: ["51", "1", "512"]
-  book_table_id: [983]
+  file_version: ["99", "1", "627"]
+  book_table_id: [983, 6001, 5988]
   book_sinfo: あ、あたし…夕雲型駆逐艦…十三番艦…浜波…です。<br>夕雲型の四隻と…三二駆を編成しました……。戦いの<br>中で…一隻一隻いなくなって…最期はなっちゃん達の<br>三一駆と一緒に…いきました。あの海は…怖い…。敵<br>の飛行機の群れも…こ…怖い…。怖い…です…。
   stats:
     taik: [33, 56]

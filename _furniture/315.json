@@ -8,7 +8,7 @@ data:
   description: 和でシンプルにいきたい！<br>そんなわびさびの心に重き<br>を置く提督のために用意さ<br>れた提督専用座布団です。<br>座椅子付仕様で少し贅沢！
   rarity: 3
   price: 1500
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "067"
   file_version: 2

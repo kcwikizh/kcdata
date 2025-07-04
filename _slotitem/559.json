@@ -3,28 +3,28 @@ layout: json
 order: 559
 data:
   id: 559
-  sort_no: 0
-  name: 深海FCS+CIC
-  type: [7, 10, 14, 18, 0]
-  rare: 3
-  broken: [0, 0, 0, 0]
+  sort_no: 559
+  name: Ju87 D-4(Fliegerass)
+  type: [3, 5, 8, 8, 59]
+  rare: 4
+  broken: [2, 5, 0, 6]
   info: 
   usebull: 0
-  cost: 9
-  distance: 8
+  cost: 6
+  distance: 4
   stats:
     taik: 0
     souk: 0
-    houg: 0
-    raig: 0
+    houg: 4
+    raig: 7
     soku: 0
     baku: 0
-    tyku: 6
-    tais: 20
+    tyku: 1
+    tais: 7
     atap: 0
-    houm: 5
+    houm: 3
     raim: 0
-    houk: 3
+    houk: 0
     raik: 0
     bakk: 0
     saku: 3

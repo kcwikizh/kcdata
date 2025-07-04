@@ -8,7 +8,7 @@ data:
   description: 夏といえば、風鈴ですね！<br>風鈴に触れば涼やかな音を<br>奏で、ゆらゆら揺れます。<br>多摩や球磨も大喜び？<br>※可動仕様家具
   rarity: 5
   price: 5000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "033"
   file_version: 4

@@ -8,7 +8,7 @@ data:
   description: 提督と任務娘…じゃない…<br>第一艦隊旗艦としても優秀<br>なある軽巡の執務机です。<br>季節毎に、お茶菓子が変化<br>するとかしないとか……。
   rarity: 5
   price: 133000
-  saleflg: 0
+  saleflg: 1
   season: 
   filename: 
   file_version: 

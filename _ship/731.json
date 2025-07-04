@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: tvsykrlsriet
-  file_version: ["61", "1", "512"]
+  file_version: ["62", "1", "627"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [169, 231]
-    boko_d: [197, 252]
+    boko_n: [76, 235]
+    boko_d: [142, 225]
     kaisyu_n: [40, -43]
     kaisyu_d: [40, -21]
-    kaizo_n: [177, 98]
-    kaizo_d: [220, 60]
-    map_n: [202, 176]
-    map_d: [254, 186]
-    ensyuf_n: [212, 162]
-    ensyuf_d: [257, 169]
-    ensyue_n: [191, 0]
-    battle_n: [226, 193]
-    battle_d: [288, 201]
-    wed_a: [144, -24]
-    wed_b: [105, 216]
+    kaizo_n: [82, 109]
+    kaizo_d: [160, 64]
+    map_n: [106, 192]
+    map_d: [175, 190]
+    ensyuf_n: [99, 175]
+    ensyuf_d: [169, 168]
+    ensyue_n: [82, 0]
+    battle_n: [130, 208]
+    battle_d: [186, 214]
+    wed_a: [238, -30]
+    wed_b: [118, 211]
   wiki_id: "534a"
   chinese_name: C.卡佩里尼改
   can_drop: false
