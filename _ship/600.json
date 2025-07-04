@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: nkkyfqvbrbli
-  file_version: ["84", "1", "512"]
+  file_version: ["86", "1", "627"]
   book_table_id: [600, 5453, 5961]
   book_sinfo: アジア艦隊に配備されたNorthampton級重巡、<br>Houstonよ。<br>Perth、De Ruyter…彼女達と共にABDA艦隊として<br>戦ったの。私の記憶はバタビア沖が最後だけど……<br>その魂と名は、新型軽巡に継承されたわ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 85
   graph:
-    boko_n: [115, 213]
-    boko_d: [192, 196]
+    boko_n: [111, 199]
+    boko_d: [49, 283]
     kaisyu_n: [63, -37]
     kaisyu_d: [88, -75]
-    kaizo_n: [112, 91]
-    kaizo_d: [178, 43]
-    map_n: [138, 192]
-    map_d: [208, 175]
-    ensyuf_n: [130, 181]
-    ensyuf_d: [204, 166]
-    ensyue_n: [123, 0]
-    battle_n: [151, 214]
-    battle_d: [223, 195]
-    wed_a: [214, -40]
-    wed_b: [109, 187]
+    kaizo_n: [69, 79]
+    kaizo_d: [-9, 129]
+    map_n: [109, 172]
+    map_d: [136, 205]
+    ensyuf_n: [85, 175]
+    ensyuf_d: [96, 183]
+    ensyue_n: [64, 0]
+    battle_n: [111, 208]
+    battle_d: [130, 220]
+    wed_a: [265, -22]
+    wed_b: [100, 171]
   wiki_id: "400"
   chinese_name: 休斯敦改
   can_drop: false

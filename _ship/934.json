@@ -14,8 +14,8 @@ data:
   get_mes: Buon giorno！あたい、マルチェロ級外洋型潜水艦だお～！<br>Mi chiamo Comandante Cappellini！<br>カッペリーニでいいお。よっろしく！
   voice_f: 1
   filename: ffwiclskhxkd
-  file_version: ["61", "1", "512"]
-  book_table_id: [934, 731, 5763, 5832]
+  file_version: ["62", "1", "627"]
+  book_table_id: [934, 731, 5763, 5832, 5980]
   book_sinfo: あたい、マルチェロ級外洋型潜水艦、Comandante <br>Cappellini！まあ、冒険と経験は豊富だお！色々あっ<br>てUIT24って名前になって極東へ。最後は日本で、伊<br>503になったんだ！　伊号潜水艦だお！<br>あの苛烈な時代を駆け抜けた潜水艦、あたいのことも<br>覚えておいてな！
   stats:
     taik: [10, 20]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [169, 231]
-    boko_d: [197, 252]
+    boko_n: [76, 235]
+    boko_d: [142, 225]
     kaisyu_n: [40, -43]
     kaisyu_d: [40, -21]
-    kaizo_n: [177, 98]
-    kaizo_d: [220, 60]
-    map_n: [202, 176]
-    map_d: [254, 186]
-    ensyuf_n: [212, 162]
-    ensyuf_d: [257, 169]
-    ensyue_n: [191, 0]
-    battle_n: [226, 193]
-    battle_d: [288, 201]
-    wed_a: [144, -24]
-    wed_b: [105, 216]
+    kaizo_n: [82, 109]
+    kaizo_d: [160, 64]
+    map_n: [106, 192]
+    map_d: [175, 190]
+    ensyuf_n: [99, 175]
+    ensyuf_d: [169, 168]
+    ensyue_n: [82, 0]
+    battle_n: [130, 208]
+    battle_d: [186, 214]
+    wed_a: [238, -30]
+    wed_b: [118, 211]
   wiki_id: "534"
   chinese_name: C.卡佩里尼
   can_drop: true

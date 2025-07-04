@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: botcyxrxelyp
-  file_version: ["52", "1", "512"]
+  file_version: ["53", "1", "627"]
   book_table_id: [1000]
   book_sinfo: 砕氷艦、大泊と申します。北方で起きた悲劇を契機に、<br>北の冷たい氷の海を渡れる砕氷艦として日本で初めて<br>建造されました。大湊を起点に、北方海域で活動する<br>皆さんの支えとして、警備、救難、支援に努めました。<br>戦後はあの宗谷へと繋がっていきます。覚えていてく<br>ださいね。
   stats:
@@ -38,20 +38,20 @@ data:
     pow_up: [0, 0, 0, 2]
     build_time: 60
   graph:
-    boko_n: [224, 220]
-    boko_d: [164, 233]
+    boko_n: [160, 220]
+    boko_d: [56, 219]
     kaisyu_n: [114, 74]
     kaisyu_d: [63, 93]
-    kaizo_n: [231, 97]
-    kaizo_d: [148, 71]
-    map_n: [254, 202]
-    map_d: [191, 215]
-    ensyuf_n: [264, 183]
-    ensyuf_d: [195, 189]
-    ensyue_n: [261, 0]
-    battle_n: [289, 219]
-    battle_d: [196, 223]
-    wed_a: [99, -47]
+    kaizo_n: [165, 100]
+    kaizo_d: [23, 60]
+    map_n: [190, 194]
+    map_d: [71, 193]
+    ensyuf_n: [186, 181]
+    ensyuf_d: [63, 175]
+    ensyue_n: [186, 0]
+    battle_n: [224, 214]
+    battle_d: [89, 207]
+    wed_a: [163, -50]
     wed_b: [101, 192]
   wiki_id: "600"
   chinese_name: 大泊改

@@ -14,7 +14,7 @@ data:
   get_mes: 特型駆逐艦…綾波型の「潮」です。<br>もう下がってよろしいでしょうか…。
   voice_f: 0
   filename: xqjemfzdbjox
-  file_version: ["124", "52", "512"]
+  file_version: ["126", "53", "627"]
   book_table_id: [16, 5196, 5224, 5240, 5083, 5003, 5351, 5445, 5486, 5642, 5818]
   book_sinfo: 綾波型１０番艦の潮です。<br>レイテ沖海戦などの激戦を潜り抜け、運命のあの日、<br>横須賀で御役目を終えるまで戦い抜きました。<br>あ、あの…沈めた敵艦の皆さんも…ホントはお助けし<br>たいのです。ホントです！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 0, 0]
     build_time: 20
   graph:
-    boko_n: [245, 222]
-    boko_d: [245, 222]
+    boko_n: [288, 192]
+    boko_d: [180, 282]
     kaisyu_n: [39, -1]
     kaisyu_d: [63, 16]
-    kaizo_n: [236, 95]
-    kaizo_d: [228, 65]
-    map_n: [258, 199]
-    map_d: [258, 199]
-    ensyuf_n: [254, 179]
-    ensyuf_d: [254, 179]
-    ensyue_n: [262, 0]
-    battle_n: [272, 213]
-    battle_d: [272, 213]
-    wed_a: [78, -42]
-    wed_b: [126, 215]
+    kaizo_n: [209, 76]
+    kaizo_d: [36, 138]
+    map_n: [232, 136]
+    map_d: [120, 264]
+    ensyuf_n: [230, 118]
+    ensyuf_d: [168, 216]
+    ensyue_n: [229, 0]
+    battle_n: [254, 163]
+    battle_d: [159, 216]
+    wed_a: [99, 22]
+    wed_b: [142, 219]
   wiki_id: "070"
   chinese_name: 潮
   can_drop: true

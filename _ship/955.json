@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: sxrrtdjcfwwl
-  file_version: ["58", "1", "512"]
+  file_version: ["59", "1", "627"]
   book_table_id: [955, 5815, 5871, 5878]
   book_sinfo: 夕雲型駆逐艦のラスト、十九番艦の清霜です。<br>浦賀生まれですよ。もう、そうとう辛い戦局の中で生<br>まれたの。短い間だったけど、縦横無尽に活躍した<br>わ。凄惨だったレイテはもちろん、あの礼号作戦にも<br>参加したのよ！どう？
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [13, 127]
-    boko_d: [-169, 187]
+    boko_n: [59, 178]
+    boko_d: [59, 178]
     kaisyu_n: [27, -28]
     kaisyu_d: [-6, -60]
-    kaizo_n: [28, 22]
-    kaizo_d: [-160, 70]
-    map_n: [36, 100]
-    map_d: [-157, 187]
-    ensyuf_n: [40, 97]
-    ensyuf_d: [-157, 154]
-    ensyue_n: [52, 0]
-    battle_n: [61, 120]
-    battle_d: [-85, 201]
-    wed_a: [280, 49]
-    wed_b: [145, 204]
+    kaizo_n: [76, 70]
+    kaizo_d: [61, 35]
+    map_n: [87, 150]
+    map_d: [87, 150]
+    ensyuf_n: [81, 138]
+    ensyuf_d: [81, 138]
+    ensyue_n: [99, 0]
+    battle_n: [107, 164]
+    battle_d: [107, 164]
+    wed_a: [254, 1]
+    wed_b: [116, 210]
   wiki_id: "555"
   chinese_name: 清霜改二
   can_drop: false

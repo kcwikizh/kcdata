@@ -8,7 +8,7 @@ data:
   description: 海軍航空隊と共に、作戦を<br>展開し始めた陸軍飛行戦隊<br>の作戦執務机です。机上に<br>は三式戦「飛燕」の模型も<br>も配置されています。
   rarity: 5
   price: 6100
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "065"
   file_version: 2
