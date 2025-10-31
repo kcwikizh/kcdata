@@ -1,0 +1,36 @@
+---
+layout: json
+order: 1655
+data:
+  id: 1655
+  sort_no: 0
+  name: 深海8.25inch単装主砲
+  type: [1, 1, 2, 2, 0]
+  rare: 2
+  broken: [0, 0, 0, 0]
+  info: 
+  usebull: 0
+  cost: 
+  distance: 
+  stats:
+    taik: 0
+    souk: 2
+    houg: 9
+    raig: 0
+    soku: 0
+    baku: 0
+    tyku: 1
+    tais: 1
+    atap: 0
+    houm: 2
+    raim: 0
+    houk: 0
+    raik: 0
+    bakk: 0
+    saku: 0
+    sakb: 0
+    luck: 0
+    leng: 2
+  improvement: 
+  chinese_name:
+---

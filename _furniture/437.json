@@ -8,7 +8,7 @@ data:
   description: さあ、艦娘と一緒に手作り<br>梅酒を作ってみましょう！<br>お気に入りの瓶で一つ一つ<br>丁寧に！梅雨の言葉は梅が<br>熟す季節という意味かも！
   rarity: 4
   price: 1980
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: 
   file_version: 

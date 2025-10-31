@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: wpdtroidduxm
-  file_version: ["71", "1", "627"]
+  file_version: ["72", "1", "1016"]
   book_table_id: [948, 5754, 5894]
   book_sinfo: 全通式飛行甲板を持つ陸軍特種船、М丙型、熊野丸<br>だ。先行の神州丸、あきつ丸をさらに進化させた、航<br>空支援能力を持つ、強襲揚陸艦としての機能を備えて<br>いる。戦局の悪化から、揚陸戦ではなく対潜水護衛空<br>母的な役割を期待された。戦標船構造とはいえ、運用<br>次第だ。提督、頼むぞ！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 1]
     build_time: 150
   graph:
-    boko_n: [70, 219]
-    boko_d: [-19, 165]
+    boko_n: [134, 186]
+    boko_d: [90, 232]
     kaisyu_n: [-30, -10]
     kaisyu_d: [33, -66]
-    kaizo_n: [87, 106]
-    kaizo_d: [30, -3]
-    map_n: [106, 190]
-    map_d: [22, 117]
-    ensyuf_n: [106, 171]
-    ensyuf_d: [15, 76]
-    ensyue_n: [124, 0]
-    battle_n: [130, 216]
-    battle_d: [58, 148]
-    wed_a: [219, -34]
-    wed_b: [120, 193]
+    kaizo_n: [147, 90]
+    kaizo_d: [137, 73]
+    map_n: [156, 149]
+    map_d: [136, 177]
+    ensyuf_n: [153, 151]
+    ensyuf_d: [171, 162]
+    ensyue_n: [160, 0]
+    battle_n: [186, 179]
+    battle_d: [195, 202]
+    wed_a: [193, -21]
+    wed_b: [112, 215]
   wiki_id: "548"
   chinese_name: 熊野丸改
   can_drop: false

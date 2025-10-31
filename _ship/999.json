@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 999
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 599
+  name: Eidsvold
+  yomi: アイツヴォル
+  stype: 1
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: qbnnxqtcsrky
-  file_version: ["1", "1", "1"]
+  backs: 4
+  after_lv: 43
+  after_ship_id: 739
+  get_mes: God dag.　わらわが海防戦艦、Eidsvold。<br>そう……ここがあの艦隊の港なのね。<br>よろしく。
+  voice_f: 1
+  filename: nrzyxlzhjdep
+  file_version: ["51", "1", "1016"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [22, 33]
+    souk: [18, 26]
+    houg: [18, 31]
+    raig: [10, 27]
+    tyku: [6, 12]
+    luck: [3, 19]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 180
+    after_bull: 200
+    fuel_max: 20
+    bull_max: 15
+    broken: [1, 2, 8, 0]
+    pow_up: [1, 0, 0, 1]
+    build_time: 40
   graph:
-    boko_n: [336, 222]
-    boko_d: [336, 222]
-    kaisyu_n: [12, -18]
-    kaisyu_d: [30, 3]
-    kaizo_n: [246, 150]
-    kaizo_d: [228, 117]
-    map_n: [258, 204]
-    map_d: [258, 204]
-    ensyuf_n: [264, 204]
-    ensyuf_d: [264, 204]
-    ensyue_n: [246, 0]
-    battle_n: [288, 234]
-    battle_d: [288, 234]
-    wed_a: [66, -18]
-    wed_b: [156, 168]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [76, 160]
+    boko_d: [-180, 145]
+    kaisyu_n: [63, 20]
+    kaisyu_d: [22, -49]
+    kaizo_n: [91, 37]
+    kaizo_d: [-202, 5]
+    map_n: [118, 113]
+    map_d: [-144, 112]
+    ensyuf_n: [117, 97]
+    ensyuf_d: [-160, 69]
+    ensyue_n: [121, 0]
+    battle_n: [145, 144]
+    battle_d: [-130, 113]
+    wed_a: [217, 22]
+    wed_b: [117, 212]
+  wiki_id: "599"
+  chinese_name: 埃兹沃尔
   can_drop: false
   can_construct: false
 ---

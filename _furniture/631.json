@@ -8,7 +8,7 @@ data:
   description: 鎮守府提督室に分祀された<br>艦娘の艦内神社です。<br>艦娘の安全やその無事の帰<br>投、そして作戦成功を祈念<br>するため、安置されます。
   rarity: 5
   price: 108000
-  saleflg: 0
+  saleflg: 1
   season: 
   filename: 
   file_version: 

@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 998
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 598
+  name: Norge
+  yomi: ノルゲ
+  stype: 1
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: enhdwllvcdbp
-  file_version: ["1", "1", "1"]
+  backs: 4
+  after_lv: 43
+  after_ship_id: 738
+  get_mes: God morgen.<br>我がNorge級海防戦艦、Norge。<br>貴方がここの提督ね。我らも共に。
+  voice_f: 1
+  filename: xvtihkibibin
+  file_version: ["51", "1", "1016"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [22, 33]
+    souk: [18, 27]
+    houg: [18, 30]
+    raig: [10, 28]
+    tyku: [6, 12]
+    luck: [3, 18]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 180
+    after_bull: 200
+    fuel_max: 20
+    bull_max: 15
+    broken: [1, 2, 8, 0]
+    pow_up: [1, 0, 0, 1]
+    build_time: 40
   graph:
-    boko_n: [330, 228]
-    boko_d: [330, 228]
-    kaisyu_n: [7, 15]
-    kaisyu_d: [42, 10]
-    kaizo_n: [240, 144]
-    kaizo_d: [228, 108]
-    map_n: [276, 204]
-    map_d: [276, 204]
-    ensyuf_n: [240, 204]
-    ensyuf_d: [240, 204]
-    ensyue_n: [240, 0]
-    battle_n: [294, 216]
-    battle_d: [294, 216]
-    wed_a: [90, -12]
-    wed_b: [132, 174]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [55, 160]
+    boko_d: [-79, 234]
+    kaisyu_n: [37, 21]
+    kaisyu_d: [33, 0]
+    kaizo_n: [60, 37]
+    kaizo_d: [-91, 72]
+    map_n: [72, 110]
+    map_d: [-55, 197]
+    ensyuf_n: [75, 98]
+    ensyuf_d: [-70, 168]
+    ensyue_n: [80, 0]
+    battle_n: [105, 142]
+    battle_d: [-30, 205]
+    wed_a: [267, 21]
+    wed_b: [120, 212]
+  wiki_id: "598"
+  chinese_name: 挪威
   can_drop: false
   can_construct: false
 ---

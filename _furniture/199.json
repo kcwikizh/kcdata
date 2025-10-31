@@ -8,7 +8,7 @@ data:
   description: 特注家具職人が腕によりを<br>かけて設えた温泉檜風呂。<br>内風呂仕様になっており、<br>箱根要らずの提督御用達の<br>究極鎮守府設備です！
   rarity: 5
   price: 8000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "036"
   file_version: 44

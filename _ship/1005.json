@@ -14,7 +14,7 @@ data:
   get_mes: Hi! New Orleans class 重巡、その3番艦<br>Minneapolis! 着任したわ! 私が来たからには<br>もう大丈夫！安心よ！　ん…何？安心して？
   voice_f: 1
   filename: suamjufgfbua
-  file_version: ["54", "3", "627"]
+  file_version: ["55", "5", "1016"]
   book_table_id: [1005, 5985, 5992]
   book_sinfo: New Orleans級重巡洋艦3番艦、Minneapolis。<br>初戦のヤバい時から後半戦までがっつり戦い抜いたわ！<br>珊瑚海、ミッドウェー、タサファロング……聞いたこと<br>あるでしょ？あ、ルンガだとわかる？えらい目にあった<br>わ。その後、スリガオ海峡夜戦にも参戦。終戦後は帰還<br>兵を西海岸へ。やばいほど頑張ったでしょ？私！
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 85
   graph:
-    boko_n: [-69, 202]
-    boko_d: [-10, 222]
+    boko_n: [12, 212]
+    boko_d: [-118, 211]
     kaisyu_n: [21, 9]
     kaisyu_d: [45, 97]
-    kaizo_n: [-62, 91]
-    kaizo_d: [-18, 66]
-    map_n: [-45, 177]
-    map_d: [30, 199]
-    ensyuf_n: [-51, 174]
-    ensyuf_d: [23, 171]
-    ensyue_n: [-40, 0]
-    battle_n: [-17, 195]
-    battle_d: [67, 206]
-    wed_a: [397, -30]
-    wed_b: [109, 190]
+    kaizo_n: [20, 83]
+    kaizo_d: [-118, 49]
+    map_n: [45, 195]
+    map_d: [-88, 196]
+    ensyuf_n: [46, 181]
+    ensyuf_d: [-106, 178]
+    ensyue_n: [32, 0]
+    battle_n: [83, 210]
+    battle_d: [-65, 211]
+    wed_a: [302, -39]
+    wed_b: [107, 198]
   wiki_id: "605"
   chinese_name: 明尼阿波利斯
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

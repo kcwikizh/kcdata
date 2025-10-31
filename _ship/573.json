@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: obrycurlqqwb
-  file_version: ["68", "13", "627"]
+  file_version: ["70", "13", "1016"]
   book_table_id: [573]
   book_sinfo: 長門型戦艦の２番艦として生まれた陸奥よ。<br>もちろん、世界のビッグ７の一艦になるわね。<br>え？主砲火薬庫爆発事故？<br>まあ、隠してもしょうがないわね。今度は大丈夫よ！
   stats:
@@ -23,13 +23,13 @@ data:
     houg: [91, 118]
     raig: [0, 0]
     tyku: [38, 102]
-    luck: [16, 88]
+    luck: [16, 89]
     soku: 5
     leng: 3
     kaih: 24
     tais: 0
     slot_num: 4
-    max_eq: [2, 3, 3, 7, 0]
+    max_eq: [2, 3, 5, 7, 0]
     after_fuel: 
     after_bull: 
     fuel_max: 180

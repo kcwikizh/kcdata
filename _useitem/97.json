@@ -2,7 +2,7 @@
 layout: json
 data:
   id: 97
-  usetype: 4
+  usetype: 0
   category: 0
   name: てるてる坊主
   description:
