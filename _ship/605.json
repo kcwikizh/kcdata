@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: drbcfdxjgwgx
-  file_version: ["52", "1", "627"]
+  file_version: ["53", "1", "1016"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 0, 0]
     build_time: 22
   graph:
-    boko_n: [234, 246]
-    boko_d: [96, 321]
+    boko_n: [35, 248]
+    boko_d: [-2, 303]
     kaisyu_n: [48, -16]
     kaisyu_d: [0, 18]
-    kaizo_n: [174, 120]
-    kaizo_d: [24, 138]
-    map_n: [186, 192]
-    map_d: [60, 246]
-    ensyuf_n: [168, 192]
-    ensyuf_d: [-36, 204]
-    ensyue_n: [168, 0]
-    battle_n: [222, 198]
-    battle_d: [48, 270]
-    wed_a: [144, -6]
-    wed_b: [150, 180]
+    kaizo_n: [62, 113]
+    kaizo_d: [4, 109]
+    map_n: [85, 203]
+    map_d: [35, 203]
+    ensyuf_n: [83, 181]
+    ensyuf_d: [-1, 185]
+    ensyue_n: [72, 0]
+    battle_n: [118, 203]
+    battle_d: [56, 211]
+    wed_a: [250, -29]
+    wed_b: [155, 213]
   wiki_id: "325a"
   chinese_name: 路易吉·托雷利改
   can_drop: false

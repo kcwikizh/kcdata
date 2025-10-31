@@ -8,7 +8,7 @@ data:
   description: Trick or Treat!<br>ハロウィンを楽しむ艦娘<br>たちのために用意された<br>特製の提督室壁です。<br>提督室とは……一体？
   rarity: 4
   price: 2023
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

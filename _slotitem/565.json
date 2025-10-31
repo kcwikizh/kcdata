@@ -3,26 +3,26 @@ layout: json
 order: 565
 data:
   id: 565
-  sort_no: 0
-  name: 5inch沿岸設置砲
-  type: [1, 1, 1, 1, 0]
-  rare: 2
-  broken: [0, 0, 0, 0]
+  sort_no: 565
+  name: 15cm単装副砲
+  type: [1, 2, 4, 4, 0]
+  rare: 1
+  broken: [0, 2, 2, 0]
   info: 
   usebull: 0
   cost: 9
   distance: 8
   stats:
     taik: 0
-    souk: 2
-    houg: 3
+    souk: 0
+    houg: 2
     raig: 0
     soku: 0
     baku: 0
     tyku: 0
     tais: 0
     atap: 0
-    houm: 3
+    houm: 1
     raim: 0
     houk: 0
     raik: 0
@@ -30,7 +30,7 @@ data:
     saku: 0
     sakb: 0
     luck: 0
-    leng: 2
+    leng: 1
   improvement: 
   chinese_name: 5英寸沿岸设置炮
 ---

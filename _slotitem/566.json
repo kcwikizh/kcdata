@@ -3,11 +3,11 @@ layout: json
 order: 566
 data:
   id: 566
-  sort_no: 0
-  name: 深海猫艦戦(爆装)
-  type: [3, 5, 7, 7, 0]
-  rare: 3
-  broken: [0, 0, 0, 0]
+  sort_no: 566
+  name: 10.2cm三連装副砲
+  type: [1, 2, 4, 4, 0]
+  rare: 1
+  broken: [0, 2, 3, 0]
   info: 
   usebull: 0
   cost: 9
@@ -15,14 +15,14 @@ data:
   stats:
     taik: 0
     souk: 0
-    houg: 0
+    houg: 4
     raig: 0
     soku: 0
-    baku: 8
-    tyku: 7
-    tais: 2
+    baku: 0
+    tyku: 1
+    tais: 0
     atap: 0
-    houm: 2
+    houm: 1
     raim: 0
     houk: 0
     raik: 0
@@ -30,7 +30,7 @@ data:
     saku: 0
     sakb: 0
     luck: 0
-    leng: 0
+    leng: 1
   improvement: 
   chinese_name: 深海猫舰战(爆装)
 ---

@@ -8,7 +8,7 @@ data:
   description: Happy!<br>Fleet!<br>Halloween!<br>ハロウィンを楽しむ艦娘<br>のための専用床板です。
   rarity: 3
   price: 1300
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

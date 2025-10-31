@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 1027
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 617
+  name: Glorious
+  yomi: グローリアス
+  stype: 11
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: bijfkqlsrljq
-  file_version: ["1", "1", "1"]
+  backs: 6
+  after_lv: 50
+  after_ship_id: 741
+  get_mes: Courageous級巡洋戦艦、Gloriousです。<br>少し海軍軍縮条約の様子が気になるけれど……貴方が私達の<br>Admiralなのですね。よろしくお願いいたしますね！
+  voice_f: 3
+  filename: mlntixnqlulr
+  file_version: ["51", "1", "1016"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [55, 78]
+    souk: [39, 49]
+    houg: [0, 23]
+    raig: [0, 0]
+    tyku: [28, 70]
+    luck: [6, 39]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 4
+    max_eq: [12, 12, 12, 12, 0]
+    after_fuel: 650
+    after_bull: 650
+    fuel_max: 50
+    bull_max: 45
+    broken: [7, 9, 27, 6]
+    pow_up: [0, 0, 3, 4]
+    build_time: 250
   graph:
-    boko_n: [13, 117]
-    boko_d: [70, 127]
-    kaisyu_n: [18, 0]
-    kaisyu_d: [42, 25]
-    kaizo_n: [-58, 34]
-    kaizo_d: [-10, 1]
-    map_n: [-45, 115]
-    map_d: [-36, 109]
-    ensyuf_n: [-7, 103]
-    ensyuf_d: [-9, 46]
-    ensyue_n: [-7, 0]
-    battle_n: [-54, 85]
-    battle_d: [0, 91]
-    wed_a: [360, 90]
-    wed_b: [135, 144]
+    boko_n: [54, 101]
+    boko_d: [166, 229]
+    kaisyu_n: [61, -11]
+    kaisyu_d: [149, 104]
+    kaizo_n: [36, -16]
+    kaizo_d: [164, 80]
+    map_n: [94, 73]
+    map_d: [196, 204]
+    ensyuf_n: [119, 62]
+    ensyuf_d: [193, 181]
+    ensyue_n: [104, 0]
+    battle_n: [140, 96]
+    battle_d: [206, 228]
+    wed_a: [221, 81]
+    wed_b: [118, 183]
   wiki_id: 
   chinese_name: 
   can_drop: false

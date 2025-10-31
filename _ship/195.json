@@ -14,13 +14,13 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: tiqezicxwpry
-  file_version: ["31", "35", "627"]
+  file_version: ["33", "37", "1016"]
   book_table_id: [195]
   book_sinfo: 特型駆逐艦、綾波です。<br>改良吹雪型の１番艦なんです。<br>第三次ソロモン海海戦では、駆逐艦一隻としては、特別な大活躍をお見せしました。頑張ります！
   stats:
     taik: [32, 54]
     souk: [15, 54]
-    houg: [17, 75]
+    houg: [17, 76]
     raig: [30, 89]
     tyku: [16, 52]
     luck: [40, 84]

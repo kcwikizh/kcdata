@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: jisyljtqgqcj
-  file_version: ["51", "1", "627"]
+  file_version: ["53", "1", "1016"]
   book_table_id: [539]
   book_sinfo: 元々はRegia Marinaの潜水艦、Luigi Torelli……だったんだけど、今は、Uボート、名前はUIT-25。あたし、何気に対空戦経験も凄いんだけど、そんだけじゃない、結構色々経験したんだ。潜水艦派遣作戦にも参加してー、そんでもって所属もさらに変わるという……ん…あたしの物語も覚えておいてね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 0]
     build_time: 22
   graph:
-    boko_n: [192, 246]
-    boko_d: [96, 321]
+    boko_n: [35, 248]
+    boko_d: [-2, 303]
     kaisyu_n: [42, -9]
     kaisyu_d: [0, 18]
-    kaizo_n: [132, 120]
-    kaizo_d: [24, 138]
-    map_n: [144, 192]
-    map_d: [60, 246]
-    ensyuf_n: [126, 192]
-    ensyuf_d: [-36, 204]
-    ensyue_n: [126, 0]
-    battle_n: [180, 198]
-    battle_d: [48, 270]
-    wed_a: [174, -6]
-    wed_b: [162, 180]
+    kaizo_n: [62, 113]
+    kaizo_d: [4, 109]
+    map_n: [85, 203]
+    map_d: [35, 203]
+    ensyuf_n: [83, 181]
+    ensyuf_d: [-1, 185]
+    ensyue_n: [72, 0]
+    battle_n: [118, 203]
+    battle_d: [56, 211]
+    wed_a: [250, -29]
+    wed_b: [155, 213]
   wiki_id: "329"
   chinese_name: UIT-25
   can_drop: false

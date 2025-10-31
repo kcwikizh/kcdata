@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 741
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 1741
+  name: Glorious改
+  yomi: グローリアス
+  stype: 11
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: sitdrbcvspjm
-  file_version: ["52", "1", "1"]
+  backs: 7
+  after_lv: 65
+  after_ship_id: 740
+  get_mes: <br>
+  voice_f: 3
+  filename: gqiwyojnatzd
+  file_version: ["51", "1", "1016"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [67, 87]
+    souk: [43, 63]
+    houg: [0, 30]
+    raig: [0, 0]
+    tyku: [36, 78]
+    luck: [10, 48]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 4
+    max_eq: [18, 18, 12, 12, 0]
+    after_fuel: 650
+    after_bull: 650
+    fuel_max: 50
+    bull_max: 45
+    broken: [7, 9, 27, 6]
+    pow_up: [0, 0, 3, 4]
+    build_time: 250
   graph:
-    boko_n: [234, 234]
-    boko_d: [180, 234]
-    kaisyu_n: [36, -12]
-    kaisyu_d: [39, 0]
-    kaizo_n: [180, 150]
-    kaizo_d: [111, 117]
-    map_n: [216, 210]
-    map_d: [162, 210]
-    ensyuf_n: [198, 204]
-    ensyuf_d: [144, 204]
-    ensyue_n: [192, 0]
-    battle_n: [228, 222]
-    battle_d: [174, 222]
-    wed_a: [141, -24]
-    wed_b: [120, 174]
+    boko_n: [54, 101]
+    boko_d: [166, 229]
+    kaisyu_n: [61, -11]
+    kaisyu_d: [149, 104]
+    kaizo_n: [36, -16]
+    kaizo_d: [164, 80]
+    map_n: [94, 73]
+    map_d: [196, 204]
+    ensyuf_n: [119, 62]
+    ensyuf_d: [193, 181]
+    ensyue_n: [104, 0]
+    battle_n: [140, 96]
+    battle_d: [206, 228]
+    wed_a: [221, 81]
+    wed_b: [118, 183]
   wiki_id: 
   chinese_name: 
   can_drop: false
