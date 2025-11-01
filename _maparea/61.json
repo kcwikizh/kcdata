@@ -1,0 +1,13 @@
+---
+layout: json
+order: 61
+data:
+  id: 61
+  name: 逆転！ナルヴィク攻防戦
+  maps:
+    - 611
+    - 612
+    - 613
+  event: true
+  level: 4
+---

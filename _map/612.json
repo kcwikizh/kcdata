@@ -1,0 +1,234 @@
+---
+layout: json
+order: 612
+data:
+  id: 612
+  name: ナルヴィク沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: B
+      to: D
+    5:
+      from: D
+      to: E
+    6:
+      from: A
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: F
+      to: I
+    10:
+      from: I
+      to: J
+    11:
+      from: D
+      to: K
+    12:
+      from: K
+      to: L
+    13:
+      from: L
+      to: M
+    14:
+      from: K
+      to: E
+    15:
+      from: G
+      to: I
+    16:
+      from: 2
+      to: N
+    17:
+      from: K
+      to: O
+    18:
+      from: O
+      to: P
+    19:
+      from: P
+      to: Q
+    20:
+      from: J
+      to: R
+    21:
+      from: N
+      to: K
+    22:
+      from: 2
+      to: K
+    23:
+      from: L
+      to: O
+    24:
+      from: null
+      to: 2
+    25:
+      from: E
+      to: S
+    26:
+      from: Q
+      to: T
+    27:
+      from: T
+      to: U
+    28:
+      from: T
+      to: V
+    29:
+      from: V
+      to: W
+    30:
+      from: W
+      to: X
+    31:
+      from: K
+      to: P
+    32:
+      from: V
+      to: Y
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海欧州艦隊 駆逐隊 第2戦隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海欧州艦隊 潜水艦哨戒南部線
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海欧州艦隊 ナルヴィク侵攻II群
+      type:
+      boss: false
+      routes: [5, 14]
+    F:
+      name: 深海欧州艦隊 駆逐隊 第1戦隊
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 深海欧州艦隊 潜水艦哨戒北部線
+      type:
+      boss: false
+      routes: [9, 15]
+    J:
+      name: 深海欧州艦隊 ナルヴィク侵攻III群
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [11, 21, 22]
+    L:
+      name: 深海欧州艦隊 ナルヴィク侵攻I群
+      type:
+      boss: false
+      routes: [12]
+    M:
+      name: 深海欧州方面 侵攻遊撃戦隊 旗艦
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海欧州艦隊 潜水艦哨戒中央線
+      type:
+      boss: false
+      routes: [16]
+    O:
+      name: 深海欧州艦隊 魚雷艇戦隊
+      type:
+      boss: false
+      routes: [17, 23]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [18, 31]
+    Q:
+      name: 深海欧州艦隊 ナルヴィク侵攻主隊
+      type:
+      boss: false
+      routes: [19]
+    R:
+      name: 深海欧州艦隊 北部侵攻上陸部隊
+      type:
+      boss: false
+      routes: [20]
+    S:
+      name: 深海欧州方面 侵攻資材集積地
+      type:
+      boss: false
+      routes: [25]
+    T:
+      name: 深海欧州艦隊 ナルヴィク沖哨戒線
+      type:
+      boss: false
+      routes: [26]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    V:
+      name: 深海欧州艦隊 ナルヴィク駆逐戦隊
+      type:
+      boss: false
+      routes: [28]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [29]
+    X:
+      name: 深海欧州艦隊 ナルヴィク上陸支隊
+      type:
+      boss: false
+      routes: [30]
+    Y:
+      name: 深海欧州艦隊 ナルヴィク上陸主力
+      type:
+      boss: true
+      routes: [32]
+  image: MapHDE-2Autumn2025.png
+---

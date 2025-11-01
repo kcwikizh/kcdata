@@ -1,0 +1,210 @@
+---
+layout: json
+order: 611
+data:
+  id: 611
+  name: ノルウェー沖/ナルヴィク沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: B
+    3:
+      from: B
+      to: C
+    4:
+      from: C
+      to: D
+    5:
+      from: B
+      to: E
+    6:
+      from: A
+      to: F
+    7:
+      from: F
+      to: G
+    8:
+      from: G
+      to: H
+    9:
+      from: G
+      to: I
+    10:
+      from: F
+      to: J
+    11:
+      from: J
+      to: K
+    12:
+      from: J
+      to: L
+    13:
+      from: L
+      to: M
+    14:
+      from: M
+      to: N
+    15:
+      from: H
+      to: I
+    16:
+      from: K
+      to: L
+    17:
+      from: M
+      to: O
+    18:
+      from: N
+      to: O
+    19:
+      from: L
+      to: P
+    20:
+      from: P
+      to: Q
+    21:
+      from: P
+      to: R
+    22:
+      from: P
+      to: S
+    23:
+      from: Q
+      to: R
+    24:
+      from: Q
+      to: S
+    25:
+      from: R
+      to: S
+    26:
+      from: S
+      to: T
+    27:
+      from: T
+      to: U
+    28:
+      from: T
+      to: V
+    29:
+      from: K
+      to: Q
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    B:
+      name: 深海欧州艦隊 海峡警戒隊
+      type:
+      boss: false
+      routes: [2]
+    C:
+      name: 深海欧州艦隊 潜水艦部隊 I群
+      type:
+      boss: false
+      routes: [3]
+    D:
+      name: 深海ヴェーザー演習作戦 上陸E群
+      type:
+      boss: false
+      routes: [4]
+    E:
+      name: 深海ヴェーザー演習作戦 上陸S群
+      type:
+      boss: false
+      routes: [5]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [6]
+    G:
+      name: 深海欧州艦隊 侵攻集団B警戒群
+      type:
+      boss: false
+      routes: [7]
+    H:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [8]
+    I:
+      name: 深海ヴェーザー演習作戦 上陸B群
+      type:
+      boss: false
+      routes: [9, 15]
+    J:
+      name: 深海欧州艦隊 侵攻集団A警戒群
+      type:
+      boss: false
+      routes: [10]
+    K:
+      name: 深海欧州艦隊 潜水艦部隊 II群
+      type:
+      boss: false
+      routes: [11]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [12, 16]
+    M:
+      name: 深海欧州艦隊 潜水艦部隊 III群
+      type:
+      boss: false
+      routes: [13]
+    N:
+      name: 深海欧州艦隊 T侵攻隊 防備集団
+      type:
+      boss: false
+      routes: [14]
+    O:
+      name: 深海ヴェーザー演習作戦 上陸T群
+      type:
+      boss: false
+      routes: [17, 18]
+    P:
+      name: 深海ヴェーザー演習作戦 直衛艦隊
+      type:
+      boss: false
+      routes: [19]
+    Q:
+      name: 深海欧州艦隊 潜水艦部隊 IV群
+      type:
+      boss: false
+      routes: [20, 29]
+    R:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [21, 23]
+    S:
+      name: 深海欧州方面 基地航空隊
+      type:
+      boss: false
+      routes: [22, 24, 25]
+    T:
+      name: 深海欧州艦隊 潜水艦部隊 V群
+      type:
+      boss: false
+      routes: [26]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    V:
+      name: 深海欧州艦隊 ナルヴィク展開戦隊
+      type:
+      boss: true
+      routes: [28]
+  image: MapHDE-1Autumn2025.png
+---

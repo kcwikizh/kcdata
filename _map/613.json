@@ -1,0 +1,347 @@
+---
+layout: json
+order: 613
+data:
+  id: 613
+  name: ノルウェー沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: A1
+    3:
+      from: A1
+      to: A2
+    4:
+      from: A1
+      to: B
+    5:
+      from: B
+      to: C
+    6:
+      from: C
+      to: C1
+    7:
+      from: C1
+      to: C2
+    8:
+      from: C1
+      to: D
+    9:
+      from: 2
+      to: E
+    10:
+      from: E
+      to: F
+    11:
+      from: F
+      to: G
+    12:
+      from: G
+      to: G1
+    13:
+      from: G
+      to: G2
+    14:
+      from: F
+      to: H
+    15:
+      from: H
+      to: I
+    16:
+      from: null
+      to: J
+    17:
+      from: I
+      to: K
+    18:
+      from: K
+      to: L
+    19:
+      from: K
+      to: M
+    20:
+      from: G1
+      to: G2
+    21:
+      from: H
+      to: J
+    22:
+      from: I
+      to: J
+    23:
+      from: J
+      to: K
+    24:
+      from: null
+      to: 2
+    25:
+      from: 3
+      to: N
+    26:
+      from: N
+      to: O
+    27:
+      from: C1
+      to: P
+    28:
+      from: A2
+      to: Q
+    29:
+      from: 3
+      to: R
+    30:
+      from: R
+      to: R1
+    31:
+      from: R1
+      to: R2
+    32:
+      from: R2
+      to: R3
+    33:
+      from: G2
+      to: S
+    34:
+      from: C
+      to: T
+    35:
+      from: G1
+      to: U
+    36:
+      from: R2
+      to: V
+    37:
+      from: T
+      to: W
+    38:
+      from: R
+      to: R2
+    39:
+      from: T
+      to: R3
+    40:
+      from: U
+      to: W
+    41:
+      from: G1
+      to: W
+    42:
+      from: O
+      to: D
+    43:
+      from: T
+      to: G1
+    44:
+      from: null
+      to: 3
+    45:
+      from: N
+      to: X
+    46:
+      from: O
+      to: Y
+    47:
+      from: X
+      to: Z
+    48:
+      from: Y
+      to: Z
+    49:
+      from: Y
+      to: L
+    50:
+      from: N
+      to: V
+    51:
+      from: V
+      to: X
+    52:
+      from: X
+      to: O
+    53:
+      from: O
+      to: Z
+  cells:
+    A:
+      name: 深海欧州艦隊 駆逐隊 前方哨戒
+      type:
+      boss: false
+      routes: [1]
+    A1:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    A2:
+      name: 深海欧州艦隊 輸送船団 護衛隊
+      type:
+      boss: false
+      routes: [3]
+    B:
+      name: 深海欧州艦隊 ノルウェー沖哨戒線
+      type:
+      boss: false
+      routes: [4]
+    C:
+      name: 深海欧州艦隊 前衛巡洋艦I戦隊
+      type:
+      boss: false
+      routes: [5]
+    C1:
+      name: 深海欧州艦隊 艦載機群
+      type:
+      boss: false
+      routes: [6]
+    C2:
+      name: 深海欧州艦隊 警戒空母群 C集団
+      type:
+      boss: false
+      routes: [7]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [8, 42]
+    E:
+      name: 深海欧州艦隊 潜水群狼集団 I群
+      type:
+      boss: false
+      routes: [9]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    G:
+      name: 深海欧州艦隊 前衛巡洋艦II戦隊
+      type:
+      boss: false
+      routes: [11]
+    G1:
+      name: 深海欧州艦隊 艦載機群
+      type:
+      boss: false
+      routes: [12, 43]
+    G2:
+      name: 深海欧州艦隊 高速戦艦戦隊
+      type:
+      boss: false
+      routes: [13, 20]
+    H:
+      name: 深海欧州艦隊 艦載機群
+      type:
+      boss: false
+      routes: [14]
+    I:
+      name: 深海欧州艦隊 潜水群狼集団 II群
+      type:
+      boss: false
+      routes: [15]
+    J:
+      name: 深海欧州艦隊 警戒空母群 B集団
+      type:
+      boss: false
+      routes: [16, 21, 22]
+    K:
+      name: 深海欧州方面 戦艦戦隊
+      type:
+      boss: false
+      routes: [17, 23]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [18, 49]
+    M:
+      name: 深海欧州艦隊 水上打撃集団
+      type:
+      boss: false
+      routes: [19]
+    N:
+      name: 深海欧州艦隊 前衛展開警戒I群
+      type:
+      boss: false
+      routes: [25]
+    O:
+      name: 深海欧州艦隊 潜水群狼集団 IV群
+      type:
+      boss: false
+      routes: [26, 52]
+    P:
+      name: 深海欧州艦隊 前衛展開警戒II群
+      type:
+      boss: false
+      routes: [27]
+    Q:
+      name: 深海欧州艦隊 再上陸輸送船団
+      type:
+      boss: false
+      routes: [28]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [29]
+    R1:
+      name: 
+      type:
+      boss: false
+      routes: [30]
+    R2:
+      name: 
+      type:
+      boss: false
+      routes: [31, 38]
+    R3:
+      name: 
+      type:
+      boss: false
+      routes: [32, 39]
+    S:
+      name: 深海欧州艦隊 空母機動部隊 II群
+      type:
+      boss: false
+      routes: [33]
+    T:
+      name: 深海欧州艦隊 空母機動部隊 III群
+      type:
+      boss: false
+      routes: [34]
+    U:
+      name: 深海欧州艦隊 艦載機群
+      type:
+      boss: false
+      routes: [35]
+    V:
+      name: 深海欧州艦隊 艦載機群
+      type:
+      boss: false
+      routes: [36, 50]
+    W:
+      name: 深海欧州艦隊 空母機動部隊主力
+      type:
+      boss: false
+      routes: [37, 40, 41]
+    X:
+      name: 深海欧州艦隊 空母機動部隊 I群
+      type:
+      boss: false
+      routes: [45, 51]
+    Y:
+      name: 深海欧州艦隊 艦載機群
+      type:
+      boss: false
+      routes: [46]
+    Z:
+      name: 深海欧州艦隊 ノルウェー派遣部隊
+      type:
+      boss: true
+      routes: [47, 48, 53]
+  image: MapHDE-3Autumn2025.png
+---
