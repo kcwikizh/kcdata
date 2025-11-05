@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: vvupbdrgkgzm
-  file_version: ["60", "5", "1016"]
+  file_version: ["61", "5", "1105"]
   book_table_id: [979, 5892, 5920]
   book_sinfo: 鵜来型海防艦、十二番艦、稲木だ。生まれた時にはも<br>う戦局は大きく傾いていたが、生き残った航路の海上<br>護衛任務に務めた。北海道そして東北方面の船団護衛<br>の後に八戸に仮停泊中、敵機動部隊の艦載機と交戦し<br>た。もう味方の戦闘機は空に無く、後に「八戸の盾」<br>という人達もいると聞く。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 2, 1]
     build_time: 9
   graph:
-    boko_n: [121, 185]
-    boko_d: [82, 190]
+    boko_n: [101, 156]
+    boko_d: [69, 258]
     kaisyu_n: [44, -27]
     kaisyu_d: [71, 87]
-    kaizo_n: [141, 64]
-    kaizo_d: [69, 29]
-    map_n: [175, 146]
-    map_d: [115, 151]
-    ensyuf_n: [171, 119]
-    ensyuf_d: [103, 133]
-    ensyue_n: [172, 0]
-    battle_n: [211, 154]
-    battle_d: [133, 163]
-    wed_a: [159, 18]
-    wed_b: [139, 219]
+    kaizo_n: [98, 32]
+    kaizo_d: [56, 103]
+    map_n: [121, 120]
+    map_d: [86, 220]
+    ensyuf_n: [119, 104]
+    ensyuf_d: [80, 201]
+    ensyue_n: [119, 0]
+    battle_n: [139, 141]
+    battle_d: [103, 244]
+    wed_a: [224, 42]
+    wed_b: [123, 225]
   wiki_id: "579"
   chinese_name: 稻木改二
   can_drop: false

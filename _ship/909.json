@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: kyqajbdvlhxw
-  file_version: ["54", "1", "1016"]
+  file_version: ["55", "1", "1105"]
   book_table_id: [909]
   book_sinfo: 御蔵型海防艦、四番艦、能美と申します。消耗と苛烈<br>な海上護衛戦に対応するため、マル急計画で整備され<br>ました。松輸送や大湊方面の北の護り、そしてヒ船団<br>やモシ船団の護衛、敵潜水艦と激しい戦いを続けまし<br>た。最期は泊地に侵入した敵潜に……。今度は……静<br>かな海で。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 14
   graph:
-    boko_n: [144, 250]
-    boko_d: [107, 376]
+    boko_n: [1, 226]
+    boko_d: [-70, 358]
     kaisyu_n: [3, -4]
     kaisyu_d: [-4, -82]
-    kaizo_n: [164, 134]
-    kaizo_d: [130, 171]
-    map_n: [179, 213]
-    map_d: [160, 273]
-    ensyuf_n: [183, 186]
-    ensyuf_d: [156, 231]
-    ensyue_n: [168, 0]
-    battle_n: [203, 232]
-    battle_d: [177, 283]
-    wed_a: [159, -55]
-    wed_b: [115, 212]
+    kaizo_n: [3, 97]
+    kaizo_d: [-40, 174]
+    map_n: [21, 184]
+    map_d: [-37, 262]
+    ensyuf_n: [9, 165]
+    ensyuf_d: [-40, 211]
+    ensyue_n: [12, 0]
+    battle_n: [48, 214]
+    battle_d: [-4, 283]
+    wed_a: [316, -13]
+    wed_b: [124, 199]
   wiki_id: "509"
   chinese_name: 能美改
   can_drop: false

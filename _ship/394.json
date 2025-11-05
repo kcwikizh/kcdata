@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ejdfsurhnkbu
-  file_version: ["52", "2", "1016"]
+  file_version: ["53", "2", "1105"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [163, 219]
-    boko_d: [142, 228]
+    boko_n: [201, 216]
+    boko_d: [192, 243]
     kaisyu_n: [33, -15]
     kaisyu_d: [105, -18]
-    kaizo_n: [181, 96]
-    kaizo_d: [156, 63]
-    map_n: [207, 187]
-    map_d: [186, 192]
-    ensyuf_n: [209, 173]
-    ensyuf_d: [213, 163]
-    ensyue_n: [197, 0]
-    battle_n: [240, 201]
-    battle_d: [226, 211]
-    wed_a: [138, -29]
-    wed_b: [123, 207]
+    kaizo_n: [135, 108]
+    kaizo_d: [144, 114]
+    map_n: [198, 192]
+    map_d: [192, 216]
+    ensyuf_n: [156, 186]
+    ensyuf_d: [174, 210]
+    ensyue_n: [150, 0]
+    battle_n: [210, 219]
+    battle_d: [198, 234]
+    wed_a: [174, -12]
+    wed_b: [126, 168]
   wiki_id: "319a"
   chinese_name: 贾维斯改
   can_drop: false

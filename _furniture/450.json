@@ -8,7 +8,7 @@ data:
   description: 葡萄のカーペットに刺激を<br>受けた家具職人が艦娘たち<br>が止めるのも聞かず、最高<br>の素材で作り上げた白煉瓦<br>作りの高級壁です。
   rarity: 4
   price: 4000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

@@ -14,8 +14,8 @@ data:
   get_mes: Hi！ 待ってた？ 私がFletcher級駆逐艦<br>Richard Phillips Learyよ！<br>Learyでいいわ！ よろしくねっ！
   voice_f: 1
   filename: zpotllltncez
-  file_version: ["55", "4", "1016"]
-  book_table_id: [942, 737, 5996, 5997, 6002, 6003]
+  file_version: ["56", "4", "1105"]
+  book_table_id: [942, 5996, 5997, 6002, 6003, 6044, 6045]
   book_sinfo: Fletcher級駆逐艦、Richard Phillips Leary！<br>大戦の後半に就役して、太平洋戦線の上陸戦支援、<br>そしてスリガオ海峡夜戦にも参戦したんだ。<br>戦後はHeywoodと共に護衛艦隊の再生に協力したの。<br>海自初期の護衛艦「ゆうぐれ」、憶えておいて！
   stats:
     taik: [17, 35]
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 2, 1]
     build_time: 23
   graph:
-    boko_n: [2, 100]
-    boko_d: [-37, 80]
+    boko_n: [118, 221]
+    boko_d: [56, 311]
     kaisyu_n: [105, 70]
     kaisyu_d: [107, 102]
-    kaizo_n: [-19, -14]
-    kaizo_d: [-40, -85]
-    map_n: [38, 66]
-    map_d: [-6, 18]
-    ensyuf_n: [30, 47]
-    ensyuf_d: [-23, 3]
-    ensyue_n: [28, 0]
-    battle_n: [65, 80]
-    battle_d: [16, 54]
-    wed_a: [274, 97]
-    wed_b: [140, 220]
+    kaizo_n: [138, 99]
+    kaizo_d: [75, 110]
+    map_n: [163, 180]
+    map_d: [179, 215]
+    ensyuf_n: [188, 175]
+    ensyuf_d: [196, 174]
+    ensyue_n: [176, 0]
+    battle_n: [207, 200]
+    battle_d: [217, 231]
+    wed_a: [151, -37]
+    wed_b: [119, 219]
   wiki_id: "542"
   chinese_name: 理查德·P·利里
   can_drop: true
