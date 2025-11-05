@@ -14,7 +14,7 @@ data:
   get_mes: God dag.　わらわが海防戦艦、Eidsvold。<br>そう……ここがあの艦隊の港なのね。<br>よろしく。
   voice_f: 1
   filename: nrzyxlzhjdep
-  file_version: ["51", "1", "1016"]
+  file_version: ["51", "1", "1105"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [117, 212]
   wiki_id: "599"
   chinese_name: 埃兹沃尔
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

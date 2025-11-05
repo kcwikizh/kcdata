@@ -8,7 +8,7 @@ data:
   description: 秋の風物詩、栗。その実の<br>イメージから茶色の印象が<br>ある栗ですが、とげとげの<br>殻斗果は最初は緑色。栗ご<br>飯も美味しいですよね！
   rarity: 2
   price: 600
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

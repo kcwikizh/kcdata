@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: jjfmynxxuonk
-  file_version: ["70", "1", "1016"]
+  file_version: ["71", "1", "1105"]
   book_table_id: [928]
   book_sinfo: USS Tuscaloosa。New Orleans classその四番<br>艦。重巡洋艦としては、最新鋭って訳じゃないけど、<br>大西洋で戦い、そして太平洋戦線、後半の島々の戦い<br>にも参加。もちろん戦いはあってはならない事だけ<br>ど、戦う事が必要な時も……あります。難しいね。本<br>当に。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 85
   graph:
-    boko_n: [126, 198]
-    boko_d: [126, 198]
+    boko_n: [-40, 211]
+    boko_d: [55, 220]
     kaisyu_n: [21, 6]
     kaisyu_d: [69, 25]
-    kaizo_n: [128, 80]
-    kaizo_d: [113, 45]
-    map_n: [150, 162]
-    map_d: [150, 162]
-    ensyuf_n: [136, 167]
-    ensyuf_d: [136, 167]
-    ensyue_n: [131, 0]
-    battle_n: [173, 185]
-    battle_d: [173, 185]
-    wed_a: [215, -25]
-    wed_b: [110, 195]
+    kaizo_n: [-24, 90]
+    kaizo_d: [75, 57]
+    map_n: [-16, 190]
+    map_d: [81, 199]
+    ensyuf_n: [-6, 180]
+    ensyuf_d: [105, 181]
+    ensyue_n: [-10, 0]
+    battle_n: [24, 208]
+    battle_d: [147, 213]
+    wed_a: [343, -37]
+    wed_b: [112, 184]
   wiki_id: "528"
   chinese_name: 塔斯卡卢萨改
   can_drop: false
