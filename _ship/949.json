@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: sghthqcnsnxw
-  file_version: ["66", "7", "1105"]
+  file_version: ["67", "8", "1108"]
   book_table_id: [949, 5844, 5874, 5881, 5889, 5922, 5939, 5977]
   book_sinfo: 氷川丸級貨客船三番船平安丸改め、特設潜水母艦平安<br>丸です。ええ、姉はあの氷川丸。この優しい時代にも<br>横浜の地にその姿が健在と聞いています。提督、潜水<br>母艦となった氷川丸の妹、トラックの地で潜水艦たち<br>の作戦を支えた私の事も、どうか覚えておいて下さい<br>ましね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 1]
     build_time: 150
   graph:
-    boko_n: [214, 211]
-    boko_d: [70, 282]
+    boko_n: [170, 203]
+    boko_d: [121, 70]
     kaisyu_n: [12, 33]
     kaisyu_d: [-13, -22]
-    kaizo_n: [216, 83]
-    kaizo_d: [81, 118]
-    map_n: [241, 191]
-    map_d: [114, 215]
-    ensyuf_n: [237, 170]
-    ensyuf_d: [107, 183]
-    ensyue_n: [220, 0]
-    battle_n: [269, 195]
-    battle_d: [139, 229]
-    wed_a: [112, -38]
-    wed_b: [115, 204]
+    kaizo_n: [160, 68]
+    kaizo_d: [121, -83]
+    map_n: [176, 180]
+    map_d: [136, 33]
+    ensyuf_n: [175, 166]
+    ensyuf_d: [134, 25]
+    ensyue_n: [176, 0]
+    battle_n: [214, 198]
+    battle_d: [178, 60]
+    wed_a: [150, -34]
+    wed_b: [147, 209]
   wiki_id: "549"
   chinese_name: 平安丸改
   can_drop: false

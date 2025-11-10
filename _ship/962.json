@@ -14,7 +14,7 @@ data:
   get_mes: Bonjour! 大型高速駆逐艦、Mogador級一番艦Mogador<br>ここに。　貴方がAmiral?　ふうん……D’accord!<br>私に……任せてっ！
   voice_f: 1
   filename: hholfrhucolc
-  file_version: ["60", "3", "1105"]
+  file_version: ["61", "3", "1108"]
   book_table_id: [962, 5886, 5908, 5957, 5975]
   book_sinfo: Mogador級駆逐艦一番艦、Mogador。自由・平等・<br>博愛の国で建造された高速の大型駆逐艦です。軽巡並<br>みの排水量に充実の武装、最新最大の新鋭艦だったけ<br>ど…地中海を臨む港で、艦隊ごと自沈する最期となっ<br>たわ。今度は目一杯働いてみたい…そう？D’accord　Amiral！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 1]
     build_time: 82
   graph:
-    boko_n: [247, 224]
-    boko_d: [139, 311]
+    boko_n: [138, 230]
+    boko_d: [-32, 59]
     kaisyu_n: [56, 12]
     kaisyu_d: [28, 9]
-    kaizo_n: [255, 101]
-    kaizo_d: [135, 144]
-    map_n: [267, 195]
-    map_d: [168, 224]
-    ensyuf_n: [263, 181]
-    ensyuf_d: [164, 201]
-    ensyue_n: [263, 0]
-    battle_n: [283, 213]
-    battle_d: [186, 239]
-    wed_a: [101, -43]
-    wed_b: [92, 200]
+    kaizo_n: [145, 102]
+    kaizo_d: [-69, -113]
+    map_n: [168, 177]
+    map_d: [-38, 13]
+    ensyuf_n: [160, 178]
+    ensyuf_d: [-44, 8]
+    ensyue_n: [165, 0]
+    battle_n: [201, 207]
+    battle_d: [-13, 36]
+    wed_a: [173, -49]
+    wed_b: [116, 198]
   wiki_id: "562"
   chinese_name: 莫加多尔
   can_drop: true

@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 993
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 593
+  name: 樫
+  yomi: かし
+  stype: 2
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: dhielbiohoru
-  file_version: ["1", "1", "1"]
+  backs: 5
+  after_lv: 46
+  after_ship_id: 742
+  get_mes: や、提督、お疲れ様だ！丁型駆逐艦の樫！ここにいるぜ！<br>ああ、榧、杉共々、あたしのことも、よろしくな！
+  voice_f: 1
+  filename: lksqupsefcob
+  file_version: ["51", "1", "1108"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [14, 27]
+    souk: [5, 22]
+    houg: [5, 23]
+    raig: [16, 37]
+    tyku: [22, 62]
+    luck: [16, 72]
+    soku: 10
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 180
+    after_bull: 190
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 1, 0]
+    build_time: 14
   graph:
-    boko_n: [270, 222]
-    boko_d: [270, 222]
-    kaisyu_n: [60, -12]
-    kaisyu_d: [48, -12]
-    kaizo_n: [162, 138]
-    kaizo_d: [120, 120]
-    map_n: [156, 180]
-    map_d: [156, 180]
-    ensyuf_n: [186, 198]
-    ensyuf_d: [168, 198]
-    ensyue_n: [180, 0]
-    battle_n: [192, 198]
-    battle_d: [192, 198]
-    wed_a: [144, -12]
-    wed_b: [153, 132]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [180, 70]
+    boko_d: [-37, 211]
+    kaisyu_n: [116, -19]
+    kaisyu_d: [11, 77]
+    kaizo_n: [183, -44]
+    kaizo_d: [-47, 61]
+    map_n: [208, 18]
+    map_d: [-24, 154]
+    ensyuf_n: [206, 18]
+    ensyuf_d: [-24, 139]
+    ensyue_n: [207, 0]
+    battle_n: [242, 50]
+    battle_d: [10, 187]
+    wed_a: [142, 101]
+    wed_b: [102, 216]
+  wiki_id: "593"
+  chinese_name: 㭴
   can_drop: false
   can_construct: false
 ---

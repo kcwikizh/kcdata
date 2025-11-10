@@ -14,8 +14,8 @@ data:
   get_mes: ある悲劇をきっかけに日本で初めて建造された本格的な砕氷艦、<br>名前を「大泊」と申します。戦闘を目的とした艦ではありません<br>が、北方の漁業、航行、そして皆さんの生命をお護りします。
   voice_f: 1
   filename: loeakhqyilvu
-  file_version: ["54", "1", "1105"]
-  book_table_id: [995, 5978]
+  file_version: ["55", "1", "1108"]
+  book_table_id: [995, 5978, 6020]
   book_sinfo: 砕氷艦、大泊と申します。北方で起きた悲劇を契機に、<br>北の冷たい氷の海を渡れる砕氷艦として日本で初めて<br>建造されました。大湊を起点に、北方海域で活動する<br>皆さんの支えとして、警備、救難、支援に努めました。<br>戦後はあの宗谷へと繋がっていきます。覚えていてく<br>ださいね。
   stats:
     taik: [20, 30]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 0, 2]
     build_time: 60
   graph:
-    boko_n: [191, 222]
-    boko_d: [48, 370]
+    boko_n: [151, 222]
+    boko_d: [57, 225]
     kaisyu_n: [114, 74]
     kaisyu_d: [106, 97]
-    kaizo_n: [200, 89]
-    kaizo_d: [81, 155]
-    map_n: [220, 196]
-    map_d: [143, 279]
-    ensyuf_n: [217, 181]
-    ensyuf_d: [153, 210]
-    ensyue_n: [213, 0]
-    battle_n: [259, 213]
-    battle_d: [175, 246]
-    wed_a: [119, -47]
-    wed_b: [130, 184]
+    kaizo_n: [174, 88]
+    kaizo_d: [64, 64]
+    map_n: [179, 206]
+    map_d: [73, 211]
+    ensyuf_n: [180, 185]
+    ensyuf_d: [75, 189]
+    ensyue_n: [182, 0]
+    battle_n: [217, 218]
+    battle_d: [104, 223]
+    wed_a: [173, -47]
+    wed_b: [107, 184]
   wiki_id: "595"
   chinese_name: 大泊
   can_drop: true

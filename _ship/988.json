@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 988
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 588
+  name: 南海
+  yomi: のさき
+  stype: 22
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: plfsivqrtudj
-  file_version: ["1", "1", "1"]
+  backs: 4
+  after_lv: 16
+  after_ship_id: 996
+  get_mes: 冷凍船南海です。提督、小さな小さな雑役船ではありますが<br>……少しでも皆さんのお役に立てるよう、私、頑張ります！
+  voice_f: 1
+  filename: jwyfnlfylonb
+  file_version: ["51", "1", "1108"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [7, 11]
+    souk: [2, 12]
+    houg: [3, 7]
+    raig: [0, 0]
+    tyku: [4, 9]
+    luck: [6, 39]
+    soku: 5
+    leng: 1
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 1
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 60
+    after_bull: 10
+    fuel_max: 10
+    bull_max: 5
+    broken: [1, 0, 1, 0]
+    pow_up: [0, 0, 0, 1]
+    build_time: 12
   graph:
-    boko_n: [276, 252]
-    boko_d: [276, 252]
-    kaisyu_n: [24, 0]
-    kaisyu_d: [60, -24]
-    kaizo_n: [162, 138]
-    kaizo_d: [162, 138]
-    map_n: [174, 204]
-    map_d: [174, 204]
-    ensyuf_n: [168, 210]
-    ensyuf_d: [168, 210]
-    ensyue_n: [156, 0]
-    battle_n: [198, 228]
-    battle_d: [198, 228]
-    wed_a: [138, 0]
-    wed_b: [156, 168]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [141, 247]
+    boko_d: [84, 242]
+    kaisyu_n: [112, 67]
+    kaisyu_d: [86, 87]
+    kaizo_n: [166, 124]
+    kaizo_d: [99, 88]
+    map_n: [192, 198]
+    map_d: [133, 197]
+    ensyuf_n: [190, 179]
+    ensyuf_d: [130, 172]
+    ensyue_n: [186, 0]
+    battle_n: [223, 216]
+    battle_d: [150, 212]
+    wed_a: [136, -61]
+    wed_b: [152, 227]
+  wiki_id: "588"
+  chinese_name: 南海
   can_drop: false
   can_construct: false
 ---

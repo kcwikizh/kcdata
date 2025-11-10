@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 1025
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 615
+  name: Wasp
+  yomi: ワスプ
+  stype: 11
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: ftrssgjkpdpm
-  file_version: ["1", "1", "1"]
+  backs: 7
+  after_lv: 50
+  after_ship_id: 1030
+  get_mes: Hi！ Essex class航空母艦、６番艦！<br>Waspよ！　貴方がAdmiral？　いいんじゃない？<br>I kindly request you！
+  voice_f: 1
+  filename: otlfdtvvyftw
+  file_version: ["51", "1", "1108"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [65, 88]
+    souk: [43, 79]
+    houg: [37, 57]
+    raig: [0, 0]
+    tyku: [54, 90]
+    luck: [44, 88]
+    soku: 10
+    leng: 2
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 4
+    max_eq: [36, 36, 18, 6, 0]
+    after_fuel: 4000
+    after_bull: 3200
+    fuel_max: 75
+    bull_max: 80
+    broken: [9, 16, 43, 10]
+    pow_up: [2, 0, 4, 5]
+    build_time: 330
   graph:
-    boko_n: [48, 108]
-    boko_d: [24, 204]
-    kaisyu_n: [36, 0]
-    kaisyu_d: [66, 36]
-    kaizo_n: [0, 36]
-    kaizo_d: [12, 84]
-    map_n: [-36, 72]
-    map_d: [0, 168]
-    ensyuf_n: [24, 90]
-    ensyuf_d: [24, 120]
-    ensyue_n: [-36, 0]
-    battle_n: [24, 108]
-    battle_d: [48, 156]
-    wed_a: [313, 96]
-    wed_b: [178, 190]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [50, -17]
+    boko_d: [-20, 167]
+    kaisyu_n: [52, -51]
+    kaisyu_d: [32, 65]
+    kaizo_n: [43, -126]
+    kaizo_d: [-40, 27]
+    map_n: [58, -30]
+    map_d: [-18, 152]
+    ensyuf_n: [62, -42]
+    ensyuf_d: [-1, 145]
+    ensyue_n: [60, 0]
+    battle_n: [102, -1]
+    battle_d: [37, 187]
+    wed_a: [279, 166]
+    wed_b: [117, 200]
+  wiki_id: "615"
+  chinese_name: 胡蜂
   can_drop: false
   can_construct: false
 ---

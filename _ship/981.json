@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: wziuqfplfcgx
-  file_version: ["59", "37", "1105"]
+  file_version: ["60", "38", "1108"]
   book_table_id: [981, 6000, 5984, 5987, 6016]
   book_sinfo: 艦隊型駆逐艦の決定版、夕雲型の十一番艦、藤波だ<br>よ。三十二駆、そして十一水戦でデビューしたんだ。<br>かなり状況は良くなかったけど、できる限り頑張った<br>よ。最期は華の二水戦で、艦隊決戦、捷一号作戦に参<br>加した…うん…辛かったな。でも、やれるだけはやっ<br>たんだ。覚えておいてね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [-26, 140]
-    boko_d: [-17, 175]
+    boko_n: [294, 222]
+    boko_d: [315, 225]
     kaisyu_n: [21, -8]
     kaisyu_d: [46, 62]
-    kaizo_n: [-10, 28]
-    kaizo_d: [2, 28]
-    map_n: [13, 110]
-    map_d: [22, 134]
-    ensyuf_n: [11, 113]
-    ensyuf_d: [30, 117]
-    ensyue_n: [17, 0]
-    battle_n: [52, 124]
-    battle_d: [48, 157]
-    wed_a: [331, 25]
-    wed_b: [105, 218]
+    kaizo_n: [216, 132]
+    kaizo_d: [228, 99]
+    map_n: [246, 180]
+    map_d: [270, 180]
+    ensyuf_n: [204, 192]
+    ensyuf_d: [228, 192]
+    ensyue_n: [204, 0]
+    battle_n: [258, 222]
+    battle_d: [276, 222]
+    wed_a: [117, -6]
+    wed_b: [117, 168]
   wiki_id: "581"
   chinese_name: 藤波改二
   can_drop: false

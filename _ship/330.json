@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: tubwmcjwtlqx
-  file_version: ["30", "11", "1105"]
+  file_version: ["31", "12", "1108"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 3, 1]
     build_time: 30
   graph:
-    boko_n: [240, 210]
-    boko_d: [246, 210]
+    boko_n: [181, 184]
+    boko_d: [-11, 194]
     kaisyu_n: [30, 24]
     kaisyu_d: [48, -12]
-    kaizo_n: [144, 114]
-    kaizo_d: [150, 126]
-    map_n: [180, 168]
-    map_d: [174, 174]
-    ensyuf_n: [132, 174]
-    ensyuf_d: [144, 186]
-    ensyue_n: [144, 0]
-    battle_n: [192, 192]
-    battle_d: [192, 198]
-    wed_a: [162, 24]
-    wed_b: [138, 156]
+    kaizo_n: [173, 60]
+    kaizo_d: [-10, -2]
+    map_n: [190, 163]
+    map_d: [20, 155]
+    ensyuf_n: [185, 159]
+    ensyuf_d: [7, 125]
+    ensyue_n: [191, 0]
+    battle_n: [222, 183]
+    battle_d: [49, 159]
+    wed_a: [163, -18]
+    wed_b: [114, 204]
   wiki_id: "221a"
   chinese_name: 秋月改
   can_drop: false

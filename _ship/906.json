@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: drtppyclxnyn
-  file_version: ["55", "1", "1105"]
+  file_version: ["56", "1", "1108"]
   book_table_id: [906]
   book_sinfo: J級駆逐艦、ネームシップ、Javelinよ。ダンケルクか<br>ら地中海まで、縦横無尽に活躍したわ！そうよ、嚮導<br>艦こそJervisに譲ったものの、J級のネームシップはこ<br>の私なんだから！大破損傷を乗り越えて、Jervisと共<br>に、あの戦いを最後まで戦い切ったわ！<br>J級駆逐艦、貴方も覚えていてね。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 1, 1]
     build_time: 24
   graph:
-    boko_n: [127, 225]
-    boko_d: [52, 240]
+    boko_n: [156, 226]
+    boko_d: [156, 226]
     kaisyu_n: [48, 1]
     kaisyu_d: [58, 4]
-    kaizo_n: [142, 109]
-    kaizo_d: [69, 82]
-    map_n: [183, 195]
-    map_d: [118, 205]
-    ensyuf_n: [196, 189]
-    ensyuf_d: [112, 196]
-    ensyue_n: [189, 0]
-    battle_n: [231, 217]
-    battle_d: [139, 237]
-    wed_a: [139, -34]
-    wed_b: [108, 196]
+    kaizo_n: [175, 103]
+    kaizo_d: [160, 69]
+    map_n: [193, 187]
+    map_d: [193, 187]
+    ensyuf_n: [190, 180]
+    ensyuf_d: [190, 180]
+    ensyue_n: [199, 0]
+    battle_n: [213, 216]
+    battle_d: [213, 216]
+    wed_a: [145, -31]
+    wed_b: [109, 193]
   wiki_id: "506"
   chinese_name: 标枪改
   can_drop: false
