@@ -6,17 +6,17 @@ data:
   name: Eidsvold
   yomi: アイツヴォル
   stype: 1
-  ctype: 
-  cnum: 
+  ctype: 133
+  cnum: 2
   backs: 4
   after_lv: 43
   after_ship_id: 739
   get_mes: God dag.　わらわが海防戦艦、Eidsvold。<br>そう……ここがあの艦隊の港なのね。<br>よろしく。
   voice_f: 1
   filename: nrzyxlzhjdep
-  file_version: ["51", "1", "1105"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "1108"]
+  book_table_id: [999]
+  book_sinfo: 英国建造のノルウェーの護り、海防戦艦Eidsvoldです。<br>ナルヴィクでその護りについたけれど……友好的に降<br>伏するか、戦闘して抵抗するか議論があったわ。艦長<br>の判断で、抵抗を開始したけれど、もう遅かったわ……<br>ドイツ駆逐艦の放った魚雷の直撃で、わらわたちは、<br>その生涯を終えたの。
   stats:
     taik: [22, 33]
     souk: [18, 26]
@@ -26,8 +26,8 @@ data:
     luck: [3, 19]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 4
+    tais: 0
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 180

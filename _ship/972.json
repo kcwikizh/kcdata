@@ -14,7 +14,7 @@ data:
   get_mes: 伊号潜水艦、巡潜乙型改一。その二番艦、伊41、見参！<br>あんたが提督って訳かい？　あの艦長とどっちがすげーかな？<br>ま、見せておくれよ、その采配ってのを！
   voice_f: 1
   filename: dmjndywdalef
-  file_version: ["53", "1", "1105"]
+  file_version: ["54", "1", "1108"]
   book_table_id: [972, 5909]
   book_sinfo: 伊号潜水艦、主力の巡潜乙型の改良型、その二番艦<br>伊41だ。名艦長の板倉艦長の指揮で、結構危ない橋を<br>何度も渡って任務を成功させてきたんだ。<br>艦長と縁の深い昔の上官を助けるために既に危険海域<br>だったブインの補給にも向かったよ。<br>みんなの事……忘れるなよ。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 2, 1, 0]
     build_time: 22
   graph:
-    boko_n: [138, 244]
-    boko_d: [249, 235]
+    boko_n: [196, 228]
+    boko_d: [196, 228]
     kaisyu_n: [46, -36]
     kaisyu_d: [51, 34]
-    kaizo_n: [130, 121]
-    kaizo_d: [238, 81]
-    map_n: [151, 199]
-    map_d: [265, 198]
-    ensyuf_n: [148, 183]
-    ensyuf_d: [262, 181]
-    ensyue_n: [145, 0]
-    battle_n: [169, 228]
-    battle_d: [285, 223]
-    wed_a: [169, -52]
-    wed_b: [139, 220]
+    kaizo_n: [194, 114]
+    kaizo_d: [179, 79]
+    map_n: [215, 190]
+    map_d: [215, 190]
+    ensyuf_n: [210, 180]
+    ensyuf_d: [210, 180]
+    ensyue_n: [214, 0]
+    battle_n: [226, 213]
+    battle_d: [226, 213]
+    wed_a: [140, -43]
+    wed_b: [83, 212]
   wiki_id: "572"
   chinese_name: 伊41
   can_drop: false

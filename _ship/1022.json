@@ -6,17 +6,17 @@ data:
   name: Glorious
   yomi: グローリアス
   stype: 8
-  ctype: 
-  cnum: 
+  ctype: 134
+  cnum: 2
   backs: 5
   after_lv: 10
   after_ship_id: 1027
   get_mes: Courageous級巡洋戦艦、Gloriousです。<br>少し海軍軍縮条約の様子が気になるけれど……貴方が私達の<br>Admiralなのですね。よろしくお願いいたしますね！
   voice_f: 0
   filename: gskohgbesgir
-  file_version: ["51", "1", "1105"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "1108"]
+  book_table_id: [1022]
+  book_sinfo: Courageous級巡洋戦艦Gloriousです。敵巡洋艦を圧<br>倒する軽巡洋戦艦として就役、海軍軍縮条約の戦艦枠<br>制限により航空母艦へ改装されました。英海軍の初期<br>主力空母として活躍、ノルウェー防衛戦に投入された<br>ものの水上艦の砲撃で撃沈されました。赤城や加賀の<br>ように戦艦から空母に改装された私、覚えていてね。
   stats:
     taik: [55, 78]
     souk: [49, 59]
@@ -26,8 +26,8 @@ data:
     luck: [6, 39]
     soku: 10
     leng: 3
-    kaih: 
-    tais: 
+    kaih: 32
+    tais: 0
     slot_num: 4
     max_eq: [1, 1, 1, 1, 0]
     after_fuel: 650

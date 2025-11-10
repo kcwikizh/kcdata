@@ -14,7 +14,7 @@ data:
   get_mes: 白露型駆逐艦五番艦の春雨です、はい。<br>輸送作戦はお任せください……です。
   voice_f: 3
   filename: qbquymgnrkst
-  file_version: ["65", "14", "1105"]
+  file_version: ["65", "15", "1108"]
   book_table_id: [975, 5918]
   book_sinfo: 白露型駆逐艦五番艦の春雨です。<br>おいしそう…ってその春雨とは違います！村雨や夕立<br>姉さんたちと共に第二駆逐隊として海を駆け巡りまし<br>た！輸送や護衛任務は、少し得意なんです。はい！
   stats:
