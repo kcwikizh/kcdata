@@ -1,0 +1,395 @@
+---
+layout: json
+order: 615
+data:
+  id: 615
+  name: 銚子沖/北海道沖/三陸沖太平洋
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: 1
+      to: A1
+    3:
+      from: A1
+      to: A2
+    4:
+      from: A
+      to: B
+    5:
+      from: B
+      to: B1
+    6:
+      from: A2
+      to: B2
+    7:
+      from: B
+      to: C
+    8:
+      from: C
+      to: C1
+    9:
+      from: C
+      to: C2
+    10:
+      from: C2
+      to: D
+    11:
+      from: A2
+      to: E
+    12:
+      from: B1
+      to: F
+    13:
+      from: E
+      to: G
+    14:
+      from: F
+      to: H
+    15:
+      from: E
+      to: I
+    16:
+      from: A
+      to: A1
+    17:
+      from: B
+      to: A1
+    18:
+      from: B1
+      to: B2
+    19:
+      from: B1
+      to: C
+    20:
+      from: C1
+      to: C2
+    21:
+      from: B2
+      to: F
+    22:
+      from: F
+      to: G
+    23:
+      from: G
+      to: H
+    24:
+      from: G
+      to: I
+    25:
+      from: 2
+      to: J
+    26:
+      from: J
+      to: K
+    27:
+      from: K
+      to: L
+    28:
+      from: J
+      to: M
+    29:
+      from: J
+      to: N
+    30:
+      from: N
+      to: O
+    31:
+      from: N
+      to: P
+    32:
+      from: K
+      to: M
+    33:
+      from: L
+      to: M
+    34:
+      from: M
+      to: N
+    35:
+      from: 2
+      to: C
+    36:
+      from: null
+      to: 2
+    37:
+      from: I
+      to: Q
+    38:
+      from: C
+      to: R
+    39:
+      from: R
+      to: S
+    40:
+      from: D
+      to: T
+    41:
+      from: D
+      to: U
+    42:
+      from: C2
+      to: S
+    43:
+      from: R
+      to: D
+    44:
+      from: S
+      to: D
+    45:
+      from: I
+      to: V
+    46:
+      from: V
+      to: W
+    47:
+      from: W
+      to: X
+    48:
+      from: A
+      to: E
+    49:
+      from: I
+      to: W
+    50:
+      from: W
+      to: T
+    51:
+      from: Q
+      to: Y
+    52:
+      from: Y
+      to: Z
+    53:
+      from: Z
+      to: Z1
+    54:
+      from: Z
+      to: Z2
+    55:
+      from: Z
+      to: ZZ
+    56:
+      from: Z2
+      to: ZZ
+    57:
+      from: H
+      to: Y
+    58:
+      from: B2
+      to: AA
+    59:
+      from: AA
+      to: AB
+    60:
+      from: F
+      to: AA
+    61:
+      from: AC
+      to: AA
+    62:
+      from: AB
+      to: Y
+    63:
+      from: AC
+      to: B2
+    64:
+      from: null
+      to: AC
+  cells:
+    A:
+      name: 深海潜水艦隊 前衛偵察集団
+      type:
+      boss: false
+      routes: [1]
+    A1:
+      name: 深海潜水艦隊 関東沖哨戒集団
+      type:
+      boss: false
+      routes: [2, 16, 17]
+    A2:
+      name: 
+      type:
+      boss: false
+      routes: [3]
+    B:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [4]
+    B1:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [5]
+    B2:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [6, 18, 63]
+    C:
+      name: 深海任務部隊 先遣偵察戦隊
+      type:
+      boss: false
+      routes: [7, 19, 35]
+    C1:
+      name: 深海潜水艦隊 北海道沖哨戒集団
+      type:
+      boss: false
+      routes: [8]
+    C2:
+      name: 深海任務部隊 高速水雷戦隊 I群
+      type:
+      boss: false
+      routes: [9, 20]
+    D:
+      name: 深海任務部隊 精鋭駆逐隊α隊
+      type:
+      boss: false
+      routes: [10, 43, 44]
+    E:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [11, 48]
+    F:
+      name: 深海任務部隊 北海道空襲任務群
+      type:
+      boss: false
+      routes: [12, 21]
+    G:
+      name: 深海任務部隊 高速水雷戦隊 III群
+      type:
+      boss: false
+      routes: [13, 22]
+    H:
+      name: 深海任務部隊 精鋭駆逐隊β隊
+      type:
+      boss: false
+      routes: [14, 23]
+    I:
+      name: 深海任務部隊 精鋭駆逐隊γ隊
+      type:
+      boss: false
+      routes: [15, 24]
+    J:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [25]
+    K:
+      name: 深海潜水艦隊 日本海侵入集団
+      type:
+      boss: false
+      routes: [26]
+    L:
+      name: 
+      type:
+      boss: false
+      routes: [27]
+    M:
+      name: 深海任務部隊 敵地浸透支援戦隊
+      type:
+      boss: false
+      routes: [28, 32, 33]
+    N:
+      name: 深海任務部隊 高速水雷戦隊 II群
+      type:
+      boss: false
+      routes: [29, 34]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [30]
+    P:
+      name: 深海潜水艦隊 日本海侵入隊旗艦
+      type:
+      boss: false
+      routes: [31]
+    Q:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [37]
+    R:
+      name: 深海潜水艦隊 三陸沖哨戒線 I群
+      type:
+      boss: false
+      routes: [38]
+    S:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [39, 42]
+    T:
+      name: 
+      type:
+      boss: false
+      routes: [40, 50]
+    U:
+      name: 深海任務部隊 空母機動部隊
+      type:
+      boss: false
+      routes: [41]
+    V:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [45]
+    W:
+      name: 深海任務部隊 機動部隊 別動隊
+      type:
+      boss: false
+      routes: [46, 49]
+    X:
+      name: 深海任務部隊 主力水上打撃群
+      type:
+      boss: false
+      routes: [47]
+    Y:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [51, 57, 62]
+    Z:
+      name: 深海任務部隊 随伴護衛空母群
+      type:
+      boss: false
+      routes: [52]
+    Z1:
+      name: 
+      type:
+      boss: false
+      routes: [53]
+    Z2:
+      name: 
+      type:
+      boss: false
+      routes: [54]
+    ZZ:
+      name: 深海任務部隊 主力空母旗艦艦隊
+      type:
+      boss: true
+      routes: [55, 56]
+    AA:
+      name: 深海潜水艦隊 三陸沖哨戒線 II群
+      type:
+      boss: false
+      routes: [58, 60, 61]
+    AB:
+      name: 深海任務部隊 増援遊撃打撃群
+      type:
+      boss: false
+      routes: [59]
+    AC:
+      name: 
+      type:
+      boss: false
+      routes: [64]
+  image: MapHDE-5Autumn2025.png
+---
