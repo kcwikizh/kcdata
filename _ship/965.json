@@ -14,7 +14,7 @@ data:
   get_mes: 貴方がMon amiralね？ Bonjour! 私、La Galissonnière級<br>軽巡洋艦Gloire !　トリコロール、好きだけれど……ちょっと<br>目立つかしら……あとで着替えてみますね？
   voice_f: 1
   filename: qdtvivowgbjo
-  file_version: ["56", "1", "1108"]
+  file_version: ["58", "1", "128"]
   book_table_id: [965, 5911, 5950]
   book_sinfo: フランス生まれのLa Galissonnière級軽巡洋艦<br>Gloireです。<br>艦隊は色々あったけど、私はダカールで連合国側に。<br>そして、ニューヨークで改装されたの。栄光の名を持<br>つ軽巡洋艦。私の事も覚えておいてね！
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [2, 0, 2, 2]
     build_time: 70
   graph:
-    boko_n: [127, 217]
-    boko_d: [64, 302]
+    boko_n: [78, 209]
+    boko_d: [192, 211]
     kaisyu_n: [30, 2]
     kaisyu_d: [55, 9]
-    kaizo_n: [122, 95]
-    kaizo_d: [113, 141]
-    map_n: [145, 168]
-    map_d: [115, 241]
-    ensyuf_n: [141, 172]
-    ensyuf_d: [113, 196]
-    ensyue_n: [133, 0]
-    battle_n: [178, 198]
-    battle_d: [162, 247]
-    wed_a: [211, -29]
-    wed_b: [100, 196]
+    kaizo_n: [81, 81]
+    kaizo_d: [183, 50]
+    map_n: [101, 175]
+    map_d: [213, 175]
+    ensyuf_n: [88, 174]
+    ensyuf_d: [212, 175]
+    ensyue_n: [78, 0]
+    battle_n: [126, 202]
+    battle_d: [230, 203]
+    wed_a: [247, -41]
+    wed_b: [119, 201]
   wiki_id: "565"
   chinese_name: 光荣(Gloire)
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

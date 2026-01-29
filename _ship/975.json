@@ -14,7 +14,7 @@ data:
   get_mes: 白露型駆逐艦五番艦の春雨です、はい。<br>輸送作戦はお任せください……です。
   voice_f: 3
   filename: qbquymgnrkst
-  file_version: ["65", "15", "1108"]
+  file_version: ["66", "16", "128"]
   book_table_id: [975, 5918]
   book_sinfo: 白露型駆逐艦五番艦の春雨です。<br>おいしそう…ってその春雨とは違います！村雨や夕立<br>姉さんたちと共に第二駆逐隊として海を駆け巡りまし<br>た！輸送や護衛任務は、少し得意なんです。はい！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 2, 1]
     build_time: 22
   graph:
-    boko_n: [301, 205]
-    boko_d: [144, 130]
+    boko_n: [178, 219]
+    boko_d: [157, 253]
     kaisyu_n: [112, 61]
     kaisyu_d: [109, 78]
-    kaizo_n: [209, 92]
-    kaizo_d: [42, -24]
-    map_n: [243, 189]
-    map_d: [72, 84]
-    ensyuf_n: [264, 156]
-    ensyuf_d: [48, 60]
+    kaizo_n: [190, 99]
+    kaizo_d: [175, 79]
+    map_n: [217, 178]
+    map_d: [202, 186]
+    ensyuf_n: [214, 174]
+    ensyuf_d: [196, 180]
     ensyue_n: [216, 0]
-    battle_n: [252, 192]
-    battle_d: [84, 96]
-    wed_a: [30, -12]
-    wed_b: [198, 204]
+    battle_n: [246, 208]
+    battle_d: [222, 216]
+    wed_a: [127, -31]
+    wed_b: [117, 214]
   wiki_id: "575"
   chinese_name: 春雨改二
   can_drop: false

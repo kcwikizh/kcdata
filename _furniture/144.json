@@ -8,7 +8,7 @@ data:
   description: 冬を迎える各鎮守府に必要<br>なもの…それは充実の煖房<br>器具。その原点にして頂点<br>ともいえるこのストーブ。<br>やかんもセットでどうぞ！
   rarity: 3
   price: 2000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 

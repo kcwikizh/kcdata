@@ -8,7 +8,7 @@ data:
   description: 特注家具職人がその持てる<br>技と節分の魂を込めて作り<br>上げた職人仕上げの立春の<br>飾り窓です。そっと閉じて<br>みるのも気分転換によし！
   rarity: 4
   price: 2300
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: "058"
   file_version: 1

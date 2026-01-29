@@ -14,8 +14,8 @@ data:
   get_mes: God dag.　わらわが海防戦艦、Eidsvold。<br>そう……ここがあの艦隊の港なのね。<br>よろしく。
   voice_f: 1
   filename: nrzyxlzhjdep
-  file_version: ["51", "1", "1108"]
-  book_table_id: [999]
+  file_version: ["53", "1", "128"]
+  book_table_id: [999, 6100]
   book_sinfo: 英国建造のノルウェーの護り、海防戦艦Eidsvoldです。<br>ナルヴィクでその護りについたけれど……友好的に降<br>伏するか、戦闘して抵抗するか議論があったわ。艦長<br>の判断で、抵抗を開始したけれど、もう遅かったわ……<br>ドイツ駆逐艦の放った魚雷の直撃で、わらわたちは、<br>その生涯を終えたの。
   stats:
     taik: [22, 33]
@@ -55,6 +55,6 @@ data:
     wed_b: [117, 212]
   wiki_id: "599"
   chinese_name: 埃兹沃尔
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

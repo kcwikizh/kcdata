@@ -6,17 +6,17 @@ data:
   name: 野埼
   yomi: のさき
   stype: 22
-  ctype: 
-  cnum: 
+  ctype: 136
+  cnum: 1
   backs: 5
   after_lv: 60
   after_ship_id: 1002
   get_mes: <br>
   voice_f: 3
   filename: cpcargcnbxgu
-  file_version: ["51", "1", "1108"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["52", "1", "128"]
+  book_table_id: [996]
+  book_sinfo: 海軍直属の独自冷凍船南海として就役、文字通り南方<br>の海などで食糧の輸送任務に務めた後、艦隊を食糧の<br>補給等で支援する特務艦となった野埼です。大戦末期、<br>米潜水艦に襲撃されて全滅するところを…礼号作戦帰<br>りの丁型駆逐艦達に助けられました。小さな私の事も…<br>覚えていてくださいね。
   stats:
     taik: [8, 13]
     souk: [3, 16]
@@ -26,8 +26,8 @@ data:
     luck: [7, 48]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 4
+    tais: 0
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 60

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ihdaromldkrr
-  file_version: ["1", "1", "1108"]
+  file_version: ["1", "1", "128"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -22,7 +22,7 @@ data:
     souk: [11, 38]
     houg: [7, 38]
     raig: [14, 68]
-    tyku: [10, 56]
+    tyku: [12, 59]
     luck: [30, 89]
     soku: 10
     leng: 1

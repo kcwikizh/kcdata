@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 973
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: gojgotxmhiik
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 573
+  name: Thonburi
+  yomi: トンブリ
+  stype: 1
+  ctype: 137
+  cnum: 1
+  backs: 5
+  after_lv: 40
+  after_ship_id: 978
+  get_mes: ยินดีที่ได้รู้จักค่ะ<br>私が、タイ王国 海防戦艦 トンブリです！<br>提督！どうぞ、よろしくお願いいたします！
+  voice_f: 1
+  filename: ckxnrfwpufgs
+  file_version: ["51", "1", "128"]
+  book_table_id: [973]
+  book_sinfo: タイ王国海軍の最大戦力として生まれた海防戦艦トン<br>ブリです。日本の神戸造船さんで建造されました。<br>三段式空母時代の赤城さんや加賀さんと同じ、重巡級<br>の主砲を駆逐艦並みの体に二基4門装備しています。<br>激しい戦いを経て、私の艦橋と主砲の一部は今も祖国<br>で、皆を見守っています。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [19, 29]
+    souk: [13, 23]
+    houg: [26, 46]
+    raig: [0, 0]
+    tyku: [9, 17]
+    luck: [8, 48]
+    soku: 5
+    leng: 2
+    kaih: 5
+    tais: 0
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 160
+    after_bull: 300
+    fuel_max: 10
+    bull_max: 30
+    broken: [1, 2, 6, 0]
+    pow_up: [2, 0, 0, 1]
+    build_time: 22
   graph:
-    boko_n: [156, 204]
-    boko_d: [96, 234]
-    kaisyu_n: [12, 12]
-    kaisyu_d: [36, 24]
-    kaizo_n: [48, 96]
-    kaizo_d: [0, 108]
-    map_n: [66, 168]
-    map_d: [24, 174]
-    ensyuf_n: [54, 156]
-    ensyuf_d: [0, 174]
-    ensyue_n: [48, 0]
-    battle_n: [90, 180]
-    battle_d: [36, 198]
-    wed_a: [270, 30]
-    wed_b: [126, 192]
+    boko_n: [-43, 121]
+    boko_d: [-122, 180]
+    kaisyu_n: [25, -40]
+    kaisyu_d: [30, -21]
+    kaizo_n: [-50, -13]
+    kaizo_d: [-105, 6]
+    map_n: [-28, 77]
+    map_d: [-52, 124]
+    ensyuf_n: [-34, 57]
+    ensyuf_d: [-45, 105]
+    ensyue_n: [-38, 0]
+    battle_n: [6, 94]
+    battle_d: [-11, 142]
+    wed_a: [371, 74]
+    wed_b: [120, 217]
   wiki_id: 
   chinese_name: 
   can_drop: false

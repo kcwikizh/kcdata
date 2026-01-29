@@ -3,15 +3,15 @@ layout: json
 order: 547
 data:
   id: 547
-  sort_no: 0
-  name: 深海猫艦戦
-  type: [3, 5, 6, 6, 0]
-  rare: 3
-  broken: [0, 0, 0, 0]
+  sort_no: 547
+  name: 震電改二(艦戦型改二)
+  type: [3, 5, 6, 6, 20]
+  rare: 5
+  broken: [3, 3, 0, 29]
   info: 
   usebull: 0
   cost: 9
-  distance: 8
+  distance: 3
   stats:
     taik: 0
     souk: 0
@@ -19,15 +19,15 @@ data:
     raig: 0
     soku: 0
     baku: 0
-    tyku: 10
+    tyku: 16
     tais: 0
     atap: 0
     houm: 1
     raim: 0
-    houk: 0
+    houk: 1
     raik: 0
     bakk: 0
-    saku: 0
+    saku: 1
     sakb: 0
     luck: 0
     leng: 0

@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: qtgwnstgzbdp
-  file_version: ["61", "3", "1108"]
-  book_table_id: [967, 5887]
+  file_version: ["64", "3", "128"]
+  book_table_id: [967, 5887, 6106]
   book_sinfo: Mogador級駆逐艦一番艦、Mogador。自由・平等・<br>博愛の国で建造された高速の大型駆逐艦です。軽巡並<br>みの排水量に充実の武装、最新最大の新鋭艦だったけ<br>ど…地中海を臨む港で、艦隊ごと自沈する最期となっ<br>たわ。今度は目一杯働いてみたい…そう？D’accord　Amiral！
   stats:
     taik: [38, 57]
@@ -38,21 +38,21 @@ data:
     pow_up: [3, 1, 1, 1]
     build_time: 82
   graph:
-    boko_n: [138, 230]
-    boko_d: [-32, 59]
+    boko_n: [128, 206]
+    boko_d: [102, 192]
     kaisyu_n: [56, 12]
     kaisyu_d: [28, 9]
-    kaizo_n: [145, 102]
-    kaizo_d: [-69, -113]
-    map_n: [168, 177]
-    map_d: [-38, 13]
-    ensyuf_n: [160, 178]
-    ensyuf_d: [-44, 8]
-    ensyue_n: [165, 0]
-    battle_n: [201, 207]
-    battle_d: [-13, 36]
-    wed_a: [173, -49]
-    wed_b: [116, 198]
+    kaizo_n: [121, 78]
+    kaizo_d: [95, 6]
+    map_n: [144, 162]
+    map_d: [128, 133]
+    ensyuf_n: [141, 154]
+    ensyuf_d: [123, 119]
+    ensyue_n: [154, 0]
+    battle_n: [162, 184]
+    battle_d: [145, 156]
+    wed_a: [214, -14]
+    wed_b: [102, 192]
   wiki_id: "567"
   chinese_name: 莫加多尔改
   can_drop: false

@@ -14,9 +14,9 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: idhoawqrgkqh
-  file_version: ["50", "13", "1108"]
-  book_table_id: [434]
-  book_sinfo: 帝国海軍の駆逐艦で初めて大型で強力な61cm魚雷を搭載しました、睦月です！<br>旧式ながら、第一線で頑張ったのです！
+  file_version: ["52", "13", "128"]
+  book_table_id: [434, 6135]
+  book_sinfo: 帝国海軍の駆逐艦で初めて大型で強力な61cm魚雷を<br>搭載しました、睦月です！<br>旧式ながら、第一線で頑張ったのです！
   stats:
     taik: [27, 43]
     souk: [12, 43]
