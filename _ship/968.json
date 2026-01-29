@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ojfggcctkimu
-  file_version: ["54", "1", "1108"]
+  file_version: ["55", "1", "128"]
   book_table_id: [968]
   book_sinfo: 改秋月型防空駆逐艦、初月だ。<br>姉さんたちと共に、第六十一駆逐隊を編成、マリアナ<br>沖海戦や、レイテ沖海戦に参加した。<br>防空戦闘、空母救援を実施した後、艦隊の殿として<br>僕は敵艦隊に向かった。そうだ、今度も守り抜く。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 4, 1]
     build_time: 30
   graph:
-    boko_n: [184, 223]
-    boko_d: [118, 240]
+    boko_n: [36, 207]
+    boko_d: [110, 213]
     kaisyu_n: [30, 12]
     kaisyu_d: [104, -54]
-    kaizo_n: [165, 88]
-    kaizo_d: [82, 69]
-    map_n: [207, 183]
-    map_d: [136, 199]
-    ensyuf_n: [196, 193]
-    ensyuf_d: [127, 210]
-    ensyue_n: [168, 0]
-    battle_n: [232, 207]
-    battle_d: [165, 219]
-    wed_a: [163, -15]
-    wed_b: [91, 150]
+    kaizo_n: [13, 102]
+    kaizo_d: [120, 32]
+    map_n: [41, 170]
+    map_d: [171, 142]
+    ensyuf_n: [34, 171]
+    ensyuf_d: [171, 121]
+    ensyue_n: [34, 0]
+    battle_n: [54, 191]
+    battle_d: [218, 154]
+    wed_a: [290, -29]
+    wed_b: [148, 201]
   wiki_id: "568"
   chinese_name: 初月改二
   can_drop: false

@@ -6,17 +6,17 @@ data:
   name: Wasp改
   yomi: ワスプ
   stype: 11
-  ctype: 
-  cnum: 
+  ctype: 84
+  cnum: 6
   backs: 8
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: lphbgfrqltud
-  file_version: ["51", "1", "1108"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "128"]
+  book_table_id: [1030]
+  book_sinfo: Essex級航空母艦6番艦、Waspです。そう、あの空母<br>の名前を継いだ、あの戦い最強の量産型正規空母の一<br>隻。日本の本当に本土近くまで進出して攻撃を実施し<br>たわ。もちろん、反撃も凄かったけど。<br>現代では強力な戦力を投射する強襲揚陸艦にその名は<br>継がれているの。
   stats:
     taik: [69, 90]
     souk: [52, 88]
@@ -26,8 +26,8 @@ data:
     luck: [48, 96]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 43
+    tais: 0
     slot_num: 4
     max_eq: [36, 36, 24, 16, 0]
     after_fuel: 

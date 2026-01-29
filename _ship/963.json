@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 963
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 563
+  name: 秋月改二
+  yomi: あきづき
+  stype: 2
+  ctype: 54
+  cnum: 1
+  backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: ebdanozndpfs
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: whamutjphsdh
+  file_version: ["51", "1", "128"]
+  book_table_id: [963]
+  book_sinfo: 艦隊防空のために建造された乙型一等駆逐艦、秋月型<br>駆逐艦一番艦、秋月です。<br>４基８門の長10cm砲と高射装置を備えた防空艦とし<br>て、僚艦の初月らと共に第61駆逐隊を編成しまし<br>た。頑張ります！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [38, 58]
+    souk: [19, 56]
+    houg: [28, 67]
+    raig: [26, 84]
+    tyku: [84, 119]
+    luck: [17, 82]
+    soku: 10
+    leng: 1
+    kaih: 52
+    tais: 33
+    slot_num: 4
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 25
+    bull_max: 30
+    broken: [2, 3, 14, 2]
+    pow_up: [2, 1, 4, 1]
+    build_time: 30
   graph:
-    boko_n: [238, 207]
-    boko_d: [187, 234]
-    kaisyu_n: [42, 33]
-    kaisyu_d: [51, 45]
-    kaizo_n: [144, 90]
-    kaizo_d: [132, 111]
-    map_n: [168, 168]
-    map_d: [151, 202]
-    ensyuf_n: [156, 180]
-    ensyuf_d: [183, 192]
-    ensyue_n: [150, 0]
-    battle_n: [192, 180]
-    battle_d: [180, 210]
-    wed_a: [153, 12]
-    wed_b: [153, 192]
+    boko_n: [-178, 202]
+    boko_d: [48, 203]
+    kaisyu_n: [13, 3]
+    kaisyu_d: [90, 85]
+    kaizo_n: [-155, 101]
+    kaizo_d: [44, 69]
+    map_n: [-158, 168]
+    map_d: [85, 183]
+    ensyuf_n: [-163, 171]
+    ensyuf_d: [87, 173]
+    ensyue_n: [-159, 0]
+    battle_n: [-122, 195]
+    battle_d: [128, 209]
+    wed_a: [512, -24]
+    wed_b: [118, 197]
   wiki_id: 
   chinese_name: 
   can_drop: false

@@ -14,8 +14,8 @@ data:
   get_mes: Courageous級巡洋戦艦、Gloriousです。<br>少し海軍軍縮条約の様子が気になるけれど……貴方が私達の<br>Admiralなのですね。よろしくお願いいたしますね！
   voice_f: 3
   filename: mlntixnqlulr
-  file_version: ["51", "1", "1108"]
-  book_table_id: [1027]
+  file_version: ["51", "1", "128"]
+  book_table_id: [1027, 741]
   book_sinfo: Courageous級巡洋戦艦Gloriousです。敵巡洋艦を圧<br>倒する軽巡洋戦艦として就役、海軍軍縮条約の戦艦枠<br>制限により航空母艦へ改装されました。英海軍の初期<br>主力空母として活躍、ノルウェー防衛戦に投入された<br>ものの水上艦の砲撃で撃沈されました。赤城や加賀の<br>ように戦艦から空母に改装された私、覚えていてね。
   stats:
     taik: [55, 78]

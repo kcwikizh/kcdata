@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ontbbraptnwh
-  file_version: ["127", "51", "1108"]
+  file_version: ["130", "52", "128"]
   book_table_id: [665, 5520, 5972, 5553, 5599, 5641, 5711, 5778, 5948, 6047]
   book_sinfo: 特型駆逐艦１８番艦、綾波型の８番艦、曙よ。<br>お相撲さんではないわ。覚えておいて。<br>初の空母戦、珊瑚海海戦にも参加したわ！<br>けど、何気に潜水艦は苦手かな…。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 2, 2, 1]
     build_time: 22
   graph:
-    boko_n: [94, -133]
-    boko_d: [-73, 325]
+    boko_n: [112, 205]
+    boko_d: [-7, 203]
     kaisyu_n: [10, -19]
     kaisyu_d: [-3, -49]
-    kaizo_n: [100, -237]
-    kaizo_d: [-46, 153]
-    map_n: [103, -162]
-    map_d: [-88, 238]
-    ensyuf_n: [106, -172]
-    ensyuf_d: [-64, 216]
-    ensyue_n: [109, 0]
-    battle_n: [147, -130]
-    battle_d: [-7, 273]
-    wed_a: [238, 331]
-    wed_b: [118, 174]
+    kaizo_n: [115, 86]
+    kaizo_d: [-6, 49]
+    map_n: [139, 175]
+    map_d: [19, 174]
+    ensyuf_n: [135, 163]
+    ensyuf_d: [15, 163]
+    ensyue_n: [130, 0]
+    battle_n: [174, 192]
+    battle_d: [56, 193]
+    wed_a: [229, -30]
+    wed_b: [94, 209]
   wiki_id: "465"
   chinese_name: 曙改二
   can_drop: false

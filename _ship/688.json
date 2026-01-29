@@ -9,12 +9,12 @@ data:
   ctype: 
   cnum: 
   backs: 5
-  after_lv: 
-  after_ship_id: 
+  after_lv: 79
+  after_ship_id: 982
   get_mes: <br>
   voice_f: 3
   filename: mcqjnasritke
-  file_version: ["93", "35", "1108"]
+  file_version: ["96", "35", "128"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -22,16 +22,16 @@ data:
     souk: [14, 49]
     houg: [12, 51]
     raig: [27, 80]
-    tyku: [18, 58]
-    luck: [10, 55]
+    tyku: [18, 59]
+    luck: [11, 57]
     soku: 10
     leng: 1
     kaih: 
     tais: 
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 390
+    after_bull: 370
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]

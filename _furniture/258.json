@@ -8,7 +8,7 @@ data:
   description: 鎮守府秋祭りの重要コンテ<br>ンツ、それがこの縁日射的<br>です。練度の高い艦娘がど<br>んどん景品を落としてしま<br>うので運営コストが大変！
   rarity: 4
   price: 30000
-  saleflg: 1
+  saleflg: 0
   season: 21
   filename: "055"
   file_version: 2

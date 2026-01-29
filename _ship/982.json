@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 982
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 582
+  name: 早波改二
+  yomi: はやなみ
+  stype: 2
+  ctype: 38
+  cnum: 12
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: davhwcstkblv
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: fikhwfaotpvl
+  file_version: ["62", "1", "128"]
+  book_table_id: [982]
+  book_sinfo: あたし、夕雲型駆逐艦、その十二番艦、早波。そうで<br>す、藤波お姉ちゃんの妹です。第二水雷戦隊の一翼と<br>して、護衛や哨戒はもちろん、輸送作戦だって頑張り<br>ました。え…タウイ？対潜哨戒？　ううん、今度は負<br>けないもン！お姉ちゃん、司令、見てて！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [33, 56]
+    souk: [15, 53]
+    houg: [18, 63]
+    raig: [30, 89]
+    tyku: [28, 78]
+    luck: [20, 87]
+    soku: 10
+    leng: 1
+    kaih: 45
+    tais: 29
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 24
   graph:
-    boko_n: [252, 228]
-    boko_d: [270, 216]
-    kaisyu_n: [36, 12]
-    kaisyu_d: [60, 36]
-    kaizo_n: [150, 120]
-    kaizo_d: [114, 96]
-    map_n: [150, 174]
-    map_d: [120, 168]
-    ensyuf_n: [156, 174]
-    ensyuf_d: [108, 168]
-    ensyue_n: [144, 0]
-    battle_n: [186, 198]
-    battle_d: [144, 198]
-    wed_a: [156, 0]
-    wed_b: [153, 192]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [56, 131]
+    boko_d: [95, 197]
+    kaisyu_n: [40, 13]
+    kaisyu_d: [120, 27]
+    kaizo_n: [68, 16]
+    kaizo_d: [80, 4]
+    map_n: [112, 105]
+    map_d: [157, 142]
+    ensyuf_n: [98, 90]
+    ensyuf_d: [161, 78]
+    ensyue_n: [99, 0]
+    battle_n: [140, 125]
+    battle_d: [176, 136]
+    wed_a: [233, 38]
+    wed_b: [126, 217]
+  wiki_id: "582"
+  chinese_name: 早波改二
   can_drop: false
   can_construct: false
 ---

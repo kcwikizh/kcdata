@@ -8,7 +8,7 @@ data:
   description: 艦娘総出で準備する鎮守府<br>秋祭り。焼きそばソースの<br>香ばしい匂いも嬉しい縁日<br>屋台です。りんご飴や焼き<br>とうもろこしも外せない！
   rarity: 4
   price: 2200
-  saleflg: 1
+  saleflg: 0
   season: 21
   filename: "054"
   file_version: 2

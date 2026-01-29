@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ihxtuallivwo
-  file_version: ["59", "1", "1108"]
+  file_version: ["63", "1", "128"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 0, 2, 4]
     build_time: 300
   graph:
-    boko_n: [-135, 208]
-    boko_d: [70, 238]
+    boko_n: [60, 146]
+    boko_d: [149, 131]
     kaisyu_n: [21, -9]
     kaisyu_d: [52, 6]
-    kaizo_n: [-142, 100]
-    kaizo_d: [97, 70]
-    map_n: [-157, 189]
-    map_d: [103, 202]
-    ensyuf_n: [-129, 175]
-    ensyuf_d: [136, 175]
-    ensyue_n: [-138, 0]
-    battle_n: [-66, 205]
-    battle_d: [187, 220]
-    wed_a: [469, -25]
-    wed_b: [124, 169]
+    kaizo_n: [50, 24]
+    kaizo_d: [145, -18]
+    map_n: [64, 129]
+    map_d: [192, 201]
+    ensyuf_n: [72, 120]
+    ensyuf_d: [189, 71]
+    ensyue_n: [70, 0]
+    battle_n: [93, 149]
+    battle_d: [205, 121]
+    wed_a: [280, 15]
+    wed_b: [108, 200]
   wiki_id: "535a"
   chinese_name: 让·巴尔改
   can_drop: false

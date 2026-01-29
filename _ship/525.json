@@ -14,7 +14,7 @@ data:
   get_mes: 海防艦、松輪です。<br>あの……択捉ちゃん……私も…頑張ります……。
   voice_f: 1
   filename: hakcdulvmfej
-  file_version: ["127", "8", "1108"]
+  file_version: ["130", "9", "128"]
   book_table_id: [525, 5055, 5326, 5365, 5396, 5424, 5516]
   book_sinfo: 海防艦、松輪です…。占守型海防艦の改良型として建<br>造され、佐世保鎮守府の部隊に配属されました……。<br>船団護衛や、対潜掃蕩部隊として働きます。船団の被<br>害を減らすため……敵潜水艦と戦いました……。<br>でも……。潜水艦は……怖い……。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 0, 0]
     build_time: 14
   graph:
-    boko_n: [246, 108]
-    boko_d: [216, 132]
+    boko_n: [184, 262]
+    boko_d: [94, 355]
     kaisyu_n: [48, -18]
     kaisyu_d: [39, -18]
-    kaizo_n: [144, 24]
-    kaizo_d: [138, -6]
-    map_n: [186, 90]
-    map_d: [174, 84]
-    ensyuf_n: [186, 78]
-    ensyuf_d: [168, 66]
-    ensyue_n: [174, 0]
-    battle_n: [216, 108]
-    battle_d: [174, 108]
-    wed_a: [180, 138]
-    wed_b: [126, 168]
+    kaizo_n: [198, 108]
+    kaizo_d: [109, 175]
+    map_n: [246, 193]
+    map_d: [145, 229]
+    ensyuf_n: [228, 184]
+    ensyuf_d: [126, 190]
+    ensyue_n: [220, 0]
+    battle_n: [259, 214]
+    battle_d: [189, 259]
+    wed_a: [81, -24]
+    wed_b: [126, 196]
   wiki_id: "335"
   chinese_name: 松轮
   can_drop: false

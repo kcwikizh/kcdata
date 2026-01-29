@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 978
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 578
+  name: Thonburi改
+  yomi: トンブリ
+  stype: 1
+  ctype: 137
+  cnum: 1
+  backs: 6
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: qynnctqtxxoy
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: zqdruayvtitm
+  file_version: ["53", "1", "128"]
+  book_table_id: [978, 6155]
+  book_sinfo: タイ王国海軍の最大戦力として生まれた海防戦艦トン<br>ブリです。日本の神戸造船さんで建造されました。<br>三段式空母時代の赤城さんや加賀さんと同じ、重巡級<br>の主砲を駆逐艦並みの体に二基4門装備しています。<br>激しい戦いを経て、私の艦橋と主砲の一部は今も祖国<br>で、皆を見守っています。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [33, 41]
+    souk: [18, 28]
+    houg: [32, 62]
+    raig: [0, 0]
+    tyku: [12, 24]
+    luck: [12, 77]
+    soku: 5
+    leng: 2
+    kaih: 7
+    tais: 0
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 35
+    broken: [1, 3, 7, 0]
+    pow_up: [2, 0, 0, 2]
+    build_time: 22
   graph:
-    boko_n: [144, 231]
-    boko_d: [204, 222]
-    kaisyu_n: [12, -7]
-    kaisyu_d: [42, 10]
-    kaizo_n: [84, 144]
-    kaizo_d: [144, 84]
-    map_n: [54, 186]
-    map_d: [138, 156]
-    ensyuf_n: [96, 210]
-    ensyuf_d: [144, 180]
-    ensyue_n: [72, 0]
-    battle_n: [138, 216]
-    battle_d: [174, 174]
-    wed_a: [168, -12]
-    wed_b: [162, 192]
+    boko_n: [-149, 144]
+    boko_d: [-100, 180]
+    kaisyu_n: [14, -33]
+    kaisyu_d: [30, -21]
+    kaizo_n: [-130, 18]
+    kaizo_d: [-83, 6]
+    map_n: [-117, 114]
+    map_d: [-30, 124]
+    ensyuf_n: [-126, 89]
+    ensyuf_d: [-23, 105]
+    ensyue_n: [-125, 0]
+    battle_n: [-80, 126]
+    battle_d: [11, 142]
+    wed_a: [468, 46]
+    wed_b: [122, 204]
   wiki_id: 
   chinese_name: 
   can_drop: false

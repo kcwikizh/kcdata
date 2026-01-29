@@ -14,7 +14,7 @@ data:
   get_mes: 貴公がАдмирал。よろしい！<br>Киров級軽巡洋艦キーロフ。<br>我の力も貴公らに貸そう。よろしく……頼む。
   voice_f: 1
   filename: sdvkjgofceam
-  file_version: ["51", "1", "1108"]
+  file_version: ["51", "1", "128"]
   book_table_id: [1001]
   book_sinfo: 北の国の海軍でイタリアの技術を導入して建造された、<br>キーロフ級巡洋艦、その一番艦だ。ソ連邦新時代の巡<br>洋艦として建造され、バルチック艦隊に配備、レニン<br>グラード防戦では陸軍を支援して、その防衛に貢献す<br>ることになる。対地砲撃が多かった艦生だったな。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [113, 202]
   wiki_id: "601"
   chinese_name: 基洛夫
-  can_drop: true
+  can_drop: false
   can_construct: false
 ---

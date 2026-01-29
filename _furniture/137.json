@@ -8,7 +8,7 @@ data:
   description: 「鬼は外、福は内！」艦娘<br>たちと節分の豆まきを行う<br>ための準備一式です。歳の<br>分だけ豆を食べると厄除け<br>にもなるみたいです！
   rarity: 3
   price: 1300
-  saleflg: 0
+  saleflg: 1
   season: 12
   filename: 
   file_version: 
