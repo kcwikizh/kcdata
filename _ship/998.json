@@ -14,7 +14,7 @@ data:
   get_mes: God morgen.<br>我がNorge級海防戦艦、Norge。<br>貴方がここの提督ね。我らも共に。
   voice_f: 1
   filename: xvtihkibibin
-  file_version: ["53", "1", "128"]
+  file_version: ["53", "1", "313"]
   book_table_id: [998, 6099]
   book_sinfo: 英国で建造された、ノルウェーの海防戦艦Norgeだ。<br>沿岸防衛用戦闘艦としては十分な火力と装甲を有して<br>いる。水面下の装甲などは問題だが……まぁ、何事も<br>完璧は難しい。侵略者に対して戦闘を開始したが……<br>ナルヴィクに没することとなった。守る気持ちは変わ<br>らん。よろしく頼むぞ！
   stats:

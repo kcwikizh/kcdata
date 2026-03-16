@@ -3,31 +3,31 @@ layout: json
 order: 548
 data:
   id: 548
-  sort_no: 0
-  name: 深海地獄艦爆
-  type: [3, 5, 7, 7, 0]
-  rare: 3
-  broken: [0, 0, 0, 0]
+  sort_no: 548
+  name: 震電改三(試製 噴式震電)
+  type: [3, 52, 56, 60, 20]
+  rare: 6
+  broken: [6, 4, 0, 30]
   info: 
   usebull: 0
-  cost: 9
-  distance: 8
+  cost: 10
+  distance: 2
   stats:
     taik: 0
     souk: 0
-    houg: 0
+    houg: 1
     raig: 0
     soku: 0
-    baku: 11
-    tyku: 0
-    tais: 4
+    baku: 0
+    tyku: 17
+    tais: 0
     atap: 0
-    houm: 3
+    houm: 2
     raim: 0
-    houk: 0
+    houk: 3
     raik: 0
     bakk: 0
-    saku: 3
+    saku: 0
     sakb: 0
     luck: 0
     leng: 0

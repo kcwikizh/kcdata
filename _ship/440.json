@@ -14,9 +14,9 @@ data:
   get_mes: Hi！ MeがIowa級戦艦、Iowaよ。<br>Youがこの艦隊のAdmiralなの？ いいじゃない！<br>私たちのこともよろしく！
   voice_f: 1
   filename: tgknyzwyexxt
-  file_version: ["23", "1", "128"]
-  book_table_id: [440, 825]
-  book_sinfo: Hi！　Iowa級戦艦Name Ship、Iowaよ。高速戦艦で、この重兵装。Battle shipの最終形ともいえる完成度。USAが生んだ最後の戦艦級として、この艦隊でも頑張るわ。よろしくね！
+  file_version: ["24", "1", "313"]
+  book_table_id: [440, 5097, 6161]
+  book_sinfo: Hi！　Iowa級戦艦Name Ship、Iowaよ。高速戦艦<br>で、この重兵装。Battle shipの最終形ともいえる完<br>成度。USAが生んだ最後の戦艦級として、この艦隊で<br>も頑張るわ。よろしくね！
   stats:
     taik: [84, 95]
     souk: [79, 95]
@@ -38,21 +38,21 @@ data:
     pow_up: [6, 0, 3, 5]
     build_time: 500
   graph:
-    boko_n: [141, 212]
-    boko_d: [-7, 212]
+    boko_n: [-72, 114]
+    boko_d: [0, 204]
     kaisyu_n: [21, -18]
     kaisyu_d: [-6, -6]
-    kaizo_n: [158, 87]
-    kaizo_d: [2, 58]
-    map_n: [184, 174]
-    map_d: [36, 174]
-    ensyuf_n: [194, 164]
-    ensyuf_d: [46, 164]
-    ensyue_n: [194, 0]
-    battle_n: [232, 207]
-    battle_d: [84, 207]
-    wed_a: [161, -38]
-    wed_b: [108, 216]
+    kaizo_n: [-144, 30]
+    kaizo_d: [-60, 138]
+    map_n: [-132, 66]
+    map_d: [-60, 192]
+    ensyuf_n: [-108, 90]
+    ensyuf_d: [-66, 192]
+    ensyue_n: [-108, 0]
+    battle_n: [-90, 108]
+    battle_d: [-30, 228]
+    wed_a: [456, 120]
+    wed_b: [120, 144]
   wiki_id: "240"
   chinese_name: 衣阿华
   can_drop: false

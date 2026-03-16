@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: tnkvticvcukq
-  file_version: ["62", "1", "128"]
-  book_table_id: [956, 5999, 5924]
+  file_version: ["63", "1", "313"]
+  book_table_id: [956, 6040, 5924, 6172]
   book_sinfo: 夕雲型駆逐艦、その十七番目、早霜です。<br>舞鶴海軍工廠生まれ。だいぶ押し迫った頃に生まれま<br>した。レイテ沖海戦にリンガ泊地から出撃して…色々<br>な光景を見ました。
   stats:
     taik: [33, 56]
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [49, 223]
-    boko_d: [7, 235]
+    boko_n: [78, 139]
+    boko_d: [-33, 153]
     kaisyu_n: [39, 3]
     kaisyu_d: [58, 18]
-    kaizo_n: [58, 96]
-    kaizo_d: [-3, 67]
-    map_n: [82, 190]
-    map_d: [31, 202]
-    ensyuf_n: [79, 180]
-    ensyuf_d: [25, 186]
-    ensyue_n: [87, 0]
-    battle_n: [103, 210]
-    battle_d: [46, 217]
-    wed_a: [262, -31]
-    wed_b: [127, 190]
+    kaizo_n: [86, 32]
+    kaizo_d: [4, 13]
+    map_n: [105, 122]
+    map_d: [35, 138]
+    ensyuf_n: [100, 115]
+    ensyuf_d: [30, 126]
+    ensyue_n: [110, 0]
+    battle_n: [122, 129]
+    battle_d: [52, 149]
+    wed_a: [235, 30]
+    wed_b: [120, 207]
   wiki_id: "556"
   chinese_name: 早霜改二
   can_drop: false

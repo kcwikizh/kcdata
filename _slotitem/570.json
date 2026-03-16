@@ -3,34 +3,34 @@ layout: json
 order: 570
 data:
   id: 570
-  sort_no: 0
-  name: 高速深海魚雷 mod.2
-  type: [2, 3, 22, 5, 0]
-  rare: 4
-  broken: [0, 0, 0, 0]
+  sort_no: 570
+  name: 流星改(友永隊)
+  type: [3, 5, 8, 8, 33]
+  rare: 6
+  broken: [2, 6, 0, 11]
   info: 
   usebull: 0
   cost: 9
-  distance: 8
+  distance: 6
   stats:
     taik: 0
     souk: 0
     houg: 0
-    raig: 13
+    raig: 16
     soku: 0
     baku: 0
-    tyku: 0
-    tais: 0
+    tyku: 3
+    tais: 7
     atap: 0
     houm: 3
     raim: 0
-    houk: 0
+    houk: 1
     raik: 0
     bakk: 0
-    saku: 0
+    saku: 6
     sakb: 0
     luck: 0
-    leng: 1
+    leng: 0
   improvement: 
   chinese_name: 高速深海鱼雷 mod.2
 ---

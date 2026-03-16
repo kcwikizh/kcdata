@@ -14,7 +14,7 @@ data:
   get_mes: Lexington級航空母艦Name ship、USS Lexingtonです。Lady <br>Lex とも呼ばれているわ。太平洋艦隊に配属され、日本空母<br>機動部隊と対峙したわ。Admiral、私の事もよろしく頼むわね。
   voice_f: 1
   filename: erhlwuihpcnw
-  file_version: ["51", "1", "128"]
+  file_version: ["51", "1", "313"]
   book_table_id: [966]
   book_sinfo: 太平洋艦隊所属 USS CV2 Lexingtonです。元は戦艦<br>として建造されたの。だから最初からの正式な正規空<br>母はRangerになるわね。南雲機動部隊の真珠湾攻撃の<br>難は逃れ、運命の珊瑚海で日本機動部隊の翔鶴瑞鶴と<br>対決したわ。後悔はない。正々堂々、全力で戦ったの。<br>覚えていて。
   stats:

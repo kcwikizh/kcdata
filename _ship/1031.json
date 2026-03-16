@@ -3,56 +3,56 @@ layout: json
 data:
   id: 1031
   sort_no: 621
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  name: 飛龍改三
+  yomi: ひりゅう
+  stype: 11
+  ctype: 25
+  cnum: 1
+  backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: tfoxkcuroljf
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: pxtcicokpqws
+  file_version: ["51", "1", "313"]
+  book_table_id: [1031]
+  book_sinfo: 飛龍型航空母艦、飛龍です。<br>…ん？蒼龍型改じゃないかって？いいじゃん、そんな<br>こと。それより、索敵は大切にねッ。<br>空母戦は先手必勝！慢心はダメ、ゼッタイ。<br>慎重に、そして、大胆に戦い抜こうよ！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [73, 91]
+    souk: [50, 80]
+    houg: [0, 72]
+    raig: [0, 0]
+    tyku: [46, 90]
+    luck: [63, 122]
+    soku: 10
+    leng: 2
+    kaih: 41
+    tais: 0
+    slot_num: 5
+    max_eq: [24, 24, 18, 4, 2]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 90
+    bull_max: 95
+    broken: [11, 18, 38, 14]
+    pow_up: [0, 0, 5, 6]
+    build_time: 250
   graph:
-    boko_n: [-25, 159]
-    boko_d: [-4, 160]
-    kaisyu_n: [6, -13]
-    kaisyu_d: [42, -16]
-    kaizo_n: [-108, 76]
-    kaizo_d: [-24, 3]
-    map_n: [-57, 159]
-    map_d: [-148, 145]
-    ensyuf_n: [-12, 127]
-    ensyuf_d: [-40, 69]
-    ensyue_n: [-12, 0]
-    battle_n: [-43, 129]
-    battle_d: [-43, 129]
-    wed_a: [363, 57]
-    wed_b: [244, 178]
+    boko_n: [-140, 6]
+    boko_d: [-188, -40]
+    kaisyu_n: [17, -3]
+    kaisyu_d: [29, 6]
+    kaizo_n: [-128, -112]
+    kaizo_d: [-188, -183]
+    map_n: [-129, -10]
+    map_d: [-164, -57]
+    ensyuf_n: [-124, -25]
+    ensyuf_d: [-170, -73]
+    ensyue_n: [-125, 0]
+    battle_n: [-73, 13]
+    battle_d: [-120, -23]
+    wed_a: [466, 152]
+    wed_b: [107, 195]
   wiki_id: "621"
   chinese_name: 飞龙改三
   can_drop: false

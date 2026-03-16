@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: qtgwnstgzbdp
-  file_version: ["64", "3", "128"]
-  book_table_id: [967, 5887, 6106]
+  file_version: ["66", "3", "313"]
+  book_table_id: [967, 5887, 6106, 6213]
   book_sinfo: Mogador級駆逐艦一番艦、Mogador。自由・平等・<br>博愛の国で建造された高速の大型駆逐艦です。軽巡並<br>みの排水量に充実の武装、最新最大の新鋭艦だったけ<br>ど…地中海を臨む港で、艦隊ごと自沈する最期となっ<br>たわ。今度は目一杯働いてみたい…そう？D’accord　Amiral！
   stats:
     taik: [38, 57]

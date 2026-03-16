@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 667
+  type: 2
+  no: 98
+  title: 春の訪れを予感する窓
+  description: 春の訪れを楽しむための<br>新しい窓です。桃の節句<br>の菱餅も飾られています<br>が、旗艦をある海防戦艦<br>にするとぬいぐるみに！
+  rarity: 4
+  price: 3030
+  saleflg: 1
+  season: 
+  filename: 
+  file_version: ""
+---

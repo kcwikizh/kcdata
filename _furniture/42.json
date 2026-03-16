@@ -8,7 +8,7 @@ data:
   description: 春の雰囲気にマッチした明<br>るい色調で仕上げられた和<br>の壁紙。シンプルなデザイ<br>ンの中に、どんな家具とも<br>馴染む奥深い趣き。
   rarity: 2
   price: 1000
-  saleflg: 0
+  saleflg: 1
   season: 0
   filename: 
   file_version: 
