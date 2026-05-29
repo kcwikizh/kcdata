@@ -1,0 +1,14 @@
+---
+layout: json
+data:
+  id: 104
+  usetype: 0
+  category: 0
+  name: 工廠資源
+  description:
+    - "工廠を本格的に使用した艦娘<br>の高度な改装や最新装備改修<br>及び改修装備の状態回復など<br>にも使用可能です。"
+    - ""
+  price: 0
+  chinese_name:
+  chinese_description:
+---

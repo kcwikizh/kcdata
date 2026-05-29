@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: stztwgyskoqd
-  file_version: ["65", "35", "128"]
-  book_table_id: [593, 5749]
+  file_version: ["67", "39", "529"]
+  book_table_id: [593, 5749, 6220]
   book_sinfo: 高速の巡洋戦艦、榛名です。<br>国産の四一式36センチ砲を装備しました。<br>呉鎮守府の江田島で最後まで空を睨んで奮戦したわ。<br>高速戦艦四姉妹で最期まで、戦い抜いた榛名のこと、<br>覚えていてね。
   stats:
     taik: [85, 98]
@@ -38,21 +38,21 @@ data:
     pow_up: [4, 1, 3, 4]
     build_time: 240
   graph:
-    boko_n: [246, 207]
-    boko_d: [120, 204]
+    boko_n: [-22, 97]
+    boko_d: [-55, 211]
     kaisyu_n: [31, 22]
     kaisyu_d: [49, -76]
-    kaizo_n: [162, 114]
-    kaizo_d: [24, 90]
-    map_n: [192, 180]
-    map_d: [72, 186]
-    ensyuf_n: [168, 192]
-    ensyuf_d: [60, 192]
-    ensyue_n: [168, 0]
-    battle_n: [204, 198]
-    battle_d: [96, 198]
-    wed_a: [156, -6]
-    wed_b: [144, 168]
+    kaizo_n: [-18, -22]
+    kaizo_d: [-55, 61]
+    map_n: [-21, 64]
+    map_d: [-76, 190]
+    ensyuf_n: [1, 60]
+    ensyuf_d: [-52, 181]
+    ensyue_n: [-4, 0]
+    battle_n: [42, 93]
+    battle_d: [13, 214]
+    wed_a: [334, 93]
+    wed_b: [124, 159]
   wiki_id: "393"
   chinese_name: 
   can_drop: false

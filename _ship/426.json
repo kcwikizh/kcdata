@@ -9,12 +9,12 @@ data:
   ctype: 12
   cnum: 1
   backs: 6
-  after_lv: 
-  after_ship_id: 
+  after_lv: 95
+  after_ship_id: 1035
   get_mes: <br>
   voice_f: 3
   filename: rtkekdbkqrkg
-  file_version: ["56", "26", "128"]
+  file_version: ["59", "27", "529"]
   book_table_id: [426, 5120, 5841, 5856]
   book_sinfo: ワシントン条約制限下で設計された、世界中を驚愕さ<br>せたクラスを超えた特型駆逐艦の１番艦、吹雪です。<br>私たちは、後の艦隊型駆逐艦のベースとなりました。<br>はいっ、頑張ります！
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 26
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 480
+    after_bull: 980
     fuel_max: 15
     bull_max: 20
     broken: [1, 2, 10, 0]

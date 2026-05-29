@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: cclxikrpjonk
-  file_version: ["67", "10", "128"]
-  book_table_id: [507]
+  file_version: ["71", "10", "529"]
+  book_table_id: [507, 6235]
   book_sinfo: 最上型１番艦のモガミンとは、とっても仲がいいのだ<br>けれど、仲が良すぎて彼女とは衝突することも多いの<br>…ええ、そう…物理的に…私はちゃんと前見てるの<br>よ？
   stats:
     taik: [59, 73]

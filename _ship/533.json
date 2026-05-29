@@ -14,7 +14,7 @@ data:
   get_mes: 秋月型防空駆逐艦、八番艦、冬月。参る。<br>涼、随分と待たせたな。提督、共に護ろう。<br>大切な……ものを。
   voice_f: 1
   filename: ytcgdjgfcglk
-  file_version: ["53", "1", "128"]
+  file_version: ["54", "1", "529"]
   book_table_id: [533, 5998]
   book_sinfo: 秋月型防空駆逐艦、その八番艦、冬月だ。戦いの後半<br>に就役して、姉妹艦と第四十一駆逐隊を編成、大型艦<br>や艦隊の護衛を務めたな。最後の出撃は、第二水雷戦<br>隊の一翼として、涼月と共に大和の護衛に就いた。そ<br>して今も、僚艦涼月と北九州の防波堤の一部として皆<br>を護っている。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 1, 3, 1]
     build_time: 30
   graph:
-    boko_n: [-31, 201]
-    boko_d: [-79, 210]
+    boko_n: [37, 282]
+    boko_d: [79, 158]
     kaisyu_n: [28, -1]
     kaisyu_d: [7, 52]
-    kaizo_n: [-4, 79]
-    kaizo_d: [-52, 39]
-    map_n: [7, 171]
-    map_d: [-49, 166]
-    ensyuf_n: [1, 166]
-    ensyuf_d: [-37, 157]
-    ensyue_n: [6, 0]
-    battle_n: [55, 195]
-    battle_d: [25, 202]
-    wed_a: [337, -7]
-    wed_b: [121, 183]
+    kaizo_n: [81, 144]
+    kaizo_d: [114, -9]
+    map_n: [161, 231]
+    map_d: [203, 110]
+    ensyuf_n: [118, 187]
+    ensyuf_d: [160, 64]
+    ensyue_n: [79, 0]
+    battle_n: [138, 238]
+    battle_d: [178, 116]
+    wed_a: [260, -57]
+    wed_b: [112, 219]
   wiki_id: "333"
   chinese_name: 冬月
   can_drop: false

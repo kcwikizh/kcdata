@@ -14,7 +14,7 @@ data:
   get_mes: 古鷹型重巡の2番艦、加古ってんだ、よっろしくぅー！
   voice_f: 0
   filename: vkmjguonqcsg
-  file_version: ["34", "13", "128"]
+  file_version: ["36", "13", "529"]
   book_table_id: [60, 5543, 5566, 5825]
   book_sinfo: 古鷹型重巡洋艦の２番艦、加古だよぉ。<br>第一次ソロモン海戦で大活躍したんだからね！<br>あ、帰り道？ホント、行きはよいよい、帰りは怖い<br>～ってね！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 60
   graph:
-    boko_n: [148, 184]
-    boko_d: [10, 408]
+    boko_n: [64, 58]
+    boko_d: [64, 58]
     kaisyu_n: [39, 1]
     kaisyu_d: [42, 10]
-    kaizo_n: [156, 78]
-    kaizo_d: [0, 141]
-    map_n: [178, 166]
-    map_d: [31, 210]
-    ensyuf_n: [175, 148]
-    ensyuf_d: [24, 126]
-    ensyue_n: [190, 0]
-    battle_n: [210, 175]
-    battle_d: [45, 258]
-    wed_a: [154, -9]
-    wed_b: [121, 216]
+    kaizo_n: [46, -61]
+    kaizo_d: [31, -97]
+    map_n: [34, 22]
+    map_d: [34, 22]
+    ensyuf_n: [40, 28]
+    ensyuf_d: [40, 28]
+    ensyue_n: [33, 0]
+    battle_n: [81, 49]
+    battle_d: [81, 49]
+    wed_a: [265, 114]
+    wed_b: [138, 196]
   wiki_id: "053"
   chinese_name: 加古
   can_drop: true

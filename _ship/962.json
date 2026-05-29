@@ -14,7 +14,7 @@ data:
   get_mes: Bonjour! 大型高速駆逐艦、Mogador級一番艦Mogador<br>ここに。　貴方がAmiral?　ふうん……D’accord!<br>私に……任せてっ！
   voice_f: 1
   filename: hholfrhucolc
-  file_version: ["64", "3", "128"]
+  file_version: ["68", "3", "529"]
   book_table_id: [962, 5886, 5908, 5957, 5975, 6098]
   book_sinfo: Mogador級駆逐艦一番艦、Mogador。自由・平等・<br>博愛の国で建造された高速の大型駆逐艦です。軽巡並<br>みの排水量に充実の武装、最新最大の新鋭艦だったけ<br>ど…地中海を臨む港で、艦隊ごと自沈する最期となっ<br>たわ。今度は目一杯働いてみたい…そう？D’accord　Amiral！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [102, 192]
   wiki_id: "562"
   chinese_name: 莫加多尔
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

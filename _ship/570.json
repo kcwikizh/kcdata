@@ -14,7 +14,7 @@ data:
   get_mes: 司令、択捉型海防艦、平戸、参りました。<br>共にまいりましょう。心配しないで…今度は司令に<br>指一本触れさせません。今度は…。
   voice_f: 1
   filename: bschpthgnaof
-  file_version: ["71", "1", "128"]
+  file_version: ["73", "1", "529"]
   book_table_id: [570, 5433, 5755, 5863]
   book_sinfo: 択捉型海防艦、平戸です。敵潜水艦の跳梁する危険な<br>海を、船団を護って駆け抜けました。海上護衛に努め<br>ましたが、私の最期の戦いは敷波さん達とご一緒のヒ<br>船団。敵は…敵は侮れません。この静かな海と皆さん<br>を…護っていきたいと思います。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 0, 0]
     build_time: 14
   graph:
-    boko_n: [177, 270]
-    boko_d: [177, 270]
+    boko_n: [81, 188]
+    boko_d: [118, 275]
     kaisyu_n: [-4, -7]
     kaisyu_d: [48, -61]
-    kaizo_n: [178, 124]
-    kaizo_d: [166, 91]
-    map_n: [214, 211]
-    map_d: [214, 211]
-    ensyuf_n: [190, 190]
-    ensyuf_d: [190, 190]
-    ensyue_n: [181, 0]
-    battle_n: [237, 247]
-    battle_d: [237, 247]
-    wed_a: [145, -27]
-    wed_b: [145, 193]
+    kaizo_n: [80, 57]
+    kaizo_d: [141, 102]
+    map_n: [94, 138]
+    map_d: [170, 218]
+    ensyuf_n: [90, 109]
+    ensyuf_d: [166, 188]
+    ensyue_n: [103, 0]
+    battle_n: [112, 154]
+    battle_d: [187, 242]
+    wed_a: [238, 28]
+    wed_b: [137, 228]
   wiki_id: "370"
   chinese_name: 平户
   can_drop: true

@@ -14,15 +14,15 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: mqlroxfnufpz
-  file_version: ["20", "33", "128"]
+  file_version: ["20", "33", "529"]
   book_table_id: [464, 1060]
   book_sinfo: 歴戦の主力駆逐艦として奮戦したわ。<br>最後は戦艦大和と共に坊ノ岬沖海戦で米艦載機の猛攻<br>と戦ったの。<br>負けないわ！
   stats:
     taik: [31, 53]
     souk: [14, 52]
-    houg: [16, 65]
+    houg: [16, 66]
     raig: [33, 92]
-    tyku: [24, 72]
+    tyku: [24, 73]
     luck: [37, 97]
     soku: 10
     leng: 1

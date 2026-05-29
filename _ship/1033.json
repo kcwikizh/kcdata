@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 1033
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 623
+  name: 玉波改二
+  yomi: たまなみ
+  stype: 2
+  ctype: 38
+  cnum: 9
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: nvfscdbnvrdd
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: lsudguoipbwg
+  file_version: ["51", "1", "529"]
+  book_table_id: [1033]
+  book_sinfo: 夕雲型駆逐艦、九番艦、玉波です。栄光ある二水戦に<br>配属され、ラバウルなどの最前線に向かいました。<br>藤波さんたちと共にマリアナ沖決戦にも参加。既に前<br>線の崩壊した海上の輸送船団護衛にも従事しました。<br>潜水艦の脅威、忘れてはいけません。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [33, 56]
+    souk: [16, 54]
+    houg: [18, 64]
+    raig: [31, 87]
+    tyku: [29, 79]
+    luck: [21, 88]
+    soku: 10
+    leng: 1
+    kaih: 43
+    tais: 29
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 24
   graph:
-    boko_n: [-9, 127]
-    boko_d: [-4, 142]
-    kaisyu_n: [30, 12]
-    kaisyu_d: [42, 10]
-    kaizo_n: [-73, 63]
-    kaizo_d: [-18, 4]
-    map_n: [-76, 112]
-    map_d: [-124, 142]
-    ensyuf_n: [-19, 123]
-    ensyuf_d: [-63, 54]
-    ensyue_n: [-19, 0]
-    battle_n: [-63, 90]
-    battle_d: [-63, 90]
-    wed_a: [379, 88]
-    wed_b: [151, 150]
+    boko_n: [29, 146]
+    boko_d: [120, 153]
+    kaisyu_n: [27, 25]
+    kaisyu_d: [101, 40]
+    kaizo_n: [43, 25]
+    kaizo_d: [143, 0]
+    map_n: [68, 123]
+    map_d: [163, 126]
+    ensyuf_n: [53, 109]
+    ensyuf_d: [170, 113]
+    ensyue_n: [60, 0]
+    battle_n: [98, 136]
+    battle_d: [193, 140]
+    wed_a: [283, 38]
+    wed_b: [130, 197]
   wiki_id: 
   chinese_name: 
   can_drop: false
