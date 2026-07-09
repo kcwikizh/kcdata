@@ -1,0 +1,15 @@
+---
+layout: json
+data:
+  id: 666
+  type: 4
+  no: 88
+  title: 飛龍改三の艦載機桐箪笥
+  description: 重近代化改装航空母艦、<br>飛龍改三の投入を記念し<br>て作られた特注の桐箪笥<br>です。初期型飛龍の図面<br>と新艦載機模型も付属。
+  rarity: 6
+  price: 219460
+  saleflg: 1
+  season: 
+  filename: 
+  file_version: ""
+---

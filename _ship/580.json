@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: osukvwqderjb
-  file_version: ["99", "1", "128"]
-  book_table_id: [580, 5460, 6081, 6107]
+  file_version: ["101", "1", "313"]
+  book_table_id: [580, 5460, 6081, 6107, 6207]
   book_sinfo: イタリア海軍マエストラーレ級駆逐艦、ネームシップ<br>のマエストラーレです。<br>結構一杯働いたのよ。船団護衛はもちろんだけど、水<br>上艦隊戦力としても頑張ったんだから！　最後はね、<br>ちょっと修理が間に合わなくって……。えへへ。ま<br>あ、仕方ない、です！
   stats:
     taik: [29, 46]

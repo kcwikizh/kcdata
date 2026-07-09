@@ -14,7 +14,7 @@ data:
   get_mes: あなたが提督？ふうん。いいけど。<br>伊勢型戦艦２番艦、日向よ。一応覚えておいて。
   voice_f: 0
   filename: cfqmhviykuup
-  file_version: ["53", "27", "128"]
+  file_version: ["53", "28", "313"]
   book_table_id: [87, 6102]
   book_sinfo: 伊勢型戦艦２番艦、日向。<br>ああ、そうだ、あの伊勢と一緒に航空戦艦になったん<br>だ。<br>もともとは、私の砲塔の事故もあるんだけどな。<br>呉で朽ち果てる迄、戦うつもりだ。
   stats:

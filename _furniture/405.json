@@ -8,7 +8,7 @@ data:
   description: 工廠で家具職人と工作艦が<br>協力して作った、工廠製の<br>シチューストーブです。冬<br>の提督室に温かい料理を！<br>職人ダイナミック割引可！
   rarity: 6
   price: 148000
-  saleflg: 1
+  saleflg: 0
   season: 0
   filename: "056"
   file_version: 1

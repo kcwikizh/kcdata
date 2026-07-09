@@ -3,34 +3,34 @@ layout: json
 order: 571
 data:
   id: 571
-  sort_no: 0
-  name: 深海水母小鬼機
-  type: [5, 7, 11, 10, 0]
-  rare: 5
-  broken: [0, 0, 0, 0]
+  sort_no: 571
+  name: 53cm連装魚雷改(酸素魚雷)
+  type: [2, 3, 5, 5, 0]
+  rare: 3
+  broken: [2, 2, 1, 1]
   info: 
   usebull: 0
   cost: 9
   distance: 8
   stats:
     taik: 0
-    souk: 4
-    houg: 4
-    raig: 0
+    souk: 0
+    houg: 0
+    raig: 7
     soku: 0
-    baku: 15
-    tyku: 11
-    tais: 15
+    baku: 0
+    tyku: 0
+    tais: 0
     atap: 0
-    houm: 8
+    houm: 1
     raim: 0
-    houk: 0
+    houk: 2
     raik: 0
     bakk: 0
-    saku: 8
+    saku: 0
     sakb: 0
     luck: 0
-    leng: 4
+    leng: 1
   improvement: 
   chinese_name: 深海水母小鬼机
 ---
