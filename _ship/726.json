@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: vvdxharkuxpx
-  file_version: ["61", "1", "313"]
+  file_version: ["62", "1", "529"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 3, 1]
     build_time: 23
   graph:
-    boko_n: [54, 217]
-    boko_d: [97, 256]
+    boko_n: [56, 217]
+    boko_d: [44, 264]
     kaisyu_n: [25, -3]
     kaisyu_d: [73, -75]
-    kaizo_n: [87, 102]
-    kaizo_d: [145, 100]
-    map_n: [85, 177]
-    map_d: [202, 213]
-    ensyuf_n: [100, 177]
-    ensyuf_d: [202, 178]
-    ensyue_n: [85, 0]
-    battle_n: [156, 198]
-    battle_d: [253, 214]
-    wed_a: [217, -27]
-    wed_b: [121, 195]
+    kaizo_n: [66, 97]
+    kaizo_d: [-1, 82]
+    map_n: [86, 189]
+    map_d: [31, 217]
+    ensyuf_n: [82, 178]
+    ensyuf_d: [31, 198]
+    ensyue_n: [71, 0]
+    battle_n: [106, 204]
+    battle_d: [51, 242]
+    wed_a: [236, -36]
+    wed_b: [145, 211]
   wiki_id: "541a"
   chinese_name: 海伍德·L·爱德华兹改
   can_drop: false

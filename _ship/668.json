@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 7
   filename: yizetqxpvltq
-  file_version: ["59", "15", "313"]
+  file_version: ["59", "15", "529"]
   book_table_id: [668, 5702]
   book_sinfo: 阿賀野型軽巡の三番艦、矢矧よ。<br>マリアナ、レイテ、坊ノ岬と、後半の大きな海戦には<br>殆ど参加したわ。そうよ、最後の最後まで暴れてみせ<br>たの。私の記憶の途切れた後、大和はどうなったのか<br>しら。ま、いいわ…今度は全てを護りきるから！
   stats:
@@ -22,8 +22,8 @@ data:
     souk: [32, 74]
     houg: [30, 81]
     raig: [24, 88]
-    tyku: [36, 88]
-    luck: [17, 89]
+    tyku: [37, 89]
+    luck: [18, 91]
     soku: 10
     leng: 2
     kaih: 42

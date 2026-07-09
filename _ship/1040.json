@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 1040
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 630
+  name: 吹雪改三護(六式)
+  yomi: ふぶき
+  stype: 2
+  ctype: 12
+  cnum: 1
+  backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: wnjwbilnqike
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: skqpgrmcdjsw
+  file_version: ["51", "27", "529"]
+  book_table_id: [1040]
+  book_sinfo: ワシントン条約制限下で設計された、世界中を驚愕さ<br>せたクラスを超えた特型駆逐艦の１番艦、吹雪です。<br>私たちは、後の艦隊型駆逐艦のベースとなりました。<br>はいっ、頑張ります！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [38, 57]
+    souk: [17, 57]
+    houg: [19, 69]
+    raig: [40, 92]
+    tyku: [45, 92]
+    luck: [39, 107]
+    soku: 10
+    leng: 1
+    kaih: 56
+    tais: 52
+    slot_num: 4
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 25
+    bull_max: 30
+    broken: [2, 4, 12, 4]
+    pow_up: [2, 2, 3, 2]
+    build_time: 22
   graph:
-    boko_n: [108, 186]
-    boko_d: [-54, 186]
-    kaisyu_n: [-12, 0]
-    kaisyu_d: [42, -60]
-    kaizo_n: [66, 75]
-    kaizo_d: [-117, 40]
-    map_n: [108, 156]
-    map_d: [-60, 156]
-    ensyuf_n: [72, 174]
-    ensyuf_d: [-96, 174]
-    ensyue_n: [72, 0]
-    battle_n: [126, 186]
-    battle_d: [-45, 186]
-    wed_a: [270, 6]
-    wed_b: [102, 168]
+    boko_n: [163, 19]
+    boko_d: [56, 180]
+    kaisyu_n: [118, -34]
+    kaisyu_d: [77, 63]
+    kaizo_n: [175, -90]
+    kaizo_d: [81, 36]
+    map_n: [195, 1]
+    map_d: [80, 153]
+    ensyuf_n: [193, -18]
+    ensyuf_d: [66, 137]
+    ensyue_n: [190, 0]
+    battle_n: [230, 21]
+    battle_d: [114, 173]
+    wed_a: [156, 152]
+    wed_b: [103, 194]
   wiki_id: 
   chinese_name: 
   can_drop: false

@@ -9,12 +9,12 @@ data:
   ctype: 38
   cnum: 16
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv: 92
+  after_ship_id: 744
   get_mes: <br>
   voice_f: 3
   filename: zzahenrypate
-  file_version: ["94", "12", "313"]
+  file_version: ["94", "12", "529"]
   book_table_id: [578, 6042, 5670, 5693, 6171]
   book_sinfo: あたいは夕雲型駆逐艦、その十六番艦、朝霜さ。よー<br>く覚えとおくんだよ。<br>戦況が悪化した頃にデビューしたんだ。でも、その末<br>期の戦線を、文字通り縦横無尽に駆けまわったぜ。や<br>るだけ…やったさ！
   stats:
@@ -22,7 +22,7 @@ data:
     souk: [15, 55]
     houg: [18, 69]
     raig: [30, 88]
-    tyku: [18, 74]
+    tyku: [19, 76]
     luck: [28, 86]
     soku: 10
     leng: 1
@@ -30,8 +30,8 @@ data:
     tais: 29
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 760
+    after_bull: 790
     fuel_max: 15
     bull_max: 20
     broken: [1, 3, 10, 1]

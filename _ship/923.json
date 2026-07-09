@@ -14,7 +14,7 @@ data:
   get_mes: Hi！ Good to see you.　あたしが、そうさ。<br>重巡Tuscaloosa！ン、New Orleans classだ。<br>よろしく！
   voice_f: 1
   filename: urkmcvixqwbf
-  file_version: ["75", "1", "313"]
+  file_version: ["78", "1", "529"]
   book_table_id: [923, 5746, 5810, 5840, 5857, 5900, 5962]
   book_sinfo: USS Tuscaloosa。New Orleans classその四番<br>艦。重巡洋艦としては、最新鋭って訳じゃないけど、<br>大西洋で戦い、そして太平洋戦線、後半の島々の戦い<br>にも参加。もちろん戦いはあってはならない事だけ<br>ど、戦う事が必要な時も……あります。難しいね。本<br>当に。
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [2, 1, 0, 2]
     build_time: 85
   graph:
-    boko_n: [163, 208]
-    boko_d: [163, 208]
+    boko_n: [187, 204]
+    boko_d: [223, 202]
     kaisyu_n: [21, 6]
     kaisyu_d: [69, 25]
-    kaizo_n: [163, 85]
-    kaizo_d: [148, 49]
-    map_n: [178, 198]
-    map_d: [178, 198]
-    ensyuf_n: [177, 184]
-    ensyuf_d: [177, 184]
-    ensyue_n: [187, 0]
-    battle_n: [198, 226]
-    battle_d: [198, 226]
-    wed_a: [172, -36]
-    wed_b: [99, 195]
+    kaizo_n: [187, 88]
+    kaizo_d: [199, 58]
+    map_n: [193, 190]
+    map_d: [220, 190]
+    ensyuf_n: [186, 178]
+    ensyuf_d: [214, 180]
+    ensyue_n: [196, 0]
+    battle_n: [235, 216]
+    battle_d: [244, 211]
+    wed_a: [169, -34]
+    wed_b: [94, 184]
   wiki_id: "523"
   chinese_name: 塔斯卡卢萨
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

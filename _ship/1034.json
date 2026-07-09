@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 1034
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: uvslrthcjiia
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 624
+  name: 涼波改二
+  yomi: すずなみ
+  stype: 2
+  ctype: 38
+  cnum: 10
+  backs: 7
+  after_lv: 92
+  after_ship_id: 745
+  get_mes: <br>
+  voice_f: 3
+  filename: imyfegjidjbl
+  file_version: ["51", "1", "529"]
+  book_table_id: [1034]
+  book_sinfo: 夕雲型駆逐艦十番艦、涼波さ！同じ夕雲型の藤波、早<br>波、そして玉波と、最初の第三二駆逐隊を編成した<br>よ。最新鋭艦隊型駆逐艦として、栄光の二水戦に配属<br>されたんだ。ラバウルねー、あそこは…うちらの縄張<br>りだけどさ、危ないね。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [32, 56]
+    souk: [16, 53]
+    houg: [18, 65]
+    raig: [31, 86]
+    tyku: [28, 76]
+    luck: [17, 77]
+    soku: 10
+    leng: 1
+    kaih: 42
+    tais: 28
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 760
+    after_bull: 790
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [2, 2, 1, 1]
+    build_time: 24
   graph:
-    boko_n: [61, 136]
-    boko_d: [49, 138]
-    kaisyu_n: [31, 1]
-    kaisyu_d: [42, 10]
-    kaizo_n: [-43, 39]
-    kaizo_d: [-7, -16]
-    map_n: [-49, 126]
-    map_d: [-72, 123]
-    ensyuf_n: [52, 114]
-    ensyuf_d: [24, 73]
-    ensyue_n: [52, 0]
-    battle_n: [-67, 90]
-    battle_d: [-67, 90]
-    wed_a: [348, 88]
-    wed_b: [144, 160]
+    boko_n: [-28, 167]
+    boko_d: [-56, 161]
+    kaisyu_n: [-11, 41]
+    kaisyu_d: [-5, 55]
+    kaizo_n: [-33, 48]
+    kaizo_d: [-56, 13]
+    map_n: [-20, 142]
+    map_d: [-57, 136]
+    ensyuf_n: [-18, 126]
+    ensyuf_d: [-56, 120]
+    ensyue_n: [-16, 0]
+    battle_n: [14, 153]
+    battle_d: [-23, 147]
+    wed_a: [355, 10]
+    wed_b: [118, 209]
   wiki_id: 
   chinese_name: 
   can_drop: false

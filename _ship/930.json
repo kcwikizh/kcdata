@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: frxnjxjjyicr
-  file_version: ["62", "5", "313"]
-  book_table_id: [930, 5795, 6008]
+  file_version: ["63", "5", "529"]
+  book_table_id: [930, 5795, 6008, 6242]
   book_sinfo: インディペンデンス級航空母艦、Langleyだ。そう<br>だ、CV-1ではない、その名を継いだCVL-27の方だ。<br>小柄な体だが太平洋、あの大和の最後、そして魔法の<br>絨毯作戦、さらにフランス海軍としても戦った。<br>忘れるな。
   stats:
     taik: [44, 70]
@@ -38,21 +38,21 @@ data:
     pow_up: [0, 0, 3, 3]
     build_time: 70
   graph:
-    boko_n: [255, 234]
-    boko_d: [215, 343]
+    boko_n: [52, 7]
+    boko_d: [-37, 148]
     kaisyu_n: [36, -25]
     kaisyu_d: [42, -22]
-    kaizo_n: [265, 115]
-    kaizo_d: [206, 115]
-    map_n: [290, 198]
-    map_d: [251, 263]
-    ensyuf_n: [293, 187]
-    ensyuf_d: [259, 197]
-    ensyue_n: [286, 0]
-    battle_n: [327, 219]
-    battle_d: [279, 238]
-    wed_a: [37, -47]
-    wed_b: [116, 207]
+    kaizo_n: [40, -118]
+    kaizo_d: [-51, -19]
+    map_n: [33, -24]
+    map_d: [-76, 85]
+    ensyuf_n: [52, -31]
+    ensyuf_d: [-39, 88]
+    ensyue_n: [46, 0]
+    battle_n: [105, 1]
+    battle_d: [-18, 139]
+    wed_a: [262, 181]
+    wed_b: [120, 186]
   wiki_id: "530"
   chinese_name: 兰利改
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: ioplspvwidls
-  file_version: ["106", "29", "313"]
+  file_version: ["107", "29", "529"]
   book_table_id: [983, 6043, 5988, 6209]
   book_sinfo: あ、あたし…夕雲型駆逐艦…十三番艦…浜波…です。<br>夕雲型の四隻と…三二駆を編成しました……。戦いの<br>中で…一隻一隻いなくなって…最期はなっちゃん達の<br>三一駆と一緒に…いきました。あの海は…怖い…。敵<br>の飛行機の群れも…こ…怖い…。怖い…です…。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [152, 165]
-    boko_d: [81, 206]
+    boko_n: [205, 213]
+    boko_d: [312, 213]
     kaisyu_n: [102, 39]
     kaisyu_d: [87, 83]
-    kaizo_n: [146, 47]
-    kaizo_d: [65, 52]
-    map_n: [175, 134]
-    map_d: [103, 169]
-    ensyuf_n: [173, 125]
-    ensyuf_d: [106, 159]
+    kaizo_n: [127, 107]
+    kaizo_d: [219, 72]
+    map_n: [198, 191]
+    map_d: [304, 191]
+    ensyuf_n: [160, 182]
+    ensyuf_d: [267, 182]
     ensyue_n: [177, 0]
-    battle_n: [202, 149]
-    battle_d: [130, 183]
-    wed_a: [174, 20]
-    wed_b: [113, 205]
+    battle_n: [148, 213]
+    battle_d: [255, 213]
+    wed_a: [168, -26]
+    wed_b: [138, 183]
   wiki_id: "583"
   chinese_name: 滨波改二
   can_drop: false
