@@ -8,7 +8,7 @@ data:
   description: 春は新しいことを始めたく<br>なる季節！そんな弾む心を<br>秘めた読書好きの艦娘たち<br>に贈る家具職人の匠が製作<br>した春の読書窓です。
   rarity: 4
   price: 3000
-  saleflg: 0
+  saleflg: 1
   season: 
   filename: 
   file_version: 
