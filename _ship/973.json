@@ -14,8 +14,8 @@ data:
   get_mes: ยินดีที่ได้รู้จักค่ะ<br>私が、タイ王国 海防戦艦 トンブリです！<br>提督！どうぞ、よろしくお願いいたします！
   voice_f: 1
   filename: ckxnrfwpufgs
-  file_version: ["57", "1", "529"]
-  book_table_id: [973, 6178, 6266]
+  file_version: ["58", "1", "708"]
+  book_table_id: [973, 6178, 6266, 6297]
   book_sinfo: タイ王国海軍の最大戦力として生まれた海防戦艦トン<br>ブリです。日本の神戸造船さんで建造されました。<br>三段式空母時代の赤城さんや加賀さんと同じ、重巡級<br>の主砲を駆逐艦並みの体に二基4門装備しています。<br>激しい戦いを経て、私の艦橋と主砲の一部は今も祖国<br>で、皆を見守っています。
   stats:
     taik: [19, 29]
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 0, 0, 1]
     build_time: 22
   graph:
-    boko_n: [218, 246]
-    boko_d: [218, 246]
+    boko_n: [-43, 121]
+    boko_d: [-122, 180]
     kaisyu_n: [25, -40]
     kaisyu_d: [30, -21]
-    kaizo_n: [231, 117]
-    kaizo_d: [223, 88]
-    map_n: [252, 199]
-    map_d: [252, 199]
-    ensyuf_n: [248, 184]
-    ensyuf_d: [248, 184]
-    ensyue_n: [240, 0]
-    battle_n: [278, 219]
-    battle_d: [278, 219]
-    wed_a: [85, -55]
-    wed_b: [140, 205]
+    kaizo_n: [-50, -13]
+    kaizo_d: [-105, 6]
+    map_n: [-28, 77]
+    map_d: [-52, 124]
+    ensyuf_n: [-34, 57]
+    ensyuf_d: [-45, 105]
+    ensyue_n: [-38, 0]
+    battle_n: [6, 94]
+    battle_d: [-11, 142]
+    wed_a: [371, 74]
+    wed_b: [120, 217]
   wiki_id: 
   chinese_name: 
   can_drop: true

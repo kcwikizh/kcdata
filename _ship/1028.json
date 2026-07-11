@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 1028
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 618
+  name: Independence改
+  yomi: インディペンデンス
+  stype: 7
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: felqmppbgvqx
-  file_version: ["1", "1", "1"]
+  backs: 6
+  after_lv: 85
+  after_ship_id: 1036
+  get_mes: <br>
+  voice_f: 3
+  filename: jvylfgpijsfr
+  file_version: ["51", "1", "708"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [44, 70]
+    souk: [22, 60]
+    houg: [18, 42]
+    raig: [0, 0]
+    tyku: [34, 58]
+    luck: [36, 98]
+    soku: 10
+    leng: 2
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 4
+    max_eq: [24, 12, 7, 3, 0]
+    after_fuel: 680
+    after_bull: 1280
+    fuel_max: 40
+    bull_max: 45
+    broken: [3, 6, 21, 6]
+    pow_up: [0, 0, 3, 3]
+    build_time: 70
   graph:
-    boko_n: [70, 136]
-    boko_d: [87, 153]
-    kaisyu_n: [13, 3]
-    kaisyu_d: [15, 10]
-    kaizo_n: [-9, 63]
-    kaizo_d: [-30, -6]
-    map_n: [-31, 130]
-    map_d: [-57, 138]
-    ensyuf_n: [-21, 118]
-    ensyuf_d: [-18, 43]
-    ensyue_n: [-21, 0]
-    battle_n: [-43, 102]
-    battle_d: [-43, 102]
-    wed_a: [313, 72]
-    wed_b: [177, 196]
+    boko_n: [95, 172]
+    boko_d: [206, 247]
+    kaisyu_n: [68, 38]
+    kaisyu_d: [149, 101]
+    kaizo_n: [103, 42]
+    kaizo_d: [187, 82]
+    map_n: [125, 144]
+    map_d: [219, 207]
+    ensyuf_n: [123, 130]
+    ensyuf_d: [230, 184]
+    ensyue_n: [119, 0]
+    battle_n: [160, 158]
+    battle_d: [247, 219]
+    wed_a: [226, 5]
+    wed_b: [118, 194]
   wiki_id: 
   chinese_name: 
   can_drop: false

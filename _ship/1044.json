@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 1044
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: rhltewbxblcb
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 634
+  name: 桐
+  yomi: きり
+  stype: 2
+  ctype: 101
+  cnum: 6
+  backs: 5
+  after_lv: 53
+  after_ship_id: 746
+  get_mes: あたいは松型駆逐艦、その六番艦の「桐」！やっとここでも<br>会えたね！　よろしく～！……って、今一瞬、ちっさ！って<br>思ったでしょ！　それ言うの禁止！　言ったら罰金ねっ！
+  voice_f: 1
+  filename: pssfvnyndkjo
+  file_version: ["51", "1", "708"]
+  book_table_id: [1044]
+  book_sinfo: 松型駆逐艦の六番艦「桐」だよ。負けの空気が色濃く<br>なってから、その最前線で出来ることをやり抜いたさ。<br>機動部隊の最期、あの地獄のような多号作戦、そして、<br>その後も戦い抜いたんだ。戦後は、遠い北の海で標的<br>艦や工作艦なんて経験も……な。<br>第三十一戦隊の「桐」。覚えておきなよ！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [14, 27]
+    souk: [5, 22]
+    houg: [5, 25]
+    raig: [16, 60]
+    tyku: [20, 62]
+    luck: [22, 88]
+    soku: 10
+    leng: 1
+    kaih: 33
+    tais: 30
+    slot_num: 2
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 180
+    after_bull: 190
+    fuel_max: 15
+    bull_max: 15
+    broken: [1, 1, 4, 0]
+    pow_up: [0, 1, 1, 0]
+    build_time: 14
   graph:
-    boko_n: [240, 255]
-    boko_d: [123, 312]
-    kaisyu_n: [30, -39]
-    kaisyu_d: [90, -18]
-    kaizo_n: [186, 144]
-    kaizo_d: [60, 150]
-    map_n: [234, 216]
-    map_d: [126, 240]
-    ensyuf_n: [192, 213]
-    ensyuf_d: [96, 222]
-    ensyue_n: [192, 0]
-    battle_n: [270, 240]
-    battle_d: [132, 264]
-    wed_a: [126, -24]
-    wed_b: [138, 192]
+    boko_n: [227, 54]
+    boko_d: [157, 221]
+    kaisyu_n: [152, -23]
+    kaisyu_d: [128, 79]
+    kaizo_n: [232, -62]
+    kaizo_d: [151, 70]
+    map_n: [252, 18]
+    map_d: [180, 192]
+    ensyuf_n: [249, 12]
+    ensyuf_d: [186, 158]
+    ensyue_n: [263, 0]
+    battle_n: [286, 37]
+    battle_d: [207, 198]
+    wed_a: [95, 130]
+    wed_b: [110, 222]
   wiki_id: 
   chinese_name: 
   can_drop: false

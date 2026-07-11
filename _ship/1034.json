@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: imyfegjidjbl
-  file_version: ["51", "1", "529"]
-  book_table_id: [1034]
+  file_version: ["52", "1", "626"]
+  book_table_id: [1034, 6304]
   book_sinfo: 夕雲型駆逐艦十番艦、涼波さ！同じ夕雲型の藤波、早<br>波、そして玉波と、最初の第三二駆逐隊を編成した<br>よ。最新鋭艦隊型駆逐艦として、栄光の二水戦に配属<br>されたんだ。ラバウルねー、あそこは…うちらの縄張<br>りだけどさ、危ないね。
   stats:
     taik: [32, 56]

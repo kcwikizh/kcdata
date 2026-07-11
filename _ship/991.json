@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 991
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: ldtixityifwi
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 591
+  name: Reno
+  yomi: リノ
+  stype: 3
+  ctype: 99
+  cnum: 6
+  backs: 6
+  after_lv: 50
+  after_ship_id: 747
+  get_mes: Yo, what’s up? I’m Reno.　あんたが、この艦隊の噂の<br>Bossってか？いいね。楽しみだ。　Sis同様によろしくな！
+  voice_f: 1
+  filename: pkvnfsrrwibk
+  file_version: ["51", "1", "708"]
+  book_table_id: [991]
+  book_sinfo: Name’s Reno, AA-Cruiser. Glad to be aboard!<br>そうさ、あのAtlanta級だぜ。任務部隊に随伴する防空<br>戦力の中核として活躍したさ。そうだな、空に関しては<br>問題ない！　海の中には注意が必要だな。<br>Watching the deep end too. Got it covered！
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [27, 41]
+    souk: [15, 30]
+    houg: [16, 37]
+    raig: [22, 66]
+    tyku: [80, 122]
+    luck: [22, 72]
+    soku: 10
+    leng: 1
+    kaih: 34
+    tais: 10
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
+    after_fuel: 360
+    after_bull: 420
+    fuel_max: 30
+    bull_max: 50
+    broken: [3, 5, 11, 2]
+    pow_up: [1, 1, 3, 1]
+    build_time: 60
   graph:
-    boko_n: [360, 216]
-    boko_d: [198, 225]
-    kaisyu_n: [24, 0]
-    kaisyu_d: [12, -24]
-    kaizo_n: [240, 150]
-    kaizo_d: [108, 138]
-    map_n: [240, 204]
-    map_d: [108, 204]
-    ensyuf_n: [240, 198]
-    ensyuf_d: [150, 198]
-    ensyue_n: [228, 0]
-    battle_n: [276, 228]
-    battle_d: [156, 234]
-    wed_a: [54, -6]
-    wed_b: [180, 192]
+    boko_n: [107, 204]
+    boko_d: [83, 248]
+    kaisyu_n: [82, 54]
+    kaisyu_d: [102, 85]
+    kaizo_n: [106, 67]
+    kaizo_d: [84, 54]
+    map_n: [127, 176]
+    map_d: [144, 209]
+    ensyuf_n: [118, 164]
+    ensyuf_d: [161, 170]
+    ensyue_n: [127, 0]
+    battle_n: [153, 202]
+    battle_d: [166, 205]
+    wed_a: [220, -28]
+    wed_b: [117, 191]
   wiki_id: 
   chinese_name: 
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: phrpgbmbkcbo
-  file_version: ["51", "21", "529"]
+  file_version: ["51", "21", "708"]
   book_table_id: [987]
   book_sinfo: 特型駆逐艦…３番艦…初雪…です。<br>緒戦の作戦に…いっぱい参加しました…。<br>輸送任務とかも…ん…がんばる……。
   stats:

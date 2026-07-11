@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: llsrcbuznpkj
-  file_version: ["60", "1", "529"]
+  file_version: ["61", "1", "708"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 4, 1]
     build_time: 60
   graph:
-    boko_n: [-117, 133]
-    boko_d: [102, 307]
+    boko_n: [38, 232]
+    boko_d: [61, 274]
     kaisyu_n: [4, -31]
     kaisyu_d: [46, -67]
-    kaizo_n: [-103, -3]
-    kaizo_d: [111, 135]
-    map_n: [-93, 106]
-    map_d: [121, 246]
-    ensyuf_n: [-100, 112]
-    ensyuf_d: [138, 207]
-    ensyue_n: [-127, 0]
-    battle_n: [-46, 115]
-    battle_d: [165, 255]
-    wed_a: [436, 55]
-    wed_b: [106, 151]
+    kaizo_n: [70, 102]
+    kaizo_d: [71, 116]
+    map_n: [88, 209]
+    map_d: [102, 233]
+    ensyuf_n: [101, 173]
+    ensyuf_d: [104, 176]
+    ensyue_n: [80, 0]
+    battle_n: [162, 212]
+    battle_d: [121, 219]
+    wed_a: [233, -40]
+    wed_b: [92, 180]
   wiki_id: "397a"
   chinese_name: 亚特兰大改
   can_drop: false

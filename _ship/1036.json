@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 1036
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 626
+  name: Independence Flight II
+  yomi: インディペンデンス
+  stype: 7
   ctype: 
   cnum: 
-  backs: 
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: grwgcubrjjos
-  file_version: ["1", "1", "1"]
+  get_mes: <br>
+  voice_f: 3
+  filename: qgjpqkpvigpp
+  file_version: ["51", "1", "708"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [46, 71]
+    souk: [28, 62]
+    houg: [32, 50]
+    raig: [0, 0]
+    tyku: [44, 62]
+    luck: [39, 108]
+    soku: 10
+    leng: 2
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
+    slot_num: 4
+    max_eq: [19, 7, 7, 3, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 45
+    bull_max: 45
+    broken: [4, 8, 22, 8]
+    pow_up: [1, 0, 4, 3]
+    build_time: 70
   graph:
-    boko_n: [249, 222]
-    boko_d: [174, 225]
-    kaisyu_n: [24, 0]
-    kaisyu_d: [60, -24]
-    kaizo_n: [181, 100]
-    kaizo_d: [126, 69]
-    map_n: [216, 198]
-    map_d: [156, 201]
-    ensyuf_n: [198, 201]
-    ensyuf_d: [150, 204]
-    ensyue_n: [204, 0]
-    battle_n: [234, 222]
-    battle_d: [168, 225]
-    wed_a: [135, -12]
-    wed_b: [132, 168]
+    boko_n: [95, 172]
+    boko_d: [206, 247]
+    kaisyu_n: [68, 38]
+    kaisyu_d: [149, 101]
+    kaizo_n: [103, 42]
+    kaizo_d: [187, 82]
+    map_n: [125, 144]
+    map_d: [219, 207]
+    ensyuf_n: [123, 130]
+    ensyuf_d: [230, 184]
+    ensyue_n: [119, 0]
+    battle_n: [160, 158]
+    battle_d: [247, 219]
+    wed_a: [226, 5]
+    wed_b: [118, 194]
   wiki_id: 
   chinese_name: 
   can_drop: false

@@ -14,7 +14,7 @@ data:
   get_mes: 私、1TL型戦時標準船、しまね丸！　じゃなかった……<br>特1TL型特設航空母艦、しまね丸です！　船団護衛用の<br>特別な艦なの！　提督、あたし、働きたい、ですっ！
   voice_f: 1
   filename: kvyrbjlicjby
-  file_version: ["55", "1", "529"]
+  file_version: ["56", "1", "708"]
   book_table_id: [1003, 5990]
   book_sinfo: 民間で建造された戦時標準船をベースに、全通飛行甲<br>板と空母並みの航空艤装を持つ、特1TL型特設航空母<br>艦、しまね丸です。洋上に出撃することは叶わなかっ<br>たけど、あたしたちのことも、覚えていて。<br>きっとだよ？
   stats:
@@ -38,23 +38,23 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 12
   graph:
-    boko_n: [78, 261]
-    boko_d: [-33, 211]
+    boko_n: [14, 221]
+    boko_d: [-12, 195]
     kaisyu_n: [27, 75]
     kaisyu_d: [30, 73]
-    kaizo_n: [110, 144]
-    kaizo_d: [14, 45]
-    map_n: [131, 252]
-    map_d: [60, 176]
-    ensyuf_n: [134, 172]
-    ensyuf_d: [30, 122]
-    ensyue_n: [106, 0]
-    battle_n: [140, 228]
-    battle_d: [47, 161]
-    wed_a: [223, -13]
-    wed_b: [107, 232]
+    kaizo_n: [30, 104]
+    kaizo_d: [-48, 26]
+    map_n: [-25, 188]
+    map_d: [-18, 146]
+    ensyuf_n: [5, 174]
+    ensyuf_d: [-39, 128]
+    ensyue_n: [0, 0]
+    battle_n: [28, 200]
+    battle_d: [-3, 167]
+    wed_a: [311, -45]
+    wed_b: [140, 219]
   wiki_id: "603"
   chinese_name: 岛根丸
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

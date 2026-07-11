@@ -14,7 +14,7 @@ data:
   get_mes: Meが潜水艦Wahoo。Gato classだよ。<br>哨戒任務なら任せとけ！狩りは得意さ。 ……え？北海道？<br>んー。Meはやめとくわ。
   voice_f: 1
   filename: yyadqhyopvhb
-  file_version: ["51", "19", "529"]
+  file_version: ["51", "19", "708"]
   book_table_id: [984]
   book_sinfo: Gato class潜水艦USS Wahoo。<br>Meのこと、知ってる？あ、そう。ま、いいけどさ。<br>警戒厳重な日本海にも侵入して戦果を何度も上げてい<br>る、こう見えてエースなんだ。宗谷岬…あそこは要塞<br>なんだな…水上機に海防艦も……油断した。<br>宗谷海峡に眠るUSS Wahoo、覚えてくれよ。
   stats:

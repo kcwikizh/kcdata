@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 932
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: jkvjvdnyjvkg
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  sort_no: 532
+  name: Indiana
+  yomi: インディアナ
+  stype: 8
+  ctype: 102
+  cnum: 2
+  backs: 7
+  after_lv: 48
+  after_ship_id: 937
+  get_mes: Hi there! Admiral!<br>あたしが最高の戦艦、その二番艦、Indiana！　覚えてて！<br>大丈夫、必ず忘れなくなるから。きっとね！
+  voice_f: 1
+  filename: gwxkvtmkxmsr
+  file_version: ["51", "1", "708"]
+  book_table_id: [932]
+  book_sinfo: South Dakota級戦艦の二番艦、あたしがその<br>Indiana。太平洋戦域で空母機動部隊の直衛はもちろ<br>ん、活躍したんだから！今でも私の一部と魂は、イン<br>ディアナにメモリアルとして遺されているの。<br>逢いに来る？　いいわ、待ってる。　See!
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    taik: [79, 92]
+    souk: [77, 92]
+    houg: [80, 100]
+    raig: [0, 0]
+    tyku: [40, 92]
+    luck: [19, 86]
+    soku: 10
+    leng: 3
+    kaih: 29
+    tais: 0
+    slot_num: 4
+    max_eq: [0, 0, 3, 3, 0]
+    after_fuel: 2700
+    after_bull: 2400
+    fuel_max: 150
+    bull_max: 190
+    broken: [18, 32, 50, 10]
+    pow_up: [5, 0, 2, 5]
+    build_time: 400
   graph:
-    boko_n: [-36, 216]
-    boko_d: [-36, 204]
-    kaisyu_n: [60, -12]
-    kaisyu_d: [48, -12]
-    kaizo_n: [-120, 132]
-    kaizo_d: [-96, 96]
-    map_n: [-96, 192]
-    map_d: [-84, 192]
-    ensyuf_n: [-48, 192]
-    ensyuf_d: [-36, 192]
-    ensyue_n: [-120, 0]
-    battle_n: [-36, 192]
-    battle_d: [-48, 192]
-    wed_a: [360, 0]
-    wed_b: [216, 192]
+    boko_n: [-219, 163]
+    boko_d: [-13, 206]
+    kaisyu_n: [11, 4]
+    kaisyu_d: [66, 76]
+    kaizo_n: [-191, 40]
+    kaizo_d: [-11, 43]
+    map_n: [-170, 150]
+    map_d: [14, 174]
+    ensyuf_n: [-200, 128]
+    ensyuf_d: [26, 152]
+    ensyue_n: [-191, 0]
+    battle_n: [-135, 163]
+    battle_d: [50, 183]
+    wed_a: [535, -1]
+    wed_b: [113, 210]
   wiki_id: 
   chinese_name: 
   can_drop: false

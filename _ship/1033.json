@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: lsudguoipbwg
-  file_version: ["51", "1", "529"]
-  book_table_id: [1033]
+  file_version: ["52", "1", "708"]
+  book_table_id: [1033, 6302]
   book_sinfo: 夕雲型駆逐艦、九番艦、玉波です。栄光ある二水戦に<br>配属され、ラバウルなどの最前線に向かいました。<br>藤波さんたちと共にマリアナ沖決戦にも参加。既に前<br>線の崩壊した海上の輸送船団護衛にも従事しました。<br>潜水艦の脅威、忘れてはいけません。
   stats:
     taik: [33, 56]

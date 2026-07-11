@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: dgsclyungdqe
-  file_version: ["76", "53", "529"]
+  file_version: ["77", "53", "708"]
   book_table_id: [969, 5917, 5919, 5963, 6015, 6058, 6123]
   book_sinfo: Richelieu級戦艦一番艦、Richelieuよ。自由・平<br>等・博愛の国で生まれた最強の戦艦といったほうが話<br>が早いかしら？特にこの四連装主砲は流石…といった<br>ところね。そうね、あの戦いは両陣営でも戦ったわ。<br>まあ、色々あるの。C’est comme ca.
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [6, 0, 3, 5]
     build_time: 300
   graph:
-    boko_n: [-407, 199]
-    boko_d: [-81, 289]
+    boko_n: [91, 199]
+    boko_d: [47, 263]
     kaisyu_n: [16, 24]
     kaisyu_d: [28, 95]
-    kaizo_n: [-381, 85]
-    kaizo_d: [-31, 83]
-    map_n: [-361, 186]
-    map_d: [-23, 222]
-    ensyuf_n: [-365, 182]
-    ensyuf_d: [-51, 188]
-    ensyue_n: [-350, 0]
-    battle_n: [-343, 201]
-    battle_d: [-7, 232]
-    wed_a: [699, -36]
-    wed_b: [134, 199]
+    kaizo_n: [102, 79]
+    kaizo_d: [56, 113]
+    map_n: [126, 185]
+    map_d: [81, 212]
+    ensyuf_n: [113, 176]
+    ensyuf_d: [74, 189]
+    ensyue_n: [112, 0]
+    battle_n: [152, 203]
+    battle_d: [103, 234]
+    wed_a: [235, -30]
+    wed_b: [112, 184]
   wiki_id: "569"
   chinese_name: 黎塞留 Deux
   can_drop: false

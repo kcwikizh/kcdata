@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: jimldgofdvhl
-  file_version: ["62", "6", "529"]
+  file_version: ["64", "6", "708"]
   book_table_id: [1010, 5986, 5993, 6028, 6164, 6224]
   book_sinfo: New Orleans級重巡洋艦3番艦、Minneapolis。<br>初戦のヤバい時から後半戦までがっつり戦い抜いたわ！<br>珊瑚海、ミッドウェー、タサファロング……聞いたこと<br>あるでしょ？あ、ルンガだとわかる？えらい目にあった<br>わ。その後、スリガオ海峡夜戦にも参戦。終戦後は帰還<br>兵を西海岸へ。やばいほど頑張ったでしょ？私！
   stats:
@@ -38,20 +38,20 @@ data:
     pow_up: [2, 1, 1, 2]
     build_time: 85
   graph:
-    boko_n: [74, 208]
-    boko_d: [41, 195]
+    boko_n: [120, 181]
+    boko_d: [37, 210]
     kaisyu_n: [21, 9]
     kaisyu_d: [45, 97]
-    kaizo_n: [67, 89]
-    kaizo_d: [29, 50]
-    map_n: [92, 179]
-    map_d: [60, 176]
-    ensyuf_n: [89, 181]
-    ensyuf_d: [78, 171]
-    ensyue_n: [90, 0]
-    battle_n: [130, 204]
-    battle_d: [91, 195]
-    wed_a: [259, -41]
+    kaizo_n: [112, 62]
+    kaizo_d: [27, 65]
+    map_n: [137, 152]
+    map_d: [56, 191]
+    ensyuf_n: [134, 154]
+    ensyuf_d: [75, 186]
+    ensyue_n: [135, 0]
+    battle_n: [175, 177]
+    battle_d: [88, 210]
+    wed_a: [214, -13]
     wed_b: [111, 203]
   wiki_id: "610"
   chinese_name: 明尼阿波利斯改

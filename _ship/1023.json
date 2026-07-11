@@ -2,57 +2,57 @@
 layout: json
 data:
   id: 1023
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 613
+  name: Independence
+  yomi: インディペンデンス
+  stype: 7
   ctype: 
   cnum: 
-  backs: 
-  after_lv: 
-  after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: rxyecsygdbqf
-  file_version: ["1", "1", "1"]
+  backs: 5
+  after_lv: 50
+  after_ship_id: 1028
+  get_mes: Admiral, it is an honor to meet you. <br>My name is USS Independence.<br>I look forward to working with you.
+  voice_f: 1
+  filename: oanubccgwrgx
+  file_version: ["51", "1", "708"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [31, 41]
+    souk: [14, 30]
+    houg: [14, 34]
+    raig: [0, 0]
+    tyku: [32, 52]
+    luck: [28, 88]
+    soku: 10
+    leng: 2
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
-    after_fuel: 
-    after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    slot_num: 3
+    max_eq: [12, 9, 9, 0, 0]
+    after_fuel: 480
+    after_bull: 1080
+    fuel_max: 35
+    bull_max: 40
+    broken: [3, 4, 14, 4]
+    pow_up: [0, 0, 3, 2]
+    build_time: 70
   graph:
-    boko_n: [0, 84]
-    boko_d: [24, 108]
-    kaisyu_n: [12, 0]
-    kaisyu_d: [72, 0]
-    kaizo_n: [-48, 36]
-    kaizo_d: [36, 36]
-    map_n: [-36, 72]
-    map_d: [72, 108]
-    ensyuf_n: [24, 90]
-    ensyuf_d: [48, 24]
-    ensyue_n: [-36, 0]
-    battle_n: [24, 108]
-    battle_d: [48, 156]
-    wed_a: [375, 120]
-    wed_b: [130, 144]
+    boko_n: [95, 172]
+    boko_d: [206, 247]
+    kaisyu_n: [68, 38]
+    kaisyu_d: [149, 101]
+    kaizo_n: [103, 42]
+    kaizo_d: [187, 82]
+    map_n: [125, 144]
+    map_d: [219, 207]
+    ensyuf_n: [123, 130]
+    ensyuf_d: [230, 184]
+    ensyue_n: [119, 0]
+    battle_n: [160, 158]
+    battle_d: [247, 219]
+    wed_a: [226, 5]
+    wed_b: [118, 194]
   wiki_id: 
   chinese_name: 
   can_drop: false
