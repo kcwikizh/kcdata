@@ -1,0 +1,421 @@
+---
+layout: json
+order: 623
+data:
+  id: 623
+  name: パラオ沖/ウルシ―泊地沖/中部太平洋
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: A1
+    3:
+      from: A
+      to: A2
+    4:
+      from: A2
+      to: B
+    5:
+      from: B
+      to: B1
+    6:
+      from: B1
+      to: B2
+    7:
+      from: B
+      to: C
+    8:
+      from: B1
+      to: C1
+    9:
+      from: C1
+      to: C2
+    10:
+      from: A2
+      to: D
+    11:
+      from: D
+      to: D1
+    12:
+      from: D1
+      to: D2
+    13:
+      from: D
+      to: E
+    14:
+      from: D1
+      to: E1
+    15:
+      from: E1
+      to: E2
+    16:
+      from: A1
+      to: A2
+    17:
+      from: C
+      to: B1
+    18:
+      from: C
+      to: C1
+    19:
+      from: E
+      to: D1
+    20:
+      from: E
+      to: E1
+    21:
+      from: 2
+      to: F
+    22:
+      from: A2
+      to: G
+    23:
+      from: G
+      to: H
+    24:
+      from: H
+      to: I
+    25:
+      from: I
+      to: J
+    26:
+      from: J
+      to: K
+    27:
+      from: J
+      to: L1
+    28:
+      from: I
+      to: L
+    29:
+      from: L
+      to: L2
+    30:
+      from: H
+      to: M
+    31:
+      from: M
+      to: N
+    32:
+      from: L
+      to: O
+    33:
+      from: K
+      to: L1
+    34:
+      from: J
+      to: L
+    35:
+      from: L1
+      to: L
+    36:
+      from: F
+      to: A2
+    37:
+      from: null
+      to: 2
+    38:
+      from: C2
+      to: P
+    39:
+      from: P
+      to: Q
+    40:
+      from: C
+      to: C2
+    41:
+      from: C2
+      to: G
+    42:
+      from: P
+      to: L2
+    43:
+      from: G
+      to: P
+    44:
+      from: N
+      to: R
+    45:
+      from: R
+      to: S
+    46:
+      from: R
+      to: T
+    47:
+      from: T
+      to: U
+    48:
+      from: T
+      to: V
+    49:
+      from: V
+      to: W
+    50:
+      from: V
+      to: X
+    51:
+      from: S
+      to: T
+    52:
+      from: U
+      to: V
+    53:
+      from: W
+      to: X
+    54:
+      from: 3
+      to: N
+    55:
+      from: 3
+      to: R
+    56:
+      from: null
+      to: 3
+    57:
+      from: M
+      to: Y1
+    58:
+      from: U
+      to: Y2
+    59:
+      from: Y2
+      to: Y3
+    60:
+      from: U
+      to: Y
+    61:
+      from: Y
+      to: Y4
+    62:
+      from: Y
+      to: Z
+    63:
+      from: Y2
+      to: Y
+    64:
+      from: Y3
+      to: Y
+    65:
+      from: N
+      to: Y1
+    66:
+      from: Y1
+      to: U
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    A1:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    A2:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [3, 16, 36]
+    B:
+      name: 
+      type:
+      boss: false
+      routes: [4]
+    B1:
+      name: 深海潜水艦隊+航空支援艦載機
+      type:
+      boss: false
+      routes: [5, 17]
+    B2:
+      name: 深海西部太平洋潜水艦隊 主力II群
+      type:
+      boss: false
+      routes: [6]
+    C:
+      name: 深海西部太平洋潜水艦隊 C哨戒線
+      type:
+      boss: false
+      routes: [7]
+    C1:
+      name: 深海西部太平洋潜水艦隊 D哨戒線
+      type:
+      boss: false
+      routes: [8, 18]
+    C2:
+      name: 深海任務部隊 南部警戒集団
+      type:
+      boss: false
+      routes: [9, 40]
+    D:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    D1:
+      name: 深海潜水艦隊+航空支援艦載機
+      type:
+      boss: false
+      routes: [11, 19]
+    D2:
+      name: 深海西部太平洋潜水艦隊 主力I群
+      type:
+      boss: false
+      routes: [12]
+    E:
+      name: 深海西部太平洋潜水艦隊 A哨戒線
+      type:
+      boss: false
+      routes: [13]
+    E1:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [14, 20]
+    E2:
+      name: 深海任務部隊 北部警戒集団
+      type:
+      boss: false
+      routes: [15]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [21]
+    G:
+      name: 深海西部太平洋潜水艦隊 B哨戒線
+      type:
+      boss: false
+      routes: [22, 41]
+    H:
+      name: 
+      type:
+      boss: false
+      routes: [23]
+    I:
+      name: 深海任務部隊 前方展開空母群
+      type:
+      boss: false
+      routes: [24]
+    J:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [25]
+    K:
+      name: 
+      type:
+      boss: false
+      routes: [26]
+    L1:
+      name: 
+      type:
+      boss: false
+      routes: [27, 33]
+    L:
+      name: 深海任務部隊 随伴火力支援艦隊
+      type:
+      boss: false
+      routes: [28, 34, 35]
+    L2:
+      name: 
+      type:
+      boss: false
+      routes: [29, 42]
+    M:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [30]
+    N:
+      name: 
+      type:
+      boss: false
+      routes: [31, 54]
+    O:
+      name: 深海任務部隊 パラオ侵攻部隊
+      type:
+      boss: false
+      routes: [32]
+    P:
+      name: 
+      type:
+      boss: false
+      routes: [38, 43]
+    Q:
+      name: 深海任務部隊 パラオ遮断警戒群
+      type:
+      boss: false
+      routes: [39]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [44, 55]
+    S:
+      name: 深海任務部隊 対潜警戒駆逐隊
+      type:
+      boss: false
+      routes: [45]
+    T:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [46, 51]
+    U:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [47, 66]
+    V:
+      name: 深海任務部隊 ウルシー重巡戦隊
+      type:
+      boss: false
+      routes: [48, 52]
+    W:
+      name: 
+      type:
+      boss: false
+      routes: [49]
+    X:
+      name: 深海任務部隊 在ウルシー泊地艦隊
+      type:
+      boss: false
+      routes: [50, 53]
+    Y1:
+      name: 深海西部太平洋潜水艦隊 哨戒線
+      type:
+      boss: false
+      routes: [57, 65]
+    Y2:
+      name: 深海任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [58]
+    Y3:
+      name: 
+      type:
+      boss: false
+      routes: [59]
+    Y:
+      name: 深海任務部隊 主力随伴護衛群
+      type:
+      boss: false
+      routes: [60, 63, 64]
+    Y4:
+      name: 
+      type:
+      boss: false
+      routes: [61]
+    Z:
+      name: 深海任務部隊 ウルシー主力艦隊
+      type:
+      boss: false
+      routes: [62]
+  image: MapHDE-3Summer2026.png
+---

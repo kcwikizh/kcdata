@@ -1,0 +1,380 @@
+---
+layout: json
+order: 622
+data:
+  id: 622
+  name: 南沙諸島沖/オルモック沖/サンベルナルジノ海峡沖
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A
+    2:
+      from: A
+      to: A1
+    3:
+      from: A1
+      to: A2
+    4:
+      from: A1
+      to: A3
+    5:
+      from: A3
+      to: B
+    6:
+      from: A3
+      to: B1
+    7:
+      from: A3
+      to: B2
+    8:
+      from: A3
+      to: C
+    9:
+      from: C
+      to: C1
+    10:
+      from: C
+      to: C2
+    11:
+      from: B2
+      to: D
+    12:
+      from: A2
+      to: A3
+    13:
+      from: B
+      to: B1
+    14:
+      from: B2
+      to: C
+    15:
+      from: B2
+      to: E
+    16:
+      from: E
+      to: F
+    17:
+      from: F
+      to: G
+    18:
+      from: G
+      to: G1
+    19:
+      from: G1
+      to: G2
+    20:
+      from: G
+      to: H
+    21:
+      from: B1
+      to: B2
+    22:
+      from: B1
+      to: F
+    23:
+      from: B2
+      to: F
+    24:
+      from: D
+      to: G
+    25:
+      from: 2
+      to: I
+    26:
+      from: I
+      to: J
+    27:
+      from: J
+      to: K
+    28:
+      from: K
+      to: L
+    29:
+      from: L
+      to: M
+    30:
+      from: O
+      to: N
+    31:
+      from: M
+      to: O
+    32:
+      from: O
+      to: P
+    33:
+      from: I
+      to: B1
+    34:
+      from: J
+      to: G1
+    35:
+      from: G1
+      to: K
+    36:
+      from: G2
+      to: K
+    37:
+      from: null
+      to: 2
+    38:
+      from: 3
+      to: Q
+    39:
+      from: K
+      to: R
+    40:
+      from: L
+      to: S
+    41:
+      from: S
+      to: T
+    42:
+      from: T
+      to: U
+    43:
+      from: T
+      to: V
+    44:
+      from: 3
+      to: E
+    45:
+      from: Q
+      to: D
+    46:
+      from: R
+      to: L
+    47:
+      from: Q
+      to: G
+    48:
+      from: null
+      to: 3
+    49:
+      from: T
+      to: W
+    50:
+      from: X1
+      to: W1
+    51:
+      from: W
+      to: W2
+    52:
+      from: W
+      to: X1
+    53:
+      from: W2
+      to: X2
+    54:
+      from: X1
+      to: X
+    55:
+      from: X
+      to: Y
+    56:
+      from: W2
+      to: X1
+    57:
+      from: X2
+      to: X1
+    58:
+      from: 4
+      to: T
+    59:
+      from: null
+      to: 4
+  cells:
+    A:
+      name: 
+      type:
+      boss: false
+      routes: [1]
+    A1:
+      name: 
+      type:
+      boss: false
+      routes: [2]
+    A2:
+      name: 深海任務部隊 ピケット哨戒線
+      type:
+      boss: false
+      routes: [3]
+    A3:
+      name: 深海任務部隊 前衛警戒部隊
+      type:
+      boss: false
+      routes: [4, 12]
+    B:
+      name: 深海潜水艦隊 南沙諸島沖哨戒B群
+      type:
+      boss: false
+      routes: [5]
+    B1:
+      name: 深海機動部隊　艦載機群
+      type:
+      boss: false
+      routes: [6, 13, 33]
+    B2:
+      name: 深海潜水艦隊 南沙諸島沖哨戒A群
+      type:
+      boss: false
+      routes: [7, 21]
+    C:
+      name: 深海機動部隊　艦載機群
+      type:
+      boss: false
+      routes: [8, 14]
+    C1:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    C2:
+      name: 深海任務部隊 南沙諸島警戒群
+      type:
+      boss: false
+      routes: [10]
+    D:
+      name: 深海機動部隊　艦載機群
+      type:
+      boss: false
+      routes: [11, 45]
+    E:
+      name: 深海潜水艦隊+航空支援艦載機
+      type:
+      boss: false
+      routes: [15, 44]
+    F:
+      name: 深海機動部隊　艦載機群
+      type:
+      boss: false
+      routes: [16, 22, 23]
+    G:
+      name: 深海潜水艦隊 比島沖西部哨戒線
+      type:
+      boss: false
+      routes: [17, 24, 47]
+    G1:
+      name: ミンドロ島配備 深海魚雷艇 A戦隊
+      type:
+      boss: false
+      routes: [18, 34]
+    G2:
+      name: ミンドロ島配備 深海魚雷艇 B戦隊
+      type:
+      boss: false
+      routes: [19]
+    H:
+      name: 深海任務部隊 ミンドロ島警戒群
+      type:
+      boss: false
+      routes: [20]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [25]
+    J:
+      name: 深海機動部隊　艦載機群
+      type:
+      boss: false
+      routes: [26]
+    K:
+      name: 深海機動部隊　艦載機群
+      type:
+      boss: false
+      routes: [27, 35, 36]
+    L:
+      name: 深海任務部隊 レイテ増援阻止線
+      type:
+      boss: false
+      routes: [28, 46]
+    M:
+      name: 深海機動部隊　艦載機群
+      type:
+      boss: false
+      routes: [29]
+    N:
+      name: 深海機動部隊　艦載機群
+      type:
+      boss: false
+      routes: [30]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [31]
+    P:
+      name: 深海任務部隊 オルモック襲撃群
+      type:
+      boss: false
+      routes: [32]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [38]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [39]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [40]
+    T:
+      name: 深海任務部隊 機動部隊前衛集団
+      type:
+      boss: false
+      routes: [41, 58]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [42]
+    V:
+      name: 深海任務部隊 空母機動部隊
+      type:
+      boss: false
+      routes: [43]
+    W:
+      name: 深海潜水艦隊 比島沖東部哨戒線
+      type:
+      boss: false
+      routes: [49]
+    W1:
+      name: 
+      type:
+      boss: false
+      routes: [50]
+    W2:
+      name: 深海機動部隊　艦載機群
+      type:
+      boss: false
+      routes: [51]
+    X1:
+      name: 深海機動部隊　艦載機群
+      type:
+      boss: false
+      routes: [52, 56, 57]
+    X2:
+      name: 
+      type:
+      boss: false
+      routes: [53]
+    X:
+      name: 深海任務部隊 主力随伴戦艦戦隊
+      type:
+      boss: false
+      routes: [54]
+    Y:
+      name: 深海任務部隊 主力空母機動部隊
+      type:
+      boss: false
+      routes: [55]
+  image: MapHDE-2Summer2026.png
+---

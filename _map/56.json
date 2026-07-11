@@ -1,0 +1,327 @@
+---
+layout: json
+order: 56
+data:
+  id: 56
+  name: ラバウル方面海域
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A1
+    2:
+      from: 1
+      to: A2
+    3:
+      from: 1
+      to: A
+    4:
+      from: A2
+      to: B
+    5:
+      from: B
+      to: C1
+    6:
+      from: A
+      to: C2
+    7:
+      from: A2
+      to: C
+    8:
+      from: C2
+      to: D
+    9:
+      from: D
+      to: E
+    10:
+      from: E
+      to: F
+    11:
+      from: E
+      to: G
+    12:
+      from: A1
+      to: A2
+    13:
+      from: A
+      to: B
+    14:
+      from: B
+      to: C2
+    15:
+      from: C1
+      to: C2
+    16:
+      from: B
+      to: C
+    17:
+      from: C1
+      to: C
+    18:
+      from: C
+      to: H
+    19:
+      from: H
+      to: R
+    20:
+      from: 2
+      to: I
+    21:
+      from: I
+      to: J
+    22:
+      from: J
+      to: K1
+    23:
+      from: J
+      to: K
+    24:
+      from: K
+      to: K2
+    25:
+      from: K
+      to: L
+    26:
+      from: L
+      to: M
+    27:
+      from: L
+      to: N
+    28:
+      from: I
+      to: O
+    29:
+      from: O
+      to: P
+    30:
+      from: O
+      to: Q
+    31:
+      from: P
+      to: Q1
+    32:
+      from: Q
+      to: Q2
+    33:
+      from: K1
+      to: K
+    34:
+      from: K2
+      to: L
+    35:
+      from: null
+      to: 2
+    36:
+      from: Q1
+      to: S
+    37:
+      from: Q1
+      to: T
+    38:
+      from: Q
+      to: U
+    39:
+      from: Q2
+      to: V
+    40:
+      from: V
+      to: W
+    41:
+      from: U
+      to: X
+    42:
+      from: X
+      to: Y
+    43:
+      from: X
+      to: Z
+    44:
+      from: V
+      to: X
+    45:
+      from: W
+      to: X
+    46:
+      from: Q1
+      to: Q2
+    47:
+      from: Q2
+      to: T
+    48:
+      from: Q
+      to: W
+  cells:
+    A1:
+      name: 深海南方艦隊 先遣偵察戦隊 I群
+      type:
+      boss: false
+      routes: [1]
+    A2:
+      name: 深海南方艦隊 先遣偵察戦隊 II群
+      type:
+      boss: false
+      routes: [2, 12]
+    A:
+      name: 深海南方艦隊 前方遊撃哨戒群
+      type:
+      boss: false
+      routes: [3]
+    B:
+      name: 深海南方潜水艦隊 前方哨戒線
+      type:
+      boss: false
+      routes: [4, 13]
+    C1:
+      name: 深海南方方面 基地航空隊
+      type:
+      boss: false
+      routes: [5]
+    C2:
+      name: 深海南方根拠地隊 水雷艇集団
+      type:
+      boss: false
+      routes: [6, 14, 15]
+    C:
+      name: 深海南方方面 基地航空隊
+      type:
+      boss: false
+      routes: [7, 16, 17]
+    D:
+      name: 深海南方方面 基地航空隊
+      type:
+      boss: false
+      routes: [8]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [9]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    G:
+      name: 深海南方艦隊 ラエ増援阻止集団
+      type:
+      boss: false
+      routes: [11]
+    H:
+      name: 深海潜水艦隊 ラバウル哨戒線
+      type:
+      boss: false
+      routes: [18]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [19]
+    I:
+      name: 
+      type:
+      boss: false
+      routes: [20]
+    J:
+      name: 深海南方任務部隊 前方哨戒群
+      type:
+      boss: false
+      routes: [21]
+    K1:
+      name: 深海南方任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [22]
+    K:
+      name: 深海南方潜水艦隊 東南哨戒線
+      type:
+      boss: false
+      routes: [23, 33]
+    K2:
+      name: 深海南方任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [24]
+    L:
+      name: 深海南方任務部隊 機動部隊 III群
+      type:
+      boss: false
+      routes: [25, 34]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [26]
+    N:
+      name: 深海南方任務部隊 機動部隊 II群
+      type:
+      boss: false
+      routes: [27]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [28]
+    P:
+      name: 深海南方任務部隊 前衛艦隊 II群
+      type:
+      boss: false
+      routes: [29]
+    Q:
+      name: 深海南方任務部隊 前衛艦隊 I群
+      type:
+      boss: false
+      routes: [30]
+    Q1:
+      name: 深海南方任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [31]
+    Q2:
+      name: 深海潜水艦隊 機動部隊随伴 II群
+      type:
+      boss: false
+      routes: [32, 46]
+    S:
+      name: 
+      type:
+      boss: false
+      routes: [36]
+    T:
+      name: 深海南方任務部隊 随伴補給部隊
+      type:
+      boss: false
+      routes: [37, 47]
+    U:
+      name: 深海南方任務部隊 新鋭戦艦戦隊
+      type:
+      boss: false
+      routes: [38]
+    V:
+      name: 深海南方任務部隊 機動部隊 I群
+      type:
+      boss: false
+      routes: [39]
+    W:
+      name: 深海潜水艦隊 機動部隊随伴 I群
+      type:
+      boss: false
+      routes: [40, 48]
+    X:
+      name: 深海南方任務部隊 艦載機群
+      type:
+      boss: false
+      routes: [41, 44, 45]
+    Y:
+      name: 
+      type:
+      boss: false
+      routes: [42]
+    Z:
+      name: 深海南方任務部隊 機動部隊主力
+      type:
+      boss: true
+      routes: [43]
+  image: MapHD5-6.png
+---

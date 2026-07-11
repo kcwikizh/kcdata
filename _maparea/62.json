@@ -1,0 +1,13 @@
+---
+layout: json
+order: 62
+data:
+  id: 62
+  name: 反撃！第三十一戦隊の戦い
+  maps:
+    - 621
+    - 622
+    - 623
+  event: true
+  level: 4
+---
