@@ -415,7 +415,7 @@ data:
     Z:
       name: 深海任務部隊 ウルシー主力艦隊
       type:
-      boss: false
+      boss: true
       routes: [62]
   image: MapHDE-3Summer2026.png
 ---

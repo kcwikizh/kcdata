@@ -374,7 +374,7 @@ data:
     Y:
       name: 深海任務部隊 主力空母機動部隊
       type:
-      boss: false
+      boss: true
       routes: [55]
   image: MapHDE-2Summer2026.png
 ---
