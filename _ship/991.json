@@ -53,8 +53,8 @@ data:
     battle_d: [166, 205]
     wed_a: [220, -28]
     wed_b: [117, 191]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "591"
+  chinese_name: 里诺
   can_drop: false
   can_construct: false
 ---
