@@ -14,7 +14,7 @@ data:
   get_mes: 秋月型防空駆逐艦、十三番艦、花月と申します。<br>提督、大変お待たせしました。不束者ではありますが、<br>此度は……皆さんのお役に立ちたいと存じます。
   voice_f: 1
   filename: jtixxkuniwml
-  file_version: ["51", "1", "708"]
+  file_version: ["51", "1", "718"]
   book_table_id: [1041]
   book_sinfo: 秋月型防空駆逐艦、その十三番艦、舞鶴生れ、花月と<br>申します。私が就役した時は、戦局は、既に最終局面<br>となりつつありました。第二艦隊の覚悟の出撃を、豊<br>後水道で見送り、その後、最後の水上決戦部隊に配備<br>されます。戦後は、復員輸送に務めました。<br>花月のこと、覚えていてくださいね。
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [137, 189]
   wiki_id: "631"
   chinese_name: 花月
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

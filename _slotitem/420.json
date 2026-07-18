@@ -5,7 +5,7 @@ data:
   id: 420
   sort_no: 420
   name: SB2C-3
-  type: [3, 5, 7, 7, 21]
+  type: [3, 5, 7, 7, 62]
   rare: 4
   broken: [2, 5, 0, 5]
   info: 

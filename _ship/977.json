@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: pokiuobqgepg
-  file_version: ["57", "1", "708"]
+  file_version: ["57", "1", "718"]
   book_table_id: [977, 6217]
   book_sinfo: 伊号潜水艦、主力の巡潜乙型の改良型、その二番艦<br>伊41だ。名艦長の板倉艦長の指揮で、結構危ない橋を<br>何度も渡って任務を成功させてきたんだ。<br>艦長と縁の深い昔の上官を助けるために既に危険海域<br>だったブインの補給にも向かったよ。<br>みんなの事……忘れるなよ。
   stats:

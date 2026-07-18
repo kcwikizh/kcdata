@@ -5,7 +5,7 @@ data:
   id: 419
   sort_no: 419
   name: SBD-5
-  type: [3, 5, 7, 7, 21]
+  type: [3, 5, 7, 7, 62]
   rare: 3
   broken: [1, 3, 0, 3]
   info: 
