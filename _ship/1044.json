@@ -14,7 +14,7 @@ data:
   get_mes: あたいは松型駆逐艦、その六番艦の「桐」！やっとここでも<br>会えたね！　よろしく～！……って、今一瞬、ちっさ！って<br>思ったでしょ！　それ言うの禁止！　言ったら罰金ねっ！
   voice_f: 1
   filename: pssfvnyndkjo
-  file_version: ["51", "1", "708"]
+  file_version: ["51", "1", "718"]
   book_table_id: [1044]
   book_sinfo: 松型駆逐艦の六番艦「桐」だよ。負けの空気が色濃く<br>なってから、その最前線で出来ることをやり抜いたさ。<br>機動部隊の最期、あの地獄のような多号作戦、そして、<br>その後も戦い抜いたんだ。戦後は、遠い北の海で標的<br>艦や工作艦なんて経験も……な。<br>第三十一戦隊の「桐」。覚えておきなよ！
   stats:
@@ -55,6 +55,6 @@ data:
     wed_b: [110, 222]
   wiki_id: "634"
   chinese_name: 桐
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

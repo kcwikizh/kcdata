@@ -5,7 +5,7 @@ data:
   id: 543
   sort_no: 543
   name: SBD VS-2(偵察飛行隊)
-  type: [5, 7, 9, 9, 21]
+  type: [5, 7, 9, 9, 62]
   rare: 3
   broken: [1, 3, 0, 3]
   info: 

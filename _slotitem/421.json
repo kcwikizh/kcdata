@@ -5,7 +5,7 @@ data:
   id: 421
   sort_no: 421
   name: SB2C-5
-  type: [3, 5, 7, 7, 21]
+  type: [3, 5, 7, 7, 62]
   rare: 5
   broken: [3, 5, 0, 7]
   info: 

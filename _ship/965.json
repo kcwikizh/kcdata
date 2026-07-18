@@ -14,7 +14,7 @@ data:
   get_mes: 貴方がMon amiralね？ Bonjour! 私、La Galissonnière級<br>軽巡洋艦Gloire !　トリコロール、好きだけれど……ちょっと<br>目立つかしら……あとで着替えてみますね？
   voice_f: 1
   filename: qdtvivowgbjo
-  file_version: ["59", "1", "708"]
+  file_version: ["59", "1", "718"]
   book_table_id: [965, 5911, 5950]
   book_sinfo: フランス生まれのLa Galissonnière級軽巡洋艦<br>Gloireです。<br>艦隊は色々あったけど、私はダカールで連合国側に。<br>そして、ニューヨークで改装されたの。栄光の名を持<br>つ軽巡洋艦。私の事も覚えておいてね！
   stats:

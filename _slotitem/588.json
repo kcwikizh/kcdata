@@ -3,34 +3,34 @@ layout: json
 order: 588
 data:
   id: 588
-  sort_no: 0
-  name: 深海5inch連装砲C型
-  type: [1, 1, 1, 1, 0]
-  rare: 4
-  broken: [0, 0, 0, 0]
+  sort_no: 588
+  name: G-36A(F4F輸出型)
+  type: [3, 5, 6, 6, 21]
+  rare: 3
+  broken: [1, 2, 0, 2]
   info: 
   usebull: 0
-  cost: 
-  distance: 
+  cost: 5
+  distance: 4
   stats:
     taik: 0
     souk: 0
-    houg: 6
+    houg: 1
     raig: 0
     soku: 0
     baku: 0
-    tyku: 3
-    tais: 6
+    tyku: 4
+    tais: 0
     atap: 0
-    houm: 18
+    houm: 0
     raim: 0
-    houk: 9
+    houk: 2
     raik: 0
     bakk: 0
     saku: 0
     sakb: 0
     luck: 0
-    leng: 1
+    leng: 0
   improvement: 
   chinese_name: 
 ---

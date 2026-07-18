@@ -14,7 +14,7 @@ data:
   get_mes: My name is Heywood L.Edwards.<br>着任します。そうね。提督、共に頑張りましょう？
   voice_f: 1
   filename: ilmsrpndwyyr
-  file_version: ["63", "1", "708"]
+  file_version: ["65", "1", "718"]
   book_table_id: [941, 726, 5867, 5868, 5941, 5942, 6053, 6054]
   book_sinfo: Fletcher級駆逐艦、Heywood L.Edwardsです。<br>あの大戦の後半に就役し、あの海峡の夜戦や、島々の<br>攻略戦支援に参加しました。戦後は、日本海上自衛隊<br>初期の護衛艦「ありあけ」として、護衛艦隊の育成に<br>務めました。
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 2, 1]
     build_time: 23
   graph:
-    boko_n: [54, 217]
-    boko_d: [97, 256]
+    boko_n: [210, 206]
+    boko_d: [142, 254]
     kaisyu_n: [25, -3]
     kaisyu_d: [73, -75]
-    kaizo_n: [87, 102]
-    kaizo_d: [145, 100]
-    map_n: [85, 177]
-    map_d: [202, 213]
-    ensyuf_n: [100, 177]
-    ensyuf_d: [202, 178]
-    ensyue_n: [85, 0]
-    battle_n: [156, 198]
-    battle_d: [253, 214]
-    wed_a: [217, -27]
-    wed_b: [121, 195]
+    kaizo_n: [244, 76]
+    kaizo_d: [142, 59]
+    map_n: [268, 173]
+    map_d: [175, 195]
+    ensyuf_n: [270, 169]
+    ensyuf_d: [167, 160]
+    ensyue_n: [259, 0]
+    battle_n: [285, 199]
+    battle_d: [200, 205]
+    wed_a: [56, -27]
+    wed_b: [150, 210]
   wiki_id: "541"
   chinese_name: 海伍德·L·爱德华兹
   can_drop: true
