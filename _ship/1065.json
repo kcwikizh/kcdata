@@ -11,7 +11,7 @@ data:
   backs: 5
   after_lv: 55
   after_ship_id: 1070
-  get_mes: ※
+  get_mes: 横浜生まれ、シアトル航路育ちの特設潜水母艦 日枝丸です。<br>ようこそお参りくださいました。潜水艦の皆さまも、<br>提督様も、私の傍でどうぞ心ゆくまで、お休みくださいませ。
   voice_f: 1
   filename: gbrezpsvvthn
   file_version: ["51", "1", "718"]

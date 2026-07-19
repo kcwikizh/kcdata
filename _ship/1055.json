@@ -9,34 +9,34 @@ data:
   ctype: 
   cnum: 
   backs: 6
-  after_lv: 30
+  after_lv: 40
   after_ship_id: 1060
-  get_mes: ※
+  get_mes: Béarn, à votre service.<br>Mon Amiral, l’histoire m’a manqué.<br>À vous de me faire briller. お願いしますね！
   voice_f: 1
   filename: gltpluiiezpb
   file_version: ["51", "1", "718"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [50, 79]
-    souk: [27, 49]
-    houg: [0, 29]
+    taik: [52, 77]
+    souk: [44, 70]
+    houg: [20, 30]
     raig: [0, 0]
-    tyku: [26, 69]
-    luck: [35, 89]
-    soku: 10
-    leng: 1
+    tyku: [24, 32]
+    luck: [18, 68]
+    soku: 5
+    leng: 2
     kaih: 
     tais: 
-    slot_num: 4
-    max_eq: [12, 27, 18, 7, 0]
-    after_fuel: 650
-    after_bull: 300
-    fuel_max: 50
-    bull_max: 50
-    broken: [7, 10, 26, 6]
-    pow_up: [0, 0, 4, 3]
-    build_time: 250
+    slot_num: 3
+    max_eq: [12, 12, 8, 0, 0]
+    after_fuel: 1200
+    after_bull: 560
+    fuel_max: 60
+    bull_max: 40
+    broken: [10, 8, 40, 8]
+    pow_up: [0, 0, 3, 4]
+    build_time: 260
   graph:
     boko_n: [98, 184]
     boko_d: [-24, 296]
