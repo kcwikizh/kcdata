@@ -9,33 +9,33 @@ data:
   ctype: 
   cnum: 
   backs: 4
-  after_lv: 46
+  after_lv: 50
   after_ship_id: 1067
-  get_mes: ※
+  get_mes: Hej! 都市型駆逐艦、ヴィスビィだ。ヴィスでも<br>いいよ？君が噂の提督だね。会えて、嬉しいよ。<br>よろしく！
   voice_f: 1
   filename: tbwnugkdzgzq
   file_version: ["51", "1", "718"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: [14, 27]
-    souk: [5, 22]
-    houg: [5, 24]
-    raig: [16, 66]
-    tyku: [22, 63]
-    luck: [16, 73]
+    taik: [11, 19]
+    souk: [5, 20]
+    houg: [6, 22]
+    raig: [12, 36]
+    tyku: [60, 74]
+    luck: [20, 80]
     soku: 10
     leng: 1
     kaih: 
     tais: 
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 180
-    after_bull: 190
-    fuel_max: 15
-    bull_max: 15
-    broken: [1, 1, 4, 0]
-    pow_up: [0, 1, 1, 0]
+    after_fuel: 70
+    after_bull: 120
+    fuel_max: 10
+    bull_max: 10
+    broken: [1, 1, 3, 1]
+    pow_up: [1, 1, 1, 0]
     build_time: 14
   graph:
     boko_n: [94, 102]
