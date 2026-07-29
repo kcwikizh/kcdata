@@ -1,0 +1,504 @@
+---
+layout: json
+order: 625
+data:
+  id: 625
+  name: ブレスト沖/大西洋/イギリス本土沖/バルト海
+  routes:
+    0:
+      from: null
+      to: 1
+    1:
+      from: 1
+      to: A1
+    2:
+      from: 1
+      to: A
+    3:
+      from: A
+      to: A2
+    4:
+      from: A2
+      to: A3
+    5:
+      from: A2
+      to: B
+    6:
+      from: A2
+      to: B1
+    7:
+      from: B1
+      to: B2
+    8:
+      from: B
+      to: C
+    9:
+      from: A3
+      to: C1
+    10:
+      from: C
+      to: C2
+    11:
+      from: C
+      to: D
+    12:
+      from: A1
+      to: A
+    13:
+      from: D
+      to: E
+    14:
+      from: E
+      to: E1
+    15:
+      from: E1
+      to: E2
+    16:
+      from: D
+      to: E1
+    17:
+      from: E1
+      to: F
+    18:
+      from: E1
+      to: G
+    19:
+      from: 2
+      to: H
+    20:
+      from: H
+      to: I
+    21:
+      from: A3
+      to: A
+    22:
+      from: A3
+      to: H
+    23:
+      from: A3
+      to: I
+    24:
+      from: H
+      to: C1
+    25:
+      from: 2
+      to: A3
+    26:
+      from: null
+      to: 2
+    27:
+      from: I
+      to: J
+    28:
+      from: J
+      to: J1
+    29:
+      from: J1
+      to: J2
+    30:
+      from: H
+      to: K
+    31:
+      from: K
+      to: K1
+    32:
+      from: K
+      to: K2
+    33:
+      from: K2
+      to: K3
+    34:
+      from: K3
+      to: L1
+    35:
+      from: K3
+      to: L
+    36:
+      from: L
+      to: L2
+    37:
+      from: K1
+      to: K2
+    38:
+      from: L
+      to: L1
+    39:
+      from: 2
+      to: K
+    40:
+      from: 3
+      to: M
+    41:
+      from: M
+      to: M1
+    42:
+      from: M
+      to: M2
+    43:
+      from: M1
+      to: N
+    44:
+      from: M1
+      to: O
+    45:
+      from: O
+      to: P
+    46:
+      from: O
+      to: P1
+    47:
+      from: P1
+      to: P2
+    48:
+      from: P1
+      to: P3
+    49:
+      from: M2
+      to: M1
+    50:
+      from: N
+      to: O
+    51:
+      from: P2
+      to: P3
+    52:
+      from: null
+      to: 3
+    53:
+      from: L
+      to: Q
+    54:
+      from: Q
+      to: R
+    55:
+      from: Q
+      to: S
+    56:
+      from: R
+      to: S
+    57:
+      from: 4
+      to: T
+    58:
+      from: T
+      to: U
+    59:
+      from: U
+      to: V
+    60:
+      from: V
+      to: W
+    61:
+      from: V
+      to: X
+    62:
+      from: X
+      to: Y
+    63:
+      from: Y
+      to: Y1
+    64:
+      from: Y1
+      to: Y2
+    65:
+      from: Y1
+      to: Z
+    66:
+      from: Z
+      to: Z1
+    67:
+      from: Z
+      to: Z2
+    68:
+      from: Z
+      to: ZZ
+    69:
+      from: 4
+      to: M2
+    70:
+      from: M2
+      to: T
+    71:
+      from: M2
+      to: U
+    72:
+      from: 4
+      to: U
+    73:
+      from: W
+      to: X
+    74:
+      from: Y2
+      to: Z
+    75:
+      from: Z1
+      to: Z2
+    76:
+      from: Z1
+      to: ZZ
+    77:
+      from: null
+      to: 4
+  cells:
+    A1:
+      name: 深海潜水艦隊+航空支援艦載機
+      type:
+      boss: false
+      routes: [1]
+    A:
+      name: 深海潜水艦隊 ブレスト哨戒線
+      type:
+      boss: false
+      routes: [2, 12, 21]
+    A2:
+      name: 深海地中海方面展開 基地航空隊
+      type:
+      boss: false
+      routes: [3]
+    A3:
+      name: 深海大西洋艦隊 前衛警戒戦隊I群
+      type:
+      boss: false
+      routes: [4, 25]
+    B:
+      name: 深海大西洋艦隊 前衛警戒戦隊II群
+      type:
+      boss: false
+      routes: [5]
+    B1:
+      name: 深海大西洋艦隊 前衛警戒戦隊III群
+      type:
+      boss: false
+      routes: [6]
+    B2:
+      name: 深海潜水艦隊 大西洋南部哨戒線
+      type:
+      boss: false
+      routes: [7]
+    C:
+      name: 
+      type:
+      boss: false
+      routes: [8]
+    C1:
+      name: 
+      type:
+      boss: false
+      routes: [9, 24]
+    C2:
+      name: 
+      type:
+      boss: false
+      routes: [10]
+    D:
+      name: 深海潜水艦隊 大西洋東部哨戒線
+      type:
+      boss: false
+      routes: [11]
+    E:
+      name: 
+      type:
+      boss: false
+      routes: [13]
+    E1:
+      name: 深海大西洋艦隊 突撃前衛集団護衛
+      type:
+      boss: false
+      routes: [14, 16]
+    E2:
+      name: 深海潜水艦隊 大西洋北部哨戒線
+      type:
+      boss: false
+      routes: [15]
+    F:
+      name: 
+      type:
+      boss: false
+      routes: [17]
+    G:
+      name: 深海大西洋艦隊 突撃前衛集団旗艦
+      type:
+      boss: false
+      routes: [18]
+    H:
+      name: 深海潜水艦隊+航空支援艦載機
+      type:
+      boss: false
+      routes: [19, 22]
+    I:
+      name: 深海大西洋艦隊 新型軽巡試験隊
+      type:
+      boss: false
+      routes: [20, 23]
+    J:
+      name: 深海大西洋艦隊 増援阻止防衛線
+      type:
+      boss: false
+      routes: [27]
+    J1:
+      name: 
+      type:
+      boss: false
+      routes: [28]
+    J2:
+      name: 深海大西洋集団 英国背部侵攻部隊
+      type:
+      boss: false
+      routes: [29]
+    K:
+      name: 深海潜水艦隊 ドーバー海峡警戒線
+      type:
+      boss: false
+      routes: [30, 39]
+    K1:
+      name: 深海地中海方面展開 基地航空隊
+      type:
+      boss: false
+      routes: [31]
+    K2:
+      name: 深海アシカ作戦部隊 ドーバー海峡前縁警戒群
+      type:
+      boss: false
+      routes: [32, 37]
+    K3:
+      name: 
+      type:
+      boss: false
+      routes: [33]
+    L1:
+      name: 深海欧州方面 アシカ作戦正面上陸師団 I群
+      type:
+      boss: false
+      routes: [34, 38]
+    L:
+      name: 深海アシカ作戦部隊 上陸師団火力支援集団
+      type:
+      boss: false
+      routes: [35]
+    L2:
+      name: 深海欧州方面 アシカ作戦正面上陸師団 II群
+      type:
+      boss: false
+      routes: [36]
+    M:
+      name: 
+      type:
+      boss: false
+      routes: [40]
+    M1:
+      name: 深海アシカ作戦部隊 北東海域警戒線
+      type:
+      boss: false
+      routes: [41, 49]
+    M2:
+      name: 深海潜水艦隊+航空支援艦載機
+      type:
+      boss: false
+      routes: [42, 69]
+    N:
+      name: 深海欧州方面 北海展開水雷集団
+      type:
+      boss: false
+      routes: [43]
+    O:
+      name: 
+      type:
+      boss: false
+      routes: [44, 50]
+    P:
+      name: 深海欧州艦隊 慣熟航行中大型重巡洋艦
+      type:
+      boss: false
+      routes: [45]
+    P1:
+      name: 深海北海艦隊 機動部隊
+      type:
+      boss: false
+      routes: [46]
+    P2:
+      name: 深海地中海方面展開 基地航空隊
+      type:
+      boss: false
+      routes: [47]
+    P3:
+      name: 深海欧州作戦部隊 夏季後方兵站補給基地
+      type:
+      boss: false
+      routes: [48, 51]
+    Q:
+      name: 
+      type:
+      boss: false
+      routes: [53]
+    R:
+      name: 
+      type:
+      boss: false
+      routes: [54]
+    S:
+      name: 深海アシカ作戦部隊 出撃地点兵站拠点
+      type:
+      boss: false
+      routes: [55, 56]
+    T:
+      name: 深海潜水艦隊 北海哨戒群
+      type:
+      boss: false
+      routes: [57, 70]
+    U:
+      name: 
+      type:
+      boss: false
+      routes: [58, 71, 72]
+    V:
+      name: 深海潜水艦隊 スカゲラク警戒群
+      type:
+      boss: false
+      routes: [59]
+    W:
+      name: 深海地中海方面展開 基地航空隊
+      type:
+      boss: false
+      routes: [60]
+    X:
+      name: 深海任務部隊 主力随伴護衛群
+      type:
+      boss: false
+      routes: [61, 73]
+    Y:
+      name: 
+      type:
+      boss: false
+      routes: [62]
+    Y1:
+      name: 深海バルト海魚雷艇襲撃集団 I群
+      type:
+      boss: false
+      routes: [63]
+    Y2:
+      name: 深海バルト海魚雷艇襲撃集団 II群
+      type:
+      boss: false
+      routes: [64]
+    Z:
+      name: 深海バルト海艦隊 旗艦艦隊護衛
+      type:
+      boss: false
+      routes: [65, 74]
+    Z1:
+      name: 
+      type:
+      boss: false
+      routes: [66]
+    Z2:
+      name: 
+      type:
+      boss: false
+      routes: [67, 75]
+    ZZ:
+      name: 深海欧州艦隊 侵攻部隊旗艦戦隊
+      type:
+      boss: true
+      routes: [68, 76]
+  image: MapHDE-5Summer2026.png
+---
