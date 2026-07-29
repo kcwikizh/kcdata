@@ -3,11 +3,11 @@ layout: json
 order: 581
 data:
   id: 581
-  sort_no: 0
-  name: 夜猫深海艦戦
-  type: [3, 5, 6, 45, 0]
-  rare: 5
-  broken: [0, 0, 0, 0]
+  sort_no: 581
+  name: 55cm複合配置五連装魚雷 Modèle 1932
+  type: [2, 3, 5, 5, 0]
+  rare: 2
+  broken: [1, 2, 3, 0]
   info: 
   usebull: 0
   cost: 
@@ -15,19 +15,19 @@ data:
   stats:
     taik: 0
     souk: 0
-    houg: 2
-    raig: 0
+    houg: 0
+    raig: 7
     soku: 0
     baku: 0
-    tyku: 11
+    tyku: 0
     tais: 0
     atap: 0
-    houm: 3
+    houm: 1
     raim: 0
-    houk: 3
+    houk: 0
     raik: 0
     bakk: 0
-    saku: 2
+    saku: 0
     sakb: 0
     luck: 0
     leng: 1

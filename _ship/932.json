@@ -14,7 +14,7 @@ data:
   get_mes: Hi there! Admiral!<br>あたしが最高の戦艦、その二番艦、Indiana！　覚えてて！<br>大丈夫、必ず忘れなくなるから。きっとね！
   voice_f: 1
   filename: gwxkvtmkxmsr
-  file_version: ["51", "1", "708"]
+  file_version: ["51", "1", "718"]
   book_table_id: [932]
   book_sinfo: South Dakota級戦艦の二番艦、あたしがその<br>Indiana。太平洋戦域で空母機動部隊の直衛はもちろ<br>ん、活躍したんだから！今でも私の一部と魂は、イン<br>ディアナにメモリアルとして遺されているの。<br>逢いに来る？　いいわ、待ってる。　See!
   stats:
@@ -53,8 +53,8 @@ data:
     battle_d: [50, 183]
     wed_a: [535, -1]
     wed_b: [113, 210]
-  wiki_id: 
-  chinese_name: 
-  can_drop: false
+  wiki_id: "532"
+  chinese_name: 印第安纳
+  can_drop: true
   can_construct: false
 ---

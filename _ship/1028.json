@@ -6,17 +6,17 @@ data:
   name: Independence改
   yomi: インディペンデンス
   stype: 7
-  ctype: 
-  cnum: 
+  ctype: 116
+  cnum: 1
   backs: 6
   after_lv: 85
   after_ship_id: 1036
   get_mes: <br>
   voice_f: 3
   filename: jvylfgpijsfr
-  file_version: ["51", "1", "708"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "718"]
+  book_table_id: [1028]
+  book_sinfo: USS Independence, at your service. <br>新鋭軽巡として設計され、途中から高速軽空母へと<br>改装。Essex級と共に、空母機動部隊の中核として、<br>ラバウル空襲を始め、太平洋戦域で活躍。夜間作戦<br>空母としても運用されました。<br>Bear this in mind.……please.
   stats:
     taik: [44, 70]
     souk: [22, 60]
@@ -26,8 +26,8 @@ data:
     luck: [36, 98]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 30
+    tais: 20
     slot_num: 4
     max_eq: [24, 12, 7, 3, 0]
     after_fuel: 680
@@ -53,8 +53,8 @@ data:
     battle_d: [247, 219]
     wed_a: [226, 5]
     wed_b: [118, 194]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "618"
+  chinese_name: 独立改
   can_drop: false
   can_construct: false
 ---

@@ -14,7 +14,7 @@ data:
   get_mes: Yo, what’s up? I’m Reno.　あんたが、この艦隊の噂の<br>Bossってか？いいね。楽しみだ。　Sis同様によろしくな！
   voice_f: 1
   filename: pkvnfsrrwibk
-  file_version: ["51", "1", "708"]
+  file_version: ["51", "1", "718"]
   book_table_id: [991]
   book_sinfo: Name’s Reno, AA-Cruiser. Glad to be aboard!<br>そうさ、あのAtlanta級だぜ。任務部隊に随伴する防空<br>戦力の中核として活躍したさ。そうだな、空に関しては<br>問題ない！　海の中には注意が必要だな。<br>Watching the deep end too. Got it covered！
   stats:
@@ -53,8 +53,8 @@ data:
     battle_d: [166, 205]
     wed_a: [220, -28]
     wed_b: [117, 191]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "591"
+  chinese_name: 里诺
   can_drop: false
   can_construct: false
 ---

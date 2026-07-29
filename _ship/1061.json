@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 1061
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 651
+  name: Béarn amélioration
+  yomi: ベアルン
+  stype: 11
   ctype: 
   cnum: 
-  backs: 
+  backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: iyomgmirnftm
-  file_version: ["1", "1", "1"]
+  get_mes: <br>
+  voice_f: 3
+  filename: lktlvbkbtkkg
+  file_version: ["51", "1", "718"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [77, 93]
+    souk: [57, 87]
+    houg: [40, 55]
+    raig: [4, 16]
+    tyku: [32, 60]
+    luck: [33, 103]
+    soku: 5
+    leng: 3
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
+    slot_num: 4
+    max_eq: [22, 22, 12, 4, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 65
+    bull_max: 60
+    broken: [13, 11, 43, 10]
+    pow_up: [1, 0, 4, 5]
+    build_time: 260
   graph:
-    boko_n: [90, 217]
-    boko_d: [186, 222]
-    kaisyu_n: [12, -33]
-    kaisyu_d: [30, -12]
-    kaizo_n: [66, 111]
-    kaizo_d: [144, 96]
-    map_n: [49, 210]
-    map_d: [142, 223]
-    ensyuf_n: [64, 198]
-    ensyuf_d: [163, 205]
-    ensyue_n: [93, 0]
-    battle_n: [84, 223]
-    battle_d: [186, 237]
-    wed_a: [282, -9]
-    wed_b: [114, 151]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [98, 184]
+    boko_d: [-24, 296]
+    kaisyu_n: [89, 52]
+    kaisyu_d: [22, 113]
+    kaizo_n: [116, 64]
+    kaizo_d: [-30, 94]
+    map_n: [139, 167]
+    map_d: [7, 226]
+    ensyuf_n: [145, 157]
+    ensyuf_d: [4, 195]
+    ensyue_n: [144, 0]
+    battle_n: [164, 198]
+    battle_d: [27, 245]
+    wed_a: [208, -13]
+    wed_b: [104, 185]
+  wiki_id: "651"
+  chinese_name: 贝阿恩 amélioration
   can_drop: false
   can_construct: false
 ---

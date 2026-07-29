@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: nvnwinptucct
-  file_version: ["52", "1", "626"]
+  file_version: ["69", "1", "718"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [-28, 167]
-    boko_d: [-56, 161]
+    boko_n: [200, 198]
+    boko_d: [155, 258]
     kaisyu_n: [-11, 41]
     kaisyu_d: [-5, 55]
-    kaizo_n: [-33, 48]
-    kaizo_d: [-56, 13]
-    map_n: [-20, 142]
-    map_d: [-57, 136]
-    ensyuf_n: [-18, 126]
-    ensyuf_d: [-56, 120]
-    ensyue_n: [-16, 0]
-    battle_n: [14, 153]
-    battle_d: [-23, 147]
-    wed_a: [355, 10]
-    wed_b: [118, 209]
+    kaizo_n: [215, 65]
+    kaizo_d: [167, 61]
+    map_n: [236, 157]
+    map_d: [198, 188]
+    ensyuf_n: [231, 159]
+    ensyuf_d: [201, 167]
+    ensyue_n: [222, 0]
+    battle_n: [269, 197]
+    battle_d: [229, 217]
+    wed_a: [93, -16]
+    wed_b: [140, 204]
   wiki_id: 
   chinese_name: 
   can_drop: false

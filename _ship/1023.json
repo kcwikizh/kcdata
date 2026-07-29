@@ -6,17 +6,17 @@ data:
   name: Independence
   yomi: インディペンデンス
   stype: 7
-  ctype: 
-  cnum: 
+  ctype: 116
+  cnum: 1
   backs: 5
   after_lv: 50
   after_ship_id: 1028
   get_mes: Admiral, it is an honor to meet you. <br>My name is USS Independence.<br>I look forward to working with you.
   voice_f: 1
   filename: oanubccgwrgx
-  file_version: ["51", "1", "708"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "718"]
+  book_table_id: [1023]
+  book_sinfo: USS Independence, at your service. <br>新鋭軽巡として設計され、途中から高速軽空母へと<br>改装。Essex級と共に、空母機動部隊の中核として、<br>ラバウル空襲を始め、太平洋戦域で活躍。夜間作戦<br>空母としても運用されました。<br>Bear this in mind.……please.
   stats:
     taik: [31, 41]
     souk: [14, 30]
@@ -26,8 +26,8 @@ data:
     luck: [28, 88]
     soku: 10
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 22
+    tais: 16
     slot_num: 3
     max_eq: [12, 9, 9, 0, 0]
     after_fuel: 480
@@ -53,8 +53,8 @@ data:
     battle_d: [247, 219]
     wed_a: [226, 5]
     wed_b: [118, 194]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "613"
+  chinese_name: 独立
   can_drop: false
   can_construct: false
 ---

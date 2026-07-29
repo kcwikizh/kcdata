@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: pcmckxfhextj
-  file_version: ["51", "1", "708"]
+  file_version: ["51", "1", "718"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -53,8 +53,8 @@ data:
     battle_d: [50, 183]
     wed_a: [535, -1]
     wed_b: [113, 210]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "537"
+  chinese_name: 印第安纳改
   can_drop: false
   can_construct: false
 ---

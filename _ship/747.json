@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: rdzdbkduytqr
-  file_version: ["51", "1", "708"]
+  file_version: ["51", "1", "718"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -53,8 +53,8 @@ data:
     battle_d: [166, 205]
     wed_a: [220, -28]
     wed_b: [117, 191]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "591a"
+  chinese_name: 里诺改
   can_drop: false
   can_construct: false
 ---
