@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: whamutjphsdh
-  file_version: ["51", "1", "718"]
+  file_version: ["52", "1", "910"]
   book_table_id: [963]
   book_sinfo: 艦隊防空のために建造された乙型一等駆逐艦、秋月型<br>駆逐艦一番艦、秋月です。<br>４基８門の長10cm砲と高射装置を備えた防空艦とし<br>て、僚艦の初月らと共に第61駆逐隊を編成しまし<br>た。頑張ります！
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 4, 1]
     build_time: 30
   graph:
-    boko_n: [-178, 202]
-    boko_d: [48, 203]
+    boko_n: [240, 210]
+    boko_d: [246, 210]
     kaisyu_n: [13, 3]
     kaisyu_d: [90, 85]
-    kaizo_n: [-155, 101]
-    kaizo_d: [44, 69]
-    map_n: [-158, 168]
-    map_d: [85, 183]
-    ensyuf_n: [-163, 171]
-    ensyuf_d: [87, 173]
-    ensyue_n: [-159, 0]
-    battle_n: [-122, 195]
-    battle_d: [128, 209]
-    wed_a: [512, -24]
-    wed_b: [118, 197]
+    kaizo_n: [144, 114]
+    kaizo_d: [150, 126]
+    map_n: [180, 168]
+    map_d: [174, 174]
+    ensyuf_n: [132, 174]
+    ensyuf_d: [144, 186]
+    ensyue_n: [144, 0]
+    battle_n: [192, 192]
+    battle_d: [192, 198]
+    wed_a: [162, 24]
+    wed_b: [138, 156]
   wiki_id: 
   chinese_name: 
   can_drop: false

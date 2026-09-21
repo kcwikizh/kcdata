@@ -6,17 +6,17 @@ data:
   name: 日枝丸
   yomi: ひえまる
   stype: 20
-  ctype: 
-  cnum: 
+  ctype: 126
+  cnum: 2
   backs: 5
   after_lv: 55
   after_ship_id: 1070
   get_mes: 横浜生まれ、シアトル航路育ちの特設潜水母艦 日枝丸です。<br>ようこそお参りくださいました。潜水艦の皆さまも、<br>提督様も、私の傍でどうぞ心ゆくまで、お休みくださいませ。
   voice_f: 1
   filename: gbrezpsvvthn
-  file_version: ["51", "1", "718"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["53", "1", "910"]
+  book_table_id: [1065]
+  book_sinfo: 氷川丸型貨客船改装、特設潜水母艦、二番艦　日枝丸<br>でございます。戦の前は、シルクを運ぶための生糸の<br>専用倉庫なども備え、シアトル航路に就いておりまし<br>た。潜水艦作戦の支援や輸送などに務めましたが……<br>ラバウルからの帰り路が、私の最期の旅となりました。
   stats:
     taik: [36, 51]
     souk: [3, 18]
@@ -26,8 +26,8 @@ data:
     luck: [3, 33]
     soku: 5
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 14
+    tais: 1
     slot_num: 2
     max_eq: [1, 1, 0, 0, 0]
     after_fuel: 500
@@ -38,23 +38,23 @@ data:
     pow_up: [1, 0, 1, 1]
     build_time: 150
   graph:
-    boko_n: [157, 202]
-    boko_d: [-76, 255]
+    boko_n: [204, 205]
+    boko_d: [87, 232]
     kaisyu_n: [79, 25]
     kaisyu_d: [53, -48]
-    kaizo_n: [114, 71]
-    kaizo_d: [-39, 82]
-    map_n: [209, 190]
-    map_d: [-1, 203]
-    ensyuf_n: [228, 167]
-    ensyuf_d: [9, 181]
-    ensyue_n: [229, 0]
-    battle_n: [243, 209]
-    battle_d: [21, 213]
-    wed_a: [96, -41]
-    wed_b: [129, 220]
+    kaizo_n: [219, 81]
+    kaizo_d: [111, 69]
+    map_n: [242, 196]
+    map_d: [145, 212]
+    ensyuf_n: [228, 176]
+    ensyuf_d: [138, 181]
+    ensyue_n: [230, 0]
+    battle_n: [274, 220]
+    battle_d: [164, 227]
+    wed_a: [106, -36]
+    wed_b: [117, 198]
   wiki_id: "655"
   chinese_name: 日枝丸
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

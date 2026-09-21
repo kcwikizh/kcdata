@@ -6,17 +6,17 @@ data:
   name: 花月改
   yomi: はなづき
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 54
+  cnum: 13
   backs: 7
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: sjyfiighnnid
-  file_version: ["51", "1", "718"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "910"]
+  book_table_id: [1046]
+  book_sinfo: 秋月型防空駆逐艦、その十三番艦、舞鶴生れ、花月と<br>申します。私が就役した時は、戦局は、既に最終局面<br>となりつつありました。第二艦隊の覚悟の出撃を、豊<br>後水道で見送り、その後、最後の水上決戦部隊に配備<br>されます。戦後は、復員輸送に務めました。<br>花月のこと、覚えていてくださいね。
   stats:
     taik: [37, 57]
     souk: [16, 53]
@@ -26,8 +26,8 @@ data:
     luck: [42, 98]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 48
+    tais: 27
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 

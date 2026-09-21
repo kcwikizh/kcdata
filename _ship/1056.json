@@ -6,17 +6,17 @@ data:
   name: Algérie改
   yomi: アルジェリー
   stype: 5
-  ctype: 
-  cnum: 
+  ctype: 138
+  cnum: 1
   backs: 7
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: qxdwcchouyut
-  file_version: ["51", "1", "718"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["53", "1", "910"]
+  book_table_id: [1056]
+  book_sinfo: ブレスト海軍工廠で建造された、フランス海軍の栄光<br>ある重巡洋艦Algérieだ。条約型重巡洋艦として設計さ<br>れ、ザラ級巡洋艦などを攻防において凌駕する新鋭艦 <br>として完成。ヴァード作戦にも戦隊を率いて活躍。我 <br>の最期はトゥーロン。敵鹵獲を避けるため、艦隊ごと<br>自爆、自沈した。我らのことも、その胸に刻んでおけ。
   stats:
     taik: [71, 85]
     souk: [53, 84]
@@ -26,8 +26,8 @@ data:
     luck: [9, 55]
     soku: 10
     leng: 3
-    kaih: 
-    tais: 
+    kaih: 38
+    tais: 0
     slot_num: 4
     max_eq: [3, 3, 3, 3, 0]
     after_fuel: 
@@ -38,20 +38,20 @@ data:
     pow_up: [4, 1, 2, 3]
     build_time: 70
   graph:
-    boko_n: [-156, 195]
-    boko_d: [-23, 238]
+    boko_n: [145, 206]
+    boko_d: [112, 293]
     kaisyu_n: [29, 11]
     kaisyu_d: [44, -66]
-    kaizo_n: [-163, 72]
-    kaizo_d: [-31, 84]
-    map_n: [-143, 172]
-    map_d: [0, 202]
-    ensyuf_n: [-133, 171]
-    ensyuf_d: [22, 177]
-    ensyue_n: [-152, 0]
-    battle_n: [-96, 200]
-    battle_d: [39, 217]
-    wed_a: [469, -27]
+    kaizo_n: [169, 90]
+    kaizo_d: [114, 115]
+    map_n: [190, 187]
+    map_d: [142, 217]
+    ensyuf_n: [209, 174]
+    ensyuf_d: [160, 191]
+    ensyue_n: [196, 0]
+    battle_n: [228, 214]
+    battle_d: [163, 230]
+    wed_a: [119, -38]
     wed_b: [135, 194]
   wiki_id: "646"
   chinese_name: 阿尔及利亚改
