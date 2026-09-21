@@ -6,17 +6,17 @@ data:
   name: Visby
   yomi: ヴィスビィ
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 140
+  cnum: 1
   backs: 4
   after_lv: 50
   after_ship_id: 1067
   get_mes: Hej! 都市型駆逐艦、ヴィスビィだ。ヴィスでも<br>いいよ？君が噂の提督だね。会えて、嬉しいよ。<br>よろしく！
   voice_f: 1
   filename: tbwnugkdzgzq
-  file_version: ["51", "1", "718"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["52", "1", "910"]
+  book_table_id: [1062]
+  book_sinfo: 北欧スウェーデンの都市型駆逐艦、その後期改良型、<br>ヴィスビィ級ネームシップのヴィスビィ。専守防衛の<br>海の護り、都市型駆逐艦のさらなる発展型さ。高速性<br>と重武装、さらに対空戦も想定して、あのボフォース<br>機関砲も充実配備。領海や自国商船を護り抜き、戦後<br>も長く活躍。現代でもその名は受け継がれているんだ。
   stats:
     taik: [11, 19]
     souk: [5, 20]
@@ -26,8 +26,8 @@ data:
     luck: [20, 80]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 50
+    tais: 50
     slot_num: 2
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 70
@@ -55,6 +55,6 @@ data:
     wed_b: [125, 210]
   wiki_id: "652"
   chinese_name: 维斯比
-  can_drop: false
+  can_drop: true
   can_construct: false
 ---

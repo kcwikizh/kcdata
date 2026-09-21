@@ -9,12 +9,12 @@ data:
   ctype: 4
   cnum: 3
   backs: 7
-  after_lv: 
-  after_ship_id: 
+  after_lv: 88
+  after_ship_id: 1071
   get_mes: <br>
   voice_f: 3
   filename: cqtlanpwihpj
-  file_version: ["14", "23", "718"]
+  file_version: ["14", "23", "910"]
   book_table_id: [119]
   book_sinfo: 九三式酸素魚雷を満載、片舷20門、全40門の魚雷発射管を誇る、重雷装艦へと改装されたスーパー北上さまだよ。<br>その威力は圧倒的と言われていたけれど、活躍する機会が微妙になかったんだよね。ちぇっ。
   stats:
@@ -30,8 +30,8 @@ data:
     tais: 27
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
-    after_fuel: 
-    after_bull: 
+    after_fuel: 2500
+    after_bull: 1500
     fuel_max: 25
     bull_max: 75
     broken: [2, 6, 9, 0]

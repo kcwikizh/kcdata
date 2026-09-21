@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 749
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
+  sort_no: 1749
+  name: 山城改二補
+  yomi: やましろ
+  stype: 10
   ctype: 
   cnum: 
-  backs: 
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: clvnnmqkgmpc
-  file_version: ["51", "1", "1"]
+  get_mes: <br>
+  voice_f: 3
+  filename: nkyfnlezisnl
+  file_version: ["63", "22", "910"]
   book_table_id: 
   book_sinfo: 
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
+    taik: [77, 95]
+    souk: [74, 91]
+    houg: [80, 98]
+    raig: [0, 0]
+    tyku: [46, 87]
+    luck: [15, 73]
+    soku: 5
+    leng: 3
     kaih: 
     tais: 
-    slot_num: 
-    max_eq: 
+    slot_num: 5
+    max_eq: [3, 3, 10, 24, 3]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 105
+    bull_max: 140
+    broken: [12, 16, 39, 5]
+    pow_up: [5, 0, 4, 4]
+    build_time: 260
   graph:
-    boko_n: [198, 204]
-    boko_d: [198, 168]
-    kaisyu_n: [-15, -1]
-    kaisyu_d: [42, -31]
-    kaizo_n: [96, 96]
-    kaizo_d: [78, 24]
-    map_n: [198, 144]
-    map_d: [198, 108]
-    ensyuf_n: [174, 132]
-    ensyuf_d: [174, 96]
-    ensyue_n: [162, 0]
-    battle_n: [198, 156]
-    battle_d: [198, 120]
-    wed_a: [156, 60]
-    wed_b: [138, 192]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [-120, 132]
+    boko_d: [-96, 228]
+    kaisyu_n: [0, -18]
+    kaisyu_d: [0, -30]
+    kaizo_n: [-180, 36]
+    kaizo_d: [-144, 72]
+    map_n: [-144, 96]
+    map_d: [-156, 192]
+    ensyuf_n: [-96, 96]
+    ensyuf_d: [-96, 180]
+    ensyue_n: [-144, 0]
+    battle_n: [-96, 96]
+    battle_d: [-108, 192]
+    wed_a: [480, 96]
+    wed_b: [192, 168]
+  wiki_id: "212a"
+  chinese_name: 山城改二补
   can_drop: false
   can_construct: false
 ---

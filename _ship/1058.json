@@ -6,17 +6,17 @@ data:
   name: Vautour改
   yomi: ヴァトール
   stype: 2
-  ctype: 
-  cnum: 
+  ctype: 139
+  cnum: 3
   backs: 6
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: ukjnsutvklgk
-  file_version: ["51", "1", "718"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["53", "1", "910"]
+  book_table_id: [1058]
+  book_sinfo: フランスの大型駆逐艦。コントル・トルピエール<br>La classe Aigle Vautourです。フランス地中海艦隊<br>として他の主力艦と共にトゥーロンに展開、ヴァード<br>作戦でイタリア本土への攻撃も敢行しました。最期は<br>独軍の戦車が港に迫る中、燃える港と共に……。<br>私達の事も、覚えていて……。
   stats:
     taik: [35, 55]
     souk: [16, 50]
@@ -26,8 +26,8 @@ data:
     luck: [9, 57]
     soku: 10
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 47
+    tais: 38
     slot_num: 3
     max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 1, 1, 1]
     build_time: 30
   graph:
-    boko_n: [155, 199]
-    boko_d: [180, 180]
+    boko_n: [273, 233]
+    boko_d: [216, 240]
     kaisyu_n: [105, 51]
     kaisyu_d: [139, 59]
-    kaizo_n: [158, 69]
-    kaizo_d: [179, 6]
-    map_n: [175, 170]
-    map_d: [206, 152]
-    ensyuf_n: [170, 162]
-    ensyuf_d: [201, 122]
-    ensyue_n: [168, 0]
-    battle_n: [208, 189]
-    battle_d: [238, 173]
-    wed_a: [173, -24]
-    wed_b: [112, 211]
+    kaizo_n: [275, 101]
+    kaizo_d: [199, 84]
+    map_n: [297, 208]
+    map_d: [210, 227]
+    ensyuf_n: [293, 192]
+    ensyuf_d: [247, 203]
+    ensyue_n: [290, 0]
+    battle_n: [329, 232]
+    battle_d: [258, 237]
+    wed_a: [52, -59]
+    wed_b: [118, 212]
   wiki_id: "648"
   chinese_name: 秃鹫改
   can_drop: false

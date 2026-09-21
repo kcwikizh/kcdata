@@ -6,17 +6,17 @@ data:
   name: 日枝丸改
   yomi: ひえまる
   stype: 20
-  ctype: 
-  cnum: 
+  ctype: 126
+  cnum: 2
   backs: 6
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: bvjnnfgdkyfe
-  file_version: ["51", "1", "718"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["53", "1", "910"]
+  book_table_id: [1070]
+  book_sinfo: 氷川丸型貨客船改装、特設潜水母艦、二番艦　日枝丸<br>でございます。戦の前は、シルクを運ぶための生糸の<br>専用倉庫なども備え、シアトル航路に就いておりまし<br>た。潜水艦作戦の支援や輸送などに務めましたが……<br>ラバウルからの帰り路が、私の最期の旅となりました。
   stats:
     taik: [39, 57]
     souk: [17, 33]
@@ -26,8 +26,8 @@ data:
     luck: [8, 48]
     soku: 5
     leng: 2
-    kaih: 
-    tais: 
+    kaih: 15
+    tais: 6
     slot_num: 3
     max_eq: [1, 1, 1, 0, 0]
     after_fuel: 
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 1]
     build_time: 150
   graph:
-    boko_n: [157, 202]
-    boko_d: [-76, 255]
+    boko_n: [190, 205]
+    boko_d: [87, 232]
     kaisyu_n: [79, 25]
     kaisyu_d: [53, -48]
-    kaizo_n: [114, 71]
-    kaizo_d: [-39, 82]
-    map_n: [209, 190]
-    map_d: [-1, 203]
-    ensyuf_n: [228, 167]
-    ensyuf_d: [9, 181]
-    ensyue_n: [229, 0]
-    battle_n: [243, 209]
-    battle_d: [21, 213]
-    wed_a: [96, -41]
-    wed_b: [129, 220]
+    kaizo_n: [205, 81]
+    kaizo_d: [111, 69]
+    map_n: [228, 196]
+    map_d: [145, 212]
+    ensyuf_n: [214, 176]
+    ensyuf_d: [138, 181]
+    ensyue_n: [216, 0]
+    battle_n: [260, 220]
+    battle_d: [164, 227]
+    wed_a: [120, -36]
+    wed_b: [117, 198]
   wiki_id: "660"
   chinese_name: 日枝丸改
   can_drop: false

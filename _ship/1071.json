@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 1071
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 661
+  name: 北上改三
+  yomi: きたかみ
+  stype: 4
+  ctype: 4
+  cnum: 3
+  backs: 8
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: ndcmffdxmvqy
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: wvurohzsvquy
+  file_version: ["52", "1", "910"]
+  book_table_id: [1071]
+  book_sinfo: 九三式酸素魚雷を満載、片舷20門、全40門の魚雷発<br>射管を誇る、重雷装艦へと改装されたスーパー北上さ<br>まだよ。<br>その威力は圧倒的と言われていたけれど、活躍する機<br>会が微妙になかったんだよね。ちぇっ。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [47, 63]
+    souk: [32, 71]
+    houg: [16, 68]
+    raig: [16, 128]
+    tyku: [50, 96]
+    luck: [50, 108]
+    soku: 10
+    leng: 1
+    kaih: 44
+    tais: 32
+    slot_num: 5
+    max_eq: [1, 1, 1, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 30
+    bull_max: 75
+    broken: [2, 6, 10, 2]
+    pow_up: [1, 5, 1, 1]
+    build_time: 75
   graph:
-    boko_n: [187, 252]
-    boko_d: [115, 244]
-    kaisyu_n: [-12, 0]
-    kaisyu_d: [42, -60]
-    kaizo_n: [168, 130]
-    kaizo_d: [100, 102]
-    map_n: [210, 205]
-    map_d: [148, 214]
-    ensyuf_n: [195, 204]
-    ensyuf_d: [136, 199]
-    ensyue_n: [171, 0]
-    battle_n: [235, 223]
-    battle_d: [189, 216]
-    wed_a: [138, -16]
-    wed_b: [106, 138]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [111, 111]
+    boko_d: [82, 130]
+    kaisyu_n: [94, 6]
+    kaisyu_d: [91, 32]
+    kaizo_n: [138, -7]
+    kaizo_d: [88, -20]
+    map_n: [154, 93]
+    map_d: [121, 117]
+    ensyuf_n: [139, 83]
+    ensyuf_d: [110, 103]
+    ensyue_n: [146, 0]
+    battle_n: [189, 126]
+    battle_d: [137, 146]
+    wed_a: [201, 43]
+    wed_b: [115, 211]
+  wiki_id: "661"
+  chinese_name: 北上改三
   can_drop: false
   can_construct: false
 ---

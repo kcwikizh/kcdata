@@ -6,17 +6,17 @@ data:
   name: Béarn改
   yomi: ベアルン
   stype: 11
-  ctype: 
-  cnum: 
+  ctype: 141
+  cnum: 1
   backs: 7
   after_lv: 75
   after_ship_id: 1061
   get_mes: <br>
   voice_f: 3
   filename: ojaikbrohxzd
-  file_version: ["51", "1", "718"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["53", "1", "910"]
+  book_table_id: [1060]
+  book_sinfo: フランス航空母艦、Béarnです。特徴のある三基のエ<br>レベータを持つ、フランスで生まれた正規空母です。<br>搭載機が少し旧式化したので、新鋭機を受領するため<br>米国に向かいましたが、帰国する前に本国は既に陸か<br>ら征服されていました……。設計的にも近代的実戦空<br>母ではないけれど、改装を重ねて、頑張ります！
   stats:
     taik: [75, 88]
     souk: [55, 85]
@@ -26,8 +26,8 @@ data:
     luck: [28, 88]
     soku: 5
     leng: 1
-    kaih: 
-    tais: 
+    kaih: 27
+    tais: 0
     slot_num: 4
     max_eq: [16, 16, 6, 2, 0]
     after_fuel: 1600
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 3, 5]
     build_time: 260
   graph:
-    boko_n: [98, 184]
-    boko_d: [-24, 296]
+    boko_n: [222, 201]
+    boko_d: [138, 194]
     kaisyu_n: [89, 52]
     kaisyu_d: [22, 113]
-    kaizo_n: [116, 64]
-    kaizo_d: [-30, 94]
-    map_n: [139, 167]
-    map_d: [7, 226]
-    ensyuf_n: [145, 157]
-    ensyuf_d: [4, 195]
-    ensyue_n: [144, 0]
-    battle_n: [164, 198]
-    battle_d: [27, 245]
-    wed_a: [208, -13]
-    wed_b: [104, 185]
+    kaizo_n: [249, 80]
+    kaizo_d: [140, 46]
+    map_n: [271, 193]
+    map_d: [165, 186]
+    ensyuf_n: [264, 183]
+    ensyuf_d: [161, 176]
+    ensyue_n: [261, 0]
+    battle_n: [306, 225]
+    battle_d: [187, 219]
+    wed_a: [90, -42]
+    wed_b: [107, 200]
   wiki_id: "650"
   chinese_name: 贝阿恩改
   can_drop: false

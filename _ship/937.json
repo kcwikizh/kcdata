@@ -6,17 +6,17 @@ data:
   name: Indiana改
   yomi: インディアナ
   stype: 8
-  ctype: 
-  cnum: 
+  ctype: 102
+  cnum: 2
   backs: 8
   after_lv: 
   after_ship_id: 
   get_mes: <br>
   voice_f: 3
   filename: pcmckxfhextj
-  file_version: ["51", "1", "718"]
-  book_table_id: 
-  book_sinfo: 
+  file_version: ["51", "1", "910"]
+  book_table_id: [937]
+  book_sinfo: South Dakota級戦艦の二番艦、あたしがその<br>Indiana。太平洋戦域で空母機動部隊の直衛はもちろ<br>ん、活躍したんだから！今でも私の一部と魂は、イン<br>ディアナにメモリアルとして遺されているの。<br>逢いに来る？　いいわ、待ってる。　See!
   stats:
     taik: [91, 100]
     souk: [86, 109]
@@ -26,8 +26,8 @@ data:
     luck: [46, 122]
     soku: 10
     leng: 3
-    kaih: 
-    tais: 
+    kaih: 36
+    tais: 0
     slot_num: 4
     max_eq: [0, 2, 3, 3, 0]
     after_fuel: 
