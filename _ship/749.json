@@ -53,8 +53,8 @@ data:
     battle_d: [-108, 192]
     wed_a: [480, 96]
     wed_b: [192, 168]
-  wiki_id: 
-  chinese_name: 
+  wiki_id: "212a"
+  chinese_name: 山城改二补
   can_drop: false
   can_construct: false
 ---
