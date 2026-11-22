@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: lktlvbkbtkkg
-  file_version: ["53", "1", "910"]
+  file_version: ["53", "1", "1014"]
   book_table_id: [1061]
   book_sinfo: フランス航空母艦、Béarnです。特徴のある三基のエ<br>レベータを持つ、フランスで生まれた正規空母です。<br>搭載機が少し旧式化したので、新鋭機を受領するため<br>米国に向かいましたが、帰国する前に本国は既に陸か<br>ら征服されていました……。設計的にも近代的実戦空<br>母ではないけれど、改装を重ねて、頑張ります！
   stats:

@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 1
   filename: ukkfdmbbrugd
-  file_version: ["64", "7", "910"]
+  file_version: ["65", "7", "1014"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 0, 1, 0]
     build_time: 9
   graph:
-    boko_n: [219, 269]
-    boko_d: [149, 270]
+    boko_n: [121, 190]
+    boko_d: [82, 195]
     kaisyu_n: [16, -18]
     kaisyu_d: [22, -61]
-    kaizo_n: [248, 140]
-    kaizo_d: [156, 113]
-    map_n: [266, 223]
-    map_d: [188, 230]
-    ensyuf_n: [251, 191]
-    ensyuf_d: [183, 195]
-    ensyue_n: [256, 0]
-    battle_n: [284, 241]
-    battle_d: [215, 247]
-    wed_a: [84, -64]
-    wed_b: [107, 218]
+    kaizo_n: [141, 69]
+    kaizo_d: [69, 34]
+    map_n: [175, 151]
+    map_d: [115, 156]
+    ensyuf_n: [171, 124]
+    ensyuf_d: [103, 138]
+    ensyue_n: [172, 0]
+    battle_n: [211, 159]
+    battle_d: [133, 168]
+    wed_a: [159, 13]
+    wed_b: [139, 219]
   wiki_id: "522a"
   chinese_name: 稻木改
   can_drop: false
