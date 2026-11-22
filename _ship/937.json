@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: pcmckxfhextj
-  file_version: ["51", "1", "910"]
-  book_table_id: [937]
+  file_version: ["52", "2", "1014"]
+  book_table_id: [937, 6378]
   book_sinfo: South Dakota級戦艦の二番艦、あたしがその<br>Indiana。太平洋戦域で空母機動部隊の直衛はもちろ<br>ん、活躍したんだから！今でも私の一部と魂は、イン<br>ディアナにメモリアルとして遺されているの。<br>逢いに来る？　いいわ、待ってる。　See!
   stats:
     taik: [91, 100]
@@ -38,21 +38,21 @@ data:
     pow_up: [5, 0, 3, 5]
     build_time: 400
   graph:
-    boko_n: [-219, 163]
-    boko_d: [-13, 206]
+    boko_n: [-46, 196]
+    boko_d: [105, 156]
     kaisyu_n: [11, 4]
     kaisyu_d: [66, 76]
-    kaizo_n: [-191, 40]
-    kaizo_d: [-11, 43]
-    map_n: [-170, 150]
-    map_d: [14, 174]
-    ensyuf_n: [-200, 128]
-    ensyuf_d: [26, 152]
-    ensyue_n: [-191, 0]
-    battle_n: [-135, 163]
-    battle_d: [50, 183]
-    wed_a: [535, -1]
-    wed_b: [113, 210]
+    kaizo_n: [-3, 77]
+    kaizo_d: [134, 7]
+    map_n: [-44, 180]
+    map_d: [165, 141]
+    ensyuf_n: [-53, 157]
+    ensyuf_d: [184, 114]
+    ensyue_n: [-54, 0]
+    battle_n: [-14, 193]
+    battle_d: [198, 161]
+    wed_a: [388, -31]
+    wed_b: [123, 217]
   wiki_id: "537"
   chinese_name: 印第安纳改
   can_drop: false

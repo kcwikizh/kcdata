@@ -14,8 +14,8 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: fikhwfaotpvl
-  file_version: ["99", "38", "910"]
-  book_table_id: [982, 6300, 6175]
+  file_version: ["101", "39", "1014"]
+  book_table_id: [982, 6299, 6175, 6368]
   book_sinfo: あたし、夕雲型駆逐艦、その十二番艦、早波。そうで<br>す、藤波お姉ちゃんの妹です。第二水雷戦隊の一翼と<br>して、護衛や哨戒はもちろん、輸送作戦だって頑張り<br>ました。え…タウイ？対潜哨戒？　ううん、今度は負<br>けないもン！お姉ちゃん、司令、見てて！
   stats:
     taik: [33, 56]
@@ -38,21 +38,21 @@ data:
     pow_up: [2, 2, 1, 1]
     build_time: 24
   graph:
-    boko_n: [56, 131]
-    boko_d: [95, 197]
+    boko_n: [61, 202]
+    boko_d: [61, 202]
     kaisyu_n: [40, 13]
     kaisyu_d: [120, 27]
-    kaizo_n: [68, 16]
-    kaizo_d: [80, 4]
-    map_n: [112, 105]
-    map_d: [157, 142]
-    ensyuf_n: [98, 90]
-    ensyuf_d: [161, 78]
-    ensyue_n: [99, 0]
-    battle_n: [140, 125]
-    battle_d: [176, 136]
-    wed_a: [233, 38]
-    wed_b: [126, 217]
+    kaizo_n: [61, 97]
+    kaizo_d: [46, 61]
+    map_n: [46, 183]
+    map_d: [46, 183]
+    ensyuf_n: [67, 172]
+    ensyuf_d: [67, 172]
+    ensyue_n: [34, 0]
+    battle_n: [84, 190]
+    battle_d: [84, 190]
+    wed_a: [274, -7]
+    wed_b: [124, 178]
   wiki_id: "582"
   chinese_name: 早波改二
   can_drop: false

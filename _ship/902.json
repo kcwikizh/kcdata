@@ -2,59 +2,59 @@
 layout: json
 data:
   id: 902
-  sort_no: 0
-  name: 
-  yomi: 
-  stype: 
-  ctype: 
-  cnum: 
-  backs: 
+  sort_no: 502
+  name: 狭霧改二
+  yomi: さぎり
+  stype: 2
+  ctype: 1
+  cnum: 6
+  backs: 7
   after_lv: 
   after_ship_id: 
-  get_mes: 
-  voice_f: 
-  filename: nkxhelerqbjl
-  file_version: ["1", "1", "1"]
-  book_table_id: 
-  book_sinfo: 
+  get_mes: <br>
+  voice_f: 3
+  filename: biobxgnkjnzi
+  file_version: ["51", "1", "1014"]
+  book_table_id: [902]
+  book_sinfo: 綾波型駆逐艦、六番艦の狭霧です。そうですね、吹雪<br>型一番艦から数えて十六隻目の特型駆逐艦です。天霧<br>たちと第二十駆逐隊を編成し、三水戦の一翼を担いま<br>した。あまり多くの戦いを経験してはいませんが、お<br>味方のために尽くしたいと思います。
   stats:
-    taik: 
-    souk: 
-    houg: 
-    raig: 
-    tyku: 
-    luck: 
-    soku: 
-    leng: 
-    kaih: 
-    tais: 
-    slot_num: 
-    max_eq: 
+    taik: [31, 54]
+    souk: [14, 51]
+    houg: [13, 63]
+    raig: [30, 87]
+    tyku: [15, 60]
+    luck: [28, 81]
+    soku: 10
+    leng: 1
+    kaih: 53
+    tais: 26
+    slot_num: 3
+    max_eq: [0, 0, 0, 0, 0]
     after_fuel: 
     after_bull: 
-    fuel_max: 
-    bull_max: 
-    broken: 
-    pow_up: 
-    build_time: 
+    fuel_max: 15
+    bull_max: 20
+    broken: [1, 2, 10, 0]
+    pow_up: [1, 1, 1, 1]
+    build_time: 20
   graph:
-    boko_n: [-12, 192]
-    boko_d: [18, 84]
-    kaisyu_n: [9, 18]
-    kaisyu_d: [48, 12]
-    kaizo_n: [-48, 60]
-    kaizo_d: [-48, -72]
-    map_n: [-84, 156]
-    map_d: [-36, 36]
-    ensyuf_n: [-48, 156]
-    ensyuf_d: [-24, -24]
-    ensyue_n: [-72, 0]
-    battle_n: [-36, 168]
-    battle_d: [12, 36]
-    wed_a: [432, 72]
-    wed_b: [156, 120]
-  wiki_id: 
-  chinese_name: 
+    boko_n: [101, 66]
+    boko_d: [30, 251]
+    kaisyu_n: [95, -20]
+    kaisyu_d: [79, 65]
+    kaizo_n: [95, -60]
+    kaizo_d: [5, 50]
+    map_n: [109, 28]
+    map_d: [36, 172]
+    ensyuf_n: [100, 12]
+    ensyuf_d: [35, 136]
+    ensyue_n: [106, 0]
+    battle_n: [139, 58]
+    battle_d: [50, 195]
+    wed_a: [198, 116]
+    wed_b: [171, 205]
+  wiki_id: "502"
+  chinese_name: 狭雾改二
   can_drop: false
   can_construct: false
 ---

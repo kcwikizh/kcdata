@@ -14,7 +14,7 @@ data:
   get_mes: <br>
   voice_f: 3
   filename: yswnykcgazhe
-  file_version: ["51", "1", "910"]
+  file_version: ["52", "2", "1014"]
   book_table_id: 
   book_sinfo: 
   stats:
@@ -38,21 +38,21 @@ data:
     pow_up: [1, 1, 2, 1]
     build_time: 14
   graph:
-    boko_n: [180, 70]
-    boko_d: [-37, 211]
+    boko_n: [130, 201]
+    boko_d: [27, 339]
     kaisyu_n: [116, -19]
     kaisyu_d: [11, 77]
-    kaizo_n: [183, -44]
-    kaizo_d: [-47, 61]
-    map_n: [208, 18]
-    map_d: [-24, 154]
-    ensyuf_n: [206, 18]
-    ensyuf_d: [-24, 139]
-    ensyue_n: [207, 0]
-    battle_n: [242, 50]
-    battle_d: [10, 187]
-    wed_a: [142, 101]
-    wed_b: [102, 216]
+    kaizo_n: [145, 86]
+    kaizo_d: [58, 111]
+    map_n: [168, 167]
+    map_d: [90, 236]
+    ensyuf_n: [170, 158]
+    ensyuf_d: [101, 176]
+    ensyue_n: [155, 0]
+    battle_n: [199, 188]
+    battle_d: [111, 230]
+    wed_a: [186, -16]
+    wed_b: [93, 208]
   wiki_id: "593a"
   chinese_name: 㭴改
   can_drop: false
